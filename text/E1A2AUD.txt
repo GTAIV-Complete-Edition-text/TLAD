@@ -1,0 +1,1888 @@
+﻿[E1A2AUD]
+;0x001C80B4=E1A2_GD
+0x001C80B4=E1A2_GD
+
+;0x00382E74=~z~If I close my eyes they can't see me, if I close my eyes they can't see me.
+0x00382E74=~z~If I close my eyes they can't see me, if I close my eyes they can't see me.
+
+;0x003B0CB9=~z~That's good, Malc. Real good.
+0x003B0CB9=~z~That's good, Malc. Real good.
+
+;0x00577B2A=~z~It come with a fortune cookie?
+0x00577B2A=~z~It come with a fortune cookie?
+
+;0x0115972B=E1A2_A_JA
+0x0115972B=E1A2_A_JA
+
+;0x016C7402=SFX_PAUSE_170
+0x016C7402=SFX_PAUSE_170
+
+;0x019A14A5=~z~You want to die, fat man?
+0x019A14A5=~z~You want to die, fat man?
+
+;0x019FAD58=~z~Uhh, aight. I'm up on Y in Northwood. See you in a minute.
+0x019FAD58=~z~Uhh, aight. I'm up on Y in Northwood. See you in a minute.
+
+;0x02325BAC=~z~A quick kidnapping's a good kidnapping. Come on.
+0x02325BAC=~z~A quick kidnapping's a good kidnapping. Come on.
+
+;0x02352A57=~z~~s~
+0x02352A57=~z~~s~
+
+;0x025A4F21=~z~Lord, I am sorry for shitting myself.
+0x025A4F21=~z~Lord, I am sorry for shitting myself.
+
+;0x028CA3B5=E1A2_JE
+0x028CA3B5=E1A2_JE
+
+;0x03A7D8B5=~z~How the fuck we meant to snatch a man-up when we ain't got nothing to put him in?
+0x03A7D8B5=~z~How the fuck we meant to snatch a man-up when we ain't got nothing to put him in?
+
+;0x04266485=100090010090100090100
+0x04266485=100090010090100090100
+
+;0x04CB840A=~z~We need four wheels, I got that.
+0x04CB840A=~z~We need four wheels, I got that.
+
+;0x05A1C5AF=090090290090010090010090290120090290
+0x05A1C5AF=090090290090010090010090290120090290
+
+;0x05A6EBCA=~z~Much as I like rolling with an escort, we really got to lose these fucking oinkers.
+0x05A6EBCA=~z~Much as I like rolling with an escort, we really got to lose these fucking oinkers.
+
+;0x0658EA81=E1A2_A_DA
+0x0658EA81=E1A2_A_DA
+
+;0x0672FEFC=~z~Listen, buddy. Ashley is square with you now.
+0x0672FEFC=~z~Listen, buddy. Ashley is square with you now.
+
+;0x071EDF72=~z~Watch and fuckin' learn.
+0x071EDF72=~z~Watch and fuckin' learn.
+
+;0x0794A265=~z~Is that a fact? I'll bare that in mind, Malc.
+0x0794A265=~z~Is that a fact? I'll bare that in mind, Malc.
+
+;0x07F13D42=~z~If only I was fitter.
+0x07F13D42=~z~If only I was fitter.
+
+;0x0805C5FB=SFX_PAUSE_300
+0x0805C5FB=SFX_PAUSE_300
+
+;0x09553BE6=SFX_OVERLAP_3770
+0x09553BE6=SFX_OVERLAP_3770
+
+;0x097FAEDD=SFX_PAUSE_240
+0x097FAEDD=SFX_PAUSE_240
+
+;0x0991853D=~z~Not such a tough guy, eh?
+0x0991853D=~z~Not such a tough guy, eh?
+
+;0x0A238928=E1A2_RC
+0x0A238928=E1A2_RC
+
+;0x0AA505C6=E1A2_DB
+0x0AA505C6=E1A2_DB
+
+;0x0AC9EA86=E1A2_QF
+0x0AC9EA86=E1A2_QF
+
+;0x0AFFB224=~z~I know I am, Johnny. And you know what's the best thing about me? You. Call me, okay?
+0x0AFFB224=~z~I know I am, Johnny. And you know what's the best thing about me? You. Call me, okay?
+
+;0x0B22E77A=~z~Watch and learn my friend.
+0x0B22E77A=~z~Watch and learn my friend.
+
+;0x0BA27F02=E1A2_KF
+0x0BA27F02=E1A2_KF
+
+;0x0BC1A724=~z~Now, run along.
+0x0BC1A724=~z~Now, run along.
+
+;0x0C0D08F0=~z~Lord, I am sorry for all the women I've chased,
+0x0C0D08F0=~z~Lord, I am sorry for all the women I've chased,
+
+;0x0C6D1AAF=SFX_PAUSE_150
+0x0C6D1AAF=SFX_PAUSE_150
+
+;0x0C8E44A3=E1A2_A_FA
+0x0C8E44A3=E1A2_A_FA
+
+;0x0CA59560=E1A2_A_OC
+0x0CA59560=E1A2_A_OC
+
+;0x0CEC79F0=E1A2_GB
+0x0CEC79F0=E1A2_GB
+
+;0x0D394C8A=E1A2_A_JB
+0x0D394C8A=E1A2_A_JB
+
+;0x0D717026=SFX_PAUSE_100
+0x0D717026=SFX_PAUSE_100
+
+;0x0DB7B45F=~z~Pull yourself together man.
+0x0DB7B45F=~z~Pull yourself together man.
+
+;0x0E08AAAB=100090010090010
+0x0E08AAAB=100090010090010
+
+;0x0E3516DF=SFX_PAUSE_150
+0x0E3516DF=SFX_PAUSE_150
+
+;0x0E5ECAC1=~z~I think I'm having a heart attack. I feel numb. Oh God, oh God.
+0x0E5ECAC1=~z~I think I'm having a heart attack. I feel numb. Oh God, oh God.
+
+;0x0E6D5AD3=~z~Damn, Johnny. I thought you cared about me. You can't leave me like this. Johnny...
+0x0E6D5AD3=~z~Damn, Johnny. I thought you cared about me. You can't leave me like this. Johnny...
+
+;0x0E9AA7A3=~z~We're on the clock here.
+0x0E9AA7A3=~z~We're on the clock here.
+
+;0x0EA63702=E1A2_EC
+0x0EA63702=E1A2_EC
+
+;0x0EEAAB0D=E1A2_QA
+0x0EEAAB0D=E1A2_QA
+
+;0x11851E3F=SFX_PAUSE_150
+0x11851E3F=SFX_PAUSE_150
+
+;0x1235DE80=~z~I don't know, I ain't hearing shit.
+0x1235DE80=~z~I don't know, I ain't hearing shit.
+
+;0x12745C31=E1A2_WA
+0x12745C31=E1A2_WA
+
+;0x1278EDEB=~z~Sure, sure she ain't. Thats why you running all over town trying to snatch a fool up, huh? Please.
+0x1278EDEB=~z~Sure, sure she ain't. Thats why you running all over town trying to snatch a fool up, huh? Please.
+
+;0x13412028=E1A2_LA
+0x13412028=E1A2_LA
+
+;0x13EDFF23=~z~We ain't got all day.
+0x13EDFF23=~z~We ain't got all day.
+
+;0x141DD91A=SFX_PAUSE_270
+0x141DD91A=SFX_PAUSE_270
+
+;0x1425358B=E1A2_LF
+0x1425358B=E1A2_LF
+
+;0x1453BECA=~z~You have got yourselves the best Limo driver in the whole of Liberty City.
+0x1453BECA=~z~You have got yourselves the best Limo driver in the whole of Liberty City.
+
+;0x1456CD80=~z~We got two college coeds over here and,
+0x1456CD80=~z~We got two college coeds over here and,
+
+;0x14D374D5=E1A2_VA
+0x14D374D5=E1A2_VA
+
+;0x14FDA37D=~z~Don't try nothing, chubby. It ain't like you're a difficult target to hit.
+0x14FDA37D=~z~Don't try nothing, chubby. It ain't like you're a difficult target to hit.
+
+;0x162C3999=~z~~s~
+0x162C3999=~z~~s~
+
+;0x1631FAA2=SFX_PAUSE_090
+0x1631FAA2=SFX_PAUSE_090
+
+;0x1646A34A=SFX_PAUSE_270
+0x1646A34A=SFX_PAUSE_270
+
+;0x167EF26B=SFX_PAUSE_170
+0x167EF26B=SFX_PAUSE_170
+
+;0x175648D4=E1A2_TD
+0x175648D4=E1A2_TD
+
+;0x17869744=SFX_PAUSE_230
+0x17869744=SFX_PAUSE_230
+
+;0x17BA218E=~z~So do me a favor, go easy on the fat man.
+0x17BA218E=~z~So do me a favor, go easy on the fat man.
+
+;0x17E0C05D=E1A2_QC
+0x17E0C05D=E1A2_QC
+
+;0x17E5642F=~z~Man, I just jacked that car?
+0x17E5642F=~z~Man, I just jacked that car?
+
+;0x19380A5A=SFX_OVERLAP_3610
+0x19380A5A=SFX_OVERLAP_3610
+
+;0x19E384FF=~z~Now you sure you know how?
+0x19E384FF=~z~Now you sure you know how?
+
+;0x1A902E75=E1A2_TH
+0x1A902E75=E1A2_TH
+
+;0x1B1B3B31=~z~I'll fucking kill you if you run again, fatty.
+0x1B1B3B31=~z~I'll fucking kill you if you run again, fatty.
+
+;0x1B92D38B=~z~Oh lord, please help me.
+0x1B92D38B=~z~Oh lord, please help me.
+
+;0x1BDF1842=~z~Shit's hot, Johnny. Get these motherfuckers off us.
+0x1BDF1842=~z~Shit's hot, Johnny. Get these motherfuckers off us.
+
+;0x1BEE1301=~z~We doing this for your girl, so you do the running.
+0x1BEE1301=~z~We doing this for your girl, so you do the running.
+
+;0x1C4446CC=SFX_PAUSE_370
+0x1C4446CC=SFX_PAUSE_370
+
+;0x1C6C51C8=~z~~s~
+0x1C6C51C8=~z~~s~
+
+;0x1C93E72B=~z~Head for the hills, Roman. Come on!
+0x1C93E72B=~z~Head for the hills, Roman. Come on!
+
+;0x1C961DA1=~z~We ain't kidnapping nobody because of my mamma, Johnny. It's your lady friend getting us to do this. Think on that, son.
+0x1C961DA1=~z~We ain't kidnapping nobody because of my mamma, Johnny. It's your lady friend getting us to do this. Think on that, son.
+
+;0x1DD64622=E1A2_EA
+0x1DD64622=E1A2_EA
+
+;0x1EA606A9=E1A2_IB
+0x1EA606A9=E1A2_IB
+
+;0x1EBF0500=290090290090290090290090290090200090120090020090290
+0x1EBF0500=290090290090290090290090290090200090120090020090290
+
+;0x1EE0185C=~z~You're wanted in Bohan, fatty.
+0x1EE0185C=~z~You're wanted in Bohan, fatty.
+
+;0x1F05B2CD=~z~How did a fat motherfucker like that get away from two young fit dudes like us?
+0x1F05B2CD=~z~How did a fat motherfucker like that get away from two young fit dudes like us?
+
+;0x1F33BD6C=SFX_PAUSE_230
+0x1F33BD6C=SFX_PAUSE_230
+
+;0x1F4C0FFD=~z~Yeah you're right man, we ain't snatching that guy today.
+0x1F4C0FFD=~z~Yeah you're right man, we ain't snatching that guy today.
+
+;0x1FE7FE1F=~z~Of course we've got a plan.
+0x1FE7FE1F=~z~Of course we've got a plan.
+
+;0x2045F86D=~z~Ahhhh. Help me. Someone. I'm too young to die. Please.
+0x2045F86D=~z~Ahhhh. Help me. Someone. I'm too young to die. Please.
+
+;0x2091EDB3=E1A2_CB
+0x2091EDB3=E1A2_CB
+
+;0x21530777=E1A2_ID
+0x21530777=E1A2_ID
+
+;0x217B7D0B=~z~I think he's trying to say something, Malc.
+0x217B7D0B=~z~I think he's trying to say something, Malc.
+
+;0x21DF5EB3=010090290100090290
+0x21DF5EB3=010090290100090290
+
+;0x22A31F58=020
+0x22A31F58=020
+
+;0x22E52C53=SFX_PAUSE_090
+0x22E52C53=SFX_PAUSE_090
+
+;0x235AAF35=~z~Okay, now all we got to do is wait for this guy to come out of there.
+0x235AAF35=~z~Okay, now all we got to do is wait for this guy to come out of there.
+
+;0x23600890=E1A2_A_GA
+0x23600890=E1A2_A_GA
+
+;0x238B5457=~z~Man, can you smell that?
+0x238B5457=~z~Man, can you smell that?
+
+;0x244672A5=~z~in debt to some Russians. You down? I'll pay.
+0x244672A5=~z~in debt to some Russians. You down? I'll pay.
+
+;0x249CD4C7=~z~I knew you were a fucking racist. I fucking knew it. Stop the car.
+0x249CD4C7=~z~I knew you were a fucking racist. I fucking knew it. Stop the car.
+
+;0x25739557=~z~You should apologize for that smell. You shat yourself or something?
+0x25739557=~z~You should apologize for that smell. You shat yourself or something?
+
+;0x25780238=~z~Did you mean to insult us, Mr. Roman Bellic? I sure hope not.
+0x25780238=~z~Did you mean to insult us, Mr. Roman Bellic? I sure hope not.
+
+;0x2589E5F1=~z~We're just meant to kidnap you.
+0x2589E5F1=~z~We're just meant to kidnap you.
+
+;0x266E43FD=SFX_OVERLAP_5250
+0x266E43FD=SFX_OVERLAP_5250
+
+;0x268B27B2=~z~We gotta take the fat man to a warehouse in Bohan.
+0x268B27B2=~z~We gotta take the fat man to a warehouse in Bohan.
+
+;0x270DE133=E1A2_TE
+0x270DE133=E1A2_TE
+
+;0x2741FCFD=E1A2_TF
+0x2741FCFD=E1A2_TF
+
+;0x288774BA=E1A2_A_IA
+0x288774BA=E1A2_A_IA
+
+;0x288AC1EB=~z~Fucking you up the ass with a barb wire dick would be a pleasure for this man.
+0x288AC1EB=~z~Fucking you up the ass with a barb wire dick would be a pleasure for this man.
+
+;0x292A1616=~z~Yeah, that's what I said. Maybe Italian or Rome or some shit.
+0x292A1616=~z~Yeah, that's what I said. Maybe Italian or Rome or some shit.
+
+;0x29750CF7=~z~I got a leash on him now, don't worry 'bout a thing.
+0x29750CF7=~z~I got a leash on him now, don't worry 'bout a thing.
+
+;0x297C57DB=~z~You pull a stunt like that again, and it's over for you, bacon ass.
+0x297C57DB=~z~You pull a stunt like that again, and it's over for you, bacon ass.
+
+;0x2980002F=E1A2_WE
+0x2980002F=E1A2_WE
+
+;0x2B4A48AE=~z~He's scared enough.
+0x2B4A48AE=~z~He's scared enough.
+
+;0x2B9CA871=~z~Alright man, but I'm driving the cage.
+0x2B9CA871=~z~Alright man, but I'm driving the cage.
+
+;0x2BC089A5=SFX_OVERLAP_5200
+0x2BC089A5=SFX_OVERLAP_5200
+
+;0x2C216B7E=~z~Most Europeans are gay, man. That's why they wear them tight-ass jeans.
+0x2C216B7E=~z~Most Europeans are gay, man. That's why they wear them tight-ass jeans.
+
+;0x2CEED6A3=E1A2_FB
+0x2CEED6A3=E1A2_FB
+
+;0x2D6301ED=SFX_PAUSE_440
+0x2D6301ED=SFX_PAUSE_440
+
+;0x2D8C73DD=~z~Aight just this year, man, we ain't got time for all that shit.
+0x2D8C73DD=~z~Aight just this year, man, we ain't got time for all that shit.
+
+;0x2DB10934=E1A2_SB
+0x2DB10934=E1A2_SB
+
+;0x2E0D4FB6=SFX_PAUSE_120
+0x2E0D4FB6=SFX_PAUSE_120
+
+;0x2F4703F4=SFX_PAUSE_150
+0x2F4703F4=SFX_PAUSE_150
+
+;0x2F511003=SFX_PAUSE_240
+0x2F511003=SFX_PAUSE_240
+
+;0x2F6608B3=~z~What's the matter, sugar?
+0x2F6608B3=~z~What's the matter, sugar?
+
+;0x2FCA9D7D=~z~Hey there, babe. Something went wrong. This job isn't happening. Stay safe.
+0x2FCA9D7D=~z~Hey there, babe. Something went wrong. This job isn't happening. Stay safe.
+
+;0x2FE6910A=120
+0x2FE6910A=120
+
+;0x308D773D=~z~I'll take you through the bright lights of Star Junction, past the glamorous shops of Middle Park West,
+0x308D773D=~z~I'll take you through the bright lights of Star Junction, past the glamorous shops of Middle Park West,
+
+;0x30F377CE=SFX_PAUSE_380
+0x30F377CE=SFX_PAUSE_380
+
+;0x3117FE49=E1A2_EB
+0x3117FE49=E1A2_EB
+
+;0x316F7CD7=100
+0x316F7CD7=100
+
+;0x31994BB2=~z~I'm hoping he ain't too good at poker. Hell, if we're here because of his debts, he can't exactly be the Buffet Car.
+0x31994BB2=~z~I'm hoping he ain't too good at poker. Hell, if we're here because of his debts, he can't exactly be the Buffet Car.
+
+;0x32A8C148=E1A2_KA
+0x32A8C148=E1A2_KA
+
+;0x32F61AF0=E1A2_WD
+0x32F61AF0=E1A2_WD
+
+;0x336390A2=~z~What'd you do?
+0x336390A2=~z~What'd you do?
+
+;0x3591A304=~z~Shut the fuck up, you fat prick.
+0x3591A304=~z~Shut the fuck up, you fat prick.
+
+;0x35D595CE=E1A2_UD
+0x35D595CE=E1A2_UD
+
+;0x36796DB7=E1A2_A_OA
+0x36796DB7=E1A2_A_OA
+
+;0x3681A327=SFX_PAUSE_300
+0x3681A327=SFX_PAUSE_300
+
+;0x36ED92B5=~z~Is Roman Bellic there?
+0x36ED92B5=~z~Is Roman Bellic there?
+
+;0x36FDC539=E1A2_QE
+0x36FDC539=E1A2_QE
+
+;0x3749F376=~z~Do that again and you're a dead man. A fat dead man.
+0x3749F376=~z~Do that again and you're a dead man. A fat dead man.
+
+;0x38E275E9=010
+0x38E275E9=010
+
+;0x38EB96A9=~z~I think he's on a hot date or something. What is it you need from him?
+0x38EB96A9=~z~I think he's on a hot date or something. What is it you need from him?
+
+;0x3964E81C=~z~Hit the road, fat man. I'm not in the kidnapping mood right now.
+0x3964E81C=~z~Hit the road, fat man. I'm not in the kidnapping mood right now.
+
+;0x3A0EEFAE=E1A2_TI
+0x3A0EEFAE=E1A2_TI
+
+;0x3A43ABE3=~z~Can't you see I'm trying to drive here? You fucking pop him.
+0x3A43ABE3=~z~Can't you see I'm trying to drive here? You fucking pop him.
+
+;0x3AB737CF=E1A2_IC
+0x3AB737CF=E1A2_IC
+
+;0x3B57E8C9=~z~What is all this fuss about his cousin?
+0x3B57E8C9=~z~What is all this fuss about his cousin?
+
+;0x3BACB5A8=~z~So, we got a plan, Johnny boy?
+0x3BACB5A8=~z~So, we got a plan, Johnny boy?
+
+;0x3BB5EC67=E1A2_DD
+0x3BB5EC67=E1A2_DD
+
+;0x3BFEC27A=SFX_PAUSE_080
+0x3BFEC27A=SFX_PAUSE_080
+
+;0x3C757C4C=E1A2_LI
+0x3C757C4C=E1A2_LI
+
+;0x3D2C243F=~z~You're here. You're here. Oh man... Johnny...
+0x3D2C243F=~z~You're here. You're here. Oh man... Johnny...
+
+;0x3DEFC170=SFX_PAUSE_240
+0x3DEFC170=SFX_PAUSE_240
+
+;0x3E9085E4=~z~Who is this guy? Why you want him snatched?
+0x3E9085E4=~z~Who is this guy? Why you want him snatched?
+
+;0x3F575431=E1A2_A_KC
+0x3F575431=E1A2_A_KC
+
+;0x3F71942E=SFX_OVERLAP_3610
+0x3F71942E=SFX_OVERLAP_3610
+
+;0x4022BEE6=SFX_PAUSE_300
+0x4022BEE6=SFX_PAUSE_300
+
+;0x40569BCD=E1A2_LD
+0x40569BCD=E1A2_LD
+
+;0x4087E5A1=290
+0x4087E5A1=290
+
+;0x40E7C606=E1A2_HA
+0x40E7C606=E1A2_HA
+
+;0x411BB346=E1A2_CD
+0x411BB346=E1A2_CD
+
+;0x41A8AD2C=~z~Oh, Johnny. I fucked up. I fucked up real bad.
+0x41A8AD2C=~z~Oh, Johnny. I fucked up. I fucked up real bad.
+
+;0x428085B9=E1A2_B_BA
+0x428085B9=E1A2_B_BA
+
+;0x4299ABCA=E1A2_UB
+0x4299ABCA=E1A2_UB
+
+;0x42AB37EA=E1A2_WC
+0x42AB37EA=E1A2_WC
+
+;0x42D7101B=~z~I hope this motherfucker hurries up and loses his money so we can snatch him.
+0x42D7101B=~z~I hope this motherfucker hurries up and loses his money so we can snatch him.
+
+;0x43ECA528=SFX_PAUSE_030
+0x43ECA528=SFX_PAUSE_030
+
+;0x44AEA44A=~z~Yeah this has got to be kind of awkward, man. I'm going to slip off. Peace.
+0x44AEA44A=~z~Yeah this has got to be kind of awkward, man. I'm going to slip off. Peace.
+
+;0x45BAB140=~z~Yeah.
+0x45BAB140=~z~Yeah.
+
+;0x46280149=~z~Yeah this has got to be kind of awkward, man. I'm going to slip off. Peace.
+0x46280149=~z~Yeah this has got to be kind of awkward, man. I'm going to slip off. Peace.
+
+;0x474F7F88=E1A2_FC
+0x474F7F88=E1A2_FC
+
+;0x48327F0E=E1A2_FD
+0x48327F0E=E1A2_FD
+
+;0x485A0DD1=E1A2_B_GA
+0x485A0DD1=E1A2_B_GA
+
+;0x486629FB=SFX_PAUSE_290
+0x486629FB=SFX_PAUSE_290
+
+;0x48DBB95D=SFX_PAUSE_130
+0x48DBB95D=SFX_PAUSE_130
+
+;0x48DE5C2C=~z~Oh Lord, I apologise for sleeping with those twins.
+0x48DE5C2C=~z~Oh Lord, I apologise for sleeping with those twins.
+
+;0x49846A63=~z~Sooner you get over there the sooner this will all be over with.
+0x49846A63=~z~Sooner you get over there the sooner this will all be over with.
+
+;0x49A2664A=E1A2_QG
+0x49A2664A=E1A2_QG
+
+;0x49A89D3A=E1A2_B_CA
+0x49A89D3A=E1A2_B_CA
+
+;0x49E84773=SFX_PAUSE_110
+0x49E84773=SFX_PAUSE_110
+
+;0x4AF82924=~z~Fuck!
+0x4AF82924=~z~Fuck!
+
+;0x4B590EE6=E1A2_TG
+0x4B590EE6=E1A2_TG
+
+;0x4BFFEBE5=SFX_PAUSE_160
+0x4BFFEBE5=SFX_PAUSE_160
+
+;0x4C113E70=E1A2_KD
+0x4C113E70=E1A2_KD
+
+;0x4C31D48E=SFX_PAUSE_090
+0x4C31D48E=SFX_PAUSE_090
+
+;0x4C758DAC=~z~Well, uh, that kidnapping - didn't go too well, did it?
+0x4C758DAC=~z~Well, uh, that kidnapping - didn't go too well, did it?
+
+;0x4C8DA7AC=SFX_PAUSE_170
+0x4C8DA7AC=SFX_PAUSE_170
+
+;0x4D0B0B9E=E1A2_RA
+0x4D0B0B9E=E1A2_RA
+
+;0x4D10B05E=E1A2_EG
+0x4D10B05E=E1A2_EG
+
+;0x4D6BB73C=~z~Hey now listen, I do mean motherfucker in the most literal sense. Serious incest motherfucker.
+0x4D6BB73C=~z~Hey now listen, I do mean motherfucker in the most literal sense. Serious incest motherfucker.
+
+;0x4D9DC00D=~z~Ummm.... ahhhh... I... Mr. Bellic is very busy man. An important and busy man.
+0x4D9DC00D=~z~Ummm.... ahhhh... I... Mr. Bellic is very busy man. An important and busy man.
+
+;0x4DF89663=~z~Rusty oil dripping American junk.
+0x4DF89663=~z~Rusty oil dripping American junk.
+
+;0x4E2C2BCF=SFX_PAUSE_080
+0x4E2C2BCF=SFX_PAUSE_080
+
+;0x4E5A1908=E1A2_A_LB
+0x4E5A1908=E1A2_A_LB
+
+;0x4E6380D5=SFX_PAUSE_160
+0x4E6380D5=SFX_PAUSE_160
+
+;0x4ECED7AA=~z~He ain't gonna make a play like that again. Believe that.
+0x4ECED7AA=~z~He ain't gonna make a play like that again. Believe that.
+
+;0x4EE0A94E=~z~The Lost aren't like those Deadbeats. Take a look at my brothers, man.
+0x4EE0A94E=~z~The Lost aren't like those Deadbeats. Take a look at my brothers, man.
+
+;0x4FEFF144=~z~If he only knew how close he came though. Thanks, Malc.
+0x4FEFF144=~z~If he only knew how close he came though. Thanks, Malc.
+
+;0x510CE068=~z~Sounds simple as shit.
+0x510CE068=~z~Sounds simple as shit.
+
+;0x5127FCEB=~z~How do you like Bohan, Mr. Bellic? Some pals are waiting for you there.
+0x5127FCEB=~z~How do you like Bohan, Mr. Bellic? Some pals are waiting for you there.
+
+;0x51527FA5=190090010090100090010
+0x51527FA5=190090010090100090010
+
+;0x520E1E24=E1A2_A_LA
+0x520E1E24=E1A2_A_LA
+
+;0x521DDCA5=E1A2_SD
+0x521DDCA5=E1A2_SD
+
+;0x528ABFF2=~z~From the smell, it ain't just piss. I'm glad I ain't sitting back there with him.
+0x528ABFF2=~z~From the smell, it ain't just piss. I'm glad I ain't sitting back there with him.
+
+;0x52BCBE16=SFX_PAUSE_390
+0x52BCBE16=SFX_PAUSE_390
+
+;0x52D517C3=~z~I've seen some of those bodies you people dump in the Humboldt.
+0x52D517C3=~z~I've seen some of those bodies you people dump in the Humboldt.
+
+;0x52F8C0DC=100090010090100
+0x52F8C0DC=100090010090100
+
+;0x536BEDE0=SFX_PAUSE_140
+0x536BEDE0=SFX_PAUSE_140
+
+;0x5496525A=E1A2_YC
+0x5496525A=E1A2_YC
+
+;0x55401E89=SFX_PAUSE_330
+0x55401E89=SFX_PAUSE_330
+
+;0x558B5F59=SFX_PAUSE_180
+0x558B5F59=SFX_PAUSE_180
+
+;0x55B62B0E=010090010090100090010
+0x55B62B0E=010090010090100090010
+
+;0x55D50F87=~z~Squeeze your fat ass in there.
+0x55D50F87=~z~Squeeze your fat ass in there.
+
+;0x5615848A=~z~Oh shit, Johnny. Shit. What happened? I thought you were looking out for me.
+0x5615848A=~z~Oh shit, Johnny. Shit. What happened? I thought you were looking out for me.
+
+;0x56C7F335=E1A2_A_QA
+0x56C7F335=E1A2_A_QA
+
+;0x56F4C427=~z~Ladies, ladies, ladies.
+0x56F4C427=~z~Ladies, ladies, ladies.
+
+;0x56FF53FE=~z~Hell no, I don't wanna get my hands all dirty and shit. Get gravy all on my new manicured fingers.
+0x56FF53FE=~z~Hell no, I don't wanna get my hands all dirty and shit. Get gravy all on my new manicured fingers.
+
+;0x574AA69F=SFX_PAUSE_340
+0x574AA69F=SFX_PAUSE_340
+
+;0x5762C7B8=E1A2_TA
+0x5762C7B8=E1A2_TA
+
+;0x584A2611=E1A2_XC
+0x584A2611=E1A2_XC
+
+;0x584B8DEF=~z~Get back in the fucking car.
+0x584B8DEF=~z~Get back in the fucking car.
+
+;0x59132801=SFX_PAUSE_190
+0x59132801=SFX_PAUSE_190
+
+;0x5935A3EA=SFX_PAUSE_210
+0x5935A3EA=SFX_PAUSE_210
+
+;0x593CEA5A=~z~Yeah, shut the fuck up. Ya heard?
+0x593CEA5A=~z~Yeah, shut the fuck up. Ya heard?
+
+;0x5A39865A=E1A2_A_NA
+0x5A39865A=E1A2_A_NA
+
+;0x5A87FBB2=E1A2_GE
+0x5A87FBB2=E1A2_GE
+
+;0x5AF0ED3D=~z~Help! Help! Help! Help!
+0x5AF0ED3D=~z~Help! Help! Help! Help!
+
+;0x5B485B6A=~z~Hello, this is Bellic and Bellic Enterprises. What can I assist you with?
+0x5B485B6A=~z~Hello, this is Bellic and Bellic Enterprises. What can I assist you with?
+
+;0x5C857317=~z~Alright, man. I'll make sure it don't repeat itself.
+0x5C857317=~z~Alright, man. I'll make sure it don't repeat itself.
+
+;0x5CD86D94=SFX_OVERLAP_3120
+0x5CD86D94=SFX_OVERLAP_3120
+
+;0x5D0ABE39=SFX_PAUSE_190
+0x5D0ABE39=SFX_PAUSE_190
+
+;0x5DF1FFA4=E1A2_RD
+0x5DF1FFA4=E1A2_RD
+
+;0x602C57F4=290
+0x602C57F4=290
+
+;0x60C9BB50=~z~Get in the car, fat man. Your ass has just been snatched.
+0x60C9BB50=~z~Get in the car, fat man. Your ass has just been snatched.
+
+;0x60E1C872=E1A2_AA
+0x60E1C872=E1A2_AA
+
+;0x62D4D25E=E1A2_OA
+0x62D4D25E=E1A2_OA
+
+;0x63050A5F=~z~We let him go and he'll come back with a bag full of unmarked twenties, right?
+0x63050A5F=~z~We let him go and he'll come back with a bag full of unmarked twenties, right?
+
+;0x63AF084D=~z~Alright, you win. I know when to fold my hand.
+0x63AF084D=~z~Alright, you win. I know when to fold my hand.
+
+;0x63B75832=~z~It's easy. You grab him and deliver him to warehouse, off Lompoc in Bohan Industrial.
+0x63B75832=~z~It's easy. You grab him and deliver him to warehouse, off Lompoc in Bohan Industrial.
+
+;0x63E043B4=E1A2_ZE
+0x63E043B4=E1A2_ZE
+
+;0x64C30D53=~z~Greek's in the East of Europe.
+0x64C30D53=~z~Greek's in the East of Europe.
+
+;0x6559DDF2=~z~So, yeah this guy we're snatching isn't the only European-type dude I've come across recently.
+0x6559DDF2=~z~So, yeah this guy we're snatching isn't the only European-type dude I've come across recently.
+
+;0x655BAF33=~z~You know, Malc, I think you've got unresolved women issues.
+0x655BAF33=~z~You know, Malc, I think you've got unresolved women issues.
+
+;0x65824FD1=SFX_PAUSE_280
+0x65824FD1=SFX_PAUSE_280
+
+;0x65B57D0E=SFX_PAUSE_240
+0x65B57D0E=SFX_PAUSE_240
+
+;0x65D8F1B1=~z~No, no! Please!
+0x65D8F1B1=~z~No, no! Please!
+
+;0x66042960=~z~Get your ass back here.
+0x66042960=~z~Get your ass back here.
+
+;0x66239F27=~z~-No! Wait.~n~-Get in there and shut up!
+0x66239F27=~z~-No! Wait.~n~-Get in there and shut up!
+
+;0x663631FF=290090010290090100
+0x663631FF=290090010290090100
+
+;0x66935CCA=~z~And this'll pay off her debts?
+0x66935CCA=~z~And this'll pay off her debts?
+
+;0x669DA674=E1A2_WG
+0x669DA674=E1A2_WG
+
+;0x66C18033=E1A2_A_NC
+0x66C18033=E1A2_A_NC
+
+;0x672FAA59=~z~We'll try to contact Mr. Bellic and have him come as soon as possible.
+0x672FAA59=~z~We'll try to contact Mr. Bellic and have him come as soon as possible.
+
+;0x67963309=~z~Come on, piggly-wiggly. We need some grease or something?
+0x67963309=~z~Come on, piggly-wiggly. We need some grease or something?
+
+;0x67FFDE62=E1A2_QD
+0x67FFDE62=E1A2_QD
+
+;0x692536C2=~z~I don't know. Both maybe. Fuck it. Shut up for a second.
+0x692536C2=~z~I don't know. Both maybe. Fuck it. Shut up for a second.
+
+;0x69F1DE73=090
+0x69F1DE73=090
+
+;0x6A16093A=E1A2_JC
+0x6A16093A=E1A2_JC
+
+;0x6A34C34A=E1A2_XB
+0x6A34C34A=E1A2_XB
+
+;0x6A3F50D1=SFX_PAUSE_200
+0x6A3F50D1=SFX_PAUSE_200
+
+;0x6B0D5EDD=~z~I dunno. I'm doin' this as a favor for a friend.
+0x6B0D5EDD=~z~I dunno. I'm doin' this as a favor for a friend.
+
+;0x6B1DE37F=~z~~s~
+0x6B1DE37F=~z~~s~
+
+;0x6B287C1B=~z~I hope he knows that you and me are men of integrity, Malc.
+0x6B287C1B=~z~I hope he knows that you and me are men of integrity, Malc.
+
+;0x6B314EDF=E1A2_B_EA
+0x6B314EDF=E1A2_B_EA
+
+;0x6BB75107=SFX_PAUSE_300
+0x6BB75107=SFX_PAUSE_300
+
+;0x6CF5925D=SFX_PAUSE_120
+0x6CF5925D=SFX_PAUSE_120
+
+;0x6D20C996=SFX_PAUSE_190
+0x6D20C996=SFX_PAUSE_190
+
+;0x6E177B2F=SFX_OVERLAP_1500
+0x6E177B2F=SFX_OVERLAP_1500
+
+;0x6FAF5E3A=E1A2_KG
+0x6FAF5E3A=E1A2_KG
+
+;0x704073B4=~z~Ashley you gotta stop fucking things up...
+0x704073B4=~z~Ashley you gotta stop fucking things up...
+
+;0x704AF55C=SFX_PAUSE_200
+0x704AF55C=SFX_PAUSE_200
+
+;0x705306E4=E1A2_CE
+0x705306E4=E1A2_CE
+
+;0x70A01B1A=E1A2_KB
+0x70A01B1A=E1A2_KB
+
+;0x71DB9715=E1A2_CC
+0x71DB9715=E1A2_CC
+
+;0x7238A258=~z~Hey.
+0x7238A258=~z~Hey.
+
+;0x7260489D=~z~If it was a box of donuts you'd get your fat ass in there.
+0x7260489D=~z~If it was a box of donuts you'd get your fat ass in there.
+
+;0x727E7DC8=~z~Yeah, this biker dude is twisted as all hell, man. By the way how many guys you killed, son?
+0x727E7DC8=~z~Yeah, this biker dude is twisted as all hell, man. By the way how many guys you killed, son?
+
+;0x72A35FB8=~z~Anyway, we gonna go grab somebody.
+0x72A35FB8=~z~Anyway, we gonna go grab somebody.
+
+;0x72BBD3EC=E1A2_A_KA
+0x72BBD3EC=E1A2_A_KA
+
+;0x72D49CF0=~z~Jesus, help me! Somebody help me!
+0x72D49CF0=~z~Jesus, help me! Somebody help me!
+
+;0x73F632A8=E1A2_B_HA
+0x73F632A8=E1A2_B_HA
+
+;0x745C2706=~z~We snatch this guy, deliver him to some other guys, then we pat ourselves on the back for doing a great job.
+0x745C2706=~z~We snatch this guy, deliver him to some other guys, then we pat ourselves on the back for doing a great job.
+
+;0x749A33A4=~z~Malc, man, come on.
+0x749A33A4=~z~Malc, man, come on.
+
+;0x74F7C26E=~z~Hey babe.
+0x74F7C26E=~z~Hey babe.
+
+;0x750D5FBB=E1A2_FE
+0x750D5FBB=E1A2_FE
+
+;0x75549329=100090010090100
+0x75549329=100090010090100
+
+;0x758FA387=E1A2_A_EA
+0x758FA387=E1A2_A_EA
+
+;0x7629353A=~z~Shit. I know about brothers, but I know about bitches as well.
+0x7629353A=~z~Shit. I know about brothers, but I know about bitches as well.
+
+;0x772BC993=~z~You go get him, he ain't gonna be hard to catch.
+0x772BC993=~z~You go get him, he ain't gonna be hard to catch.
+
+;0x77C2A653=E1A2_JB
+0x77C2A653=E1A2_JB
+
+;0x77C3E52B=E1A2_ZD
+0x77C3E52B=E1A2_ZD
+
+;0x781C86ED=SFX_PAUSE_260
+0x781C86ED=SFX_PAUSE_260
+
+;0x78488865=E1A2_ED
+0x78488865=E1A2_ED
+
+;0x796C9CBF=~z~What the fuck did you do?
+0x796C9CBF=~z~What the fuck did you do?
+
+;0x7AA29588=010090290190090290090020090020090020290090190
+0x7AA29588=010090290190090290090020090020090020290090190
+
+;0x7B1ABA63=022
+0x7B1ABA63=022
+
+;0x7BA7F7E2=010
+0x7BA7F7E2=010
+
+;0x7BC7546B=E1A2_DF
+0x7BC7546B=E1A2_DF
+
+;0x7BD0203D=E1A2_KC
+0x7BD0203D=E1A2_KC
+
+;0x7C3A72E6=~z~Bitch please... your patriotism is making you ignorant.
+0x7C3A72E6=~z~Bitch please... your patriotism is making you ignorant.
+
+;0x7D5ACD89=~z~I can't get robbed twice in one day.
+0x7D5ACD89=~z~I can't get robbed twice in one day.
+
+;0x7E1BF050=SFX_OVERLAP_5560
+0x7E1BF050=SFX_OVERLAP_5560
+
+;0x7E630766=~z~Thank God I'm hanging out with another two-bit street philosopher.
+0x7E630766=~z~Thank God I'm hanging out with another two-bit street philosopher.
+
+;0x7EE19893=SFX_PAUSE_330
+0x7EE19893=SFX_PAUSE_330
+
+;0x7F65C320=~z~Yes. Yes. Exactly. Exactly.
+0x7F65C320=~z~Yes. Yes. Exactly. Exactly.
+
+;0x7FAAF559=SFX_OVERLAP_5040
+0x7FAAF559=SFX_OVERLAP_5040
+
+;0x7FD8642C=~z~Were you close to your mother growing up? Did she let you down?
+0x7FD8642C=~z~Were you close to your mother growing up? Did she let you down?
+
+;0x8035ADB1=E1A2_UA
+0x8035ADB1=E1A2_UA
+
+;0x804DC468=~z~Sounds like it's Eastern European or some shit.
+0x804DC468=~z~Sounds like it's Eastern European or some shit.
+
+;0x8057FB2D=~z~Nice rice rocket you got there.
+0x8057FB2D=~z~Nice rice rocket you got there.
+
+;0x80AF6E89=E1A2_B_FA
+0x80AF6E89=E1A2_B_FA
+
+;0x80BC4778=SFX_PAUSE_140
+0x80BC4778=SFX_PAUSE_140
+
+;0x80E11285=~z~You either do it, or junky gets killed.
+0x80E11285=~z~You either do it, or junky gets killed.
+
+;0x80FE9744=SFX_PAUSE_210
+0x80FE9744=SFX_PAUSE_210
+
+;0x81423C16=E1A2_JA
+0x81423C16=E1A2_JA
+
+;0x81C823BA=~z~There he is. Let's get him.
+0x81C823BA=~z~There he is. Let's get him.
+
+;0x81E2E030=E1A2_AD
+0x81E2E030=E1A2_AD
+
+;0x81FE56DC=~z~We're not robbing you, we're taking you.
+0x81FE56DC=~z~We're not robbing you, we're taking you.
+
+;0x8213C516=~z~I nearly had you, buddy. You got to admit that?
+0x8213C516=~z~I nearly had you, buddy. You got to admit that?
+
+;0x8281E25B=~z~Get back here!
+0x8281E25B=~z~Get back here!
+
+;0x82C91298=~z~I told you, I like this gun. I ain't getting no bodies on it. Not today.
+0x82C91298=~z~I told you, I like this gun. I ain't getting no bodies on it. Not today.
+
+;0x833F8608=SFX_PAUSE_190
+0x833F8608=SFX_PAUSE_190
+
+;0x83A606E8=~z~But shit, I like this gun.
+0x83A606E8=~z~But shit, I like this gun.
+
+;0x844080C4=E1A2_RB
+0x844080C4=E1A2_RB
+
+;0x8456F83A=SFX_PAUSE_080
+0x8456F83A=SFX_PAUSE_080
+
+;0x8492BFE3=E1A2_HC
+0x8492BFE3=E1A2_HC
+
+;0x84977B47=~z~Easy, Johnny... you saw the shit stains in the back seat.
+0x84977B47=~z~Easy, Johnny... you saw the shit stains in the back seat.
+
+;0x84EAC362=E1A2_XH
+0x84EAC362=E1A2_XH
+
+;0x84F03BE6=SFX_PAUSE_280
+0x84F03BE6=SFX_PAUSE_280
+
+;0x8552E5E1=~z~I ain't going after him.
+0x8552E5E1=~z~I ain't going after him.
+
+;0x856A34F3=~z~Dude, you busy? I got something and I don't need it getting round the clubhouse. I'll owe you, brother.
+0x856A34F3=~z~Dude, you busy? I got something and I don't need it getting round the clubhouse. I'll owe you, brother.
+
+;0x871E3822=~z~I'm an addict. I need help.
+0x871E3822=~z~I'm an addict. I need help.
+
+;0x88C48C06=~z~Told me I was gonna meet some 1950s lookin' motherfucker
+0x88C48C06=~z~Told me I was gonna meet some 1950s lookin' motherfucker
+
+;0x892D2219=~z~-The name of the man we want is Roman Bellic.~n~-Yeah.
+0x892D2219=~z~-The name of the man we want is Roman Bellic.~n~-Yeah.
+
+;0x8980CDEE=SFX_OVERLAP_3800
+0x8980CDEE=SFX_OVERLAP_3800
+
+;0x89A13545=E1A2_LE
+0x89A13545=E1A2_LE
+
+;0x89AE045D=020090200
+0x89AE045D=020090200
+
+;0x89E64B13=~z~Help! Help!
+0x89E64B13=~z~Help! Help!
+
+;0x89E6F6F7=E1A2_GC
+0x89E6F6F7=E1A2_GC
+
+;0x8AC0C5FD=E1A2_A_NB
+0x8AC0C5FD=E1A2_A_NB
+
+;0x8B0823A6=E1A2_DE
+0x8B0823A6=E1A2_DE
+
+;0x8BE4276B=~z~it pays off interest.
+0x8BE4276B=~z~it pays off interest.
+
+;0x8C6789F3=E1A2_XA
+0x8C6789F3=E1A2_XA
+
+;0x8D125141=E1A2_SC
+0x8D125141=E1A2_SC
+
+;0x8D7B5380=E1A2_HD
+0x8D7B5380=E1A2_HD
+
+;0x8DBBAD0B=E1A2_OC
+0x8DBBAD0B=E1A2_OC
+
+;0x8E705427=~z~Shit, Jay. Can you pop this motherfucker and shut him up?
+0x8E705427=~z~Shit, Jay. Can you pop this motherfucker and shut him up?
+
+;0x8EF92A37=~z~All the immigrants you meet seem to be from Russia.
+0x8EF92A37=~z~All the immigrants you meet seem to be from Russia.
+
+;0x8F2C4E49=E1A2_YB
+0x8F2C4E49=E1A2_YB
+
+;0x8F84F79E=010090010
+0x8F84F79E=010090010
+
+;0x90B320FC=E1A2_A_PA
+0x90B320FC=E1A2_A_PA
+
+;0x910B1249=E1A2_ZA
+0x910B1249=E1A2_ZA
+
+;0x913659B2=090
+0x913659B2=090
+
+;0x914115D2=SFX_PAUSE_110
+0x914115D2=SFX_PAUSE_110
+
+;0x918AED80=~z~and for laughing at Brucie's balls.
+0x918AED80=~z~and for laughing at Brucie's balls.
+
+;0x923F1546=~z~the money I have wasted, the internet porn.
+0x923F1546=~z~the money I have wasted, the internet porn.
+
+;0x92B55DCD=SFX_PAUSE_400
+0x92B55DCD=SFX_PAUSE_400
+
+;0x932DA0D8=~z~As a matter of fact it did.
+0x932DA0D8=~z~As a matter of fact it did.
+
+;0x9381C72D=~z~That's got to be him. Come on.
+0x9381C72D=~z~That's got to be him. Come on.
+
+;0x93965465=E1A2_KE
+0x93965465=E1A2_KE
+
+;0x93B17A42=~z~Somebody. Stop. Somebody! Help!
+0x93B17A42=~z~Somebody. Stop. Somebody! Help!
+
+;0x941148D4=010090100090010090100090010
+0x941148D4=010090100090010090100090010
+
+;0x9443314C=~z~It's complicated.
+0x9443314C=~z~It's complicated.
+
+;0x95A39BB4=E1A2_XG
+0x95A39BB4=E1A2_XG
+
+;0x95B03C2F=~z~-Your woman here owes Dimitri Rascalov a lot of money.~n~-Okay.
+0x95B03C2F=~z~-Your woman here owes Dimitri Rascalov a lot of money.~n~-Okay.
+
+;0x95FF55E4=~z~Why, what'd you do?
+0x95FF55E4=~z~Why, what'd you do?
+
+;0x96401355=E1A2_GA
+0x96401355=E1A2_GA
+
+;0x9667E9BA=E1A2_A_HA
+0x9667E9BA=E1A2_A_HA
+
+;0x96B67AF0=010090100090010090010090100090100090010
+0x96B67AF0=010090100090010090010090100090100090010
+
+;0x974FBE53=E1A2_A_KC
+0x974FBE53=E1A2_A_KC
+
+;0x97C2595F=290090020090190290090290
+0x97C2595F=290090020090190290090290
+
+;0x987F7F35=010
+0x987F7F35=010
+
+;0x98E784A2=~z~Aye, yo man. How you doin'?
+0x98E784A2=~z~Aye, yo man. How you doin'?
+
+;0x9946CEB8=~z~Baby?
+0x9946CEB8=~z~Baby?
+
+;0x9949FD03=~z~Yo, lighten up, Johnny boy. I'm just fucking with you son.
+0x9949FD03=~z~Yo, lighten up, Johnny boy. I'm just fucking with you son.
+
+;0x995E933B=~z~Shit dude, we got to get five-o off our ass.
+0x995E933B=~z~Shit dude, we got to get five-o off our ass.
+
+;0x99D6C350=~z~Well...
+0x99D6C350=~z~Well...
+
+;0x99FBA483=100090100090290010090290090100090100090290
+0x99FBA483=100090100090290010090290090100090100090290
+
+;0x9A67E0F4=SFX_PAUSE_200
+0x9A67E0F4=SFX_PAUSE_200
+
+;0x9A766E87=E1A2_WB
+0x9A766E87=E1A2_WB
+
+;0x9B522E87=SFX_OVERLAP_3820
+0x9B522E87=SFX_OVERLAP_3820
+
+;0x9C5BF8E6=~z~What happens to this shithead is none of your concern.
+0x9C5BF8E6=~z~What happens to this shithead is none of your concern.
+
+;0x9C9F1537=~z~Well, in that case I'll... I mean, ah...
+0x9C9F1537=~z~Well, in that case I'll... I mean, ah...
+
+;0x9D3F628D=100090090090290
+0x9D3F628D=100090090090290
+
+;0x9D982F25=E1A2_A_KA
+0x9D982F25=E1A2_A_KA
+
+;0x9E2A4D17=~z~Not difficult decision, even for a man stuck in 1960s time warp.
+0x9E2A4D17=~z~Not difficult decision, even for a man stuck in 1960s time warp.
+
+;0x9E594FEC=~z~Worked with this other guy, he could handle himself. Maybe this guy will be the same.
+0x9E594FEC=~z~Worked with this other guy, he could handle himself. Maybe this guy will be the same.
+
+;0x9E843259=~z~Thank you, sir. Thank you.
+0x9E843259=~z~Thank you, sir. Thank you.
+
+;0x9E8BEBC5=SFX_OVERLAP_3580
+0x9E8BEBC5=SFX_OVERLAP_3580
+
+;0x9E9D8C53=E1A2_VC
+0x9E9D8C53=E1A2_VC
+
+;0x9ED5FE9A=~z~Okay, I couldn't run any further if I wanted to.
+0x9ED5FE9A=~z~Okay, I couldn't run any further if I wanted to.
+
+;0x9F73F3CC=E1A2_SA
+0x9F73F3CC=E1A2_SA
+
+;0x9F7B7651=~z~Oh no, please.
+0x9F7B7651=~z~Oh no, please.
+
+;0x9FE04F7F=~z~Wonderful...
+0x9FE04F7F=~z~Wonderful...
+
+;0xA004D297=SFX_OVERLAP_1840
+0xA004D297=SFX_OVERLAP_1840
+
+;0xA0A8E1AB=100
+0xA0A8E1AB=100
+
+;0xA0EF9DC4=~z~they're in need of a Limo'. And I'm told this Bellic guy's the man for that kind of work.
+0xA0EF9DC4=~z~they're in need of a Limo'. And I'm told this Bellic guy's the man for that kind of work.
+
+;0xA13E1A22=~z~Where you off to, Johnny boy? We kind of in the middle of something right here, man.
+0xA13E1A22=~z~Where you off to, Johnny boy? We kind of in the middle of something right here, man.
+
+;0xA1443E74=E1A2_LH
+0xA1443E74=E1A2_LH
+
+;0xA221EA0D=~z~You mean, he's like trying to bribe us?
+0xA221EA0D=~z~You mean, he's like trying to bribe us?
+
+;0xA2820586=010090100090010090010090100
+0xA2820586=010090100090010090010090100
+
+;0xA340C03D=~z~Wait, where are the ladies? Who are you?
+0xA340C03D=~z~Wait, where are the ladies? Who are you?
+
+;0xA341DF4A=~z~It's been a good year, you know?
+0xA341DF4A=~z~It's been a good year, you know?
+
+;0xA3B9F159=~z~I messed up, baby... promise you won't be mad.
+0xA3B9F159=~z~I messed up, baby... promise you won't be mad.
+
+;0xA3E5D89A=~z~-My name is not important.~n~-What is this?
+0xA3E5D89A=~z~-My name is not important.~n~-What is this?
+
+;0xA40BE841=~z~Alright. I'm guessing that's him.
+0xA40BE841=~z~Alright. I'm guessing that's him.
+
+;0xA42FD38D=E1A2_AC
+0xA42FD38D=E1A2_AC
+
+;0xA498AE45=~z~Get in there, you fat fuck.
+0xA498AE45=~z~Get in there, you fat fuck.
+
+;0xA4A19226=~z~She ain't my old lady, alright?
+0xA4A19226=~z~She ain't my old lady, alright?
+
+;0xA64549E1=100090010090010090100090100090010090100
+0xA64549E1=100090010090010090100090100090010090100
+
+;0xA68E1170=~z~Okay. Okay. My cousin, he has money. He will pay you.
+0xA68E1170=~z~Okay. Okay. My cousin, he has money. He will pay you.
+
+;0xA71BCDD3=~z~Man, I just got me this nine. I don't wanna go puttin' no bodies on it already.
+0xA71BCDD3=~z~Man, I just got me this nine. I don't wanna go puttin' no bodies on it already.
+
+;0xA8C2C3F5=E1A2_PA
+0xA8C2C3F5=E1A2_PA
+
+;0xA8F6ECE1=~z~Nah. A living hostage is one of the prerequisites for a successful snatching, ain't it?
+0xA8F6ECE1=~z~Nah. A living hostage is one of the prerequisites for a successful snatching, ain't it?
+
+;0xA9398196=SFX_PAUSE_200
+0xA9398196=SFX_PAUSE_200
+
+;0xA9999174=~z~If you want Wingit Presentation before every job you do, you're running with the wrong crowd.
+0xA9999174=~z~If you want Wingit Presentation before every job you do, you're running with the wrong crowd.
+
+;0xA9C53553=SFX_PAUSE_180
+0xA9C53553=SFX_PAUSE_180
+
+;0xA9EDDE7B=~z~And this here job - smells like a bitch to me. It got bitch-stink all over it, son.
+0xA9EDDE7B=~z~And this here job - smells like a bitch to me. It got bitch-stink all over it, son.
+
+;0xAA23FC35=E1A2_UC
+0xAA23FC35=E1A2_UC
+
+;0xAA4A3C58=E1A2_B_AA
+0xAA4A3C58=E1A2_B_AA
+
+;0xAA9C66AF=~z~Come back here!
+0xAA9C66AF=~z~Come back here!
+
+;0xAB34A93C=~z~What do you want the shirt off my back? Come on.
+0xAB34A93C=~z~What do you want the shirt off my back? Come on.
+
+;0xAB6BE9DE=SFX_OVERLAP_3450
+0xAB6BE9DE=SFX_OVERLAP_3450
+
+;0xAC0A563C=E1A2_LB
+0xAC0A563C=E1A2_LB
+
+;0xAC991911=E1A2_A_RC
+0xAC991911=E1A2_A_RC
+
+;0xACACE59A=~z~Or in your case, guys coming from a 1950s time warp.
+0xACACE59A=~z~Or in your case, guys coming from a 1950s time warp.
+
+;0xACFF33A6=SFX_PAUSE_150
+0xACFF33A6=SFX_PAUSE_150
+
+;0xAD32A34C=~z~She's a friend and she's in trouble. I believe in looking out for people you've been close to.
+0xAD32A34C=~z~She's a friend and she's in trouble. I believe in looking out for people you've been close to.
+
+;0xAD685A00=E1A2_FA
+0xAD685A00=E1A2_FA
+
+;0xADA3EB06=~z~but hangs around some backroom gambling place on Dillon Street in Schottler.
+0xADA3EB06=~z~but hangs around some backroom gambling place on Dillon Street in Schottler.
+
+;0xAF2677E0=SFX_PAUSE_200
+0xAF2677E0=SFX_PAUSE_200
+
+;0xAF453169=~z~Your chips've been cashed, chubby.
+0xAF453169=~z~Your chips've been cashed, chubby.
+
+;0xAF9AEFF8=~z~Well, I'm not in the kidnapping business, dude.
+0xAF9AEFF8=~z~Well, I'm not in the kidnapping business, dude.
+
+;0xAFA5D13A=100090010090010090010090100
+0xAFA5D13A=100090010090010090010090100
+
+;0xAFB85683=SFX_PAUSE_110
+0xAFB85683=SFX_PAUSE_110
+
+;0xB0001165=SFX_OVERLAP_2530
+0xB0001165=SFX_OVERLAP_2530
+
+;0xB052FC4D=E1A2_IE
+0xB052FC4D=E1A2_IE
+
+;0xB06B86D1=~z~Just pop the fucker. And you can get the bullets outta him afterwards and no one's gonna trace that shit back to you.
+0xB06B86D1=~z~Just pop the fucker. And you can get the bullets outta him afterwards and no one's gonna trace that shit back to you.
+
+;0xB09C2BA6=~z~God damn.
+0xB09C2BA6=~z~God damn.
+
+;0xB1181650=E1A2_YD
+0xB1181650=E1A2_YD
+
+;0xB11FC77E=E1A2_IG
+0xB11FC77E=E1A2_IG
+
+;0xB150ACC9=SFX_PAUSE_120
+0xB150ACC9=SFX_PAUSE_120
+
+;0xB24418EE=~z~Yeah we just stole this guy, too. But I guess we gotta let him go. I'll be seeing the both of you.
+0xB24418EE=~z~Yeah we just stole this guy, too. But I guess we gotta let him go. I'll be seeing the both of you.
+
+;0xB2A5F0DB=~z~Why are all you bikers racist, just like the Angels of Death?
+0xB2A5F0DB=~z~Why are all you bikers racist, just like the Angels of Death?
+
+;0xB2B53A0B=SFX_PAUSE_170
+0xB2B53A0B=SFX_PAUSE_170
+
+;0xB2BABD0F=~z~Johnny, man, this job was your idea. What are you doing?
+0xB2BABD0F=~z~Johnny, man, this job was your idea. What are you doing?
+
+;0xB2F1679E=E1A2_PD
+0xB2F1679E=E1A2_PD
+
+;0xB318C2E0=~z~You know, this ain't the first grungy European I've met recently.
+0xB318C2E0=~z~You know, this ain't the first grungy European I've met recently.
+
+;0xB392BF83=~z~Ashley, you need to tell your Russian loan shark that the guy they're after is dead.
+0xB392BF83=~z~Ashley, you need to tell your Russian loan shark that the guy they're after is dead.
+
+;0xB3B4604F=SFX_PAUSE_120
+0xB3B4604F=SFX_PAUSE_120
+
+;0xB4268477=~z~Those Russians have got their guy. You got lucky, but you got to control yourself, Ashley.
+0xB4268477=~z~Those Russians have got their guy. You got lucky, but you got to control yourself, Ashley.
+
+;0xB42BC4A0=~z~We're lucky that the fat man can't run. Next time, lock the damn hostage up.
+0xB42BC4A0=~z~We're lucky that the fat man can't run. Next time, lock the damn hostage up.
+
+;0xB4420706=290090010090120090290100090100090290090290
+0xB4420706=290090010090120090290100090100090290090290
+
+;0xB46D6876=~z~ I'll be quiet, I promise.
+0xB46D6876=~z~ I'll be quiet, I promise.
+
+;0xB4D0FA70=~z~Who are you?
+0xB4D0FA70=~z~Who are you?
+
+;0xB4F64192=~z~Ummm, Johnny, my dude, we're going to do this or what? What the fuck is wrong with you?
+0xB4F64192=~z~Ummm, Johnny, my dude, we're going to do this or what? What the fuck is wrong with you?
+
+;0xB5F966BA=E1A2_XE
+0xB5F966BA=E1A2_XE
+
+;0xB6667872=SFX_PAUSE_290
+0xB6667872=SFX_PAUSE_290
+
+;0xB7836983=~z~who preferred rusty oil dripping junk to hi-tech precision machinery.
+0xB7836983=~z~who preferred rusty oil dripping junk to hi-tech precision machinery.
+
+;0xB7935C76=SFX_PAUSE_070
+0xB7935C76=SFX_PAUSE_070
+
+;0xB87B0268=~z~Get back in the car.
+0xB87B0268=~z~Get back in the car.
+
+;0xB8A70517=E1A2_B_DA
+0xB8A70517=E1A2_B_DA
+
+;0xB9404CB4=100090010090100090010090100
+0xB9404CB4=100090010090100090010090100
+
+;0xBA0CE01F=E1A2_B_FB
+0xBA0CE01F=E1A2_B_FB
+
+;0xBAEB6486=E1A2_LC
+0xBAEB6486=E1A2_LC
+
+;0xBB076D37=E1A2_A_PC
+0xBB076D37=E1A2_A_PC
+
+;0xBB28BCE0=E1A2_A_ND
+0xBB28BCE0=E1A2_A_ND
+
+;0xBB6941AA=SFX_PAUSE_140
+0xBB6941AA=SFX_PAUSE_140
+
+;0xBB8F73E6=SFX_PAUSE_200
+0xBB8F73E6=SFX_PAUSE_200
+
+;0xBBC75CA2=~z~Squeeze in, fatso.
+0xBBC75CA2=~z~Squeeze in, fatso.
+
+;0xBD36C056=100
+0xBD36C056=100
+
+;0xBD4F8B7D=~z~And I'm not in the dude business, dude.
+0xBD4F8B7D=~z~And I'm not in the dude business, dude.
+
+;0xBDFF16A1=~z~~s~
+0xBDFF16A1=~z~~s~
+
+;0xBE64BC85=E1A2_VD
+0xBE64BC85=E1A2_VD
+
+;0xBE7FECFB=SFX_PAUSE_190
+0xBE7FECFB=SFX_PAUSE_190
+
+;0xBEF47E88=E1A2_PC
+0xBEF47E88=E1A2_PC
+
+;0xBF5BF75C=100090010090010090100090010
+0xBF5BF75C=100090010090010090100090010
+
+;0xBF5C02B7=E1A2_PE
+0xBF5C02B7=E1A2_PE
+
+;0xBFA9296C=~z~I need to snatch some guy name of uhh, Roman Bellic. Runs a cab firm,
+0xBFA9296C=~z~I need to snatch some guy name of uhh, Roman Bellic. Runs a cab firm,
+
+;0xBFAF7262=E1A2_XD
+0xBFAF7262=E1A2_XD
+
+;0xBFE6B217=100090010090010090100
+0xBFE6B217=100090010090010090100
+
+;0xC08735DF=E1A2_HB
+0xC08735DF=E1A2_HB
+
+;0xC0FA1196=~z~He runs a cab business,
+0xC0FA1196=~z~He runs a cab business,
+
+;0xC113673A=~z~Get in, fat man.
+0xC113673A=~z~Get in, fat man.
+
+;0xC12F78E6=SFX_PAUSE_230
+0xC12F78E6=SFX_PAUSE_230
+
+;0xC1648E58=~z~We're more like equal opportunity haters - we hate assholes and fools, wherever they're from.
+0xC1648E58=~z~We're more like equal opportunity haters - we hate assholes and fools, wherever they're from.
+
+;0xC25E8202=E1A2_A_PB
+0xC25E8202=E1A2_A_PB
+
+;0xC2F0CA35=~z~Oh, I get it. I think the man's trying to give us some money.
+0xC2F0CA35=~z~Oh, I get it. I think the man's trying to give us some money.
+
+;0xC359D027=~z~Come on Roman, escape!
+0xC359D027=~z~Come on Roman, escape!
+
+;0xC40BB21B=SFX_PAUSE_220
+0xC40BB21B=SFX_PAUSE_220
+
+;0xC4EA883F=E1A2_A_OB
+0xC4EA883F=E1A2_A_OB
+
+;0xC4EEFE60=E1A2_ZC
+0xC4EEFE60=E1A2_ZC
+
+;0xC52F670D=~z~How come all the Slavs in this city wear shitty tracksuits, man?
+0xC52F670D=~z~How come all the Slavs in this city wear shitty tracksuits, man?
+
+;0xC5A16554=E1A2_NA
+0xC5A16554=E1A2_NA
+
+;0xC5C1A1C3=~z~you might end the tour with a look at the finest specimen of manhood in the entire metropolitan area.
+0xC5C1A1C3=~z~you might end the tour with a look at the finest specimen of manhood in the entire metropolitan area.
+
+;0xC601A8FE=E1A2_EF
+0xC601A8FE=E1A2_EF
+
+;0xC65BD44C=SFX_PAUSE_190
+0xC65BD44C=SFX_PAUSE_190
+
+;0xC6BA6047=~z~Please, gentlemen. The men in there just took my money.
+0xC6BA6047=~z~Please, gentlemen. The men in there just took my money.
+
+;0xC6BEF1F4=~z~She playing you? She in trouble?
+0xC6BEF1F4=~z~She playing you? She in trouble?
+
+;0xC6E509AB=100090010090100090010090100090100
+0xC6E509AB=100090010090100090010090100090100
+
+;0xC6ECA1BA=E1A2_QH
+0xC6ECA1BA=E1A2_QH
+
+;0xC7099A57=~z~What happened to the days when it was guys coming across from Mexico?
+0xC7099A57=~z~What happened to the days when it was guys coming across from Mexico?
+
+;0xC7D70E56=E1A2_A_TA
+0xC7D70E56=E1A2_A_TA
+
+;0xC81CA117=~z~-We need you to do us favor.~n~-What?
+0xC81CA117=~z~-We need you to do us favor.~n~-What?
+
+;0xC84BACFE=~z~Help me! Help me!
+0xC84BACFE=~z~Help me! Help me!
+
+;0xC9D32678=100090010090100
+0xC9D32678=100090010090100
+
+;0xCA65EB5F=E1A2_WF
+0xCA65EB5F=E1A2_WF
+
+;0xCAD0E809=290090100090100090290
+0xCAD0E809=290090100090100090290
+
+;0xCADC2EA1=~z~Shit.
+0xCADC2EA1=~z~Shit.
+
+;0xCBCCB23C=~z~Damn you better not be right. What's wrong with you, man? We was only joshing you. Tell him, Johnny.
+0xCBCCB23C=~z~Damn you better not be right. What's wrong with you, man? We was only joshing you. Tell him, Johnny.
+
+;0xCC23A108=~z~Oh, it's like that, is it, now? She like your girlfriend or something? Nah, nah, that's cool. I'm feeling that.
+0xCC23A108=~z~Oh, it's like that, is it, now? She like your girlfriend or something? Nah, nah, that's cool. I'm feeling that.
+
+;0xCCA230E1=290090100090200010090290
+0xCCA230E1=290090100090200010090290
+
+;0xCCA3432B=~z~You must be Johnny.
+0xCCA3432B=~z~You must be Johnny.
+
+;0xCCD7475B=SFX_PAUSE_320
+0xCCD7475B=SFX_PAUSE_320
+
+;0xCCE92B44=~z~Bellic, I wanted to kidnap you, now I might kill ya.
+0xCCE92B44=~z~Bellic, I wanted to kidnap you, now I might kill ya.
+
+;0xCD09B037=~z~and, if you're lucky,
+0xCD09B037=~z~and, if you're lucky,
+
+;0xCD68AAEB=E1A2_A_SA
+0xCD68AAEB=E1A2_A_SA
+
+;0xCD8F6496=~z~Run for it, Roman. Run!
+0xCD8F6496=~z~Run for it, Roman. Run!
+
+;0xCDC5B29F=~z~Shut your fat ass up.
+0xCDC5B29F=~z~Shut your fat ass up.
+
+;0xCE6A29D9=~z~And not this Rusty Brown's munching, quadruple Bleeder Burger eating motherfucker.
+0xCE6A29D9=~z~And not this Rusty Brown's munching, quadruple Bleeder Burger eating motherfucker.
+
+;0xCF6A9858=~z~Help me!
+0xCF6A9858=~z~Help me!
+
+;0xCFB7D3D5=~z~Thank you, gentlemen. Thank you.
+0xCFB7D3D5=~z~Thank you, gentlemen. Thank you.
+
+;0xD01B6A2E=E1A2_XF
+0xD01B6A2E=E1A2_XF
+
+;0xD0287102=~z~Oh, shit man. Hell no.
+0xD0287102=~z~Oh, shit man. Hell no.
+
+;0xD0F6B18F=~z~You find him, you take him...
+0xD0F6B18F=~z~You find him, you take him...
+
+;0xD13E7410=SFX_OVERLAP_3900
+0xD13E7410=SFX_OVERLAP_3900
+
+;0xD1904D29=100090010090100090100090010090010090100100
+0xD1904D29=100090010090100090100090010090010090100100
+
+;0xD2366ECF=E1A2_IA
+0xD2366ECF=E1A2_IA
+
+;0xD2D497C4=~z~So this is Roman Bellic?
+0xD2D497C4=~z~So this is Roman Bellic?
+
+;0xD37C9BA4=E1A2_PB
+0xD37C9BA4=E1A2_PB
+
+;0xD3C7BBBD=E1A2_LG
+0xD3C7BBBD=E1A2_LG
+
+;0xD3F0E2AE=SFX_PAUSE_230
+0xD3F0E2AE=SFX_PAUSE_230
+
+;0xD4B9C78A=E1A2_IF
+0xD4B9C78A=E1A2_IF
+
+;0xD4D4282E=E1A2_A_LC
+0xD4D4282E=E1A2_A_LC
+
+;0xD4E776EA=E1A2_VB
+0xD4E776EA=E1A2_VB
+
+;0xD4ECDD0E=090
+0xD4ECDD0E=090
+
+;0xD4FBBCB2=SFX_OVERLAP_5720
+0xD4FBBCB2=SFX_OVERLAP_5720
+
+;0xD52AB5E0=SFX_PAUSE_200
+0xD52AB5E0=SFX_PAUSE_200
+
+;0xD5A2262B=SFX_PAUSE_170
+0xD5A2262B=SFX_PAUSE_170
+
+;0xD5C558E7=~z~Move, you fat, stupid legs, move!
+0xD5C558E7=~z~Move, you fat, stupid legs, move!
+
+;0xD6868455=~z~Move them fat little legs of yours.
+0xD6868455=~z~Move them fat little legs of yours.
+
+;0xD6F8A03A=~z~Things is coming together, starting to make sense now.
+0xD6F8A03A=~z~Things is coming together, starting to make sense now.
+
+;0xD72F4901=~z~Huh?
+0xD72F4901=~z~Huh?
+
+;0xD85C3053=~z~I'll buy you a new one. Just shut this dude up.
+0xD85C3053=~z~I'll buy you a new one. Just shut this dude up.
+
+;0xD888CA0E=~z~If you were meant to be going in the ground, you wouldn't be conversing with us gentlemen like this.
+0xD888CA0E=~z~If you were meant to be going in the ground, you wouldn't be conversing with us gentlemen like this.
+
+;0xD8D24282=~z~We need you to kidnap someone for us.
+0xD8D24282=~z~We need you to kidnap someone for us.
+
+;0xD8EAD50F=SFX_PAUSE_190
+0xD8EAD50F=SFX_PAUSE_190
+
+;0xD90B4ADC=~z~You mean, like, this year or in my whole career?
+0xD90B4ADC=~z~You mean, like, this year or in my whole career?
+
+;0xD9D5AF1D=E1A2_KH
+0xD9D5AF1D=E1A2_KH
+
+;0xDA23FDBB=~z~You'll never take me alive!
+0xDA23FDBB=~z~You'll never take me alive!
+
+;0xDA5AF881=~z~I don't know, Greek?
+0xDA5AF881=~z~I don't know, Greek?
+
+;0xDA6AF858=SFX_PAUSE_120
+0xDA6AF858=SFX_PAUSE_120
+
+;0xDA73D2CB=SFX_PAUSE_330
+0xDA73D2CB=SFX_PAUSE_330
+
+;0xDA98D60E=E1A2_JD
+0xDA98D60E=E1A2_JD
+
+;0xDB57C074=SFX_PAUSE_250
+0xDB57C074=SFX_PAUSE_250
+
+;0xDB877FF5=~z~You and your boys might ride, but you don't know nothing about brotherhood.
+0xDB877FF5=~z~You and your boys might ride, but you don't know nothing about brotherhood.
+
+;0xDBA45842=SFX_PAUSE_250
+0xDBA45842=SFX_PAUSE_250
+
+;0xDBCD77BC=~z~Be easy, man.
+0xDBCD77BC=~z~Be easy, man.
+
+;0xDBE3A5EA=E1A2_A_KB
+0xDBE3A5EA=E1A2_A_KB
+
+;0xDBF0B2DC=E1A2_B_GB
+0xDBF0B2DC=E1A2_B_GB
+
+;0xDBF52727=SFX_PAUSE_110
+0xDBF52727=SFX_PAUSE_110
+
+;0xDC8EB78A=SFX_PAUSE_210
+0xDC8EB78A=SFX_PAUSE_210
+
+;0xDD1FAC5A=~z~Somebody looking for a fat Slav with a bladder problem?
+0xDD1FAC5A=~z~Somebody looking for a fat Slav with a bladder problem?
+
+;0xDD8CDBFA=E1A2_TC
+0xDD8CDBFA=E1A2_TC
+
+;0xDDBC4707=~z~Oh, wait. You hate me because where I'm from? Man, that's cold.
+0xDDBC4707=~z~Oh, wait. You hate me because where I'm from? Man, that's cold.
+
+;0xDE801950=~z~For future reference, Malc, it might be worth locking your hostages into a car.
+0xDE801950=~z~For future reference, Malc, it might be worth locking your hostages into a car.
+
+;0xDEBA01E6=E1A2_A_RA
+0xDEBA01E6=E1A2_A_RA
+
+;0xDF24D384=E1A2_EE
+0xDF24D384=E1A2_EE
+
+;0xDF935A19=~z~Well, uh, that kidnapping - didn't go too well, did it?
+0xDF935A19=~z~Well, uh, that kidnapping - didn't go too well, did it?
+
+;0xDFA4E83F=E1A2_A_AA
+0xDFA4E83F=E1A2_A_AA
+
+;0xE072B678=SFX_OVERLAP_2590
+0xE072B678=SFX_OVERLAP_2590
+
+;0xE10AF84D=SFX_OVERLAP_3210
+0xE10AF84D=SFX_OVERLAP_3210
+
+;0xE17E7181=E1A2_CA
+0xE17E7181=E1A2_CA
+
+;0xE1A077CB=010090200100090290
+0xE1A077CB=010090200100090290
+
+;0xE2E06FDA=~z~What you need Johnny?
+0xE2E06FDA=~z~What you need Johnny?
+
+;0xE3714ED3=SFX_PAUSE_310
+0xE3714ED3=SFX_PAUSE_310
+
+;0xE3C1B53D=E1A2_ZB
+0xE3C1B53D=E1A2_ZB
+
+;0xE3EF1419=SFX_PAUSE_120
+0xE3EF1419=SFX_PAUSE_120
+
+;0xE4BD65E1=~z~Malc, tell this gentlemen what my kind of people do to guys who try to buy their way out.
+0xE4BD65E1=~z~Malc, tell this gentlemen what my kind of people do to guys who try to buy their way out.
+
+;0xE53FC0C2=SFX_PAUSE_290
+0xE53FC0C2=SFX_PAUSE_290
+
+;0xE5AC2806=~z~All you Europeans got the same fucking accent.
+0xE5AC2806=~z~All you Europeans got the same fucking accent.
+
+;0xE643DC29=~z~I got it.
+0xE643DC29=~z~I got it.
+
+;0xE6A43FF1=E1A2_DA
+0xE6A43FF1=E1A2_DA
+
+;0xE8D029FD=~z~They'll turn me out. I don't know what I'm going to do. Shit.
+0xE8D029FD=~z~They'll turn me out. I don't know what I'm going to do. Shit.
+
+;0xE8D1ECC0=E1A2_TB
+0xE8D1ECC0=E1A2_TB
+
+;0xE92D5E9B=100
+0xE92D5E9B=100
+
+;0xE994AFE1=020
+0xE994AFE1=020
+
+;0xE99AD614=SFX_OVERLAP_2630
+0xE99AD614=SFX_OVERLAP_2630
+
+;0xE9C4D324=~z~Why? Why?
+0xE9C4D324=~z~Why? Why?
+
+;0xE9DBB63D=SFX_PAUSE_120
+0xE9DBB63D=SFX_PAUSE_120
+
+;0xEA4FC9BB=E1A2_A_PD
+0xEA4FC9BB=E1A2_A_PD
+
+;0xEA996274=~z~Dammit, dude done pissed his self. That shit ain't right.
+0xEA996274=~z~Dammit, dude done pissed his self. That shit ain't right.
+
+;0xECD6F756=SFX_PAUSE_240
+0xECD6F756=SFX_PAUSE_240
+
+;0xECEBD0DC=E1A2_DC
+0xECEBD0DC=E1A2_DC
+
+;0xED1B9A58=~z~Shit, Johnny. Yo I gotta bounce.
+0xED1B9A58=~z~Shit, Johnny. Yo I gotta bounce.
+
+;0xEE02782A=~z~The ice got you into this mess.
+0xEE02782A=~z~The ice got you into this mess.
+
+;0xEE438253=~z~And that we'd find something like that real insulting.
+0xEE438253=~z~And that we'd find something like that real insulting.
+
+;0xEFD1A80A=E1A2_YA
+0xEFD1A80A=E1A2_YA
+
+;0xEFF499FE=~z~I can get money, I promise.
+0xEFF499FE=~z~I can get money, I promise.
+
+;0xF015F061=E1A2_A_BA
+0xF015F061=E1A2_A_BA
+
+;0xF0694C25=290
+0xF0694C25=290
+
+;0xF0D88781=~z~~s~
+0xF0D88781=~z~~s~
+
+;0xF10F6F23=~z~Help me! Help me!
+0xF10F6F23=~z~Help me! Help me!
+
+;0xF11EB985=~z~Come on. Get back in the car.
+0xF11EB985=~z~Come on. Get back in the car.
+
+;0xF2081170=~z~I shouldn't have eaten those burgers.
+0xF2081170=~z~I shouldn't have eaten those burgers.
+
+;0xF2AF76D0=~z~You ain't a difficult target to hit, Mr. Bellic.
+0xF2AF76D0=~z~You ain't a difficult target to hit, Mr. Bellic.
+
+;0xF2D7F8E8=~z~Is that a fact?
+0xF2D7F8E8=~z~Is that a fact?
+
+;0xF44F239A=SFX_PAUSE_190
+0xF44F239A=SFX_PAUSE_190
+
+;0xF4623BA2=~z~Hello.
+0xF4623BA2=~z~Hello.
+
+;0xF499132C=E1A2_OB
+0xF499132C=E1A2_OB
+
+;0xF4E4F282=E1A2_QB
+0xF4E4F282=E1A2_QB
+
+;0xF6B45CFB=SFX_PAUSE_360
+0xF6B45CFB=SFX_PAUSE_360
+
+;0xF770F7A6=~z~Huh, huh. Must be a good friend.
+0xF770F7A6=~z~Huh, huh. Must be a good friend.
+
+;0xF80FB3EA=~z~Roman Bellic. What the fuck kind of name is that?
+0xF80FB3EA=~z~Roman Bellic. What the fuck kind of name is that?
+
+;0xF8672E5E=100
+0xF8672E5E=100
+
+;0xF8C67E0D=E1A2_AE
+0xF8C67E0D=E1A2_AE
+
+;0xFA3BA9F2=SFX_PAUSE_210
+0xFA3BA9F2=SFX_PAUSE_210
+
+;0xFADF032E=E1A2_AB
+0xFADF032E=E1A2_AB
+
+;0xFB2733DC=E1A2_A_RB
+0xFB2733DC=E1A2_A_RB
+
+;0xFB4DB0B0=~z~Please. Please. I'll pay you anything.
+0xFB4DB0B0=~z~Please. Please. I'll pay you anything.
+
+;0xFC81E07D=E1A2_A_CA
+0xFC81E07D=E1A2_A_CA
+
+;0xFCAA2CEB=SFX_OVERLAP_1220
+0xFCAA2CEB=SFX_OVERLAP_1220
+
+;0xFD28C6A7=290090020090120
+0xFD28C6A7=290090020090120
+
+;0xFE971214=SFX_PAUSE_130
+0xFE971214=SFX_PAUSE_130
+
+;0xFEC8C9E6=010010
+0xFEC8C9E6=010010
+
+;0xFEE31A2C=~z~Just so you know who you dealing with, Mr. Bellic. This is one screwed up dumb redneck motherfucker.
+0xFEE31A2C=~z~Just so you know who you dealing with, Mr. Bellic. This is one screwed up dumb redneck motherfucker.
+
+;0xFF5B3ED7=~z~You, come with me.
+0xFF5B3ED7=~z~You, come with me.
+

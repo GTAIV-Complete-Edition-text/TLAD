@@ -1,0 +1,1081 @@
+﻿[E1FCJ3A]
+;0x002E1BA2=~z~Lost MC, man. Round up the wrecking crew.
+0x002E1BA2=~z~Lost MC, man. Round up the wrecking crew.
+
+;0x00E619B3=~z~Darts? Okay then.
+0x00E619B3=~z~Darts? Okay then.
+
+;0x00E7FA51=~z~Let's throw them darts then.
+0x00E7FA51=~z~Let's throw them darts then.
+
+;0x00EBCDA3=E1FCJ3_ACT_DARTS_LEAVE_DRAWA
+0x00EBCDA3=E1FCJ3_ACT_DARTS_LEAVE_DRAWA
+
+;0x01BADA2B=E1FCJ3_ACT_SHOW_LEAVE_ABANDONEDA
+0x01BADA2B=E1FCJ3_ACT_SHOW_LEAVE_ABANDONEDA
+
+;0x03C277A9=~z~I hope I don't get sick cos' of that shit.
+0x03C277A9=~z~I hope I don't get sick cos' of that shit.
+
+;0x0498B7CC=E1FCJ3_ACT_DARTS_LEAVE_LOSTA
+0x0498B7CC=E1FCJ3_ACT_DARTS_LEAVE_LOSTA
+
+;0x04C8F916=~z~You wanna drink? Okay then.
+0x04C8F916=~z~You wanna drink? Okay then.
+
+;0x04F6A6A3=E1FCJ3_ACT_DIFF_DRINK_YESA
+0x04F6A6A3=E1FCJ3_ACT_DIFF_DRINK_YESA
+
+;0x054D101D=~z~We gotta go, man. You're late.
+0x054D101D=~z~We gotta go, man. You're late.
+
+;0x06678A56=~z~Party time!
+0x06678A56=~z~Party time!
+
+;0x066D2FDA=~z~Sorry man.
+0x066D2FDA=~z~Sorry man.
+
+;0x068FB700=100
+0x068FB700=100
+
+;0x06A417EC=E1FCJ3_ACT_STRIP_LEAVE_DRUNKA
+0x06A417EC=E1FCJ3_ACT_STRIP_LEAVE_DRUNKA
+
+;0x07A8ECA7=~z~I'm drunken man - I should get home. Let's go.
+0x07A8ECA7=~z~I'm drunken man - I should get home. Let's go.
+
+;0x0814BB2E=100
+0x0814BB2E=100
+
+;0x08B5430C=100
+0x08B5430C=100
+
+;0x0A68BE6A=E1FCJ3_ACT_DIFF_AIRHOCK_YESA
+0x0A68BE6A=E1FCJ3_ACT_DIFF_AIRHOCK_YESA
+
+;0x0B4B707E=100
+0x0B4B707E=100
+
+;0x0D320704=~z~That was kind of entertaining.
+0x0D320704=~z~That was kind of entertaining.
+
+;0x0FB05FC8=E1FCJ3_ACT_HI_LO_CARDS_LEAVE_WONA
+0x0FB05FC8=E1FCJ3_ACT_HI_LO_CARDS_LEAVE_WONA
+
+;0x10303CC7=~z~I gotta sleep this shit off man,
+0x10303CC7=~z~I gotta sleep this shit off man,
+
+;0x1123A0D3=~z~Okay, brothers.
+0x1123A0D3=~z~Okay, brothers.
+
+;0x11397A67=E1FCJ3_ACT_ARRIVE_POOLA
+0x11397A67=E1FCJ3_ACT_ARRIVE_POOLA
+
+;0x11B1C91F=100
+0x11B1C91F=100
+
+;0x121F0B94=~z~Let's fucking do this.
+0x121F0B94=~z~Let's fucking do this.
+
+;0x1245BFD1=~z~Let's show 'em how we do it in the Lost MC. Go get some brothers.
+0x1245BFD1=~z~Let's show 'em how we do it in the Lost MC. Go get some brothers.
+
+;0x1273BCCE=~z~It's not what we said, but okay.
+0x1273BCCE=~z~It's not what we said, but okay.
+
+;0x12F9A37A=~z~Looks like we picked up some bitches.
+0x12F9A37A=~z~Looks like we picked up some bitches.
+
+;0x130BEC85=~z~We should have finished at the table man.
+0x130BEC85=~z~We should have finished at the table man.
+
+;0x13C896D3=100
+0x13C896D3=100
+
+;0x141BFA43=100
+0x141BFA43=100
+
+;0x148AC9DB=~z~You hungry man? Okay, I could eat.
+0x148AC9DB=~z~You hungry man? Okay, I could eat.
+
+;0x16BADF00=100
+0x16BADF00=100
+
+;0x17AEB4E0=~z~Jonathan, you're late. Let's ride out, man.
+0x17AEB4E0=~z~Jonathan, you're late. Let's ride out, man.
+
+;0x17DC19ED=~z~Food here makes my guts burn.
+0x17DC19ED=~z~Food here makes my guts burn.
+
+;0x18E9FF1E=~z~I guess this dump will have to do us.
+0x18E9FF1E=~z~I guess this dump will have to do us.
+
+;0x19628E21=~z~Fuck this bullshit man.
+0x19628E21=~z~Fuck this bullshit man.
+
+;0x1A7F2486=~z~Sure, I can handle a quick drink.
+0x1A7F2486=~z~Sure, I can handle a quick drink.
+
+;0x1BF71C91=E1FCJ3_ACT_ARRIVE_STRIP_DRUNKA
+0x1BF71C91=E1FCJ3_ACT_ARRIVE_STRIP_DRUNKA
+
+;0x1D13169D=~z~You, a quitter. Who'd have thought?
+0x1D13169D=~z~You, a quitter. Who'd have thought?
+
+;0x1E2CE1A8=100
+0x1E2CE1A8=100
+
+;0x214E0019=~z~Nothing mixes better than cards and booze. Apart from guns and booze...
+0x214E0019=~z~Nothing mixes better than cards and booze. Apart from guns and booze...
+
+;0x2163A996=E1FCJ3_ACT_ARRIVE_NO_BIKEA
+0x2163A996=E1FCJ3_ACT_ARRIVE_NO_BIKEA
+
+;0x21A826E0=~z~Johnny, my brother.
+0x21A826E0=~z~Johnny, my brother.
+
+;0x227E0E74=~z~Okay Johnny - you should have said if you wanted to come to the strip club.
+0x227E0E74=~z~Okay Johnny - you should have said if you wanted to come to the strip club.
+
+;0x23D9AF09=~z~Air hockey? I'm drunk, what the fuck.
+0x23D9AF09=~z~Air hockey? I'm drunk, what the fuck.
+
+;0x245F6404=~z~Alright, man. Let's hit 'em hard. Get some of the brothers.
+0x245F6404=~z~Alright, man. Let's hit 'em hard. Get some of the brothers.
+
+;0x24A6B9BF=~z~You always was a lucky asshole, JK.
+0x24A6B9BF=~z~You always was a lucky asshole, JK.
+
+;0x26C9DD2A=100
+0x26C9DD2A=100
+
+;0x270D3ABA=~z~That was pretty good.
+0x270D3ABA=~z~That was pretty good.
+
+;0x2721539C=E1FCJ3_ACT_DIFF_ACTIVITY_NO_DRUNKA
+0x2721539C=E1FCJ3_ACT_DIFF_ACTIVITY_NO_DRUNKA
+
+;0x276B884A=~z~I don't like that joint too much.
+0x276B884A=~z~I don't like that joint too much.
+
+;0x29E6047D=~z~Come on pussies.
+0x29E6047D=~z~Come on pussies.
+
+;0x29EE4B83=~z~Okay, I can handle this place.
+0x29EE4B83=~z~Okay, I can handle this place.
+
+;0x2AB054BD=E1FCJ3_ACT_ARRIVE_SHOW_DRUNKA
+0x2AB054BD=E1FCJ3_ACT_ARRIVE_SHOW_DRUNKA
+
+;0x2ADB25E2=E1FCJ3_ACT_STRIP_LEAVE_WONA
+0x2ADB25E2=E1FCJ3_ACT_STRIP_LEAVE_WONA
+
+;0x2ADCB230=~z~You're pathetic, man.
+0x2ADCB230=~z~You're pathetic, man.
+
+;0x2C625C5F=E1FCJ3_BA
+0x2C625C5F=E1FCJ3_BA
+
+;0x2C7BF40A=E1FCJ3_ACT_ARM_WRESTLING_LEAVE_LOSTA
+0x2C7BF40A=E1FCJ3_ACT_ARM_WRESTLING_LEAVE_LOSTA
+
+;0x2D7BF5C2=~z~Draw feels right.
+0x2D7BF5C2=~z~Draw feels right.
+
+;0x2ED5C7E0=100
+0x2ED5C7E0=100
+
+;0x2F658D8D=100
+0x2F658D8D=100
+
+;0x300D78C7=~z~Sorry man.
+0x300D78C7=~z~Sorry man.
+
+;0x3050966A=~z~All good. No one lost.
+0x3050966A=~z~All good. No one lost.
+
+;0x305B6AF7=100
+0x305B6AF7=100
+
+;0x306CB202=~z~Air hockey? Bit of a change, but fine.
+0x306CB202=~z~Air hockey? Bit of a change, but fine.
+
+;0x332B7F9B=~z~See you later, Johnny.
+0x332B7F9B=~z~See you later, Johnny.
+
+;0x338BF408=E1FCJ3_ACT_SHOW_LEAVE_DRUNKA
+0x338BF408=E1FCJ3_ACT_SHOW_LEAVE_DRUNKA
+
+;0x3430BA82=100
+0x3430BA82=100
+
+;0x34B16332=E1FCJ3_ACT_AIRHOCK_LEAVE_WONA
+0x34B16332=E1FCJ3_ACT_AIRHOCK_LEAVE_WONA
+
+;0x34E425F0=E1FCJ3_ACT_ARRIVE_BIKE_LATEA
+0x34E425F0=E1FCJ3_ACT_ARRIVE_BIKE_LATEA
+
+;0x356C7B14=E1FCJ3_ACT_ARRIVE_EATERY_GOODA
+0x356C7B14=E1FCJ3_ACT_ARRIVE_EATERY_GOODA
+
+;0x3575F9FF=~z~I'll kill you at darts, buddy.
+0x3575F9FF=~z~I'll kill you at darts, buddy.
+
+;0x3595531F=100
+0x3595531F=100
+
+;0x35A82809=E1FCJ3_ACT_ARRIVE_AIRHOCK_DRUNKA
+0x35A82809=E1FCJ3_ACT_ARRIVE_AIRHOCK_DRUNKA
+
+;0x36130EBF=100
+0x36130EBF=100
+
+;0x369D725C=E1FCJ3_ACT_LEAVE_EATERY_AVERAGEA
+0x369D725C=E1FCJ3_ACT_LEAVE_EATERY_AVERAGEA
+
+;0x36AA7128=100
+0x36AA7128=100
+
+;0x36EE950D=~z~We should have finished the darts.
+0x36EE950D=~z~We should have finished the darts.
+
+;0x39352FE7=~z~Let's play some fucking cards!
+0x39352FE7=~z~Let's play some fucking cards!
+
+;0x3A6EE54F=~z~Lucky.
+0x3A6EE54F=~z~Lucky.
+
+;0x3C7C1CDD=~z~Good to see you, brother, let's do this.
+0x3C7C1CDD=~z~Good to see you, brother, let's do this.
+
+;0x3C88CC5D=~z~This looks like an okay joint, man.
+0x3C88CC5D=~z~This looks like an okay joint, man.
+
+;0x3D1BD593=~z~Fuck this, homeboy.
+0x3D1BD593=~z~Fuck this, homeboy.
+
+;0x3E8F32E7=~z~Honor even, amigo.
+0x3E8F32E7=~z~Honor even, amigo.
+
+;0x3F512247=~z~I'm outta here, amigo.
+0x3F512247=~z~I'm outta here, amigo.
+
+;0x411EB316=~z~Fuck you, pussy.
+0x411EB316=~z~Fuck you, pussy.
+
+;0x41AB0896=~z~I'd almost given you up for dead, brother.
+0x41AB0896=~z~I'd almost given you up for dead, brother.
+
+;0x426F6284=E1FCJ3_ACT_ARRIVE_ARM_WRESTLINGA
+0x426F6284=E1FCJ3_ACT_ARRIVE_ARM_WRESTLINGA
+
+;0x42A31459=~z~Trust me, amigo - I was born with a dart in my hand.
+0x42A31459=~z~Trust me, amigo - I was born with a dart in my hand.
+
+;0x42C856B9=~z~Air hockey? Okay then.
+0x42C856B9=~z~Air hockey? Okay then.
+
+;0x4319DA69=~z~Man I'm so drunk any shit will seem good.
+0x4319DA69=~z~Man I'm so drunk any shit will seem good.
+
+;0x4368006C=~z~I hope I sober up soon.
+0x4368006C=~z~I hope I sober up soon.
+
+;0x4368CEC2=100
+0x4368CEC2=100
+
+;0x43D67C0F=E1FCJ3_ACT_DIFF_DARTS_YESA
+0x43D67C0F=E1FCJ3_ACT_DIFF_DARTS_YESA
+
+;0x4451E3A7=100
+0x4451E3A7=100
+
+;0x44B32B44=100
+0x44B32B44=100
+
+;0x44C3BC4F=E1FCJ3_ACT_AIRHOCK_LEAVE_DRUNKA
+0x44C3BC4F=E1FCJ3_ACT_AIRHOCK_LEAVE_DRUNKA
+
+;0x45802F11=~z~Okay, JK, let's roll.
+0x45802F11=~z~Okay, JK, let's roll.
+
+;0x4646C874=100
+0x4646C874=100
+
+;0x4671FE31=E1FCJ3_ACT_DIFF_FOOD_YESA
+0x4671FE31=E1FCJ3_ACT_DIFF_FOOD_YESA
+
+;0x472472EF=E1FCJ3_ACT_ARRIVE_FOOD_DRUNKA
+0x472472EF=E1FCJ3_ACT_ARRIVE_FOOD_DRUNKA
+
+;0x4781A2DE=100
+0x4781A2DE=100
+
+;0x47C53DFF=100
+0x47C53DFF=100
+
+;0x484D281C=100
+0x484D281C=100
+
+;0x4A8FEC16=100
+0x4A8FEC16=100
+
+;0x4B7F9EB2=~z~That was kinda fun.
+0x4B7F9EB2=~z~That was kinda fun.
+
+;0x4CE1326A=100
+0x4CE1326A=100
+
+;0x4DA8AAF0=100
+0x4DA8AAF0=100
+
+;0x4E506489=~z~Man, I love that chow.
+0x4E506489=~z~Man, I love that chow.
+
+;0x4EDAC217=~z~I nearly puked down that stripper's tits.
+0x4EDAC217=~z~I nearly puked down that stripper's tits.
+
+;0x4EE53123=100
+0x4EE53123=100
+
+;0x4FFAEAEF=E1FCJ3_ACT_ARRIVE_BIKE_NOT_LATE
+0x4FFAEAEF=E1FCJ3_ACT_ARRIVE_BIKE_NOT_LATE
+
+;0x54050DC4=100
+0x54050DC4=100
+
+;0x54CDC4DB=~z~ Let's hang again soon, man
+0x54CDC4DB=~z~ Let's hang again soon, man
+
+;0x553911AB=~z~Air hockey and booze - what a match made in heaven.
+0x553911AB=~z~Air hockey and booze - what a match made in heaven.
+
+;0x55F2488D=E1FCJ3_ACT_ARM_WRESTLING_LEAVE_WONA
+0x55F2488D=E1FCJ3_ACT_ARM_WRESTLING_LEAVE_WONA
+
+;0x56FFC209=100
+0x56FFC209=100
+
+;0x573F0BE3=~z~I hope this show is good, man.
+0x573F0BE3=~z~I hope this show is good, man.
+
+;0x57F2D3CA=~z~Johnny, brother, let's do this.
+0x57F2D3CA=~z~Johnny, brother, let's do this.
+
+;0x5821F1B5=~z~Okay big boy, let's see what you got.
+0x5821F1B5=~z~Okay big boy, let's see what you got.
+
+;0x587FDBA6=~z~Sorry, brother. Genetics is a bitch.
+0x587FDBA6=~z~Sorry, brother. Genetics is a bitch.
+
+;0x58E84CD0=~z~That was fun, brother. Let's hang again soon
+0x58E84CD0=~z~That was fun, brother. Let's hang again soon
+
+;0x5970B16C=~z~Alright there, brothers. Let's go.
+0x5970B16C=~z~Alright there, brothers. Let's go.
+
+;0x5A0CDB95=100
+0x5A0CDB95=100
+
+;0x5A6854E7=100
+0x5A6854E7=100
+
+;0x5A785035=~z~I bet some brothers will want to join in on this ass kicking. Round 'em up.
+0x5A785035=~z~I bet some brothers will want to join in on this ass kicking. Round 'em up.
+
+;0x5B27E44A=E1FCJ3_ACT_SHOW_LEAVE_WONA
+0x5B27E44A=E1FCJ3_ACT_SHOW_LEAVE_WONA
+
+;0x5B4198FC=100
+0x5B4198FC=100
+
+;0x5B550339=~z~Sorry, man, but someone has to lose.
+0x5B550339=~z~Sorry, man, but someone has to lose.
+
+;0x5B7F3D2F=~z~A show could be fun... not what we said, but fun.
+0x5B7F3D2F=~z~A show could be fun... not what we said, but fun.
+
+;0x5D1989B2=E1FCJ3_ACT_LEAVE_PUB_GOODA
+0x5D1989B2=E1FCJ3_ACT_LEAVE_PUB_GOODA
+
+;0x5DCF1266=100
+0x5DCF1266=100
+
+;0x5E10E6C8=~z~Sorry, homeboy.
+0x5E10E6C8=~z~Sorry, homeboy.
+
+;0x5E3C5547=~z~Johnny, man - I gotta get home.
+0x5E3C5547=~z~Johnny, man - I gotta get home.
+
+;0x5E6315F6=~z~You always were a lucky bastard.
+0x5E6315F6=~z~You always were a lucky bastard.
+
+;0x5EB13CEC=~z~Man I love this kind of joint.
+0x5EB13CEC=~z~Man I love this kind of joint.
+
+;0x5EC6EE66=~z~We both know you're in the closet, amigo.
+0x5EC6EE66=~z~We both know you're in the closet, amigo.
+
+;0x5F7CB523=~z~We didn't stay that long.
+0x5F7CB523=~z~We didn't stay that long.
+
+;0x6118A52D=E1FCJ3_ACT_DIFF_ACTIVITY_NOA
+0x6118A52D=E1FCJ3_ACT_DIFF_ACTIVITY_NOA
+
+;0x62926064=~z~That was good times, brother. See you soon
+0x62926064=~z~That was good times, brother. See you soon
+
+;0x62E94B54=~z~You're late, brother. Let's roll.
+0x62E94B54=~z~You're late, brother. Let's roll.
+
+;0x63915205=~z~Enough of that. I'm still drunk.
+0x63915205=~z~Enough of that. I'm still drunk.
+
+;0x63A54905=E1FCJ3_ACT_AIRHOCK_LEAVE_LOSTA
+0x63A54905=E1FCJ3_ACT_AIRHOCK_LEAVE_LOSTA
+
+;0x64DD5A43=E1FCJ3_ACT_LEAVE_EATERY_GOODA
+0x64DD5A43=E1FCJ3_ACT_LEAVE_EATERY_GOODA
+
+;0x64E50082=~z~Lucky bastard.
+0x64E50082=~z~Lucky bastard.
+
+;0x6530B0EB=~z~This place has the best food, man.
+0x6530B0EB=~z~This place has the best food, man.
+
+;0x659E1975=E1FCJ3_ACT_ARRIVE_AIRHOCKA
+0x659E1975=E1FCJ3_ACT_ARRIVE_AIRHOCKA
+
+;0x66162B49=~z~Man, nothing like a few drinks to make me think I can hustle at pool.
+0x66162B49=~z~Man, nothing like a few drinks to make me think I can hustle at pool.
+
+;0x67081FE2=E1FCJ3_ACT_DARTS_LEAVE_DRUNKA
+0x67081FE2=E1FCJ3_ACT_DARTS_LEAVE_DRUNKA
+
+;0x6746B1C5=100
+0x6746B1C5=100
+
+;0x67958021=~z~I ain't down for this Johnny. Not now.
+0x67958021=~z~I ain't down for this Johnny. Not now.
+
+;0x67D0C6FE=~z~Man, lucky no one died in there - I'm too drunk for darts.
+0x67D0C6FE=~z~Man, lucky no one died in there - I'm too drunk for darts.
+
+;0x69510554=~z~You suck at pool, amigo.
+0x69510554=~z~You suck at pool, amigo.
+
+;0x6A88EFC2=100
+0x6A88EFC2=100
+
+;0x6C34DE9A=~z~Sure - I could watch a show, man.
+0x6C34DE9A=~z~Sure - I could watch a show, man.
+
+;0x6C7B89D3=~z~You suck, man.
+0x6C7B89D3=~z~You suck, man.
+
+;0x6C9AB083=100
+0x6C9AB083=100
+
+;0x6D3DA535=100
+0x6D3DA535=100
+
+;0x6D501C11=~z~You think you can prove yourself this time, huh JK?
+0x6D501C11=~z~You think you can prove yourself this time, huh JK?
+
+;0x6DCB51C0=~z~That was kinda fun, I coulda stayed longer.
+0x6DCB51C0=~z~That was kinda fun, I coulda stayed longer.
+
+;0x6DDDAF06=~z~This place looks okay.
+0x6DDDAF06=~z~This place looks okay.
+
+;0x6F04E938=E1FCJ3_ACT_DIFF_POOL_YESA
+0x6F04E938=E1FCJ3_ACT_DIFF_POOL_YESA
+
+;0x70056542=~z~You need me to steal you a new watch, asshole?
+0x70056542=~z~You need me to steal you a new watch, asshole?
+
+;0x7007DF99=~z~Man, I love this place.
+0x7007DF99=~z~Man, I love this place.
+
+;0x702EDEE8=~z~Okay, assholes. Good to fuckin' see ya.
+0x702EDEE8=~z~Okay, assholes. Good to fuckin' see ya.
+
+;0x70635807=100
+0x70635807=100
+
+;0x71A1E34D=~z~Let's see what you got, buddy.
+0x71A1E34D=~z~Let's see what you got, buddy.
+
+;0x71C84AC9=~z~Man, I'm still drunk.
+0x71C84AC9=~z~Man, I'm still drunk.
+
+;0x71EEF23B=E1FCJ3_ACT_ARRIVE_STRIPA
+0x71EEF23B=E1FCJ3_ACT_ARRIVE_STRIPA
+
+;0x721E51CA=~z~Good food in there!
+0x721E51CA=~z~Good food in there!
+
+;0x73521F94=E1FCJ3_ACT_ARRIVE_PUB_AVERAGEA
+0x73521F94=E1FCJ3_ACT_ARRIVE_PUB_AVERAGEA
+
+;0x7523EFC9=~z~Don't mean to be an SOB, but you're late. Let's hit it.
+0x7523EFC9=~z~Don't mean to be an SOB, but you're late. Let's hit it.
+
+;0x75D12514=~z~That joint kinda sucks ass, amigo.
+0x75D12514=~z~That joint kinda sucks ass, amigo.
+
+;0x762338D5=~z~Sorry man.
+0x762338D5=~z~Sorry man.
+
+;0x76DBD49F=E1FCJ3_ACT_DIFF_SHOW_YESA
+0x76DBD49F=E1FCJ3_ACT_DIFF_SHOW_YESA
+
+;0x781CA2EB=~z~Pool ain't your thing.
+0x781CA2EB=~z~Pool ain't your thing.
+
+;0x79560931=100
+0x79560931=100
+
+;0x79AD44AD=~z~Quitters never win, man.
+0x79AD44AD=~z~Quitters never win, man.
+
+;0x7AD205A6=E1FCJ3_ACT_STRIP_LEAVE_ABANDONEDA
+0x7AD205A6=E1FCJ3_ACT_STRIP_LEAVE_ABANDONEDA
+
+;0x7AE20E92=~z~Johnny I hate to break up a party, but I gotta get home.
+0x7AE20E92=~z~Johnny I hate to break up a party, but I gotta get home.
+
+;0x7B7B7DE8=E1FCJ3_ACT_GOHOMEA
+0x7B7B7DE8=E1FCJ3_ACT_GOHOMEA
+
+;0x7CDE3BEE=E1FCJ3_ACT_QUIT_AND_LEAVEA
+0x7CDE3BEE=E1FCJ3_ACT_QUIT_AND_LEAVEA
+
+;0x7D320AE4=~z~Man, I feel lucky about this game.
+0x7D320AE4=~z~Man, I feel lucky about this game.
+
+;0x7DF67A77=~z~Lost MC. Let's do it.
+0x7DF67A77=~z~Lost MC. Let's do it.
+
+;0x7E9EAD5E=E1FCJ3_ACT_HI_LO_CARDS_LEAVE_LOSTA
+0x7E9EAD5E=E1FCJ3_ACT_HI_LO_CARDS_LEAVE_LOSTA
+
+;0x7EF6FD27=~z~Next time, let's finish that shit.
+0x7EF6FD27=~z~Next time, let's finish that shit.
+
+;0x801A8E0B=~z~Let's see what you got in the way of air hockey skill, my friend.
+0x801A8E0B=~z~Let's see what you got in the way of air hockey skill, my friend.
+
+;0x80E9F930=~z~Man, I'm still drunk.
+0x80E9F930=~z~Man, I'm still drunk.
+
+;0x821826C3=E1FCJ3_ACT_LEAVE_PUB_FIGHT_TAUNTSA
+0x821826C3=E1FCJ3_ACT_LEAVE_PUB_FIGHT_TAUNTSA
+
+;0x822A1048=~z~Pool? Okay then.
+0x822A1048=~z~Pool? Okay then.
+
+;0x82D6CED1=~z~Let's wrestle like drunken assholes.
+0x82D6CED1=~z~Let's wrestle like drunken assholes.
+
+;0x849B87C1=~z~Brothers for life, Lost forever. Let's fuckin' do it.
+0x849B87C1=~z~Brothers for life, Lost forever. Let's fuckin' do it.
+
+;0x8556CB8B=100
+0x8556CB8B=100
+
+;0x85ABB9E1=~z~That was pretty funny until you bailed.
+0x85ABB9E1=~z~That was pretty funny until you bailed.
+
+;0x85E73D0A=100
+0x85E73D0A=100
+
+;0x85E9F9A5=100
+0x85E9F9A5=100
+
+;0x861C048A=~z~You were lucky to draw man.
+0x861C048A=~z~You were lucky to draw man.
+
+;0x86449B5B=E1FCJ3_ACT_ARRIVE_EATERY_FAVOURITEA
+0x86449B5B=E1FCJ3_ACT_ARRIVE_EATERY_FAVOURITEA
+
+;0x8744BF7F=~z~What is this bullshit man? It ain't what we said we was doing?
+0x8744BF7F=~z~What is this bullshit man? It ain't what we said we was doing?
+
+;0x876D9403=100
+0x876D9403=100
+
+;0x877FE052=~z~Okay, Mr ADD - I was just warming up.
+0x877FE052=~z~Okay, Mr ADD - I was just warming up.
+
+;0x87841AA7=090
+0x87841AA7=090
+
+;0x87F840CC=~z~Pussies!
+0x87F840CC=~z~Pussies!
+
+;0x8820A90F=~z~Shit - Jackie will kill me - Johnny - let's split.
+0x8820A90F=~z~Shit - Jackie will kill me - Johnny - let's split.
+
+;0x8907EF74=~z~This show better be good.
+0x8907EF74=~z~This show better be good.
+
+;0x8A258D0E=~z~Hey Einstein, you'll need a bike.
+0x8A258D0E=~z~Hey Einstein, you'll need a bike.
+
+;0x8AF13D11=~z~Next time, let's finish the fucking game man.
+0x8AF13D11=~z~Next time, let's finish the fucking game man.
+
+;0x8B803047=~z~Johnny, man I gotta split.
+0x8B803047=~z~Johnny, man I gotta split.
+
+;0x8BCDC625=~z~We should have watched the end.
+0x8BCDC625=~z~We should have watched the end.
+
+;0x8C81983C=~z~Hey we should have finished that shit.
+0x8C81983C=~z~Hey we should have finished that shit.
+
+;0x8CA43712=E1FCJ3_ACT_DROPOFFA
+0x8CA43712=E1FCJ3_ACT_DROPOFFA
+
+;0x8F0F2BF4=~z~Let's see what you got buddy.
+0x8F0F2BF4=~z~Let's see what you got buddy.
+
+;0x911B173F=E1FCJ3_ACT_QUIT_AND_LEAVE_DRUNKA
+0x911B173F=E1FCJ3_ACT_QUIT_AND_LEAVE_DRUNKA
+
+;0x91D66D9F=E1FCJ3_ACT_LEAVE_PUB_FAVOURITEA
+0x91D66D9F=E1FCJ3_ACT_LEAVE_PUB_FAVOURITEA
+
+;0x91F7D4E5=~z~This ain't what we said man. What the fuck is wrong with you?
+0x91F7D4E5=~z~This ain't what we said man. What the fuck is wrong with you?
+
+;0x926E355C=~z~I feel my luck is in tonight.
+0x926E355C=~z~I feel my luck is in tonight.
+
+;0x9272136D=100
+0x9272136D=100
+
+;0x92D56ECE=~z~Let's do this.
+0x92D56ECE=~z~Let's do this.
+
+;0x94034352=~z~Go round up some brothers, man.
+0x94034352=~z~Go round up some brothers, man.
+
+;0x9494CD17=~z~Lucky I didn't puke in there.
+0x9494CD17=~z~Lucky I didn't puke in there.
+
+;0x94B482ED=E1FCJ3_ACT_LEAVE_EATERY_FAVOURITEA
+0x94B482ED=E1FCJ3_ACT_LEAVE_EATERY_FAVOURITEA
+
+;0x94E7B5C3=~z~Sure, I'll beat you at pool if you want.
+0x94E7B5C3=~z~Sure, I'll beat you at pool if you want.
+
+;0x94FAA247=~z~A draw seems fair, brother.
+0x94FAA247=~z~A draw seems fair, brother.
+
+;0x952D2DF4=100
+0x952D2DF4=100
+
+;0x953B00F4=100
+0x953B00F4=100
+
+;0x95C1CF9F=~z~Okay, man, let's do this.
+0x95C1CF9F=~z~Okay, man, let's do this.
+
+;0x9874D196=E1FCJ3_ACT_ARRIVE_HI_LO_CARDS_DRUNKA
+0x9874D196=E1FCJ3_ACT_ARRIVE_HI_LO_CARDS_DRUNKA
+
+;0x98C7685E=E1FCJ3_ACT_ARRIVE_PUB_GOODA
+0x98C7685E=E1FCJ3_ACT_ARRIVE_PUB_GOODA
+
+;0x998A6359=100
+0x998A6359=100
+
+;0x9E54EFD0=100
+0x9E54EFD0=100
+
+;0xA00E1F30=~z~Let's play some fucking pool.
+0xA00E1F30=~z~Let's play some fucking pool.
+
+;0xA08D8932=~z~That food was fantastic.
+0xA08D8932=~z~That food was fantastic.
+
+;0xA1431B0C=E1FCJ3_ACT_EATERY_LEAVE_DRUNKA
+0xA1431B0C=E1FCJ3_ACT_EATERY_LEAVE_DRUNKA
+
+;0xA2A97648=~z~What we doing here, man? I ain't down with this shit.
+0xA2A97648=~z~What we doing here, man? I ain't down with this shit.
+
+;0xA2A9C3BD=~z~Fuck yeah boys. Good to see your ugly faces.
+0xA2A9C3BD=~z~Fuck yeah boys. Good to see your ugly faces.
+
+;0xA3D3D09D=100
+0xA3D3D09D=100
+
+;0xA46E5516=E1FCJ3_ACT_AIRHOCK_LEAVE_DRAWA
+0xA46E5516=E1FCJ3_ACT_AIRHOCK_LEAVE_DRAWA
+
+;0xA56230D6=E1FCJ3_ACT_LEAVE_PUB_FIGHTA
+0xA56230D6=E1FCJ3_ACT_LEAVE_PUB_FIGHTA
+
+;0xA59363F4=~z~I gotta get home, man.
+0xA59363F4=~z~I gotta get home, man.
+
+;0xA5CA7C70=~z~You're fucking pathetic!
+0xA5CA7C70=~z~You're fucking pathetic!
+
+;0xA627783C=100
+0xA627783C=100
+
+;0xA638F05F=~z~Man, I'm too drunk for more pool.
+0xA638F05F=~z~Man, I'm too drunk for more pool.
+
+;0xA639E7BF=~z~We need numbers for this. Go get some of the boys.
+0xA639E7BF=~z~We need numbers for this. Go get some of the boys.
+
+;0xA69B45F9=~z~You'll need a bike, genius.
+0xA69B45F9=~z~You'll need a bike, genius.
+
+;0xA6DDF4FA=100
+0xA6DDF4FA=100
+
+;0xA877BE7C=~z~That was a good meal.
+0xA877BE7C=~z~That was a good meal.
+
+;0xA8BC9826=E1FCJ3_ACT_POOL_LEAVE_DRUNKA
+0xA8BC9826=E1FCJ3_ACT_POOL_LEAVE_DRUNKA
+
+;0xA8ED4EA7=E1FCJ3_ACT_POOL_LEAVE_ABANDONEDA
+0xA8ED4EA7=E1FCJ3_ACT_POOL_LEAVE_ABANDONEDA
+
+;0xAA30733B=100
+0xAA30733B=100
+
+;0xAAD5A7D1=100
+0xAAD5A7D1=100
+
+;0xAC18BB79=100
+0xAC18BB79=100
+
+;0xAD006786=E1FCJ3_ACT_ARRIVE_EATERY_AVERAGEA
+0xAD006786=E1FCJ3_ACT_ARRIVE_EATERY_AVERAGEA
+
+;0xADBC8832=~z~Come on, let's hawk strange women.
+0xADBC8832=~z~Come on, let's hawk strange women.
+
+;0xB13E06E4=~z~Man I'm too drunk for women - I should go back to my wife.
+0xB13E06E4=~z~Man I'm too drunk for women - I should go back to my wife.
+
+;0xB1A0561F=~z~Brother, you still lost your dignity.
+0xB1A0561F=~z~Brother, you still lost your dignity.
+
+;0xB1CB68EB=100
+0xB1CB68EB=100
+
+;0xB2F5F216=100
+0xB2F5F216=100
+
+;0xB4AA7106=~z~Drink was okay, man.
+0xB4AA7106=~z~Drink was okay, man.
+
+;0xB4C97F88=E1FCJ3_ACT_AIRHOCK_LEAVE_ABANDONEDA
+0xB4C97F88=E1FCJ3_ACT_AIRHOCK_LEAVE_ABANDONEDA
+
+;0xB4D4B140=100
+0xB4D4B140=100
+
+;0xB6B2B66A=E1FCJ3_ACT_MEET_AT_ACTIVITY_NOT_LATEA
+0xB6B2B66A=E1FCJ3_ACT_MEET_AT_ACTIVITY_NOT_LATEA
+
+;0xB7851FE5=~z~You suck balls, man.
+0xB7851FE5=~z~You suck balls, man.
+
+;0xB9171B87=E1FCJ3_ACT_DARTS_LEAVE_WONA
+0xB9171B87=E1FCJ3_ACT_DARTS_LEAVE_WONA
+
+;0xBA011A49=~z~Let's fucking eat.
+0xBA011A49=~z~Let's fucking eat.
+
+;0xBA21B83A=E1FCJ3_ACT_GOHOME_DRUNKA
+0xBA21B83A=E1FCJ3_ACT_GOHOME_DRUNKA
+
+;0xBADE952A=E1FCJ3_ACT_ARRIVE_SHOWA
+0xBADE952A=E1FCJ3_ACT_ARRIVE_SHOWA
+
+;0xBB62B393=100
+0xBB62B393=100
+
+;0xBBD14D5D=E1FCJ3_ACT_ARRIVE_POOL_DRUNKA
+0xBBD14D5D=E1FCJ3_ACT_ARRIVE_POOL_DRUNKA
+
+;0xBCE5A26B=E1FCJ3_ACT_HI_LO_CARDS_LEAVE_DRUNKA
+0xBCE5A26B=E1FCJ3_ACT_HI_LO_CARDS_LEAVE_DRUNKA
+
+;0xBE66CDC2=100
+0xBE66CDC2=100
+
+;0xBF5E0474=~z~You been juicing buddy?
+0xBF5E0474=~z~You been juicing buddy?
+
+;0xBFEA2C8D=~z~Women!
+0xBFEA2C8D=~z~Women!
+
+;0xC10A6555=100
+0xC10A6555=100
+
+;0xC14F32A7=100
+0xC14F32A7=100
+
+;0xC16C0699=100
+0xC16C0699=100
+
+;0xC1D11C50=~z~It's not chance, man. It's skill. I feel the cards.
+0xC1D11C50=~z~It's not chance, man. It's skill. I feel the cards.
+
+;0xC1F276A1=~z~That bar is the best man.
+0xC1F276A1=~z~That bar is the best man.
+
+;0xC471A461=100
+0xC471A461=100
+
+;0xC4B281E7=~z~I can hardly see I'm so drunk - darts sounds perfect!
+0xC4B281E7=~z~I can hardly see I'm so drunk - darts sounds perfect!
+
+;0xC4CEB7B7=E1FCJ3_ACT_LEAVE_PUB_AVERAGEA
+0xC4CEB7B7=E1FCJ3_ACT_LEAVE_PUB_AVERAGEA
+
+;0xC50D8910=100
+0xC50D8910=100
+
+;0xC531BB3E=~z~Fuck all you ball sucking assholes
+0xC531BB3E=~z~Fuck all you ball sucking assholes
+
+;0xC62170DA=E1FCJ3_ACT_ARRIVE_ARM_WRESTLING_DRUNKA
+0xC62170DA=E1FCJ3_ACT_ARRIVE_ARM_WRESTLING_DRUNKA
+
+;0xC73BA383=E1FCJ3_ACT_DARTS_LEAVE_ABANDONEDA
+0xC73BA383=E1FCJ3_ACT_DARTS_LEAVE_ABANDONEDA
+
+;0xC80D5348=E1FCJ3_ACT_ARRIVE_DARTSA
+0xC80D5348=E1FCJ3_ACT_ARRIVE_DARTSA
+
+;0xC87F8992=100
+0xC87F8992=100
+
+;0xCA55CD5D=~z~Makes a change from Jackie.
+0xCA55CD5D=~z~Makes a change from Jackie.
+
+;0xCAD4AEEF=~z~Johnny man, I'm outta here. Bye.
+0xCAD4AEEF=~z~Johnny man, I'm outta here. Bye.
+
+;0xCB51E581=100
+0xCB51E581=100
+
+;0xCBDA1AC4=E1FCJ3_ACT_ARM_WRESTLING_LEAVE_FORFEITEDA
+0xCBDA1AC4=E1FCJ3_ACT_ARM_WRESTLING_LEAVE_FORFEITEDA
+
+;0xCC227173=~z~Every shot you played was a fluke man.
+0xCC227173=~z~Every shot you played was a fluke man.
+
+;0xCE52A99B=100
+0xCE52A99B=100
+
+;0xCEFAAF09=E1FCJ3_ACT_POOL_LEAVE_WONA
+0xCEFAAF09=E1FCJ3_ACT_POOL_LEAVE_WONA
+
+;0xCF482094=E1FCJ3_AA
+0xCF482094=E1FCJ3_AA
+
+;0xCF72492A=~z~Who the fuck won?
+0xCF72492A=~z~Who the fuck won?
+
+;0xD1481203=100
+0xD1481203=100
+
+;0xD1DFDDAB=E1FCJ3_ACT_HI_LO_CARDS_LEAVE_ABANDONEDA
+0xD1DFDDAB=E1FCJ3_ACT_HI_LO_CARDS_LEAVE_ABANDONEDA
+
+;0xD34B7000=~z~Not what you said, but I can hang.
+0xD34B7000=~z~Not what you said, but I can hang.
+
+;0xD3529F67=~z~Go get yourself a bike.
+0xD3529F67=~z~Go get yourself a bike.
+
+;0xD3B6E01F=~z~That was fun.
+0xD3B6E01F=~z~That was fun.
+
+;0xD48B4C0F=~z~You're not bad. Getting better
+0xD48B4C0F=~z~You're not bad. Getting better
+
+;0xD6540CED=E1FCJ3_ACT_DROPOFF_DRUNKA
+0xD6540CED=E1FCJ3_ACT_DROPOFF_DRUNKA
+
+;0xD6A86407=~z~You lucky bastard man.
+0xD6A86407=~z~You lucky bastard man.
+
+;0xD6B4D64D=100
+0xD6B4D64D=100
+
+;0xD783D9BA=~z~Let's see some tail.
+0xD783D9BA=~z~Let's see some tail.
+
+;0xD812496A=~z~Johnny - it's been fun, but I've got a wife to be shouted at. Goodbye.
+0xD812496A=~z~Johnny - it's been fun, but I've got a wife to be shouted at. Goodbye.
+
+;0xDBB7356E=100
+0xDBB7356E=100
+
+;0xDCE52462=E1FCJ3_ACT_ARM_WRESTLING_LEAVE_DRUNKA
+0xDCE52462=E1FCJ3_ACT_ARM_WRESTLING_LEAVE_DRUNKA
+
+;0xDD26B1F5=~z~The food here is okay.
+0xDD26B1F5=~z~The food here is okay.
+
+;0xDD48E544=~z~Let's see some fucking women then.
+0xDD48E544=~z~Let's see some fucking women then.
+
+;0xDD8A1679=~z~No man.
+0xDD8A1679=~z~No man.
+
+;0xDD9612A5=E1FCJ3_ACT_DIFF_STRIP_YESA
+0xDD9612A5=E1FCJ3_ACT_DIFF_STRIP_YESA
+
+;0xDF1DF1E0=E1FCJ3_ACT_ARRIVE_HI_LO_CARDSA
+0xDF1DF1E0=E1FCJ3_ACT_ARRIVE_HI_LO_CARDSA
+
+;0xE0533368=~z~You scared, brother?
+0xE0533368=~z~You scared, brother?
+
+;0xE06D49C4=100
+0xE06D49C4=100
+
+;0xE0AA1246=100
+0xE0AA1246=100
+
+;0xE11507D8=E1FCJ3_ACT_ARRIVE_PUB_FAVOURITEA
+0xE11507D8=E1FCJ3_ACT_ARRIVE_PUB_FAVOURITEA
+
+;0xE19BC8A7=~z~Lucky asshole. You must live in a bar.
+0xE19BC8A7=~z~Lucky asshole. You must live in a bar.
+
+;0xE1A3511E=E1FCJ3_ACT_POOL_LEAVE_LOSTA
+0xE1A3511E=E1FCJ3_ACT_POOL_LEAVE_LOSTA
+
+;0xE1D5EDF1=~z~Man, I'm still drunk.
+0xE1D5EDF1=~z~Man, I'm still drunk.
+
+;0xE4A0AFF7=~z~Man I am still drunk as shit.
+0xE4A0AFF7=~z~Man I am still drunk as shit.
+
+;0xE4BC3004=~z~Man, I love this place.
+0xE4BC3004=~z~Man, I love this place.
+
+;0xE52AC7DD=~z~Look at these assholes
+0xE52AC7DD=~z~Look at these assholes
+
+;0xE587917D=~z~I want to finish that shit man.
+0xE587917D=~z~I want to finish that shit man.
+
+;0xE5C07560=E1FCJ3_ACT_MEET_AT_ACTIVITY_LATEA
+0xE5C07560=E1FCJ3_ACT_MEET_AT_ACTIVITY_LATEA
+
+;0xE6286493=100
+0xE6286493=100
+
+;0xE68951EA=E1FCJ3_ACT_POOL_LEAVE_DRAWA
+0xE68951EA=E1FCJ3_ACT_POOL_LEAVE_DRAWA
+
+;0xE7201B8B=~z~I guess this establishment will have to suffice amigo.
+0xE7201B8B=~z~I guess this establishment will have to suffice amigo.
+
+;0xE749B54D=~z~Man, man, I ain't sobered up.
+0xE749B54D=~z~Man, man, I ain't sobered up.
+
+;0xE85DC444=100
+0xE85DC444=100
+
+;0xE98D3D50=~z~This place is okay, if you don't mind stomach ache.
+0xE98D3D50=~z~This place is okay, if you don't mind stomach ache.
+
+;0xEA284DEA=~z~I'm either gonna sober up or puke up.
+0xEA284DEA=~z~I'm either gonna sober up or puke up.
+
+;0xEBBFB2E4=~z~No, no, no, no.
+0xEBBFB2E4=~z~No, no, no, no.
+
+;0xEC7A060F=E1FCJ3_ACT_ARRIVE_DARTS_DRUNKA
+0xEC7A060F=E1FCJ3_ACT_ARRIVE_DARTS_DRUNKA
+
+;0xED94E0E1=~z~You remember today. It won't happen again.
+0xED94E0E1=~z~You remember today. It won't happen again.
+
+;0xEEE55E89=100
+0xEEE55E89=100
+
+;0xEEFD56BC=~z~Genius, come back when you've got a bike.
+0xEEFD56BC=~z~Genius, come back when you've got a bike.
+
+;0xEF464215=~z~Johnny - good to see you brother.
+0xEF464215=~z~Johnny - good to see you brother.
+
+;0xF102362F=~z~This shit better be good!
+0xF102362F=~z~This shit better be good!
+
+;0xF15358F2=E1FCJ3_ACT_ARM_WRESTLING_LEAVE_ABANDONEDA
+0xF15358F2=E1FCJ3_ACT_ARM_WRESTLING_LEAVE_ABANDONEDA
+
+;0xF178D316=~z~Man - that place should be shut down.
+0xF178D316=~z~Man - that place should be shut down.
+
+;0xF18B5ECC=090
+0xF18B5ECC=090
+
+;0xF202C15B=~z~I gotta split man.
+0xF202C15B=~z~I gotta split man.
+
+;0xF29E0B82=~z~Man, I've got the drunken munchies bad.
+0xF29E0B82=~z~Man, I've got the drunken munchies bad.
+
+;0xF2D565B6=~z~I don't usually play pool with women.
+0xF2D565B6=~z~I don't usually play pool with women.
+
+;0xF2F6BC98=100
+0xF2F6BC98=100
+
+;0xF3746470=~z~Drinking and fighting! Fucking genius.
+0xF3746470=~z~Drinking and fighting! Fucking genius.
+
+;0xF5423749=100
+0xF5423749=100
+
+;0xF74A6154=~z~I love that bar man.
+0xF74A6154=~z~I love that bar man.
+
+;0xF8711488=~z~Man, I'm seeing triple. I-I gotta get outta here.
+0xF8711488=~z~Man, I'm seeing triple. I-I gotta get outta here.
+
+;0xF92B8D90=~z~Thanks man - that's a big change from being screamed at my old lady - let's hang soon.
+0xF92B8D90=~z~Thanks man - that's a big change from being screamed at my old lady - let's hang soon.
+
+;0xFA3DE603=100
+0xFA3DE603=100
+
+;0xFAA911B9=~z~Man, I'm still drunk as shit. I need to sleep.
+0xFAA911B9=~z~Man, I'm still drunk as shit. I need to sleep.
+
+;0xFBAF1858=~z~I could eat man, sure.
+0xFBAF1858=~z~I could eat man, sure.
+
+;0xFE04C8C1=100
+0xFE04C8C1=100
+
+;0xFF3C9944=~z~I let you draw level, homeboy.
+0xFF3C9944=~z~I let you draw level, homeboy.
+
+;0xFF6989B7=~z~I'm still fucking drunk.
+0xFF6989B7=~z~I'm still fucking drunk.
+
+;0xFFDC0527=~z~Huh, lucky.
+0xFFDC0527=~z~Huh, lucky.
+

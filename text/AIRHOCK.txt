@@ -1,0 +1,37 @@
+﻿[AIRHOCK]
+;0x0FB1BD37=Terry scored!
+0x0FB1BD37=Terry scored!
+
+;0x16545390=Jim scored!
+0x16545390=Jim scored!
+
+;0x2092908B=Press ~INPUT_PICKUP~ to play air hockey.
+0x2092908B=Press ~INPUT_PICKUP~ to play air hockey.
+
+;0x239A8B67=Clay scored!
+0x239A8B67=Clay scored!
+
+;0x29FA63E4=~1~ : ~1~
+0x29FA63E4=~1~ : ~1~
+
+;0x2E001EF6=Use ~PAD_LSTICK_ALL~ to move the mallet. ~n~Push ~PAD_RSTICK_ALL~ in any direction to perform a power shot. ~n~Press ~PAD_BACK~ to change view. ~n~Press ~INPUT_PICKUP~ to quit.
+0x2E001EF6=Use ~PAD_LSTICK_ALL~ to move the mallet. ~n~Push ~PAD_RSTICK_ALL~ in any direction to perform a power shot. ~n~Press ~PAD_BACK~ to change view. ~n~Press ~INPUT_PICKUP~ to quit.
+
+;0x3D31BD59=The first player to score 7 goals wins the game.
+0x3D31BD59=The first player to score 7 goals wins the game.
+
+;0x43ED572F=Use ~PAD_RSTICK_ALL~ to move the mallet. ~n~Press ~INPUT_NEXT_CAMERA~ to change view. ~n~Press ~INPUT_PICKUP~ to quit.
+0x43ED572F=Use ~PAD_RSTICK_ALL~ to move the mallet. ~n~Press ~INPUT_NEXT_CAMERA~ to change view. ~n~Press ~INPUT_PICKUP~ to quit.
+
+;0x524CA500=You scored!
+0x524CA500=You scored!
+
+;0xC7009E60=Player ~1~ scored!
+0xC7009E60=Player ~1~ scored!
+
+;0xCF95E492=You win.
+0xCF95E492=You win.
+
+;0xE3B5361E=You lose.
+0xE3B5361E=You lose.
+

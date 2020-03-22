@@ -1,0 +1,976 @@
+﻿[E1E2AUD]
+;0x006A9DE5=~z~We go now?
+0x006A9DE5=~z~We go now?
+
+;0x00752D39=192
+0x00752D39=192
+
+;0x01E8896F=~z~Liberty Swingers good team, heh!
+0x01E8896F=~z~Liberty Swingers good team, heh!
+
+;0x02447C7E=~z~Police chasing us - not good. Is bad. Okay?
+0x02447C7E=~z~Police chasing us - not good. Is bad. Okay?
+
+;0x02E50C7D=~z~Thought you might want to join the welcoming party for a plane coming in from the Caribbean.
+0x02E50C7D=~z~Thought you might want to join the welcoming party for a plane coming in from the Caribbean.
+
+;0x03A439C1=E1E2_ME
+0x03A439C1=E1E2_ME
+
+;0x054813D7=SFX_PAUSE_740
+0x054813D7=SFX_PAUSE_740
+
+;0x05A66AA2=SFX_PAUSE_330
+0x05A66AA2=SFX_PAUSE_330
+
+;0x05DA406D=E1E2_MF
+0x05DA406D=E1E2_MF
+
+;0x06A68F8C=~z~Johnny Klebitz. Nice to meet you.
+0x06A68F8C=~z~Johnny Klebitz. Nice to meet you.
+
+;0x06F7F4F5=010090100
+0x06F7F4F5=010090100
+
+;0x0776AFDA=~z~One second.
+0x0776AFDA=~z~One second.
+
+;0x0817805F=~z~~c~a trip to Liberty City and another night or two with Elizabeta. At least she's good in bed.~s~
+0x0817805F=~z~~c~a trip to Liberty City and another night or two with Elizabeta. At least she's good in bed.~s~
+
+;0x08B32F94=~z~Cops are all over us. I'm sorry, lady.
+0x08B32F94=~z~Cops are all over us. I'm sorry, lady.
+
+;0x08DE103C=010090100
+0x08DE103C=010090100
+
+;0x091C210A=102092012
+0x091C210A=102092012
+
+;0x0A801B8D=~z~Shit. The cops have got an eye in the sky.
+0x0A801B8D=~z~Shit. The cops have got an eye in the sky.
+
+;0x0C04C879=~z~Johnny, we need to talk face to face.
+0x0C04C879=~z~Johnny, we need to talk face to face.
+
+;0x0C741AE4=SFX_PAUSE_210
+0x0C741AE4=SFX_PAUSE_210
+
+;0x0DA8A0EF=~z~What?
+0x0DA8A0EF=~z~What?
+
+;0x0DB0D928=E1E2_OE
+0x0DB0D928=E1E2_OE
+
+;0x0DE9F6C9=~z~They gonna hate you cos you from the Island.
+0x0DE9F6C9=~z~They gonna hate you cos you from the Island.
+
+;0x0DF2E47F=E1E2_LA
+0x0DF2E47F=E1E2_LA
+
+;0x0F6031BE=~z~Protect her from the fucking cops.
+0x0F6031BE=~z~Protect her from the fucking cops.
+
+;0x100336C9=SFX_PAUSE_300
+0x100336C9=SFX_PAUSE_300
+
+;0x10473450=SFX_PAUSE_240
+0x10473450=SFX_PAUSE_240
+
+;0x104F5AE8=SFX_PAUSE_300
+0x104F5AE8=SFX_PAUSE_300
+
+;0x115AFC93=~z~I fed him his balls.
+0x115AFC93=~z~I fed him his balls.
+
+;0x11F57386=100090010090100090100090100090100090010
+0x11F57386=100090010090100090100090100090100090010
+
+;0x12ECC839=E1E2_IA
+0x12ECC839=E1E2_IA
+
+;0x14393568=~z~Me, you go Liz Torres place. Yes? Okay?
+0x14393568=~z~Me, you go Liz Torres place. Yes? Okay?
+
+;0x151203FD=~z~Alright, let's do this Liz.
+0x151203FD=~z~Alright, let's do this Liz.
+
+;0x15404B6D=~z~No, all you gotta do is walk through customs and you home free.
+0x15404B6D=~z~No, all you gotta do is walk through customs and you home free.
+
+;0x1672CB13=~z~Just hold on tight while I lose these cops.
+0x1672CB13=~z~Just hold on tight while I lose these cops.
+
+;0x17C87C71=E1E2_XA
+0x17C87C71=E1E2_XA
+
+;0x18490302=E1E2_RA
+0x18490302=E1E2_RA
+
+;0x1A9C7EE2=SFX_PAUSE_560
+0x1A9C7EE2=SFX_PAUSE_560
+
+;0x1AF65644=~z~~c~Men and their guns. It's the same bullshit everywhere.~s~
+0x1AF65644=~z~~c~Men and their guns. It's the same bullshit everywhere.~s~
+
+;0x1B5994FC=SFX_PAUSE_200
+0x1B5994FC=SFX_PAUSE_200
+
+;0x1C165B1E=~z~You fucking missed a spot!
+0x1C165B1E=~z~You fucking missed a spot!
+
+;0x1C7BB539=SFX_PAUSE_410
+0x1C7BB539=SFX_PAUSE_410
+
+;0x1DAFC21A=~z~Sure thing Brother. I love an exotic arrival.
+0x1DAFC21A=~z~Sure thing Brother. I love an exotic arrival.
+
+;0x2134CDF0=SFX_PAUSE_650
+0x2134CDF0=SFX_PAUSE_650
+
+;0x2147B011=E1E2_PA
+0x2147B011=E1E2_PA
+
+;0x21ED2171=100090010090100
+0x21ED2171=100090010090100
+
+;0x21FB4A16=SFX_PAUSE_100
+0x21FB4A16=SFX_PAUSE_100
+
+;0x224139CB=E1E2_ND
+0x224139CB=E1E2_ND
+
+;0x2295089F=~z~This is sunny Bohan for you. You will be staying here. Good Luck!
+0x2295089F=~z~This is sunny Bohan for you. You will be staying here. Good Luck!
+
+;0x22F866DD=~z~Easy.
+0x22F866DD=~z~Easy.
+
+;0x2455E133=100090010090100
+0x2455E133=100090010090100
+
+;0x24DC60DA=E1E2_TC
+0x24DC60DA=E1E2_TC
+
+;0x25441548=SFX_PAUSE_430
+0x25441548=SFX_PAUSE_430
+
+;0x25B9586C=~z~Me take you back Liz house. Comprende?
+0x25B9586C=~z~Me take you back Liz house. Comprende?
+
+;0x266A5272=~z~-This is gonna be fun. Come on baby.~n~-Hey yo! Yo!
+0x266A5272=~z~-This is gonna be fun. Come on baby.~n~-Hey yo! Yo!
+
+;0x29260BCB=~z~Me no hablo mucho Spanish, lady.
+0x29260BCB=~z~Me no hablo mucho Spanish, lady.
+
+;0x293954B1=~z~Full of surprises and most of them bad.
+0x293954B1=~z~Full of surprises and most of them bad.
+
+;0x2D1AFD27=~z~You think this place look okay?
+0x2D1AFD27=~z~You think this place look okay?
+
+;0x2E2DE3A3=~z~Goodbye, Marta. I like you.
+0x2E2DE3A3=~z~Goodbye, Marta. I like you.
+
+;0x2E337976=~z~~c~Oh my God!~s~
+0x2E337976=~z~~c~Oh my God!~s~
+
+;0x2F0A760B=SFX_PAUSE_320
+0x2F0A760B=SFX_PAUSE_320
+
+;0x306326D6=010090100090100090100090010090100
+0x306326D6=010090100090100090100090010090100
+
+;0x30D10286=~z~Oh, it's you.
+0x30D10286=~z~Oh, it's you.
+
+;0x3137F529=~z~-Hey! Hold on. Your name Marta?~n~-Si! Si!
+0x3137F529=~z~-Hey! Hold on. Your name Marta?~n~-Si! Si!
+
+;0x31C8A8B6=~z~Hombres. Lost MC.
+0x31C8A8B6=~z~Hombres. Lost MC.
+
+;0x32BB7C2D=E1E2_A_CA
+0x32BB7C2D=E1E2_A_CA
+
+;0x34C9DDBC=SFX_PAUSE_240
+0x34C9DDBC=SFX_PAUSE_240
+
+;0x34EC7827=E1E2_GA
+0x34EC7827=E1E2_GA
+
+;0x35200514=~z~Okay. Here we are.
+0x35200514=~z~Okay. Here we are.
+
+;0x3566B674=E1E2_VB
+0x3566B674=E1E2_VB
+
+;0x3661555B=~z~You don't think I could survive out here if I wasn't dropping some people?
+0x3661555B=~z~You don't think I could survive out here if I wasn't dropping some people?
+
+;0x3663C7BC=~z~I'm the big boss.
+0x3663C7BC=~z~I'm the big boss.
+
+;0x366962FB=010090100090100090010090010090100090100090010
+0x366962FB=010090100090100090010090010090100090100090010
+
+;0x368FBEAC=E1E2_LD
+0x368FBEAC=E1E2_LD
+
+;0x37128B97=102092012
+0x37128B97=102092012
+
+;0x377EF49B=~z~Habla Ingles? Huh? Habla you're gonna suck American penis when you get into holding.
+0x377EF49B=~z~Habla Ingles? Huh? Habla you're gonna suck American penis when you get into holding.
+
+;0x37921215=~z~Andreas!
+0x37921215=~z~Andreas!
+
+;0x3826F700=~z~Jonathan. Whatever can I do for you?
+0x3826F700=~z~Jonathan. Whatever can I do for you?
+
+;0x3A3D3D2B=~z~No speakey E-Spanish, Marta. I'm sorry.
+0x3A3D3D2B=~z~No speakey E-Spanish, Marta. I'm sorry.
+
+;0x3CA17137=E1E2_NG
+0x3CA17137=E1E2_NG
+
+;0x3D1E205B=SFX_PAUSE_350
+0x3D1E205B=SFX_PAUSE_350
+
+;0x3D53F274=~z~I must lose these policemen. Yes?
+0x3D53F274=~z~I must lose these policemen. Yes?
+
+;0x3D70D288=E1E2_FA
+0x3D70D288=E1E2_FA
+
+;0x3E1E9C94=~z~Sorry about the welcoming party, sweet cheeks. But you gotta stay down.
+0x3E1E9C94=~z~Sorry about the welcoming party, sweet cheeks. But you gotta stay down.
+
+;0x3F5AB798=~z~~x~Ah... entiendo.
+0x3F5AB798=~z~~x~Ah... entiendo.
+
+;0x43139A6D=E1E2_A_CB
+0x43139A6D=E1E2_A_CB
+
+;0x43B0142B=SFX_PAUSE_480
+0x43B0142B=SFX_PAUSE_480
+
+;0x441E5AB9=E1E2_KC
+0x441E5AB9=E1E2_KC
+
+;0x44B8FC2C=~z~Sorry about the welcoming party sweet cheeks but you gotta stay down.
+0x44B8FC2C=~z~Sorry about the welcoming party sweet cheeks but you gotta stay down.
+
+;0x458C6E85=010010
+0x458C6E85=010010
+
+;0x45B7C766=SFX_PAUSE_400
+0x45B7C766=SFX_PAUSE_400
+
+;0x45BC5765=SFX_PAUSE_390
+0x45BC5765=SFX_PAUSE_390
+
+;0x46E4E8BE=~z~Okay.
+0x46E4E8BE=~z~Okay.
+
+;0x475E0793=E1E2_A_BA
+0x475E0793=E1E2_A_BA
+
+;0x48C1F107=~z~Concentrate on getting us outta this, not on her fucking tits, man.
+0x48C1F107=~z~Concentrate on getting us outta this, not on her fucking tits, man.
+
+;0x49075583=~z~And now we're entering Bohan. Liz lives in Bohan.
+0x49075583=~z~And now we're entering Bohan. Liz lives in Bohan.
+
+;0x4ACDB88C=~z~I missed a spot? No?
+0x4ACDB88C=~z~I missed a spot? No?
+
+;0x4B6A1767=E1E2_NB
+0x4B6A1767=E1E2_NB
+
+;0x4BEB1660=~z~We need air support!
+0x4BEB1660=~z~We need air support!
+
+;0x4D8E1D5A=~z~Marta. Okay then. Not exactly the best welcome you could expect but that's Liberty City for you.
+0x4D8E1D5A=~z~Marta. Okay then. Not exactly the best welcome you could expect but that's Liberty City for you.
+
+;0x4E14614D=~z~Elizabeta, I only work for her now because things are weird with my brothers.
+0x4E14614D=~z~Elizabeta, I only work for her now because things are weird with my brothers.
+
+;0x4F7CA1CC=E1E2_NF
+0x4F7CA1CC=E1E2_NF
+
+;0x50EF024E=E1E2_LC
+0x50EF024E=E1E2_LC
+
+;0x5223200D=E1E2_A_DB
+0x5223200D=E1E2_A_DB
+
+;0x538B0FB2=~z~Sure, why'd we needed to hit that convoy so hard?
+0x538B0FB2=~z~Sure, why'd we needed to hit that convoy so hard?
+
+;0x540465B9=E1E2_UB
+0x540465B9=E1E2_UB
+
+;0x55288A25=E1E2_KA
+0x55288A25=E1E2_KA
+
+;0x56524F95=~z~Si?
+0x56524F95=~z~Si?
+
+;0x565B9DFD=~z~~c~What the fuck is going on? This is even crazier than my homeland.~s~
+0x565B9DFD=~z~~c~What the fuck is going on? This is even crazier than my homeland.~s~
+
+;0x56B5E2BF=SFX_PAUSE_770
+0x56B5E2BF=SFX_PAUSE_770
+
+;0x5744170C=~z~Jesus!
+0x5744170C=~z~Jesus!
+
+;0x57E93CCB=~z~I'm taking you back to Elizabeta's.
+0x57E93CCB=~z~I'm taking you back to Elizabeta's.
+
+;0x58100A00=~z~I got a reputation in PR.
+0x58100A00=~z~I got a reputation in PR.
+
+;0x5A39B2FD=~z~Get a chopper in here!
+0x5A39B2FD=~z~Get a chopper in here!
+
+;0x5A83BD52=SFX_PAUSE_350
+0x5A83BD52=SFX_PAUSE_350
+
+;0x5A874B04=E1E2_MG
+0x5A874B04=E1E2_MG
+
+;0x5B195CAD=~z~I want you to help me pick up a friend from Francis International, so get your ass off the couch.
+0x5B195CAD=~z~I want you to help me pick up a friend from Francis International, so get your ass off the couch.
+
+;0x5D49232E=~z~Men and their motorcycles.
+0x5D49232E=~z~Men and their motorcycles.
+
+;0x5E3848BC=E1E2_A_FA
+0x5E3848BC=E1E2_A_FA
+
+;0x5EBAC4EC=E1E2_NH
+0x5EBAC4EC=E1E2_NH
+
+;0x5F73C484=~z~Huh?
+0x5F73C484=~z~Huh?
+
+;0x609EDC11=~z~~c~This? Okay then. Thank you, Johnny. I will see you soon.
+0x609EDC11=~z~~c~This? Okay then. Thank you, Johnny. I will see you soon.
+
+;0x619C7CB7=~z~~c~I need a shower after this terrible welcome. Ughh.~s~
+0x619C7CB7=~z~~c~I need a shower after this terrible welcome. Ughh.~s~
+
+;0x62BED4C2=SFX_PAUSE_470
+0x62BED4C2=SFX_PAUSE_470
+
+;0x62D74502=SFX_PAUSE_220
+0x62D74502=SFX_PAUSE_220
+
+;0x64C26C4A=E1E2_OA
+0x64C26C4A=E1E2_OA
+
+;0x656414D9=SFX_OVERLAP_4690
+0x656414D9=SFX_OVERLAP_4690
+
+;0x66519767=E1E2_LB
+0x66519767=E1E2_LB
+
+;0x66D7278E=~z~I wouldn't have married three of them if I thought that, right?
+0x66D7278E=~z~I wouldn't have married three of them if I thought that, right?
+
+;0x67033B06=~z~You, Marta, you first time in Liberty City?
+0x67033B06=~z~You, Marta, you first time in Liberty City?
+
+;0x67282B7F=E1E2_HA
+0x67282B7F=E1E2_HA
+
+;0x6828AB49=~z~Okay.
+0x6828AB49=~z~Okay.
+
+;0x695D97DF=~z~~c~Elizabeta and me? We met in Puerto Rico, on a very hot night.~s~
+0x695D97DF=~z~~c~Elizabeta and me? We met in Puerto Rico, on a very hot night.~s~
+
+;0x6A27915F=E1E2_UA
+0x6A27915F=E1E2_UA
+
+;0x6C582A0D=400090090
+0x6C582A0D=400090090
+
+;0x6DBD24D0=E1E2_VA
+0x6DBD24D0=E1E2_VA
+
+;0x6DE6CD26=E1E2_TB
+0x6DE6CD26=E1E2_TB
+
+;0x6E4590BE=E1E2_LE
+0x6E4590BE=E1E2_LE
+
+;0x7068DF5B=~z~Bring in the chopper!
+0x7068DF5B=~z~Bring in the chopper!
+
+;0x7081519A=~z~I'm gonna punish that bitch twice as hard.
+0x7081519A=~z~I'm gonna punish that bitch twice as hard.
+
+;0x70A09454=SFX_PAUSE_330
+0x70A09454=SFX_PAUSE_330
+
+;0x71564B30=~z~-I don't want no fucking excuses, get the fuck back in the kitchen.~n~-Okay. Okay.
+0x71564B30=~z~-I don't want no fucking excuses, get the fuck back in the kitchen.~n~-Okay. Okay.
+
+;0x72829C3A=090
+0x72829C3A=090
+
+;0x72C7F547=~z~Who the little lady, man?
+0x72C7F547=~z~Who the little lady, man?
+
+;0x748BC743=E1E2_LF
+0x748BC743=E1E2_LF
+
+;0x74CDC37B=~z~I ain't saying all men are bad,
+0x74CDC37B=~z~I ain't saying all men are bad,
+
+;0x7527EF86=E1E2_NC
+0x7527EF86=E1E2_NC
+
+;0x759A3A84=E1E2_SA
+0x759A3A84=E1E2_SA
+
+;0x75B6EBDF=090
+0x75B6EBDF=090
+
+;0x77ADAD58=E1E2_WA
+0x77ADAD58=E1E2_WA
+
+;0x781958CE=~z~You had a good time the other day with those boys?
+0x781958CE=~z~You had a good time the other day with those boys?
+
+;0x7899B660=SFX_PAUSE_620
+0x7899B660=SFX_PAUSE_620
+
+;0x7A6FE1DF=~z~~c~Liberty City. Swingers Baseball. Statue of Happiness. Ugly women.~s~
+0x7A6FE1DF=~z~~c~Liberty City. Swingers Baseball. Statue of Happiness. Ugly women.~s~
+
+;0x7B093F43=E1E2_OD
+0x7B093F43=E1E2_OD
+
+;0x7C5F7F4A=~z~We got a chopper on us.
+0x7C5F7F4A=~z~We got a chopper on us.
+
+;0x7D04F8FB=~z~Chopper! Chopper! Bring in the bird!
+0x7D04F8FB=~z~Chopper! Chopper! Bring in the bird!
+
+;0x7DDFF974=E1E2_QA
+0x7DDFF974=E1E2_QA
+
+;0x7F1790EB=~z~and, in a minute, blowing me.
+0x7F1790EB=~z~and, in a minute, blowing me.
+
+;0x7FE2FE48=092
+0x7FE2FE48=092
+
+;0x8164740E=~z~What are you saying? Just sit tight!
+0x8164740E=~z~What are you saying? Just sit tight!
+
+;0x82E10B62=~z~Yeah, well, the only thing this girl works hard at is swallowing bags of coke,
+0x82E10B62=~z~Yeah, well, the only thing this girl works hard at is swallowing bags of coke,
+
+;0x8300F699=~z~You immigrant lovin' asshole.
+0x8300F699=~z~You immigrant lovin' asshole.
+
+;0x8388CE6B=E1E2_A_AA
+0x8388CE6B=E1E2_A_AA
+
+;0x83ACEFDD=~z~I was in the kitchen. I was doing the thing you told me...
+0x83ACEFDD=~z~I was in the kitchen. I was doing the thing you told me...
+
+;0x852743CC=~z~~c~So, now we are going to the five star hotel? ~s~
+0x852743CC=~z~~c~So, now we are going to the five star hotel? ~s~
+
+;0x85EDC4C1=E1E2_NA
+0x85EDC4C1=E1E2_NA
+
+;0x86B38AE0=SFX_PAUSE_400
+0x86B38AE0=SFX_PAUSE_400
+
+;0x86C46768=~z~Okay, okay, go get my girl, Marta.
+0x86C46768=~z~Okay, okay, go get my girl, Marta.
+
+;0x8744EF67=~z~Johnny. What did you do to my baby girl?
+0x8744EF67=~z~Johnny. What did you do to my baby girl?
+
+;0x89EBFC73=~z~What's up?
+0x89EBFC73=~z~What's up?
+
+;0x8DE3B3D1=010090100090010090010090100090100090010
+0x8DE3B3D1=010090100090010090010090100090100090010
+
+;0x8E68D064=SFX_PAUSE_420
+0x8E68D064=SFX_PAUSE_420
+
+;0x8EB69C5E=~z~Where's the eye in the sky? Bring her in!
+0x8EB69C5E=~z~Where's the eye in the sky? Bring her in!
+
+;0x9042E5F4=010
+0x9042E5F4=010
+
+;0x92630271=E1E2_KB
+0x92630271=E1E2_KB
+
+;0x9414E10B=~z~~c~You pretend to be macho, but you like members of the same sex, as I do. How crazy.~s~
+0x9414E10B=~z~~c~You pretend to be macho, but you like members of the same sex, as I do. How crazy.~s~
+
+;0x94666AB1=E1E2_OC
+0x94666AB1=E1E2_OC
+
+;0x953EBD39=~z~So, sir, excuse me...
+0x953EBD39=~z~So, sir, excuse me...
+
+;0x95705023=100090010090100
+0x95705023=100090010090100
+
+;0x9629C478=E1E2_MA
+0x9629C478=E1E2_MA
+
+;0x969CBCF0=~z~None of your concern, man.
+0x969CBCF0=~z~None of your concern, man.
+
+;0x97281E86=~z~~c~And these condoms floating inside my belly could burst at any moment.~s~
+0x97281E86=~z~~c~And these condoms floating inside my belly could burst at any moment.~s~
+
+;0x984080EF=E1E2_EA
+0x984080EF=E1E2_EA
+
+;0x998DD025=~z~~c~Oh my God!~s~
+0x998DD025=~z~~c~Oh my God!~s~
+
+;0x9A80C7C5=~z~They ain't hauling this lady down the immigration center. Come on.
+0x9A80C7C5=~z~They ain't hauling this lady down the immigration center. Come on.
+
+;0x9A92AA6F=400090040
+0x9A92AA6F=400090040
+
+;0x9BCA8F90=SFX_PAUSE_240
+0x9BCA8F90=SFX_PAUSE_240
+
+;0x9C002897=~z~That was un-American, dickhead!
+0x9C002897=~z~That was un-American, dickhead!
+
+;0x9CBB29A4=~z~~c~I take all the risks. And for what? A few measly hundred bucks,~s~
+0x9CBB29A4=~z~~c~I take all the risks. And for what? A few measly hundred bucks,~s~
+
+;0x9EE4AAC8=~z~~c~Sleazy politicians. Gun crime.~s~
+0x9EE4AAC8=~z~~c~Sleazy politicians. Gun crime.~s~
+
+;0x9F0360FE=~z~Come fluff these pillows and get that spot off my couch.
+0x9F0360FE=~z~Come fluff these pillows and get that spot off my couch.
+
+;0x9F2B9836=~z~Man tried to turn me out, when I was fourteen years old...
+0x9F2B9836=~z~Man tried to turn me out, when I was fourteen years old...
+
+;0xA2E7A6AC=~z~I looked after her, Liz. Like you asked.
+0xA2E7A6AC=~z~I looked after her, Liz. Like you asked.
+
+;0xA3461167=E1E2_SC
+0xA3461167=E1E2_SC
+
+;0xA4D5364C=400090040
+0xA4D5364C=400090040
+
+;0xA62631C8=SFX_PAUSE_200
+0xA62631C8=SFX_PAUSE_200
+
+;0xA713930E=E1E2_KD
+0xA713930E=E1E2_KD
+
+;0xA76B619A=~z~We can't let the pigs take hold of this girl.
+0xA76B619A=~z~We can't let the pigs take hold of this girl.
+
+;0xA7BC4250=010
+0xA7BC4250=010
+
+;0xA9B61FFD=SFX_PAUSE_300
+0xA9B61FFD=SFX_PAUSE_300
+
+;0xAB463183=~z~When you the big boss, and you me, these bodies got to come with it.
+0xAB463183=~z~When you the big boss, and you me, these bodies got to come with it.
+
+;0xAB8D55B4=~z~Okay, you and I need some wheels right about now.
+0xAB8D55B4=~z~Okay, you and I need some wheels right about now.
+
+;0xAC5DCB5C=~z~This ain't much of a first date, Johnny. You should treat a lady right.
+0xAC5DCB5C=~z~This ain't much of a first date, Johnny. You should treat a lady right.
+
+;0xACBB9D67=E1E2_OF
+0xACBB9D67=E1E2_OF
+
+;0xADDFE0BC=E1E2_A_GA
+0xADDFE0BC=E1E2_A_GA
+
+;0xADECB5B8=~z~When I ended that fucker,
+0xADECB5B8=~z~When I ended that fucker,
+
+;0xAE178234=~z~Man, the new episode of the Men's Room's just come on. What you want?
+0xAE178234=~z~Man, the new episode of the Men's Room's just come on. What you want?
+
+;0xAE44CD20=~z~We should close the borders to people like you.
+0xAE44CD20=~z~We should close the borders to people like you.
+
+;0xAF0216C1=~z~I always tell you to pack light, brother. We'll be there.
+0xAF0216C1=~z~I always tell you to pack light, brother. We'll be there.
+
+;0xAF28FB5B=~z~~c~Where is Elizabeta? When are we going to see her?~s~
+0xAF28FB5B=~z~~c~Where is Elizabeta? When are we going to see her?~s~
+
+;0xB01E812B=~z~-Andreas! Andreas!~n~-Okay... okay...
+0xB01E812B=~z~-Andreas! Andreas!~n~-Okay... okay...
+
+;0xB0462917=E1E2_SB
+0xB0462917=E1E2_SB
+
+;0xB1586198=E1E2_QB
+0xB1586198=E1E2_QB
+
+;0xB175C0EB=E1E2_A_EA
+0xB175C0EB=E1E2_A_EA
+
+;0xB199C1FA=SFX_PAUSE_170
+0xB199C1FA=SFX_PAUSE_170
+
+;0xB1F55BA0=202
+0xB1F55BA0=202
+
+;0xB3029EE6=~z~Loco. Yeah. I get loco.
+0xB3029EE6=~z~Loco. Yeah. I get loco.
+
+;0xB37B53F5=~z~~c~The most self absorbed place on earth. Yes, Liberty City.~s~
+0xB37B53F5=~z~~c~The most self absorbed place on earth. Yes, Liberty City.~s~
+
+;0xB46055A3=~z~Liberty City. Very good. You learn good. I mean, you're learning very well.
+0xB46055A3=~z~Liberty City. Very good. You learn good. I mean, you're learning very well.
+
+;0xB4EFA913=SFX_PAUSE_400
+0xB4EFA913=SFX_PAUSE_400
+
+;0xB50DF647=E1E2_MD
+0xB50DF647=E1E2_MD
+
+;0xB5C92E56=SFX_PAUSE_720
+0xB5C92E56=SFX_PAUSE_720
+
+;0xB77E6D8E=SFX_PAUSE_270
+0xB77E6D8E=SFX_PAUSE_270
+
+;0xB862F302=~z~~c~Are you talking about what happened to the guards? If you are smuggling~s~
+0xB862F302=~z~~c~Are you talking about what happened to the guards? If you are smuggling~s~
+
+;0xB8C68F19=~z~Yo, man. We're coming.
+0xB8C68F19=~z~Yo, man. We're coming.
+
+;0xB98DCE12=~z~I came up from a rough background.
+0xB98DCE12=~z~I came up from a rough background.
+
+;0xB9AB4ACE=E1E2_A_HA
+0xB9AB4ACE=E1E2_A_HA
+
+;0xB9B06FE6=SFX_PAUSE_340
+0xB9B06FE6=SFX_PAUSE_340
+
+;0xBA188E79=100090010090100090100
+0xBA188E79=100090010090100090100
+
+;0xBA3944A1=E1E2_KF
+0xBA3944A1=E1E2_KF
+
+;0xBAC2E5BB=~z~~c~Sometimes I ask myself if it's all worth it. They could've shot me.~s~
+0xBAC2E5BB=~z~~c~Sometimes I ask myself if it's all worth it. They could've shot me.~s~
+
+;0xBB8E981B=~z~No, uh, speak up, I can't hear what you're saying.
+0xBB8E981B=~z~No, uh, speak up, I can't hear what you're saying.
+
+;0xBB97510D=~z~I'm just saying you should limit your casualties.
+0xBB97510D=~z~I'm just saying you should limit your casualties.
+
+;0xBC3D7429=E1E2_NE
+0xBC3D7429=E1E2_NE
+
+;0xBC6B5B1F=E1E2_DB
+0xBC6B5B1F=E1E2_DB
+
+;0xBD3C4BBF=SFX_PAUSE_400
+0xBD3C4BBF=SFX_PAUSE_400
+
+;0xBEB0DD50=~z~~c~You are not exactly who I expected, Mr. Johnny.~s~
+0xBEB0DD50=~z~~c~You are not exactly who I expected, Mr. Johnny.~s~
+
+;0xBF896FA9=~z~Why'd you have to go and wreck the party?
+0xBF896FA9=~z~Why'd you have to go and wreck the party?
+
+;0xBFFF050E=090
+0xBFFF050E=090
+
+;0xC11E29B9=E1E2_DA
+0xC11E29B9=E1E2_DA
+
+;0xC317F65D=~z~You, uh, maybe want to go out sometime? Let me show you around?
+0xC317F65D=~z~You, uh, maybe want to go out sometime? Let me show you around?
+
+;0xC3D68E3B=~z~We got a damn police copter on our tail. Shit.
+0xC3D68E3B=~z~We got a damn police copter on our tail. Shit.
+
+;0xC4037089=~z~Hey, Johnny boy.
+0xC4037089=~z~Hey, Johnny boy.
+
+;0xC5FE9EC0=~z~Don't let the pigs near her.
+0xC5FE9EC0=~z~Don't let the pigs near her.
+
+;0xC6965FB6=~z~This little lady's in our protection, boys. Look after her.
+0xC6965FB6=~z~This little lady's in our protection, boys. Look after her.
+
+;0xC745CB54=E1E2_A_DA
+0xC745CB54=E1E2_A_DA
+
+;0xC79B3FA3=~z~Shit, Liz. I don't know how to tell you this, but the girl - she didn't make it.
+0xC79B3FA3=~z~Shit, Liz. I don't know how to tell you this, but the girl - she didn't make it.
+
+;0xC836A330=~z~This girl's in Lost MC protection. Come on.
+0xC836A330=~z~This girl's in Lost MC protection. Come on.
+
+;0xC8826E0B=SFX_PAUSE_350
+0xC8826E0B=SFX_PAUSE_350
+
+;0xC9066D03=~z~Stupid people think Latinas ain't worth shit in this town.
+0xC9066D03=~z~Stupid people think Latinas ain't worth shit in this town.
+
+;0xCA1884CB=~z~You ain't no patriot.
+0xCA1884CB=~z~You ain't no patriot.
+
+;0xCA4AE2BF=E1E2_EB
+0xCA4AE2BF=E1E2_EB
+
+;0xCA536E85=~z~No man touched me after that.
+0xCA536E85=~z~No man touched me after that.
+
+;0xCCE8DEF4=~z~~c~We fuck, yes. But it is nothing serious.~s~
+0xCCE8DEF4=~z~~c~We fuck, yes. But it is nothing serious.~s~
+
+;0xCD02C49D=SFX_PAUSE_560
+0xCD02C49D=SFX_PAUSE_560
+
+;0xCD5D1944=092
+0xCD5D1944=092
+
+;0xCD9FB3AF=~z~Uhh. Yeah. Whatever Darling.
+0xCD9FB3AF=~z~Uhh. Yeah. Whatever Darling.
+
+;0xCDF4BCD7=~z~Why do I pay you to protect me when you don't do nothing?
+0xCDF4BCD7=~z~Why do I pay you to protect me when you don't do nothing?
+
+;0xCE3E7D59=~z~Yeah. Well, she okay now, you know. That's all that matters. huh. Thank you, Johnny.
+0xCE3E7D59=~z~Yeah. Well, she okay now, you know. That's all that matters. huh. Thank you, Johnny.
+
+;0xCE40B98A=~z~~c~Help me.~s~
+0xCE40B98A=~z~~c~Help me.~s~
+
+;0xCEBD1C13=~z~We're gonna need some transport.
+0xCEBD1C13=~z~We're gonna need some transport.
+
+;0xCED396BD=SFX_PAUSE_300
+0xCED396BD=SFX_PAUSE_300
+
+;0xCF409516=E1E2_A_BB
+0xCF409516=E1E2_A_BB
+
+;0xCF7996C1=~z~Man, we've got to shake these cops.
+0xCF7996C1=~z~Man, we've got to shake these cops.
+
+;0xD065BEFA=~z~The LCPD sure got a hardon for you, lady.
+0xD065BEFA=~z~The LCPD sure got a hardon for you, lady.
+
+;0xD0CF8A39=~z~You know all these bodies can't be good for your business.
+0xD0CF8A39=~z~You know all these bodies can't be good for your business.
+
+;0xD1CB4689=~z~It so hard to get it nice again once the assholes have their party.
+0xD1CB4689=~z~It so hard to get it nice again once the assholes have their party.
+
+;0xD2142AB6=~z~The assholes have sent a fucking chopper.
+0xD2142AB6=~z~The assholes have sent a fucking chopper.
+
+;0xD3C5240A=E1E2_A_EB
+0xD3C5240A=E1E2_A_EB
+
+;0xD3E1E49F=010090100
+0xD3E1E49F=010090100
+
+;0xD4970174=SFX_PAUSE_160
+0xD4970174=SFX_PAUSE_160
+
+;0xD4C40EA2=SFX_PAUSE_240
+0xD4C40EA2=SFX_PAUSE_240
+
+;0xD4FABD7D=E1E2_MC
+0xD4FABD7D=E1E2_MC
+
+;0xD940ED24=SFX_PAUSE_190
+0xD940ED24=SFX_PAUSE_190
+
+;0xDA51ED60=~z~Terry. I need some help with my baggage at the Airport. A lot of help.
+0xDA51ED60=~z~Terry. I need some help with my baggage at the Airport. A lot of help.
+
+;0xDA7EFC78=SFX_PAUSE_450
+0xDA7EFC78=SFX_PAUSE_450
+
+;0xDAC19A66=392
+0xDAC19A66=392
+
+;0xDBAC54E4=~z~I had some troubles in customs at Francis International, man. Can you help out?
+0xDBAC54E4=~z~I had some troubles in customs at Francis International, man. Can you help out?
+
+;0xDBB45856=~z~Yeah. I'll see you soon.
+0xDBB45856=~z~Yeah. I'll see you soon.
+
+;0xDC18BDD0=~z~Well... drug mule skanks ain't usually this cute.
+0xDC18BDD0=~z~Well... drug mule skanks ain't usually this cute.
+
+;0xDCD3B840=~z~We ain't walking out of here. I need to find us some wheels.
+0xDCD3B840=~z~We ain't walking out of here. I need to find us some wheels.
+
+;0xDD8AC37D=E1E2_MB
+0xDD8AC37D=E1E2_MB
+
+;0xDD8F594D=~z~Don't worry about the cops, lady. I'll lose them for you.
+0xDD8F594D=~z~Don't worry about the cops, lady. I'll lose them for you.
+
+;0xDDB5DE43=~z~Maybe the language barrier might be an insurmountable hindrance in this relationship.
+0xDDB5DE43=~z~Maybe the language barrier might be an insurmountable hindrance in this relationship.
+
+;0xDE554249=~z~I don't know about you,
+0xDE554249=~z~I don't know about you,
+
+;0xDF11A43E=E1E2_TA
+0xDF11A43E=E1E2_TA
+
+;0xDF7C51BB=~z~LCPD ain't taking this cargo.
+0xDF7C51BB=~z~LCPD ain't taking this cargo.
+
+;0xDF92FAFC=E1E2_KE
+0xDF92FAFC=E1E2_KE
+
+;0xE0BC8A2B=~z~~c~I hope nothing has ruptured.~s~
+0xE0BC8A2B=~z~~c~I hope nothing has ruptured.~s~
+
+;0xE173ACA3=100090100090010090100090100090010
+0xE173ACA3=100090100090010090100090100090010
+
+;0xE2119F19=~z~People gonna love you but they gonna hate you even more. Right?
+0xE2119F19=~z~People gonna love you but they gonna hate you even more. Right?
+
+;0xE21A16BD=~z~Come on, boys. Get to work.
+0xE21A16BD=~z~Come on, boys. Get to work.
+
+;0xE243C6C7=~z~Okay, Johnny. My name is Marta.
+0xE243C6C7=~z~Okay, Johnny. My name is Marta.
+
+;0xE44FA395=~z~Now you're starting to sound like Billy.
+0xE44FA395=~z~Now you're starting to sound like Billy.
+
+;0xE59D8630=E1E2_LG
+0xE59D8630=E1E2_LG
+
+;0xE76A7F39=~z~Johnny, where the fuck are you? This is taking too long.
+0xE76A7F39=~z~Johnny, where the fuck are you? This is taking too long.
+
+;0xE7E3041B=E1E2_ZB
+0xE7E3041B=E1E2_ZB
+
+;0xE7E78590=SFX_PAUSE_900
+0xE7E78590=SFX_PAUSE_900
+
+;0xE8062C86=SFX_PAUSE_190
+0xE8062C86=SFX_PAUSE_190
+
+;0xE8790162=~z~Marta? Johnny, what did you do? What the fuck did you do?
+0xE8790162=~z~Marta? Johnny, what did you do? What the fuck did you do?
+
+;0xE956FC65=E1E2_OB
+0xE956FC65=E1E2_OB
+
+;0xE96BEFE0=~z~~c~We haven't even been introduced.~s~
+0xE96BEFE0=~z~~c~We haven't even been introduced.~s~
+
+;0xEA41A40C=010
+0xEA41A40C=010
+
+;0xEB5774DD=~z~Hold onto your hat, lady. I got to lose the heat.
+0xEB5774DD=~z~Hold onto your hat, lady. I got to lose the heat.
+
+;0xEB6F77CC=~z~Don't worry about my friend Johnny. He's uh... he's ugly, but he don't bite.
+0xEB6F77CC=~z~Don't worry about my friend Johnny. He's uh... he's ugly, but he don't bite.
+
+;0xEC9D1E68=~z~You Liz Torres old friends? You, Liz amigos?
+0xEC9D1E68=~z~You Liz Torres old friends? You, Liz amigos?
+
+;0xEF53B130=~z~Kick some ass, boys. We got to look after the lady.
+0xEF53B130=~z~Kick some ass, boys. We got to look after the lady.
+
+;0xEF5881A3=~z~She just came in on the Adios flight from PR.
+0xEF5881A3=~z~She just came in on the Adios flight from PR.
+
+;0xF0ABE6F6=~z~but the America I believe in doesn't deport hard working young girls like this one.
+0xF0ABE6F6=~z~but the America I believe in doesn't deport hard working young girls like this one.
+
+;0xF0F47A58=~z~~c~tens of thousands of dollars worth of cocaine into a country, you cannot expect smiles and kisses.~s~
+0xF0F47A58=~z~~c~tens of thousands of dollars worth of cocaine into a country, you cannot expect smiles and kisses.~s~
+
+;0xF1667BD0=SFX_PAUSE_820
+0xF1667BD0=SFX_PAUSE_820
+
+;0xF2BE8BF9=~z~Alright, alright. But this friend better have cute tits and round ass, you hear me?
+0xF2BE8BF9=~z~Alright, alright. But this friend better have cute tits and round ass, you hear me?
+
+;0xF3B24601=~z~I like this chick, man. Guapa!
+0xF3B24601=~z~I like this chick, man. Guapa!
+
+;0xF4497B55=~z~Keep the bulls back.
+0xF4497B55=~z~Keep the bulls back.
+
+;0xF572C44B=E1E2_RD
+0xF572C44B=E1E2_RD
+
+;0xF593CAB9=E1E2_RC
+0xF593CAB9=E1E2_RC
+
+;0xF5EAC927=E1E2_RB
+0xF5EAC927=E1E2_RB
+
+;0xF62169DF=E1E2_A_BC
+0xF62169DF=E1E2_A_BC
+
+;0xF67D267A=~z~~c~I'm nauseated.~s~
+0xF67D267A=~z~~c~I'm nauseated.~s~
+
+;0xF84A7722=~z~Shit, a pig chopper.
+0xF84A7722=~z~Shit, a pig chopper.
+
+;0xF91C1066=~z~Americans are usually more hospitable than this.
+0xF91C1066=~z~Americans are usually more hospitable than this.
+
+;0xFAC6AF09=~z~~c~You have any idea how many condoms filled with cocaine I have in my small intestine?~s~
+0xFAC6AF09=~z~~c~You have any idea how many condoms filled with cocaine I have in my small intestine?~s~
+
+;0xFB7675AF=E1E2_PA
+0xFB7675AF=E1E2_PA
+
+;0xFBA65242=~z~They gonna hate you because you a woman, in this macho fuckin' world.
+0xFBA65242=~z~They gonna hate you because you a woman, in this macho fuckin' world.
+
+;0xFF7A11AE=~z~You're coming with me. C'mon keep your head down!
+0xFF7A11AE=~z~You're coming with me. C'mon keep your head down!
+
+;0xFFA4223A=~z~-Yeah, it's fine. She'll love it.~n~-Yeah? Okay...
+0xFFA4223A=~z~-Yeah, it's fine. She'll love it.~n~-Yeah? Okay...
+

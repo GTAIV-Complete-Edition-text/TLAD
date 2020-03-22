@@ -1,0 +1,43 @@
+﻿[E1S3AUD]
+;0x069F0C07=~z~Bad news, Mr. Congressman. Something more important than your career has come up and I can't help you.
+0x069F0C07=~z~Bad news, Mr. Congressman. Something more important than your career has come up and I can't help you.
+
+;0x2F568F58=010
+0x2F568F58=010
+
+;0x80A52F8A=~z~Oh, appreciate the heads up and the friendly patter. Another time, Johnny.
+0x80A52F8A=~z~Oh, appreciate the heads up and the friendly patter. Another time, Johnny.
+
+;0x95AF100F=E1S3p_AA
+0x95AF100F=E1S3p_AA
+
+;0x98DBDFC3=100
+0x98DBDFC3=100
+
+;0x9A1932FD=~z~Find some other putz to clean up your shit, Mr. Stubbs. I've decided I'm busy.
+0x9A1932FD=~z~Find some other putz to clean up your shit, Mr. Stubbs. I've decided I'm busy.
+
+;0x9C58E6F1=~z~Ouch, Klebitz. Let a fellow down easy.
+0x9C58E6F1=~z~Ouch, Klebitz. Let a fellow down easy.
+
+;0xA79C7D6C=~z~While your work ethic needs much improvement, Klebitz, you can always be relied upon for your charm.
+0xA79C7D6C=~z~While your work ethic needs much improvement, Klebitz, you can always be relied upon for your charm.
+
+;0xAA0B8256=~z~Oh sure, champ. Thanks for letting me know. You have yourself a wonderful time.
+0xAA0B8256=~z~Oh sure, champ. Thanks for letting me know. You have yourself a wonderful time.
+
+;0xAC39D73E=~z~Hey, Stubbs, did you really want that thing done? Too bad, 'cause something else came up.
+0xAC39D73E=~z~Hey, Stubbs, did you really want that thing done? Too bad, 'cause something else came up.
+
+;0xB51A1867=~z~Oh, you're a hard nose, Klebitz. I'll give you that.
+0xB51A1867=~z~Oh, you're a hard nose, Klebitz. I'll give you that.
+
+;0xB955CE92=E1S3p_BA
+0xB955CE92=E1S3p_BA
+
+;0xCFD39E71=~z~Mr. Congressman. I can't do that thing right now. Deal with it.
+0xCFD39E71=~z~Mr. Congressman. I can't do that thing right now. Deal with it.
+
+;0xF6636B90=~z~Hey, Mr. Stubbs, working for you makes me feel like a piece of shit. I can't do that thing for you. Sorry.
+0xF6636B90=~z~Hey, Mr. Stubbs, working for you makes me feel like a piece of shit. I can't do that thing for you. Sorry.
+

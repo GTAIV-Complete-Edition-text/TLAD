@@ -1,0 +1,82 @@
+﻿[EML10]
+;0x093EFF40=Hey baby,
+0x093EFF40=Hey baby,
+
+;0x0DBF3EFD=Man, i fucked things up. I know I did. But you weren't a saint. You weren't. You're who you are, and you do bad shit. and hanging out with you made me do bad shit, even though it ain't your fault. but i did bad shit to you, because you were my world. i thought you would kill me and you didn't. so that makes you a better person than some. i'm so glad we are friends now.
+0x0DBF3EFD=Man, i fucked things up. I know I did. But you weren't a saint. You weren't. You're who you are, and you do bad shit. and hanging out with you made me do bad shit, even though it ain't your fault. but i did bad shit to you, because you were my world. i thought you would kill me and you didn't. so that makes you a better person than some. i'm so glad we are friends now.
+
+;0x10A50343=I ain't in the mood for internet chit chat, Ash. Have a nice life. Johnny.
+0x10A50343=I ain't in the mood for internet chit chat, Ash. Have a nice life. Johnny.
+
+;0x10ED8ED9=Hey boy,
+0x10ED8ED9=Hey boy,
+
+;0x1D55A7A9=Johnny boy,
+0x1D55A7A9=Johnny boy,
+
+;0x3335D369=Hey baby,
+0x3335D369=Hey baby,
+
+;0x3D1C5C31=Ash, Ain't much point going over shit again. Whole world we live in is fucked up and we belong in that world. Things weren't meant to be, and I don't seem to be the family man type. I'm your friend, nothing more. Not ever. I can't watch you do any more drugs. Good luck staying clean this time. Johnny.
+0x3D1C5C31=Ash, Ain't much point going over shit again. Whole world we live in is fucked up and we belong in that world. Things weren't meant to be, and I don't seem to be the family man type. I'm your friend, nothing more. Not ever. I can't watch you do any more drugs. Good luck staying clean this time. Johnny.
+
+;0x496973A2=Good luck Ashley. Please don't contact me again.
+0x496973A2=Good luck Ashley. Please don't contact me again.
+
+;0x56A29A42=Johnny boy,
+0x56A29A42=Johnny boy,
+
+;0x5C3461DD=Your friend,
+0x5C3461DD=Your friend,
+
+;0x624DB198=Dearest Johnny,
+0x624DB198=Dearest Johnny,
+
+;0x66B1AE32=Fuck off!
+0x66B1AE32=Fuck off!
+
+;0x71DF0D36=Your friend,
+0x71DF0D36=Your friend,
+
+;0x7FF68C03=Good luck Ashley. Please stay the fuck away from me.
+0x7FF68C03=Good luck Ashley. Please stay the fuck away from me.
+
+;0x8011A99B=Yours,
+0x8011A99B=Yours,
+
+;0x92EBB1ED=I don't care, Ash. Stay away from me. Please.
+0x92EBB1ED=I don't care, Ash. Stay away from me. Please.
+
+;0xB4AD8CCF=i fucked up. it weren't my fault. i got thrown out of the facility. it weren't my coke. I love you, Johnny. i love you. drugs ain't shit. you're my drug. Listen, Johnny, can i borrow some money, for a few days? I miss you. i miss you so much.
+0xB4AD8CCF=i fucked up. it weren't my fault. i got thrown out of the facility. it weren't my coke. I love you, Johnny. i love you. drugs ain't shit. you're my drug. Listen, Johnny, can i borrow some money, for a few days? I miss you. i miss you so much.
+
+;0xB84B9417=it makes me happy to know you're on my side and even though we ain't together and we both fucked this thing up, we are at least friends. i'm off the drugs, Johnny boy. i'm off them. i don't want to get high no more. Not ever. i'm sorting myself out. i'm even exercising. i went running yesterday. i was nearly a model, one time.
+0xB84B9417=it makes me happy to know you're on my side and even though we ain't together and we both fucked this thing up, we are at least friends. i'm off the drugs, Johnny boy. i'm off them. i don't want to get high no more. Not ever. i'm sorting myself out. i'm even exercising. i went running yesterday. i was nearly a model, one time.
+
+;0xBA959E96=Your friend,
+0xBA959E96=Your friend,
+
+;0xBE77A063=I checked into rehab again last week. i feel rough, but this time it's going to stick, i know it.
+0xBE77A063=I checked into rehab again last week. i feel rough, but this time it's going to stick, i know it.
+
+;0xC9483BFB=Yours,
+0xC9483BFB=Yours,
+
+;0xCE10458B=Your friend,
+0xCE10458B=Your friend,
+
+;0xD7821BC7=Hey boy,
+0xD7821BC7=Hey boy,
+
+;0xDB9AE0AC=Yours,
+0xDB9AE0AC=Yours,
+
+;0xDCBDE2E6=Yours,
+0xDCBDE2E6=Yours,
+
+;0xE73971F2=i'm going to go to college or something. Give back. i miss you. it won't never be the same without you, but it's the way it's got to be. i know that. we both did bad shit and we hurt each other and people who love each other ain't meant to hurt each other.
+0xE73971F2=i'm going to go to college or something. Give back. i miss you. it won't never be the same without you, but it's the way it's got to be. i know that. we both did bad shit and we hurt each other and people who love each other ain't meant to hurt each other.
+
+;0xE9E7C092=Dearest Johnny,
+0xE9E7C092=Dearest Johnny,
+

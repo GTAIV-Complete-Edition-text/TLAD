@@ -1,0 +1,52 @@
+﻿[E1RAY1]
+;0x39BD81F7=~r~The diamonds were lost in the water.
+0x39BD81F7=~r~The diamonds were lost in the water.
+
+;0x3E27BAB8=Pick up the ~g~diamonds.
+0x3E27BAB8=Pick up the ~g~diamonds.
+
+;0x72BA0C00=Meet the other ~b~Lost gang members.
+0x72BA0C00=Meet the other ~b~Lost gang members.
+
+;0x733C54AE=Get on your ~b~bike.
+0x733C54AE=Get on your ~b~bike.
+
+;0x7E9066D1=Take out ~r~Tony's bodyguards.
+0x7E9066D1=Take out ~r~Tony's bodyguards.
+
+;0x7F72AC3C=Take out ~r~Tony's boy.
+0x7F72AC3C=Take out ~r~Tony's boy.
+
+;0x82A65564=Stash the diamonds in the two ~g~trash bags.
+0x82A65564=Stash the diamonds in the two ~g~trash bags.
+
+;0x943A15D7=Drive to the front of the pack to lead the biker gang.
+0x943A15D7=Drive to the front of the pack to lead the biker gang.
+
+;0x95E30DBB=~r~Tony's boy escaped with the diamonds.
+0x95E30DBB=~r~Tony's boy escaped with the diamonds.
+
+;0xA3A8A946=~r~Your gang suffered significant losses.
+0xA3A8A946=~r~Your gang suffered significant losses.
+
+;0xAF4E4099=~r~Your bike was wrecked.
+0xAF4E4099=~r~Your bike was wrecked.
+
+;0xB157C4A4=~r~You abandoned your bike.
+0xB157C4A4=~r~You abandoned your bike.
+
+;0xB8EB41ED=Stash the remaining diamonds in the other ~g~trash bag.
+0xB8EB41ED=Stash the remaining diamonds in the other ~g~trash bag.
+
+;0xBE8CC149=Go to the ~y~docks.
+0xBE8CC149=Go to the ~y~docks.
+
+;0xC4755769=Lead your brothers to the ~y~docks.
+0xC4755769=Lead your brothers to the ~y~docks.
+
+;0xC6D13048=Catch up with the other ~b~Lost gang members.
+0xC6D13048=Catch up with the other ~b~Lost gang members.
+
+;0xF4B068CC=Lose the cops.
+0xF4B068CC=Lose the cops.
+

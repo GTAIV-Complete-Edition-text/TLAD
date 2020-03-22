@@ -1,0 +1,58 @@
+﻿[BOMBE1]
+;0x262EC481=Placed a Bomb
+0x262EC481=Placed a Bomb
+
+;0x2831B3D3=One of your crew has stolen the armored vehicle. Make your way to the ~Y~rendezvous point.~S~
+0x2831B3D3=One of your crew has stolen the armored vehicle. Make your way to the ~Y~rendezvous point.~S~
+
+;0x3EE4E135=You each have some explosives. Head out to the ~Y~docks~S~ in Broker.
+0x3EE4E135=You each have some explosives. Head out to the ~Y~docks~S~ in Broker.
+
+;0x5A112A94=The ship has been destroyed. The rival operation is no more.
+0x5A112A94=The ship has been destroyed. The rival operation is no more.
+
+;0x8D9BD436=The bombs have been placed. Everyone needs to disembark to trigger the explosion.
+0x8D9BD436=The bombs have been placed. Everyone needs to disembark to trigger the explosion.
+
+;0x9BCD7099=One bomb is in place. Get the other to the second weak spot.
+0x9BCD7099=One bomb is in place. Get the other to the second weak spot.
+
+;0x9DCD1F04=The ~B~vehicle~S~ is stopping, steal it.
+0x9DCD1F04=The ~B~vehicle~S~ is stopping, steal it.
+
+;0xA4A0B267=One of you must drive the ~B~armored vehicle~S~ to the rendezvous point.
+0xA4A0B267=One of you must drive the ~B~armored vehicle~S~ to the rendezvous point.
+
+;0xBA42671C=~R~You've destroyed the explosives.
+0xBA42671C=~R~You've destroyed the explosives.
+
+;0xC04CF8C7=There are enemy snipers somewhere on the boat, someone should take up a sniping position and keep watch.
+0xC04CF8C7=There are enemy snipers somewhere on the boat, someone should take up a sniping position and keep watch.
+
+;0xCC24FBB3=Take the vehicle back to the ~Y~rendezvous point.~S~
+0xCC24FBB3=Take the vehicle back to the ~Y~rendezvous point.~S~
+
+;0xD3655A8C=The helicopter has been destroyed. Find alternative transport to get to the ~Y~docks.~S~
+0xD3655A8C=The helicopter has been destroyed. Find alternative transport to get to the ~Y~docks.~S~
+
+;0xD3C88AFA=Go back to the ~Y~rendezvous point.~S~
+0xD3C88AFA=Go back to the ~Y~rendezvous point.~S~
+
+;0xD85128CF=To reach one of the bomb sites you will need to access the cargo hold from the ship's galley.
+0xD85128CF=To reach one of the bomb sites you will need to access the cargo hold from the ship's galley.
+
+;0xDBD6A0D2=Wait here for the rest of your crew to arrive.
+0xDBD6A0D2=Wait here for the rest of your crew to arrive.
+
+;0xDE98A09A=Find the convoy. Steal the ~B~armored vehicle.~S~
+0xDE98A09A=Find the convoy. Steal the ~B~armored vehicle.~S~
+
+;0xEB47CEBC=Place the explosives at the ~Y~weak spots~S~ on the ship.
+0xEB47CEBC=Place the explosives at the ~Y~weak spots~S~ on the ship.
+
+;0xEE014527=Drive this thing to the ~Y~rendezvous point.~S~
+0xEE014527=Drive this thing to the ~Y~rendezvous point.~S~
+
+;0xFFF86915=If you damage the ~B~armored vehicle~S~ enough it will stop and you can steal it.
+0xFFF86915=If you damage the ~B~armored vehicle~S~ enough it will stop and you can steal it.
+

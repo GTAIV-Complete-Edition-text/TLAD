@@ -1,0 +1,160 @@
+﻿[BILLY1]
+;0x01070223=~r~Brian is dead.
+0x01070223=~r~Brian is dead.
+
+;0x0AA332FC=Get on your ~b~bike.
+0x0AA332FC=Get on your ~b~bike.
+
+;0x0EB7C2C3=~r~Jason is dead.
+0x0EB7C2C3=~r~Jason is dead.
+
+;0x175A1653=Johnny will need the bike to ride in convoy with the other Lost bikers.
+0x175A1653=Johnny will need the bike to ride in convoy with the other Lost bikers.
+
+;0x1C4DE7B8=~s~Use ~PAD_DPAD_LEFTRIGHT~ to cycle between radio stations when in a vehicle.
+0x1C4DE7B8=~s~Use ~PAD_DPAD_LEFTRIGHT~ to cycle between radio stations when in a vehicle.
+
+;0x20AFEB6F=Follow ~b~Billy~s~ back to The Lost clubhouse.
+0x20AFEB6F=Follow ~b~Billy~s~ back to The Lost clubhouse.
+
+;0x248F7401=Wait for ~b~Billy.
+0x248F7401=Wait for ~b~Billy.
+
+;0x259FB2DE=You can use the Lost Clubhouse computer to access the Internet.
+0x259FB2DE=You can use the Lost Clubhouse computer to access the Internet.
+
+;0x2717D10D=Ride to The Lost ~y~clubhouse.
+0x2717D10D=Ride to The Lost ~y~clubhouse.
+
+;0x352C37C3=~r~Terry is dead.
+0x352C37C3=~r~Terry is dead.
+
+;0x370EA4BB=~r~Clay is dead.
+0x370EA4BB=~r~Clay is dead.
+
+;0x3B23CBCC=Ride to the ~y~chop shop.
+0x3B23CBCC=Ride to the ~y~chop shop.
+
+;0x3BD4DF48=Watch the latest shows on TV.
+0x3BD4DF48=Watch the latest shows on TV.
+
+;0x3FEA5BC0=Get off your bike.
+0x3FEA5BC0=Get off your bike.
+
+;0x4A137BC5=This is Johnny's Hexer. It's the only one of its kind in Liberty City.~n~A modern classic chopper with a 2032cc twin cam engine and 6 speed transmission with a final chain drive.
+0x4A137BC5=This is Johnny's Hexer. It's the only one of its kind in Liberty City.~n~A modern classic chopper with a 2032cc twin cam engine and 6 speed transmission with a final chain drive.
+
+;0x50C83B56=You can arm wrestle with your brothers.
+0x50C83B56=You can arm wrestle with your brothers.
+
+;0x5A29321E=~r~Your bike was wrecked.
+0x5A29321E=~r~Your bike was wrecked.
+
+;0x5D7E54C2=Try your luck in a hi-lo card game.
+0x5D7E54C2=Try your luck in a hi-lo card game.
+
+;0x62E321FF=Ride back to the ~y~clubhouse.
+0x62E321FF=Ride back to the ~y~clubhouse.
+
+;0x698EB986=You are too far away from ~b~Billy.~s~ Ride closer to your group.
+0x698EB986=You are too far away from ~b~Billy.~s~ Ride closer to your group.
+
+;0x6C4DF261=This is the Lost clubhouse.
+0x6C4DF261=This is the Lost clubhouse.
+
+;0x74239AC2=~r~Billy is dead.
+0x74239AC2=~r~Billy is dead.
+
+;0x7ED36B66=~s~Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to brake or reverse if the vehicle is stopped.
+0x7ED36B66=~s~Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to brake or reverse if the vehicle is stopped.
+
+;0x7F7149A0=~r~Jim is dead.
+0x7F7149A0=~r~Jim is dead.
+
+;0x7F85122F=Destroy all of the ~r~machines.
+0x7F85122F=Destroy all of the ~r~machines.
+
+;0x84A8AFFF=Get back on your ~b~bike.
+0x84A8AFFF=Get back on your ~b~bike.
+
+;0x869D3820=Enter and stay on the badge to hold the gang formation. This will increase your health and repair your bike.
+0x869D3820=Enter and stay on the badge to hold the gang formation. This will increase your health and repair your bike.
+
+;0x8B27256D=When leading a group of bikers, stay close to them to hear them talk.
+0x8B27256D=When leading a group of bikers, stay close to them to hear them talk.
+
+;0x95B1453F=Terry will deliver guns to your location.
+0x95B1453F=Terry will deliver guns to your location.
+
+;0xA288E155=Press ~INPUT_ENTER~ to enter or exit a vehicle.
+0xA288E155=Press ~INPUT_ENTER~ to enter or exit a vehicle.
+
+;0xA73CE0F4=Get back on your ~b~bike~s~ and follow Billy.
+0xA73CE0F4=Get back on your ~b~bike~s~ and follow Billy.
+
+;0xA86434E3=Take out the ~r~Angels of Death.
+0xA86434E3=Take out the ~r~Angels of Death.
+
+;0xB56E61A6=Ride to the Angels of Death ~y~hangout.
+0xB56E61A6=Ride to the Angels of Death ~y~hangout.
+
+;0xBBD17E69=~r~A Lost bike was wrecked.
+0xBBD17E69=~r~A Lost bike was wrecked.
+
+;0xBC99006F=When riding in a convoy, hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the leader.
+0xBC99006F=When riding in a convoy, hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the leader.
+
+;0xC16DE043=Follow ~b~Billy.
+0xC16DE043=Follow ~b~Billy.
+
+;0xC3091FD6=You can save any vehicle in the parking place outside your safehouse.
+0xC3091FD6=You can save any vehicle in the parking place outside your safehouse.
+
+;0xC47193A5=~s~Use ~INPUT_VEH_NEXT_RADIO~ or ~INPUT_VEH_PREV_RADIO~ to cycle between radio stations when in a vehicle.
+0xC47193A5=~s~Use ~INPUT_VEH_NEXT_RADIO~ or ~INPUT_VEH_PREV_RADIO~ to cycle between radio stations when in a vehicle.
+
+;0xC7F7224B=Ride to where the machines are being ~y~unloaded.
+0xC7F7224B=Ride to where the machines are being ~y~unloaded.
+
+;0xCA651387=~r~Billy's bike was wrecked.
+0xCA651387=~r~Billy's bike was wrecked.
+
+;0xCCCE9234=~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake.
+0xCCCE9234=~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake.
+
+;0xCECD7A3C=You have left ~b~Billy~s~ behind, go and get him.
+0xCECD7A3C=You have left ~b~Billy~s~ behind, go and get him.
+
+;0xCFE0A0E6=When leading a group of bikers, hold ~INPUT_VEH_CIN_CAM~ to switch the camera to the group point of view.
+0xCFE0A0E6=When leading a group of bikers, hold ~INPUT_VEH_CIN_CAM~ to switch the camera to the group point of view.
+
+;0xD0C3BB4B=If you lose your ride, a phone call to Clay will get you an alternative bike.
+0xD0C3BB4B=If you lose your ride, a phone call to Clay will get you an alternative bike.
+
+;0xD6944C5D=~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake. ~n~Press ~PAD_A~ for alternative handbrake (Standard controls).
+0xD6944C5D=~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake. ~n~Press ~PAD_A~ for alternative handbrake (Standard controls).
+
+;0xD8E05CA5=A Lost Motorcycle Club badge will appear behind Billy when cruising in a gang.
+0xD8E05CA5=A Lost Motorcycle Club badge will appear behind Billy when cruising in a gang.
+
+;0xD9D95169=Get back on your ~b~bike.
+0xD9D95169=Get back on your ~b~bike.
+
+;0xDC976678=~r~Your bike was wrecked.
+0xDC976678=~r~Your bike was wrecked.
+
+;0xDD64F15D=~r~A member of The Lost is dead.
+0xDD64F15D=~r~A member of The Lost is dead.
+
+;0xDFB25928=And pay your respects to fallen comrades.
+0xDFB25928=And pay your respects to fallen comrades.
+
+;0xEC687294=Sleeping on the bed will save the game and advance time by six hours.
+0xEC687294=Sleeping on the bed will save the game and advance time by six hours.
+
+;0xF310BDD4=~r~You abandoned your bike.
+0xF310BDD4=~r~You abandoned your bike.
+
+;0xFA880ED7=You can hang out and take part in activities with fellow members of The Lost.
+0xFA880ED7=You can hang out and take part in activities with fellow members of The Lost.
+

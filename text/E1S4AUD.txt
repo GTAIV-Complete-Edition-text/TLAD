@@ -1,0 +1,1528 @@
+﻿[E1S4AUD]
+;0x00163732=~z~Billy's got us in the shit yet again.
+0x00163732=~z~Billy's got us in the shit yet again.
+
+;0x0136E151=~z~We need to get through to the yard.
+0x0136E151=~z~We need to get through to the yard.
+
+;0x019A5866=E1S4_A_HA
+0x019A5866=E1S4_A_HA
+
+;0x049CC400=090
+0x049CC400=090
+
+;0x0500F3B6=E1S4_A_DB
+0x0500F3B6=E1S4_A_DB
+
+;0x05920D24=090
+0x05920D24=090
+
+;0x06AB8458=~z~~s~
+0x06AB8458=~z~~s~
+
+;0x070F037A=~z~Terry, Clay. Push in.
+0x070F037A=~z~Terry, Clay. Push in.
+
+;0x079AB8A5=~z~Jesus, come on. This is meant to be your field of expertise. Best of luck, sport.
+0x079AB8A5=~z~Jesus, come on. This is meant to be your field of expertise. Best of luck, sport.
+
+;0x08899DC5=~z~not quite sure I meet the dress code,
+0x08899DC5=~z~not quite sure I meet the dress code,
+
+;0x08A0527C=092090092090092
+0x08A0527C=092090092090092
+
+;0x0A318BFE=092
+0x0A318BFE=092
+
+;0x0B027000=092
+0x0B027000=092
+
+;0x0C756AFD=~z~Billy! We're coming for you.
+0x0C756AFD=~z~Billy! We're coming for you.
+
+;0x0CAA48F5=~z~But he's on the inside.
+0x0CAA48F5=~z~But he's on the inside.
+
+;0x0D0FA8CC=090
+0x0D0FA8CC=090
+
+;0x0D241BBD=~z~Terry. Clay. Stay cool.
+0x0D241BBD=~z~Terry. Clay. Stay cool.
+
+;0x0D8B8011=~z~I mean it wasn't enough we had to be drug dealers,
+0x0D8B8011=~z~I mean it wasn't enough we had to be drug dealers,
+
+;0x0E50DB09=~z~I'm gonna take out Billy. Bring the bikes around so we can get outta here.
+0x0E50DB09=~z~I'm gonna take out Billy. Bring the bikes around so we can get outta here.
+
+;0x0F823305=E1S4_B_OA
+0x0F823305=E1S4_B_OA
+
+;0x0FA48D18=~z~You're gonna have to comp these weapons. They're needed.
+0x0FA48D18=~z~You're gonna have to comp these weapons. They're needed.
+
+;0x0FB54524=092090092090092
+0x0FB54524=092090092090092
+
+;0x0FE6328C=~z~Just leave it over there.
+0x0FE6328C=~z~Just leave it over there.
+
+;0x101D6FDC=E1S4_A_QA
+0x101D6FDC=E1S4_A_QA
+
+;0x106E06A5=~z~Angus, Billy's gone, man. Our chapter's dead. We got to give it a funeral.
+0x106E06A5=~z~Angus, Billy's gone, man. Our chapter's dead. We got to give it a funeral.
+
+;0x10C95EE3=~z~This ain't a prison break.
+0x10C95EE3=~z~This ain't a prison break.
+
+;0x10E8D2AE=~z~Rush them, you fearless motherfuckes. Come on.
+0x10E8D2AE=~z~Rush them, you fearless motherfuckes. Come on.
+
+;0x11399E1A=E1S4_CC
+0x11399E1A=E1S4_CC
+
+;0x11FF73CF=~z~Come on, let's head in.
+0x11FF73CF=~z~Come on, let's head in.
+
+;0x1259DD00=E1S4_B_IA
+0x1259DD00=E1S4_B_IA
+
+;0x13517CAF=~z~There's no sanctuary here William. The rules don't apply to your kind.
+0x13517CAF=~z~There's no sanctuary here William. The rules don't apply to your kind.
+
+;0x13AB8173=~z~Thanks for the advice. I'm gonna go check it out.
+0x13AB8173=~z~Thanks for the advice. I'm gonna go check it out.
+
+;0x13B36C5E=~z~Heads down! There's a sniper on the roof.
+0x13B36C5E=~z~Heads down! There's a sniper on the roof.
+
+;0x1450D962=~z~Whoa, not particularly.
+0x1450D962=~z~Whoa, not particularly.
+
+;0x14C14665=SFX_PAUSE_120
+0x14C14665=SFX_PAUSE_120
+
+;0x14D920B3=~z~What? You waiting for a speech or something?
+0x14D920B3=~z~What? You waiting for a speech or something?
+
+;0x15B4B276=~z~You never got it, did you? You never understood.
+0x15B4B276=~z~You never got it, did you? You never understood.
+
+;0x15DE77A9=~z~I'll see you around, Brother.
+0x15DE77A9=~z~I'll see you around, Brother.
+
+;0x15F62309=~z~Come on. Get it over with.
+0x15F62309=~z~Come on. Get it over with.
+
+;0x1605B348=~z~Come on. Time to move.
+0x1605B348=~z~Come on. Time to move.
+
+;0x16940795=~z~Hey Johnny, what are you in for?
+0x16940795=~z~Hey Johnny, what are you in for?
+
+;0x170AA6C7=200
+0x170AA6C7=200
+
+;0x175C2E79=~z~Hey.
+0x175C2E79=~z~Hey.
+
+;0x1829ECAC=E1S4_B_JC
+0x1829ECAC=E1S4_B_JC
+
+;0x1A030E51=~z~Dude, what the fuck, man? You're not even a cop.
+0x1A030E51=~z~Dude, what the fuck, man? You're not even a cop.
+
+;0x1B2D8D75=E1S4_HA
+0x1B2D8D75=E1S4_HA
+
+;0x1B499477=~z~I appreciate this, man. It ain't gonna be easy.
+0x1B499477=~z~I appreciate this, man. It ain't gonna be easy.
+
+;0x1C0744C0=~z~What the fuck do you want?
+0x1C0744C0=~z~What the fuck do you want?
+
+;0x1C498885=~z~Billy Grey, here we come!
+0x1C498885=~z~Billy Grey, here we come!
+
+;0x1C965CE3=~z~Take out these asshole guards.
+0x1C965CE3=~z~Take out these asshole guards.
+
+;0x1CE9F2A3=E1S4_MA
+0x1CE9F2A3=E1S4_MA
+
+;0x1D6B74A5=~z~Let the laundry guys out with the dirty uniforms.
+0x1D6B74A5=~z~Let the laundry guys out with the dirty uniforms.
+
+;0x1D777956=~z~I'll go find Billy, boys. You get the bikes.
+0x1D777956=~z~I'll go find Billy, boys. You get the bikes.
+
+;0x1DDB2985=~z~You're not getting cash for these weapons, man. Blame Billy.
+0x1DDB2985=~z~You're not getting cash for these weapons, man. Blame Billy.
+
+;0x1E032645=E1S4_B_HA
+0x1E032645=E1S4_B_HA
+
+;0x1E0BE826=~z~Stay away from the gate, brothers. I'm about to blow it open with a grenade launcher.
+0x1E0BE826=~z~Stay away from the gate, brothers. I'm about to blow it open with a grenade launcher.
+
+;0x1E39BC4D=~z~We're just here to perform some capital punishment, people.
+0x1E39BC4D=~z~We're just here to perform some capital punishment, people.
+
+;0x1E3C0864=~z~Well, we lost Terry. Another fucking casualty to Billy Grey's junkie ego bullshit.
+0x1E3C0864=~z~Well, we lost Terry. Another fucking casualty to Billy Grey's junkie ego bullshit.
+
+;0x1F2235C6=~z~Coming through!
+0x1F2235C6=~z~Coming through!
+
+;0x21011731=~z~Please step away from the gates.
+0x21011731=~z~Please step away from the gates.
+
+;0x214794AD=~z~We're here to stop you talking William.
+0x214794AD=~z~We're here to stop you talking William.
+
+;0x223BF538=~z~But listen, your friend, Ray.
+0x223BF538=~z~But listen, your friend, Ray.
+
+;0x225DBC49=~z~We just wanna get the fuck outta here.
+0x225DBC49=~z~We just wanna get the fuck outta here.
+
+;0x22841B0E=~z~Yeah? Great.
+0x22841B0E=~z~Yeah? Great.
+
+;0x2393AC2A=E1S4_CE
+0x2393AC2A=E1S4_CE
+
+;0x23B121AD=~z~Funny joke, dude. You're no cop.
+0x23B121AD=~z~Funny joke, dude. You're no cop.
+
+;0x23BA1748=~z~Let's get in there, boys. Move. Move.
+0x23BA1748=~z~Let's get in there, boys. Move. Move.
+
+;0x23BD771B=~z~Well I don't doubt that, Mr. Stubbs.
+0x23BD771B=~z~Well I don't doubt that, Mr. Stubbs.
+
+;0x2633248B=~z~Bring Clay, bring all the fucking firepower you got, and meet me at the Alderney State Correctional.
+0x2633248B=~z~Bring Clay, bring all the fucking firepower you got, and meet me at the Alderney State Correctional.
+
+;0x26DD5E50=E1S4_B_MC
+0x26DD5E50=E1S4_B_MC
+
+;0x277FBB2D=090
+0x277FBB2D=090
+
+;0x28889422=E1S4_WB
+0x28889422=E1S4_WB
+
+;0x291AF120=~z~Billy may have helped to build our club, but he sure as shit ripped it apart.
+0x291AF120=~z~Billy may have helped to build our club, but he sure as shit ripped it apart.
+
+;0x297C89FE=~z~We're here to see a friend.
+0x297C89FE=~z~We're here to see a friend.
+
+;0x29C8187A=~z~The rookie's here. Open the gates for him.
+0x29C8187A=~z~The rookie's here. Open the gates for him.
+
+;0x2A0F53DF=~z~Hey.
+0x2A0F53DF=~z~Hey.
+
+;0x2AE4595F=300
+0x2AE4595F=300
+
+;0x2B4F4574=SFX_PAUSE_420
+0x2B4F4574=SFX_PAUSE_420
+
+;0x2BCEEA42=010090010
+0x2BCEEA42=010090010
+
+;0x2C1E091C=~z~Brothers. Move in. Come on.
+0x2C1E091C=~z~Brothers. Move in. Come on.
+
+;0x2C8430A7=092
+0x2C8430A7=092
+
+;0x2D012190=~z~I thought it might come to this. Wait for us, brother.
+0x2D012190=~z~I thought it might come to this. Wait for us, brother.
+
+;0x2D05BF05=~z~Go ahead... let's put this place out of it's misery.
+0x2D05BF05=~z~Go ahead... let's put this place out of it's misery.
+
+;0x2D275D4F=090
+0x2D275D4F=090
+
+;0x2DA3A81D=E1S4_DC
+0x2DA3A81D=E1S4_DC
+
+;0x2DF935EA=E1S4_B_SA
+0x2DF935EA=E1S4_B_SA
+
+;0x2E132C18=~z~Let's find our so called leader.
+0x2E132C18=~z~Let's find our so called leader.
+
+;0x2E4983C3=092
+0x2E4983C3=092
+
+;0x2EB10C22=100090010090100
+0x2EB10C22=100090010090100
+
+;0x2EB714E4=~z~Out you come, hippie.
+0x2EB714E4=~z~Out you come, hippie.
+
+;0x2EE706EA=~z~I might have something to help you with it.
+0x2EE706EA=~z~I might have something to help you with it.
+
+;0x2F51D625=~z~There still guards left in this joint?
+0x2F51D625=~z~There still guards left in this joint?
+
+;0x2F793110=~z~You gonna roll on your brothers, Billy?
+0x2F793110=~z~You gonna roll on your brothers, Billy?
+
+;0x2FF75FC8=~z~Fuck off.
+0x2FF75FC8=~z~Fuck off.
+
+;0x2FF8095F=~z~You know, I would have thought your problem would be getting out, not getting into Alderney State.
+0x2FF8095F=~z~You know, I would have thought your problem would be getting out, not getting into Alderney State.
+
+;0x302E3662=~z~Okay, man.
+0x302E3662=~z~Okay, man.
+
+;0x307491AD=~z~Don't worry about him.
+0x307491AD=~z~Don't worry about him.
+
+;0x310346BA=590
+0x310346BA=590
+
+;0x31BD5128=E1S4_ZA
+0x31BD5128=E1S4_ZA
+
+;0x31D85B3E=~z~Ain't you got rioting prisoners to worry about?
+0x31D85B3E=~z~Ain't you got rioting prisoners to worry about?
+
+;0x320C13BC=~z~and he'll live in a condo in Arizona.
+0x320C13BC=~z~and he'll live in a condo in Arizona.
+
+;0x323A496E=~z~to be psychos and to be greedy. You know...
+0x323A496E=~z~to be psychos and to be greedy. You know...
+
+;0x33363B9B=~z~Step away from the gates.You're not on the visitor's list, you're not coming in.
+0x33363B9B=~z~Step away from the gates.You're not on the visitor's list, you're not coming in.
+
+;0x333CED86=~z~Brotherhood don't mean nothing to you, Johnny.
+0x333CED86=~z~Brotherhood don't mean nothing to you, Johnny.
+
+;0x334ACC5E=~z~Okay, brother, let's go to church one last time then.
+0x334ACC5E=~z~Okay, brother, let's go to church one last time then.
+
+;0x337EEE3A=~z~Let's go. We gotta find Billy.
+0x337EEE3A=~z~Let's go. We gotta find Billy.
+
+;0x33FFBF77=100090100090100
+0x33FFBF77=100090100090100
+
+;0x345F120C=~z~I'm amazed there are still sickos loose in this town when I look at all these freaks.
+0x345F120C=~z~I'm amazed there are still sickos loose in this town when I look at all these freaks.
+
+;0x3532DD70=~z~Take out these screws.
+0x3532DD70=~z~Take out these screws.
+
+;0x35A19AEB=~z~Thinks he's going into the Witness Protection Program,
+0x35A19AEB=~z~Thinks he's going into the Witness Protection Program,
+
+;0x35D87862=~z~Nice place you've got here, Johnny -
+0x35D87862=~z~Nice place you've got here, Johnny -
+
+;0x36169F1B=SFX_PAUSE_160
+0x36169F1B=SFX_PAUSE_160
+
+;0x3687E218=SFX_PAUSE_250
+0x3687E218=SFX_PAUSE_250
+
+;0x36FFA504=~z~You guys know William Grey?
+0x36FFA504=~z~You guys know William Grey?
+
+;0x371936B6=E1S4_A_CA
+0x371936B6=E1S4_A_CA
+
+;0x3721D58A=E1S4_CD
+0x3721D58A=E1S4_CD
+
+;0x37425A7C=E1S4_A_DC
+0x37425A7C=E1S4_A_DC
+
+;0x37483E64=~z~Time to move into this place. Come on.
+0x37483E64=~z~Time to move into this place. Come on.
+
+;0x37FDADCB=070090070
+0x37FDADCB=070090070
+
+;0x383476F8=590
+0x383476F8=590
+
+;0x38569EE2=E1S4_A_NA
+0x38569EE2=E1S4_A_NA
+
+;0x386335B0=~z~Can everyone welcome our newest recruit? Open the gates.
+0x386335B0=~z~Can everyone welcome our newest recruit? Open the gates.
+
+;0x38CDF15C=~z~Johnny.
+0x38CDF15C=~z~Johnny.
+
+;0x3A2C810A=~z~Are we friends?
+0x3A2C810A=~z~Are we friends?
+
+;0x3A30CECE=~z~I'm not gonna ask how you got in here, brother.
+0x3A30CECE=~z~I'm not gonna ask how you got in here, brother.
+
+;0x3B0B9DF4=010090010090010
+0x3B0B9DF4=010090010090010
+
+;0x3B9F9DC1=~z~You're getting outta here, man? Aww haven't you enjoyed your time in the State's care?
+0x3B9F9DC1=~z~You're getting outta here, man? Aww haven't you enjoyed your time in the State's care?
+
+;0x3BAC7C4E=E1S4_B_MB
+0x3BAC7C4E=E1S4_B_MB
+
+;0x3BFC16AD=~z~Brothers, don't let anyone in or out. Terry, Clay, we're going in.
+0x3BFC16AD=~z~Brothers, don't let anyone in or out. Terry, Clay, we're going in.
+
+;0x3DDA9E95=E1S4_LA
+0x3DDA9E95=E1S4_LA
+
+;0x3E15CEFE=090
+0x3E15CEFE=090
+
+;0x3EA1B620=~z~I'm gonna use this rocket launcher to blow the gate. Get ready!
+0x3EA1B620=~z~I'm gonna use this rocket launcher to blow the gate. Get ready!
+
+;0x3F782AA0=490
+0x3F782AA0=490
+
+;0x3FC45D6C=~z~Thanks for coming, T.
+0x3FC45D6C=~z~Thanks for coming, T.
+
+;0x3FCD6494=~z~we also had to be outlaws, to be maniacs,
+0x3FCD6494=~z~we also had to be outlaws, to be maniacs,
+
+;0x3FD138B2=E1S4_A_KA
+0x3FD138B2=E1S4_A_KA
+
+;0x402FDE0E=SFX_PAUSE_240
+0x402FDE0E=SFX_PAUSE_240
+
+;0x41152B46=~z~If you get into trouble, you call me when you get there,
+0x41152B46=~z~If you get into trouble, you call me when you get there,
+
+;0x4170CDC6=SFX_PAUSE_250
+0x4170CDC6=SFX_PAUSE_250
+
+;0x41C54291=092
+0x41C54291=092
+
+;0x4244441C=E1S4_EXECG
+0x4244441C=E1S4_EXECG
+
+;0x4276FBEE=~z~I'm doing it.
+0x4276FBEE=~z~I'm doing it.
+
+;0x42BB2E58=092
+0x42BB2E58=092
+
+;0x42C58564=~z~You're about to have a riot on your hands.
+0x42C58564=~z~You're about to have a riot on your hands.
+
+;0x4341798D=~z~Get these guards.
+0x4341798D=~z~Get these guards.
+
+;0x43520EB5=E1S4_KA
+0x43520EB5=E1S4_KA
+
+;0x44217BB7=092
+0x44217BB7=092
+
+;0x445AE322=~z~Jonathan Klebitz, my brother.
+0x445AE322=~z~Jonathan Klebitz, my brother.
+
+;0x44980C7F=~z~Dude, I'm sorry for spoiling the party.
+0x44980C7F=~z~Dude, I'm sorry for spoiling the party.
+
+;0x44C487D5=E1S4_BE
+0x44C487D5=E1S4_BE
+
+;0x44CE40A1=~z~I always hated this shithole.
+0x44CE40A1=~z~I always hated this shithole.
+
+;0x44D7BA7C=~z~The final run, boys.
+0x44D7BA7C=~z~The final run, boys.
+
+;0x45D4F6C1=SFX_PAUSE_470
+0x45D4F6C1=SFX_PAUSE_470
+
+;0x46C8B147=~z~These screws are in our way.
+0x46C8B147=~z~These screws are in our way.
+
+;0x46EE458A=E1S4_PA
+0x46EE458A=E1S4_PA
+
+;0x47363E10=~z~and if he collars you, you'll do fifteen years
+0x47363E10=~z~and if he collars you, you'll do fifteen years
+
+;0x48246AB1=~z~You here to kick a brother while he's down?
+0x48246AB1=~z~You here to kick a brother while he's down?
+
+;0x48D0C149=~z~and your buddy in the chair.
+0x48D0C149=~z~and your buddy in the chair.
+
+;0x49923B12=SFX_PAUSE_120
+0x49923B12=SFX_PAUSE_120
+
+;0x49BDB230=~z~Terry, Clay, come with me. You boys hold the gate.
+0x49BDB230=~z~Terry, Clay, come with me. You boys hold the gate.
+
+;0x49E0E9C7=~z~Sure.
+0x49E0E9C7=~z~Sure.
+
+;0x49EB640B=E1S4_B_LA
+0x49EB640B=E1S4_B_LA
+
+;0x4AE97EC7=E1S4_A_AA
+0x4AE97EC7=E1S4_A_AA
+
+;0x4AFB8E2E=~z~I hate that bastard more and more every day. So long.
+0x4AFB8E2E=~z~I hate that bastard more and more every day. So long.
+
+;0x4B5D236B=~z~but I think I like the smoking policy.
+0x4B5D236B=~z~but I think I like the smoking policy.
+
+;0x4C219A0B=SFX_PAUSE_190
+0x4C219A0B=SFX_PAUSE_190
+
+;0x4CAD717F=~z~Terry, man, we got to pay our friend Billy a visit. He's been talking.
+0x4CAD717F=~z~Terry, man, we got to pay our friend Billy a visit. He's been talking.
+
+;0x4CCABFD8=092
+0x4CCABFD8=092
+
+;0x4CE452A5=~z~You boys ready? I'm about to bust this open with the rocket launcher.
+0x4CE452A5=~z~You boys ready? I'm about to bust this open with the rocket launcher.
+
+;0x4DEB1131=~z~Brothers. Rush these bitches.
+0x4DEB1131=~z~Brothers. Rush these bitches.
+
+;0x4E0CCCDD=~z~Why not?
+0x4E0CCCDD=~z~Why not?
+
+;0x4E531702=E1S4_BC
+0x4E531702=E1S4_BC
+
+;0x4EC39953=~z~Jim would tear through these bitches in a second.
+0x4EC39953=~z~Jim would tear through these bitches in a second.
+
+;0x4EFFA3B2=~z~I guess I just got too amped up before getting on in there. I'll see you soon.
+0x4EFFA3B2=~z~I guess I just got too amped up before getting on in there. I'll see you soon.
+
+;0x4F119E95=092
+0x4F119E95=092
+
+;0x4F3E6B2E=100090010090100
+0x4F3E6B2E=100090010090100
+
+;0x4F7E9CBF=E1S4_CB
+0x4F7E9CBF=E1S4_CB
+
+;0x4FD5E739=~z~Clay, dude, we got some hard work to do. We got to pay Billy a visit in the pen.
+0x4FD5E739=~z~Clay, dude, we got some hard work to do. We got to pay Billy a visit in the pen.
+
+;0x4FE0CD38=~z~That is not the laundry guy, boys. We have an intruder.
+0x4FE0CD38=~z~That is not the laundry guy, boys. We have an intruder.
+
+;0x4FF756C2=090
+0x4FF756C2=090
+
+;0x5128023E=092
+0x5128023E=092
+
+;0x516EB02C=~z~I'm about to introduce a pipe bomb to that gate. I hope you're all ready.
+0x516EB02C=~z~I'm about to introduce a pipe bomb to that gate. I hope you're all ready.
+
+;0x517480CC=~z~Good to see you, Terrence.
+0x517480CC=~z~Good to see you, Terrence.
+
+;0x52548E8D=~z~We need to get more organised. Later on.
+0x52548E8D=~z~We need to get more organised. Later on.
+
+;0x5292D573=E1S4_QA
+0x5292D573=E1S4_QA
+
+;0x5306F82B=~z~Where the fuck is Billy Grey?
+0x5306F82B=~z~Where the fuck is Billy Grey?
+
+;0x536ACFF1=~z~Yeah, well. You're a smart guy, you'll figure something out.
+0x536ACFF1=~z~Yeah, well. You're a smart guy, you'll figure something out.
+
+;0x5373022C=590
+0x5373022C=590
+
+;0x537ED7CA=~z~One last job, guys.
+0x537ED7CA=~z~One last job, guys.
+
+;0x548FA8F8=~z~Give up William Grey and we'll clear off!
+0x548FA8F8=~z~Give up William Grey and we'll clear off!
+
+;0x5735203E=E1S4_B_KA
+0x5735203E=E1S4_B_KA
+
+;0x57549350=E1S4_A_OA
+0x57549350=E1S4_A_OA
+
+;0x5813A7A8=~z~We got what we came for, thank you.
+0x5813A7A8=~z~We got what we came for, thank you.
+
+;0x582C9F9C=~z~Please return to your vehicle immediately.
+0x582C9F9C=~z~Please return to your vehicle immediately.
+
+;0x588E988B=E1S4_A_MA
+0x588E988B=E1S4_A_MA
+
+;0x5954F82F=SFX_PAUSE_350
+0x5954F82F=SFX_PAUSE_350
+
+;0x599D2616=SFX_PAUSE_420
+0x599D2616=SFX_PAUSE_420
+
+;0x59B728D4=~z~You got a ticket to the freak show, freshman. Freakiest freaks on earth in this pit. Good luck to you.
+0x59B728D4=~z~You got a ticket to the freak show, freshman. Freakiest freaks on earth in this pit. Good luck to you.
+
+;0x59FE0926=~z~Get away from the entrance or you will be moved.
+0x59FE0926=~z~Get away from the entrance or you will be moved.
+
+;0x5AE8EFF1=E1S4_B_JB
+0x5AE8EFF1=E1S4_B_JB
+
+;0x5B691BC3=~z~Come on man let's get outta here.
+0x5B691BC3=~z~Come on man let's get outta here.
+
+;0x5BB38499=~z~Terry, dude. You got some first aid or something? Bring it here.
+0x5BB38499=~z~Terry, dude. You got some first aid or something? Bring it here.
+
+;0x5DAC0DDD=~z~Let's get outta here, boys. Billy stopped talking bullshit for good.
+0x5DAC0DDD=~z~Let's get outta here, boys. Billy stopped talking bullshit for good.
+
+;0x5E106997=~z~Warning. Security breach: that is not the laundry guy.
+0x5E106997=~z~Warning. Security breach: that is not the laundry guy.
+
+;0x5EEF97FA=~z~Alright, man. I'll take a look around.
+0x5EEF97FA=~z~Alright, man. I'll take a look around.
+
+;0x5F17EDD7=~z~Thinks he can help pin a major drug dealing ring on you
+0x5F17EDD7=~z~Thinks he can help pin a major drug dealing ring on you
+
+;0x5F2F18A8=~z~Hey, dude, you're not even a cop!
+0x5F2F18A8=~z~Hey, dude, you're not even a cop!
+
+;0x5F566F70=~z~Apparently he and a lot of his associates are under some serious observation.
+0x5F566F70=~z~Apparently he and a lot of his associates are under some serious observation.
+
+;0x60204020=~z~You know how it happens,
+0x60204020=~z~You know how it happens,
+
+;0x603CAE62=E1S4_B_TA
+0x603CAE62=E1S4_B_TA
+
+;0x60A38AFD=E1S4_A_WA
+0x60A38AFD=E1S4_A_WA
+
+;0x60C89360=~z~The guy on the roof is down. We're cool.
+0x60C89360=~z~The guy on the roof is down. We're cool.
+
+;0x6158A6BE=~z~This gang is fucked all to hell right now, but I'll love you brothers until I die.
+0x6158A6BE=~z~This gang is fucked all to hell right now, but I'll love you brothers until I die.
+
+;0x61A24FF5=~z~You want a cigar?
+0x61A24FF5=~z~You want a cigar?
+
+;0x6207B826=~z~Killing everyone around me isn't an option, Mr. Congressman. Goodbye and thank you.
+0x6207B826=~z~Killing everyone around me isn't an option, Mr. Congressman. Goodbye and thank you.
+
+;0x6254685E=~z~Clear the fucking area.
+0x6254685E=~z~Clear the fucking area.
+
+;0x628663F6=~z~Treacherous fucking bastard. He went insane.
+0x628663F6=~z~Treacherous fucking bastard. He went insane.
+
+;0x6349F002=~z~Is there a ramp you can use? Can you get hold of a guard's uniform?
+0x6349F002=~z~Is there a ramp you can use? Can you get hold of a guard's uniform?
+
+;0x637580AC=~z~Open the gate. We got the guard uniforms going out for cleaning.
+0x637580AC=~z~Open the gate. We got the guard uniforms going out for cleaning.
+
+;0x63A48ED6=~z~Johnny.
+0x63A48ED6=~z~Johnny.
+
+;0x63C9ADDB=E1S4_EB
+0x63C9ADDB=E1S4_EB
+
+;0x63ED8F2A=~z~What the fuck is left of our chapter, boys?
+0x63ED8F2A=~z~What the fuck is left of our chapter, boys?
+
+;0x64221841=~z~Let's go get Billy!
+0x64221841=~z~Let's go get Billy!
+
+;0x64494013=~z~There's one prisoner you don't gotta worry about now.
+0x64494013=~z~There's one prisoner you don't gotta worry about now.
+
+;0x6453ADA0=~z~that works well in the government,
+0x6453ADA0=~z~that works well in the government,
+
+;0x65714060=~z~This is a zoo, newbie. Don't feed the animals, don't rattle the cage. You should be fine.
+0x65714060=~z~This is a zoo, newbie. Don't feed the animals, don't rattle the cage. You should be fine.
+
+;0x66703C23=~z~Can you please get back into the vehicle.
+0x66703C23=~z~Can you please get back into the vehicle.
+
+;0x66907D70=~z~hell, maybe you can jump the wall on that bike of yours. Good luck, sport.
+0x66907D70=~z~hell, maybe you can jump the wall on that bike of yours. Good luck, sport.
+
+;0x68C623A9=~z~You ain't talking your way outta this, Billy.
+0x68C623A9=~z~You ain't talking your way outta this, Billy.
+
+;0x68DD78AC=E1S4_A_YA
+0x68DD78AC=E1S4_A_YA
+
+;0x68E736BF=~z~Yeah, do what you gotta do.
+0x68E736BF=~z~Yeah, do what you gotta do.
+
+;0x693FD3F7=~z~Lost MC, yeah. I'm glad I got you two with me.
+0x693FD3F7=~z~Lost MC, yeah. I'm glad I got you two with me.
+
+;0x698B87A9=090
+0x698B87A9=090
+
+;0x69BB03C1=~z~Maybe there's a disguise somewhere, or maybe you can get him from your side of the fence,
+0x69BB03C1=~z~Maybe there's a disguise somewhere, or maybe you can get him from your side of the fence,
+
+;0x6A551EBB=E1S4_DB
+0x6A551EBB=E1S4_DB
+
+;0x6A894A6D=~z~Sack these fucks. Move in.
+0x6A894A6D=~z~Sack these fucks. Move in.
+
+;0x6AB39DBA=090090090
+0x6AB39DBA=090090090
+
+;0x6B0662BD=~z~Now, is that any way to treat a friend?
+0x6B0662BD=~z~Now, is that any way to treat a friend?
+
+;0x6B14A419=E1S4_B_LB
+0x6B14A419=E1S4_B_LB
+
+;0x6B4A23C6=~z~Terry, man. I need some help here. Gimme first aid.
+0x6B4A23C6=~z~Terry, man. I need some help here. Gimme first aid.
+
+;0x6B86A8DC=~z~You don't need to worry about that sniper no more.
+0x6B86A8DC=~z~You don't need to worry about that sniper no more.
+
+;0x6B97954E=E1S4_EXECL
+0x6B97954E=E1S4_EXECL
+
+;0x6B9C0085=~z~We're in the safest place in the city. Providin' there ain't a riot, that is.
+0x6B9C0085=~z~We're in the safest place in the city. Providin' there ain't a riot, that is.
+
+;0x6BD0456A=~z~We ain't paying for this stuff, Terry. It's being used for the Club.
+0x6BD0456A=~z~We ain't paying for this stuff, Terry. It's being used for the Club.
+
+;0x6C7D88A2=~z~He's been talking inside.
+0x6C7D88A2=~z~He's been talking inside.
+
+;0x6CDE2BCD=~z~Your brothers are here, William. Come and say 'hi'.
+0x6CDE2BCD=~z~Your brothers are here, William. Come and say 'hi'.
+
+;0x6D1C5BB7=092090092090092
+0x6D1C5BB7=092090092090092
+
+;0x6D2788F6=E1S4_B_JA
+0x6D2788F6=E1S4_B_JA
+
+;0x6D3C0B3B=~z~And in the process of imploding.
+0x6D3C0B3B=~z~And in the process of imploding.
+
+;0x6E717B97=~z~You brothers hold this position. Me, Terry, and Clay are gonna go get this asshole.
+0x6E717B97=~z~You brothers hold this position. Me, Terry, and Clay are gonna go get this asshole.
+
+;0x6E805537=~z~Clay wouldn't be dead if Billy had just taken his time like a man.
+0x6E805537=~z~Clay wouldn't be dead if Billy had just taken his time like a man.
+
+;0x6ED34465=092092090092
+0x6ED34465=092092090092
+
+;0x711265AD=~z~Man, am I happy to see you boys and these bikes.
+0x711265AD=~z~Man, am I happy to see you boys and these bikes.
+
+;0x72072B51=~z~Fuck if I want it standing. It stands for bullshit, nothing more.
+0x72072B51=~z~Fuck if I want it standing. It stands for bullshit, nothing more.
+
+;0x7276E4CD=~z~Yeah it is. How the fuck did that happen?
+0x7276E4CD=~z~Yeah it is. How the fuck did that happen?
+
+;0x72883252=092
+0x72883252=092
+
+;0x72A559EA=SFX_PAUSE_140
+0x72A559EA=SFX_PAUSE_140
+
+;0x72AC2CA7=~z~Dead bodies, burnt out brothers, and a clubhouse like a mausoleum.
+0x72AC2CA7=~z~Dead bodies, burnt out brothers, and a clubhouse like a mausoleum.
+
+;0x73E105FE=100090010090100
+0x73E105FE=100090010090100
+
+;0x7428E664=E1S4_A_EA
+0x7428E664=E1S4_A_EA
+
+;0x74B63C65=100090010090100090100090100
+0x74B63C65=100090010090100090100090100
+
+;0x75295807=~z~Something's happened to the laundry van. Someone go check it out.
+0x75295807=~z~Something's happened to the laundry van. Someone go check it out.
+
+;0x7594E2AA=~z~We're breaking outta here. Fuck off.
+0x7594E2AA=~z~We're breaking outta here. Fuck off.
+
+;0x75E094DC=~z~I told you I was good for a favor.
+0x75E094DC=~z~I told you I was good for a favor.
+
+;0x763441D6=E1S4_A_BA
+0x763441D6=E1S4_A_BA
+
+;0x76659A5B=~z~We gotta find Billy. Come on.
+0x76659A5B=~z~We gotta find Billy. Come on.
+
+;0x76A1747E=~z~Let's move in deeper. Come on.
+0x76A1747E=~z~Let's move in deeper. Come on.
+
+;0x76C4BFA6=~z~Stay the fuck away. I just wanna kill Billy Grey.
+0x76C4BFA6=~z~Stay the fuck away. I just wanna kill Billy Grey.
+
+;0x77017362=SFX_PAUSE_350
+0x77017362=SFX_PAUSE_350
+
+;0x7706638A=~z~Welcome to Hell, rookie. Keep your back to the wall and your finger on the trigger.
+0x7706638A=~z~Welcome to Hell, rookie. Keep your back to the wall and your finger on the trigger.
+
+;0x77707058=~z~Shit, if only Jim was with us now.
+0x77707058=~z~Shit, if only Jim was with us now.
+
+;0x791EC4C2=~z~He's dead, brothers. Now all we need to worry about is getting out of here alive.
+0x791EC4C2=~z~He's dead, brothers. Now all we need to worry about is getting out of here alive.
+
+;0x798F9C89=~z~Klebitz?
+0x798F9C89=~z~Klebitz?
+
+;0x79F4C5B8=~z~Sniper's down.
+0x79F4C5B8=~z~Sniper's down.
+
+;0x7A1AF922=E1S4_GA
+0x7A1AF922=E1S4_GA
+
+;0x7A22CB71=090090090
+0x7A22CB71=090090090
+
+;0x7A676BEE=~z~Do it.
+0x7A676BEE=~z~Do it.
+
+;0x7A7062A0=E1S4_B_RA
+0x7A7062A0=E1S4_B_RA
+
+;0x7AC22647=~z~They'll either be dead or inside within a month or so.
+0x7AC22647=~z~They'll either be dead or inside within a month or so.
+
+;0x7AC3DA80=~z~Ain't that the truth.
+0x7AC3DA80=~z~Ain't that the truth.
+
+;0x7AEB59E3=~z~Terry, Clay. Thanks for rolling with me.
+0x7AEB59E3=~z~Terry, Clay. Thanks for rolling with me.
+
+;0x7B299DE8=090090090
+0x7B299DE8=090090090
+
+;0x7B4BB103=SFX_PAUSE_500
+0x7B4BB103=SFX_PAUSE_500
+
+;0x7B68E3D5=E1S4_EA
+0x7B68E3D5=E1S4_EA
+
+;0x7C05295B=E1S4_FB
+0x7C05295B=E1S4_FB
+
+;0x7C6F73C5=E1S4_A_LA
+0x7C6F73C5=E1S4_A_LA
+
+;0x7CD53C6D=100
+0x7CD53C6D=100
+
+;0x7E5B519C=032
+0x7E5B519C=032
+
+;0x7E772595=SFX_PAUSE_670
+0x7E772595=SFX_PAUSE_670
+
+;0x7EB4FAEF=~z~Shit, I can't get another ticket, dude. Can I, like, suck you off or something? Come on.
+0x7EB4FAEF=~z~Shit, I can't get another ticket, dude. Can I, like, suck you off or something? Come on.
+
+;0x7F04A418=E1S4_EXECA
+0x7F04A418=E1S4_EXECA
+
+;0x80BF94CD=020
+0x80BF94CD=020
+
+;0x8155AF7E=E1S4_EXECC
+0x8155AF7E=E1S4_EXECC
+
+;0x81FE8182=~z~I ain't been smugglin' nothin' into Alderney State, officer. It's all for personal consumption, man.
+0x81FE8182=~z~I ain't been smugglin' nothin' into Alderney State, officer. It's all for personal consumption, man.
+
+;0x82E41810=090
+0x82E41810=090
+
+;0x82F7822A=E1S4_BD
+0x82F7822A=E1S4_BD
+
+;0x846E53E5=E1S4_B_PA
+0x846E53E5=E1S4_B_PA
+
+;0x84A8092F=~z~Yeah, we did. But it's over.
+0x84A8092F=~z~Yeah, we did. But it's over.
+
+;0x84ABD69F=~z~Oh, man. I'm thinking you're thinking we don't have a choice. We'll come meet you.
+0x84ABD69F=~z~Oh, man. I'm thinking you're thinking we don't have a choice. We'll come meet you.
+
+;0x84CFDFA4=~z~Whatever.
+0x84CFDFA4=~z~Whatever.
+
+;0x8512E261=~z~I'm waiting.
+0x8512E261=~z~I'm waiting.
+
+;0x8547D3B5=~z~I'm cracking the gate with a grenade, keep back boys.
+0x8547D3B5=~z~I'm cracking the gate with a grenade, keep back boys.
+
+;0x85735EE1=092
+0x85735EE1=092
+
+;0x857E6F01=~z~Man, I miss Jim. He was one princely son of a bitch. The best thing this gang ever had.
+0x857E6F01=~z~Man, I miss Jim. He was one princely son of a bitch. The best thing this gang ever had.
+
+;0x85982A19=~z~I'll forgive him the insults and injuries, but I can't forgive him that.
+0x85982A19=~z~I'll forgive him the insults and injuries, but I can't forgive him that.
+
+;0x8638FA2A=~z~The laundry van doesn't look right. Get to the main gate.
+0x8638FA2A=~z~The laundry van doesn't look right. Get to the main gate.
+
+;0x8643EB75=~z~It ain't worth dying for the prisoners of Alderney State.
+0x8643EB75=~z~It ain't worth dying for the prisoners of Alderney State.
+
+;0x8673CEB3=SFX_PAUSE_380
+0x8673CEB3=SFX_PAUSE_380
+
+;0x86820C25=SFX_PAUSE_170
+0x86820C25=SFX_PAUSE_170
+
+;0x86C26009=~z~Well, Billy isn't going to be talking to anyone about us. We can clear on outta here.
+0x86C26009=~z~Well, Billy isn't going to be talking to anyone about us. We can clear on outta here.
+
+;0x87748303=~z~If you've learned anything at all from me, I hope it's how to cope with a crisis.
+0x87748303=~z~If you've learned anything at all from me, I hope it's how to cope with a crisis.
+
+;0x880AB930=~z~why you doing this?
+0x880AB930=~z~why you doing this?
+
+;0x8844CCFD=E1S4_JA
+0x8844CCFD=E1S4_JA
+
+;0x8865DCC0=SFX_PAUSE_230
+0x8865DCC0=SFX_PAUSE_230
+
+;0x888E9F60=E1S4_A_RA
+0x888E9F60=E1S4_A_RA
+
+;0x8894F622=~z~not so good if you're a fucking crook.
+0x8894F622=~z~not so good if you're a fucking crook.
+
+;0x88A33ED6=~z~We gotta get through to Billy.
+0x88A33ED6=~z~We gotta get through to Billy.
+
+;0x88DC099F=E1S4_BB
+0x88DC099F=E1S4_BB
+
+;0x890EC2E0=~z~Best thing you can do - stay away from him.
+0x890EC2E0=~z~Best thing you can do - stay away from him.
+
+;0x891284FA=E1S4_B_SB
+0x891284FA=E1S4_B_SB
+
+;0x89F5611C=~z~Shit, Terry. Bring my a first aid kit or something.
+0x89F5611C=~z~Shit, Terry. Bring my a first aid kit or something.
+
+;0x8BB0D044=SFX_PAUSE_350
+0x8BB0D044=SFX_PAUSE_350
+
+;0x8BE94A93=E1S4_A_SA
+0x8BE94A93=E1S4_A_SA
+
+;0x8D47CADA=~z~Right, okay, so you're there. Use your imagination.
+0x8D47CADA=~z~Right, okay, so you're there. Use your imagination.
+
+;0x8DFC9D70=~z~Billy Grey sure does have a way of making mayhem.
+0x8DFC9D70=~z~Billy Grey sure does have a way of making mayhem.
+
+;0x8E0EE2BB=090
+0x8E0EE2BB=090
+
+;0x8E4142CF=E1S4_B_AA
+0x8E4142CF=E1S4_B_AA
+
+;0x8E9803BC=~z~Fuck, but that van was bound to be volatile, wasn't it? Later, man.
+0x8E9803BC=~z~Fuck, but that van was bound to be volatile, wasn't it? Later, man.
+
+;0x8EB09177=~z~You know, I'm really lost as to what that's got to do with me, sport. I did all I could for you.
+0x8EB09177=~z~You know, I'm really lost as to what that's got to do with me, sport. I did all I could for you.
+
+;0x8ECC58AF=SFX_PAUSE_550
+0x8ECC58AF=SFX_PAUSE_550
+
+;0x8F31F87E=~z~Sure, man. Let me get a look at what you're talking about.
+0x8F31F87E=~z~Sure, man. Let me get a look at what you're talking about.
+
+;0x8F3347D0=~z~So, ummm, Stubbs. Billy's in a maximum security institution, how am I meant to do this?
+0x8F3347D0=~z~So, ummm, Stubbs. Billy's in a maximum security institution, how am I meant to do this?
+
+;0x8F512B56=~z~I think so. You've certainly seen me naked.
+0x8F512B56=~z~I think so. You've certainly seen me naked.
+
+;0x8F53CF4F=E1S4_B_BA
+0x8F53CF4F=E1S4_B_BA
+
+;0x8F74CFB8=~z~What about Billy Grey?
+0x8F74CFB8=~z~What about Billy Grey?
+
+;0x8F8DE778=E1S4_DA
+0x8F8DE778=E1S4_DA
+
+;0x9028C99E=~z~Society's forgotten about these guys. We can do what we like to 'em.
+0x9028C99E=~z~Society's forgotten about these guys. We can do what we like to 'em.
+
+;0x909D4ECA=~z~Let's find this asshole and get outta here.
+0x909D4ECA=~z~Let's find this asshole and get outta here.
+
+;0x913EDC3E=~z~We gotta get the uniforms cleaned. Open the gates for the laundry guys.
+0x913EDC3E=~z~We gotta get the uniforms cleaned. Open the gates for the laundry guys.
+
+;0x9168E12E=630090360
+0x9168E12E=630090360
+
+;0x9243EB48=590
+0x9243EB48=590
+
+;0x92827B09=~z~Uhhh? Alright then.
+0x92827B09=~z~Uhhh? Alright then.
+
+;0x93BEA144=~z~We should regroup and hit that shit again. Sorry man, later on.
+0x93BEA144=~z~We should regroup and hit that shit again. Sorry man, later on.
+
+;0x93C4250D=~z~Yo, officer, we're on the same team. I can, like, beat you off or something, but no tickets, man.
+0x93C4250D=~z~Yo, officer, we're on the same team. I can, like, beat you off or something, but no tickets, man.
+
+;0x9455E96A=E1S4_EXECI
+0x9455E96A=E1S4_EXECI
+
+;0x94E2E239=092
+0x94E2E239=092
+
+;0x94EAC2C0=E1S4_A_GA
+0x94EAC2C0=E1S4_A_GA
+
+;0x95223998=SFX_PAUSE_400
+0x95223998=SFX_PAUSE_400
+
+;0x96F1ADC2=~z~We had fun here.
+0x96F1ADC2=~z~We had fun here.
+
+;0x9704D48A=~z~What a fucking pleasure!
+0x9704D48A=~z~What a fucking pleasure!
+
+;0x97ED99DD=~z~Looks like the laundry guys forgot something. Open the gates.
+0x97ED99DD=~z~Looks like the laundry guys forgot something. Open the gates.
+
+;0x98728FD2=~z~We're just here for William Grey. Save your fucking selves.
+0x98728FD2=~z~We're just here for William Grey. Save your fucking selves.
+
+;0x99B1EA6B=~z~You check the visitors list?
+0x99B1EA6B=~z~You check the visitors list?
+
+;0x99C75C02=090
+0x99C75C02=090
+
+;0x9A565DC7=~z~Hey one more thing Stubbs...
+0x9A565DC7=~z~Hey one more thing Stubbs...
+
+;0x9AEE6ABD=SFX_PAUSE_180
+0x9AEE6ABD=SFX_PAUSE_180
+
+;0x9B4E2736=E1S4_A_DA
+0x9B4E2736=E1S4_A_DA
+
+;0x9BAD4207=E1S4_B_EA
+0x9BAD4207=E1S4_B_EA
+
+;0x9BEE3953=~z~Clay, man. You're a good brother.
+0x9BEE3953=~z~Clay, man. You're a good brother.
+
+;0x9CC762A9=~z~Good, I'll need it.
+0x9CC762A9=~z~Good, I'll need it.
+
+;0x9CC9274E=~z~Someone get to the main gate. The laundry van looks suspicious.
+0x9CC9274E=~z~Someone get to the main gate. The laundry van looks suspicious.
+
+;0x9D226B13=~z~Yes. Well you've got a bit of a problem there sport.
+0x9D226B13=~z~Yes. Well you've got a bit of a problem there sport.
+
+;0x9D65580E=~z~Let's go back to the house. There's one more thing we gotta do.
+0x9D65580E=~z~Let's go back to the house. There's one more thing we gotta do.
+
+;0x9DCF8AA2=SFX_PAUSE_320
+0x9DCF8AA2=SFX_PAUSE_320
+
+;0x9E262217=~z~Johnny?
+0x9E262217=~z~Johnny?
+
+;0x9EBEA61E=SFX_PAUSE_290
+0x9EBEA61E=SFX_PAUSE_290
+
+;0x9EE192EC=~z~Please clear the facility entrance.
+0x9EE192EC=~z~Please clear the facility entrance.
+
+;0xA096973B=~z~You won't find salvation here, my friend. It's too late for that.
+0xA096973B=~z~You won't find salvation here, my friend. It's too late for that.
+
+;0xA0E73F5E=E1S4_XA
+0xA0E73F5E=E1S4_XA
+
+;0xA159F505=590
+0xA159F505=590
+
+;0xA2694649=~z~I don't care what happens to me as long as we get Billy. Come on.
+0xA2694649=~z~I don't care what happens to me as long as we get Billy. Come on.
+
+;0xA291108C=E1S4_B_DA
+0xA291108C=E1S4_B_DA
+
+;0xA2FB005D=~z~That shit needed to be done. Billy needed to be shut up.
+0xA2FB005D=~z~That shit needed to be done. Billy needed to be shut up.
+
+;0xA5B0B563=~z~The laundry van is back. Open up.
+0xA5B0B563=~z~The laundry van is back. Open up.
+
+;0xA68C7729=E1S4_A_XA
+0xA68C7729=E1S4_A_XA
+
+;0xA72367D1=E1S4_B_KC
+0xA72367D1=E1S4_B_KC
+
+;0xA81D5CEE=~z~Do you wanna go fuck yourself?
+0xA81D5CEE=~z~Do you wanna go fuck yourself?
+
+;0xA86D0B79=~z~Drugs sent that fuck insane.
+0xA86D0B79=~z~Drugs sent that fuck insane.
+
+;0xA8790B94=E1S4_EXECK
+0xA8790B94=E1S4_EXECK
+
+;0xAA9CBF37=~z~Open up for the laundry van.
+0xAA9CBF37=~z~Open up for the laundry van.
+
+;0xABC78507=E1S4_AB
+0xABC78507=E1S4_AB
+
+;0xAC011CAA=E1S4_B_PB
+0xAC011CAA=E1S4_B_PB
+
+;0xAC371CF7=~z~Sniper on the roof, boys. Be careful.
+0xAC371CF7=~z~Sniper on the roof, boys. Be careful.
+
+;0xAEBD1AD8=~z~Tell the Warden this prison's gonna burn.
+0xAEBD1AD8=~z~Tell the Warden this prison's gonna burn.
+
+;0xAF37E379=E1S4_SA
+0xAF37E379=E1S4_SA
+
+;0xAFF92926=SFX_PAUSE_230
+0xAFF92926=SFX_PAUSE_230
+
+;0xB09FE2B6=~z~If these assholes kill me, promise you'll get Billy, okay?
+0xB09FE2B6=~z~If these assholes kill me, promise you'll get Billy, okay?
+
+;0xB0D94A17=092
+0xB0D94A17=092
+
+;0xB136C8C7=~z~Ten bucks says this asshole don't last the week.
+0xB136C8C7=~z~Ten bucks says this asshole don't last the week.
+
+;0xB145C8E9=~z~You're on shower duty, rook.
+0xB145C8E9=~z~You're on shower duty, rook.
+
+;0xB1D6DA8C=SFX_PAUSE_250
+0xB1D6DA8C=SFX_PAUSE_250
+
+;0xB21BCAC3=~z~The club's whole arsenal is an upsetting casualty.
+0xB21BCAC3=~z~The club's whole arsenal is an upsetting casualty.
+
+;0xB27ADC14=~z~Check mate, dude.
+0xB27ADC14=~z~Check mate, dude.
+
+;0xB29ADCB9=~z~You can lock this place down now.
+0xB29ADCB9=~z~You can lock this place down now.
+
+;0xB3C63A2A=E1S4_A_TA
+0xB3C63A2A=E1S4_A_TA
+
+;0xB5F1306B=~z~We got a sniper up by that water tower. Watch out!
+0xB5F1306B=~z~We got a sniper up by that water tower. Watch out!
+
+;0xB66AD6B8=~z~Shit. What happened to those fucking bikes, man.
+0xB66AD6B8=~z~Shit. What happened to those fucking bikes, man.
+
+;0xB8A3D034=~z~Sorry screws, you ain't stopping us now.
+0xB8A3D034=~z~Sorry screws, you ain't stopping us now.
+
+;0xB98A6AB5=040
+0xB98A6AB5=040
+
+;0xB9C92B0A=~z~You're a waste of space, dude. Get out of there.
+0xB9C92B0A=~z~You're a waste of space, dude. Get out of there.
+
+;0xBABEB668=E1S4_WA
+0xBABEB668=E1S4_WA
+
+;0xBB4F1D3A=E1S4_AA
+0xBB4F1D3A=E1S4_AA
+
+;0xBC71CE0C=~z~Authorised personnel only. Leave the area now.
+0xBC71CE0C=~z~Authorised personnel only. Leave the area now.
+
+;0xC0C97916=~z~Get out of our fucking way!
+0xC0C97916=~z~Get out of our fucking way!
+
+;0xC1A877F0=092
+0xC1A877F0=092
+
+;0xC3056C64=~z~Good luck, man. You'll certainly need it.
+0xC3056C64=~z~Good luck, man. You'll certainly need it.
+
+;0xC34E0636=SFX_PAUSE_180
+0xC34E0636=SFX_PAUSE_180
+
+;0xC3708DEF=~z~You could have just come in visiting hours like all my other friends, Jonathan.
+0xC3708DEF=~z~You could have just come in visiting hours like all my other friends, Jonathan.
+
+;0xC3EBEE7C=E1S4_B_FA
+0xC3EBEE7C=E1S4_B_FA
+
+;0xC5533B75=~z~My brothers, this is the last time.
+0xC5533B75=~z~My brothers, this is the last time.
+
+;0xC6ACE8AC=090090090
+0xC6ACE8AC=090090090
+
+;0xC6F80F66=~z~Keep your heads, boys. We might just survive this.
+0xC6F80F66=~z~Keep your heads, boys. We might just survive this.
+
+;0xC75DC922=~z~Funny thing is, five years ago he woulda lead the charge into Alderney State himself.
+0xC75DC922=~z~Funny thing is, five years ago he woulda lead the charge into Alderney State himself.
+
+;0xC76741B5=300
+0xC76741B5=300
+
+;0xC8816E96=092
+0xC8816E96=092
+
+;0xC96485D9=~z~We got to clear these screws outta here or they'll take us from behind.
+0xC96485D9=~z~We got to clear these screws outta here or they'll take us from behind.
+
+;0xC9ED3EBC=SFX_PAUSE_870
+0xC9ED3EBC=SFX_PAUSE_870
+
+;0xCA1789E5=E1S4_BA
+0xCA1789E5=E1S4_BA
+
+;0xCA3F081F=E1S4_B_CA
+0xCA3F081F=E1S4_B_CA
+
+;0xCA8D14F8=~z~which means good is never good enough.
+0xCA8D14F8=~z~which means good is never good enough.
+
+;0xCAAD7F15=SFX_PAUSE_190
+0xCAAD7F15=SFX_PAUSE_190
+
+;0xCAE174AF=~z~Get out the fucking way.
+0xCAE174AF=~z~Get out the fucking way.
+
+;0xCB34D3C7=~z~You screws are gonna die in this shithole.
+0xCB34D3C7=~z~You screws are gonna die in this shithole.
+
+;0xCBD0E2DC=E1S4_B_QA
+0xCBD0E2DC=E1S4_B_QA
+
+;0xCC22CFBD=~z~You've got the right to get the fuck out of here, man.
+0xCC22CFBD=~z~You've got the right to get the fuck out of here, man.
+
+;0xCC4DD1E6=E1S4_B_LC
+0xCC4DD1E6=E1S4_B_LC
+
+;0xCC68CC85=E1S4_FC
+0xCC68CC85=E1S4_FC
+
+;0xCDC77848=092
+0xCDC77848=092
+
+;0xCDF7E936=~z~Terry, man, I've had some bad news. Billy's been singing from his cellblock.
+0xCDF7E936=~z~Terry, man, I've had some bad news. Billy's been singing from his cellblock.
+
+;0xCE1649A1=~z~Intruder alert. That guy is not here for dirty laundry.
+0xCE1649A1=~z~Intruder alert. That guy is not here for dirty laundry.
+
+;0xCE56151E=E1S4_B_KB
+0xCE56151E=E1S4_B_KB
+
+;0xCF12974B=SFX_PAUSE_140
+0xCF12974B=SFX_PAUSE_140
+
+;0xCFA43C8B=~z~Let's meet Angus at the house, guys. This thing is nearly finished.
+0xCFA43C8B=~z~Let's meet Angus at the house, guys. This thing is nearly finished.
+
+;0xD0D5E6A3=~z~The new guy's here. Open the gates.
+0xD0D5E6A3=~z~The new guy's here. Open the gates.
+
+;0xD0FF290C=~z~You've thrown it all away, Johnny. Everything I built.
+0xD0FF290C=~z~You've thrown it all away, Johnny. Everything I built.
+
+;0xD11067E8=E1S4_YA
+0xD11067E8=E1S4_YA
+
+;0xD1A04942=~z~Come on!
+0xD1A04942=~z~Come on!
+
+;0xD1EA6640=E1S4_A_VA
+0xD1EA6640=E1S4_A_VA
+
+;0xD1F3FA6D=SFX_PAUSE_270
+0xD1F3FA6D=SFX_PAUSE_270
+
+;0xD2B61C64=092
+0xD2B61C64=092
+
+;0xD374C3FB=E1S4_A_UA
+0xD374C3FB=E1S4_A_UA
+
+;0xD45A9CCA=~z~Johnny? What is it?
+0xD45A9CCA=~z~Johnny? What is it?
+
+;0xD4AABFE6=E1S4_B_NA
+0xD4AABFE6=E1S4_B_NA
+
+;0xD4DC2993=~z~We're the bosses here now. Get out.
+0xD4DC2993=~z~We're the bosses here now. Get out.
+
+;0xD523ABBD=~z~There's a chance we might make it outta here boys. Let's fuckin' do it.
+0xD523ABBD=~z~There's a chance we might make it outta here boys. Let's fuckin' do it.
+
+;0xD6D485C8=490
+0xD6D485C8=490
+
+;0xD6EC1D15=~z~Get back in your vehicle now.
+0xD6EC1D15=~z~Get back in your vehicle now.
+
+;0xD79A2244=~z~Clear this area. It's the first of many.
+0xD79A2244=~z~Clear this area. It's the first of many.
+
+;0xDAA444A3=492
+0xDAA444A3=492
+
+;0xDAC1DF5D=E1S4_EXECE
+0xDAC1DF5D=E1S4_EXECE
+
+;0xDAEF168A=E1S4_A_FA
+0xDAEF168A=E1S4_A_FA
+
+;0xDB6A844B=E1S4_B_QB
+0xDB6A844B=E1S4_B_QB
+
+;0xDBDEA36F=100090010090100090100090010
+0xDBDEA36F=100090010090100090100090010
+
+;0xDCB321F7=SFX_PAUSE_350
+0xDCB321F7=SFX_PAUSE_350
+
+;0xDCD07B8A=SFX_OVERLAP_700
+0xDCD07B8A=SFX_OVERLAP_700
+
+;0xDD16372C=SFX_PAUSE_180
+0xDD16372C=SFX_PAUSE_180
+
+;0xDD5E952B=~z~Johnny, man. What the fuck?
+0xDD5E952B=~z~Johnny, man. What the fuck?
+
+;0xDEC03B0F=E1S4_B_TB
+0xDEC03B0F=E1S4_B_TB
+
+;0xDECF505B=~z~Leave the van over there.
+0xDECF505B=~z~Leave the van over there.
+
+;0xDF376470=~z~~s~
+0xDF376470=~z~~s~
+
+;0xDFB81579=~z~Well here you are, you fork-tongued bastard. I've been looking for you.
+0xDFB81579=~z~Well here you are, you fork-tongued bastard. I've been looking for you.
+
+;0xDFBB3F54=~z~it's that fucked up part of people
+0xDFBB3F54=~z~it's that fucked up part of people
+
+;0xE07777F5=~z~Sorry, we forgot to knock.
+0xE07777F5=~z~Sorry, we forgot to knock.
+
+;0xE178467B=~z~Thanks for bringing the bikes.
+0xE178467B=~z~Thanks for bringing the bikes.
+
+;0xE19CC753=E1S4_B_OB
+0xE19CC753=E1S4_B_OB
+
+;0xE1A4AB97=E1S4_EC
+0xE1A4AB97=E1S4_EC
+
+;0xE2172DBC=300090300090300090030300300090300300
+0xE2172DBC=300090300090300090030300300090300300
+
+;0xE23A81C6=~z~How many of you assholes are on the take, huh?
+0xE23A81C6=~z~How many of you assholes are on the take, huh?
+
+;0xE2E5A217=E1S4_CA
+0xE2E5A217=E1S4_CA
+
+;0xE401866B=~z~Hey, you two get the bikes. I'll finish things with Billy.
+0xE401866B=~z~Hey, you two get the bikes. I'll finish things with Billy.
+
+;0xE4702DDB=~z~That combination of greed and fucked up stupidity
+0xE4702DDB=~z~That combination of greed and fucked up stupidity
+
+;0xE48E1423=E1S4_A_JA
+0xE48E1423=E1S4_A_JA
+
+;0xE56FE9C5=SFX_PAUSE_250
+0xE56FE9C5=SFX_PAUSE_250
+
+;0xE6C5CD66=~z~This place is about to descend into anarchy.
+0xE6C5CD66=~z~This place is about to descend into anarchy.
+
+;0xE7A3A9B5=~z~Johnny the jew. Come on, man.
+0xE7A3A9B5=~z~Johnny the jew. Come on, man.
+
+;0xE823134F=E1S4_EXECF
+0xE823134F=E1S4_EXECF
+
+;0xE83A08B1=E1S4_A_ZA
+0xE83A08B1=E1S4_A_ZA
+
+;0xE8E08162=~z~And there's currently very large walls and armed guards between me and him.
+0xE8E08162=~z~And there's currently very large walls and armed guards between me and him.
+
+;0xEAC472D3=E1S4_RA
+0xEAC472D3=E1S4_RA
+
+;0xECB9596E=E1S4_B_GA
+0xECB9596E=E1S4_B_GA
+
+;0xEF567725=E1S4_A_IA
+0xEF567725=E1S4_A_IA
+
+;0xEFE12D1C=~z~Brother.
+0xEFE12D1C=~z~Brother.
+
+;0xEFFAE3CC=E1S4_B_MA
+0xEFFAE3CC=E1S4_B_MA
+
+;0xF0280FC7=E1S4_FA
+0xF0280FC7=E1S4_FA
+
+;0xF034E3F4=~z~Good to see you. Thanks for bringing these through.
+0xF034E3F4=~z~Good to see you. Thanks for bringing these through.
+
+;0xF07F0D0D=~z~Get in position. I'm cracking the door with the grenade launcher.
+0xF07F0D0D=~z~Get in position. I'm cracking the door with the grenade launcher.
+
+;0xF12998CD=100
+0xF12998CD=100
+
+;0xF18F856C=E1S4_B_RB
+0xF18F856C=E1S4_B_RB
+
+;0xF19E02A1=092
+0xF19E02A1=092
+
+;0xF213D83C=~z~I couldn't get at Billy. He's locked down too tight.
+0xF213D83C=~z~I couldn't get at Billy. He's locked down too tight.
+
+;0xF43E31C1=SFX_PAUSE_1160
+0xF43E31C1=SFX_PAUSE_1160
+
+;0xF4757BA7=~z~Park up over there.
+0xF4757BA7=~z~Park up over there.
+
+;0xF55A1B91=~z~Terry. Clay. Go. Go. Go.
+0xF55A1B91=~z~Terry. Clay. Go. Go. Go.
+
+;0xF5A172D7=092
+0xF5A172D7=092
+
+;0xF65505ED=E1S4_AC
+0xF65505ED=E1S4_AC
+
+;0xF722E80B=~z~Terry, man, I'm sorry. Things got too much for me in there - I fuckin' bailed.
+0xF722E80B=~z~Terry, man, I'm sorry. Things got too much for me in there - I fuckin' bailed.
+
+;0xF755578A=~z~And here it fucking is.
+0xF755578A=~z~And here it fucking is.
+
+;0xF80CAD6A=~z~Get the fuck out of here, you sadistic pricks.
+0xF80CAD6A=~z~Get the fuck out of here, you sadistic pricks.
+
+;0xF8BBF2FB=E1S4_TA
+0xF8BBF2FB=E1S4_TA
+
+;0xFA43EC5F=590
+0xFA43EC5F=590
+
+;0xFB7DD9A6=E1S4_A_PA
+0xFB7DD9A6=E1S4_A_PA
+
+;0xFBAAB4B2=~z~Bad luck. You guards are standing between me and a sonofabitch I wanna kill.
+0xFBAAB4B2=~z~Bad luck. You guards are standing between me and a sonofabitch I wanna kill.
+
+;0xFCB7227B=590
+0xFCB7227B=590
+
+;0xFDA6CD60=~z~You're a dead man, Billy Grey.
+0xFDA6CD60=~z~You're a dead man, Billy Grey.
+
+;0xFE90A2A9=090
+0xFE90A2A9=090
+
+;0xFEFEAD9E=~z~I know.
+0xFEFEAD9E=~z~I know.
+
+;0xFF040099=E1S4_IA
+0xFF040099=E1S4_IA
+
+;0xFF3EDD61=~z~We're here for a prisoner. Not you, guards.
+0xFF3EDD61=~z~We're here for a prisoner. Not you, guards.
+
+;0xFF5DA272=~z~We need to get past these fucks.
+0xFF5DA272=~z~We need to get past these fucks.
+

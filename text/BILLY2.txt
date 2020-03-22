@@ -1,0 +1,43 @@
+﻿[BILLY2]
+;0x306BA416=~r~Billy is dead.
+0x306BA416=~r~Billy is dead.
+
+;0x3436D943=~s~Die motherfuckers!
+0x3436D943=~s~Die motherfuckers!
+
+;0x5609804B=~s~Get on the ~b~bike.
+0x5609804B=~s~Get on the ~b~bike.
+
+;0x664ABF3C=~s~The sawn-off shotgun can be fired from the motorbike by pressing ~INPUT_VEH_ATTACK~.
+0x664ABF3C=~s~The sawn-off shotgun can be fired from the motorbike by pressing ~INPUT_VEH_ATTACK~.
+
+;0x6AD6344D=~s~Meet ~y~Billy.
+0x6AD6344D=~s~Meet ~y~Billy.
+
+;0x79150269=~r~Jason is dead.
+0x79150269=~r~Jason is dead.
+
+;0x832D6D70=~s~Chase the ~r~Angels of Death~s~ and take them out.
+0x832D6D70=~s~Chase the ~r~Angels of Death~s~ and take them out.
+
+;0x972AE64C=~r~You lost the Angels of Death.
+0x972AE64C=~r~You lost the Angels of Death.
+
+;0xAE2CF676=~s~Leave the Angels of Death's turf and meet ~y~Billy.
+0xAE2CF676=~s~Leave the Angels of Death's turf and meet ~y~Billy.
+
+;0xC3FC112B=~r~Your bike was wrecked.
+0xC3FC112B=~r~Your bike was wrecked.
+
+;0xD8B44061=~s~The ~r~A.O.D.~s~ are getting away.
+0xD8B44061=~s~The ~r~A.O.D.~s~ are getting away.
+
+;0xDBEB2A1A=~r~You abandoned your bike.
+0xDBEB2A1A=~r~You abandoned your bike.
+
+;0xDC5D2EAC=~s~Burn in hell Angels!
+0xDC5D2EAC=~s~Burn in hell Angels!
+
+;0xF2D1DB95=~s~Take that you pricks!
+0xF2D1DB95=~s~Take that you pricks!
+

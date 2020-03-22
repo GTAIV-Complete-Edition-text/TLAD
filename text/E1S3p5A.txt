@@ -1,0 +1,589 @@
+﻿[E1S3p5A]
+;0x00C1FF9E=010090010090100
+0x00C1FF9E=010090010090100
+
+;0x010D88E3=SFX_PAUSE_380
+0x010D88E3=SFX_PAUSE_380
+
+;0x02838A1D=SFX_PAUSE_090
+0x02838A1D=SFX_PAUSE_090
+
+;0x0906B0C7=~z~When the patron saint of killing cops and smoking meth tells you to atone, you know you've been a bad girl.
+0x0906B0C7=~z~When the patron saint of killing cops and smoking meth tells you to atone, you know you've been a bad girl.
+
+;0x0A8E923C=~z~Well, who says campaign donations don't buy you anything? I'm on it, Stubbs.
+0x0A8E923C=~z~Well, who says campaign donations don't buy you anything? I'm on it, Stubbs.
+
+;0x0D722CF5=~z~You need to get motivated. Lose the police.
+0x0D722CF5=~z~You need to get motivated. Lose the police.
+
+;0x0DB8C661=E1S3p5_FD
+0x0DB8C661=E1S3p5_FD
+
+;0x11009845=~z~This is sexual harassment.
+0x11009845=~z~This is sexual harassment.
+
+;0x110CC920=SFX_PAUSE_410
+0x110CC920=SFX_PAUSE_410
+
+;0x13F79E2F=~z~This is government business.
+0x13F79E2F=~z~This is government business.
+
+;0x14A05583=~z~Thanks for the info. And I thought guys like me were the scourge of society.
+0x14A05583=~z~Thanks for the info. And I thought guys like me were the scourge of society.
+
+;0x15265489=E1S3p5_QA
+0x15265489=E1S3p5_QA
+
+;0x166591C1=E1S3p5_EA
+0x166591C1=E1S3p5_EA
+
+;0x16664F5A=102
+0x16664F5A=102
+
+;0x166D9CFE=~z~I don't even wanna guess what that means, but I'm thinking Juan ain't one of the schmucks who invested in your company.
+0x166D9CFE=~z~I don't even wanna guess what that means, but I'm thinking Juan ain't one of the schmucks who invested in your company.
+
+;0x1676AF93=SFX_PAUSE_160
+0x1676AF93=SFX_PAUSE_160
+
+;0x19514939=E1S3p5_RC
+0x19514939=E1S3p5_RC
+
+;0x1D1D1191=E1S3p5_HA
+0x1D1D1191=E1S3p5_HA
+
+;0x1DE2F22B=~z~Apart from watching a woman sail into the sunset with millions of dollars that belong to mom and pop investors,
+0x1DE2F22B=~z~Apart from watching a woman sail into the sunset with millions of dollars that belong to mom and pop investors,
+
+;0x1EDC48BB=E1S3p5_KA
+0x1EDC48BB=E1S3p5_KA
+
+;0x1FFD9EC1=~z~Mr. Congressman. I'm afraid your CEO friend is gonna have to stay and face the music.
+0x1FFD9EC1=~z~Mr. Congressman. I'm afraid your CEO friend is gonna have to stay and face the music.
+
+;0x22303AA0=~z~Can you please step back, sir?
+0x22303AA0=~z~Can you please step back, sir?
+
+;0x2265EE2C=E1S3p5_JE
+0x2265EE2C=E1S3p5_JE
+
+;0x22E93C16=~z~We're gonna need some serious imagineering to get out of here.
+0x22E93C16=~z~We're gonna need some serious imagineering to get out of here.
+
+;0x23D77806=E1S3p5_PB
+0x23D77806=E1S3p5_PB
+
+;0x23F4C780=100090010090100090100090100090100090100090010
+0x23F4C780=100090010090100090100090100090100090100090010
+
+;0x27E813D0=100090010090010090100
+0x27E813D0=100090010090010090100
+
+;0x2ABE81CB=~z~Spare me the fucking lectures, you self righteous prick.
+0x2ABE81CB=~z~Spare me the fucking lectures, you self righteous prick.
+
+;0x2C7694E2=~z~She's not making it to that tax haven.
+0x2C7694E2=~z~She's not making it to that tax haven.
+
+;0x2D7379A0=~z~Prescription meds, vodka tonics,
+0x2D7379A0=~z~Prescription meds, vodka tonics,
+
+;0x2D74DCB2=290
+0x2D74DCB2=290
+
+;0x30E5E351=E1S3p5_SC
+0x30E5E351=E1S3p5_SC
+
+;0x30FCEF6C=SFX_PAUSE_420
+0x30FCEF6C=SFX_PAUSE_420
+
+;0x3141B8F0=100090010090010090100
+0x3141B8F0=100090010090010090100
+
+;0x343EF96C=SFX_PAUSE_280
+0x343EF96C=SFX_PAUSE_280
+
+;0x3794E571=~z~Get me out of these cuffs!
+0x3794E571=~z~Get me out of these cuffs!
+
+;0x3B7B98AC=200090200
+0x3B7B98AC=200090200
+
+;0x3BBE815B=E1S3p5_CA
+0x3BBE815B=E1S3p5_CA
+
+;0x3BD067C3=~z~I've got ten hours before Juan Pedro is crushing limes for my mojito on his rippled abs.
+0x3BD067C3=~z~I've got ten hours before Juan Pedro is crushing limes for my mojito on his rippled abs.
+
+;0x3E5C0CEA=E1S3p5_KC
+0x3E5C0CEA=E1S3p5_KC
+
+;0x42EDF130=~z~You lost it, Stubbs? What're you talking about?
+0x42EDF130=~z~You lost it, Stubbs? What're you talking about?
+
+;0x440BF9BB=~z~I can't say I've enjoyed your listening to your socialist hypocritical nonsense, but thanks for the ride.
+0x440BF9BB=~z~I can't say I've enjoyed your listening to your socialist hypocritical nonsense, but thanks for the ride.
+
+;0x44482749=~z~cuddling junior analysts who think they can fuck their way to a partnership. You?
+0x44482749=~z~cuddling junior analysts who think they can fuck their way to a partnership. You?
+
+;0x49F14FD7=~z~Mr. Stubbs. Your friend's chopper experienced mechanical failure.
+0x49F14FD7=~z~Mr. Stubbs. Your friend's chopper experienced mechanical failure.
+
+;0x4A0D2C08=SFX_PAUSE_190
+0x4A0D2C08=SFX_PAUSE_190
+
+;0x4C4903EA=~z~I've not felt like this since junior high school. Anyway,
+0x4C4903EA=~z~I've not felt like this since junior high school. Anyway,
+
+;0x4CDCE84E=SFX_PAUSE_350
+0x4CDCE84E=SFX_PAUSE_350
+
+;0x4E0FBED7=~z~Took her last bonus. Her shares have hit the bottom. You dig?
+0x4E0FBED7=~z~Took her last bonus. Her shares have hit the bottom. You dig?
+
+;0x4FC8A657=SFX_PAUSE_570
+0x4FC8A657=SFX_PAUSE_570
+
+;0x5191F2D8=E1S3p5_AF
+0x5191F2D8=E1S3p5_AF
+
+;0x52044092=200
+0x52044092=200
+
+;0x55A5A18A=~z~This is a restricted area. Get lost, okay?
+0x55A5A18A=~z~This is a restricted area. Get lost, okay?
+
+;0x5701DB26=SFX_PAUSE_170
+0x5701DB26=SFX_PAUSE_170
+
+;0x5732B83F=SFX_PAUSE_210
+0x5732B83F=SFX_PAUSE_210
+
+;0x5C2F1C81=~z~Juan! Juan! Up anchor, my boy. We're heading South. Vamos!
+0x5C2F1C81=~z~Juan! Juan! Up anchor, my boy. We're heading South. Vamos!
+
+;0x5D032A2C=~z~For you, maybe. Best case scenario,
+0x5D032A2C=~z~For you, maybe. Best case scenario,
+
+;0x5D650111=SFX_PAUSE_330
+0x5D650111=SFX_PAUSE_330
+
+;0x5D914D5E=020090200090020090020090200
+0x5D914D5E=020090200090020090020090200
+
+;0x604607BD=E1S3p5_UB
+0x604607BD=E1S3p5_UB
+
+;0x614C6A56=E1S3p5_KF
+0x614C6A56=E1S3p5_KF
+
+;0x62858F29=E1S3p5_TA
+0x62858F29=E1S3p5_TA
+
+;0x636930E1=~z~Ha. I haven't had an annual salary since I punched out licence plates for a year in the joint.
+0x636930E1=~z~Ha. I haven't had an annual salary since I punched out licence plates for a year in the joint.
+
+;0x6437CE56=E1S3p5_GA
+0x6437CE56=E1S3p5_GA
+
+;0x653C7797=E1S3p5_FC
+0x653C7797=E1S3p5_FC
+
+;0x66D4CF2F=E1S3p5_AC
+0x66D4CF2F=E1S3p5_AC
+
+;0x682B879B=E1S3p5_AH
+0x682B879B=E1S3p5_AH
+
+;0x6A011B69=E1S3p5_FA
+0x6A011B69=E1S3p5_FA
+
+;0x6A9477E0=~z~For me, okay. For your friend, not so well. She bought the big one.
+0x6A9477E0=~z~For me, okay. For your friend, not so well. She bought the big one.
+
+;0x6BEF203E=E1S3p5_GF
+0x6BEF203E=E1S3p5_GF
+
+;0x6F20282E=200
+0x6F20282E=200
+
+;0x6F695BF8=E1S3p5_AA
+0x6F695BF8=E1S3p5_AA
+
+;0x71FC4F50=~z~Christ, sell, sell, sell!
+0x71FC4F50=~z~Christ, sell, sell, sell!
+
+;0x7284E5B3=SFX_PAUSE_350
+0x7284E5B3=SFX_PAUSE_350
+
+;0x73A26B39=E1S3p5_SD
+0x73A26B39=E1S3p5_SD
+
+;0x7434942F=SFX_PAUSE_360
+0x7434942F=SFX_PAUSE_360
+
+;0x75AAB493=SFX_PAUSE_310
+0x75AAB493=SFX_PAUSE_310
+
+;0x75AAB57A=SFX_PAUSE_400
+0x75AAB57A=SFX_PAUSE_400
+
+;0x7607A273=~z~I'm okay.
+0x7607A273=~z~I'm okay.
+
+;0x7613B3CB=E1S3p5_SA
+0x7613B3CB=E1S3p5_SA
+
+;0x76681E6E=E1S3p5_FE
+0x76681E6E=E1S3p5_FE
+
+;0x7737F155=SFX_PAUSE_310
+0x7737F155=SFX_PAUSE_310
+
+;0x792F9024=E1S3p5_RD
+0x792F9024=E1S3p5_RD
+
+;0x7B0691BA=SFX_PAUSE_190
+0x7B0691BA=SFX_PAUSE_190
+
+;0x81D0924E=SFX_PAUSE_360
+0x81D0924E=SFX_PAUSE_360
+
+;0x82D7F5D5=~z~Home stretch.
+0x82D7F5D5=~z~Home stretch.
+
+;0x87C20965=~z~Hey, hey, does this look like our destination?
+0x87C20965=~z~Hey, hey, does this look like our destination?
+
+;0x87C7F99E=~z~You might consider that as a new career option.
+0x87C7F99E=~z~You might consider that as a new career option.
+
+;0x8B501316=290
+0x8B501316=290
+
+;0x8E112643=E1S3p5_GD
+0x8E112643=E1S3p5_GD
+
+;0x8FB1C21A=~z~I, ummm, dig, Johnny. Good to see you can't be rattled by something like this. Call me, okay?
+0x8FB1C21A=~z~I, ummm, dig, Johnny. Good to see you can't be rattled by something like this. Call me, okay?
+
+;0x906520F3=200
+0x906520F3=200
+
+;0x920D600E=~z~Now that is awkward. Thanks for the heads up, sport.
+0x920D600E=~z~Now that is awkward. Thanks for the heads up, sport.
+
+;0x92D3F2F8=E1S3p5_IA
+0x92D3F2F8=E1S3p5_IA
+
+;0x93109FEB=E1S3p5_BA
+0x93109FEB=E1S3p5_BA
+
+;0x93374AB3=E1S3p5_KD
+0x93374AB3=E1S3p5_KD
+
+;0x93792CE8=~z~Going on the lamb's gonna be real different from your life on the exchange.
+0x93792CE8=~z~Going on the lamb's gonna be real different from your life on the exchange.
+
+;0x960425E9=~z~You were paid to do a job, so fucking do it!
+0x960425E9=~z~You were paid to do a job, so fucking do it!
+
+;0x96E61F62=200
+0x96E61F62=200
+
+;0x972FBD75=~z~Take me over to the helipad in Alderney City. My man's waiting there with a chopper.
+0x972FBD75=~z~Take me over to the helipad in Alderney City. My man's waiting there with a chopper.
+
+;0x9928622C=~z~Get me a vodka tonic and some sedatives, okay. This hasn't been easy.
+0x9928622C=~z~Get me a vodka tonic and some sedatives, okay. This hasn't been easy.
+
+;0x9B49D553=~z~So, how do you sleep at night?
+0x9B49D553=~z~So, how do you sleep at night?
+
+;0x9C16A237=~z~Not if you do your job, I won't.
+0x9C16A237=~z~Not if you do your job, I won't.
+
+;0x9D46E874=E1S3p5_DA
+0x9D46E874=E1S3p5_DA
+
+;0x9D898399=SFX_PAUSE_330
+0x9D898399=SFX_PAUSE_330
+
+;0x9E6E880A=~z~He's going for the prisoner!
+0x9E6E880A=~z~He's going for the prisoner!
+
+;0x9F6F46BC=E1S3p5_GB
+0x9F6F46BC=E1S3p5_GB
+
+;0x9FFC4292=020
+0x9FFC4292=020
+
+;0xA1100B70=E1S3p5_UC
+0xA1100B70=E1S3p5_UC
+
+;0xA55D4E47=E1S3p5_TB
+0xA55D4E47=E1S3p5_TB
+
+;0xA5EC916C=E1S3p5_SB
+0xA5EC916C=E1S3p5_SB
+
+;0xA6745EFF=~z~This is a time sensitive situation.
+0xA6745EFF=~z~This is a time sensitive situation.
+
+;0xA711DA84=E1S3p5_GE
+0xA711DA84=E1S3p5_GE
+
+;0xA7DAB9AB=~z~Buckle up, lady. Looks like you're real popular with this city's regulating forces.
+0xA7DAB9AB=~z~Buckle up, lady. Looks like you're real popular with this city's regulating forces.
+
+;0xAACB79C9=E1S3p5_JD
+0xAACB79C9=E1S3p5_JD
+
+;0xABCC0DF3=SFX_PAUSE_340
+0xABCC0DF3=SFX_PAUSE_340
+
+;0xABFBA16A=SFX_PAUSE_190
+0xABFBA16A=SFX_PAUSE_190
+
+;0xAC96C484=~z~Johnny, sorry, thought you were my broker mate. These markets, oh boy, I'm getting raped.
+0xAC96C484=~z~Johnny, sorry, thought you were my broker mate. These markets, oh boy, I'm getting raped.
+
+;0xACEBDF00=SFX_PAUSE_240
+0xACEBDF00=SFX_PAUSE_240
+
+;0xAD3BA5A4=~z~Aim for the leather guy, people.
+0xAD3BA5A4=~z~Aim for the leather guy, people.
+
+;0xADFF8A1D=E1S3p5_NA
+0xADFF8A1D=E1S3p5_NA
+
+;0xAE8BA215=SFX_PAUSE_450
+0xAE8BA215=SFX_PAUSE_450
+
+;0xAED65AB1=~z~I need you to liberate her from an alleyway off Vitullo in Berchem.
+0xAED65AB1=~z~I need you to liberate her from an alleyway off Vitullo in Berchem.
+
+;0xAFA297D4=SFX_PAUSE_340
+0xAFA297D4=SFX_PAUSE_340
+
+;0xB01B8595=SFX_PAUSE_450
+0xB01B8595=SFX_PAUSE_450
+
+;0xB0666BCD=SFX_PAUSE_330
+0xB0666BCD=SFX_PAUSE_330
+
+;0xB3E2CE6D=E1S3p5_LA
+0xB3E2CE6D=E1S3p5_LA
+
+;0xB975A94E=~z~Klebitz, how are you, old boy?
+0xB975A94E=~z~Klebitz, how are you, old boy?
+
+;0xB9827AFD=E1S3p5_GC
+0xB9827AFD=E1S3p5_GC
+
+;0xB9B50442=SFX_PAUSE_250
+0xB9B50442=SFX_PAUSE_250
+
+;0xBC8428E3=~z~Scratch that, make me a mojito, will you?
+0xBC8428E3=~z~Scratch that, make me a mojito, will you?
+
+;0xBE2138A7=~z~So long, corporate America. You'll not be missed.
+0xBE2138A7=~z~So long, corporate America. You'll not be missed.
+
+;0xBF1E0BB4=E1S3p5_KB
+0xBF1E0BB4=E1S3p5_KB
+
+;0xBFB4CA79=E1S3p5_UA
+0xBFB4CA79=E1S3p5_UA
+
+;0xC05BFFF8=E1S3p5_AB
+0xC05BFFF8=E1S3p5_AB
+
+;0xC37A6B98=201
+0xC37A6B98=201
+
+;0xC3CB718C=~z~Firstly, no one calls me lady without having at least one zero docked from their annual salary.
+0xC3CB718C=~z~Firstly, no one calls me lady without having at least one zero docked from their annual salary.
+
+;0xC4DDABF3=020090200090200090020090200
+0xC4DDABF3=020090200090200090020090200
+
+;0xC5B5B4F0=SFX_PAUSE_350
+0xC5B5B4F0=SFX_PAUSE_350
+
+;0xC825942B=E1S3p5_AD
+0xC825942B=E1S3p5_AD
+
+;0xC8FB8FFF=SFX_PAUSE_240
+0xC8FB8FFF=SFX_PAUSE_240
+
+;0xC90DA3AF=200
+0xC90DA3AF=200
+
+;0xCA553A6E=E1S3p5_KE
+0xCA553A6E=E1S3p5_KE
+
+;0xCB055D44=SFX_PAUSE_330
+0xCB055D44=SFX_PAUSE_330
+
+;0xCC00DE20=E1S3p5_GG
+0xCC00DE20=E1S3p5_GG
+
+;0xCC335E84=E1S3p5_JC
+0xCC335E84=E1S3p5_JC
+
+;0xCD8B2116=E1S3p5_TC
+0xCD8B2116=E1S3p5_TC
+
+;0xCE48D448=010090010090100
+0xCE48D448=010090010090100
+
+;0xCF694550=E1S3p5_JB
+0xCF694550=E1S3p5_JB
+
+;0xD03E1C3F=~z~Well done. Well done.
+0xD03E1C3F=~z~Well done. Well done.
+
+;0xD0C96CBF=~z~Stop him! Stop him!
+0xD0C96CBF=~z~Stop him! Stop him!
+
+;0xD3F713EE=102
+0xD3F713EE=102
+
+;0xD4E44310=020090200090200090020090200090200
+0xD4E44310=020090200090200090020090200090200
+
+;0xD53516EA=E1S3p5_MA
+0xD53516EA=E1S3p5_MA
+
+;0xD697CBEA=~z~Too much information, sister. Mine was a moral question, not a practical one.
+0xD697CBEA=~z~Too much information, sister. Mine was a moral question, not a practical one.
+
+;0xD7E1E946=E1S3p5_AG
+0xD7E1E946=E1S3p5_AG
+
+;0xD8FBC1EF=E1S3p5_RB
+0xD8FBC1EF=E1S3p5_RB
+
+;0xD99255D6=~z~Johnny, how's it going?
+0xD99255D6=~z~Johnny, how's it going?
+
+;0xDA62938C=~z~Now that is awkward. Thanks for the heads up, sport.
+0xDA62938C=~z~Now that is awkward. Thanks for the heads up, sport.
+
+;0xDA8CEB7C=~z~Oh, well done, well done. Conscience aside, I'll send her your best on my next holiday to the Caribbean. Thanks.
+0xDA8CEB7C=~z~Oh, well done, well done. Conscience aside, I'll send her your best on my next holiday to the Caribbean. Thanks.
+
+;0xDA990DBE=E1S3p5_OA
+0xDA990DBE=E1S3p5_OA
+
+;0xDAF84802=~z~Develop your problem solving skills, pronto.
+0xDAF84802=~z~Develop your problem solving skills, pronto.
+
+;0xDB07E25F=~z~Here we go. You ever run from the cops before?
+0xDB07E25F=~z~Here we go. You ever run from the cops before?
+
+;0xDB40D630=SFX_PAUSE_550
+0xDB40D630=SFX_PAUSE_550
+
+;0xDB56ABE1=E1S3p5_AE
+0xDB56ABE1=E1S3p5_AE
+
+;0xDC50C1DE=SFX_PAUSE_280
+0xDC50C1DE=SFX_PAUSE_280
+
+;0xDED3B7A7=~z~Where do you think you're going?
+0xDED3B7A7=~z~Where do you think you're going?
+
+;0xE0774FC2=SFX_PAUSE_430
+0xE0774FC2=SFX_PAUSE_430
+
+;0xE24F3AE3=~z~Over here.
+0xE24F3AE3=~z~Over here.
+
+;0xE44D0F4C=SFX_PAUSE_190
+0xE44D0F4C=SFX_PAUSE_190
+
+;0xE4C97753=E1S3p5_PA
+0xE4C97753=E1S3p5_PA
+
+;0xE6A9F4E5=SFX_PAUSE_200
+0xE6A9F4E5=SFX_PAUSE_200
+
+;0xE6B1B6F3=020090200090200090020090200090020090020
+0xE6B1B6F3=020090200090200090020090200090020090020
+
+;0xE8A21AE1=E1S3p5_FB
+0xE8A21AE1=E1S3p5_FB
+
+;0xEAC6679E=~z~Extricate us from this situation.
+0xEAC6679E=~z~Extricate us from this situation.
+
+;0xEC195552=~z~She needs to enjoy her bonus half billion in peace.
+0xEC195552=~z~She needs to enjoy her bonus half billion in peace.
+
+;0xED80D6C4=~z~First goal achieved.
+0xED80D6C4=~z~First goal achieved.
+
+;0xEEE657CC=~z~Finish the job. Get back here.
+0xEEE657CC=~z~Finish the job. Get back here.
+
+;0xEF6B4EFA=~z~That's right,
+0xEF6B4EFA=~z~That's right,
+
+;0xEFF765E3=~z~Now you're talking my language
+0xEFF765E3=~z~Now you're talking my language
+
+;0xF008EF26=~z~My helicopter's waiting at the Alderney City Heliport.
+0xF008EF26=~z~My helicopter's waiting at the Alderney City Heliport.
+
+;0xF16CEE85=~z~all Juan's assets are God given. And they're worth a lot more than those stocks right now.
+0xF16CEE85=~z~all Juan's assets are God given. And they're worth a lot more than those stocks right now.
+
+;0xF310B151=~z~We just got permission to use deadly force.
+0xF310B151=~z~We just got permission to use deadly force.
+
+;0xF33FEA7B=~z~Pass me my Bittersweet and get me to the yacht. Pronto! Come on!
+0xF33FEA7B=~z~Pass me my Bittersweet and get me to the yacht. Pronto! Come on!
+
+;0xF3D4340F=SFX_PAUSE_210
+0xF3D4340F=SFX_PAUSE_210
+
+;0xF3E7DE14=~z~There'll be a big bonus for you if you get me out of here!
+0xF3E7DE14=~z~There'll be a big bonus for you if you get me out of here!
+
+;0xF5E05712=~z~a friend of mine who may well have contributed to the recent BAWSAQ meltdowns has been arrested by an FIB task force.
+0xF5E05712=~z~a friend of mine who may well have contributed to the recent BAWSAQ meltdowns has been arrested by an FIB task force.
+
+;0xF6727620=E1S3p5_RA
+0xF6727620=E1S3p5_RA
+
+;0xF8109C64=~z~A ton a year buys significant traction with certain more sophisticated dictatorships I'll have you know.
+0xF8109C64=~z~A ton a year buys significant traction with certain more sophisticated dictatorships I'll have you know.
+
+;0xF8339CB6=~z~I didn't move funds into an offshore account so I could downgrade my lifestyle.
+0xF8339CB6=~z~I didn't move funds into an offshore account so I could downgrade my lifestyle.
+
+;0xFAE8C101=~z~Take this guy down.
+0xFAE8C101=~z~Take this guy down.
+
+;0xFC07D6D6=~z~Her chopper lost it's pilot.
+0xFC07D6D6=~z~Her chopper lost it's pilot.
+
+;0xFCA0F341=~z~You think you can walk away from me? Get back here!
+0xFCA0F341=~z~You think you can walk away from me? Get back here!
+
+;0xFDA48A61=~z~Take us to the helipad on top of the Booth Tunnel.
+0xFDA48A61=~z~Take us to the helipad on top of the Booth Tunnel.
+
+;0xFF8A2D19=E1S3p5_JA
+0xFF8A2D19=E1S3p5_JA
+
+;0xFF9D114B=~z~If we're caught, I have money to pay lawyers, you do not.
+0xFF9D114B=~z~If we're caught, I have money to pay lawyers, you do not.
+
+;0xFFF3FBAA=~z~This seems promising.
+0xFFF3FBAA=~z~This seems promising.
+

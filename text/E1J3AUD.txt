@@ -1,0 +1,547 @@
+﻿[E1J3AUD]
+;0x00C845BD=~z~Assholes don't know how much it's worth. They're screwing it up on the beach at Firefly.
+0x00C845BD=~z~Assholes don't know how much it's worth. They're screwing it up on the beach at Firefly.
+
+;0x08514BAE=100
+0x08514BAE=100
+
+;0x08675C0B=E1J3_C_NA
+0x08675C0B=E1J3_C_NA
+
+;0x0AA578D1=~z~Fuck it, we're on.
+0x0AA578D1=~z~Fuck it, we're on.
+
+;0x0ABB326A=~z~If I could use my legs, I'd jump for joy Johnny boy. Later on, Brother.
+0x0ABB326A=~z~If I could use my legs, I'd jump for joy Johnny boy. Later on, Brother.
+
+;0x0EDED05F=E1J3_C_GA
+0x0EDED05F=E1J3_C_GA
+
+;0x0FE4DCB5=~z~Hey, Angus. Know any bikes that need to be liberated from their owners?
+0x0FE4DCB5=~z~Hey, Angus. Know any bikes that need to be liberated from their owners?
+
+;0x11253A2D=~z~The bike's right there for you, brother. No problem.
+0x11253A2D=~z~The bike's right there for you, brother. No problem.
+
+;0x11524D0E=~z~ I'm glad we got you to do the acquiring.
+0x11524D0E=~z~ I'm glad we got you to do the acquiring.
+
+;0x143DC1EA=E1J3_B_RD
+0x143DC1EA=E1J3_B_RD
+
+;0x14B8A971=010
+0x14B8A971=010
+
+;0x15B7888D=~z~Hellfury delivered, my brother.
+0x15B7888D=~z~Hellfury delivered, my brother.
+
+;0x171591B1=~z~Good as done.
+0x171591B1=~z~Good as done.
+
+;0x18FE4A53=~z~Your man's gonna get some bad news, Angus. Tell him for me, will you?
+0x18FE4A53=~z~Your man's gonna get some bad news, Angus. Tell him for me, will you?
+
+;0x1CC59B7F=010
+0x1CC59B7F=010
+
+;0x1D32FF3F=100
+0x1D32FF3F=100
+
+;0x1E967A18=~z~Angus, I got a feeling there might be a bike you're looking for.
+0x1E967A18=~z~Angus, I got a feeling there might be a bike you're looking for.
+
+;0x206FEE79=E1J3_B_WA
+0x206FEE79=E1J3_B_WA
+
+;0x2252DF34=010
+0x2252DF34=010
+
+;0x2372DEC8=~z~Bike's outside the house where you wanted it, man.
+0x2372DEC8=~z~Bike's outside the house where you wanted it, man.
+
+;0x24168518=~z~Tell me where I can find a bike and it's yours, Angus.
+0x24168518=~z~Tell me where I can find a bike and it's yours, Angus.
+
+;0x24E931FE=~z~Don't worry about it. Stay safe.
+0x24E931FE=~z~Don't worry about it. Stay safe.
+
+;0x2B8C321C=E1J3_C_IA
+0x2B8C321C=E1J3_C_IA
+
+;0x2C3EBC03=~z~It's yours.
+0x2C3EBC03=~z~It's yours.
+
+;0x2D78426D=~z~ You and your man have now got yourselves a PCJ, man.
+0x2D78426D=~z~ You and your man have now got yourselves a PCJ, man.
+
+;0x3061180C=092
+0x3061180C=092
+
+;0x333E642E=E1J3_B_NB
+0x333E642E=E1J3_B_NB
+
+;0x339E0284=E1J3_B_RB
+0x339E0284=E1J3_B_RB
+
+;0x363618CB=~z~Fuck if I can pronounce it, but a Ha-ha-coochie-koo is now in your possession, Angus.
+0x363618CB=~z~Fuck if I can pronounce it, but a Ha-ha-coochie-koo is now in your possession, Angus.
+
+;0x381DC9BE=E1J3_B_MA
+0x381DC9BE=E1J3_B_MA
+
+;0x3878C4EB=E1J3_C_OB
+0x3878C4EB=E1J3_C_OB
+
+;0x39375A9A=~z~All cool, Johnny. Later on.
+0x39375A9A=~z~All cool, Johnny. Later on.
+
+;0x3A0558C2=100090100
+0x3A0558C2=100090100
+
+;0x3F612AB7=010
+0x3F612AB7=010
+
+;0x3F86E90D=E1J3_C_AA
+0x3F86E90D=E1J3_C_AA
+
+;0x40823F6B=~z~Shit man, you could have told me I'd be driving a dirt bike. Anyways, I got that Sanchez for you.
+0x40823F6B=~z~Shit man, you could have told me I'd be driving a dirt bike. Anyways, I got that Sanchez for you.
+
+;0x40BACF9E=~z~Guy's riding it round Chinatown.
+0x40BACF9E=~z~Guy's riding it round Chinatown.
+
+;0x40DC8606=E1J3_B_NA
+0x40DC8606=E1J3_B_NA
+
+;0x41AC3229=~z~You ain't perfect, Johnny. None of us are. Don't worry about it.
+0x41AC3229=~z~You ain't perfect, Johnny. None of us are. Don't worry about it.
+
+;0x4340EA07=~z~Heading there now.
+0x4340EA07=~z~Heading there now.
+
+;0x436B1F2C=~z~Angus, man, I'm sorry but shit got fucked up and I couldn't get that bike.
+0x436B1F2C=~z~Angus, man, I'm sorry but shit got fucked up and I couldn't get that bike.
+
+;0x454BB973=~z~I'm here for the bike, not your life, so be cool.
+0x454BB973=~z~I'm here for the bike, not your life, so be cool.
+
+;0x484CF8C5=~z~No problem. See you, man.
+0x484CF8C5=~z~No problem. See you, man.
+
+;0x4E2332AE=010
+0x4E2332AE=010
+
+;0x4FA84E6B=E1J3_C_LA
+0x4FA84E6B=E1J3_C_LA
+
+;0x4FF130AC=092
+0x4FF130AC=092
+
+;0x50C2BF11=E1J3_B_RA
+0x50C2BF11=E1J3_B_RA
+
+;0x50C92769=100
+0x50C92769=100
+
+;0x50CE9710=~z~Some Deadbeats left it outside that liquor store on Dillon Street.
+0x50CE9710=~z~Some Deadbeats left it outside that liquor store on Dillon Street.
+
+;0x532A278D=E1J3_B_SA
+0x532A278D=E1J3_B_SA
+
+;0x54D4239A=~z~Brother, Man, something's come up. I can't get the bike for you. Another time.
+0x54D4239A=~z~Brother, Man, something's come up. I can't get the bike for you. Another time.
+
+;0x56653A4C=100
+0x56653A4C=100
+
+;0x5681E9EE=~z~There's too many assholes in this city on bikes, my man. Which one can I deprive of his ride?
+0x5681E9EE=~z~There's too many assholes in this city on bikes, my man. Which one can I deprive of his ride?
+
+;0x56F5C5CD=~z~Hey, your contact better still want that bike 'cause I got it for him.
+0x56F5C5CD=~z~Hey, your contact better still want that bike 'cause I got it for him.
+
+;0x5813CD26=~z~I'm cracking open a celebratory Piswasser already. Too cool, brother man.
+0x5813CD26=~z~I'm cracking open a celebratory Piswasser already. Too cool, brother man.
+
+;0x5EE6D276=E1J3_B_XA
+0x5EE6D276=E1J3_B_XA
+
+;0x603258BA=~z~Too bad, brother, but that guy won't be getting his hands on that bike today.
+0x603258BA=~z~Too bad, brother, but that guy won't be getting his hands on that bike today.
+
+;0x609164FC=E1J3_B_RG
+0x609164FC=E1J3_B_RG
+
+;0x6143E7D4=100
+0x6143E7D4=100
+
+;0x62AE4580=~z~One Wolfsbane ready and waiting for you, my brother.
+0x62AE4580=~z~One Wolfsbane ready and waiting for you, my brother.
+
+;0x65F18B36=E1J3_C_EA
+0x65F18B36=E1J3_C_EA
+
+;0x6630FB32=~z~Fuck it, man. It ain't like that was the only bike in the city.
+0x6630FB32=~z~Fuck it, man. It ain't like that was the only bike in the city.
+
+;0x66E0A82E=100
+0x66E0A82E=100
+
+;0x67893CC5=E1J3_C_HA
+0x67893CC5=E1J3_C_HA
+
+;0x67AAE44A=010
+0x67AAE44A=010
+
+;0x6868E8B3=~z~The bike's all parked up and waiting, man.
+0x6868E8B3=~z~The bike's all parked up and waiting, man.
+
+;0x68BE8BEC=E1J3_B_RH
+0x68BE8BEC=E1J3_B_RH
+
+;0x694DF352=100
+0x694DF352=100
+
+;0x6A3CD823=E1J3_B_VA
+0x6A3CD823=E1J3_B_VA
+
+;0x6C657996=E1J3_B_TA
+0x6C657996=E1J3_B_TA
+
+;0x6CDE96A7=~z~Brother man, tell me where I can find a bike and I'll bring it right to you.
+0x6CDE96A7=~z~Brother man, tell me where I can find a bike and I'll bring it right to you.
+
+;0x6DCC5319=010
+0x6DCC5319=010
+
+;0x7200F26C=E1J3_B_YA
+0x7200F26C=E1J3_B_YA
+
+;0x721C9F46=010
+0x721C9F46=010
+
+;0x7299A250=~z~How 'bout that, man? I happened to come across a Nightblade right where you said.
+0x7299A250=~z~How 'bout that, man? I happened to come across a Nightblade right where you said.
+
+;0x73936C09=092090092
+0x73936C09=092090092
+
+;0x73B1086B=E1J3_B_RC
+0x73B1086B=E1J3_B_RC
+
+;0x74E898A5=~z~Cool, Johnny, cool. I'll let the man know what went down.
+0x74E898A5=~z~Cool, Johnny, cool. I'll let the man know what went down.
+
+;0x77147CD7=E1J3_B_PA
+0x77147CD7=E1J3_B_PA
+
+;0x792E9473=010
+0x792E9473=010
+
+;0x7A431184=~z~Brother man, we're going to get paid. Don't get too fucked up.
+0x7A431184=~z~Brother man, we're going to get paid. Don't get too fucked up.
+
+;0x7A7C0CD9=~z~Bike's outside of the clubhouse, now all you need to do is get it out the country, Angus.
+0x7A7C0CD9=~z~Bike's outside of the clubhouse, now all you need to do is get it out the country, Angus.
+
+;0x7AA9323C=~z~Shit, Angus, I'm in the bike stealing mood. Where am I gonna be able to find one?
+0x7AA9323C=~z~Shit, Angus, I'm in the bike stealing mood. Where am I gonna be able to find one?
+
+;0x7B17D194=~z~All good.
+0x7B17D194=~z~All good.
+
+;0x7B40B4F7=~z~We've got one for you, old friend. Just try to save me the hassle and deliver it this time.
+0x7B40B4F7=~z~We've got one for you, old friend. Just try to save me the hassle and deliver it this time.
+
+;0x7D0CE754=010
+0x7D0CE754=010
+
+;0x7E96EDB8=E1J3_B_ZA
+0x7E96EDB8=E1J3_B_ZA
+
+;0x7F59DB18=~z~Angus, man. She's parked up outside the House.
+0x7F59DB18=~z~Angus, man. She's parked up outside the House.
+
+;0x8033B968=092
+0x8033B968=092
+
+;0x827B7EE8=~z~Hey Angus, hate to do this to a brother, but I can't go get you that bike. Sorry.
+0x827B7EE8=~z~Hey Angus, hate to do this to a brother, but I can't go get you that bike. Sorry.
+
+;0x863688C1=SFX_PAUSE_120
+0x863688C1=SFX_PAUSE_120
+
+;0x87446BBB=~z~I hate to split up a pair of lovebirds, but there's a couple taking it for a spin round Middle Park.
+0x87446BBB=~z~I hate to split up a pair of lovebirds, but there's a couple taking it for a spin round Middle Park.
+
+;0x87E03FB4=100
+0x87E03FB4=100
+
+;0x8831ECFA=E1J3_C_JA
+0x8831ECFA=E1J3_C_JA
+
+;0x8852207D=010
+0x8852207D=010
+
+;0x8865CF41=~z~I've got something, Johnny. Please, for me, can you make sure it gets here?
+0x8865CF41=~z~I've got something, Johnny. Please, for me, can you make sure it gets here?
+
+;0x88BCC52C=~z~What's up?
+0x88BCC52C=~z~What's up?
+
+;0x898441DC=~z~That's cool, Brother. The man will just have to wait.
+0x898441DC=~z~That's cool, Brother. The man will just have to wait.
+
+;0x8B3E7845=~z~There's an Angel motorcycle ready for export, man. That was my end of the deal.
+0x8B3E7845=~z~There's an Angel motorcycle ready for export, man. That was my end of the deal.
+
+;0x8CCCFD1A=~z~Cool.
+0x8CCCFD1A=~z~Cool.
+
+;0x90D2D55C=~z~Hey.
+0x90D2D55C=~z~Hey.
+
+;0x9134BE36=~z~That bike ain't AOD property no more.
+0x9134BE36=~z~That bike ain't AOD property no more.
+
+;0x9179E509=100
+0x9179E509=100
+
+;0x9314C915=E1J3_B_RI
+0x9314C915=E1J3_B_RI
+
+;0x94122572=~z~Got the NRG 900, man. Do what you will.
+0x94122572=~z~Got the NRG 900, man. Do what you will.
+
+;0x953F8381=E1J3_B_UA
+0x953F8381=E1J3_B_UA
+
+;0x97506253=~z~Hey, man.
+0x97506253=~z~Hey, man.
+
+;0x99F1979A=~z~Your paper route's over, man. Get off the bike.
+0x99F1979A=~z~Your paper route's over, man. Get off the bike.
+
+;0x9C318B29=E1J3_B_RE
+0x9C318B29=E1J3_B_RE
+
+;0x9CDBD2E0=100
+0x9CDBD2E0=100
+
+;0x9ECEDA9B=~z~Man, oh, man, that's what I wanted to hear. Stay safe.
+0x9ECEDA9B=~z~Man, oh, man, that's what I wanted to hear. Stay safe.
+
+;0xA201E490=~z~Big group of Deadbeats are taking it for a run down the old Alderney freeway.
+0xA201E490=~z~Big group of Deadbeats are taking it for a run down the old Alderney freeway.
+
+;0xA32440B6=~z~You got your Daemon, man. Put a stamp on it and ship that mother.
+0xA32440B6=~z~You got your Daemon, man. Put a stamp on it and ship that mother.
+
+;0xA5339C07=~z~Stop jacking up my new ride, fuckhole.
+0xA5339C07=~z~Stop jacking up my new ride, fuckhole.
+
+;0xA9429139=E1J3_B_OA
+0xA9429139=E1J3_B_OA
+
+;0xAA51CE03=E1J3_B_QA
+0xAA51CE03=E1J3_B_QA
+
+;0xAB7FF8C7=~z~It's in that multi-storey car park in Purgatory.
+0xAB7FF8C7=~z~It's in that multi-storey car park in Purgatory.
+
+;0xAC74F5E7=~z~You always were the most reliable brother, Johnny. Too cool.
+0xAC74F5E7=~z~You always were the most reliable brother, Johnny. Too cool.
+
+;0xAF85B0AB=~z~Hey, asshole, you're fucking up my new bike!
+0xAF85B0AB=~z~Hey, asshole, you're fucking up my new bike!
+
+;0xB02443D0=~z~Let's get this done.
+0xB02443D0=~z~Let's get this done.
+
+;0xB22E8CC5=~z~They got it outside that showroom on Percell in Westdyke.
+0xB22E8CC5=~z~They got it outside that showroom on Percell in Westdyke.
+
+;0xB3B41B1E=~z~Why hello.
+0xB3B41B1E=~z~Why hello.
+
+;0xB4B4014C=~z~The bike's there, man. The bike's fucking there.
+0xB4B4014C=~z~The bike's there, man. The bike's fucking there.
+
+;0xB6B698F0=E1J3_C_FA
+0xB6B698F0=E1J3_C_FA
+
+;0xB6BE184A=~z~There's a guy detailing it like he knows it's for sale or something. Outside the tattoo guy in Alderney City.
+0xB6BE184A=~z~There's a guy detailing it like he knows it's for sale or something. Outside the tattoo guy in Alderney City.
+
+;0xB7230B33=~z~Looks like I'll be able to afford that hardware I was after. You did good, my brother.
+0xB7230B33=~z~Looks like I'll be able to afford that hardware I was after. You did good, my brother.
+
+;0xB75C9391=E1J3_C_CA
+0xB75C9391=E1J3_C_CA
+
+;0xB77F0AF2=~z~Hey, Deadbeats, I like your bike.
+0xB77F0AF2=~z~Hey, Deadbeats, I like your bike.
+
+;0xB91C30B1=~z~We got one, man. This guy gets mad when they're not delivered, but fuck him, man, you're my brother.
+0xB91C30B1=~z~We got one, man. This guy gets mad when they're not delivered, but fuck him, man, you're my brother.
+
+;0xBD807A91=~z~Smoochy time's over, guys. Give up the ride.
+0xBD807A91=~z~Smoochy time's over, guys. Give up the ride.
+
+;0xC218F61B=~z~Johnny, man. We haven't been able to source any. It's only a matter of time though so call back.
+0xC218F61B=~z~Johnny, man. We haven't been able to source any. It's only a matter of time though so call back.
+
+;0xC22AE80C=~z~I ordered a bike, shithead. Give it up.
+0xC22AE80C=~z~I ordered a bike, shithead. Give it up.
+
+;0xC3E124AF=~z~I'll pass on the good news, Johnny. Later on.
+0xC3E124AF=~z~I'll pass on the good news, Johnny. Later on.
+
+;0xC5797C4D=~z~That last one's in the container heading east and we've lined up another.
+0xC5797C4D=~z~That last one's in the container heading east and we've lined up another.
+
+;0xC5E26F4C=~z~Let's do this.
+0xC5E26F4C=~z~Let's do this.
+
+;0xC6E7742D=E1J3_C_MA
+0xC6E7742D=E1J3_C_MA
+
+;0xC77537E5=010
+0xC77537E5=010
+
+;0xC7FF8D78=E1J3_C_BA
+0xC7FF8D78=E1J3_C_BA
+
+;0xC9C4AF7D=~z~I might take that bike off your hands, Deadbeats.
+0xC9C4AF7D=~z~I might take that bike off your hands, Deadbeats.
+
+;0xCAD5D424=~z~Well, you didn't get the last one, but who cares, right? There's another one lined up for you.
+0xCAD5D424=~z~Well, you didn't get the last one, but who cares, right? There's another one lined up for you.
+
+;0xCAF17956=E1J3_C_OA
+0xCAF17956=E1J3_C_OA
+
+;0xCC0A1252=E1J3_C_DA
+0xCC0A1252=E1J3_C_DA
+
+;0xD0F4D0C7=~z~I'm taking a bike. Don't be a jackass.
+0xD0F4D0C7=~z~I'm taking a bike. Don't be a jackass.
+
+;0xD1AF9548=~z~There's nothing available right now, Johnny. Call back soon and we'll see if we can find one.
+0xD1AF9548=~z~There's nothing available right now, Johnny. Call back soon and we'll see if we can find one.
+
+;0xD3F51948=~z~The guy's happy with the last one and he's hungry for another, man.
+0xD3F51948=~z~The guy's happy with the last one and he's hungry for another, man.
+
+;0xD3F5B91E=~z~Some Deadbeats are taking it over the East Borough Bridge.
+0xD3F5B91E=~z~Some Deadbeats are taking it over the East Borough Bridge.
+
+;0xD4199D13=E1J3_B_RJ
+0xD4199D13=E1J3_B_RJ
+
+;0xD4495C48=~z~Yo, brother.
+0xD4495C48=~z~Yo, brother.
+
+;0xD7872F06=~z~It's outside the Triangle Club in Bohan. Just bring it back to the House, OK?
+0xD7872F06=~z~It's outside the Triangle Club in Bohan. Just bring it back to the House, OK?
+
+;0xD942A57E=100
+0xD942A57E=100
+
+;0xDA139C50=~z~That's cool, brother. Look after yourself.
+0xDA139C50=~z~That's cool, brother. Look after yourself.
+
+;0xDAC326E4=~z~After delivering like you did before, this dude is happy to be in business with us, man.
+0xDAC326E4=~z~After delivering like you did before, this dude is happy to be in business with us, man.
+
+;0xDC8D2213=010
+0xDC8D2213=010
+
+;0xDD9F34CA=~z~Hey man, I can't do that delivery anymore. Hope that's okay?
+0xDD9F34CA=~z~Hey man, I can't do that delivery anymore. Hope that's okay?
+
+;0xDDC4AD72=~z~Nothing right now, man. Sorry. Call back, okay?
+0xDDC4AD72=~z~Nothing right now, man. Sorry. Call back, okay?
+
+;0xE0424034=~z~Get a fucking room, kids.
+0xE0424034=~z~Get a fucking room, kids.
+
+;0xE1305C6B=100
+0xE1305C6B=100
+
+;0xE1AA6051=~z~Nice one, brother. We got ourselves a payday.
+0xE1AA6051=~z~Nice one, brother. We got ourselves a payday.
+
+;0xE20E27A3=~z~Rock and roll.
+0xE20E27A3=~z~Rock and roll.
+
+;0xE320188F=SFX_PAUSE_600
+0xE320188F=SFX_PAUSE_600
+
+;0xE4EFFD95=~z~Brother.
+0xE4EFFD95=~z~Brother.
+
+;0xE56FE2FC=100
+0xE56FE2FC=100
+
+;0xE7E8495C=~z~Angus, dude, I gotta postpone getting that bike. Hope that's cool?
+0xE7E8495C=~z~Angus, dude, I gotta postpone getting that bike. Hope that's cool?
+
+;0xE889C271=~z~How about that? You just keep knocking 'em out. And you know what? We got another bike lined up.
+0xE889C271=~z~How about that? You just keep knocking 'em out. And you know what? We got another bike lined up.
+
+;0xEBD58B60=~z~If it ain't my true brother.
+0xEBD58B60=~z~If it ain't my true brother.
+
+;0xEC0649F5=~z~How about that, man. We haven't been able to find what we need. Call again soon and they'll be one.
+0xEC0649F5=~z~How about that, man. We haven't been able to find what we need. Call again soon and they'll be one.
+
+;0xEC310160=100
+0xEC310160=100
+
+;0xED178499=~z~Johnny boy. This import export guy - he's got a long shopping list.
+0xED178499=~z~Johnny boy. This import export guy - he's got a long shopping list.
+
+;0xED6117AE=~z~Angus, brother. If you were going to export a bike to Japan, where might I be able to find it?
+0xED6117AE=~z~Angus, brother. If you were going to export a bike to Japan, where might I be able to find it?
+
+;0xF09CC0DE=100
+0xF09CC0DE=100
+
+;0xF6688528=~z~Hey dude, your man isn't going to get his ride. Let him down easy.
+0xF6688528=~z~Hey dude, your man isn't going to get his ride. Let him down easy.
+
+;0xF8A52EF9=010
+0xF8A52EF9=010
+
+;0xF8B9AE4E=100
+0xF8B9AE4E=100
+
+;0xF9367BC8=E1J3_B_RF
+0xF9367BC8=E1J3_B_RF
+
+;0xFA97D8B6=~z~On it.
+0xFA97D8B6=~z~On it.
+
+;0xFAB3262C=E1J3_C_KA
+0xFAB3262C=E1J3_C_KA
+
+;0xFAC6E122=100
+0xFAC6E122=100
+
+;0xFDBF1365=~z~Alright, man. Your dude's got his bike.
+0xFDBF1365=~z~Alright, man. Your dude's got his bike.
+
+;0xFE36E44A=010
+0xFE36E44A=010
+
+;0xFE94B0DE=~z~Jonathan?
+0xFE94B0DE=~z~Jonathan?
+
+;0xFEA2C2F4=092
+0xFEA2C2F4=092
+
+;0xFFD81793=~z~Angus, man, you and your contact are now the proud owners of a second hand bike.
+0xFFD81793=~z~Angus, man, you and your contact are now the proud owners of a second hand bike.
+

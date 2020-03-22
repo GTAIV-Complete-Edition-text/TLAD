@@ -1,0 +1,82 @@
+﻿[BILLY4]
+;0x04C959AA=Take out the Angels of Death.
+0x04C959AA=Take out the Angels of Death.
+
+;0x100922F0=~s~Race the Lost crew to the ~y~A.O.D. clubhouse.
+0x100922F0=~s~Race the Lost crew to the ~y~A.O.D. clubhouse.
+
+;0x110FCB09=Go with ~b~Billy~s~.
+0x110FCB09=Go with ~b~Billy~s~.
+
+;0x1325060B=Don't fire a grenade while in the clubhouse.
+0x1325060B=Don't fire a grenade while in the clubhouse.
+
+;0x1A1DF4B8=~r~Your bike was wrecked.
+0x1A1DF4B8=~r~Your bike was wrecked.
+
+;0x213EFFCF=~r~You have no grenades left.
+0x213EFFCF=~r~You have no grenades left.
+
+;0x2A2143D4=~r~Billy is dead.
+0x2A2143D4=~r~Billy is dead.
+
+;0x2B89670D=~r~Clay is dead.
+0x2B89670D=~r~Clay is dead.
+
+;0x379E5544=Get back on your ~b~bike.
+0x379E5544=Get back on your ~b~bike.
+
+;0x432880C6=~s~Get on your ~b~bike~s~.
+0x432880C6=~s~Get on your ~b~bike~s~.
+
+;0x56EEC760=~s~Get on your ~b~bike~s~ and leave the area.
+0x56EEC760=~s~Get on your ~b~bike~s~ and leave the area.
+
+;0x65D4F7C3=~s~The Angels of Death will defend their territory.
+0x65D4F7C3=~s~The Angels of Death will defend their territory.
+
+;0x786FB8C0=Get on your ~b~bike.
+0x786FB8C0=Get on your ~b~bike.
+
+;0x82D5B3E8=~s~Take down the ~r~Angels of Death~s~ defending their clubhouse.
+0x82D5B3E8=~s~Take down the ~r~Angels of Death~s~ defending their clubhouse.
+
+;0x8C66121B=Race against Billy to the ~y~A.O.D. clubhouse~s~.
+0x8C66121B=Race against Billy to the ~y~A.O.D. clubhouse~s~.
+
+;0xA2363D0D=~r~You abandoned your bike.
+0xA2363D0D=~r~You abandoned your bike.
+
+;0xB161194B=Ride with your brothers.
+0xB161194B=Ride with your brothers.
+
+;0xBF752C9F=~r~Terry is dead.
+0xBF752C9F=~r~Terry is dead.
+
+;0xC88988B4=~r~Jim is dead.
+0xC88988B4=~r~Jim is dead.
+
+;0xD9211C4A=Leave the clubhouse.
+0xD9211C4A=Leave the clubhouse.
+
+;0xDFA9B8BA=Follow ~b~Billy.
+0xDFA9B8BA=Follow ~b~Billy.
+
+;0xDFB7EFB2=When using the grenade launcher, aim slightly above your target to compensate for gravity.
+0xDFB7EFB2=When using the grenade launcher, aim slightly above your target to compensate for gravity.
+
+;0xE915E74C=Fire a grenade through the ~y~upstairs window.
+0xE915E74C=Fire a grenade through the ~y~upstairs window.
+
+;0xF092CBB5=~r~Billy's bike was wrecked.
+0xF092CBB5=~r~Billy's bike was wrecked.
+
+;0xF28A1A81=Get clear of the A.O.D. clubhouse.
+0xF28A1A81=Get clear of the A.O.D. clubhouse.
+
+;0xF660FA5F=~r~You abandoned Billy.
+0xF660FA5F=~r~You abandoned Billy.
+
+;0xF92926ED=~r~Brian is dead.
+0xF92926ED=~r~Brian is dead.
+

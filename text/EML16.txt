@@ -1,0 +1,58 @@
+﻿[EML16]
+;0x03D8F8F3=Dear Johnny,
+0x03D8F8F3=Dear Johnny,
+
+;0x09ECD552=Yours truly,
+0x09ECD552=Yours truly,
+
+;0x0B098754=Dear Johnny,
+0x0B098754=Dear Johnny,
+
+;0x194D23DB=Dear Johnny,
+0x194D23DB=Dear Johnny,
+
+;0x291893B9=Yours truly,
+0x291893B9=Yours truly,
+
+;0x2E874E4F=Dear Johnny,
+0x2E874E4F=Dear Johnny,
+
+;0x3AD63734=Yours truly,
+0x3AD63734=Yours truly,
+
+;0x3EA26E85=Dear Johnny,
+0x3EA26E85=Dear Johnny,
+
+;0x49353CA9=We look forward to welcoming you as a student at Harford University.
+0x49353CA9=We look forward to welcoming you as a student at Harford University.
+
+;0x5C7D7A82=Yours truly,
+0x5C7D7A82=Yours truly,
+
+;0x6E481E17=Yours truly,
+0x6E481E17=Yours truly,
+
+;0x70BC0BB6=Ph.d in Refrigerator Maintenance: Just $2,499!!!!! B.A. in Pharmaceutical Baking Just $1,399 B.A in Natural Healing: Just $1,199!!! Msc in Beach Management: Just $1,899!!! No attendance! No study! No exams! All you need is a valid credit card. Your new career is just one affordable payment away. Order today and we will throw in an MBA FREE OF CHARGE!!! What have you got to lose?
+0x70BC0BB6=Ph.d in Refrigerator Maintenance: Just $2,499!!!!! B.A. in Pharmaceutical Baking Just $1,399 B.A in Natural Healing: Just $1,199!!! Msc in Beach Management: Just $1,899!!! No attendance! No study! No exams! All you need is a valid credit card. Your new career is just one affordable payment away. Order today and we will throw in an MBA FREE OF CHARGE!!! What have you got to lose?
+
+;0x79013389=Yours truly,
+0x79013389=Yours truly,
+
+;0x7EF7A82D=Wouldn't you like to boost your salary with a qualification from a prestigious academic institution? Are you aware that you can get a college degree in exchange for what you already know?!!! Can you imagine graduating with top honors in a matter of days rather than years? Harford University awards academic credit for life experience in a wide range of sought-after subjects:
+0x7EF7A82D=Wouldn't you like to boost your salary with a qualification from a prestigious academic institution? Are you aware that you can get a college degree in exchange for what you already know?!!! Can you imagine graduating with top honors in a matter of days rather than years? Harford University awards academic credit for life experience in a wide range of sought-after subjects:
+
+;0x8AC2D70C=Yours truly,
+0x8AC2D70C=Yours truly,
+
+;0xA7350FF0=Yours truly,
+0xA7350FF0=Yours truly,
+
+;0xD2A89693=Dear Johnny,
+0xD2A89693=Dear Johnny,
+
+;0xE15533EC=Dear Johnny,
+0xE15533EC=Dear Johnny,
+
+;0xF7135F68=Dear Johnny,
+0xF7135F68=Dear Johnny,
+

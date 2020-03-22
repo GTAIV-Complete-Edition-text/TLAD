@@ -1,0 +1,97 @@
+﻿[ASHLEY2]
+;0x0F348820=~s~Get back on the ~b~bike.
+0x0F348820=~s~Get back on the ~b~bike.
+
+;0x21832CBD=~s~Get on the ~b~bike.
+0x21832CBD=~s~Get on the ~b~bike.
+
+;0x27338B02=~r~Your bike was wrecked.
+0x27338B02=~r~Your bike was wrecked.
+
+;0x2BC2413B=~s~Take out ~r~Ray's guys.~s~
+0x2BC2413B=~s~Take out ~r~Ray's guys.~s~
+
+;0x3E47E646=~s~Some of the ~r~mafia ~s~are fleeing. Chase them down.
+0x3E47E646=~s~Some of the ~r~mafia ~s~are fleeing. Chase them down.
+
+;0x45E5FB06=~s~Get away from the Libertonian before the cops arrive in full force.
+0x45E5FB06=~s~Get away from the Libertonian before the cops arrive in full force.
+
+;0x49154FB1=~r~You attacked Isaac's crew.
+0x49154FB1=~r~You attacked Isaac's crew.
+
+;0x4D0BD6B2=~r~You missed the diamond deal.
+0x4D0BD6B2=~r~You missed the diamond deal.
+
+;0x69B910F8=~r~Jim has been injured.
+0x69B910F8=~r~Jim has been injured.
+
+;0x7B70B467=~r~You attacked Jim.
+0x7B70B467=~r~You attacked Jim.
+
+;0x7F5BEDF1=~s~Go to the ~y~Libertonian~s~ between 9pm and 3am.
+0x7F5BEDF1=~s~Go to the ~y~Libertonian~s~ between 9pm and 3am.
+
+;0x842544E4=~r~You attacked the gang.
+0x842544E4=~r~You attacked the gang.
+
+;0x879FC68D=~s~Terry and Clay will wait for you at the north exit of the Libertonian.
+0x879FC68D=~s~Terry and Clay will wait for you at the north exit of the Libertonian.
+
+;0x8D048942=~s~Go back to ~y~Ray.
+0x8D048942=~s~Go back to ~y~Ray.
+
+;0x916D0C8F=~s~Meet Niko at the ~y~goods entrance.
+0x916D0C8F=~s~Meet Niko at the ~y~goods entrance.
+
+;0x9AB2A49E=~s~Escape from the ~y~Libertonian.
+0x9AB2A49E=~s~Escape from the ~y~Libertonian.
+
+;0xA107F95D=~s~Press ~INPUT_VEH_CIN_CAM~ to focus the camera on the nearest mafia car.
+0xA107F95D=~s~Press ~INPUT_VEH_CIN_CAM~ to focus the camera on the nearest mafia car.
+
+;0xA2B8820A=~r~You angered Isaac's crew.
+0xA2B8820A=~r~You angered Isaac's crew.
+
+;0xA8A04079=~s~Go to the North entrance of the ~y~Libertonian.
+0xA8A04079=~s~Go to the North entrance of the ~y~Libertonian.
+
+;0xB4FC2691=~r~The gang have been injured.
+0xB4FC2691=~r~The gang have been injured.
+
+;0xBE26B9D2=~r~Isaac is dead.
+0xBE26B9D2=~r~Isaac is dead.
+
+;0xC2D5432F=~r~Niko has been injured.
+0xC2D5432F=~r~Niko has been injured.
+
+;0xC38AF64E=~s~Lose Isaac's crew.
+0xC38AF64E=~s~Lose Isaac's crew.
+
+;0xCC8A5711=~r~Niko is dead.
+0xCC8A5711=~r~Niko is dead.
+
+;0xD22C9395=~s~Lose the cops.
+0xD22C9395=~s~Lose the cops.
+
+;0xD45EE642=~r~You attacked Niko.
+0xD45EE642=~r~You attacked Niko.
+
+;0xDAD7F3AC=~r~Job Failed.
+0xDAD7F3AC=~r~Job Failed.
+
+;0xEF45CDC7=~s~Meet ~b~Niko~s~ at the South entrance to the Libertonian.
+0xEF45CDC7=~s~Meet ~b~Niko~s~ at the South entrance to the Libertonian.
+
+;0xF4E75386=~s~Take the money to ~b~Jim.
+0xF4E75386=~s~Take the money to ~b~Jim.
+
+;0xFA5828E8=~s~Job Complete.
+0xFA5828E8=~s~Job Complete.
+
+;0xFD166968=~s~Come back between 9pm and 3am.
+0xFD166968=~s~Come back between 9pm and 3am.
+
+;0xFF29680A=~s~Enter the ~y~Libertonian.
+0xFF29680A=~s~Enter the ~y~Libertonian.
+

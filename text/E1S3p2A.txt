@@ -1,0 +1,238 @@
+﻿[E1S3p2A]
+;0x00F9CA82=~z~You just done a line of yang, Stubbsy?
+0x00F9CA82=~z~You just done a line of yang, Stubbsy?
+
+;0x035E2A57=SFX_PAUSE_260
+0x035E2A57=SFX_PAUSE_260
+
+;0x0889474A=E1S3p2_CA
+0x0889474A=E1S3p2_CA
+
+;0x095018D5=~z~Exactly! That's part of my new campaign strategy. Giving people no choice.
+0x095018D5=~z~Exactly! That's part of my new campaign strategy. Giving people no choice.
+
+;0x096ED4BA=SFX_PAUSE_170
+0x096ED4BA=SFX_PAUSE_170
+
+;0x09A1DBFE=~z~Wouldn't be in this situation if it wasn't for positive discrimination, dammit.
+0x09A1DBFE=~z~Wouldn't be in this situation if it wasn't for positive discrimination, dammit.
+
+;0x0C67A268=SFX_PAUSE_360
+0x0C67A268=SFX_PAUSE_360
+
+;0x0CC527B7=E1S3p2_BB
+0x0CC527B7=E1S3p2_BB
+
+;0x1432B44E=SFX_PAUSE_240
+0x1432B44E=SFX_PAUSE_240
+
+;0x173BD072=~z~Oh, you've got a mind for damage control, Johnny. If this rebel thing doesn't work out,
+0x173BD072=~z~Oh, you've got a mind for damage control, Johnny. If this rebel thing doesn't work out,
+
+;0x1A84C747=100
+0x1A84C747=100
+
+;0x1E72D023=010090100
+0x1E72D023=010090100
+
+;0x22C11390=100090010090100090100090100090100090010090010090100090100
+0x22C11390=100090010090100090100090100090100090010090010090100090100
+
+;0x237D518D=100090010090010090010090100090100
+0x237D518D=100090010090010090010090100090100
+
+;0x24A962D1=E1S3p2_AI
+0x24A962D1=E1S3p2_AI
+
+;0x25ACD18E=~z~Fair enough. I can't claim to like it, but I also can't claim to have a choice.
+0x25ACD18E=~z~Fair enough. I can't claim to like it, but I also can't claim to have a choice.
+
+;0x2AC522FE=~z~Hey, damn, I know you.
+0x2AC522FE=~z~Hey, damn, I know you.
+
+;0x2BAFC147=~z~I'm going to the cops right now!
+0x2BAFC147=~z~I'm going to the cops right now!
+
+;0x2FA8A7D3=~z~In all seriousness though, some jumped up little twerp is about to go to the press with sensitive information.
+0x2FA8A7D3=~z~In all seriousness though, some jumped up little twerp is about to go to the press with sensitive information.
+
+;0x348B0E1A=E1S3p2_IA
+0x348B0E1A=E1S3p2_IA
+
+;0x34E28BBF=~z~He wanted to talk about you and me to Liberty City's finest.
+0x34E28BBF=~z~He wanted to talk about you and me to Liberty City's finest.
+
+;0x3550CE1C=010090010
+0x3550CE1C=010090010
+
+;0x37D26D97=E1S3p2_FF
+0x37D26D97=E1S3p2_FF
+
+;0x38977F57=SFX_PAUSE_240
+0x38977F57=SFX_PAUSE_240
+
+;0x396A1DD3=E1S3p2_HB
+0x396A1DD3=E1S3p2_HB
+
+;0x43EC0BCA=~z~Kiss your freedom goodbye, sir.
+0x43EC0BCA=~z~Kiss your freedom goodbye, sir.
+
+;0x4833A4F4=E1S3p2_AE
+0x4833A4F4=E1S3p2_AE
+
+;0x48C27EA0=010090010090100
+0x48C27EA0=010090010090100
+
+;0x4A1AA92F=E1S3p2_AG
+0x4A1AA92F=E1S3p2_AG
+
+;0x4A201576=SFX_PAUSE_170
+0x4A201576=SFX_PAUSE_170
+
+;0x4F10BC65=E1S3p2_IB
+0x4F10BC65=E1S3p2_IB
+
+;0x507542E4=~z~Bad news for everyone is there might be a story about that friend of yours getting killed.
+0x507542E4=~z~Bad news for everyone is there might be a story about that friend of yours getting killed.
+
+;0x50902754=~z~I just impersonate the other candidate and it seems to work.
+0x50902754=~z~I just impersonate the other candidate and it seems to work.
+
+;0x559AAF27=~z~They'll have fun with you on the inside.
+0x559AAF27=~z~They'll have fun with you on the inside.
+
+;0x57BA20C5=E1S3p2_DA
+0x57BA20C5=E1S3p2_DA
+
+;0x57FB3742=SFX_PAUSE_390
+0x57FB3742=SFX_PAUSE_390
+
+;0x5833EEDB=E1S3p2_FC
+0x5833EEDB=E1S3p2_FC
+
+;0x5997C03F=E1S3p2_AD
+0x5997C03F=E1S3p2_AD
+
+;0x5A007C82=~z~Ah, if it isn't the road warrior, himself. Still sticking it to the man, man?
+0x5A007C82=~z~Ah, if it isn't the road warrior, himself. Still sticking it to the man, man?
+
+;0x7024797C=E1S3p2_BA
+0x7024797C=E1S3p2_BA
+
+;0x71236638=~z~You're going away for a long time.
+0x71236638=~z~You're going away for a long time.
+
+;0x73AAB4C8=~z~Making threats like that can get you some serious jail time, sir. That was a big error.
+0x73AAB4C8=~z~Making threats like that can get you some serious jail time, sir. That was a big error.
+
+;0x76BD9260=E1S3p2_AF
+0x76BD9260=E1S3p2_AF
+
+;0x7F2F4BD1=~z~You're the guy who just realized what a big fucking mistake it'd be to talk to some mud slingin' hack about Tom Stubbs.
+0x7F2F4BD1=~z~You're the guy who just realized what a big fucking mistake it'd be to talk to some mud slingin' hack about Tom Stubbs.
+
+;0x86702EC5=~z~What's on the front page tomorrow, Klebitz?
+0x86702EC5=~z~What's on the front page tomorrow, Klebitz?
+
+;0x86B34999=E1S3p2_FD
+0x86B34999=E1S3p2_FD
+
+;0x891DB434=~z~Good news for you is that it ain't your ugly mug.
+0x891DB434=~z~Good news for you is that it ain't your ugly mug.
+
+;0x8A11B9E8=SFX_PAUSE_470
+0x8A11B9E8=SFX_PAUSE_470
+
+;0x8EBDB580=SFX_PAUSE_270
+0x8EBDB580=SFX_PAUSE_270
+
+;0x9339EEF4=~z~I knew you were stuck in the '70s, but that's ridiculous.
+0x9339EEF4=~z~I knew you were stuck in the '70s, but that's ridiculous.
+
+;0x94956661=SFX_PAUSE_300
+0x94956661=SFX_PAUSE_300
+
+;0x9528F00C=E1S3p2_FA
+0x9528F00C=E1S3p2_FA
+
+;0x98956275=E1S3p2_FB
+0x98956275=E1S3p2_FB
+
+;0x9ACC1B89=~z~Later on, amigo.
+0x9ACC1B89=~z~Later on, amigo.
+
+;0xA2A3DC84=E1S3p2_AH
+0xA2A3DC84=E1S3p2_AH
+
+;0xA4455359=E1S3p2_AC
+0xA4455359=E1S3p2_AC
+
+;0xAFAA9947=E1S3p2_FE
+0xAFAA9947=E1S3p2_FE
+
+;0xB5BC119E=SFX_PAUSE_460
+0xB5BC119E=SFX_PAUSE_460
+
+;0xB5FE7907=SFX_PAUSE_230
+0xB5FE7907=SFX_PAUSE_230
+
+;0xB83E0C20=E1S3p2_AJ
+0xB83E0C20=E1S3p2_AJ
+
+;0xBB8CA426=E1S3p2_HA
+0xBB8CA426=E1S3p2_HA
+
+;0xC1539D23=SFX_PAUSE_230
+0xC1539D23=SFX_PAUSE_230
+
+;0xC1AA898B=~z~So you're fighting positive discrimination with some good old fashioned negative discrimination?
+0xC1AA898B=~z~So you're fighting positive discrimination with some good old fashioned negative discrimination?
+
+;0xC32EC8BF=SFX_PAUSE_330
+0xC32EC8BF=SFX_PAUSE_330
+
+;0xC806CFA7=SFX_PAUSE_230
+0xC806CFA7=SFX_PAUSE_230
+
+;0xC91F188C=E1S3p2_AA
+0xC91F188C=E1S3p2_AA
+
+;0xCC5AA143=E1S3p2_AB
+0xCC5AA143=E1S3p2_AB
+
+;0xD49F416C=SFX_PAUSE_220
+0xD49F416C=SFX_PAUSE_220
+
+;0xDB96BD5F=~z~Can you make him see his mistake?
+0xDB96BD5F=~z~Can you make him see his mistake?
+
+;0xE1CBE3D4=100
+0xE1CBE3D4=100
+
+;0xE8D4BB8E=~z~Oh shit!
+0xE8D4BB8E=~z~Oh shit!
+
+;0xEAD79B58=~z~why don't you become a lobbyist? Call me later, alright?
+0xEAD79B58=~z~why don't you become a lobbyist? Call me later, alright?
+
+;0xF43173DC=E1S3p2_BC
+0xF43173DC=E1S3p2_BC
+
+;0xF5601694=SFX_PAUSE_460
+0xF5601694=SFX_PAUSE_460
+
+;0xF6475286=~z~Mr. Stubbs. Your friend got away from me. Looks like you're gonna have your fifteen minutes.
+0xF6475286=~z~Mr. Stubbs. Your friend got away from me. Looks like you're gonna have your fifteen minutes.
+
+;0xF692D70A=~z~You better have a good lawyer!
+0xF692D70A=~z~You better have a good lawyer!
+
+;0xF7CE0563=SFX_PAUSE_490
+0xF7CE0563=SFX_PAUSE_490
+
+;0xF7FABD9B=~z~Too bad for him and us, Klebitz. Give me a call later on.
+0xF7FABD9B=~z~Too bad for him and us, Klebitz. Give me a call later on.
+
+;0xFC504646=~z~Stubbsy, I didn't get the chance to talk to that friend of yours. He was too busy getting killed.
+0xFC504646=~z~Stubbsy, I didn't get the chance to talk to that friend of yours. He was too busy getting killed.
+

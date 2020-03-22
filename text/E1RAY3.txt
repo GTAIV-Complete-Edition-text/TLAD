@@ -1,0 +1,22 @@
+﻿[E1RAY3]
+;0x182870CB=Lose the cops.
+0x182870CB=Lose the cops.
+
+;0x1E24AA57=~s~Take out ~r~Ray's hitmen.~s~
+0x1E24AA57=~s~Take out ~r~Ray's hitmen.~s~
+
+;0x4B188930=Terry and Clay have set up an ambush. If you can get to them, they can help you.
+0x4B188930=Terry and Clay have set up an ambush. If you can get to them, they can help you.
+
+;0x97A3F61F=~s~Go and meet ~y~Ashley.~s~
+0x97A3F61F=~s~Go and meet ~y~Ashley.~s~
+
+;0xA2A3249F=~s~Go and meet ~b~Ashley.~s~
+0xA2A3249F=~s~Go and meet ~b~Ashley.~s~
+
+;0xDE6F40E8=~r~Ashley is dead.
+0xDE6F40E8=~r~Ashley is dead.
+
+;0xF4551828=~s~Take out ~r~Ray's hitmen~s~ before they get you.~s~
+0xF4551828=~s~Take out ~r~Ray's hitmen~s~ before they get you.~s~
+

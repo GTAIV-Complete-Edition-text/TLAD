@@ -1,0 +1,517 @@
+﻿[E1FCTA]
+;0x00B70D25=~z~What's going on? You wanna play some air hockey?
+0x00B70D25=~z~What's going on? You wanna play some air hockey?
+
+;0x01D4A5C9=E1FCT_ACT_CALL_EAT_YESA
+0x01D4A5C9=E1FCT_ACT_CALL_EAT_YESA
+
+;0x022BD6C0=E1FCT_ACT_E1T_CALL_RACEA
+0x022BD6C0=E1FCT_ACT_E1T_CALL_RACEA
+
+;0x02C3BC27=100
+0x02C3BC27=100
+
+;0x030F33A3=100
+0x030F33A3=100
+
+;0x038F9459=~z~The way thing's are going today I'd lose for sure. Another time.
+0x038F9459=~z~The way thing's are going today I'd lose for sure. Another time.
+
+;0x0403031C=~z~You busy? I'm thinking of going to the clubhouse.
+0x0403031C=~z~You busy? I'm thinking of going to the clubhouse.
+
+;0x0616E209=~z~This sounds weird, I know, but do you want to go see a show with me?
+0x0616E209=~z~This sounds weird, I know, but do you want to go see a show with me?
+
+;0x09041F46=~z~Sorry man. So much going on right now, I barely got time to take a crap.
+0x09041F46=~z~Sorry man. So much going on right now, I barely got time to take a crap.
+
+;0x0ACD22D8=~z~I can't face it now, Johnny. I'm having a bad fucking day.
+0x0ACD22D8=~z~I can't face it now, Johnny. I'm having a bad fucking day.
+
+;0x0B9619D1=100
+0x0B9619D1=100
+
+;0x0C1D1C65=E1FCT_ACT_CALL_VERYIRATEA
+0x0C1D1C65=E1FCT_ACT_CALL_VERYIRATEA
+
+;0x0CA94699=E1FCT_ACT_E1T_CALL_DRINKA
+0x0CA94699=E1FCT_ACT_E1T_CALL_DRINKA
+
+;0x0D0B595F=~z~Great. I'll be there soon.
+0x0D0B595F=~z~Great. I'll be there soon.
+
+;0x0F002C6D=~z~Hey brother.
+0x0F002C6D=~z~Hey brother.
+
+;0x0F8BCEB6=~z~Sure. Nothing else going on. I'll meet you there.
+0x0F8BCEB6=~z~Sure. Nothing else going on. I'll meet you there.
+
+;0x1208F4F0=E1FCT_ACT_CALL_ACTIVITY_NOA
+0x1208F4F0=E1FCT_ACT_CALL_ACTIVITY_NOA
+
+;0x175DBBF5=~z~No time right now, man. Maybe later.
+0x175DBBF5=~z~No time right now, man. Maybe later.
+
+;0x1996F84F=010
+0x1996F84F=010
+
+;0x1C43C43E=~z~So...me, you, air hockey...what d'ya say?
+0x1C43C43E=~z~So...me, you, air hockey...what d'ya say?
+
+;0x1C9B68D5=~z~Yeah, sounds like a plan. See you there.
+0x1C9B68D5=~z~Yeah, sounds like a plan. See you there.
+
+;0x1D8A9CD1=100
+0x1D8A9CD1=100
+
+;0x1D9F0B1B=~z~You read my mind, Johnny. Get over here in the next couple of hours, if you can.
+0x1D9F0B1B=~z~You read my mind, Johnny. Get over here in the next couple of hours, if you can.
+
+;0x1EFAFD3E=~z~I'm on my way.
+0x1EFAFD3E=~z~I'm on my way.
+
+;0x2507E7D4=~z~The elusive Johnny Klebitz. A rare fucking honor. Sure, I'm free. Come pick me up.
+0x2507E7D4=~z~The elusive Johnny Klebitz. A rare fucking honor. Sure, I'm free. Come pick me up.
+
+;0x26D37CAD=100
+0x26D37CAD=100
+
+;0x2A7560A1=~z~I'm bored, man. Wanna play some air hockey?
+0x2A7560A1=~z~I'm bored, man. Wanna play some air hockey?
+
+;0x2BA265B1=~z~Terry, it's me.
+0x2BA265B1=~z~Terry, it's me.
+
+;0x2C4E17D4=~z~Cool, I'll see you soon.
+0x2C4E17D4=~z~Cool, I'll see you soon.
+
+;0x31CA70CE=~z~I can't, brother. Too much going on right now.
+0x31CA70CE=~z~I can't, brother. Too much going on right now.
+
+;0x32EAE0EB=~z~You wanna hang out at the clubhouse?
+0x32EAE0EB=~z~You wanna hang out at the clubhouse?
+
+;0x331495C3=~z~Good idea. Count me in. I'll meet you there.
+0x331495C3=~z~Good idea. Count me in. I'll meet you there.
+
+;0x36207A89=~z~Hi Terry.
+0x36207A89=~z~Hi Terry.
+
+;0x36F90637=E1FCT_ACT_E1T_CALL_GANGWARA
+0x36F90637=E1FCT_ACT_E1T_CALL_GANGWARA
+
+;0x3A5EB3F5=~z~OK, see you soon then.
+0x3A5EB3F5=~z~OK, see you soon then.
+
+;0x3C79B67B=010
+0x3C79B67B=010
+
+;0x3F14982A=E1FCT_ACT_E1T_CALL_SORRY_WOKE_UPA
+0x3F14982A=E1FCT_ACT_E1T_CALL_SORRY_WOKE_UPA
+
+;0x43E4C634=~z~OK, I'm gonna say two words to you... strip and club.
+0x43E4C634=~z~OK, I'm gonna say two words to you... strip and club.
+
+;0x46CBD24E=~z~Fuck man. Do you know what time it is? Call me back after eleven.
+0x46CBD24E=~z~Fuck man. Do you know what time it is? Call me back after eleven.
+
+;0x47EF1E2A=~z~How's it going, Terry?
+0x47EF1E2A=~z~How's it going, Terry?
+
+;0x48C2EAAA=~z~Let's do it, man. Can you be here in the next couple of hours?
+0x48C2EAAA=~z~Let's do it, man. Can you be here in the next couple of hours?
+
+;0x49394C45=~z~Fair enough. I'll give you a shout later.
+0x49394C45=~z~Fair enough. I'll give you a shout later.
+
+;0x4A361EAE=~z~Air hockey? Shit, reminds me of the 1980s. Sure, I'll play. The sooner the better, though.
+0x4A361EAE=~z~Air hockey? Shit, reminds me of the 1980s. Sure, I'll play. The sooner the better, though.
+
+;0x4CB05349=E1FCT_ACT_E1T_CALL_STRIPA
+0x4CB05349=E1FCT_ACT_E1T_CALL_STRIPA
+
+;0x5001AD3C=~z~Things are crazy now, Johnny. Maybe another time.
+0x5001AD3C=~z~Things are crazy now, Johnny. Maybe another time.
+
+;0x51F379C1=~z~Do you want to see a show? We don't need tell the boys.
+0x51F379C1=~z~Do you want to see a show? We don't need tell the boys.
+
+;0x52AB33A2=~z~Terry.
+0x52AB33A2=~z~Terry.
+
+;0x534F30E0=~z~Air hockey? Sure. Why not? Look, can you pick me up in the next two hours?
+0x534F30E0=~z~Air hockey? Sure. Why not? Look, can you pick me up in the next two hours?
+
+;0x5376AB60=010
+0x5376AB60=010
+
+;0x537D8B2B=010
+0x537D8B2B=010
+
+;0x5409FB06=~z~What are you up to? What d'ya say we throw a surprise party for the Deadbeats?
+0x5409FB06=~z~What are you up to? What d'ya say we throw a surprise party for the Deadbeats?
+
+;0x549EE875=~z~That's what I like to hear. See you soon.
+0x549EE875=~z~That's what I like to hear. See you soon.
+
+;0x552B38C6=~z~Terry, it's Johnny.
+0x552B38C6=~z~Terry, it's Johnny.
+
+;0x555A1071=~z~Is the sky fucking blue? Of course, man. Come pick me up.
+0x555A1071=~z~Is the sky fucking blue? Of course, man. Come pick me up.
+
+;0x56A7032E=E1FCT_ACT_CALL_GANGWAR_YESA
+0x56A7032E=E1FCT_ACT_CALL_GANGWAR_YESA
+
+;0x5792E8F8=~z~Your call, man. I'll speak to you later.
+0x5792E8F8=~z~Your call, man. I'll speak to you later.
+
+;0x5799B8D0=~z~Show could mean anything coming from you but, fuck, yeah, I'm in. Come pick me up.
+0x5799B8D0=~z~Show could mean anything coming from you but, fuck, yeah, I'm in. Come pick me up.
+
+;0x59020B40=~z~Yeah, why not?
+0x59020B40=~z~Yeah, why not?
+
+;0x5A6B925F=E1FCT_ACT_CALL_RACE_YESA
+0x5A6B925F=E1FCT_ACT_CALL_RACE_YESA
+
+;0x60DE9F32=100
+0x60DE9F32=100
+
+;0x61159256=E1FCT_ACT_E1T_CALL_POOLA
+0x61159256=E1FCT_ACT_E1T_CALL_POOLA
+
+;0x6463A069=010
+0x6463A069=010
+
+;0x64C4D7D5=~z~Hey man, it's me.
+0x64C4D7D5=~z~Hey man, it's me.
+
+;0x659D0172=~z~I thought you'd dropped off the radar.
+0x659D0172=~z~I thought you'd dropped off the radar.
+
+;0x662E06A1=~z~I'm thinking of throwing a few darts at a wall. Wanna join me?
+0x662E06A1=~z~I'm thinking of throwing a few darts at a wall. Wanna join me?
+
+;0x6892915F=~z~Shit, Johnny. Where have you been hiding?
+0x6892915F=~z~Shit, Johnny. Where have you been hiding?
+
+;0x68A68071=E1FCT_ACT_CALL_IRATEA
+0x68A68071=E1FCT_ACT_CALL_IRATEA
+
+;0x6D26B97F=~z~Are you ready for your next driving lesson? I want to race, man.
+0x6D26B97F=~z~Are you ready for your next driving lesson? I want to race, man.
+
+;0x6E2B1AC0=~z~What are you up to? Wanna go look at some tits?
+0x6E2B1AC0=~z~What are you up to? Wanna go look at some tits?
+
+;0x6F1B18B5=E1FCT_ACT_CALL_HANGOUT_YESA
+0x6F1B18B5=E1FCT_ACT_CALL_HANGOUT_YESA
+
+;0x72956D5B=E1FCT_ACT_E1T_CALL_SHOWA
+0x72956D5B=E1FCT_ACT_E1T_CALL_SHOWA
+
+;0x74D86E75=E1FCT_ACT_E1T_CALL_GREETA
+0x74D86E75=E1FCT_ACT_E1T_CALL_GREETA
+
+;0x756E3D69=100
+0x756E3D69=100
+
+;0x76C3A3BF=~z~I haven't heard shit from you in days.
+0x76C3A3BF=~z~I haven't heard shit from you in days.
+
+;0x775AD216=E1FCT_ACT_E1T_CALL_REJECTEDA
+0x775AD216=E1FCT_ACT_E1T_CALL_REJECTEDA
+
+;0x77EB83D4=~z~You wanna get some food? Even a skinny dude like you's gotta eat.
+0x77EB83D4=~z~You wanna get some food? Even a skinny dude like you's gotta eat.
+
+;0x77ECFA1B=~z~Yeah, why not? Nothing going on for the next couple of hours. Come pick me up.
+0x77ECFA1B=~z~Yeah, why not? Nothing going on for the next couple of hours. Come pick me up.
+
+;0x7A664A92=~z~I need some mindless entertainment of a non-sexual kind. You wanna go see a show?
+0x7A664A92=~z~I need some mindless entertainment of a non-sexual kind. You wanna go see a show?
+
+;0x7F4F3CD5=010
+0x7F4F3CD5=010
+
+;0x8214263D=E1FCT_ACT_ANSWER_PHONEA
+0x8214263D=E1FCT_ACT_ANSWER_PHONEA
+
+;0x8303B108=E1FCT_ACT_E1T_CALL_DARTSA
+0x8303B108=E1FCT_ACT_E1T_CALL_DARTSA
+
+;0x835B061C=100
+0x835B061C=100
+
+;0x8365D69B=~z~Yeah, let's go argue with some lap dancers over the touching rule. I'll wait here for you.
+0x8365D69B=~z~Yeah, let's go argue with some lap dancers over the touching rule. I'll wait here for you.
+
+;0x851727F5=~z~Fuck Johnny, sure, we can hang out. But, shit, brother, you've gotta keep in touch. I thought you were dead or something.
+0x851727F5=~z~Fuck Johnny, sure, we can hang out. But, shit, brother, you've gotta keep in touch. I thought you were dead or something.
+
+;0x85D75EA0=~z~I'm done with all this pussying around. I say we hit the Deadbeats right now.
+0x85D75EA0=~z~I'm done with all this pussying around. I say we hit the Deadbeats right now.
+
+;0x862D8411=010
+0x862D8411=010
+
+;0x86A7214B=~z~I could eat a nun's ass through a wicker chair right now. Do you wanna get something to eat?
+0x86A7214B=~z~I could eat a nun's ass through a wicker chair right now. Do you wanna get something to eat?
+
+;0x870E610E=~z~Those Angels Of Death cocksuckers are up to something, man. We need to go at them hard. And I mean now.
+0x870E610E=~z~Those Angels Of Death cocksuckers are up to something, man. We need to go at them hard. And I mean now.
+
+;0x87501DC8=010
+0x87501DC8=010
+
+;0x892D3BFE=E1FCT_ACT_E1T_CALL_ACCEPTEDA
+0x892D3BFE=E1FCT_ACT_E1T_CALL_ACCEPTEDA
+
+;0x894B0022=~z~Sure thing, brother. You know me. Can you get here in the next two hours?
+0x894B0022=~z~Sure thing, brother. You know me. Can you get here in the next two hours?
+
+;0x89A4A194=~z~Hey Terry.
+0x89A4A194=~z~Hey Terry.
+
+;0x8D0C7FD5=~z~Have I ever said no? Let's tear it up, brother. I'll wait here for you.
+0x8D0C7FD5=~z~Have I ever said no? Let's tear it up, brother. I'll wait here for you.
+
+;0x8DF4578B=E1FCT_ACT_E1T_CALL_EATA
+0x8DF4578B=E1FCT_ACT_E1T_CALL_EATA
+
+;0x8EAB3F49=010
+0x8EAB3F49=010
+
+;0x8EFA9CAE=~z~You must be a glutton for punishment, man. Let's do it. Come pick me up.
+0x8EFA9CAE=~z~You must be a glutton for punishment, man. Let's do it. Come pick me up.
+
+;0x8FED92B1=E1FCT_ACT_CALL_POOL_YESA
+0x8FED92B1=E1FCT_ACT_CALL_POOL_YESA
+
+;0x925730D3=~z~This is Terry. Leave a message and I'll call you back.
+0x925730D3=~z~This is Terry. Leave a message and I'll call you back.
+
+;0x9284AEA9=~z~Sure, it's about time I did something other than get wasted. Pick me up in the next two hours.
+0x9284AEA9=~z~Sure, it's about time I did something other than get wasted. Pick me up in the next two hours.
+
+;0x940AE25A=~z~What are you doing? You wanna play darts?
+0x940AE25A=~z~What are you doing? You wanna play darts?
+
+;0x94C501C1=~z~What are you doing? Do you wanna go out and get smashed?
+0x94C501C1=~z~What are you doing? Do you wanna go out and get smashed?
+
+;0x9533FA37=~z~No, no, that's degrading to women...of course, man. Come pick me up.
+0x9533FA37=~z~No, no, that's degrading to women...of course, man. Come pick me up.
+
+;0x9A7AB062=100
+0x9A7AB062=100
+
+;0x9B538EB2=~z~My liver hasn't been pummelled for a good few hours. What d'ya say we go for a beer or two?
+0x9B538EB2=~z~My liver hasn't been pummelled for a good few hours. What d'ya say we go for a beer or two?
+
+;0x9B819C6C=~z~I'm with you, Johnny. Make it soon, though. Before the boys are too drunk.
+0x9B819C6C=~z~I'm with you, Johnny. Make it soon, though. Before the boys are too drunk.
+
+;0x9C471709=100
+0x9C471709=100
+
+;0x9CBD3833=~z~Yeah, I know how you like to drop your balls. Sure, I'll play. Can you get here in the next hour or two?
+0x9CBD3833=~z~Yeah, I know how you like to drop your balls. Sure, I'll play. Can you get here in the next hour or two?
+
+;0x9D078405=E1FCT_ACT_E1T_CALL_HANGOUTA
+0x9D078405=E1FCT_ACT_E1T_CALL_HANGOUTA
+
+;0x9D4B64C9=100
+0x9D4B64C9=100
+
+;0xA37945AB=~z~Yeah, I think I can free up a window in my schedule for an ass-kicking. Swing by and pick me up now.
+0xA37945AB=~z~Yeah, I think I can free up a window in my schedule for an ass-kicking. Swing by and pick me up now.
+
+;0xA4E09990=~z~All my plans have just been cancelled. Pick me up as soon as you can.
+0xA4E09990=~z~All my plans have just been cancelled. Pick me up as soon as you can.
+
+;0xA52CDE56=~z~I'm gonna grab some food. Do you wanna come?
+0xA52CDE56=~z~I'm gonna grab some food. Do you wanna come?
+
+;0xA565804D=100
+0xA565804D=100
+
+;0xA5EFAB10=~z~I need to blow off some steam, brother. Do you want to do some racing?
+0xA5EFAB10=~z~I need to blow off some steam, brother. Do you want to do some racing?
+
+;0xA6925765=~z~Sure, brother. I'm down. It'll have to be soon, though.
+0xA6925765=~z~Sure, brother. I'm down. It'll have to be soon, though.
+
+;0xA6A3A57E=~z~Listen, I've got a serious thirst on me now. Why don't we go get some drinks?
+0xA6A3A57E=~z~Listen, I've got a serious thirst on me now. Why don't we go get some drinks?
+
+;0xA9E2CDAF=010
+0xA9E2CDAF=010
+
+;0xAA644FDC=~z~I'm heading over the clubhouse. You wanna come?
+0xAA644FDC=~z~I'm heading over the clubhouse. You wanna come?
+
+;0xAAFA20F5=100
+0xAAFA20F5=100
+
+;0xAAFEA77C=~z~Why not; I need something to line the stomach. Swing by and pick me up.
+0xAAFEA77C=~z~Why not; I need something to line the stomach. Swing by and pick me up.
+
+;0xAD1BB242=~z~I'm thinking of getting a few strong ones in me. Take the edge off. You wanna join me?
+0xAD1BB242=~z~I'm thinking of getting a few strong ones in me. Take the edge off. You wanna join me?
+
+;0xAD59128A=~z~Are you busy? Wanna game of pool?
+0xAD59128A=~z~Are you busy? Wanna game of pool?
+
+;0xADF96592=~z~OK, but I'm not holding your hand. Pick me up in the next couple of hours.
+0xADF96592=~z~OK, but I'm not holding your hand. Pick me up in the next couple of hours.
+
+;0xAEE8CB5D=~z~It's always a pleasure to wipe the smile off your face. Meet me as soon as you can.
+0xAEE8CB5D=~z~It's always a pleasure to wipe the smile off your face. Meet me as soon as you can.
+
+;0xB38B3A07=~z~Listen, man. I've had just about enough of those Deadbeats. We need to show them what happens to people who fuck with us.
+0xB38B3A07=~z~Listen, man. I've had just about enough of those Deadbeats. We need to show them what happens to people who fuck with us.
+
+;0xB7F5EAFF=~z~What are you up to? You want to check out what's going on at the clubhouse?
+0xB7F5EAFF=~z~What are you up to? You want to check out what's going on at the clubhouse?
+
+;0xB906438B=~z~Hell yeah man. Definitely, let's eat. It'll have to be in the next couple of hours, though.
+0xB906438B=~z~Hell yeah man. Definitely, let's eat. It'll have to be in the next couple of hours, though.
+
+;0xBF3CB651=~z~It's about time I schooled your ass on the pool table.
+0xBF3CB651=~z~It's about time I schooled your ass on the pool table.
+
+;0xC01C6DC4=~z~The pizza delivery guy's faster than you, Klebitz. I'm definitely in. Come meet me here.
+0xC01C6DC4=~z~The pizza delivery guy's faster than you, Klebitz. I'm definitely in. Come meet me here.
+
+;0xC16F620F=~z~I hear you been talking about how fast you are. Well, I want to see these new-found balls of yours.
+0xC16F620F=~z~I hear you been talking about how fast you are. Well, I want to see these new-found balls of yours.
+
+;0xC48B494F=~z~I thought you must have lost my number, bro.
+0xC48B494F=~z~I thought you must have lost my number, bro.
+
+;0xC73FF3E8=~z~Damn right, brother. Let me make a few phone calls. Can you get over here in the next hour or two?
+0xC73FF3E8=~z~Damn right, brother. Let me make a few phone calls. Can you get over here in the next hour or two?
+
+;0xC7705509=010
+0xC7705509=010
+
+;0xC78D9540=E1FCT_ACT_CALL_LIKELOWA
+0xC78D9540=E1FCT_ACT_CALL_LIKELOWA
+
+;0xC7FA1BAC=~z~How do you feel about a game of air hockey?
+0xC7FA1BAC=~z~How do you feel about a game of air hockey?
+
+;0xC9FD4260=E1FCT_ACT_CALL_SHOW_YESA
+0xC9FD4260=E1FCT_ACT_CALL_SHOW_YESA
+
+;0xCA4F8C97=E1FCT_ACT_CALL_ASLEEPA
+0xCA4F8C97=E1FCT_ACT_CALL_ASLEEPA
+
+;0xCC0A9549=~z~Shit, sorry man. I'll call back later.
+0xCC0A9549=~z~Shit, sorry man. I'll call back later.
+
+;0xCE46EC18=E1FCT_ACT_CALL_AIRHOCK_YESA
+0xCE46EC18=E1FCT_ACT_CALL_AIRHOCK_YESA
+
+;0xCED66F2B=~z~Sure thing, brother. I can't even remember the last time I ate. Come get me.
+0xCED66F2B=~z~Sure thing, brother. I can't even remember the last time I ate. Come get me.
+
+;0xD0E7DC13=~z~Listen, why don't we go for a game of darts?
+0xD0E7DC13=~z~Listen, why don't we go for a game of darts?
+
+;0xD157086D=~z~Hair of the dog is just what the doctor ordered. Come and get me.
+0xD157086D=~z~Hair of the dog is just what the doctor ordered. Come and get me.
+
+;0xD1FCDBD1=~z~Why don't we go and play some pool somewhere?
+0xD1FCDBD1=~z~Why don't we go and play some pool somewhere?
+
+;0xD24AB895=~z~I'm starving, man. You wanna go get some food?
+0xD24AB895=~z~I'm starving, man. You wanna go get some food?
+
+;0xD36EE542=~z~I'm thinking of investing in some female company. Do you wanna join me?
+0xD36EE542=~z~I'm thinking of investing in some female company. Do you wanna join me?
+
+;0xD3F5C5D4=E1FCT_ACT_CALL_DARTS_YESA
+0xD3F5C5D4=E1FCT_ACT_CALL_DARTS_YESA
+
+;0xD7DB6F00=~z~Sure thing, brother. See you soon.
+0xD7DB6F00=~z~Sure thing, brother. See you soon.
+
+;0xDB1C0566=010
+0xDB1C0566=010
+
+;0xDB618FE9=~z~Sure, I'll play. Beats sitting here alone with my thoughts. Let's make it soon, though.
+0xDB618FE9=~z~Sure, I'll play. Beats sitting here alone with my thoughts. Let's make it soon, though.
+
+;0xDBD4F1ED=~z~I was thinking it's about time I beat you at darts again. What d'ya say?
+0xDBD4F1ED=~z~I was thinking it's about time I beat you at darts again. What d'ya say?
+
+;0xDCB30AE0=~z~So long as there's red meat involved, yeah I'm in. Come get me.
+0xDCB30AE0=~z~So long as there's red meat involved, yeah I'm in. Come get me.
+
+;0xDE48B9C5=~z~OK, take it easy. You work on that right forearm of yours and we'll speak later.
+0xDE48B9C5=~z~OK, take it easy. You work on that right forearm of yours and we'll speak later.
+
+;0xDF289D89=~z~Listen man. I'm thinking it's about time we had ourselves a race.
+0xDF289D89=~z~Listen man. I'm thinking it's about time we had ourselves a race.
+
+;0xE19C8282=~z~OK, wait for me. I'll be there soon.
+0xE19C8282=~z~OK, wait for me. I'll be there soon.
+
+;0xE268AA41=~z~Hell yes. Get over here as soon as you can. I'll set everything up.
+0xE268AA41=~z~Hell yes. Get over here as soon as you can. I'll set everything up.
+
+;0xE380ACC0=~z~What do you think?! Get over here and pick me up.
+0xE380ACC0=~z~What do you think?! Get over here and pick me up.
+
+;0xE39134AD=~z~I could beat you on a pushbike, Klebitz. Get over here and I'll show you how it's done.
+0xE39134AD=~z~I could beat you on a pushbike, Klebitz. Get over here and I'll show you how it's done.
+
+;0xE3934907=100
+0xE3934907=100
+
+;0xE3AB7F2E=~z~What are doing, bro? You down to play some pool?
+0xE3AB7F2E=~z~What are doing, bro? You down to play some pool?
+
+;0xE5558F93=010
+0xE5558F93=010
+
+;0xE69D070E=~z~It was only an idea. I'll catch you later.
+0xE69D070E=~z~It was only an idea. I'll catch you later.
+
+;0xE7C99A8D=E1FCT_ACT_CALL_STRIP_YESA
+0xE7C99A8D=E1FCT_ACT_CALL_STRIP_YESA
+
+;0xE9FE139B=010
+0xE9FE139B=010
+
+;0xEFF8C561=~z~Music to my ears, brother. I'll get a crew together. Meet me as soon as you can.
+0xEFF8C561=~z~Music to my ears, brother. I'll get a crew together. Meet me as soon as you can.
+
+;0xF35125EB=~z~Sounds good. See you soon.
+0xF35125EB=~z~Sounds good. See you soon.
+
+;0xF457BE8B=~z~I'm gonna go check out a show. Do you wanna come?
+0xF457BE8B=~z~I'm gonna go check out a show. Do you wanna come?
+
+;0xF4866394=100
+0xF4866394=100
+
+;0xF5B71F80=E1FCT_ACT_E1T_CALL_AIRHOCKA
+0xF5B71F80=E1FCT_ACT_E1T_CALL_AIRHOCKA
+
+;0xF911A1C2=~z~Why not? See you there.
+0xF911A1C2=~z~Why not? See you there.
+
+;0xFD2738B2=~z~You, me, a bunch of naked chicks in glass stilettos. What do you say?
+0xFD2738B2=~z~You, me, a bunch of naked chicks in glass stilettos. What do you say?
+
+;0xFECE4E80=E1FCT_ACT_CALL_DRINK_YESA
+0xFECE4E80=E1FCT_ACT_CALL_DRINK_YESA
+
+;0xFEF17646=100
+0xFEF17646=100
+

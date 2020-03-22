@@ -1,0 +1,25 @@
+﻿[DAV1]
+;0x05E5D2FD=~r~The lawyer informed the police.~s~
+0x05E5D2FD=~r~The lawyer informed the police.~s~
+
+;0x4A6BDC08=The ~r~lawyer~s~ is driving off. Chase him down and intimidate him.
+0x4A6BDC08=The ~r~lawyer~s~ is driving off. Chase him down and intimidate him.
+
+;0x59227975=Go to Denver Avenue and find the ~r~lawyer.~s~
+0x59227975=Go to Denver Avenue and find the ~r~lawyer.~s~
+
+;0xA4260F7F=~r~The lawyer got away.~s~
+0xA4260F7F=~r~The lawyer got away.~s~
+
+;0xB22EAB90=Go and speak with the ~r~lawyer.~s~
+0xB22EAB90=Go and speak with the ~r~lawyer.~s~
+
+;0xBE68C404=~r~The lawyer's car was wrecked.~s~
+0xBE68C404=~r~The lawyer's car was wrecked.~s~
+
+;0xE74895C3=~r~The lawyer is dead.~s~
+0xE74895C3=~r~The lawyer is dead.~s~
+
+;0xF796365E=You are losing the ~r~lawyer.
+0xF796365E=You are losing the ~r~lawyer.
+

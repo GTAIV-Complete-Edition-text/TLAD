@@ -1,0 +1,58 @@
+﻿[EML13]
+;0x0C33D9F7=Later,
+0x0C33D9F7=Later,
+
+;0x391D3CC6=Johnny man,
+0x391D3CC6=Johnny man,
+
+;0x4CAD27EF=Ain't you got better things to do than look around at shit like this on the internet? Later, man.
+0x4CAD27EF=Ain't you got better things to do than look around at shit like this on the internet? Later, man.
+
+;0x629A0FBF=Brother,
+0x629A0FBF=Brother,
+
+;0x714EAD28=Johnny man,
+0x714EAD28=Johnny man,
+
+;0x86EC5863=Brother,
+0x86EC5863=Brother,
+
+;0x9828BEE5=Deadbeat pricks.
+0x9828BEE5=Deadbeat pricks.
+
+;0x9DCC862F=Johnny man,
+0x9DCC862F=Johnny man,
+
+;0xA5B195F1=Johnny man,
+0xA5B195F1=Johnny man,
+
+;0xB318A7DE=Later,
+0xB318A7DE=Later,
+
+;0xB36F316C=Brother,
+0xB36F316C=Brother,
+
+;0xBFD7CA3D=Brother,
+0xBFD7CA3D=Brother,
+
+;0xC5EB6702=Check out this site, man. Fucking assholes! If ever you thought this war weren't worth fighting. <a href="www.angelsofdeathonline.com">www.angelsofdeathonline.com</a>
+0xC5EB6702=Check out this site, man. Fucking assholes! If ever you thought this war weren't worth fighting. <a href="www.angelsofdeathonline.com">www.angelsofdeathonline.com</a>
+
+;0xC72BCFD8=Later man,
+0xC72BCFD8=Later man,
+
+;0xD058E232=Later,
+0xD058E232=Later,
+
+;0xDD22FBF2=Later man,
+0xDD22FBF2=Later man,
+
+;0xE2638657=Later man,
+0xE2638657=Later man,
+
+;0xEE579E5B=Later,
+0xEE579E5B=Later,
+
+;0xF8C4B335=Later man,
+0xF8C4B335=Later man,
+

@@ -1,0 +1,316 @@
+﻿[E1S3p4A]
+;0x01D874C6=SFX_PAUSE_230
+0x01D874C6=SFX_PAUSE_230
+
+;0x04C14FD4=E1S3p4_FD
+0x04C14FD4=E1S3p4_FD
+
+;0x05AA2525=~z~Make sure you don't scratch this on the way back, okay. Otherwise, he'll be wise to you, man.
+0x05AA2525=~z~Make sure you don't scratch this on the way back, okay. Otherwise, he'll be wise to you, man.
+
+;0x0A4D1586=SFX_PAUSE_250
+0x0A4D1586=SFX_PAUSE_250
+
+;0x0BE446EA=SFX_PAUSE_300
+0x0BE446EA=SFX_PAUSE_300
+
+;0x0EB15066=~z~Well, Mr. Representative, your little microphone is planted.
+0x0EB15066=~z~Well, Mr. Representative, your little microphone is planted.
+
+;0x0FF8D013=E1S3p4_BC
+0x0FF8D013=E1S3p4_BC
+
+;0x11A22BC2=E1S3p4_FA
+0x11A22BC2=E1S3p4_FA
+
+;0x1524939F=~z~Charming, Klebitz. I'm thinking this means I won't be able to tune into radio Dawkins tonight?
+0x1524939F=~z~Charming, Klebitz. I'm thinking this means I won't be able to tune into radio Dawkins tonight?
+
+;0x176ABA72=SFX_PAUSE_180
+0x176ABA72=SFX_PAUSE_180
+
+;0x184436B4=E1S3p4_AF
+0x184436B4=E1S3p4_AF
+
+;0x1A1AB7DB=E1S3p4_FE
+0x1A1AB7DB=E1S3p4_FE
+
+;0x1D247673=E1S3p4_GB
+0x1D247673=E1S3p4_GB
+
+;0x1E8D002D=SFX_PAUSE_170
+0x1E8D002D=SFX_PAUSE_170
+
+;0x20E01CDE=E1S3p4_BB
+0x20E01CDE=E1S3p4_BB
+
+;0x2172FA7A=~z~Now, calm down, work out the tension, get a massage, beat off, kill someone, I don't care.
+0x2172FA7A=~z~Now, calm down, work out the tension, get a massage, beat off, kill someone, I don't care.
+
+;0x22432AE9=~z~Johnny?
+0x22432AE9=~z~Johnny?
+
+;0x237001AE=SFX_PAUSE_170
+0x237001AE=SFX_PAUSE_170
+
+;0x2628B2D0=~z~That's too bad, pal. Here's hoping Dawkins puts it down to the city's high crime rate.
+0x2628B2D0=~z~That's too bad, pal. Here's hoping Dawkins puts it down to the city's high crime rate.
+
+;0x28E5854C=SFX_PAUSE_310
+0x28E5854C=SFX_PAUSE_310
+
+;0x2D124F94=SFX_PAUSE_340
+0x2D124F94=SFX_PAUSE_340
+
+;0x2DB7CC97=100090010090100090100090100090100090010090100090100090100
+0x2DB7CC97=100090010090100090100090100090100090010090100090100090100
+
+;0x2F97D837=~z~You can drive cars as well, yes?
+0x2F97D837=~z~You can drive cars as well, yes?
+
+;0x32D718B1=~z~I hope it gives you all the sexual kicks you're lookin' for.
+0x32D718B1=~z~I hope it gives you all the sexual kicks you're lookin' for.
+
+;0x3382F16E=E1S3p4_CD
+0x3382F16E=E1S3p4_CD
+
+;0x3571E3EF=E1S3p4_AA
+0x3571E3EF=E1S3p4_AA
+
+;0x3602FFF1=~z~Charming, Klebitz. I'm thinking this means I won't be able to tune into radio Dawkins tonight.
+0x3602FFF1=~z~Charming, Klebitz. I'm thinking this means I won't be able to tune into radio Dawkins tonight.
+
+;0x388DF2DF=E1S3p4_AD
+0x388DF2DF=E1S3p4_AD
+
+;0x3DD9E216=~z~Hey, Stubbsy. This car has, umm, experienced some mechanical failures.
+0x3DD9E216=~z~Hey, Stubbsy. This car has, umm, experienced some mechanical failures.
+
+;0x3DF1C6C5=SFX_PAUSE_430
+0x3DF1C6C5=SFX_PAUSE_430
+
+;0x445E9565=E1S3p4_CC
+0x445E9565=E1S3p4_CC
+
+;0x452FBA5A=SFX_PAUSE_230
+0x452FBA5A=SFX_PAUSE_230
+
+;0x462B16A5=E1S3p4_AH
+0x462B16A5=E1S3p4_AH
+
+;0x4678BEB8=SFX_PAUSE_260
+0x4678BEB8=SFX_PAUSE_260
+
+;0x4A90DC6E=SFX_PAUSE_290
+0x4A90DC6E=SFX_PAUSE_290
+
+;0x4B234949=~z~Oh Johnny, I wouldn't want to hog all the fun for myself, I'll text you the number so you can have a listen, too.
+0x4B234949=~z~Oh Johnny, I wouldn't want to hog all the fun for myself, I'll text you the number so you can have a listen, too.
+
+;0x4D2959DD=E1S3p4_ED
+0x4D2959DD=E1S3p4_ED
+
+;0x4EB9B74B=~z~Hear the women, taste the blow, smell the fucking farts, man.
+0x4EB9B74B=~z~Hear the women, taste the blow, smell the fucking farts, man.
+
+;0x508B1391=E1S3p4_AB
+0x508B1391=E1S3p4_AB
+
+;0x511367E6=E1S3p4_CA
+0x511367E6=E1S3p4_CA
+
+;0x5159B69E=~z~Call me, soon.
+0x5159B69E=~z~Call me, soon.
+
+;0x51721A11=010090010090100090100
+0x51721A11=010090010090100090100
+
+;0x53962F33=E1S3p4_AG
+0x53962F33=E1S3p4_AG
+
+;0x57E036EF=SFX_PAUSE_400
+0x57E036EF=SFX_PAUSE_400
+
+;0x58104E2C=100090010090100090100
+0x58104E2C=100090010090100090100
+
+;0x59603C2F=SFX_PAUSE_270
+0x59603C2F=SFX_PAUSE_270
+
+;0x5C2A6FEC=~z~Klebitz, Klebitz, you caught me in a fine mood. Just heard some good news about a bill I've been championing.
+0x5C2A6FEC=~z~Klebitz, Klebitz, you caught me in a fine mood. Just heard some good news about a bill I've been championing.
+
+;0x61C2ACDA=~z~Call me, soon.
+0x61C2ACDA=~z~Call me, soon.
+
+;0x63617795=E1S3p4_AI
+0x63617795=E1S3p4_AI
+
+;0x67ED69B2=~z~Okay, man. We got you fitted out. You going to know everything that happens in this car.
+0x67ED69B2=~z~Okay, man. We got you fitted out. You going to know everything that happens in this car.
+
+;0x6CB26D4F=~z~Johnny, my good man.
+0x6CB26D4F=~z~Johnny, my good man.
+
+;0x6DF71385=~z~In the mean time, I'd like you to help me get some info on the Deputy Mayor. His car's over in Westdyke.
+0x6DF71385=~z~In the mean time, I'd like you to help me get some info on the Deputy Mayor. His car's over in Westdyke.
+
+;0x6EA32AB4=100090010090010090100090100
+0x6EA32AB4=100090010090010090100090100
+
+;0x777CF17E=SFX_PAUSE_280
+0x777CF17E=SFX_PAUSE_280
+
+;0x79FC3632=E1S3p4_EC
+0x79FC3632=E1S3p4_EC
+
+;0x861A1D63=E1S3p4_CB
+0x861A1D63=E1S3p4_CB
+
+;0x87D621FB=SFX_PAUSE_110
+0x87D621FB=SFX_PAUSE_110
+
+;0x88112408=~z~Yeah, sure, look, I think your guy's gonna noticed that his car's been cosmetically damaged to shit.
+0x88112408=~z~Yeah, sure, look, I think your guy's gonna noticed that his car's been cosmetically damaged to shit.
+
+;0x8828D4BE=E1S3p4_EB
+0x8828D4BE=E1S3p4_EB
+
+;0x895CF937=~z~No one's gonna hear shit.
+0x895CF937=~z~No one's gonna hear shit.
+
+;0x896F02F5=E1S3p4_DA
+0x896F02F5=E1S3p4_DA
+
+;0x8D2F4CF2=E1S3p4_BD
+0x8D2F4CF2=E1S3p4_BD
+
+;0x93A103B6=SFX_PAUSE_350
+0x93A103B6=SFX_PAUSE_350
+
+;0x964BB2D3=E1S3p4_FB
+0x964BB2D3=E1S3p4_FB
+
+;0x9B497783=SFX_PAUSE_130
+0x9B497783=SFX_PAUSE_130
+
+;0x9FB17268=~z~Maybe stick them on the web as well once I've got what I need, capiche? Ciao, buddy.
+0x9FB17268=~z~Maybe stick them on the web as well once I've got what I need, capiche? Ciao, buddy.
+
+;0xA7D4AEF8=010090100090100090010
+0xA7D4AEF8=010090100090100090010
+
+;0xAA5A3E0C=~z~Only bugs he's gonna touch will be eating his rotting corpse.
+0xAA5A3E0C=~z~Only bugs he's gonna touch will be eating his rotting corpse.
+
+;0xAE2DA339=SFX_PAUSE_190
+0xAE2DA339=SFX_PAUSE_190
+
+;0xB47CD80E=SFX_PAUSE_280
+0xB47CD80E=SFX_PAUSE_280
+
+;0xB5126ADC=E1S3p4_FC
+0xB5126ADC=E1S3p4_FC
+
+;0xB9F60109=~z~Representative Stubbs.
+0xB9F60109=~z~Representative Stubbs.
+
+;0xBAA67A14=SFX_PAUSE_250
+0xBAA67A14=SFX_PAUSE_250
+
+;0xBE3EE5D5=~z~Shit, Stubbs. That mechanic of yours had an accident.
+0xBE3EE5D5=~z~Shit, Stubbs. That mechanic of yours had an accident.
+
+;0xC1271C20=~z~Just what I've always wanted to experience: the scent of a city hall scumbag.
+0xC1271C20=~z~Just what I've always wanted to experience: the scent of a city hall scumbag.
+
+;0xC4BA8276=~z~Now be quick and get back before Mr. Dawkins realizes it's missing.
+0xC4BA8276=~z~Now be quick and get back before Mr. Dawkins realizes it's missing.
+
+;0xC57883FA=~z~Sure I can handle a cage, man. Later on.
+0xC57883FA=~z~Sure I can handle a cage, man. Later on.
+
+;0xC6C2C51B=~z~It's like talking to a vampire whose just spotted a virgin. Sucking more money outta hard American workers, I bet.
+0xC6C2C51B=~z~It's like talking to a vampire whose just spotted a virgin. Sucking more money outta hard American workers, I bet.
+
+;0xC85B4860=~z~You need to take it over to a garage on Muskteer to be fitted with surveillance equipment.
+0xC85B4860=~z~You need to take it over to a garage on Muskteer to be fitted with surveillance equipment.
+
+;0xC8E41E7A=100090100090010090100
+0xC8E41E7A=100090100090010090100
+
+;0xCA634EB2=E1S3p4_GC
+0xCA634EB2=E1S3p4_GC
+
+;0xCA6C921D=100090010090010090100
+0xCA6C921D=100090010090010090100
+
+;0xCF928D5D=E1S3p4_AE
+0xCF928D5D=E1S3p4_AE
+
+;0xD00ADF2D=SFX_PAUSE_300
+0xD00ADF2D=SFX_PAUSE_300
+
+;0xD1D31A5C=E1S3p4_DB
+0xD1D31A5C=E1S3p4_DB
+
+;0xD1DF30E3=~z~The only thing I'm going to hear through that bug is you jerking off.
+0xD1DF30E3=~z~The only thing I'm going to hear through that bug is you jerking off.
+
+;0xD4C8DE34=E1S3p4_BA
+0xD4C8DE34=E1S3p4_BA
+
+;0xD5502036=SFX_PAUSE_110
+0xD5502036=SFX_PAUSE_110
+
+;0xD5AD17FC=SFX_PAUSE_130
+0xD5AD17FC=SFX_PAUSE_130
+
+;0xD9BAA946=SFX_PAUSE_210
+0xD9BAA946=SFX_PAUSE_210
+
+;0xDBF3AE74=E1S3p4_AC
+0xDBF3AE74=E1S3p4_AC
+
+;0xDC9CA4D3=E1S3p4_DC
+0xDC9CA4D3=E1S3p4_DC
+
+;0xDF6CCBFE=~z~Sorry, man. You probably got enough listening to boy's jerk off at your fancy prep school. I shoulda known.
+0xDF6CCBFE=~z~Sorry, man. You probably got enough listening to boy's jerk off at your fancy prep school. I shoulda known.
+
+;0xE879DE10=~z~Drop the formalities, Klebitz. Dawkins has reported the car stolen.
+0xE879DE10=~z~Drop the formalities, Klebitz. Dawkins has reported the car stolen.
+
+;0xE8EC4AE1=~z~Alright, but just in case I'll instruct my mechanic to knock out any dings you might make along the way.
+0xE8EC4AE1=~z~Alright, but just in case I'll instruct my mechanic to knock out any dings you might make along the way.
+
+;0xE9564BAD=~z~Now mind you, you might have to go off radar and take some shortcuts. Call me when it's done.
+0xE9564BAD=~z~Now mind you, you might have to go off radar and take some shortcuts. Call me when it's done.
+
+;0xEBCF9ADE=SFX_PAUSE_340
+0xEBCF9ADE=SFX_PAUSE_340
+
+;0xED290D82=E1S3p4_AJ
+0xED290D82=E1S3p4_AJ
+
+;0xEE434EBC=E1S3p4_DD
+0xEE434EBC=E1S3p4_DD
+
+;0xF0B82397=E1S3p4_EA
+0xF0B82397=E1S3p4_EA
+
+;0xF3C6311B=E1S3p4_GA
+0xF3C6311B=E1S3p4_GA
+
+;0xF9CEBAEC=E1S3p4_GD
+0xF9CEBAEC=E1S3p4_GD
+
+;0xFB80BC3B=SFX_PAUSE_330
+0xFB80BC3B=SFX_PAUSE_330
+
+;0xFE0900DE=SFX_PAUSE_280
+0xFE0900DE=SFX_PAUSE_280
+
+;0xFE3BAF7B=~z~Hey there, sport.
+0xFE3BAF7B=~z~Hey there, sport.
+

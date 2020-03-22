@@ -1,0 +1,493 @@
+﻿[E1S1AUD]
+;0x03DE8731=E1S1_FA
+0x03DE8731=E1S1_FA
+
+;0x04431948=E1S1_JC
+0x04431948=E1S1_JC
+
+;0x0549C024=~z~Oh and Klebitz, trust me...
+0x0549C024=~z~Oh and Klebitz, trust me...
+
+;0x05A3244B=~z~Make it appear as though it's a terrorist act.
+0x05A3244B=~z~Make it appear as though it's a terrorist act.
+
+;0x0643CF55=E1S1_EB
+0x0643CF55=E1S1_EB
+
+;0x07356165=SFX_PAUSE_100
+0x07356165=SFX_PAUSE_100
+
+;0x0749D5C6=~z~Remember to lift with your knees.
+0x0749D5C6=~z~Remember to lift with your knees.
+
+;0x0796724A=~z~so I thought I'd fit right in here.
+0x0796724A=~z~so I thought I'd fit right in here.
+
+;0x0E6FD5F2=~z~Take a step back, buddy. This is off limits to you.
+0x0E6FD5F2=~z~Take a step back, buddy. This is off limits to you.
+
+;0x0EDB00D3=~z~Uhh... no I thought I'd inquire about a membership.
+0x0EDB00D3=~z~Uhh... no I thought I'd inquire about a membership.
+
+;0x0F55CFB2=~z~This asshole just gave us permission to use deadly force, people.
+0x0F55CFB2=~z~This asshole just gave us permission to use deadly force, people.
+
+;0x12588C35=~z~Don't you have any bags to rifle through or something. Get lost.
+0x12588C35=~z~Don't you have any bags to rifle through or something. Get lost.
+
+;0x12920BDF=202
+0x12920BDF=202
+
+;0x12FA6EC1=~z~He's coming into Francis International from his estate in South Carraway in the family helicopter.
+0x12FA6EC1=~z~He's coming into Francis International from his estate in South Carraway in the family helicopter.
+
+;0x14A5BF24=~z~See you tomorrow.
+0x14A5BF24=~z~See you tomorrow.
+
+;0x150B5A04=~z~I'm just about happy with the eulogy my researchers drafted up.
+0x150B5A04=~z~I'm just about happy with the eulogy my researchers drafted up.
+
+;0x17304439=~z~Well, now that you mention it... I'm starting to feel a little queasy.
+0x17304439=~z~Well, now that you mention it... I'm starting to feel a little queasy.
+
+;0x177C6489=~z~Leavis will give you a package on the way out.
+0x177C6489=~z~Leavis will give you a package on the way out.
+
+;0x1F1FD74D=SFX_PAUSE_300
+0x1F1FD74D=SFX_PAUSE_300
+
+;0x1F217FB3=100090010090010
+0x1F217FB3=100090010090010
+
+;0x20812886=~z~We're looking after a VIP and he doesn't wanna see your ugly face. So long.
+0x20812886=~z~We're looking after a VIP and he doesn't wanna see your ugly face. So long.
+
+;0x223F6BE5=~z~Mucho gusto.
+0x223F6BE5=~z~Mucho gusto.
+
+;0x2355FFBE=~z~We're trying to protect people over here, take a step back.
+0x2355FFBE=~z~We're trying to protect people over here, take a step back.
+
+;0x2547135A=~z~Stubbs.
+0x2547135A=~z~Stubbs.
+
+;0x25C3637F=~z~That being said, I try to do a good deed here and there.
+0x25C3637F=~z~That being said, I try to do a good deed here and there.
+
+;0x25EDE1B4=~z~Don't be pathetic and no secrets here, pal.
+0x25EDE1B4=~z~Don't be pathetic and no secrets here, pal.
+
+;0x2A572292=010090100090100090100090010100090100090010090100
+0x2A572292=010090100090100090100090010100090100090010090100
+
+;0x2AFD8AE0=SFX_PAUSE_330
+0x2AFD8AE0=SFX_PAUSE_330
+
+;0x2C303B7D=~z~Excuse me?
+0x2C303B7D=~z~Excuse me?
+
+;0x2FA8A0FE=SFX_PAUSE_220
+0x2FA8A0FE=SFX_PAUSE_220
+
+;0x30FE78D1=~z~I need people to elect me so that I feel marginally less bad about myself
+0x30FE78D1=~z~I need people to elect me so that I feel marginally less bad about myself
+
+;0x314B13B0=~z~Take this prick down, people.
+0x314B13B0=~z~Take this prick down, people.
+
+;0x316245E1=~z~Let me tell you something... you've got a job wiping rich pricks' asses,
+0x316245E1=~z~Let me tell you something... you've got a job wiping rich pricks' asses,
+
+;0x363982AF=100
+0x363982AF=100
+
+;0x368F0412=~z~Grossman? That guys an asshole.
+0x368F0412=~z~Grossman? That guys an asshole.
+
+;0x36CE5520=~z~This ain't any of your business, bag monkey. Clear off.
+0x36CE5520=~z~This ain't any of your business, bag monkey. Clear off.
+
+;0x383E0984=~z~Whoa, that's heavy man.
+0x383E0984=~z~Whoa, that's heavy man.
+
+;0x39AD33DB=E1S1_EC
+0x39AD33DB=E1S1_EC
+
+;0x3A283DE6=~z~Oh, don't get sentimental, Klebitz. It's unappealing. I am a WASP, after all.
+0x3A283DE6=~z~Oh, don't get sentimental, Klebitz. It's unappealing. I am a WASP, after all.
+
+;0x3EAFE07C=~z~and for some reason you seem a little pleased with yourself.
+0x3EAFE07C=~z~and for some reason you seem a little pleased with yourself.
+
+;0x3EE1939F=~z~or a poignant sense of guilt afterwards.
+0x3EE1939F=~z~or a poignant sense of guilt afterwards.
+
+;0x43E99763=SFX_PAUSE_110
+0x43E99763=SFX_PAUSE_110
+
+;0x453C9A1A=SFX_PAUSE_160
+0x453C9A1A=SFX_PAUSE_160
+
+;0x455322A6=~z~No. That's disgusting. How could you suggest such a thing?
+0x455322A6=~z~No. That's disgusting. How could you suggest such a thing?
+
+;0x462C5039=SFX_PAUSE_380
+0x462C5039=SFX_PAUSE_380
+
+;0x47D02AAD=~z~a typical Stubbs you might say. Sleep easy and drop into the club sometime soon.
+0x47D02AAD=~z~a typical Stubbs you might say. Sleep easy and drop into the club sometime soon.
+
+;0x48C11271=~z~It'll have a baggage handler uniform in it that should get you access to the runways. Enjoy yourself.
+0x48C11271=~z~It'll have a baggage handler uniform in it that should get you access to the runways. Enjoy yourself.
+
+;0x49472982=~z~I need people to like me. I need people to like me so that they elect me.
+0x49472982=~z~I need people to like me. I need people to like me so that they elect me.
+
+;0x4B3BAC53=~z~Yeah, I can imagine. So what is it that you want?
+0x4B3BAC53=~z~Yeah, I can imagine. So what is it that you want?
+
+;0x4D7A8DCA=SFX_PAUSE_230
+0x4D7A8DCA=SFX_PAUSE_230
+
+;0x4EEECDBD=~z~Trust me man, nothing would please me more,
+0x4EEECDBD=~z~Trust me man, nothing would please me more,
+
+;0x509A5A5A=SFX_PAUSE_360
+0x509A5A5A=SFX_PAUSE_360
+
+;0x526CD5DF=~z~This guy ain't right, drop him.
+0x526CD5DF=~z~This guy ain't right, drop him.
+
+;0x5347F025=~z~Don't worry about that. We've got terrorism insurance up to our eye balls.
+0x5347F025=~z~Don't worry about that. We've got terrorism insurance up to our eye balls.
+
+;0x536660D2=E1S1_KC
+0x536660D2=E1S1_KC
+
+;0x56050F0E=~z~I think you should leave, sir, before I call the police.
+0x56050F0E=~z~I think you should leave, sir, before I call the police.
+
+;0x5692C525=~z~Why? Blackmail?
+0x5692C525=~z~Why? Blackmail?
+
+;0x5BA0CE35=~z~I'm a politician. I'm a cynic. I'm very needy.
+0x5BA0CE35=~z~I'm a politician. I'm a cynic. I'm very needy.
+
+;0x5D8B7957=E1S1_ED
+0x5D8B7957=E1S1_ED
+
+;0x5E1C51ED=E1S1_KB
+0x5E1C51ED=E1S1_KB
+
+;0x6028F031=~z~Will you leave?
+0x6028F031=~z~Will you leave?
+
+;0x615AD891=~z~Tom Stubbs. How do you do?
+0x615AD891=~z~Tom Stubbs. How do you do?
+
+;0x62A304C6=SFX_PAUSE_350
+0x62A304C6=SFX_PAUSE_350
+
+;0x62B7A873=~z~"I think you should leave sir, before I...", dude, it is the twenty-first century.
+0x62B7A873=~z~"I think you should leave sir, before I...", dude, it is the twenty-first century.
+
+;0x641DF941=~z~Protect Mr. Stubbs.
+0x641DF941=~z~Protect Mr. Stubbs.
+
+;0x6577E2E4=E1S1_KF
+0x6577E2E4=E1S1_KF
+
+;0x68DCE9B9=~z~Not exactly. I need his money, and he hasn't died.
+0x68DCE9B9=~z~Not exactly. I need his money, and he hasn't died.
+
+;0x68F902F7=~z~We got a problem here.
+0x68F902F7=~z~We got a problem here.
+
+;0x6ABD0E8F=~z~You don't racially profile like a terrorist, but I'm about to start treating you like one.
+0x6ABD0E8F=~z~You don't racially profile like a terrorist, but I'm about to start treating you like one.
+
+;0x6C6058C5=SFX_PAUSE_430
+0x6C6058C5=SFX_PAUSE_430
+
+;0x7097770A=~z~And thank you, best massage I ever had that didn't involve a happy ending
+0x7097770A=~z~And thank you, best massage I ever had that didn't involve a happy ending
+
+;0x7314E718=~z~You too.
+0x7314E718=~z~You too.
+
+;0x73B89750=~z~Oh, Mr. Stubbs, sir. Okay, you only had to say so, sir.
+0x73B89750=~z~Oh, Mr. Stubbs, sir. Okay, you only had to say so, sir.
+
+;0x75A877C9=100090100090010090010090100090100
+0x75A877C9=100090100090010090010090100090100
+
+;0x76642B84=E1S1_GA
+0x76642B84=E1S1_GA
+
+;0x77C70569=~z~Love the old boy network.
+0x77C70569=~z~Love the old boy network.
+
+;0x78723819=~z~If you see any suspicious packages, let me know.
+0x78723819=~z~If you see any suspicious packages, let me know.
+
+;0x793C9009=SFX_PAUSE_100
+0x793C9009=SFX_PAUSE_100
+
+;0x7E0A9414=~z~Unfortunately, an awful man has insured that my chance of being re-elected is pretty much zero.
+0x7E0A9414=~z~Unfortunately, an awful man has insured that my chance of being re-elected is pretty much zero.
+
+;0x7EAD46EF=~z~You know, you're really starting to grow on me.
+0x7EAD46EF=~z~You know, you're really starting to grow on me.
+
+;0x7EE49FA4=~z~I'm afraid not, Stubbs. Your uncle is alive and well.
+0x7EE49FA4=~z~I'm afraid not, Stubbs. Your uncle is alive and well.
+
+;0x7FB89664=~z~Now listen. I'm in a bit of a bother, sport.
+0x7FB89664=~z~Now listen. I'm in a bit of a bother, sport.
+
+;0x81082BCB=E1S1_DH
+0x81082BCB=E1S1_DH
+
+;0x81199B3A=~z~I know . Now, you've got to get the old goat today.
+0x81199B3A=~z~I know . Now, you've got to get the old goat today.
+
+;0x8416EFB0=~z~Nice tattoos, no wonder you can only get a job like this. Move it, asshole.
+0x8416EFB0=~z~Nice tattoos, no wonder you can only get a job like this. Move it, asshole.
+
+;0x85C97321=~z~Watch it, buddy. There ain't no heavy lifting needed over here.
+0x85C97321=~z~Watch it, buddy. There ain't no heavy lifting needed over here.
+
+;0x85FDBBDA=~z~but I'm supposed to see Tom Stubbs and well... he said to meet him here.
+0x85FDBBDA=~z~but I'm supposed to see Tom Stubbs and well... he said to meet him here.
+
+;0x876355FB=~z~Enjoy making minimum wage, asshole.
+0x876355FB=~z~Enjoy making minimum wage, asshole.
+
+;0x8830DFA2=E1S1_DD
+0x8830DFA2=E1S1_DD
+
+;0x8C104FE5=E1S1_KD
+0x8C104FE5=E1S1_KD
+
+;0x8E4C7411=SFX_PAUSE_050
+0x8E4C7411=SFX_PAUSE_050
+
+;0x8F92C835=SFX_PAUSE_150
+0x8F92C835=SFX_PAUSE_150
+
+;0x9053B8A6=~z~Personally, I'd prefer a benign dictatorship without the pretence of choice,
+0x9053B8A6=~z~Personally, I'd prefer a benign dictatorship without the pretence of choice,
+
+;0x90A7AFD3=E1S1_JB
+0x90A7AFD3=E1S1_JB
+
+;0x916A3BDB=~z~That sanctimonious do-gooder controls the family trust.
+0x916A3BDB=~z~That sanctimonious do-gooder controls the family trust.
+
+;0x9284BBFC=~z~Grossman tells me you're reliable.
+0x9284BBFC=~z~Grossman tells me you're reliable.
+
+;0x93D440AF=~z~My father died years ago, thank god. No. My uncle.
+0x93D440AF=~z~My father died years ago, thank god. No. My uncle.
+
+;0x95565A8B=~z~Right you are.
+0x95565A8B=~z~Right you are.
+
+;0x996DC8B6=~z~-Could you excuse us, sugar?~n~-Okay, sure.
+0x996DC8B6=~z~-Could you excuse us, sugar?~n~-Okay, sure.
+
+;0x9A9256FF=~z~You better start looking for another source of campaign financing.
+0x9A9256FF=~z~You better start looking for another source of campaign financing.
+
+;0x9B25005E=E1S1_DA
+0x9B25005E=E1S1_DA
+
+;0x9C7FDAD2=~z~I've just sent my black suit to the dry cleaners. You better have the news I'm looking for.
+0x9C7FDAD2=~z~I've just sent my black suit to the dry cleaners. You better have the news I'm looking for.
+
+;0x9CD1251E=E1S1_LA
+0x9CD1251E=E1S1_LA
+
+;0x9DF93CE0=~z~Yeah, I guess I am.
+0x9DF93CE0=~z~Yeah, I guess I am.
+
+;0xA1825B03=~z~but let's leave the political discussions shall we?
+0xA1825B03=~z~but let's leave the political discussions shall we?
+
+;0xA2B8AC1A=090
+0xA2B8AC1A=090
+
+;0xA2FDBBCF=E1S1_IA
+0xA2FDBBCF=E1S1_IA
+
+;0xA3C10EB6=~z~Don't lose any bags today, alright.
+0xA3C10EB6=~z~Don't lose any bags today, alright.
+
+;0xA4445F7B=~z~Can we stop with the jokes?
+0xA4445F7B=~z~Can we stop with the jokes?
+
+;0xA492F904=~z~Follow me, will you. Mr. Stubbs is in the day spa, receiving some back work.
+0xA492F904=~z~Follow me, will you. Mr. Stubbs is in the day spa, receiving some back work.
+
+;0xA4CB6089=~z~Look, I'm not going to insult your intelligence by pretending to be a good guy.
+0xA4CB6089=~z~Look, I'm not going to insult your intelligence by pretending to be a good guy.
+
+;0xA58BE41E=~z~Yes, so is being arrested for drug running and spending the next thirty years in prison.
+0xA58BE41E=~z~Yes, so is being arrested for drug running and spending the next thirty years in prison.
+
+;0xA8A5012D=~z~Okay, Klebitz. Give me the good news.
+0xA8A5012D=~z~Okay, Klebitz. Give me the good news.
+
+;0xAC7AFA41=E1S1_KE
+0xAC7AFA41=E1S1_KE
+
+;0xAC916EFD=~z~Oh yeah, we're old, old buddies.
+0xAC916EFD=~z~Oh yeah, we're old, old buddies.
+
+;0xB14EC5A0=~z~Do you have an appointment?
+0xB14EC5A0=~z~Do you have an appointment?
+
+;0xB16EABAB=~z~He'll land and travel in a car convoy to the Civic Citadel.
+0xB16EABAB=~z~He'll land and travel in a car convoy to the Civic Citadel.
+
+;0xB19B98E1=~z~A blackmailer with a conscience, beautiful.
+0xB19B98E1=~z~A blackmailer with a conscience, beautiful.
+
+;0xB37C0E60=~z~Much appreciated.
+0xB37C0E60=~z~Much appreciated.
+
+;0xB3E2FFC4=~z~What? You want me to kill your father?
+0xB3E2FFC4=~z~What? You want me to kill your father?
+
+;0xB6319C3D=~z~Thank you, Leavis.
+0xB6319C3D=~z~Thank you, Leavis.
+
+;0xB7C8078A=~z~Democracy's a beautiful thing.
+0xB7C8078A=~z~Democracy's a beautiful thing.
+
+;0xBA358D71=~z~I see, you make a wonderful politician.
+0xBA358D71=~z~I see, you make a wonderful politician.
+
+;0xBB58F79F=~z~Alright, I'll make the call. There's going to be a car for you in short term parking.
+0xBB58F79F=~z~Alright, I'll make the call. There's going to be a car for you in short term parking.
+
+;0xBBC92791=~z~Ah, he was a man of the people, a philanthropist, a pompous windbag and an occasional catamite,
+0xBBC92791=~z~Ah, he was a man of the people, a philanthropist, a pompous windbag and an occasional catamite,
+
+;0xBD14EE3F=E1S1_HA
+0xBD14EE3F=E1S1_HA
+
+;0xC03CC7AD=~z~Alright there, trooper.
+0xC03CC7AD=~z~Alright there, trooper.
+
+;0xC2BE1C52=~z~when I stare into the mirror.
+0xC2BE1C52=~z~when I stare into the mirror.
+
+;0xC3593C5C=~z~I am what I am, but I look out for those who help me.
+0xC3593C5C=~z~I am what I am, but I look out for those who help me.
+
+;0xC695DEE3=E1S1_DC
+0xC695DEE3=E1S1_DC
+
+;0xC833C041=~z~Mr. Stubbs. A gentleman for you.
+0xC833C041=~z~Mr. Stubbs. A gentleman for you.
+
+;0xC8C4ABC8=E1S1_KA
+0xC8C4ABC8=E1S1_KA
+
+;0xCCEF9E74=100090010090100090100090010
+0xCCEF9E74=100090010090100090100090010
+
+;0xCD57637C=~z~I'm guessing you don't want me to hurt the precious family chopper.
+0xCD57637C=~z~I'm guessing you don't want me to hurt the precious family chopper.
+
+;0xCE08582B=E1S1_EE
+0xCE08582B=E1S1_EE
+
+;0xD0B6C8C3=E1S1_DI
+0xD0B6C8C3=E1S1_DI
+
+;0xD292CA33=E1S1_DF
+0xD292CA33=E1S1_DF
+
+;0xD342BD51=292
+0xD342BD51=292
+
+;0xD7D0D80B=SFX_PAUSE_060
+0xD7D0D80B=SFX_PAUSE_060
+
+;0xD895E67D=102
+0xD895E67D=102
+
+;0xD89A6A48=~z~Please step back or we will consider you a terrorist.
+0xD89A6A48=~z~Please step back or we will consider you a terrorist.
+
+;0xDC53E881=~z~So, you're David Grossman's friend?
+0xDC53E881=~z~So, you're David Grossman's friend?
+
+;0xDCF5D2F1=~z~You and your little gang, I mean.
+0xDCF5D2F1=~z~You and your little gang, I mean.
+
+;0xDEA7ED4E=~z~For my conscience's sake, I hope your lack of humanity is a genetic quality.
+0xDEA7ED4E=~z~For my conscience's sake, I hope your lack of humanity is a genetic quality.
+
+;0xE40F7C0D=E1S1_EA
+0xE40F7C0D=E1S1_EA
+
+;0xE6659598=~z~Klebitz. I thought you should know my Uncle's exact movements.
+0xE6659598=~z~Klebitz. I thought you should know my Uncle's exact movements.
+
+;0xE781A326=E1S1_DB
+0xE781A326=E1S1_DB
+
+;0xEACDBFDE=SFX_PAUSE_180
+0xEACDBFDE=SFX_PAUSE_180
+
+;0xEB04ED17=~z~Well I think they can fix that with surgery these days, you know.
+0xEB04ED17=~z~Well I think they can fix that with surgery these days, you know.
+
+;0xEC0149F1=E1S1_JA
+0xEC0149F1=E1S1_JA
+
+;0xECEBF1D1=~z~Yes, let's.
+0xECEBF1D1=~z~Yes, let's.
+
+;0xEE268C26=~z~And thank you.
+0xEE268C26=~z~And thank you.
+
+;0xEF417788=~z~Make it spectacular.
+0xEF417788=~z~Make it spectacular.
+
+;0xF1AA9343=~z~Sadly, Stubbs, I'm not going to be able to disappoint you. Your uncle is no longer with us.
+0xF1AA9343=~z~Sadly, Stubbs, I'm not going to be able to disappoint you. Your uncle is no longer with us.
+
+;0xF2EB8C24=SFX_PAUSE_050
+0xF2EB8C24=SFX_PAUSE_050
+
+;0xF32EAFF0=~z~Life insurance too, for that matter. Oh no, you take out my dearest kin any way you can.
+0xF32EAFF0=~z~Life insurance too, for that matter. Oh no, you take out my dearest kin any way you can.
+
+;0xF3DF80C4=~z~That'll do wonders for my campaign in all sorts of ways.
+0xF3DF80C4=~z~That'll do wonders for my campaign in all sorts of ways.
+
+;0xF422B57C=E1S1_DE
+0xF422B57C=E1S1_DE
+
+;0xF53691D4=~z~Thanks, man.
+0xF53691D4=~z~Thanks, man.
+
+;0xF82B4535=SFX_PAUSE_060
+0xF82B4535=SFX_PAUSE_060
+
+;0xF8B8820A=E1S1_DG
+0xF8B8820A=E1S1_DG
+
+;0xFA5CD7D7=~z~Yeah, under this ravaged, drug-addled exterior lies the heart of a reactionary prick,
+0xFA5CD7D7=~z~Yeah, under this ravaged, drug-addled exterior lies the heart of a reactionary prick,
+
+;0xFBC730A1=~z~If you're looking to board a plane, you're in the wrong place.
+0xFBC730A1=~z~If you're looking to board a plane, you're in the wrong place.
+
+;0xFF1EFF2A=~z~Ah, Mr. Klebitz, in need of some help, are we?
+0xFF1EFF2A=~z~Ah, Mr. Klebitz, in need of some help, are we?
+

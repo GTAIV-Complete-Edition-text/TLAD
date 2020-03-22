@@ -1,0 +1,796 @@
+﻿[E1J6AUD]
+;0x0080FEDE=~z~This is civil war now, get Johnny.
+0x0080FEDE=~z~This is civil war now, get Johnny.
+
+;0x008B4F38=~z~But, right now, I need calm.
+0x008B4F38=~z~But, right now, I need calm.
+
+;0x00C3536F=SFX_PAUSE_150
+0x00C3536F=SFX_PAUSE_150
+
+;0x01E76901=~z~So, uh, why are you here?
+0x01E76901=~z~So, uh, why are you here?
+
+;0x020D81F7=~z~Take out Johnny.
+0x020D81F7=~z~Take out Johnny.
+
+;0x02BA17B6=~z~Where are you, you anti-Semitic cocksucker?
+0x02BA17B6=~z~Where are you, you anti-Semitic cocksucker?
+
+;0x03A85692=~z~God dammit, Brian was my brother.
+0x03A85692=~z~God dammit, Brian was my brother.
+
+;0x04BB45DF=SFX_PAUSE_200
+0x04BB45DF=SFX_PAUSE_200
+
+;0x04EB5739=E1J6_A_BA
+0x04EB5739=E1J6_A_BA
+
+;0x06A24CE2=~z~Ray told us where Brian is.
+0x06A24CE2=~z~Ray told us where Brian is.
+
+;0x07912E7F=E1J6_TA
+0x07912E7F=E1J6_TA
+
+;0x081E4242=100090010010090100100090010
+0x081E4242=100090010010090100100090010
+
+;0x0927C4BF=~z~Johnny. What happened?
+0x0927C4BF=~z~Johnny. What happened?
+
+;0x09D2CF0E=SFX_PAUSE_170
+0x09D2CF0E=SFX_PAUSE_170
+
+;0x0A2A06E6=~z~I couldn't do it to a brother, even him. He's dead inside anyway.
+0x0A2A06E6=~z~I couldn't do it to a brother, even him. He's dead inside anyway.
+
+;0x0A6D43F7=E1J6_MD
+0x0A6D43F7=E1J6_MD
+
+;0x0AFC283A=~z~You ripped this gang apart, assholes.
+0x0AFC283A=~z~You ripped this gang apart, assholes.
+
+;0x0B05E4EC=E1J6_ZA
+0x0B05E4EC=E1J6_ZA
+
+;0x0D1AE857=~z~Billy's on the inside,
+0x0D1AE857=~z~Billy's on the inside,
+
+;0x0F88A4C7=~z~You've got to take it like a man!
+0x0F88A4C7=~z~You've got to take it like a man!
+
+;0x0FB9C5C8=~z~Oh Brian. Johnny's here.
+0x0FB9C5C8=~z~Oh Brian. Johnny's here.
+
+;0x10B62CBC=~z~Okay, guys. Let's finish this.
+0x10B62CBC=~z~Okay, guys. Let's finish this.
+
+;0x1230F44D=~z~Johnny, man.
+0x1230F44D=~z~Johnny, man.
+
+;0x12D6F4EF=~z~Yeah he was, but so were a lot of people.
+0x12D6F4EF=~z~Yeah he was, but so were a lot of people.
+
+;0x13A3F737=~z~Hell, man. I don't want to, but I'm with you on this.
+0x13A3F737=~z~Hell, man. I don't want to, but I'm with you on this.
+
+;0x15C4F7A7=~z~So I'm going to go pay Brian a visit,
+0x15C4F7A7=~z~So I'm going to go pay Brian a visit,
+
+;0x16B0ECFF=~z~Oh yeah where?
+0x16B0ECFF=~z~Oh yeah where?
+
+;0x19F758A4=~z~He's held up tight in his safehouse.
+0x19F758A4=~z~He's held up tight in his safehouse.
+
+;0x1B5904D3=~z~I need a steady flow of merchandise,
+0x1B5904D3=~z~I need a steady flow of merchandise,
+
+;0x1BA20AED=E1J6_LA
+0x1BA20AED=E1J6_LA
+
+;0x1C152144=~z~Shit, someone look after Brian.
+0x1C152144=~z~Shit, someone look after Brian.
+
+;0x1D06DDF7=~z~There goes Brian. Look at him run.
+0x1D06DDF7=~z~There goes Brian. Look at him run.
+
+;0x1E6A290E=410
+0x1E6A290E=410
+
+;0x20230C63=~z~see just what that fat fucker's problem is.
+0x20230C63=~z~see just what that fat fucker's problem is.
+
+;0x21C4C943=~z~Come on; for once do not be a bitch.
+0x21C4C943=~z~Come on; for once do not be a bitch.
+
+;0x2210EC16=~z~Jonathan, where's Brian?
+0x2210EC16=~z~Jonathan, where's Brian?
+
+;0x2211E3C4=~z~Take out Klebitz.
+0x2211E3C4=~z~Take out Klebitz.
+
+;0x23D3D991=~z~What's up?
+0x23D3D991=~z~What's up?
+
+;0x24658868=~z~And how the hell does he know?
+0x24658868=~z~And how the hell does he know?
+
+;0x266DB57B=SFX_PAUSE_210
+0x266DB57B=SFX_PAUSE_210
+
+;0x296B7AAB=~z~Well, until Billy gets out of prison, at least. Stay in touch.
+0x296B7AAB=~z~Well, until Billy gets out of prison, at least. Stay in touch.
+
+;0x29923C3D=012
+0x29923C3D=012
+
+;0x2A4BA2B8=~z~so it's in my interest to see that you boys calm things down.
+0x2A4BA2B8=~z~so it's in my interest to see that you boys calm things down.
+
+;0x2A4E149E=E1J6_DA
+0x2A4E149E=E1J6_DA
+
+;0x2BA0CAD1=E1J6_RB
+0x2BA0CAD1=E1J6_RB
+
+;0x2D3D29BB=~z~I don't feel like that shit means too much anymore.
+0x2D3D29BB=~z~I don't feel like that shit means too much anymore.
+
+;0x2E0C8FB4=100090010090100090100090010
+0x2E0C8FB4=100090010090100090100090010
+
+;0x2F6A8386=~z~You want to come over here to help me get him out?
+0x2F6A8386=~z~You want to come over here to help me get him out?
+
+;0x2F9FF131=~z~Damn right I do.
+0x2F9FF131=~z~Damn right I do.
+
+;0x2FDB6B8E=~z~Johnny.
+0x2FDB6B8E=~z~Johnny.
+
+;0x3040F2C3=~z~Time to say goodnight, Brian.
+0x3040F2C3=~z~Time to say goodnight, Brian.
+
+;0x326830ED=~z~See y'all later.
+0x326830ED=~z~See y'all later.
+
+;0x34134FA6=E1J6_PD
+0x34134FA6=E1J6_PD
+
+;0x348190DB=~z~Halfway to Hell, my brother.
+0x348190DB=~z~Halfway to Hell, my brother.
+
+;0x364FBC8A=~z~No one likes to take down a brother, Terry, but this has to be done.
+0x364FBC8A=~z~No one likes to take down a brother, Terry, but this has to be done.
+
+;0x365B429F=E1J6_LB
+0x365B429F=E1J6_LB
+
+;0x37661BAB=E1J6_EXECK
+0x37661BAB=E1J6_EXECK
+
+;0x37944425=E1J6_NB
+0x37944425=E1J6_NB
+
+;0x381426F0=SFX_PAUSE_110
+0x381426F0=SFX_PAUSE_110
+
+;0x3A1CB3D6=~z~Alright... don't go breakin' my balls, alright?
+0x3A1CB3D6=~z~Alright... don't go breakin' my balls, alright?
+
+;0x3B9A9DA1=~z~Brian! Brian!
+0x3B9A9DA1=~z~Brian! Brian!
+
+;0x3C8F8FFC=~z~Fuck you, Brian.
+0x3C8F8FFC=~z~Fuck you, Brian.
+
+;0x3CF36958=~z~You hold this floor, man. I'll find the little shit.
+0x3CF36958=~z~You hold this floor, man. I'll find the little shit.
+
+;0x3EB1D130=SFX_PAUSE_180
+0x3EB1D130=SFX_PAUSE_180
+
+;0x3EB80F59=~z~I was just thinking how selfish it was of me to deal with Brian all by myself.
+0x3EB80F59=~z~I was just thinking how selfish it was of me to deal with Brian all by myself.
+
+;0x3F1289F8=~z~If you send a grenade in the window, that should smoke him right out to us.
+0x3F1289F8=~z~If you send a grenade in the window, that should smoke him right out to us.
+
+;0x4056CFEE=~z~So?
+0x4056CFEE=~z~So?
+
+;0x418C19ED=~z~Come on. For once, do not be a bitch.
+0x418C19ED=~z~Come on. For once, do not be a bitch.
+
+;0x4218E294=E1J6_SA
+0x4218E294=E1J6_SA
+
+;0x4297A0A9=100010010090100090010
+0x4297A0A9=100010010090100090010
+
+;0x43D77A40=~z~That guy was too pathetic to kill. He's already dead anyway.
+0x43D77A40=~z~That guy was too pathetic to kill. He's already dead anyway.
+
+;0x44D0B00D=~z~We were your brothers, Brian.
+0x44D0B00D=~z~We were your brothers, Brian.
+
+;0x45A76BBA=E1J6_IA
+0x45A76BBA=E1J6_IA
+
+;0x475FA7C0=E1J6_UA
+0x475FA7C0=E1J6_UA
+
+;0x47A0E701=E1J6_PA
+0x47A0E701=E1J6_PA
+
+;0x47D65634=690
+0x47D65634=690
+
+;0x47E14245=~z~I can handle Johnny. Get out of here, Brian.
+0x47E14245=~z~I can handle Johnny. Get out of here, Brian.
+
+;0x4862643F=100090010010090100
+0x4862643F=100090010010090100
+
+;0x4ABDB964=~z~Like a rat from a sinking ship. So long, Brian.
+0x4ABDB964=~z~Like a rat from a sinking ship. So long, Brian.
+
+;0x4B346B31=SFX_PAUSE_070
+0x4B346B31=SFX_PAUSE_070
+
+;0x4C7B7500=SFX_PAUSE_100
+0x4C7B7500=SFX_PAUSE_100
+
+;0x4CBFA005=~z~I mean I wouldn't want to be in prison or anything, but I, you know, I'd take it.
+0x4CBFA005=~z~I mean I wouldn't want to be in prison or anything, but I, you know, I'd take it.
+
+;0x4CEDABC4=~z~You want a piece of the action?
+0x4CEDABC4=~z~You want a piece of the action?
+
+;0x4D169FE2=~z~Fuck you, Brian.
+0x4D169FE2=~z~Fuck you, Brian.
+
+;0x4D7F2465=100090010010
+0x4D7F2465=100090010010
+
+;0x4EB228DC=~z~We're gonna go 'round back, flush him out. Yeah?
+0x4EB228DC=~z~We're gonna go 'round back, flush him out. Yeah?
+
+;0x4F360DDD=~z~Wait here, man. I'm going up.
+0x4F360DDD=~z~Wait here, man. I'm going up.
+
+;0x4F6D5149=~z~Oh, okay, man. Cool. We'll fix her up. It's not the end of the world.
+0x4F6D5149=~z~Oh, okay, man. Cool. We'll fix her up. It's not the end of the world.
+
+;0x50CC6565=290
+0x50CC6565=290
+
+;0x5226A42B=~z~Knock 'em dead brothers.
+0x5226A42B=~z~Knock 'em dead brothers.
+
+;0x52D0BC76=~z~You've got to take it like a man.
+0x52D0BC76=~z~You've got to take it like a man.
+
+;0x53064ABD=~z~Alright, man, alright. We can wait out back for him.
+0x53064ABD=~z~Alright, man, alright. We can wait out back for him.
+
+;0x53F3FEF0=E1J6_LC
+0x53F3FEF0=E1J6_LC
+
+;0x56F9545E=~z~You're mine, you weasel.
+0x56F9545E=~z~You're mine, you weasel.
+
+;0x5AA904CE=SFX_PAUSE_100
+0x5AA904CE=SFX_PAUSE_100
+
+;0x5B23C196=~z~Alright there, fellas.
+0x5B23C196=~z~Alright there, fellas.
+
+;0x5BE888A8=E1J6_PB
+0x5BE888A8=E1J6_PB
+
+;0x5DC66633=E1J6_EXECM
+0x5DC66633=E1J6_EXECM
+
+;0x5E1D26CF=~z~We're gonna wait out here man. Don't worry about Brian escaping.
+0x5E1D26CF=~z~We're gonna wait out here man. Don't worry about Brian escaping.
+
+;0x5E236EC9=~z~Go Brian. Johnny's mine.
+0x5E236EC9=~z~Go Brian. Johnny's mine.
+
+;0x6050CAE8=E1J6_EXECI
+0x6050CAE8=E1J6_EXECI
+
+;0x62017001=SFX_PAUSE_1576
+0x62017001=SFX_PAUSE_1576
+
+;0x64B7C94D=~z~Make sure the right people die today, boys.
+0x64B7C94D=~z~Make sure the right people die today, boys.
+
+;0x660AFD61=E1J6_MC
+0x660AFD61=E1J6_MC
+
+;0x66A1B270=~z~Johnny. You remember Ray, right?
+0x66A1B270=~z~Johnny. You remember Ray, right?
+
+;0x674B656B=~z~I'm sorry! Please!
+0x674B656B=~z~I'm sorry! Please!
+
+;0x67D607BE=E1J6_A_AA
+0x67D607BE=E1J6_A_AA
+
+;0x68F975DB=~z~And there goes Brian. Shit.
+0x68F975DB=~z~And there goes Brian. Shit.
+
+;0x69AC40E9=~z~Johnny?
+0x69AC40E9=~z~Johnny?
+
+;0x69F1E624=~z~I always knew you were a chump, you little fuck.
+0x69F1E624=~z~I always knew you were a chump, you little fuck.
+
+;0x69F8D6B0=~z~Johnny's here!
+0x69F8D6B0=~z~Johnny's here!
+
+;0x6ABEE1EB=100090100
+0x6ABEE1EB=100090100
+
+;0x6B090E6E=~z~I'd pay a dollar to see Brian's face if you shot a grenade through that window, man.
+0x6B090E6E=~z~I'd pay a dollar to see Brian's face if you shot a grenade through that window, man.
+
+;0x6BC8C702=~z~Wait here, T. I'm heading up.
+0x6BC8C702=~z~Wait here, T. I'm heading up.
+
+;0x6BD2EE3D=050
+0x6BD2EE3D=050
+
+;0x6C656377=590
+0x6C656377=590
+
+;0x6CB8704D=~z~~s~
+0x6CB8704D=~z~~s~
+
+;0x6CE6651B=~z~Brothers. Let's do it.
+0x6CE6651B=~z~Brothers. Let's do it.
+
+;0x6E1EC219=E1J6_VA
+0x6E1EC219=E1J6_VA
+
+;0x6E448460=~z~We don't need to worry about that little fucker pulling nothing.
+0x6E448460=~z~We don't need to worry about that little fucker pulling nothing.
+
+;0x6EE93C32=E1J6_NE
+0x6EE93C32=E1J6_NE
+
+;0x6EF03D3D=~z~Shit Terry, let's get him.
+0x6EF03D3D=~z~Shit Terry, let's get him.
+
+;0x72349C40=E1J6_RF
+0x72349C40=E1J6_RF
+
+;0x727680D8=~z~Look after Brian!
+0x727680D8=~z~Look after Brian!
+
+;0x72D499E4=SFX_PAUSE_050
+0x72D499E4=SFX_PAUSE_050
+
+;0x746A6F5A=~z~Fucking Johnny the rat.
+0x746A6F5A=~z~Fucking Johnny the rat.
+
+;0x746B744E=~z~Me and Clay gonna go 'round back. Smoke out Brian.
+0x746B744E=~z~Me and Clay gonna go 'round back. Smoke out Brian.
+
+;0x74D19419=E1J6_BA
+0x74D19419=E1J6_BA
+
+;0x766CF640=E1J6_EXECH
+0x766CF640=E1J6_EXECH
+
+;0x76821F66=~z~Nothing, man. I mean, my bikes fucked so I'm having trouble keeping perspective.
+0x76821F66=~z~Nothing, man. I mean, my bikes fucked so I'm having trouble keeping perspective.
+
+;0x77A96F30=~z~Stay strong, brothers.
+0x77A96F30=~z~Stay strong, brothers.
+
+;0x7840733F=~z~Fuck! It's Johnny.
+0x7840733F=~z~Fuck! It's Johnny.
+
+;0x785C18A0=E1J6_AC
+0x785C18A0=E1J6_AC
+
+;0x78A16C5F=E1J6_OB
+0x78A16C5F=E1J6_OB
+
+;0x79F979A7=~z~Please man. Please
+0x79F979A7=~z~Please man. Please
+
+;0x7A8E27A2=~z~I got you covered Brian, get out.
+0x7A8E27A2=~z~I got you covered Brian, get out.
+
+;0x7B281223=~z~Guess we've got to protect Brian.
+0x7B281223=~z~Guess we've got to protect Brian.
+
+;0x7C814320=E1J6_GA
+0x7C814320=E1J6_GA
+
+;0x7E025BA9=~z~You're a good man, Terrence.
+0x7E025BA9=~z~You're a good man, Terrence.
+
+;0x825D59A3=390
+0x825D59A3=390
+
+;0x83BA0A32=~z~Shit, Johnny's here.
+0x83BA0A32=~z~Shit, Johnny's here.
+
+;0x84018571=~z~Please, Johnny, please. I'll be good. I'll leave and never come back.
+0x84018571=~z~Please, Johnny, please. I'll be good. I'll leave and never come back.
+
+;0x8552EFD2=~z~Gentlemen.
+0x8552EFD2=~z~Gentlemen.
+
+;0x85A09717=~z~Clay, I'm at Brian's place. You guys want to come here and help me with him?
+0x85A09717=~z~Clay, I'm at Brian's place. You guys want to come here and help me with him?
+
+;0x85AA6ADD=100090010090010090100
+0x85AA6ADD=100090010090010090100
+
+;0x89E3E1F7=~z~I talked to Brian a half an hour ago.
+0x89E3E1F7=~z~I talked to Brian a half an hour ago.
+
+;0x8B388208=SFX_PAUSE_180
+0x8B388208=SFX_PAUSE_180
+
+;0x8B4E7FCE=E1J6_KA
+0x8B4E7FCE=E1J6_KA
+
+;0x8DF70982=~z~James, I couldn't do it, man. He getting out of town.
+0x8DF70982=~z~James, I couldn't do it, man. He getting out of town.
+
+;0x8E6AEE81=SFX_PAUSE_180
+0x8E6AEE81=SFX_PAUSE_180
+
+;0x8E9399A3=SFX_PAUSE_120
+0x8E9399A3=SFX_PAUSE_120
+
+;0x8F62AAB2=SFX_PAUSE_070
+0x8F62AAB2=SFX_PAUSE_070
+
+;0x92C24D5B=~z~Good to know, I'll stop looking over my shoulder.
+0x92C24D5B=~z~Good to know, I'll stop looking over my shoulder.
+
+;0x94AC88B5=~z~Brian's mine, Terry.
+0x94AC88B5=~z~Brian's mine, Terry.
+
+;0x9712E2D0=SFX_PAUSE_100
+0x9712E2D0=SFX_PAUSE_100
+
+;0x979DF680=052
+0x979DF680=052
+
+;0x97A16A89=E1J6_RC
+0x97A16A89=E1J6_RC
+
+;0x98C8AEFF=~z~You swore an oath, Johnny. Don't do this to your brother, man. I'll get out of town.
+0x98C8AEFF=~z~You swore an oath, Johnny. Don't do this to your brother, man. I'll get out of town.
+
+;0x98DA6ACB=SFX_PAUSE_250
+0x98DA6ACB=SFX_PAUSE_250
+
+;0x993B2BF1=700
+0x993B2BF1=700
+
+;0x9A569DCD=~z~Help Brian, will you?
+0x9A569DCD=~z~Help Brian, will you?
+
+;0x9AE37566=~z~Where'd you hear that from?
+0x9AE37566=~z~Where'd you hear that from?
+
+;0x9C4A1DC8=~z~ and I got a guy above me in the food chain with a brain like an over-cooked artichoke.
+0x9C4A1DC8=~z~ and I got a guy above me in the food chain with a brain like an over-cooked artichoke.
+
+;0x9C7D4B95=100
+0x9C7D4B95=100
+
+;0x9C7EA21D=~z~Get on Brian, he can't look after himself.
+0x9C7EA21D=~z~Get on Brian, he can't look after himself.
+
+;0x9C8D3690=~z~Johnny, man, Billy put me up to it. I'll get out of town.
+0x9C8D3690=~z~Johnny, man, Billy put me up to it. I'll get out of town.
+
+;0x9DF92126=~z~Things are great.
+0x9DF92126=~z~Things are great.
+
+;0x9E740C37=~z~End this little squabble and get back to work.
+0x9E740C37=~z~End this little squabble and get back to work.
+
+;0x9E877402=SFX_PAUSE_470
+0x9E877402=SFX_PAUSE_470
+
+;0x9F2B50B7=100090010090100
+0x9F2B50B7=100090010090100
+
+;0xA046DC78=~z~Protect that little guy!
+0xA046DC78=~z~Protect that little guy!
+
+;0xA0CEDBD4=E1J6_A_CA
+0xA0CEDBD4=E1J6_A_CA
+
+;0xA18E4EF2=~z~Sounds good.
+0xA18E4EF2=~z~Sounds good.
+
+;0xA4520036=E1J6_MA
+0xA4520036=E1J6_MA
+
+;0xA4F53482=~z~Alright me and Clay will keep anyone from getting out of here.
+0xA4F53482=~z~Alright me and Clay will keep anyone from getting out of here.
+
+;0xA7689D50=E1J6_ND
+0xA7689D50=E1J6_ND
+
+;0xA774EE8C=~z~Someone kill Klebitz.
+0xA774EE8C=~z~Someone kill Klebitz.
+
+;0xA86AEA4C=E1J6_FA
+0xA86AEA4C=E1J6_FA
+
+;0xA86DBF29=E1J6_PC
+0xA86DBF29=E1J6_PC
+
+;0xA926219B=~z~See yous later.
+0xA926219B=~z~See yous later.
+
+;0xA92A11F3=~z~From Ashley.
+0xA92A11F3=~z~From Ashley.
+
+;0xA93BCFED=~z~You wouldn't kill a brother, you wouldn't. I'll be a ghost man, gone!
+0xA93BCFED=~z~You wouldn't kill a brother, you wouldn't. I'll be a ghost man, gone!
+
+;0xA94DF906=~z~Billy's not here to protect you, Brian.
+0xA94DF906=~z~Billy's not here to protect you, Brian.
+
+;0xA994C0BD=~z~It's hard to kill a man when he isn't behaving like one.
+0xA994C0BD=~z~It's hard to kill a man when he isn't behaving like one.
+
+;0xAAEDCEB7=E1J6_OA
+0xAAEDCEB7=E1J6_OA
+
+;0xABDF7C76=~z~Let's see.
+0xABDF7C76=~z~Let's see.
+
+;0xAC2E66DB=E1J6_YA
+0xAC2E66DB=E1J6_YA
+
+;0xAC999E1B=E1J6_WA
+0xAC999E1B=E1J6_WA
+
+;0xACA0CB38=E1J6_NA
+0xACA0CB38=E1J6_NA
+
+;0xAD8B47E9=E1J6_VB
+0xAD8B47E9=E1J6_VB
+
+;0xAFE19585=E1J6_QC
+0xAFE19585=E1J6_QC
+
+;0xAFE1A99E=100090010090010090100090100
+0xAFE1A99E=100090010090010090100090100
+
+;0xB0B31A68=E1J6_RD
+0xB0B31A68=E1J6_RD
+
+;0xB1351AC5=~z~See how Brian likes you sending a bomb through that there window, brother.
+0xB1351AC5=~z~See how Brian likes you sending a bomb through that there window, brother.
+
+;0xB1AD9D8C=100090010090010090100
+0xB1AD9D8C=100090010090010090100
+
+;0xB1DE1626=SFX_PAUSE_120
+0xB1DE1626=SFX_PAUSE_120
+
+;0xB22FEFD6=~z~I'm gonna wait for our brother round back with Clay. Send him out to us, will you?
+0xB22FEFD6=~z~I'm gonna wait for our brother round back with Clay. Send him out to us, will you?
+
+;0xB30B171A=052
+0xB30B171A=052
+
+;0xB3C890B6=E1J6_CA
+0xB3C890B6=E1J6_CA
+
+;0xB5D56920=~z~Billy put me up to it, please. I'll disappear.
+0xB5D56920=~z~Billy put me up to it, please. I'll disappear.
+
+;0xB74FAFB3=E1J6_EA
+0xB74FAFB3=E1J6_EA
+
+;0xB7DFD4F3=~z~Yeah. How you doing?
+0xB7DFD4F3=~z~Yeah. How you doing?
+
+;0xB7F23E13=~z~And listen, I understand where you guys are coming from -
+0xB7F23E13=~z~And listen, I understand where you guys are coming from -
+
+;0xBAB31508=~z~Why isn't Klebitz dead yet?
+0xBAB31508=~z~Why isn't Klebitz dead yet?
+
+;0xBAEEC52C=~z~Yeah, see ya later Ray...
+0xBAEEC52C=~z~Yeah, see ya later Ray...
+
+;0xBCF38C2A=~z~Brian, you little bitch, come out to play.
+0xBCF38C2A=~z~Brian, you little bitch, come out to play.
+
+;0xBD8B70D8=E1J6_RA
+0xBD8B70D8=E1J6_RA
+
+;0xBF653E69=~z~You friends with Ashley?
+0xBF653E69=~z~You friends with Ashley?
+
+;0xC2346F00=~z~Get in there, Johnny. Me and Clay'll keep the entrance covered.
+0xC2346F00=~z~Get in there, Johnny. Me and Clay'll keep the entrance covered.
+
+;0xC633DA96=~z~and on one hand, I don't give a shit.
+0xC633DA96=~z~and on one hand, I don't give a shit.
+
+;0xC68790AF=~z~The little bastard slipped through my fingers, man.
+0xC68790AF=~z~The little bastard slipped through my fingers, man.
+
+;0xC7674729=~z~Why don't you put a grenade through that window, man?
+0xC7674729=~z~Why don't you put a grenade through that window, man?
+
+;0xC84D48A4=E1J6_QB
+0xC84D48A4=E1J6_QB
+
+;0xC89596E6=~z~Come on man. All the stuff we did together.
+0xC89596E6=~z~Come on man. All the stuff we did together.
+
+;0xC95EF3EC=590
+0xC95EF3EC=590
+
+;0xC995F85F=~z~How'm I doin'? I got the feds all over me, I got a boss who's a paranoid wreck,
+0xC995F85F=~z~How'm I doin'? I got the feds all over me, I got a boss who's a paranoid wreck,
+
+;0xCA3406E6=SFX_PAUSE_180
+0xCA3406E6=SFX_PAUSE_180
+
+;0xCD25CF8D=E1J6_MB
+0xCD25CF8D=E1J6_MB
+
+;0xCDF18976=~z~I know what you mean. Let's just hope he's not planning anything else. Later on, man.
+0xCDF18976=~z~I know what you mean. Let's just hope he's not planning anything else. Later on, man.
+
+;0xCEFCFC88=E1J6_HA
+0xCEFCFC88=E1J6_HA
+
+;0xD1F4749B=E1J6_NC
+0xD1F4749B=E1J6_NC
+
+;0xD299ADCB=E1J6_OD
+0xD299ADCB=E1J6_OD
+
+;0xD2A122B7=~z~Lost MC forever, my brother. Don't do it. I'll leave the city, I promise you man.
+0xD2A122B7=~z~Lost MC forever, my brother. Don't do it. I'll leave the city, I promise you man.
+
+;0xD3098B46=~z~I heard you boys was having a little internal dispute.
+0xD3098B46=~z~I heard you boys was having a little internal dispute.
+
+;0xD366666B=~z~Everybody's friends with Ashley, tough guy...
+0xD366666B=~z~Everybody's friends with Ashley, tough guy...
+
+;0xD559FA02=~z~So what do ya think Johnny?
+0xD559FA02=~z~So what do ya think Johnny?
+
+;0xD62D7A89=~z~Bunch of grease monkeys want to have an all out gangbang,
+0xD62D7A89=~z~Bunch of grease monkeys want to have an all out gangbang,
+
+;0xD6C96A1C=E1J6_QD
+0xD6C96A1C=E1J6_QD
+
+;0xD6F13182=~z~ I hope he doesn't stay disappeared for too long. I'll call you.
+0xD6F13182=~z~ I hope he doesn't stay disappeared for too long. I'll call you.
+
+;0xD7D0355B=~z~I'm sorry, please!
+0xD7D0355B=~z~I'm sorry, please!
+
+;0xD86D67C4=SFX_PAUSE_160
+0xD86D67C4=SFX_PAUSE_160
+
+;0xD978C853=290
+0xD978C853=290
+
+;0xD9B2F9B6=090
+0xD9B2F9B6=090
+
+;0xDD4C4CDF=~z~Where are you, little girl?
+0xDD4C4CDF=~z~Where are you, little girl?
+
+;0xDDE47242=SFX_PAUSE_230
+0xDDE47242=SFX_PAUSE_230
+
+;0xDDE6AF6B=E1J6_VC
+0xDDE6AF6B=E1J6_VC
+
+;0xDEB1D37D=012
+0xDEB1D37D=012
+
+;0xE1A702EC=~z~Ah you know... she's a good kid and all.
+0xE1A702EC=~z~Ah you know... she's a good kid and all.
+
+;0xE375BC42=E1J6_OC
+0xE375BC42=E1J6_OC
+
+;0xE38D0163=E1J6_QE
+0xE38D0163=E1J6_QE
+
+;0xE46BBF49=390
+0xE46BBF49=390
+
+;0xE4ED97FD=~z~be my guest.
+0xE4ED97FD=~z~be my guest.
+
+;0xE5430467=E1J6_RE
+0xE5430467=E1J6_RE
+
+;0xE60B4FB6=~z~What happened, Johnny?
+0xE60B4FB6=~z~What happened, Johnny?
+
+;0xE684D99E=E1J6_EXECG
+0xE684D99E=E1J6_EXECG
+
+;0xE6997E74=E1J6_QA
+0xE6997E74=E1J6_QA
+
+;0xE823DC1C=~z~Right on, Brother. Me and Terry can go 'round the back and wait for him.
+0xE823DC1C=~z~Right on, Brother. Me and Terry can go 'round the back and wait for him.
+
+;0xE8439FC9=~z~I think that guy makes my skin crawl,
+0xE8439FC9=~z~I think that guy makes my skin crawl,
+
+;0xECC9C900=SFX_PAUSE_050
+0xECC9C900=SFX_PAUSE_050
+
+;0xECF15F9D=~z~Don't do it, man. No, no.
+0xECF15F9D=~z~Don't do it, man. No, no.
+
+;0xEDFACD11=050
+0xEDFACD11=050
+
+;0xEE6D2CCA=~z~You want to pay Brian a visit with me?
+0xEE6D2CCA=~z~You want to pay Brian a visit with me?
+
+;0xEEB5429D=~z~Yeah? Sounds like shit to me but whatever.
+0xEEB5429D=~z~Yeah? Sounds like shit to me but whatever.
+
+;0xEF2A8811=SFX_PAUSE_1657
+0xEF2A8811=SFX_PAUSE_1657
+
+;0xEF55ACCD=~z~You're all adults. Sort of.
+0xEF55ACCD=~z~You're all adults. Sort of.
+
+;0xEF68F077=290
+0xEF68F077=290
+
+;0xEF9B5D13=~z~I don't care if he's a brother, get Johnny.
+0xEF9B5D13=~z~I don't care if he's a brother, get Johnny.
+
+;0xF0348627=E1J6_AD
+0xF0348627=E1J6_AD
+
+;0xF5A69003=~z~How's my brother, Brian?
+0xF5A69003=~z~How's my brother, Brian?
+
+;0xF6437241=~z~You gotta take it like a man, Brian, come on.
+0xF6437241=~z~You gotta take it like a man, Brian, come on.
+
+;0xF68B91C9=~z~All you got to do is scare him out here into our arms. Can you do that?
+0xF68B91C9=~z~All you got to do is scare him out here into our arms. Can you do that?
+
+;0xF6E93D14=~z~but now that you mention it so does Brian, and right now he's our problem.
+0xF6E93D14=~z~but now that you mention it so does Brian, and right now he's our problem.
+
+;0xF7E12F60=~z~A little messed up, but, you know she needed a friend.
+0xF7E12F60=~z~A little messed up, but, you know she needed a friend.
+
+;0xFAA2E9EE=SFX_PAUSE_160
+0xFAA2E9EE=SFX_PAUSE_160
+
+;0xFFDF2613=~z~Brian, brother, it's time.
+0xFFDF2613=~z~Brian, brother, it's time.
+

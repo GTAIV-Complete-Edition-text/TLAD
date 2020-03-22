@@ -1,0 +1,46 @@
+﻿[BILLY5]
+;0x18892C59=Wait here for ~b~Niko~s~ and ~b~Playboy X.
+0x18892C59=Wait here for ~b~Niko~s~ and ~b~Playboy X.
+
+;0x268C8EF1=~r~You attacked Niko and Playboy X.
+0x268C8EF1=~r~You attacked Niko and Playboy X.
+
+;0x3DFF7745=Go to the ~y~building~s~ where the deal is taking place.
+0x3DFF7745=Go to the ~y~building~s~ where the deal is taking place.
+
+;0x463A51B5=~r~Your bike was wrecked.
+0x463A51B5=~r~Your bike was wrecked.
+
+;0x51E36389=~r~Brian is dead.
+0x51E36389=~r~Brian is dead.
+
+;0x5A75073B=~r~Brian's van has been wrecked.
+0x5A75073B=~r~Brian's van has been wrecked.
+
+;0x619BBE81=Get on your ~b~bike.
+0x619BBE81=Get on your ~b~bike.
+
+;0x627DC041=Go downstairs and get out of the building.
+0x627DC041=Go downstairs and get out of the building.
+
+;0x6306C157=Collect the package from ~b~Brian.
+0x6306C157=Collect the package from ~b~Brian.
+
+;0x74F4652E=Lose the cops.
+0x74F4652E=Lose the cops.
+
+;0x755965FC=The ~y~apartment~s~ is on the third floor.
+0x755965FC=The ~y~apartment~s~ is on the third floor.
+
+;0x955497B6=~r~Niko is dead.
+0x955497B6=~r~Niko is dead.
+
+;0xCC5AF294=Go back to the apartment to meet ~b~Niko~s~ and ~b~Playboy X.
+0xCC5AF294=Go back to the apartment to meet ~b~Niko~s~ and ~b~Playboy X.
+
+;0xD0EA7AE5=Get back on your ~b~bike.
+0xD0EA7AE5=Get back on your ~b~bike.
+
+;0xDDA9B452=~r~Playboy X is dead.
+0xDDA9B452=~r~Playboy X is dead.
+

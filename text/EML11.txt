@@ -1,0 +1,73 @@
+﻿[EML11]
+;0x0BF4D36F=Look after yourself,
+0x0BF4D36F=Look after yourself,
+
+;0x0EDDF548=Blah. Blah. Blah. At least I know what I'm fighting for. Look after yourself. John.
+0x0EDDF548=Blah. Blah. Blah. At least I know what I'm fighting for. Look after yourself. John.
+
+;0x1CA37A47=Whoa. Dude? You should talk to a head doctor.
+0x1CA37A47=Whoa. Dude? You should talk to a head doctor.
+
+;0x1D1250B3=John,
+0x1D1250B3=John,
+
+;0x2186FE93=Your Brother,
+0x2186FE93=Your Brother,
+
+;0x22A600D1=Look after yourself,
+0x22A600D1=Look after yourself,
+
+;0x34A07FCF=Dear John,
+0x34A07FCF=Dear John,
+
+;0x4214C539=I love you, too bro. And out of a place of love I make one comment - you get on some very strong medication to deal with the fact you've lost your fucking mind, you messianic dip shit.
+0x4214C539=I love you, too bro. And out of a place of love I make one comment - you get on some very strong medication to deal with the fact you've lost your fucking mind, you messianic dip shit.
+
+;0x5518E5B6=Your Brother,
+0x5518E5B6=Your Brother,
+
+;0x5CAD6E0E=You always were a smart ass with all the answers. i have a country. You have nothing. Mom and Dad were right about you, you smug little shit. I will fuck you up when I see you. Mark my words. Disrespecting me like that. And my country. My country. I've seen men die for that shit, you junkie piece of shit. And happily. You would only die for drugs or money. You're a rat, not a man.
+0x5CAD6E0E=You always were a smart ass with all the answers. i have a country. You have nothing. Mom and Dad were right about you, you smug little shit. I will fuck you up when I see you. Mark my words. Disrespecting me like that. And my country. My country. I've seen men die for that shit, you junkie piece of shit. And happily. You would only die for drugs or money. You're a rat, not a man.
+
+;0x80059694=Dear John,
+0x80059694=Dear John,
+
+;0xA66F8866=Look after yourself,
+0xA66F8866=Look after yourself,
+
+;0xA7C5843D=What about the life you chose led you to make such stupid choices? Billy Grey? Give me a break. He always was an arsehole. Back in the neighborhood, he was a jackass thinking he was Jesus on an acid trip when we were fifteen and you were 10. That was a long time ago. i hope you don't still look up to that asshole, pardon my fucking French.
+0xA7C5843D=What about the life you chose led you to make such stupid choices? Billy Grey? Give me a break. He always was an arsehole. Back in the neighborhood, he was a jackass thinking he was Jesus on an acid trip when we were fifteen and you were 10. That was a long time ago. i hope you don't still look up to that asshole, pardon my fucking French.
+
+;0xB5E0824D=John,
+0xB5E0824D=John,
+
+;0xBE38B7F8=Your Brother,
+0xBE38B7F8=Your Brother,
+
+;0xC1841998=John,
+0xC1841998=John,
+
+;0xC518BEE3=I hope this mail finds you well and happy and law abiding. I doubt the later, but a brother can hope, can't he? I got shot at yesterday and saw someone have their leg blown off. i saw three kids die last week. My life is one long orgy of death and horror. At least i know i am on the right side. i miss you, man. You have a heart.
+0xC518BEE3=I hope this mail finds you well and happy and law abiding. I doubt the later, but a brother can hope, can't he? I got shot at yesterday and saw someone have their leg blown off. i saw three kids die last week. My life is one long orgy of death and horror. At least i know i am on the right side. i miss you, man. You have a heart.
+
+;0xC73B2506=Dear John,
+0xC73B2506=Dear John,
+
+;0xC9B2A9F1=Dear John,
+0xC9B2A9F1=Dear John,
+
+;0xD88B6C9D=Your Brother,
+0xD88B6C9D=Your Brother,
+
+;0xD92A6706=You will throw your whole life way. For a guy who wouldn't piss on you if you were on fire. I know we've been over this a thousand times, but my life is kind of stressful right now.
+0xD92A6706=You will throw your whole life way. For a guy who wouldn't piss on you if you were on fire. I know we've been over this a thousand times, but my life is kind of stressful right now.
+
+;0xDA554B36=John,
+0xDA554B36=John,
+
+;0xEF551A30=Look after yourself,
+0xEF551A30=Look after yourself,
+
+;0xFD065195=Thanks for your input Mikey. I miss you, man. I think about you, but I made different choices to you. Doesn't seem like either of our choices panned out so good. We both get shot at. And both of us are fighting other people's battles. Look after yourself. John
+0xFD065195=Thanks for your input Mikey. I miss you, man. I think about you, but I made different choices to you. Doesn't seem like either of our choices panned out so good. We both get shot at. And both of us are fighting other people's battles. Look after yourself. John
+

@@ -1,0 +1,55 @@
+﻿[EML111]
+;0x08795395=Dear Mr Klebitz,
+0x08795395=Dear Mr Klebitz,
+
+;0x0C1F0DF7=Best regards,
+0x0C1F0DF7=Best regards,
+
+;0x15602079=Best regards,
+0x15602079=Best regards,
+
+;0x1DE67E6F=Dear Mr Klebitz,
+0x1DE67E6F=Dear Mr Klebitz,
+
+;0x225D3A6F=Best regards,
+0x225D3A6F=Best regards,
+
+;0x2F8AD4CE=Best regards,
+0x2F8AD4CE=Best regards,
+
+;0x3A3F3720=Dear Mr Klebitz,
+0x3A3F3720=Dear Mr Klebitz,
+
+;0x3B12EBDE=Best regards,
+0x3B12EBDE=Best regards,
+
+;0x3ECD403C=Dear Mr Klebitz,
+0x3ECD403C=Dear Mr Klebitz,
+
+;0x508D96D3=Best regards,
+0x508D96D3=Best regards,
+
+;0x55076CB0=Dear Mr Klebitz,
+0x55076CB0=Dear Mr Klebitz,
+
+;0x681B04B8=As a valued Bank of Lee Burty customer, we would like to inform you that online access for your account has expired. For your convenience, we ask that you provide us with the following information so that internet banking services can be reactivated:
+0x681B04B8=As a valued Bank of Lee Burty customer, we would like to inform you that online access for your account has expired. For your convenience, we ask that you provide us with the following information so that internet banking services can be reactivated:
+
+;0x7EB67324=Best regards,
+0x7EB67324=Best regards,
+
+;0xA31CFABB=Account Number: Login: Password: Mother's Maiden Name: First Pet's Name: Social Security Number: We thank you for your understanding and apologize for any inconvenience.
+0xA31CFABB=Account Number: Login: Password: Mother's Maiden Name: First Pet's Name: Social Security Number: We thank you for your understanding and apologize for any inconvenience.
+
+;0xCC1E5AE0=Dear Mr Klebitz,
+0xCC1E5AE0=Dear Mr Klebitz,
+
+;0xE81EC5F7=Best regards,
+0xE81EC5F7=Best regards,
+
+;0xEC239AEA=Dear Mr Klebitz,
+0xEC239AEA=Dear Mr Klebitz,
+
+;0xFDE93E75=Dear Mr Klebitz,
+0xFDE93E75=Dear Mr Klebitz,
+

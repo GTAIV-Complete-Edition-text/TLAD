@@ -1,0 +1,37 @@
+﻿[E1APAUD]
+;0x0925B3B3=~z~ANSWER PHONE: I'm not available just now.
+0x0925B3B3=~z~ANSWER PHONE: I'm not available just now.
+
+;0x1AD0A3F5=100
+0x1AD0A3F5=100
+
+;0x2695902D=E1AP_AA
+0x2695902D=E1AP_AA
+
+;0x31CE1366=100
+0x31CE1366=100
+
+;0x338C3A7B=100
+0x338C3A7B=100
+
+;0x49E11B31=100
+0x49E11B31=100
+
+;0x4A62CE0A=~z~I'm on the computer. Email me instead.
+0x4A62CE0A=~z~I'm on the computer. Email me instead.
+
+;0x5646D06D=E1AP_BA
+0x5646D06D=E1AP_BA
+
+;0x7837B29F=E1AP_RA
+0x7837B29F=E1AP_RA
+
+;0x99E332AB=E1AP_CA
+0x99E332AB=E1AP_CA
+
+;0xBF30E6C4=~z~ANSWER PHONE: Phone later.
+0xBF30E6C4=~z~ANSWER PHONE: Phone later.
+
+;0xDD9477C1=~z~ANSWER PHONE: I don't want to talk to you just now.
+0xDD9477C1=~z~ANSWER PHONE: I don't want to talk to you just now.
+

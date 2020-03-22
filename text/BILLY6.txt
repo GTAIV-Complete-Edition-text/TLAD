@@ -1,0 +1,118 @@
+﻿[BILLY6]
+;0x0B5DF274=Lose the cops.
+0x0B5DF274=Lose the cops.
+
+;0x0D1A29A3=~s~Lose the cops.
+0x0D1A29A3=~s~Lose the cops.
+
+;0x0F0771A5=Protect ~b~Billy~s~.
+0x0F0771A5=Protect ~b~Billy~s~.
+
+;0x16397E97=~s~Leave the vehicle and get to your ~b~bike.~s~
+0x16397E97=~s~Leave the vehicle and get to your ~b~bike.~s~
+
+;0x1D8D1C7E=~s~Go to your ~y~turf.~s~
+0x1D8D1C7E=~s~Go to your ~y~turf.~s~
+
+;0x217523BE=~r~Jim's bike was wrecked.
+0x217523BE=~r~Jim's bike was wrecked.
+
+;0x28EEA520=~s~Go to ~y~Feldspar Street.~s~
+0x28EEA520=~s~Go to ~y~Feldspar Street.~s~
+
+;0x2E817F92=~r~You lost Billy.
+0x2E817F92=~r~You lost Billy.
+
+;0x31381129=~s~Race the Lost crew to the ~y~meet.~s~
+0x31381129=~s~Race the Lost crew to the ~y~meet.~s~
+
+;0x33009284=~s~Go to ~b~Billy.~s~
+0x33009284=~s~Go to ~b~Billy.~s~
+
+;0x46E070D8=~s~Get to ~b~Billy~s~ before you lose him.
+0x46E070D8=~s~Get to ~b~Billy~s~ before you lose him.
+
+;0x492C2358=~r~Brian's bike was wrecked.
+0x492C2358=~r~Brian's bike was wrecked.
+
+;0x4AD6651B=~r~Brian is dead.
+0x4AD6651B=~r~Brian is dead.
+
+;0x5096C292=~s~Jump to the ~y~scaffold~s~ below.
+0x5096C292=~s~Jump to the ~y~scaffold~s~ below.
+
+;0x5BBF126A=~r~Billy is dead.
+0x5BBF126A=~r~Billy is dead.
+
+;0x634D1E73=~r~Billy's bike was wrecked.
+0x634D1E73=~r~Billy's bike was wrecked.
+
+;0x74BBFD1E=~r~Your bike was wrecked.~s~
+0x74BBFD1E=~r~Your bike was wrecked.~s~
+
+;0x771BCCFC=~s~Follow ~b~Jim.~s~
+0x771BCCFC=~s~Follow ~b~Jim.~s~
+
+;0x7746B748=~s~Follow ~b~Jim.~s~
+0x7746B748=~s~Follow ~b~Jim.~s~
+
+;0x836E91AC=~s~Stay close to the group of bikers you are leading as Chapter President to talk with them.~s~
+0x836E91AC=~s~Stay close to the group of bikers you are leading as Chapter President to talk with them.~s~
+
+;0x88E40153=When leading a group of bikers, hold ~INPUT_VEH_CIN_CAM~ to switch the camera to the group point of view.
+0x88E40153=When leading a group of bikers, hold ~INPUT_VEH_CIN_CAM~ to switch the camera to the group point of view.
+
+;0x8C7875B7=Billy's bike was lost.
+0x8C7875B7=Billy's bike was lost.
+
+;0x954974FE=~s~Get through the ~s~cops.~s~
+0x954974FE=~s~Get through the ~s~cops.~s~
+
+;0x973CEBB1=~s~Go to the front of the ~y~building.~s~
+0x973CEBB1=~s~Go to the front of the ~y~building.~s~
+
+;0x9AB3B98B=~r~Jim is dead.
+0x9AB3B98B=~r~Jim is dead.
+
+;0x9F312DED=While holding ~INPUT_VEH_CIN_CAM~ use ~PAD_RSTICK_LEFTRIGHT~ to switch the camera between the different bikers in your group.
+0x9F312DED=While holding ~INPUT_VEH_CIN_CAM~ use ~PAD_RSTICK_LEFTRIGHT~ to switch the camera between the different bikers in your group.
+
+;0xA1B29FB7=~s~Take care of the remaining ~r~Triads.~s~
+0xA1B29FB7=~s~Take care of the remaining ~r~Triads.~s~
+
+;0xA2B9EBA2=Go back and get ~b~Jim.~s~
+0xA2B9EBA2=Go back and get ~b~Jim.~s~
+
+;0xB360564B=Race against Billy to the ~y~target.~s~
+0xB360564B=Race against Billy to the ~y~target.~s~
+
+;0xBDB1E3C9=~r~You have abandoned your bike.~s~
+0xBDB1E3C9=~r~You have abandoned your bike.~s~
+
+;0xD1DBBA02=~s~Place holder: Billy becomes leader.~s~
+0xD1DBBA02=~s~Place holder: Billy becomes leader.~s~
+
+;0xD67B4A91=~s~Go to your ~b~bike.~s~
+0xD67B4A91=~s~Go to your ~b~bike.~s~
+
+;0xE08B0101=Follow ~b~Billy~s~ to the meet.
+0xE08B0101=Follow ~b~Billy~s~ to the meet.
+
+;0xE1AB8D81=~r~You abandoned Jim.~s~
+0xE1AB8D81=~r~You abandoned Jim.~s~
+
+;0xE774AB3A=~s~Take out the ~r~Triads.~s~
+0xE774AB3A=~s~Take out the ~r~Triads.~s~
+
+;0xEA9CBC30=Billy is dead.
+0xEA9CBC30=Billy is dead.
+
+;0xF0733543=~s~Go to ~b~Jim.~s~
+0xF0733543=~s~Go to ~b~Jim.~s~
+
+;0xF5E97B64=~s~You are now Chapter President. Lead the group back to your ~y~turf.~s~
+0xF5E97B64=~s~You are now Chapter President. Lead the group back to your ~y~turf.~s~
+
+;0xFDECE2B6=~s~Go to the meet with ~b~Billy.~s~
+0xFDECE2B6=~s~Go to the meet with ~b~Billy.~s~
+

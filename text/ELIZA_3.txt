@@ -1,0 +1,88 @@
+﻿[ELIZA_3]
+;0x01E911C7=~s~Press ~INPUT_AIM~ to aim and ~INPUT_ATTACK~ to fire.
+0x01E911C7=~s~Press ~INPUT_AIM~ to aim and ~INPUT_ATTACK~ to fire.
+
+;0x04C5C9DF=~s~Press ~INPUT_ATTACK~ to drop pipe bombs.
+0x04C5C9DF=~s~Press ~INPUT_ATTACK~ to drop pipe bombs.
+
+;0x067377D4=~s~Get on your ~b~bike.~s~
+0x067377D4=~s~Get on your ~b~bike.~s~
+
+;0x0DF93620=~s~We got shit up ahead too, Johnny!
+0x0DF93620=~s~We got shit up ahead too, Johnny!
+
+;0x0F20AB78=~s~Where the fuck is he going? Cover him!
+0x0F20AB78=~s~Where the fuck is he going? Cover him!
+
+;0x17668880=~s~Fuck take these fuckers out!
+0x17668880=~s~Fuck take these fuckers out!
+
+;0x1A60C1F8=~s~Get these pigs off DeSean's tail Johnny!
+0x1A60C1F8=~s~Get these pigs off DeSean's tail Johnny!
+
+;0x1B21BE75=~r~Your bike was wrecked.
+0x1B21BE75=~r~Your bike was wrecked.
+
+;0x2C266583=~s~Fuck this! Johnny use these grenades!
+0x2C266583=~s~Fuck this! Johnny use these grenades!
+
+;0x2D7FD85D=~s~Go to the ~y~deal.~s~
+0x2D7FD85D=~s~Go to the ~y~deal.~s~
+
+;0x2DE1E3F5=~r~You abandoned your bike.
+0x2DE1E3F5=~r~You abandoned your bike.
+
+;0x2FBA1F06=~s~Don't speak so soon Johnny - cops up ahead!
+0x2FBA1F06=~s~Don't speak so soon Johnny - cops up ahead!
+
+;0x579A3C6E=~s~Shit that was intense!
+0x579A3C6E=~s~Shit that was intense!
+
+;0x6BD533B8=~s~To quickly reload release ~INPUT_AIM~ and then press it again.
+0x6BD533B8=~s~To quickly reload release ~INPUT_AIM~ and then press it again.
+
+;0x6DBF64D4=~s~Head for the tunnel, we need to shake this fuckin' bird!
+0x6DBF64D4=~s~Head for the tunnel, we need to shake this fuckin' bird!
+
+;0x74E5A990=~s~Fuck this! Shoot out these fucking windows!
+0x74E5A990=~s~Fuck this! Shoot out these fucking windows!
+
+;0x7ED69F7C=~s~Johnny we got a NOOSE van dead ahead!
+0x7ED69F7C=~s~Johnny we got a NOOSE van dead ahead!
+
+;0x873B16A6=~r~DeSean is dead.
+0x873B16A6=~r~DeSean is dead.
+
+;0x919BC37C=~s~Press ~INPUT_ATTACK~ to drop grenades.
+0x919BC37C=~s~Press ~INPUT_ATTACK~ to drop grenades.
+
+;0x987E392C=~r~Malc is dead.
+0x987E392C=~r~Malc is dead.
+
+;0xB0C45242=~s~Press ~INPUT_VEH_LOOK_BEHIND~ to look behind you while dropping grenades.
+0xB0C45242=~s~Press ~INPUT_VEH_LOOK_BEHIND~ to look behind you while dropping grenades.
+
+;0xB96A8011=~s~Fuck, go go go - escort DeSean!
+0xB96A8011=~s~Fuck, go go go - escort DeSean!
+
+;0xBC108050=~r~Malc's bike was wrecked.
+0xBC108050=~r~Malc's bike was wrecked.
+
+;0xC1C490C1=~s~Shit! DeSean is taking damage.
+0xC1C490C1=~s~Shit! DeSean is taking damage.
+
+;0xCE5224D3=~r~DeSean's bike was wrecked.
+0xCE5224D3=~r~DeSean's bike was wrecked.
+
+;0xD3A2347C=~s~Johnny, we got a bird - 10 o'clock!
+0xD3A2347C=~s~Johnny, we got a bird - 10 o'clock!
+
+;0xDF473DCA=~s~Defend ~b~DeSean~s~ from the cops.
+0xDF473DCA=~s~Defend ~b~DeSean~s~ from the cops.
+
+;0xE14ACFCD=~s~Take these pigs out already Johnny!
+0xE14ACFCD=~s~Take these pigs out already Johnny!
+
+;0xFCD786E6=~s~Fuck roadblock!
+0xFCD786E6=~s~Fuck roadblock!
+

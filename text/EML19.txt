@@ -1,0 +1,70 @@
+﻿[EML19]
+;0x05E22335=Dear Mr Klebitz,
+0x05E22335=Dear Mr Klebitz,
+
+;0x124B142A=I came to know your esteemed self in my search for relatives of my client with the objective of securing a destinee of the property and money left behind by my aforementioned client following his aforementioned death, which unfortunately claimed his life.
+0x124B142A=I came to know your esteemed self in my search for relatives of my client with the objective of securing a destinee of the property and money left behind by my aforementioned client following his aforementioned death, which unfortunately claimed his life.
+
+;0x1769C65C=Dear Mr Klebitz,
+0x1769C65C=Dear Mr Klebitz,
+
+;0x1807C780=Dear Mr Klebitz,
+0x1807C780=Dear Mr Klebitz,
+
+;0x24CC6121=Dear Mr Klebitz,
+0x24CC6121=Dear Mr Klebitz,
+
+;0x325FFC30=Dear Mr Klebitz,
+0x325FFC30=Dear Mr Klebitz,
+
+;0x58B04F17=Yours Obediently,
+0x58B04F17=Yours Obediently,
+
+;0x636B648D=Yours Obediently,
+0x636B648D=Yours Obediently,
+
+;0x68F7417D=In consideration of my failing attempts to locate my client's relatives I humbly seek your help very urgently with much courtesy and hope to present you as the Next of Kin of the aforementioned deceased as you both bear the same name.
+0x68F7417D=In consideration of my failing attempts to locate my client's relatives I humbly seek your help very urgently with much courtesy and hope to present you as the Next of Kin of the aforementioned deceased as you both bear the same name.
+
+;0x75518859=Yours Obediently,
+0x75518859=Yours Obediently,
+
+;0x7F816E91=I know that a solitication of this gravitude may cause you apprehension but I assure you wholeheadedly of the good faith in which it is solicited. My sincere apoligies for emptying myself into you unsolicitedly and I trust this letter reaches you in fine health. Please contact me at your earliest comfort. You will be rich.
+0x7F816E91=I know that a solitication of this gravitude may cause you apprehension but I assure you wholeheadedly of the good faith in which it is solicited. My sincere apoligies for emptying myself into you unsolicitedly and I trust this letter reaches you in fine health. Please contact me at your earliest comfort. You will be rich.
+
+;0x87F82DA6=Yours Obediently,
+0x87F82DA6=Yours Obediently,
+
+;0x99C55140=Yours Obediently,
+0x99C55140=Yours Obediently,
+
+;0xA49FB8D1=How do I find you today? Please fogive me if I am instruding your privacy. I am Barrister Saidou Bakayoko, personal attorney to the late Mr. Laurence Brand, who until his tragic death was a building contractor with the government of Burkina Faso.
+0xA49FB8D1=How do I find you today? Please fogive me if I am instruding your privacy. I am Barrister Saidou Bakayoko, personal attorney to the late Mr. Laurence Brand, who until his tragic death was a building contractor with the government of Burkina Faso.
+
+;0xAC46F643=Yours Obediently,
+0xAC46F643=Yours Obediently,
+
+;0xAD32F1D8=Dear Mr Klebitz,
+0xAD32F1D8=Dear Mr Klebitz,
+
+;0xBA948CB3=Dear Mr Klebitz,
+0xBA948CB3=Dear Mr Klebitz,
+
+;0xBF191BE7=Yours Obediently,
+0xBF191BE7=Yours Obediently,
+
+;0xD0D9BF68=Yours Obediently,
+0xD0D9BF68=Yours Obediently,
+
+;0xDF5AAE46=Knowing of your high trustworthiness and repute, I seek your consent if you are unequivocably interested to present you as Next Of Kin of the deceased so that the funds of $15.5m would be released into your bank account as the aforementioned Next Of Kin.
+0xDF5AAE46=Knowing of your high trustworthiness and repute, I seek your consent if you are unequivocably interested to present you as Next Of Kin of the deceased so that the funds of $15.5m would be released into your bank account as the aforementioned Next Of Kin.
+
+;0xEEC94D23=This Bank of the deceased has issued a notice instructing me to produce the Next of Kin to the aforementioned account within the next four working days or have the account confiscated.
+0xEEC94D23=This Bank of the deceased has issued a notice instructing me to produce the Next of Kin to the aforementioned account within the next four working days or have the account confiscated.
+
+;0xFBA50EBB=Dear Mr Klebitz,
+0xFBA50EBB=Dear Mr Klebitz,
+
+;0xFD15E9BC=Two months ago my client and his entire family was killed in a motor accident on a road of Ouagadougou, which claimed all their lifes, sparing none of the ocupants of the aforementioned vehicle, not one, not even the bouncing headed dog who lived on the dashboard.
+0xFD15E9BC=Two months ago my client and his entire family was killed in a motor accident on a road of Ouagadougou, which claimed all their lifes, sparing none of the ocupants of the aforementioned vehicle, not one, not even the bouncing headed dog who lived on the dashboard.
+

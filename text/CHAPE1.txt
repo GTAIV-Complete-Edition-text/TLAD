@@ -1,0 +1,316 @@
+﻿[CHAPE1]
+;0x028F3336=Deliver the colors to the ~y~clubhouse.
+0x028F3336=Deliver the colors to the ~y~clubhouse.
+
+;0x02D30ED4=delivered a car
+0x02D30ED4=delivered a car
+
+;0x046F76C2=delivered the bike
+0x046F76C2=delivered the bike
+
+;0x08042AF8=Get back on the ~b~bike.
+0x08042AF8=Get back on the ~b~bike.
+
+;0x080A57CE=Wait here until the ~COL_NET_1~rest of the club~s~ return.
+0x080A57CE=Wait here until the ~COL_NET_1~rest of the club~s~ return.
+
+;0x0D462DA9=killed the Road Captain
+0x0D462DA9=killed the Road Captain
+
+;0x0E92AF10=got the bike
+0x0E92AF10=got the bike
+
+;0x0FDEA731=60 mins
+0x0FDEA731=60 mins
+
+;0x1465E6CC=Get to the ~b~cars.
+0x1465E6CC=Get to the ~b~cars.
+
+;0x1706C8FD=Pick up the ~b~colors.
+0x1706C8FD=Pick up the ~b~colors.
+
+;0x19E39B6F=Free the ~b~old lady.
+0x19E39B6F=Free the ~b~old lady.
+
+;0x1B60006E=~r~The Angels of Death left Lost territory.
+0x1B60006E=~r~The Angels of Death left Lost territory.
+
+;0x1E684444=45 mins
+0x1E684444=45 mins
+
+;0x1F7B79FB=Drop off the transport at the ~y~projects.
+0x1F7B79FB=Drop off the transport at the ~y~projects.
+
+;0x22448299=Steal the ~b~transporter.
+0x22448299=Steal the ~b~transporter.
+
+;0x25563F43=You are the suspect. Stay alive until you are no longer wanted by the cops.
+0x25563F43=You are the suspect. Stay alive until you are no longer wanted by the cops.
+
+;0x2A6F2AD0=~r~The Ride Captain was killed.
+0x2A6F2AD0=~r~The Ride Captain was killed.
+
+;0x2B4AA942=killed Murphy
+0x2B4AA942=killed Murphy
+
+;0x2C82A2B3=~r~A member of The Lost died.
+0x2C82A2B3=~r~A member of The Lost died.
+
+;0x2EABC4FF=Trash the ~r~bikes.
+0x2EABC4FF=Trash the ~r~bikes.
+
+;0x3592163B=is the Ride Captain
+0x3592163B=is the Ride Captain
+
+;0x391CF9AD=30 mins
+0x391CF9AD=30 mins
+
+;0x3BA95516=You are the Ride Captain. Stay alive until all the ~r~Angels of Death~s~ are dead.
+0x3BA95516=You are the Ride Captain. Stay alive until all the ~r~Angels of Death~s~ are dead.
+
+;0x3C656072=Take down the ~r~Road Captain.
+0x3C656072=Take down the ~r~Road Captain.
+
+;0x3DC34534=~r~A van was wrecked.
+0x3DC34534=~r~A van was wrecked.
+
+;0x4256C33A=transporting colors
+0x4256C33A=transporting colors
+
+;0x4F9CDD49=Steal the ~b~bikes.
+0x4F9CDD49=Steal the ~b~bikes.
+
+;0x5172B605=delivered Earl
+0x5172B605=delivered Earl
+
+;0x529583B8=Leave the bike ~y~here.
+0x529583B8=Leave the bike ~y~here.
+
+;0x58073603=~r~The old lady was killed.
+0x58073603=~r~The old lady was killed.
+
+;0x58326B68=Deliver the bike to the ~y~clubhouse.
+0x58326B68=Deliver the bike to the ~y~clubhouse.
+
+;0x5942B9FC=20 mins
+0x5942B9FC=20 mins
+
+;0x5DCA79A4=Enter the ~b~vans~s~ to rob them.
+0x5DCA79A4=Enter the ~b~vans~s~ to rob them.
+
+;0x5F39479F=delivered a bike
+0x5F39479F=delivered a bike
+
+;0x611173BA=Driving in convoy with the Ride Captain will give you health and money. The Captain will get health and money if everyone is in convoy with him.
+0x611173BA=Driving in convoy with the Ride Captain will give you health and money. The Captain will get health and money if everyone is in convoy with him.
+
+;0x640BAFBE=Pick up ~b~Earl.
+0x640BAFBE=Pick up ~b~Earl.
+
+;0x687853D5=Follow ~b~~e~~s~ to the clubhouse.
+0x687853D5=Follow ~b~~e~~s~ to the clubhouse.
+
+;0x6A6A5C4B=10 mins
+0x6A6A5C4B=10 mins
+
+;0x6CFC1807=Deal with the ~r~Angels of Death~s~ and protect ~b~The Lost.
+0x6CFC1807=Deal with the ~r~Angels of Death~s~ and protect ~b~The Lost.
+
+;0x6E0EB1E0=Murphy is dead. Pick up his ~b~colors.
+0x6E0EB1E0=Murphy is dead. Pick up his ~b~colors.
+
+;0x71B24B0B=Deal with the ~r~Angels of Death~s~ and protect ~b~The Lost.
+0x71B24B0B=Deal with the ~r~Angels of Death~s~ and protect ~b~The Lost.
+
+;0x74E8337D=~r~The bike was wrecked.
+0x74E8337D=~r~The bike was wrecked.
+
+;0x7A8B0FC5=You need a bike for this task.
+0x7A8B0FC5=You need a bike for this task.
+
+;0x7B8F1208=Get back in the ~b~transporter.
+0x7B8F1208=Get back in the ~b~transporter.
+
+;0x7BAE356B=Wipe out the ~r~Angels of Death~s~ before they leave Lost territory.
+0x7BAE356B=Wipe out the ~r~Angels of Death~s~ before they leave Lost territory.
+
+;0x7FC21287=killed Garrity
+0x7FC21287=killed Garrity
+
+;0x7FDE02DC=Follow ~b~~e~~s~ to the safehouse.
+0x7FDE02DC=Follow ~b~~e~~s~ to the safehouse.
+
+;0x81DB89AB=~r~Earl died.
+0x81DB89AB=~r~Earl died.
+
+;0x822B9BE3=Stand over the colors to pick them up.
+0x822B9BE3=Stand over the colors to pick them up.
+
+;0x82380BE6=$5000
+0x82380BE6=$5000
+
+;0x823FF261=delivered the transporter
+0x823FF261=delivered the transporter
+
+;0x860F4A21=Steal the ~b~bike.
+0x860F4A21=Steal the ~b~bike.
+
+;0x870ED7CA=~r~The colors were lost.
+0x870ED7CA=~r~The colors were lost.
+
+;0x88984F3F=Destroy the ~r~vans.
+0x88984F3F=Destroy the ~r~vans.
+
+;0x8C29FFFA=Protect ~b~~e~~s~ from the cops.
+0x8C29FFFA=Protect ~b~~e~~s~ from the cops.
+
+;0x8D0FEC22=Wait on foot ~y~here~s~ until Angus's buddy has taken the colors.
+0x8D0FEC22=Wait on foot ~y~here~s~ until Angus's buddy has taken the colors.
+
+;0x9244E0AF=robbed a van
+0x9244E0AF=robbed a van
+
+;0x94793E2E=Stop ~y~here~s~. Let ~b~Earl~s~ leave.
+0x94793E2E=Stop ~y~here~s~. Let ~b~Earl~s~ leave.
+
+;0x96C1EB92=Take out ~r~Murphy.
+0x96C1EB92=Take out ~r~Murphy.
+
+;0x97D4054B=escorting Earl
+0x97D4054B=escorting Earl
+
+;0x9B788994=killed an Angel of Death
+0x9B788994=killed an Angel of Death
+
+;0x9C515D5E=Go back for the ~b~old lady.
+0x9C515D5E=Go back for the ~b~old lady.
+
+;0x9D339B88=BUSINESS COMPLETE
+0x9D339B88=BUSINESS COMPLETE
+
+;0x9E418170=trashed a bike
+0x9E418170=trashed a bike
+
+;0xA0E15E55=The ~r~Angels of Death~s~ are going after the Ride Captain.
+0xA0E15E55=The ~r~Angels of Death~s~ are going after the Ride Captain.
+
+;0xA4C82FF9=Take Earl to the ~y~clubhouse.
+0xA4C82FF9=Take Earl to the ~y~clubhouse.
+
+;0xA56150B6=~r~The suspect was killed.
+0xA56150B6=~r~The suspect was killed.
+
+;0xA64D879D=Deliver the car to the ~y~safehouse.
+0xA64D879D=Deliver the car to the ~y~safehouse.
+
+;0xB06C2644=Duration
+0xB06C2644=Duration
+
+;0xB12F871A=Go back for ~b~Earl.
+0xB12F871A=Go back for ~b~Earl.
+
+;0xB4363FDC=Protect ~b~~e~~s~ from the ~r~Angels of Death.~s~
+0xB4363FDC=Protect ~b~~e~~s~ from the ~r~Angels of Death.~s~
+
+;0xB4BD6F6E=~r~A member of The Lost died.
+0xB4BD6F6E=~r~A member of The Lost died.
+
+;0xB5085010=destroyed a van
+0xB5085010=destroyed a van
+
+;0xB5385FA2=killed an Angel of Death
+0xB5385FA2=killed an Angel of Death
+
+;0xBA88D395=Leave the transporter ~y~here.
+0xBA88D395=Leave the transporter ~y~here.
+
+;0xBB6327B9=$20000
+0xBB6327B9=$20000
+
+;0xBC323445=Failed to participate in task
+0xBC323445=Failed to participate in task
+
+;0xC3411645=~r~Angus's buddy was killed.
+0xC3411645=~r~Angus's buddy was killed.
+
+;0xC4751ACE=got a car
+0xC4751ACE=got a car
+
+;0xC695626D=escorting the old lady
+0xC695626D=escorting the old lady
+
+;0xC914C31C=$25000
+0xC914C31C=$25000
+
+;0xCACA1D09=$15000
+0xCACA1D09=$15000
+
+;0xCD3F6D21=killed an Angel of Death
+0xCD3F6D21=killed an Angel of Death
+
+;0xCD480231=Take out ~r~Garrity.
+0xCD480231=Take out ~r~Garrity.
+
+;0xCEC2FC09=Leave the bike ~y~here.
+0xCEC2FC09=Leave the bike ~y~here.
+
+;0xD1719C45=Task complete
+0xD1719C45=Task complete
+
+;0xD1C63570=got the transporter
+0xD1C63570=got the transporter
+
+;0xD2219227=delivered the colors
+0xD2219227=delivered the colors
+
+;0xD594A048=Return to the ~y~clubhouse.
+0xD594A048=Return to the ~y~clubhouse.
+
+;0xD5B932E7=$10000
+0xD5B932E7=$10000
+
+;0xDA5A1B24=Take the old lady to the ~y~safehouse.
+0xDA5A1B24=Take the old lady to the ~y~safehouse.
+
+;0xDB5A67A7=$50000
+0xDB5A67A7=$50000
+
+;0xDF18D015=got a bike
+0xDF18D015=got a bike
+
+;0xDF398822=~r~A car was wrecked.
+0xDF398822=~r~A car was wrecked.
+
+;0xE3A0A5C4=Leave the car ~y~here.
+0xE3A0A5C4=Leave the car ~y~here.
+
+;0xE76ED652=$7500
+0xE76ED652=$7500
+
+;0xE7B26282=delivered the old lady
+0xE7B26282=delivered the old lady
+
+;0xE9259BF6=~r~A bike was wrecked.
+0xE9259BF6=~r~A bike was wrecked.
+
+;0xEACD279C=The Angels of Death are attacking. Protect your Brothers.
+0xEACD279C=The Angels of Death are attacking. Protect your Brothers.
+
+;0xECBA1479=Deliver the bike to the ~y~clubhouse.
+0xECBA1479=Deliver the bike to the ~y~clubhouse.
+
+;0xF7637976=Task failed
+0xF7637976=Task failed
+
+;0xFA1B72BF=killed an Angel of Death
+0xFA1B72BF=killed an Angel of Death
+
+;0xFA893EBD=~r~The transporter was wrecked.
+0xFA893EBD=~r~The transporter was wrecked.
+
+;0xFBCD644C=This task will involve some members leaving their bikes for other transport - share rides on your way to the objective.
+0xFBCD644C=This task will involve some members leaving their bikes for other transport - share rides on your way to the objective.
+
+;0xFE15039E=$2500
+0xFE15039E=$2500
+

@@ -1,0 +1,697 @@
+﻿[E1A1AUD]
+;0x009A0850=~z~You sure have got a lot of friends, Ash. Wait while I take care of 'em.
+0x009A0850=~z~You sure have got a lot of friends, Ash. Wait while I take care of 'em.
+
+;0x0292BBE4=~z~There you are.
+0x0292BBE4=~z~There you are.
+
+;0x046B8A31=E1A1_HC
+0x046B8A31=E1A1_HC
+
+;0x054F28FB=~z~Hold tight.
+0x054F28FB=~z~Hold tight.
+
+;0x05917405=100
+0x05917405=100
+
+;0x060C4452=~z~Yeah, everything in my life's fucking fantastic.
+0x060C4452=~z~Yeah, everything in my life's fucking fantastic.
+
+;0x06588DBB=~z~I remember when you used to mess around at my place,
+0x06588DBB=~z~I remember when you used to mess around at my place,
+
+;0x0699157F=~z~You ain't good for me, sugar. That's all I know.
+0x0699157F=~z~You ain't good for me, sugar. That's all I know.
+
+;0x06C12DDB=~z~Johnny, Johnny, they're gonna hurt me bad.
+0x06C12DDB=~z~Johnny, Johnny, they're gonna hurt me bad.
+
+;0x07804487=SFX_PAUSE_230
+0x07804487=SFX_PAUSE_230
+
+;0x0A34B6F5=~z~Just look for the strung-out tweekers. Please. Come on, baby.
+0x0A34B6F5=~z~Just look for the strung-out tweekers. Please. Come on, baby.
+
+;0x0A478F06=~z~He's crazy, Johnny. The ice has really screwed up his shit.
+0x0A478F06=~z~He's crazy, Johnny. The ice has really screwed up his shit.
+
+;0x0D8BCE46=E1A1_GA
+0x0D8BCE46=E1A1_GA
+
+;0x0D8FD0ED=~z~Not the Billy that made me want to lead this life in the first place.
+0x0D8FD0ED=~z~Not the Billy that made me want to lead this life in the first place.
+
+;0x0E131748=100
+0x0E131748=100
+
+;0x0ED9212C=E1A1_HB
+0x0ED9212C=E1A1_HB
+
+;0x0F2E8919=~z~Not now, honey. I ain't feelin' so good.
+0x0F2E8919=~z~Not now, honey. I ain't feelin' so good.
+
+;0x0F78133A=SFX_PAUSE_440
+0x0F78133A=SFX_PAUSE_440
+
+;0x0FD25DDB=SFX_PAUSE_350
+0x0FD25DDB=SFX_PAUSE_350
+
+;0x1026AB12=~z~Enough of that.
+0x1026AB12=~z~Enough of that.
+
+;0x108E55DB=E1A1_NG
+0x108E55DB=E1A1_NG
+
+;0x12563E33=~z~I guess it was dumb of me to think this would be any different.
+0x12563E33=~z~I guess it was dumb of me to think this would be any different.
+
+;0x151B3986=E1A1_JA
+0x151B3986=E1A1_JA
+
+;0x1554C35E=010
+0x1554C35E=010
+
+;0x161CE578=E1A1_NI
+0x161CE578=E1A1_NI
+
+;0x1660A8F7=E1A1_VF
+0x1660A8F7=E1A1_VF
+
+;0x166AE3B7=SFX_PAUSE_330
+0x166AE3B7=SFX_PAUSE_330
+
+;0x175332D7=E1A1_ND
+0x175332D7=E1A1_ND
+
+;0x176CF00E=E1A1_LA
+0x176CF00E=E1A1_LA
+
+;0x1A81C138=~z~Filthy, filthy, fucking whore.
+0x1A81C138=~z~Filthy, filthy, fucking whore.
+
+;0x1B6CC99A=E1A1_WD
+0x1B6CC99A=E1A1_WD
+
+;0x1C879F20=E1A1_NN
+0x1C879F20=E1A1_NN
+
+;0x1CEB5361=~z~Thanks for saving me again.
+0x1CEB5361=~z~Thanks for saving me again.
+
+;0x1F4BB912=~z~I thought you and Tina weren't friends no more.
+0x1F4BB912=~z~I thought you and Tina weren't friends no more.
+
+;0x1FAB74C9=E1A1_GB
+0x1FAB74C9=E1A1_GB
+
+;0x2007C72B=~z~Hold on baby, let me handle this.
+0x2007C72B=~z~Hold on baby, let me handle this.
+
+;0x204DAB40=E1A1_NL
+0x204DAB40=E1A1_NL
+
+;0x24182B8B=~z~That's enough now, sugar.
+0x24182B8B=~z~That's enough now, sugar.
+
+;0x251A0595=SFX_PAUSE_310
+0x251A0595=SFX_PAUSE_310
+
+;0x25E8EC32=E1A1_WB
+0x25E8EC32=E1A1_WB
+
+;0x28D2859F=E1A1_VL
+0x28D2859F=E1A1_VL
+
+;0x2992DF1A=~z~Take me home man, I'm crashing hard.
+0x2992DF1A=~z~Take me home man, I'm crashing hard.
+
+;0x2A680BEE=SFX_PAUSE_390
+0x2A680BEE=SFX_PAUSE_390
+
+;0x2AA54006=~z~I did, Johnny boy. I did.
+0x2AA54006=~z~I did, Johnny boy. I did.
+
+;0x2AAF1DB8=200
+0x2AAF1DB8=200
+
+;0x2B4250FB=~z~I'm on my way, baby. You still in this fix?
+0x2B4250FB=~z~I'm on my way, baby. You still in this fix?
+
+;0x2B461305=~z~My boyfriends gonna splatter your brains across this place!
+0x2B461305=~z~My boyfriends gonna splatter your brains across this place!
+
+;0x2C56A932=E1A1_VE
+0x2C56A932=E1A1_VE
+
+;0x2CA96587=~z~Oh man, oh man, oh man.
+0x2CA96587=~z~Oh man, oh man, oh man.
+
+;0x2E4599C0=SFX_PAUSE_200
+0x2E4599C0=SFX_PAUSE_200
+
+;0x2ECA1A86=E1A1_WF
+0x2ECA1A86=E1A1_WF
+
+;0x2F29F7DE=~z~I love you, Johnny.
+0x2F29F7DE=~z~I love you, Johnny.
+
+;0x303576B1=~z~And you are ridiculous.
+0x303576B1=~z~And you are ridiculous.
+
+;0x30740EE9=100
+0x30740EE9=100
+
+;0x307ADAA4=~z~I'm here Ashley, don't worry.
+0x307ADAA4=~z~I'm here Ashley, don't worry.
+
+;0x31787F53=SFX_PAUSE_370
+0x31787F53=SFX_PAUSE_370
+
+;0x32343C4D=~z~God, Ashley. Sometimes I wish I didn't care about you.
+0x32343C4D=~z~God, Ashley. Sometimes I wish I didn't care about you.
+
+;0x3316EDB6=~z~Hit me.
+0x3316EDB6=~z~Hit me.
+
+;0x375B3FF5=~z~Shit, Johnny. I don't know. It had a red door. Hurry up, I'm crashing hard.
+0x375B3FF5=~z~Shit, Johnny. I don't know. It had a red door. Hurry up, I'm crashing hard.
+
+;0x378638BF=SFX_PAUSE_420
+0x378638BF=SFX_PAUSE_420
+
+;0x385FDB77=~z~I never lied to you.
+0x385FDB77=~z~I never lied to you.
+
+;0x38BC7282=~z~Come 'ere.
+0x38BC7282=~z~Come 'ere.
+
+;0x38F0FCA6=~z~Hit me or something. Teach me I'm wrong.
+0x38F0FCA6=~z~Hit me or something. Teach me I'm wrong.
+
+;0x3A22082C=SFX_PAUSE_190
+0x3A22082C=SFX_PAUSE_190
+
+;0x3AC766F3=E1A1_NM
+0x3AC766F3=E1A1_NM
+
+;0x3B08E0C9=~z~Come on, baby. That's crap and you know it.
+0x3B08E0C9=~z~Come on, baby. That's crap and you know it.
+
+;0x3B1418E0=E1A1_WC
+0x3B1418E0=E1A1_WC
+
+;0x3B6A2FF5=SFX_PAUSE_790
+0x3B6A2FF5=SFX_PAUSE_790
+
+;0x3C4311A7=100
+0x3C4311A7=100
+
+;0x3CD8EF63=E1A1_NF
+0x3CD8EF63=E1A1_NF
+
+;0x3F61348F=~z~Don't you know? Haven't you two been seeing anything of each other?
+0x3F61348F=~z~Don't you know? Haven't you two been seeing anything of each other?
+
+;0x40EF6C9A=~z~I promise.
+0x40EF6C9A=~z~I promise.
+
+;0x41903F99=~z~I'm not paying you a fucking cent.
+0x41903F99=~z~I'm not paying you a fucking cent.
+
+;0x42367E1B=~z~John boy's here for you, baby.
+0x42367E1B=~z~John boy's here for you, baby.
+
+;0x43398207=~z~You alright?
+0x43398207=~z~You alright?
+
+;0x4430C528=012
+0x4430C528=012
+
+;0x474B7A99=E1A1_TA
+0x474B7A99=E1A1_TA
+
+;0x47DDF6C4=SFX_PAUSE_190
+0x47DDF6C4=SFX_PAUSE_190
+
+;0x47EE2D22=E1A1_VH
+0x47EE2D22=E1A1_VH
+
+;0x49B2C82E=~z~You're funny, Johnny. You care about everyone else when they're fine. And you end up tying yourself in a knot.
+0x49B2C82E=~z~You're funny, Johnny. You care about everyone else when they're fine. And you end up tying yourself in a knot.
+
+;0x4A871617=~z~What's wrong?
+0x4A871617=~z~What's wrong?
+
+;0x4AA6E68C=~z~I'm close. Which apartment are you in?
+0x4AA6E68C=~z~I'm close. Which apartment are you in?
+
+;0x4B5AA2ED=~z~Bitch, bitch, bitch, bitch, bitch.
+0x4B5AA2ED=~z~Bitch, bitch, bitch, bitch, bitch.
+
+;0x4BE81F54=~z~Teach me, baby. It's the only way I'll learn. Make me hurt.
+0x4BE81F54=~z~Teach me, baby. It's the only way I'll learn. Make me hurt.
+
+;0x4C04CC77=SFX_PAUSE_210
+0x4C04CC77=SFX_PAUSE_210
+
+;0x4C74E981=SFX_PAUSE_470
+0x4C74E981=SFX_PAUSE_470
+
+;0x4CF03295=~z~Home, sweet home.
+0x4CF03295=~z~Home, sweet home.
+
+;0x4D365CC0=E1A1_KA
+0x4D365CC0=E1A1_KA
+
+;0x4EDABE15=~z~Can't you hear us? These freaks are partying real hard, man. Please.
+0x4EDABE15=~z~Can't you hear us? These freaks are partying real hard, man. Please.
+
+;0x541312E1=~z~Nice place you got here, sugar.
+0x541312E1=~z~Nice place you got here, sugar.
+
+;0x55D7F402=E1A1_GC
+0x55D7F402=E1A1_GC
+
+;0x56588179=190
+0x56588179=190
+
+;0x5AE7D471=SFX_PAUSE_270
+0x5AE7D471=SFX_PAUSE_270
+
+;0x5AEEA2A5=E1A1_NO
+0x5AEEA2A5=E1A1_NO
+
+;0x5C03E9C1=E1A1_VM
+0x5C03E9C1=E1A1_VM
+
+;0x5D0CF0CB=~z~Get me out of here, baby.
+0x5D0CF0CB=~z~Get me out of here, baby.
+
+;0x5D603BC9=~z~I don't want to hang out here.
+0x5D603BC9=~z~I don't want to hang out here.
+
+;0x62F6D0C5=~z~Sure, sure. Do you expect me to stay clean when you're not there to look after me?
+0x62F6D0C5=~z~Sure, sure. Do you expect me to stay clean when you're not there to look after me?
+
+;0x63F53E4D=100090010090100
+0x63F53E4D=100090010090100
+
+;0x6413FDF4=~z~No... yeah. He's around, isn't he?
+0x6413FDF4=~z~No... yeah. He's around, isn't he?
+
+;0x65F6E573=~z~I'm sorry. I know I ain't much,
+0x65F6E573=~z~I'm sorry. I know I ain't much,
+
+;0x660C8442=SFX_PAUSE_180
+0x660C8442=SFX_PAUSE_180
+
+;0x676E5B14=~z~M - m - motherfucker.
+0x676E5B14=~z~M - m - motherfucker.
+
+;0x682CF343=E1A1_VG
+0x682CF343=E1A1_VG
+
+;0x695F544E=E1A1_NE
+0x695F544E=E1A1_NE
+
+;0x6A01892A=SFX_PAUSE_160
+0x6A01892A=SFX_PAUSE_160
+
+;0x6F21DF4C=~z~Can we go?
+0x6F21DF4C=~z~Can we go?
+
+;0x735A3CA5=010
+0x735A3CA5=010
+
+;0x74066F27=~z~Stay cool, Ash. Let Daddy take care of this.
+0x74066F27=~z~Stay cool, Ash. Let Daddy take care of this.
+
+;0x743F87CE=SFX_PAUSE_200
+0x743F87CE=SFX_PAUSE_200
+
+;0x74CC07E7=E1A1_WA
+0x74CC07E7=E1A1_WA
+
+;0x75701FB0=~z~Fuck you, Ashley. I ain't changed. I stuck to the code I set myself.
+0x75701FB0=~z~Fuck you, Ashley. I ain't changed. I stuck to the code I set myself.
+
+;0x75E0567B=~z~I thought you'd said you stopped smoking that stuff?
+0x75E0567B=~z~I thought you'd said you stopped smoking that stuff?
+
+;0x78C0FDB9=~z~You set us up, bitch.
+0x78C0FDB9=~z~You set us up, bitch.
+
+;0x7B0E3270=E1A1_IB
+0x7B0E3270=E1A1_IB
+
+;0x7B8DF195=~z~I can't talk about this now. Lecture me all you like later on, but right now, I need help. Please, sugar.
+0x7B8DF195=~z~I can't talk about this now. Lecture me all you like later on, but right now, I need help. Please, sugar.
+
+;0x7B94FA3D=SFX_PAUSE_450
+0x7B94FA3D=SFX_PAUSE_450
+
+;0x7C833BC3=SFX_PAUSE_160
+0x7C833BC3=SFX_PAUSE_160
+
+;0x7D84F202=SFX_PAUSE_190
+0x7D84F202=SFX_PAUSE_190
+
+;0x7F79390A=E1A1_IA
+0x7F79390A=E1A1_IA
+
+;0x8019516C=~z~You here, Johnny?
+0x8019516C=~z~You here, Johnny?
+
+;0x804716CF=~z~You, me and that little habit of yours.
+0x804716CF=~z~You, me and that little habit of yours.
+
+;0x80AD1ADF=~z~We can... we can live better than this.
+0x80AD1ADF=~z~We can... we can live better than this.
+
+;0x818CD184=E1A1_NK
+0x818CD184=E1A1_NK
+
+;0x81E14042=~z~Ahhhhhhh!
+0x81E14042=~z~Ahhhhhhh!
+
+;0x83522E29=SFX_PAUSE_620
+0x83522E29=SFX_PAUSE_620
+
+;0x854BC74F=E1A1_VD
+0x854BC74F=E1A1_VD
+
+;0x864EC16D=~z~You try and live by what makes sense, take your own path and it burns you out.
+0x864EC16D=~z~You try and live by what makes sense, take your own path and it burns you out.
+
+;0x87A4B0F8=SFX_PAUSE_200
+0x87A4B0F8=SFX_PAUSE_200
+
+;0x88A443D9=SFX_PAUSE_310
+0x88A443D9=SFX_PAUSE_310
+
+;0x893B4866=~z~So, Billy's back. How's things?
+0x893B4866=~z~So, Billy's back. How's things?
+
+;0x8BF49CBC=SFX_PAUSE_200
+0x8BF49CBC=SFX_PAUSE_200
+
+;0x8EB1754A=~z~Oh, baby. You don't mean that, do you? You're all I've got.
+0x8EB1754A=~z~Oh, baby. You don't mean that, do you? You're all I've got.
+
+;0x8FEA9B68=~z~How long you been up? Two days? Three?
+0x8FEA9B68=~z~How long you been up? Two days? Three?
+
+;0x90419A30=~z~I've come for you, baby. Don't worry no more.
+0x90419A30=~z~I've come for you, baby. Don't worry no more.
+
+;0x926EBE62=~z~Hey, you know what? We're better than this.
+0x926EBE62=~z~Hey, you know what? We're better than this.
+
+;0x9506E04A=E1A1_VK
+0x9506E04A=E1A1_VK
+
+;0x951D1805=010090100090010090100090010090100090010090100090100090010090100090010090100090010090100090010090
+0x951D1805=010090100090010090100090010090100090010090100090100090010090100090010090100090010090100090010090
+
+;0x965D512E=100090010090100
+0x965D512E=100090010090100
+
+;0x96BB2E7E=~z~You sure know how to get yourself into trouble, don't ya baby?
+0x96BB2E7E=~z~You sure know how to get yourself into trouble, don't ya baby?
+
+;0x97A76996=E1A1_VC
+0x97A76996=E1A1_VC
+
+;0x99AF6FDE=~z~This is so not fucking cool.
+0x99AF6FDE=~z~This is so not fucking cool.
+
+;0x9B1E0E23=~z~Well, you lost me to it.
+0x9B1E0E23=~z~Well, you lost me to it.
+
+;0x9C6E4007=SFX_PAUSE_350
+0x9C6E4007=SFX_PAUSE_350
+
+;0x9D01D388=~z~Yeah, yeah.
+0x9D01D388=~z~Yeah, yeah.
+
+;0x9E9D44C5=~z~Give me a break, sweetheart. I used to fucking love you.
+0x9E9D44C5=~z~Give me a break, sweetheart. I used to fucking love you.
+
+;0xA01EE1BE=SFX_PAUSE_800
+0xA01EE1BE=SFX_PAUSE_800
+
+;0xA1A47B5C=E1A1_VB
+0xA1A47B5C=E1A1_VB
+
+;0xA43646BA=E1A1_SA
+0xA43646BA=E1A1_SA
+
+;0xA79C1996=E1A1_OA
+0xA79C1996=E1A1_OA
+
+;0xA9A88A11=~z~Johnny, boy. I knew you'd come for me.
+0xA9A88A11=~z~Johnny, boy. I knew you'd come for me.
+
+;0xAB405213=~z~I'm with you now, Johnny boy. How could I not be?
+0xAB405213=~z~I'm with you now, Johnny boy. How could I not be?
+
+;0xAD53EFC6=E1A1_WE
+0xAD53EFC6=E1A1_WE
+
+;0xAD840DDC=SFX_PAUSE_8000
+0xAD840DDC=SFX_PAUSE_8000
+
+;0xB19D3E6A=010090100090010090100090010090100090010090100090010090010090100090100090010090010090100090010
+0xB19D3E6A=010090100090010090100090010090100090010090100090010090010090100090100090010090010090100090010
+
+;0xB1A59E67=E1A1_NH
+0xB1A59E67=E1A1_NH
+
+;0xB3394353=100090010090100
+0xB3394353=100090010090100
+
+;0xB42B24D5=~z~Help me! Help me!
+0xB42B24D5=~z~Help me! Help me!
+
+;0xB4E9A3DB=SFX_PAUSE_520
+0xB4E9A3DB=SFX_PAUSE_520
+
+;0xB5EE68F4=SFX_PAUSE_520
+0xB5EE68F4=SFX_PAUSE_520
+
+;0xB75E0848=~z~If you say so.
+0xB75E0848=~z~If you say so.
+
+;0xB8B46B15=~z~Baby, baby I'm here.
+0xB8B46B15=~z~Baby, baby I'm here.
+
+;0xB9492952=~z~My baby's here.
+0xB9492952=~z~My baby's here.
+
+;0xBA02750C=~z~And you sure know how to get me out, Johnny.
+0xBA02750C=~z~And you sure know how to get me out, Johnny.
+
+;0xBAAE75CB=SFX_PAUSE_250
+0xBAAE75CB=SFX_PAUSE_250
+
+;0xBB000D22=~z~Either I'm trippin' or we're fucked. Look out, baby.
+0xBB000D22=~z~Either I'm trippin' or we're fucked. Look out, baby.
+
+;0xBBD5AC7A=~z~Oh, man, Johnny. You keep talking about how people have changed.
+0xBBD5AC7A=~z~Oh, man, Johnny. You keep talking about how people have changed.
+
+;0xBE77B19E=SFX_PAUSE_370
+0xBE77B19E=SFX_PAUSE_370
+
+;0xBFEE2EB2=~z~You alright?
+0xBFEE2EB2=~z~You alright?
+
+;0xC1BF8971=E1A1_NC
+0xC1BF8971=E1A1_NC
+
+;0xC5E18BF6=SFX_PAUSE_170
+0xC5E18BF6=SFX_PAUSE_170
+
+;0xC935A991=~z~Fuck, oh fuck, oh fuck! More of 'em, Johnny K!
+0xC935A991=~z~Fuck, oh fuck, oh fuck! More of 'em, Johnny K!
+
+;0xC93EA99F=~z~Johnny, Johnny, there's more of them!
+0xC93EA99F=~z~Johnny, Johnny, there's more of them!
+
+;0xC983AC93=~z~but I'm all yours. You do know that, baby, don't you?
+0xC983AC93=~z~but I'm all yours. You do know that, baby, don't you?
+
+;0xCA978EDB=~z~Ash babe, your white knight is here.
+0xCA978EDB=~z~Ash babe, your white knight is here.
+
+;0xCBD49700=SFX_PAUSE_640
+0xCBD49700=SFX_PAUSE_640
+
+;0xCF43B757=E1A1_VJ
+0xCF43B757=E1A1_VJ
+
+;0xD00654DB=~z~Don't you think maybe you're the one who's different?
+0xD00654DB=~z~Don't you think maybe you're the one who's different?
+
+;0xD15C1D30=~z~Johnny, what's happening?
+0xD15C1D30=~z~Johnny, what's happening?
+
+;0xD260BB05=~z~Take that bike. We'll ride off into the sunset, you and me.
+0xD260BB05=~z~Take that bike. We'll ride off into the sunset, you and me.
+
+;0xD351C924=~z~I need more information, Ash.
+0xD351C924=~z~I need more information, Ash.
+
+;0xD3CD9250=~z~I never lied to you when I was sober.
+0xD3CD9250=~z~I never lied to you when I was sober.
+
+;0xD421C1CF=~z~Yeah, well let's hope so.
+0xD421C1CF=~z~Yeah, well let's hope so.
+
+;0xD4D4A355=~z~These guys can't hurt you no more, baby.
+0xD4D4A355=~z~These guys can't hurt you no more, baby.
+
+;0xD5CE6163=E1A1_VA
+0xD5CE6163=E1A1_VA
+
+;0xD5ED03C0=~z~I told you. I'm not friends with Tina no more. I ain't gonna lose me to meth..
+0xD5ED03C0=~z~I told you. I'm not friends with Tina no more. I ain't gonna lose me to meth..
+
+;0xD6A3380C=~z~Okay, I'm bad, baby. I'm bad. I know it. You should teach me a lesson.
+0xD6A3380C=~z~Okay, I'm bad, baby. I'm bad. I know it. You should teach me a lesson.
+
+;0xD786B168=SFX_PAUSE_190
+0xD786B168=SFX_PAUSE_190
+
+;0xD78AB69F=~z~You're making yourself hurt already, you fucking idiot.
+0xD78AB69F=~z~You're making yourself hurt already, you fucking idiot.
+
+;0xD8F42D7A=~z~It ain't good for you, you know that.
+0xD8F42D7A=~z~It ain't good for you, you know that.
+
+;0xD9F2252F=E1A1_RA
+0xD9F2252F=E1A1_RA
+
+;0xDD1EDA97=~z~Don't worry, Ash. I'm coming. I just need some help finding it.
+0xDD1EDA97=~z~Don't worry, Ash. I'm coming. I just need some help finding it.
+
+;0xDE174BBD=E1A1_NA
+0xDE174BBD=E1A1_NA
+
+;0xDE547927=~z~Fuck! Will somebody fucking help me!
+0xDE547927=~z~Fuck! Will somebody fucking help me!
+
+;0xDEC03730=~z~Ash babe, where are ya?
+0xDEC03730=~z~Ash babe, where are ya?
+
+;0xDF7875B0=~z~Baby, baby. You came.
+0xDF7875B0=~z~Baby, baby. You came.
+
+;0xE322C750=~z~I don't wanna hang here neither.
+0xE322C750=~z~I don't wanna hang here neither.
+
+;0xE32CDD19=E1A1_VI
+0xE32CDD19=E1A1_VI
+
+;0xE3EA979A=E1A1_UA
+0xE3EA979A=E1A1_UA
+
+;0xE461C7FA=E1A1_IC
+0xE461C7FA=E1A1_IC
+
+;0xE47CE3E9=E1A1_VO
+0xE47CE3E9=E1A1_VO
+
+;0xE49E5F80=~z~Say the word, honey.
+0xE49E5F80=~z~Say the word, honey.
+
+;0xE59E537E=E1A1_NB
+0xE59E537E=E1A1_NB
+
+;0xE8271DE7=E1A1_VP
+0xE8271DE7=E1A1_VP
+
+;0xE83B3540=SFX_PAUSE_490
+0xE83B3540=SFX_PAUSE_490
+
+;0xEAA3BFFC=~z~Well, my whole life's falling to shit, sweetheart.
+0xEAA3BFFC=~z~Well, my whole life's falling to shit, sweetheart.
+
+;0xEAE30B94=~z~Something's around. Not the Billy I knew.
+0xEAE30B94=~z~Something's around. Not the Billy I knew.
+
+;0xEE1B727A=~z~You're my habit, Johnny.
+0xEE1B727A=~z~You're my habit, Johnny.
+
+;0xEEC3800F=~z~I can't wait much longer, sugar.
+0xEEC3800F=~z~I can't wait much longer, sugar.
+
+;0xEF9ACC36=SFX_PAUSE_180
+0xEF9ACC36=SFX_PAUSE_180
+
+;0xF1614C78=SFX_PAUSE_190
+0xF1614C78=SFX_PAUSE_190
+
+;0xF26E6A97=E1A1_HA
+0xF26E6A97=E1A1_HA
+
+;0xF2F01C9F=~z~I'm scared, Johnny.
+0xF2F01C9F=~z~I'm scared, Johnny.
+
+;0xF326F113=~z~Maybe if you answered your calls... fuck. Whatever.
+0xF326F113=~z~Maybe if you answered your calls... fuck. Whatever.
+
+;0xF38072F6=~z~that don't happen any more either.
+0xF38072F6=~z~that don't happen any more either.
+
+;0xF3D7972A=E1A1_VN
+0xF3D7972A=E1A1_VN
+
+;0xF3E8E8DC=~z~Then again, I'm not the one messing up my head on a week long ice binge.
+0xF3E8E8DC=~z~Then again, I'm not the one messing up my head on a week long ice binge.
+
+;0xF457E441=~z~Who's counting?
+0xF457E441=~z~Who's counting?
+
+;0xF4A24CA0=~z~That hurts real good, Johnny.
+0xF4A24CA0=~z~That hurts real good, Johnny.
+
+;0xF4AD96EE=E1A1_NJ
+0xF4AD96EE=E1A1_NJ
+
+;0xF57A1B7B=SFX_PAUSE_580
+0xF57A1B7B=SFX_PAUSE_580
+
+;0xF5B1F631=E1A1_NA
+0xF5B1F631=E1A1_NA
+
+;0xF770DAD7=SFX_PAUSE_290
+0xF770DAD7=SFX_PAUSE_290
+
+;0xF815239D=SFX_PAUSE_550
+0xF815239D=SFX_PAUSE_550
+
+;0xF96CCABF=~z~Me and the crystal, of course.
+0xF96CCABF=~z~Me and the crystal, of course.
+
+;0xF9BB7B00=~z~You're too sweet for words, Johnny boy. You think I'm sweet, too?
+0xF9BB7B00=~z~You're too sweet for words, Johnny boy. You think I'm sweet, too?
+
+;0xFB532BC9=SFX_PAUSE_370
+0xFB532BC9=SFX_PAUSE_370
+
+;0xFE170863=~z~Click, tick, tock, click. Ahhh.
+0xFE170863=~z~Click, tick, tock, click. Ahhh.
+
+;0xFE5F28D5=100090010090100090010090100090010
+0xFE5F28D5=100090010090100090010090100090010
+
+;0xFE70603C=~z~Gentle, baby. I'm only little.
+0xFE70603C=~z~Gentle, baby. I'm only little.
+
+;0xFF44BBB8=E1A1_NP
+0xFF44BBB8=E1A1_NP
+
+;0xFFCB7942=~z~It's over, Ashley. I'm here.
+0xFFCB7942=~z~It's over, Ashley. I'm here.
+

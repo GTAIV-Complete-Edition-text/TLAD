@@ -1,0 +1,40 @@
+﻿[ELIZA_2]
+;0x08E2C267=Clear the area of ~r~cops~s~ so you can get Marta out safely.
+0x08E2C267=Clear the area of ~r~cops~s~ so you can get Marta out safely.
+
+;0x0C84C9E3=Take the drug mule to ~y~Elizabeta.~s~
+0x0C84C9E3=Take the drug mule to ~y~Elizabeta.~s~
+
+;0x1AD2E67F=~r~You have lost the drug mule.~s~
+0x1AD2E67F=~r~You have lost the drug mule.~s~
+
+;0x1B2466EA=~s~You have picked up Marta. Lose the cops.~s~
+0x1B2466EA=~s~You have picked up Marta. Lose the cops.~s~
+
+;0x86C0C0AF=During this police chase, when you are in any vehicle hold ~INPUT_VEH_CIN_CAM~ to change the camera to show the helicopter view.
+0x86C0C0AF=During this police chase, when you are in any vehicle hold ~INPUT_VEH_CIN_CAM~ to change the camera to show the helicopter view.
+
+;0xA4B0FC8F=Lose the police chopper.
+0xA4B0FC8F=Lose the police chopper.
+
+;0xA517FAD7=Lose the cops.
+0xA517FAD7=Lose the cops.
+
+;0xB6C59E32=You are too far away from ~b~Marta.~s~ Go back and pick her up.
+0xB6C59E32=You are too far away from ~b~Marta.~s~ Go back and pick her up.
+
+;0xBA06A73A=~r~Marta has been arrested.~s~
+0xBA06A73A=~r~Marta has been arrested.~s~
+
+;0xD343572D=Go to the ~y~airport~s~ and pick up the drug mule.
+0xD343572D=Go to the ~y~airport~s~ and pick up the drug mule.
+
+;0xED3B0B18=~s~Go get ~b~Marta.~s~
+0xED3B0B18=~s~Go get ~b~Marta.~s~
+
+;0xEDD10C7C=~r~The drug mule is dead.~s~
+0xEDD10C7C=~r~The drug mule is dead.~s~
+
+;0xFF8BAFF1=Wait for for Marta.
+0xFF8BAFF1=Wait for for Marta.
+
