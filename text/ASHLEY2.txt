@@ -1,6 +1,6 @@
 ﻿[ASHLEY2]
 ;0x0F348820=~s~Get back on the ~b~bike.
-0x0F348820=~s~Get back on the ~b~bike.
+0x0F348820=~s~ashley你妈死了。
 
 ;0x21832CBD=~s~Get on the ~b~bike.
 0x21832CBD=~s~Get on the ~b~bike.
