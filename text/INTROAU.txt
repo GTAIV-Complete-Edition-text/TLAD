@@ -1,0 +1,115 @@
+﻿[INTROAU]
+;0x05119ED3=~z~It's about time.
+0x05119ED3=~z~It's about time.
+
+;0x0CC036D9=~z~Keep it up, I'm gonna push you down these stairs.
+0x0CC036D9=~z~Keep it up, I'm gonna push you down these stairs.
+
+;0x1086B5BD=~z~Home sweet home.
+0x1086B5BD=~z~Home sweet home.
+
+;0x1615C984=~z~Hold on little buddy.
+0x1615C984=~z~Hold on little buddy.
+
+;0x1BA34CE6=~z~I've changed. And you know what, Chad?
+0x1BA34CE6=~z~I've changed. And you know what, Chad?
+
+;0x25E6616C=~z~Was very willful, Chad, was very willful.
+0x25E6616C=~z~Was very willful, Chad, was very willful.
+
+;0x3AD48A58=~z~Here you go.
+0x3AD48A58=~z~Here you go.
+
+;0x4F1BB3D2=~z~Hey, stay in touch!
+0x4F1BB3D2=~z~Hey, stay in touch!
+
+;0x5563B3D6=~z~Yes, Daddy.
+0x5563B3D6=~z~Yes, Daddy.
+
+;0x60DAD664=~z~Yo.
+0x60DAD664=~z~Yo.
+
+;0x65D40F33=~z~If I had it my way, we wouldn't waste our time - you'd be inside already.
+0x65D40F33=~z~If I had it my way, we wouldn't waste our time - you'd be inside already.
+
+;0x67115731=~z~You, stay out of trouble.
+0x67115731=~z~You, stay out of trouble.
+
+;0x6C72E1F8=~z~I know, Chad. I know. It's a disease.
+0x6C72E1F8=~z~I know, Chad. I know. It's a disease.
+
+;0x733EAA10=~z~I believe in this man.
+0x733EAA10=~z~I believe in this man.
+
+;0x7400AB8C=~z~Yes, sir.
+0x7400AB8C=~z~Yes, sir.
+
+;0x781A05D2=~z~In fact, I'm praying right now.
+0x781A05D2=~z~In fact, I'm praying right now.
+
+;0x814CC624=~z~His share on willfulness was one of the most powerful things I've ever heard.
+0x814CC624=~z~His share on willfulness was one of the most powerful things I've ever heard.
+
+;0x8B0E9F2F=~z~God works in mysterious ways.
+0x8B0E9F2F=~z~God works in mysterious ways.
+
+;0x8BC0A093=~z~Well, let's hope you don't live to regret that faith.
+0x8BC0A093=~z~Well, let's hope you don't live to regret that faith.
+
+;0x8FB662F7=~z~Mr. Grey has made great progress.
+0x8FB662F7=~z~Mr. Grey has made great progress.
+
+;0x9E16453E=~z~Yes sir.
+0x9E16453E=~z~Yes sir.
+
+;0x9F90D4B7=~z~Gentlemen, shall we get the fuck out of here?
+0x9F90D4B7=~z~Gentlemen, shall we get the fuck out of here?
+
+;0xAD0A1D9E=~z~You do understand what probation means?
+0xAD0A1D9E=~z~You do understand what probation means?
+
+;0xB06169D4=~z~Excuse me?
+0xB06169D4=~z~Excuse me?
+
+;0xBF259BA5=~z~Alright, everybody, c'mon. Break it up, let's go.
+0xBF259BA5=~z~Alright, everybody, c'mon. Break it up, let's go.
+
+;0xBF40941E=~z~Meetings every day.
+0xBF40941E=~z~Meetings every day.
+
+;0xC88DD4A5=~z~It means that if you continue down that same path,
+0xC88DD4A5=~z~It means that if you continue down that same path,
+
+;0xC9432823=~z~You changed me.
+0xC9432823=~z~You changed me.
+
+;0xD7AF72E8=~z~Uh... yes sir.
+0xD7AF72E8=~z~Uh... yes sir.
+
+;0xE012DD7F=~z~-Come on guys, come on let's go.~n~-Alright man...
+0xE012DD7F=~z~-Come on guys, come on let's go.~n~-Alright man...
+
+;0xE469DE70=~z~Pray. I pray.
+0xE469DE70=~z~Pray. I pray.
+
+;0xE73BD788=~z~but I'll leave the salvation to you gentlemen.
+0xE73BD788=~z~but I'll leave the salvation to you gentlemen.
+
+;0xED7F709B=~z~Call you if I feel the need to use.
+0xED7F709B=~z~Call you if I feel the need to use.
+
+;0xF0EE7F36=~z~See ya, fuck.
+0xF0EE7F36=~z~See ya, fuck.
+
+;0xF32E29E5=~z~you'll be locked up and calling some cellmate Daddy within a month.
+0xF32E29E5=~z~you'll be locked up and calling some cellmate Daddy within a month.
+
+;0xF82C85F9=~z~You're very willful.
+0xF82C85F9=~z~You're very willful.
+
+;0xF954FBBA=~z~In this case, it seems God is down right perverse,
+0xF954FBBA=~z~In this case, it seems God is down right perverse,
+
+;0xFD9D844F=~z~Remember. It's a disease.
+0xFD9D844F=~z~Remember. It's a disease.
+

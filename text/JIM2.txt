@@ -1,0 +1,115 @@
+﻿[JIM2]
+;0x05D2AF41=~r~You've lost the cops.
+0x05D2AF41=~r~You've lost the cops.
+
+;0x0FF9416A=Use ~INPUT_VEH_CIN_CAM~ to stay in the bent cops sight.
+0x0FF9416A=Use ~INPUT_VEH_CIN_CAM~ to stay in the bent cops sight.
+
+;0x1584823B=Take Jim back to the ~y~clubhouse.
+0x1584823B=Take Jim back to the ~y~clubhouse.
+
+;0x192155EA=~r~The cops are on to you.
+0x192155EA=~r~The cops are on to you.
+
+;0x1A890D24=~s~Leave the area.
+0x1A890D24=~s~Leave the area.
+
+;0x213F661A=~r~Jim's bike was wrecked.
+0x213F661A=~r~Jim's bike was wrecked.
+
+;0x21A6F373=~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of zoom.
+0x21A6F373=~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of zoom.
+
+;0x245BC61C=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ when aiming to switch between differing levels of zoom.
+0x245BC61C=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ when aiming to switch between differing levels of zoom.
+
+;0x26D2674B=~s~Get back on the ~b~bike.
+0x26D2674B=~s~Get back on the ~b~bike.
+
+;0x26DFF167=~r~You failed to lure the cops to the ambush.
+0x26DFF167=~r~You failed to lure the cops to the ambush.
+
+;0x2A2D2B8C=You are too far from the ~r~bent cops, ~s~they need to follow you.
+0x2A2D2B8C=You are too far from the ~r~bent cops, ~s~they need to follow you.
+
+;0x33BE0B23=~r~Jim has been injured.
+0x33BE0B23=~r~Jim has been injured.
+
+;0x43585DE2=You are too far from ~b~Jim, ~s~catch up to him.
+0x43585DE2=You are too far from ~b~Jim, ~s~catch up to him.
+
+;0x44D2E0D7=Race Jim to the ~y~cops.
+0x44D2E0D7=Race Jim to the ~y~cops.
+
+;0x498336AD=~r~The cops weren't taken out at the ambush.
+0x498336AD=~r~The cops weren't taken out at the ambush.
+
+;0x4AB2A8C8=~r~McCornish~s~ is calling for backup.
+0x4AB2A8C8=~r~McCornish~s~ is calling for backup.
+
+;0x5410D33A=Wait for ~b~Jim~s~ to catch up.
+0x5410D33A=Wait for ~b~Jim~s~ to catch up.
+
+;0x550C0229=Lose the cops.
+0x550C0229=Lose the cops.
+
+;0x67ACA76A=~s~Go and speak to ~b~Jim.
+0x67ACA76A=~s~Go and speak to ~b~Jim.
+
+;0x6C2B2F87=Get back on your ~b~bike.
+0x6C2B2F87=Get back on your ~b~bike.
+
+;0x766F44EF=~s~Wait for ~b~Jim.
+0x766F44EF=~s~Wait for ~b~Jim.
+
+;0x79F1CB14=Follow ~b~Jim~s~ to the cops' location.
+0x79F1CB14=Follow ~b~Jim~s~ to the cops' location.
+
+;0x7A9E12FE=~s~This is the ambush point and your brothers are here to help.
+0x7A9E12FE=~s~This is the ambush point and your brothers are here to help.
+
+;0x8916695D=Take out the ~r~bent cops.
+0x8916695D=Take out the ~r~bent cops.
+
+;0x8C2FB260=~r~You abandoned your buddies.
+0x8C2FB260=~r~You abandoned your buddies.
+
+;0x9B325A0A=~r~The cops are unable to follow you. You couldn't take them out in the open.
+0x9B325A0A=~r~The cops are unable to follow you. You couldn't take them out in the open.
+
+;0x9E8C1530=They called for ~r~reinforcements.
+0x9E8C1530=They called for ~r~reinforcements.
+
+;0xB56184CB=~r~You abandoned Jim.
+0xB56184CB=~r~You abandoned Jim.
+
+;0xBECD54CE=One of the cops is trying to call for help.
+0xBECD54CE=One of the cops is trying to call for help.
+
+;0xC3E9DFEB=You have left ~b~Jim~s~ behind, go back for him.
+0xC3E9DFEB=You have left ~b~Jim~s~ behind, go back for him.
+
+;0xD247C834=~r~Your bike was wrecked.
+0xD247C834=~r~Your bike was wrecked.
+
+;0xD6E6C12E=~r~Matthews~s~ is calling for backup.
+0xD6E6C12E=~r~Matthews~s~ is calling for backup.
+
+;0xDAC64F94=~r~You wrecked your bike.
+0xDAC64F94=~r~You wrecked your bike.
+
+;0xDFAEACE7=Wait for ~b~Jim~s~ to catch up.
+0xDFAEACE7=Wait for ~b~Jim~s~ to catch up.
+
+;0xE3EE1F13=Lure the bent cops to the ~y~ambush.
+0xE3EE1F13=Lure the bent cops to the ~y~ambush.
+
+;0xE8796453=Johnny has to go with Jim to lure some undercover cops who have been hassling ~n~the Lost clubhouse into an area where they can take them out.
+0xE8796453=Johnny has to go with Jim to lure some undercover cops who have been hassling ~n~the Lost clubhouse into an area where they can take them out.
+
+;0xE880EB09=~r~You abandoned your bike.
+0xE880EB09=~r~You abandoned your bike.
+
+;0xEF81829F=~r~You've lost Jim.
+0xEF81829F=~r~You've lost Jim.
+

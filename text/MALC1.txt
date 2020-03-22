@@ -1,0 +1,55 @@
+﻿[MALC1]
+;0x07400F8C=Get a bike.
+0x07400F8C=Get a bike.
+
+;0x074C1B1C=~r~Your bike was wrecked.
+0x074C1B1C=~r~Your bike was wrecked.
+
+;0x2198C8F2=Follow ~b~Malc.
+0x2198C8F2=Follow ~b~Malc.
+
+;0x37527049=~r~The last biker got away.
+0x37527049=~r~The last biker got away.
+
+;0x4B12D163=~r~You hurt Malc.
+0x4B12D163=~r~You hurt Malc.
+
+;0x4C10C2D4=~r~You hurt DeSean.
+0x4C10C2D4=~r~You hurt DeSean.
+
+;0x626F244F=Follow ~b~DeSean.
+0x626F244F=Follow ~b~DeSean.
+
+;0x63BC391D=~r~You abandoned your bike.
+0x63BC391D=~r~You abandoned your bike.
+
+;0x79D22942=~r~DeSean's bike was wrecked.
+0x79D22942=~r~DeSean's bike was wrecked.
+
+;0x8565466D=~r~You damaged DeSean's bike.
+0x8565466D=~r~You damaged DeSean's bike.
+
+;0x8E99DD9D=Get back on your ~b~bike.
+0x8E99DD9D=Get back on your ~b~bike.
+
+;0xB028C701=~r~You didn't keep up with DeSean.
+0xB028C701=~r~You didn't keep up with DeSean.
+
+;0xBBA80058=Lose the cops.
+0xBBA80058=Lose the cops.
+
+;0xBC5BE7F0=~r~Malc's bike was wrecked.
+0xBC5BE7F0=~r~Malc's bike was wrecked.
+
+;0xBE4E9AA7=~r~DeSean is dead.
+0xBE4E9AA7=~r~DeSean is dead.
+
+;0xC1B20418=~r~You didn't keep up with Malc.
+0xC1B20418=~r~You didn't keep up with Malc.
+
+;0xD23F6CD2=~r~Malc is dead.
+0xD23F6CD2=~r~Malc is dead.
+
+;0xE9D2C690=Take out the cheating ~r~bikers.
+0xE9D2C690=Take out the cheating ~r~bikers.
+

@@ -1,0 +1,19 @@
+﻿[WEZL115]
+;0x2143AA07=Drugs and Terror
+0x2143AA07=Drugs and Terror
+
+;0x2232D346=Leslie Mitchell
+0x2232D346=Leslie Mitchell
+
+;0x81779C20=Liberal drug lovers deny link
+0x81779C20=Liberal drug lovers deny link
+
+;0xDD96794F=We all know that liberals love drugs. From Vinewood cocaine parties to ecstasy-fueled swinging suburban romps, to pre-schoolers having their drinks laced with acid and college kids shooting up heroin, nothing says 'liberal drop out' like a family ruined by the ravages of drugs. Now, police are saying there is an incontrovertible link between drugs coming into our city and our nation and the terror threat we all face. It's the thing liberals love most - the fact that their licentious behavior is putting the lives of all of us at deadly risk.
+0xDD96794F=We all know that liberals love drugs. From Vinewood cocaine parties to ecstasy-fueled swinging suburban romps, to pre-schoolers having their drinks laced with acid and college kids shooting up heroin, nothing says 'liberal drop out' like a family ruined by the ravages of drugs. Now, police are saying there is an incontrovertible link between drugs coming into our city and our nation and the terror threat we all face. It's the thing liberals love most - the fact that their licentious behavior is putting the lives of all of us at deadly risk.
+
+;0xEB6594ED=Why? Because terrorists sell drugs to liberals to buy bombs to kill us all. It's really that simple. The police department said so yesterday and I for one believe them. Now that we finally have the truth, it isn't the military industrial complex that's the problem, so isn't it time that we punish drug addicts properly like the criminals they really are?
+0xEB6594ED=Why? Because terrorists sell drugs to liberals to buy bombs to kill us all. It's really that simple. The police department said so yesterday and I for one believe them. Now that we finally have the truth, it isn't the military industrial complex that's the problem, so isn't it time that we punish drug addicts properly like the criminals they really are?
+
+;0xEFB75801=The link the liberals deny
+0xEFB75801=The link the liberals deny
+

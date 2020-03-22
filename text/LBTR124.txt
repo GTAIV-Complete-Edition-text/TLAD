@@ -1,0 +1,43 @@
+﻿[LBTR124]
+;0x0251BDF5=Wasp Patriarch Terror Death Shocker
+0x0251BDF5=Wasp Patriarch Terror Death Shocker
+
+;0x11955E63=By Richie Score
+0x11955E63=By Richie Score
+
+;0x19F736E6=Brokerage firms were rocked yesterday by the news that some of the people who work there are not corrupt, greedy rule breakers. After a wide spread investigation into insider trading and corporate greed, the FIB only arrested 20 brokers at three brokerage firms in northern Alderney yesterday, which represented only 35 per cent of the work force. Human resource professionals at all the firms were humiliated to discover they had employed as up to 65 per cent of their work force people who are not morally destitute and greedy as can be. One CEO commented to us "How are we supposed to make our growth targets and raise our share price if we are not taking undue risks with other people's money, driven on by the desperate greed of our brokers? I'm appalled at what is happening in this town." Federal investigators promised to search out more corruption on the exchange and make sure those found guilty are properly punished with book deals and talk show appearances.
+0x19F736E6=Brokerage firms were rocked yesterday by the news that some of the people who work there are not corrupt, greedy rule breakers. After a wide spread investigation into insider trading and corporate greed, the FIB only arrested 20 brokers at three brokerage firms in northern Alderney yesterday, which represented only 35 per cent of the work force. Human resource professionals at all the firms were humiliated to discover they had employed as up to 65 per cent of their work force people who are not morally destitute and greedy as can be. One CEO commented to us "How are we supposed to make our growth targets and raise our share price if we are not taking undue risks with other people's money, driven on by the desperate greed of our brokers? I'm appalled at what is happening in this town." Federal investigators promised to search out more corruption on the exchange and make sure those found guilty are properly punished with book deals and talk show appearances.
+
+;0x209DC0D9=In an ironic twist of fate, this patriot's children were also killed by rogue acts of terrorism. The family is now headed by Congressman Thomas Stubbs, Arthur Stubb's nephew. Mr Stubbs told reporters at a conference he hastily convened "This is a tragedy. My family has given so much to this country and to freedom. Arthur Stubbs was a great. Great man. I will carry on his work fighting justice and honor wherever I find it. His death had made me a very rich man and I will use that money for good, and for insuring my re-election."
+0x209DC0D9=In an ironic twist of fate, this patriot's children were also killed by rogue acts of terrorism. The family is now headed by Congressman Thomas Stubbs, Arthur Stubb's nephew. Mr Stubbs told reporters at a conference he hastily convened "This is a tragedy. My family has given so much to this country and to freedom. Arthur Stubbs was a great. Great man. I will carry on his work fighting justice and honor wherever I find it. His death had made me a very rich man and I will use that money for good, and for insuring my re-election."
+
+;0x3537960C=TJ Barry
+0x3537960C=TJ Barry
+
+;0x3F4F1810=Michael Graves's campaign is fighting allegations that his campaign manager bore him a love child after discussions over strategy became a little too intimate. Three years ago, Mona Arthurs, 40, gave birth to a child she claimed was fathered by her openly gay husband, Jay. However, as baby Mike grew and developed, observant friends noticed a problem - Jay Arthurs is black. Baby Mikey is apparently, not. Ms. Arthurs and Mikey, who live in Los Santos, have gone into hiding while politicans try to score points off each other over the story. Mr. Graves released the following statement "I did not sleep with Ms Arthurs, nor with any woman, at any time, under any circumstances. My political opponents are ruining this poor woman's reputation, which is odd, given that the wives are notorious sluts."
+0x3F4F1810=Michael Graves's campaign is fighting allegations that his campaign manager bore him a love child after discussions over strategy became a little too intimate. Three years ago, Mona Arthurs, 40, gave birth to a child she claimed was fathered by her openly gay husband, Jay. However, as baby Mike grew and developed, observant friends noticed a problem - Jay Arthurs is black. Baby Mikey is apparently, not. Ms. Arthurs and Mikey, who live in Los Santos, have gone into hiding while politicans try to score points off each other over the story. Mr. Graves released the following statement "I did not sleep with Ms Arthurs, nor with any woman, at any time, under any circumstances. My political opponents are ruining this poor woman's reputation, which is odd, given that the wives are notorious sluts."
+
+;0x43ADBB80=Insider Trading Sting in Alderney
+0x43ADBB80=Insider Trading Sting in Alderney
+
+;0x7588A06B=Rumors abound
+0x7588A06B=Rumors abound
+
+;0x793ACFBF=Insider Trading Sting in Alderney
+0x793ACFBF=Insider Trading Sting in Alderney
+
+;0x807EA89E=Scandal rocks the Exchange, Again.
+0x807EA89E=Scandal rocks the Exchange, Again.
+
+;0xC5304B42=Michael Wayne
+0xC5304B42=Michael Wayne
+
+;0xC9FABFB4=Violence at airport
+0xC9FABFB4=Violence at airport
+
+;0xD03CD032=Graves in love child scandal
+0xD03CD032=Graves in love child scandal
+
+;0xEDB25B03=Arthur Stubbs, elder statesman of the legendary Stubbs political clan was gunned down by terrorists yesterday shortly after arriving at Francis International Airport. Mr. Stubbs, 83, was arriving in the city for a family meeting and to help to discuss bailing out a lot of rich people upset by the recent problems on the exchange. A passionate democrat when it suited him and also an elitist who hated poor people, Mr. Stubbs embodied an America that has mercifully disappeared. He was brutally killed standing up for freedom by a splinter cell now on the loose in Liberty City. Police are searching for the terror cell and advise people to be very afraid and report any activity by brown people.
+0xEDB25B03=Arthur Stubbs, elder statesman of the legendary Stubbs political clan was gunned down by terrorists yesterday shortly after arriving at Francis International Airport. Mr. Stubbs, 83, was arriving in the city for a family meeting and to help to discuss bailing out a lot of rich people upset by the recent problems on the exchange. A passionate democrat when it suited him and also an elitist who hated poor people, Mr. Stubbs embodied an America that has mercifully disappeared. He was brutally killed standing up for freedom by a splinter cell now on the loose in Liberty City. Police are searching for the terror cell and advise people to be very afraid and report any activity by brown people.
+

@@ -1,0 +1,202 @@
+﻿[HILOCRD]
+;0x0AF2AB55=Ace of Diamonds~n~(Ace is low)
+0x0AF2AB55=Ace of Diamonds~n~(Ace is low)
+
+;0x0D382FC8=4 of Diamonds~n~
+0x0D382FC8=4 of Diamonds~n~
+
+;0x0D9CBCB3=Queen of Clubs~n~
+0x0D9CBCB3=Queen of Clubs~n~
+
+;0x0F6A5111=6 of Spades~n~
+0x0F6A5111=6 of Spades~n~
+
+;0x1D884BF7=Ace of Hearts~n~(Ace is low)
+0x1D884BF7=Ace of Hearts~n~(Ace is low)
+
+;0x2760F22D=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to play again.
+0x2760F22D=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to play again.
+
+;0x287BE64F=6 of Diamonds~n~
+0x287BE64F=6 of Diamonds~n~
+
+;0x2CAD6ECA=King of Diamonds~n~
+0x2CAD6ECA=King of Diamonds~n~
+
+;0x3103F29A=King of Hearts~n~
+0x3103F29A=King of Hearts~n~
+
+;0x32FD183A=4 of Spades~n~
+0x32FD183A=4 of Spades~n~
+
+;0x3447AFCE=Predict if the value of the next card is higher or lower (Aces are low). Last person remaining wins.~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+0x3447AFCE=Predict if the value of the next card is higher or lower (Aces are low). Last person remaining wins.~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+
+;0x363E11FD=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to go back to the game.
+0x363E11FD=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to go back to the game.
+
+;0x38A306A1=8 of Diamonds~n~
+0x38A306A1=8 of Diamonds~n~
+
+;0x3FF090CF=Jack of Hearts~n~
+0x3FF090CF=Jack of Hearts~n~
+
+;0x417013DE=2 of Hearts~n~
+0x417013DE=2 of Hearts~n~
+
+;0x41BA35B4=5 of Spades~n~
+0x41BA35B4=5 of Spades~n~
+
+;0x4679A24E=7 of Diamonds~n~
+0x4679A24E=7 of Diamonds~n~
+
+;0x4F0470A3=10 of Spades~n~
+0x4F0470A3=10 of Spades~n~
+
+;0x530D5856=8 of Spades~n~
+0x530D5856=8 of Spades~n~
+
+;0x5B0C4B6F=3 of Diamonds~n~
+0x5B0C4B6F=3 of Diamonds~n~
+
+;0x5D4EC20A=~a~~n~Wrong!~n~Press ~INPUT_MOUSE_LMB~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+0x5D4EC20A=~a~~n~Wrong!~n~Press ~INPUT_MOUSE_LMB~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+
+;0x5DD482E7=~a~~n~Press ~INPUT_PICKUP~ to leave the game.
+0x5DD482E7=~a~~n~Press ~INPUT_PICKUP~ to leave the game.
+
+;0x5EB74E6C=3 of Hearts~n~
+0x5EB74E6C=3 of Hearts~n~
+
+;0x5F8FF16F=Queen of Spades~n~
+0x5F8FF16F=Queen of Spades~n~
+
+;0x615AF4F9=King of Spades~n~
+0x615AF4F9=King of Spades~n~
+
+;0x61CE75D8=9 of Spades~n~
+0x61CE75D8=9 of Spades~n~
+
+;0x61F10B14=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to play again.
+0x61F10B14=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to play again.
+
+;0x6241E5F8=Ace of Clubs~n~(Ace is low)
+0x6241E5F8=Ace of Clubs~n~(Ace is low)
+
+;0x6277B776=Predict if the value of the next card is higher or lower (Aces are low). Last person remaining wins.~n~Press ~INPUT_MOUSE_LMB~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+0x6277B776=Predict if the value of the next card is higher or lower (Aces are low). Last person remaining wins.~n~Press ~INPUT_MOUSE_LMB~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+
+;0x6527FC8F=3 of Spades~n~
+0x6527FC8F=3 of Spades~n~
+
+;0x687C8334=7 of Spades~n~
+0x687C8334=7 of Spades~n~
+
+;0x6BD4E8A7=4 of Hearts~n~
+0x6BD4E8A7=4 of Hearts~n~
+
+;0x6FAB2688=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to the game.
+0x6FAB2688=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to the game.
+
+;0x702E75C7=Queen of Diamonds~n~
+0x702E75C7=Queen of Diamonds~n~
+
+;0x73FE7D57=9 of Diamonds~n~
+0x73FE7D57=9 of Diamonds~n~
+
+;0x7763A10A=Ace of Spades~n~(Ace is low)
+0x7763A10A=Ace of Spades~n~(Ace is low)
+
+;0x7AEDBD19=~a~~n~Wrong!~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+0x7AEDBD19=~a~~n~Wrong!~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+
+;0x7B130723=5 of Hearts~n~
+0x7B130723=5 of Hearts~n~
+
+;0x7D105242=Higher!
+0x7D105242=Higher!
+
+;0x7EE65A34=~a~~n~Correct!~n~Press ~INPUT_MOUSE_LMB~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+0x7EE65A34=~a~~n~Correct!~n~Press ~INPUT_MOUSE_LMB~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+
+;0x8305A787=Jack of Clubs~n~
+0x8305A787=Jack of Clubs~n~
+
+;0x8612FB7F=10 of Clubs~n~
+0x8612FB7F=10 of Clubs~n~
+
+;0x8618FA93=9 of Clubs~n~
+0x8618FA93=9 of Clubs~n~
+
+;0x8837A16C=6 of Hearts~n~
+0x8837A16C=6 of Hearts~n~
+
+;0x88725822=~a~~n~Correct!~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+0x88725822=~a~~n~Correct!~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+
+;0x8B4CF020=10 of Diamonds~n~
+0x8B4CF020=10 of Diamonds~n~
+
+;0x90B342E2=King of Clubs~n~
+0x90B342E2=King of Clubs~n~
+
+;0x973875AE=Current card is ~a~~n~Press ~INPUT_FRONTEND_X~ to predict higher.~n~Press ~INPUT_FRONTEND_CANCEL~ to predict lower.~n~Press ~INPUT_PICKUP~ to leave the game.
+0x973875AE=Current card is ~a~~n~Press ~INPUT_FRONTEND_X~ to predict higher.~n~Press ~INPUT_FRONTEND_CANCEL~ to predict lower.~n~Press ~INPUT_PICKUP~ to leave the game.
+
+;0x9923D393=3 of Clubs~n~
+0x9923D393=3 of Clubs~n~
+
+;0xA58EDC1A=7 of Hearts~n~
+0xA58EDC1A=7 of Hearts~n~
+
+;0xAEE1FF0F=2 of Clubs~n~
+0xAEE1FF0F=2 of Clubs~n~
+
+;0xB47679E9=8 of Hearts~n~
+0xB47679E9=8 of Hearts~n~
+
+;0xB64FF281=10 of Hearts~n~
+0xB64FF281=10 of Hearts~n~
+
+;0xBB969878=5 of Clubs~n~
+0xBB969878=5 of Clubs~n~
+
+;0xC23DA5C6=4 of Clubs~n~
+0xC23DA5C6=4 of Clubs~n~
+
+;0xC23E957D=9 of Hearts~n~
+0xC23E957D=9 of Hearts~n~
+
+;0xC76E66FD=Lower!
+0xC76E66FD=Lower!
+
+;0xCC53A93B=Queen of Hearts~n~
+0xCC53A93B=Queen of Hearts~n~
+
+;0xD0670F32=8 of Clubs~n~
+0xD0670F32=8 of Clubs~n~
+
+;0xDAA523AE=7 of Clubs~n~
+0xDAA523AE=7 of Clubs~n~
+
+;0xE0BBD6E4=Jack of Diamonds~n~
+0xE0BBD6E4=Jack of Diamonds~n~
+
+;0xE3DB6901=6 of Clubs~n~
+0xE3DB6901=6 of Clubs~n~
+
+;0xE5557CE8=2 of Spades~n~
+0xE5557CE8=2 of Spades~n~
+
+;0xE9A7058F=Jack of Spades~n~
+0xE9A7058F=Jack of Spades~n~
+
+;0xEFC674E1=2 of Diamonds~n~
+0xEFC674E1=2 of Diamonds~n~
+
+;0xF600C44B=Current card is ~a~~n~Press ~INPUT_KB_UP~ to predict higher.~n~Press ~INPUT_KB_DOWN~ to predict lower.~n~Press ~INPUT_PICKUP~ to leave the game.
+0xF600C44B=Current card is ~a~~n~Press ~INPUT_KB_UP~ to predict higher.~n~Press ~INPUT_KB_DOWN~ to predict lower.~n~Press ~INPUT_PICKUP~ to leave the game.
+
+;0xF6860264=5 of Diamonds~n~
+0xF6860264=5 of Diamonds~n~
+

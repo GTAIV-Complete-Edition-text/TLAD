@@ -1,0 +1,166 @@
+﻿[RUNMAE1]
+;0x062D0AF3=passed a checkpoint
+0x062D0AF3=passed a checkpoint
+
+;0x087E4DA3=45 mins
+0x087E4DA3=45 mins
+
+;0x0A3F5AB2=Hold ~INPUT_VEH_CIN_CAM~ to focus on the biker when close to them.
+0x0A3F5AB2=Hold ~INPUT_VEH_CIN_CAM~ to focus on the biker when close to them.
+
+;0x0F346478=Hold ~PAD_Y~ to respawn on your bike.
+0x0F346478=Hold ~PAD_Y~ to respawn on your bike.
+
+;0x124E6143=Run for 5 mins
+0x124E6143=Run for 5 mins
+
+;0x15021D2D=10 seconds
+0x15021D2D=10 seconds
+
+;0x157212C8=Game Type
+0x157212C8=Game Type
+
+;0x1AD70CD3=Cars
+0x1AD70CD3=Cars
+
+;0x1DBEE86D=Respawn Time
+0x1DBEE86D=Respawn Time
+
+;0x200985CE=Vehicle
+0x200985CE=Vehicle
+
+;0x233BB9A0=15 seconds
+0x233BB9A0=15 seconds
+
+;0x267A9F8B=3 checkpoints
+0x267A9F8B=3 checkpoints
+
+;0x26C38A2D=20 mins
+0x26C38A2D=20 mins
+
+;0x292FC588=20 seconds
+0x292FC588=20 seconds
+
+;0x2F1F086D=Off
+0x2F1F086D=Off
+
+;0x330F49FC=You must pass a checkpoint to continue accumulating time.
+0x330F49FC=You must pass a checkpoint to continue accumulating time.
+
+;0x34373B04=60 mins
+0x34373B04=60 mins
+
+;0x365F2964=60 mins
+0x365F2964=60 mins
+
+;0x37766215=25 seconds
+0x37766215=25 seconds
+
+;0x37F704D8=~s~Take out the ~COL_NET_1~Lone Wolf Biker.
+0x37F704D8=~s~Take out the ~COL_NET_1~Lone Wolf Biker.
+
+;0x420D56B0=45 mins
+0x420D56B0=45 mins
+
+;0x4D89D7B9=30 mins
+0x4D89D7B9=30 mins
+
+;0x50B2F3FB=30 mins
+0x50B2F3FB=30 mins
+
+;0x5CBB8C00=5 checkpoints
+0x5CBB8C00=5 checkpoints
+
+;0x5DA0C263=Duration
+0x5DA0C263=Duration
+
+;0x60417F51=Hold ~INPUT_VEH_CIN_CAM~ to focus on the Lone Wolf Biker when close to them.
+0x60417F51=Hold ~INPUT_VEH_CIN_CAM~ to focus on the Lone Wolf Biker when close to them.
+
+;0x60528A9E=is the Lone Wolf Biker
+0x60528A9E=is the Lone Wolf Biker
+
+;0x6147ECBE=Far
+0x6147ECBE=Far
+
+;0x63C01EA8=Road Bikes
+0x63C01EA8=Road Bikes
+
+;0x69D91057=10 mins
+0x69D91057=10 mins
+
+;0x6B059672=Class
+0x6B059672=Class
+
+;0x7171BA0B=Sport Bikes
+0x7171BA0B=Sport Bikes
+
+;0x7EFB4344=Pursuer Blips
+0x7EFB4344=Pursuer Blips
+
+;0x7FD072CC=30 seconds
+0x7FD072CC=30 seconds
+
+;0x806E29F8=Initial Lone Wolf Biker
+0x806E29F8=Initial Lone Wolf Biker
+
+;0x82145919=is the biker
+0x82145919=is the biker
+
+;0x8898E3BA=9 checkpoints
+0x8898E3BA=9 checkpoints
+
+;0x91C36521=~s~Get to the ~y~checkpoints~s~, and avoid the ~COL_NET_2~pursuers.
+0x91C36521=~s~Get to the ~y~checkpoints~s~, and avoid the ~COL_NET_2~pursuers.
+
+;0x98E636E6=lost their bike
+0x98E636E6=lost their bike
+
+;0x9C4F3318=~s~Get to the ~y~checkpoints~s~, and avoid the pursuer.
+0x9C4F3318=~s~Get to the ~y~checkpoints~s~, and avoid the pursuer.
+
+;0xAA60C368=Hold ~INPUT_VEH_CIN_CAM~ to focus on the pursuer when close to them.
+0xAA60C368=Hold ~INPUT_VEH_CIN_CAM~ to focus on the pursuer when close to them.
+
+;0xADACA481=Bike
+0xADACA481=Bike
+
+;0xB34007EE=Chopper vs Chopper
+0xB34007EE=Chopper vs Chopper
+
+;0xB3424508=Get to a checkpoint within the next minute or roles will be reversed.
+0xB3424508=Get to a checkpoint within the next minute or roles will be reversed.
+
+;0xBFDAA123=Full Throttle
+0xBFDAA123=Full Throttle
+
+;0xC7DB5553=~s~Take out the ~COL_NET_1~ biker.
+0xC7DB5553=~s~Take out the ~COL_NET_1~ biker.
+
+;0xCA743F1D=Near
+0xCA743F1D=Near
+
+;0xD182DFAD=Run for 10 mins
+0xD182DFAD=Run for 10 mins
+
+;0xDCE90C5D=20 mins
+0xDCE90C5D=20 mins
+
+;0xDD1C646D=On
+0xDD1C646D=On
+
+;0xE42884F8=Run for 2 mins
+0xE42884F8=Run for 2 mins
+
+;0xEB23A8D2=10 mins
+0xEB23A8D2=10 mins
+
+;0xF521A6A2=Duration
+0xF521A6A2=Duration
+
+;0xF7A39C9A=Initial Biker
+0xF7A39C9A=Initial Biker
+
+;0xFED9BA5A=Everyone gets a go
+0xFED9BA5A=Everyone gets a go
+

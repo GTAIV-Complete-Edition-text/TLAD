@@ -1,0 +1,82 @@
+﻿[JIM3P]
+;0x04B9D9D7=Steal the ~b~Sanchez.~s~
+0x04B9D9D7=Steal the ~b~Sanchez.~s~
+
+;0x0870F715=Lose the cops.
+0x0870F715=Lose the cops.
+
+;0x402E50C3=Steal the ~b~Hakuchou.~s~
+0x402E50C3=Steal the ~b~Hakuchou.~s~
+
+;0x57A37FAD=Steal the ~b~Nightblade.~s~
+0x57A37FAD=Steal the ~b~Nightblade.~s~
+
+;0x64A319A8=Steal the ~b~Wolfbane.~s~
+0x64A319A8=Steal the ~b~Wolfbane.~s~
+
+;0x7A3544CC=Steal the ~b~Angel.~s~
+0x7A3544CC=Steal the ~b~Angel.~s~
+
+;0x8B3BE6D9=Steal the ~b~Hellfury.~s~
+0x8B3BE6D9=Steal the ~b~Hellfury.~s~
+
+;0x8D5E2C3D=Zorst Fumes
+0x8D5E2C3D=Zorst Fumes
+
+;0x97B140F7=Take Out Liquor
+0x97B140F7=Take Out Liquor
+
+;0x981441A9=Delivery Boy's Hardship
+0x981441A9=Delivery Boy's Hardship
+
+;0x9E8F0D7F=Steal the ~b~Bati 800.~s~
+0x9E8F0D7F=Steal the ~b~Bati 800.~s~
+
+;0xA3D0AD6E=~r~You abandoned the bike.~s~
+0xA3D0AD6E=~r~You abandoned the bike.~s~
+
+;0xA9D2E526=Beachcomber
+0xA9D2E526=Beachcomber
+
+;0xAFB8AFD2=Steal the ~b~NRG 900.~s~
+0xAFB8AFD2=Steal the ~b~NRG 900.~s~
+
+;0xBD0C4A79=Steal the ~b~PCJ.~s~
+0xBD0C4A79=Steal the ~b~PCJ.~s~
+
+;0xC5069BA5=Short Stay Parking
+0xC5069BA5=Short Stay Parking
+
+;0xC86F76AB=~r~You have cancelled the job.~s~
+0xC86F76AB=~r~You have cancelled the job.~s~
+
+;0xCD088045=~r~The bike was wrecked.~s~
+0xCD088045=~r~The bike was wrecked.~s~
+
+;0xD6703E64=Ex-Display
+0xD6703E64=Ex-Display
+
+;0xD6D13F3A=Tattoo Parlor Lament
+0xD6D13F3A=Tattoo Parlor Lament
+
+;0xDAB61B3C=Steal the ~b~bike.~s~
+0xDAB61B3C=Steal the ~b~bike.~s~
+
+;0xE083529E=Stripclub Hog
+0xE083529E=Stripclub Hog
+
+;0xE11153A6=Get Off Your High Horse
+0xE11153A6=Get Off Your High Horse
+
+;0xE87336B6=Take the bike back to the ~y~clubhouse.~s~
+0xE87336B6=Take the bike back to the ~y~clubhouse.~s~
+
+;0xF2DBF73B=A Ride in the Park
+0xF2DBF73B=A Ride in the Park
+
+;0xFAC8DBC5=Get back on the ~b~bike.~s~
+0xFAC8DBC5=Get back on the ~b~bike.~s~
+
+;0xFE864D74=Steal the ~b~Daemon.~s~
+0xFE864D74=Steal the ~b~Daemon.~s~
+

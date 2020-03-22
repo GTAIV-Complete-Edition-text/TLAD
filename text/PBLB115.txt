@@ -1,0 +1,28 @@
+﻿[PBLB115]
+;0x31A4E19A=S. Fiona Scott
+0x31A4E19A=S. Fiona Scott
+
+;0x3D1E0116=The greed and corruption of war-mongering politicians has left our economy in tatters. Air Sol squandered half a billion dollars last year on executive bonuses. People that run companies shouldn't get rich. We at PLO are all in favor of raising taxes. But when Big Business thinks it can start taxing our bodily functions, it's time to make a stand. Boycott the airlines. Take the bus. March on the White House. Wear sloganned t-shirts. Eat more sprouts. Your consumer choices CAN make a difference. The people still have the power. Honestly.
+0x3D1E0116=The greed and corruption of war-mongering politicians has left our economy in tatters. Air Sol squandered half a billion dollars last year on executive bonuses. People that run companies shouldn't get rich. We at PLO are all in favor of raising taxes. But when Big Business thinks it can start taxing our bodily functions, it's time to make a stand. Boycott the airlines. Take the bus. March on the White House. Wear sloganned t-shirts. Eat more sprouts. Your consumer choices CAN make a difference. The people still have the power. Honestly.
+
+;0x40ED8B55=Just as workers were getting their work-life balance back, corporations are crushing resistance, forcing employees to stay at their constraining cubicles, not surf the internet for seventy five percent of the day, and show up on time. Another casualty this week as Sandra McColland collapsed while at work. Many therapists and holistic specialists believe an open attendance policy, lack of management hierarchy, and daily breaks to catch up on literature about celebrities creates a happy and fruitful workplace.
+0x40ED8B55=Just as workers were getting their work-life balance back, corporations are crushing resistance, forcing employees to stay at their constraining cubicles, not surf the internet for seventy five percent of the day, and show up on time. Another casualty this week as Sandra McColland collapsed while at work. Many therapists and holistic specialists believe an open attendance policy, lack of management hierarchy, and daily breaks to catch up on literature about celebrities creates a happy and fruitful workplace.
+
+;0x56A93D22=Mile high madness.
+0x56A93D22=Mile high madness.
+
+;0xBBE4FEA2=Are you incontinent, diabetic or menstruating? Make sure you arrive at the airport with a big bag of quarters for your next flight (although be aware that you'll probably exceed your weight allowance). In a last-ditch attempt to sustain their record levels of profit, Air Sol has announced that pay toilets have been installed on all its aircraft. Passengers will now be charged $2 for a number one and $3 for a number two. Where will this lunacy end? $20 for a life jacket? And, yes, before all the CEOs start whining from the top of their ivory towers, we know what's at the root of all this nickel-and-diming: Oil.
+0xBBE4FEA2=Are you incontinent, diabetic or menstruating? Make sure you arrive at the airport with a big bag of quarters for your next flight (although be aware that you'll probably exceed your weight allowance). In a last-ditch attempt to sustain their record levels of profit, Air Sol has announced that pay toilets have been installed on all its aircraft. Passengers will now be charged $2 for a number one and $3 for a number two. Where will this lunacy end? $20 for a life jacket? And, yes, before all the CEOs start whining from the top of their ivory towers, we know what's at the root of all this nickel-and-diming: Oil.
+
+;0xCDC16318=Corporations crushing the soul of workers
+0xCDC16318=Corporations crushing the soul of workers
+
+;0xDCDCA850=A legacy of torment
+0xDCDCA850=A legacy of torment
+
+;0xE227E9FF=Joshua Crane
+0xE227E9FF=Joshua Crane
+
+;0xF684F1F9=Air travelers need to be more flush than ever.
+0xF684F1F9=Air travelers need to be more flush than ever.
+

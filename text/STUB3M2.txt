@@ -1,0 +1,67 @@
+﻿[STUB3M2]
+;0x1F100642=~r~You trashed the car.
+0x1F100642=~r~You trashed the car.
+
+;0x209425A2=Meet the ~b~contact ~s~by 0~1~:~1~.
+0x209425A2=Meet the ~b~contact ~s~by 0~1~:~1~.
+
+;0x343A50B9=~s~Take out the ~r~contact.~s~
+0x343A50B9=~s~Take out the ~r~contact.~s~
+
+;0x3C661877=~s~The ~r~contact~s~ is getting away.
+0x3C661877=~s~The ~r~contact~s~ is getting away.
+
+;0x4D3E7EF6=Meet the ~b~contact ~s~by ~1~:0~1~.
+0x4D3E7EF6=Meet the ~b~contact ~s~by ~1~:0~1~.
+
+;0x561372E6=~r~You hurt the contact.
+0x561372E6=~r~You hurt the contact.
+
+;0x59539CD8=You have until 00:0~1~.
+0x59539CD8=You have until 00:0~1~.
+
+;0x67233877=You have until 00:~1~.
+0x67233877=You have until 00:~1~.
+
+;0x98EB7FE1=~s~Communication Breakdown
+0x98EB7FE1=~s~Communication Breakdown
+
+;0x99C42112=~r~You ran out of time.
+0x99C42112=~r~You ran out of time.
+
+;0x9AAB9997=Meet the ~b~contact ~s~by ~1~:~1~.
+0x9AAB9997=Meet the ~b~contact ~s~by ~1~:~1~.
+
+;0xAA933F5E=You have until ~1~:~1~.
+0xAA933F5E=You have until ~1~:~1~.
+
+;0xAAF43A28=Meet the ~b~contact ~s~by 0~1~:0~1~.
+0xAAF43A28=Meet the ~b~contact ~s~by 0~1~:0~1~.
+
+;0xAE73C71F=You have until 0~1~:~1~.
+0xAE73C71F=You have until 0~1~:~1~.
+
+;0xB8C3273F=~s~You have ~1~ minutes left to meet the contact.
+0xB8C3273F=~s~You have ~1~ minutes left to meet the contact.
+
+;0xBCD463E0=You have until ~1~:0~1~.
+0xBCD463E0=You have until ~1~:0~1~.
+
+;0xBCE429D0=~r~The contact got away.
+0xBCE429D0=~r~The contact got away.
+
+;0xCF97036D=Meet the ~b~contact ~s~by 00:~1~.
+0xCF97036D=Meet the ~b~contact ~s~by 00:~1~.
+
+;0xF7379107=~s~Lose the cops.
+0xF7379107=~s~Lose the cops.
+
+;0xF75758E5=You have until 0~1~:0~1~.
+0xF75758E5=You have until 0~1~:0~1~.
+
+;0xFDDA5260=~r~You spooked the contact.
+0xFDDA5260=~r~You spooked the contact.
+
+;0xFECBE1D6=Meet the ~b~contact ~s~by 00:0~1~.
+0xFECBE1D6=Meet the ~b~contact ~s~by 00:0~1~.
+

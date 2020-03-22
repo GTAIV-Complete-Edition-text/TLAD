@@ -1,0 +1,28 @@
+﻿[WEZL110]
+;0x0CC29217=Race a disgrace
+0x0CC29217=Race a disgrace
+
+;0x11D2352C=As horrible as recent events in the Alderney State Correctional Facility have been, there are reasons to be grateful for it. The secular morons will now stop their whining and we'll be able to bring in the two things that might help our prisons - corporal punishment and prayer. These men don't deserve human rights. They lost their rights when they ran that red light or sold that dime bad of weed to a teenager. We need to beat 'em and make 'em atone for their evils. There's nothing in this world that can't be corrected by a little prayer and a beating or two (a day) - my son is the prefect example. A strict course of flagellation and prayer sessions cured him of his homosexuality. Now he lives a happy and totally straight life in Westminster with his hairdresser roommate.
+0x11D2352C=As horrible as recent events in the Alderney State Correctional Facility have been, there are reasons to be grateful for it. The secular morons will now stop their whining and we'll be able to bring in the two things that might help our prisons - corporal punishment and prayer. These men don't deserve human rights. They lost their rights when they ran that red light or sold that dime bad of weed to a teenager. We need to beat 'em and make 'em atone for their evils. There's nothing in this world that can't be corrected by a little prayer and a beating or two (a day) - my son is the prefect example. A strict course of flagellation and prayer sessions cured him of his homosexuality. Now he lives a happy and totally straight life in Westminster with his hairdresser roommate.
+
+;0x1C7C11D4=The Governor's election is heating up and so are the blow-hard liberals who want to take an innocent incident and blow it out of proportion. John Hunter has stood up for all races, not just white people. If elected Governor he has promised to reach out to minorities by increasing welfare payments. And this is the thanks he gets? What John Hunter says in the privacy of his home, or in this case, out the window of his car at a gentleman of color holding up traffic, is just that - private. Let's stick to the issues in this election like keeping gays from marrying. Your filthy sex makes God angry.
+0x1C7C11D4=The Governor's election is heating up and so are the blow-hard liberals who want to take an innocent incident and blow it out of proportion. John Hunter has stood up for all races, not just white people. If elected Governor he has promised to reach out to minorities by increasing welfare payments. And this is the thanks he gets? What John Hunter says in the privacy of his home, or in this case, out the window of his car at a gentleman of color holding up traffic, is just that - private. Let's stick to the issues in this election like keeping gays from marrying. Your filthy sex makes God angry.
+
+;0x5A899C8E=Gubernatorial Race
+0x5A899C8E=Gubernatorial Race
+
+;0x615BE2E4=And about time!
+0x615BE2E4=And about time!
+
+;0x673FFF33=Prison cleanup
+0x673FFF33=Prison cleanup
+
+;0x6D6769CE=John Chesapeake
+0x6D6769CE=John Chesapeake
+
+;0xDA8B1A1A=A bloody but silver lining
+0xDA8B1A1A=A bloody but silver lining
+
+;0xE667D5D9=Eugene White
+0xE667D5D9=Eugene White
+

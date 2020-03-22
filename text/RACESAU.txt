@@ -1,0 +1,523 @@
+﻿[RACESAU]
+;0x05E48887=~z~OK, we're gonna race Algonquin.
+0x05E48887=~z~OK, we're gonna race Algonquin.
+
+;0x08440B67=100
+0x08440B67=100
+
+;0x0BF0FD1E=~z~You need to get to Acter Industrial.
+0x0BF0FD1E=~z~You need to get to Acter Industrial.
+
+;0x0C225262=~z~Right, the race is in Holland.
+0x0C225262=~z~Right, the race is in Holland.
+
+;0x0D4DD1EB=E1FCT3_ACT_ARRIVE_RACE_ALGA
+0x0D4DD1EB=E1FCT3_ACT_ARRIVE_RACE_ALGA
+
+;0x0E3E55A3=E1FCC3_ACT_MEET_AT_ACTIVITY_LATEA
+0x0E3E55A3=E1FCC3_ACT_MEET_AT_ACTIVITY_LATEA
+
+;0x0EAA0F58=~z~We're racing in Alderney City.
+0x0EAA0F58=~z~We're racing in Alderney City.
+
+;0x0EB0B6D2=~z~Those hipsters better beware. We got a race in Broker.
+0x0EB0B6D2=~z~Those hipsters better beware. We got a race in Broker.
+
+;0x0F985A30=E1FCT3_ACT_ARRIVE_RACE_ALDA
+0x0F985A30=E1FCT3_ACT_ARRIVE_RACE_ALDA
+
+;0x14F25D27=~z~OK, we're gonna race Dukes.
+0x14F25D27=~z~OK, we're gonna race Dukes.
+
+;0x15577617=100
+0x15577617=100
+
+;0x19EE6DFA=~z~We're racing in Holland.
+0x19EE6DFA=~z~We're racing in Holland.
+
+;0x1A31473B=~z~OK, the race is gonna be at Francis International Airport.
+0x1A31473B=~z~OK, the race is gonna be at Francis International Airport.
+
+;0x1D19AC37=~z~The race is in Alderney City.
+0x1D19AC37=~z~The race is in Alderney City.
+
+;0x1D3453D9=~z~Broker is where it's at.
+0x1D3453D9=~z~Broker is where it's at.
+
+;0x1D619EA1=~z~We're racing from Middle Park.
+0x1D619EA1=~z~We're racing from Middle Park.
+
+;0x1EB73549=100
+0x1EB73549=100
+
+;0x1F81B86C=~z~I think this thing's in the south of Broker.
+0x1F81B86C=~z~I think this thing's in the south of Broker.
+
+;0x21543D71=100
+0x21543D71=100
+
+;0x21DC66F2=100
+0x21DC66F2=100
+
+;0x232C76D9=~z~We're racing in Westdyke, brother.
+0x232C76D9=~z~We're racing in Westdyke, brother.
+
+;0x234F4925=~z~The race starts in Acter Industrial.
+0x234F4925=~z~The race starts in Acter Industrial.
+
+;0x24055C3E=~z~The race is happening in Castle Gardens.
+0x24055C3E=~z~The race is happening in Castle Gardens.
+
+;0x26967B98=~z~For fuck sake, Johnny. What kept you? Are you ready to race or what?
+0x26967B98=~z~For fuck sake, Johnny. What kept you? Are you ready to race or what?
+
+;0x2881AC9F=E1FCT3_ACT_ARRIVE_RACE_ALG_CA
+0x2881AC9F=E1FCT3_ACT_ARRIVE_RACE_ALG_CA
+
+;0x28C03FC2=~z~Why thank you for finally gracing us with your presence, Johnny.
+0x28C03FC2=~z~Why thank you for finally gracing us with your presence, Johnny.
+
+;0x28D226AE=100
+0x28D226AE=100
+
+;0x2B6C9202=E1FCC3_ACT_ARRIVE_RACE_BRK_SA
+0x2B6C9202=E1FCC3_ACT_ARRIVE_RACE_BRK_SA
+
+;0x2BFC3C33=E1FCC3_ACT_ARRIVE_RACE_ALG_FA
+0x2BFC3C33=E1FCC3_ACT_ARRIVE_RACE_ALG_FA
+
+;0x2DAC6E31=~z~We're gonna race at Francis International Airport.
+0x2DAC6E31=~z~We're gonna race at Francis International Airport.
+
+;0x2E7ACA23=100
+0x2E7ACA23=100
+
+;0x2FC8EDE7=100
+0x2FC8EDE7=100
+
+;0x30F000C3=100
+0x30F000C3=100
+
+;0x313A50B6=~z~Shit, I thought you must be knee deep in pussy or something, man. Where you been.
+0x313A50B6=~z~Shit, I thought you must be knee deep in pussy or something, man. Where you been.
+
+;0x31E5F439=~z~This thing kicks off in Tudor.
+0x31E5F439=~z~This thing kicks off in Tudor.
+
+;0x32107A51=~z~The race starts in Alderney City.
+0x32107A51=~z~The race starts in Alderney City.
+
+;0x3343FD0E=~z~Hammer down, John boy. Lost MC! Whooo yeah!
+0x3343FD0E=~z~Hammer down, John boy. Lost MC! Whooo yeah!
+
+;0x34EE4523=~z~Right brother. Let's have ourselves a race.
+0x34EE4523=~z~Right brother. Let's have ourselves a race.
+
+;0x3774202B=~z~OK, man. The race is in Alderney.
+0x3774202B=~z~OK, man. The race is in Alderney.
+
+;0x37B61C36=100
+0x37B61C36=100
+
+;0x37D91E1D=~z~I'd almost given up on you, man. Come on, we've got some racing to do.
+0x37D91E1D=~z~I'd almost given up on you, man. Come on, we've got some racing to do.
+
+;0x38FF624A=100
+0x38FF624A=100
+
+;0x3A09872F=E1FCT3_ACT_ARRIVE_RACE_ALD_TA
+0x3A09872F=E1FCT3_ACT_ARRIVE_RACE_ALD_TA
+
+;0x3A1BF6DE=100
+0x3A1BF6DE=100
+
+;0x3D4C3B0E=E1FCC3_ACT_ARRIVE_RACE_BRKA
+0x3D4C3B0E=E1FCC3_ACT_ARRIVE_RACE_BRKA
+
+;0x3DD9A3DF=~z~Plan is to dice it through the streets of Bohan.
+0x3DD9A3DF=~z~Plan is to dice it through the streets of Bohan.
+
+;0x3F8E451E=E1FCC3_ACT_ARRIVE_RACE_BOHA
+0x3F8E451E=E1FCC3_ACT_ARRIVE_RACE_BOHA
+
+;0x43B37E15=E1FCC3_ACT_ARRIVE_RACE_ALD_WA
+0x43B37E15=E1FCC3_ACT_ARRIVE_RACE_ALD_WA
+
+;0x4454EDC4=E1FCC3_ACT_ARRIVE_RACE_ALGA
+0x4454EDC4=E1FCC3_ACT_ARRIVE_RACE_ALGA
+
+;0x480E6AA0=E1FCT3_ACT_ARRIVE_RACE_ALG_FA
+0x480E6AA0=E1FCT3_ACT_ARRIVE_RACE_ALG_FA
+
+;0x4A1AFC34=E1FCC3_ACT_ARRIVE_RACE_ALG_CA
+0x4A1AFC34=E1FCC3_ACT_ARRIVE_RACE_ALG_CA
+
+;0x4DBE4CBF=~z~The race is all set up in Alderney.
+0x4DBE4CBF=~z~The race is all set up in Alderney.
+
+;0x4E173625=~z~We're racing in Broker.
+0x4E173625=~z~We're racing in Broker.
+
+;0x4F3279AB=~z~OK Johnny. I hope you're ready for a race.
+0x4F3279AB=~z~OK Johnny. I hope you're ready for a race.
+
+;0x5036A2F3=~z~The start line's in Acter Industrial.
+0x5036A2F3=~z~The start line's in Acter Industrial.
+
+;0x52111853=100
+0x52111853=100
+
+;0x54BA3A92=~z~Slow to the start of this race, you'll be slow to the finish too. Let's go.
+0x54BA3A92=~z~Slow to the start of this race, you'll be slow to the finish too. Let's go.
+
+;0x56BD443A=~z~Right man. We're racing in Tudor.
+0x56BD443A=~z~Right man. We're racing in Tudor.
+
+;0x57C1ADD3=100
+0x57C1ADD3=100
+
+;0x5B3CD070=~z~The race is in Broker.
+0x5B3CD070=~z~The race is in Broker.
+
+;0x5C92E4C3=100
+0x5C92E4C3=100
+
+;0x5CBCA8C4=100
+0x5CBCA8C4=100
+
+;0x5DD296EB=~z~OK, let's race, man.
+0x5DD296EB=~z~OK, let's race, man.
+
+;0x60ABB992=100
+0x60ABB992=100
+
+;0x6188F7F8=E1FCT3_ACT_ARRIVE_RACE_DUKA
+0x6188F7F8=E1FCT3_ACT_ARRIVE_RACE_DUKA
+
+;0x61A0CAAC=~z~The race is gonna kick off in Westdyke.
+0x61A0CAAC=~z~The race is gonna kick off in Westdyke.
+
+;0x61F4DA6B=E1FCT3_ACT_ARRIVE_RACE_BRK_SA
+0x61F4DA6B=E1FCT3_ACT_ARRIVE_RACE_BRK_SA
+
+;0x620AC6D0=E1FCC3_ACT_ARRIVE_BIKE_LATE_RACEA
+0x620AC6D0=E1FCC3_ACT_ARRIVE_BIKE_LATE_RACEA
+
+;0x625327E8=100
+0x625327E8=100
+
+;0x63FE2D3B=~z~The race starts in Acter Industrial.
+0x63FE2D3B=~z~The race starts in Acter Industrial.
+
+;0x64EC698A=E1FCT3_ACT_ARRIVE_RACE_BRKA
+0x64EC698A=E1FCT3_ACT_ARRIVE_RACE_BRKA
+
+;0x6530502E=100
+0x6530502E=100
+
+;0x6573E1A7=~z~Ok, the race is in Tudor.
+0x6573E1A7=~z~Ok, the race is in Tudor.
+
+;0x667DDE19=~z~How kind of you to join us, Jonathan. Let's get this shit started.
+0x667DDE19=~z~How kind of you to join us, Jonathan. Let's get this shit started.
+
+;0x66A2E4AE=E1FCC3_ACT_MEET_AT_ACTIVITY_NOT_LATEA
+0x66A2E4AE=E1FCC3_ACT_MEET_AT_ACTIVITY_NOT_LATEA
+
+;0x694A36FB=100
+0x694A36FB=100
+
+;0x69964B81=~z~Nice bat, man. I'll try not to smack you in the face with it. Ha ha.
+0x69964B81=~z~Nice bat, man. I'll try not to smack you in the face with it. Ha ha.
+
+;0x69BCED70=~z~The race starts in Broker.
+0x69BCED70=~z~The race starts in Broker.
+
+;0x69E65089=~z~We're racing in Algonquin.
+0x69E65089=~z~We're racing in Algonquin.
+
+;0x6AF9E893=~z~We're gonna race in South Broker.
+0x6AF9E893=~z~We're gonna race in South Broker.
+
+;0x6C6010F7=~z~The race is throwing down in Dukes.
+0x6C6010F7=~z~The race is throwing down in Dukes.
+
+;0x6D4DC104=~z~We're racing in Alderney.
+0x6D4DC104=~z~We're racing in Alderney.
+
+;0x6E761039=~z~The race starts in Dukes.
+0x6E761039=~z~The race starts in Dukes.
+
+;0x6FE63CF2=E1FCC3_ACT_ARRIVE_RACE_ALG_HA
+0x6FE63CF2=E1FCC3_ACT_ARRIVE_RACE_ALG_HA
+
+;0x716A20B3=100
+0x716A20B3=100
+
+;0x73636E31=~z~The starting grid is in Westdyke.
+0x73636E31=~z~The starting grid is in Westdyke.
+
+;0x774C880C=~z~We're opening up in Broker.
+0x774C880C=~z~We're opening up in Broker.
+
+;0x77A5CD51=E1FCC3_ACT_ARRIVE_RACE_ALD_IA
+0x77A5CD51=E1FCC3_ACT_ARRIVE_RACE_ALD_IA
+
+;0x794C0537=~z~The race is gonna be in South Broker.
+0x794C0537=~z~The race is gonna be in South Broker.
+
+;0x7CBD0FFF=~z~Hey Johnny. You ready for a race, man?
+0x7CBD0FFF=~z~Hey Johnny. You ready for a race, man?
+
+;0x7CEF75D9=~z~We got an Algonquin race to win.
+0x7CEF75D9=~z~We got an Algonquin race to win.
+
+;0x7E21B47A=~z~The race is in Dukes.
+0x7E21B47A=~z~The race is in Dukes.
+
+;0x7EB367FF=100
+0x7EB367FF=100
+
+;0x7FFB95B4=E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_RACEA
+0x7FFB95B4=E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_RACEA
+
+;0x800D744C=E1FCC3_ACT_ARRIVE_RACE_ALD_TA
+0x800D744C=E1FCC3_ACT_ARRIVE_RACE_ALD_TA
+
+;0x80D0D45F=~z~This thing kicks off at Francis International.
+0x80D0D45F=~z~This thing kicks off at Francis International.
+
+;0x82AEF2D0=100
+0x82AEF2D0=100
+
+;0x84526FE2=E1FCC3_ACT_ARRIVE_RACE_ALD_CA
+0x84526FE2=E1FCC3_ACT_ARRIVE_RACE_ALD_CA
+
+;0x85AFFDE9=100
+0x85AFFDE9=100
+
+;0x8784B734=~z~Hammer down in Bohan.
+0x8784B734=~z~Hammer down in Bohan.
+
+;0x8AC3ABDE=E1FCT3_ACT_ARRIVE_RACE_ALD_WA
+0x8AC3ABDE=E1FCT3_ACT_ARRIVE_RACE_ALD_WA
+
+;0x8BD18F8B=~z~Johnny boy. Good to see you, man.
+0x8BD18F8B=~z~Johnny boy. Good to see you, man.
+
+;0x8DF918AE=~z~The race starts in Algonquin.
+0x8DF918AE=~z~The race starts in Algonquin.
+
+;0x8F0827DA=100
+0x8F0827DA=100
+
+;0x8FA97210=~z~It's an airport race - Francis International.
+0x8FA97210=~z~It's an airport race - Francis International.
+
+;0x8FFCD830=~z~We're proving our manliness in Dukes.
+0x8FFCD830=~z~We're proving our manliness in Dukes.
+
+;0x918404D5=E1FCC3_ACT_ARRIVE_RACE_ALDA
+0x918404D5=E1FCC3_ACT_ARRIVE_RACE_ALDA
+
+;0x938E4C57=RACES_AA
+0x938E4C57=RACES_AA
+
+;0x93DADB02=~z~We're racing in Dukes.
+0x93DADB02=~z~We're racing in Dukes.
+
+;0x9945DAB6=~z~We're gonna rip it open in Bohan.
+0x9945DAB6=~z~We're gonna rip it open in Bohan.
+
+;0x99D39787=~z~The race starts at Middle Park.
+0x99D39787=~z~The race starts at Middle Park.
+
+;0x99DF0EB7=~z~We gotta dodge tourists in Middle Park.
+0x99DF0EB7=~z~We gotta dodge tourists in Middle Park.
+
+;0x9CF2F459=100
+0x9CF2F459=100
+
+;0x9D8CF88A=100
+0x9D8CF88A=100
+
+;0x9FABBC13=~z~The race is in Algonquin.
+0x9FABBC13=~z~The race is in Algonquin.
+
+;0xA2B17DA1=~z~Dukes, baby, Dukes. That's where it's at.
+0xA2B17DA1=~z~Dukes, baby, Dukes. That's where it's at.
+
+;0xA5CBB4D0=100
+0xA5CBB4D0=100
+
+;0xA6207F8D=~z~The race is in Dukes.
+0xA6207F8D=~z~The race is in Dukes.
+
+;0xA6542681=100
+0xA6542681=100
+
+;0xA6EEB325=E1FCC3_ACT_ARRIVE_RACE_FIAA
+0xA6EEB325=E1FCC3_ACT_ARRIVE_RACE_FIAA
+
+;0xAA127C4F=~z~We're throwing it down in Bohan.
+0xAA127C4F=~z~We're throwing it down in Bohan.
+
+;0xAA7AC685=E1FCC3_ACT_ARRIVE_RACE_DUKA
+0xAA7AC685=E1FCC3_ACT_ARRIVE_RACE_DUKA
+
+;0xAAA685BF=~z~The race goes from Westdyke.
+0xAAA685BF=~z~The race goes from Westdyke.
+
+;0xAB7D0C8F=~z~The race starts in Bohan.
+0xAB7D0C8F=~z~The race starts in Bohan.
+
+;0xB0E36DE1=E1FCT3_ACT_ARRIVE_RACE_ALD_IA
+0xB0E36DE1=E1FCT3_ACT_ARRIVE_RACE_ALD_IA
+
+;0xB28F656B=E1FCT3_ACT_ARRIVE_RACE_BOHA
+0xB28F656B=E1FCT3_ACT_ARRIVE_RACE_BOHA
+
+;0xB8AC26ED=~z~OK, we're gonna race Bohan.
+0xB8AC26ED=~z~OK, we're gonna race Bohan.
+
+;0xB942F95B=E1FCT3_ACT_ARRIVE_RACE_ALG_MA
+0xB942F95B=E1FCT3_ACT_ARRIVE_RACE_ALG_MA
+
+;0xC0819735=~z~We're racing in Alderney City.
+0xC0819735=~z~We're racing in Alderney City.
+
+;0xC499523F=~z~The race is in Castle Gardens.
+0xC499523F=~z~The race is in Castle Gardens.
+
+;0xC55AC6AB=E1FCT3_ACT_ARRIVE_BIKE_LATE_RACEA
+0xC55AC6AB=E1FCT3_ACT_ARRIVE_BIKE_LATE_RACEA
+
+;0xC5FD14D4=100
+0xC5FD14D4=100
+
+;0xC70CE912=~z~It's on in Middle Park.
+0xC70CE912=~z~It's on in Middle Park.
+
+;0xCA9DBCBA=~z~We're racing in Fishmarket.
+0xCA9DBCBA=~z~We're racing in Fishmarket.
+
+;0xCACA17A7=100
+0xCACA17A7=100
+
+;0xCCA6F336=E1FCC3_ACT_ARRIVE_RACE_ALG_MA
+0xCCA6F336=E1FCC3_ACT_ARRIVE_RACE_ALG_MA
+
+;0xCD4353B5=100
+0xCD4353B5=100
+
+;0xD05E9CBA=~z~It's a race through Algonquin.
+0xD05E9CBA=~z~It's a race through Algonquin.
+
+;0xD100D796=~z~We're racing in Bohan.
+0xD100D796=~z~We're racing in Bohan.
+
+;0xD1808974=~z~The race is in Alderney.
+0xD1808974=~z~The race is in Alderney.
+
+;0xD1EC3A60=~z~Ready to race, John boy. Bet you been tuning your bike all this time.
+0xD1EC3A60=~z~Ready to race, John boy. Bet you been tuning your bike all this time.
+
+;0xD3A5E67B=E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_RACEA
+0xD3A5E67B=E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_RACEA
+
+;0xD3C1201E=090
+0xD3C1201E=090
+
+;0xD66AD448=~z~OK, we're gonna race Fishmarket.
+0xD66AD448=~z~OK, we're gonna race Fishmarket.
+
+;0xD722F752=~z~OK, we need to get to Castle Gardens.
+0xD722F752=~z~OK, we need to get to Castle Gardens.
+
+;0xD83446F0=~z~It's time to get your ass beat, Johnny. Come on.
+0xD83446F0=~z~It's time to get your ass beat, Johnny. Come on.
+
+;0xD922296E=E1FCT3_ACT_ARRIVE_RACE_ALD_CA
+0xD922296E=E1FCT3_ACT_ARRIVE_RACE_ALD_CA
+
+;0xD93AE80A=~z~The race is in Bohan.
+0xD93AE80A=~z~The race is in Bohan.
+
+;0xDEC4E6D4=100
+0xDEC4E6D4=100
+
+;0xE046443F=~z~The race is in Holland.
+0xE046443F=~z~The race is in Holland.
+
+;0xE17D3EF7=~z~We're racing in Algonquin.
+0xE17D3EF7=~z~We're racing in Algonquin.
+
+;0xE17FBC65=~z~We're dicing through South Broker.
+0xE17FBC65=~z~We're dicing through South Broker.
+
+;0xE2A2D661=~z~Did you park it on the way over here to save energy for the race Johnny? Let's do it, man.
+0xE2A2D661=~z~Did you park it on the way over here to save energy for the race Johnny? Let's do it, man.
+
+;0xE3562D1F=~z~This is happening in Alderney.
+0xE3562D1F=~z~This is happening in Alderney.
+
+;0xE37F2246=~z~Johnny, let's do some racing, man.
+0xE37F2246=~z~Johnny, let's do some racing, man.
+
+;0xE5874369=~z~Ha ha. Nice bat. Let's give these bitches some road rash.
+0xE5874369=~z~Ha ha. Nice bat. Let's give these bitches some road rash.
+
+;0xE7DFC1F0=~z~I know you love the fishmarket, so that's where the race is happening.
+0xE7DFC1F0=~z~I know you love the fishmarket, so that's where the race is happening.
+
+;0xE924EBBB=~z~The race is on in Broker.
+0xE924EBBB=~z~The race is on in Broker.
+
+;0xEAC683F9=~z~Better late then never. You'd better be ready to race, brother.
+0xEAC683F9=~z~Better late then never. You'd better be ready to race, brother.
+
+;0xECE1F692=E1FCT3_ACT_ARRIVE_RACE_FIAA
+0xECE1F692=E1FCT3_ACT_ARRIVE_RACE_FIAA
+
+;0xED1C40AB=~z~Alderney is where this race is gonna happen.
+0xED1C40AB=~z~Alderney is where this race is gonna happen.
+
+;0xEE67E082=~z~This shit goes down in Holland.
+0xEE67E082=~z~This shit goes down in Holland.
+
+;0xF1CF7297=E1FCT3_ACT_ARRIVE_RACE_ALG_HA
+0xF1CF7297=E1FCT3_ACT_ARRIVE_RACE_ALG_HA
+
+;0xF3E5A301=100
+0xF3E5A301=100
+
+;0xF569FBEF=~z~Did you forget how to use that throttle, man? Well you better start learning. Let's get this race started.
+0xF569FBEF=~z~Did you forget how to use that throttle, man? Well you better start learning. Let's get this race started.
+
+;0xF6AC018C=~z~Castel Gardens is where this race happens.
+0xF6AC018C=~z~Castel Gardens is where this race happens.
+
+;0xF888633D=~z~We racing in Fishmarket.
+0xF888633D=~z~We racing in Fishmarket.
+
+;0xF8968B25=~z~OK, we're gonna race Broker.
+0xF8968B25=~z~OK, we're gonna race Broker.
+
+;0xF99169CF=100
+0xF99169CF=100
+
+;0xF9ABEB3E=~z~Johnny, ain't you an ugly son of a bitch.
+0xF9ABEB3E=~z~Johnny, ain't you an ugly son of a bitch.
+
+;0xF9E8043E=~z~Tudor's where this thing starts.
+0xF9E8043E=~z~Tudor's where this thing starts.
+
+;0xFBCB3D73=100
+0xFBCB3D73=100
+
+;0xFC742754=~z~Shit man. I thought you was never gonna get here. OK, let's do some racing.
+0xFC742754=~z~Shit man. I thought you was never gonna get here. OK, let's do some racing.
+
+;0xFDF1F7E0=~z~Algonquin is where we're racing.
+0xFDF1F7E0=~z~Algonquin is where we're racing.
+

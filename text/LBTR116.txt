@@ -1,0 +1,49 @@
+﻿[LBTR116]
+;0x00BCBB92=TJ Barry
+0x00BCBB92=TJ Barry
+
+;0x078B558B=Mary Williamson
+0x078B558B=Mary Williamson
+
+;0x29FC702D=Security officials were unavailable for comment, but did ask for more funding, especially desiring a better gym, and more breaks, blaming work stress on the recent problems at the Airport. One airport security guard told us "It is tiring annoying people all day long, and sometimes we have to work for an hour straight. No wonder all these drugs get through and people keep getting shot."
+0x29FC702D=Security officials were unavailable for comment, but did ask for more funding, especially desiring a better gym, and more breaks, blaming work stress on the recent problems at the Airport. One airport security guard told us "It is tiring annoying people all day long, and sometimes we have to work for an hour straight. No wonder all these drugs get through and people keep getting shot."
+
+;0x2AEA8674=Hermaphrodite Island cancelled
+0x2AEA8674=Hermaphrodite Island cancelled
+
+;0x38EF9A61=Carnage at the airport.
+0x38EF9A61=Carnage at the airport.
+
+;0x4810B85E=Michael Wayne
+0x4810B85E=Michael Wayne
+
+;0x51F8402C=While thousands of security guards were busy giving cavity searches to old ladies they did not like the look of, carnage erupted in immigration, and for once it was not because a Mexican was trying to sneak in.
+0x51F8402C=While thousands of security guards were busy giving cavity searches to old ladies they did not like the look of, carnage erupted in immigration, and for once it was not because a Mexican was trying to sneak in.
+
+;0x65216DD4=It appears that it takes more than a boatload of booze and a smorgasbord of tiny reproductive organs to have a hit series these days. It was billed as: 'One island full of genetic disasters' but CNT's primetime show, Hermaphrodite Island, has been cancelled after just one season following disastrous viewing figures. The producers tried everything from Bikini Tuesdays to Absinthe Thursdays to Jockstrap Fridays but, apart from a confusing fumble between Dave and Ken in the mud pit, passion failed to ignite between the contestants and angry reality TV fans began switching off in their droves. Phoebe, the star of the show, says her calendar will be out in time for Christmas and will excite both men and women.
+0x65216DD4=It appears that it takes more than a boatload of booze and a smorgasbord of tiny reproductive organs to have a hit series these days. It was billed as: 'One island full of genetic disasters' but CNT's primetime show, Hermaphrodite Island, has been cancelled after just one season following disastrous viewing figures. The producers tried everything from Bikini Tuesdays to Absinthe Thursdays to Jockstrap Fridays but, apart from a confusing fumble between Dave and Ken in the mud pit, passion failed to ignite between the contestants and angry reality TV fans began switching off in their droves. Phoebe, the star of the show, says her calendar will be out in time for Christmas and will excite both men and women.
+
+;0x7CE03002=No treasures on this island
+0x7CE03002=No treasures on this island
+
+;0x80C19DBE=A routine arrest for drugs trafficking on the flight into Francis International from Bogota ended in chaos and carnage. A suspected drug smuggler was freed by an accomplice amid a hail of bullets in scenes not seen at the airport since the last major security breach. The smuggler was freed and rescued by an accomplice as a bloody fire storm ensued, and security and innocent by standers were killed. The suspect is described as being "probably foreign" with "a foreign, creepy vibe, like a rapist." Or "one of those white guys who becomes a terrorist."
+0x80C19DBE=A routine arrest for drugs trafficking on the flight into Francis International from Bogota ended in chaos and carnage. A suspected drug smuggler was freed by an accomplice amid a hail of bullets in scenes not seen at the airport since the last major security breach. The smuggler was freed and rescued by an accomplice as a bloody fire storm ensued, and security and innocent by standers were killed. The suspect is described as being "probably foreign" with "a foreign, creepy vibe, like a rapist." Or "one of those white guys who becomes a terrorist."
+
+;0x92BE5AD0=Arrest for smuggling goes wrong.
+0x92BE5AD0=Arrest for smuggling goes wrong.
+
+;0xB8BBD00C=Problem at customs
+0xB8BBD00C=Problem at customs
+
+;0xB98B1949=Passengers feel the loaf pinch of the economic crisis.
+0xB98B1949=Passengers feel the loaf pinch of the economic crisis.
+
+;0xBF933A91=Air Travel officially stinks.
+0xBF933A91=Air Travel officially stinks.
+
+;0xC2D71394=Now they're charging for everything. Tiny, germ-infested pillow? $10. Glass of warm water? $5. In-flight magazine full of old toenails and dried vomit? $4. Stale bag of party mix? $6. The final insult is the $3 to take a dump in a restroom the size of a coffin Air Sol began charging. A new range of adult protective underwear called Flypers has been selling out in airports across the country. We used to have the most envied airline industry in the world. Now we sit in our filth for five hours. Like foreigners.
+0xC2D71394=Now they're charging for everything. Tiny, germ-infested pillow? $10. Glass of warm water? $5. In-flight magazine full of old toenails and dried vomit? $4. Stale bag of party mix? $6. The final insult is the $3 to take a dump in a restroom the size of a coffin Air Sol began charging. A new range of adult protective underwear called Flypers has been selling out in airports across the country. We used to have the most envied airline industry in the world. Now we sit in our filth for five hours. Like foreigners.
+
+;0xD0222E2A=Remember the good old days of air travel? Getting served endless miniature bottles of cheap vodka by statuesque blondes in low-cut tops and short skirts? Flying used to be considered the height of luxury. Now you have to print off your own ticket, check in your own bags and submit yourself to humiliating security checks before being herded like cattle onto a filthy plane to sit for 2 hours on the runway because an undertrained stoner in air traffic control hit ESC by mistake.
+0xD0222E2A=Remember the good old days of air travel? Getting served endless miniature bottles of cheap vodka by statuesque blondes in low-cut tops and short skirts? Flying used to be considered the height of luxury. Now you have to print off your own ticket, check in your own bags and submit yourself to humiliating security checks before being herded like cattle onto a filthy plane to sit for 2 hours on the runway because an undertrained stoner in air traffic control hit ESC by mistake.
+

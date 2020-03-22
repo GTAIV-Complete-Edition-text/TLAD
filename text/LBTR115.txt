@@ -1,0 +1,34 @@
+﻿[LBTR115]
+;0x116C5E42=Air Sol now charging for use of the toilets on board
+0x116C5E42=Air Sol now charging for use of the toilets on board
+
+;0x13A6E166=Tony J Smith
+0x13A6E166=Tony J Smith
+
+;0x4B883F92=Karma Killings?
+0x4B883F92=Karma Killings?
+
+;0x5A375CAB=Richie Score
+0x5A375CAB=Richie Score
+
+;0x68527693=After several incidents of wrongful shooting by the Liberty City Police Departments this year, it seems that the shoe is finally on the other foot. The bodies of several police offices were found in Acter Industrial Park earlier. Amongst them, Detectives Jimmy Matthews and Ed McCornish.
+0x68527693=After several incidents of wrongful shooting by the Liberty City Police Departments this year, it seems that the shoe is finally on the other foot. The bodies of several police offices were found in Acter Industrial Park earlier. Amongst them, Detectives Jimmy Matthews and Ed McCornish.
+
+;0x886C963F=Every human needs water to survive and must expel that water - both of which have airline execs seeing green. The announcement that beleaguered airline, Air Sol, has started charging passengers to use the restrooms on all domestic and international flights could have passengers hiding their daily dump in the front seat pocket.
+0x886C963F=Every human needs water to survive and must expel that water - both of which have airline execs seeing green. The announcement that beleaguered airline, Air Sol, has started charging passengers to use the restrooms on all domestic and international flights could have passengers hiding their daily dump in the front seat pocket.
+
+;0x8F17441C=Sources within the District Attorney's Office have revealed that there were multiple Internal Affairs investigations against these officers who were suspected of involvement in several corruption scandals. At the time of their death, the two were thought to be investigating the Angels of Death Motorcycle Club. An AODMC spokesman denied any club involvement in illegal activities. "This is typical of the LCPD, a bent cop gets what's coming to him and they blame it on decent hardworking American bikers."
+0x8F17441C=Sources within the District Attorney's Office have revealed that there were multiple Internal Affairs investigations against these officers who were suspected of involvement in several corruption scandals. At the time of their death, the two were thought to be investigating the Angels of Death Motorcycle Club. An AODMC spokesman denied any club involvement in illegal activities. "This is typical of the LCPD, a bent cop gets what's coming to him and they blame it on decent hardworking American bikers."
+
+;0x993E67D0=Two detectives under investigation found murdered.
+0x993E67D0=Two detectives under investigation found murdered.
+
+;0xA302CB6B=It's time to wake up and smell the lukewarm, germ-infested airplane coffee. This recession is barely out of the starting block. Buy gold, stay at home and pray that your pension and healthcare policy are worth more than the paper they're written on by the time you reach retirement. The time to panic has arrived.
+0xA302CB6B=It's time to wake up and smell the lukewarm, germ-infested airplane coffee. This recession is barely out of the starting block. Buy gold, stay at home and pray that your pension and healthcare policy are worth more than the paper they're written on by the time you reach retirement. The time to panic has arrived.
+
+;0xAC723779=Crooked Cops Get Comeuppance
+0xAC723779=Crooked Cops Get Comeuppance
+
+;0xADB60173=Are airlines pissing your money away?
+0xADB60173=Are airlines pissing your money away?
+

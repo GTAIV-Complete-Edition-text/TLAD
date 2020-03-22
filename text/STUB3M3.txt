@@ -1,0 +1,13 @@
+﻿[STUB3M3]
+;0xA6E6A43B=~s~PHONECALL~n~~n~You must destroy a truck.~n~To help you, a bike is armed with a bomb.~n~Bomb becomes armed at 88mph and blows up if speed drops below 88mph.~n~~n~ You can use the bomb to destroy the enemy truck.
+0xA6E6A43B=~s~PHONECALL~n~~n~You must destroy a truck.~n~To help you, a bike is armed with a bomb.~n~Bomb becomes armed at 88mph and blows up if speed drops below 88mph.~n~~n~ You can use the bomb to destroy the enemy truck.
+
+;0xD1404002=~r~BOMB ARMED!
+0xD1404002=~r~BOMB ARMED!
+
+;0xD46F4737=~s~Destroy the ~r~tanker.
+0xD46F4737=~s~Destroy the ~r~tanker.
+
+;0xF59A3AC5=~s~Speed: ~1~mph
+0xF59A3AC5=~s~Speed: ~1~mph
+

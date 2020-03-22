@@ -1,0 +1,31 @@
+﻿[LBTR110]
+;0x0477AEF5=We thinks she doth protest too much
+0x0477AEF5=We thinks she doth protest too much
+
+;0x24D9851C="My husband is straight," says Interior's Designer's wife.
+0x24D9851C="My husband is straight," says Interior's Designer's wife.
+
+;0x343E10A5=Staff Writer
+0x343E10A5=Staff Writer
+
+;0x50C9003C=Could prison be a dangerous place?
+0x50C9003C=Could prison be a dangerous place?
+
+;0x8BC7C010=What Went Wrong at Alderney State?
+0x8BC7C010=What Went Wrong at Alderney State?
+
+;0xB7DD2515=Will they all kill each other, and save us the bother?
+0xB7DD2515=Will they all kill each other, and save us the bother?
+
+;0xCE9DD755=Tony J. Smith
+0xCE9DD755=Tony J. Smith
+
+;0xE6EDD044=After the recent murderous incident at Alderney State Correctional Facility, a security review is being called for. Sally Butters of Moms for a Police State says she's "sick and tired of criminals stealing from us. We want to put them to work in order to make the US economy the powerhouse it once was. The private medical sector has worked so well for this country, why can't we privatize everything?"
+0xE6EDD044=After the recent murderous incident at Alderney State Correctional Facility, a security review is being called for. Sally Butters of Moms for a Police State says she's "sick and tired of criminals stealing from us. We want to put them to work in order to make the US economy the powerhouse it once was. The private medical sector has worked so well for this country, why can't we privatize everything?"
+
+;0xF30835BC=Ever since the flamboyant interior designer, Dalton Randolph, hit the public eye as star of the home makeover show Posh Touch For Poor Schmucks, online message boards have buzzed with claims that he is as gay as a picnic basket and his marriage is a sham. Now, finally, Dalton and his wife Betania have decided to speak out against the constant barrage of accusations. In an exclusive interview, Betania told the Liberty Tree, "He hasn't decorated my interior since the wedding night, I'll admit, but I know what my husband is and isn't. I'd never dream of going shopping for clothes without him. Nobody understands layering like Dalton. Can't a man wear fuchsia and depilate these days without being called gay?" Randolph, who says that he is waging a one-man war against terracotta, is best-known for jumping up and down and clapping while squealing, "What is this hot mess?" when he walks into somebody's house for the first time. The jury might still be out on this one.
+0xF30835BC=Ever since the flamboyant interior designer, Dalton Randolph, hit the public eye as star of the home makeover show Posh Touch For Poor Schmucks, online message boards have buzzed with claims that he is as gay as a picnic basket and his marriage is a sham. Now, finally, Dalton and his wife Betania have decided to speak out against the constant barrage of accusations. In an exclusive interview, Betania told the Liberty Tree, "He hasn't decorated my interior since the wedding night, I'll admit, but I know what my husband is and isn't. I'd never dream of going shopping for clothes without him. Nobody understands layering like Dalton. Can't a man wear fuchsia and depilate these days without being called gay?" Randolph, who says that he is waging a one-man war against terracotta, is best-known for jumping up and down and clapping while squealing, "What is this hot mess?" when he walks into somebody's house for the first time. The jury might still be out on this one.
+
+;0xF91B749F=Certain liberal groups have blamed the incident on strict prison rules. They call for regular meditation sessions and Reiki training for all guards. Earth-Song Bowden, a campaigner for prisoner rights, says "most violent tendencies can be traced to a misalignment of Chakras. We need to treat the cause of the problem. Not the symptom." Whatever the reason for what happened, something has to change at Alderney State. Parents have enough to worry about with terrorists on the loose and our economy failing, our prisons must remain secure.
+0xF91B749F=Certain liberal groups have blamed the incident on strict prison rules. They call for regular meditation sessions and Reiki training for all guards. Earth-Song Bowden, a campaigner for prisoner rights, says "most violent tendencies can be traced to a misalignment of Chakras. We need to treat the cause of the problem. Not the symptom." Whatever the reason for what happened, something has to change at Alderney State. Parents have enough to worry about with terrorists on the loose and our economy failing, our prisons must remain secure.
+

@@ -1,0 +1,25 @@
+﻿[SKATE]
+;0x66BED4CD=You must reach up and get in the zone for a pass.
+0x66BED4CD=You must reach up and get in the zone for a pass.
+
+;0x75DE3FF0=You must hit both sides of the ramp for a pass.
+0x75DE3FF0=You must hit both sides of the ramp for a pass.
+
+;0x7BE9320F=~s~Press ~PAD_LB~ for skate park tutorial.
+0x7BE9320F=~s~Press ~PAD_LB~ for skate park tutorial.
+
+;0x84DC271F=~s~Drive though the coronas in the sky.~n~Land and stop on coronas close to the ground.
+0x84DC271F=~s~Drive though the coronas in the sky.~n~Land and stop on coronas close to the ground.
+
+;0xBAE6C251=You must land and stop on the blue box for a pass.
+0xBAE6C251=You must land and stop on the blue box for a pass.
+
+;0xCDD95BC1=~s~You got it!
+0xCDD95BC1=~s~You got it!
+
+;0xE34FC555=~s~Well done! All Completed
+0xE34FC555=~s~Well done! All Completed
+
+;0xFF6220A6=~r~You broke the bike.
+0xFF6220A6=~r~You broke the bike.
+

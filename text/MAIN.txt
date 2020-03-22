@@ -1,0 +1,3964 @@
+﻿[MAIN]
+;0xA6A5CA88=Diabolus
+0xA6A5CA88=Diabolus
+
+;0xBB20B6B9=Nightblade
+0xBB20B6B9=Nightblade
+
+;0xEA9789D1=Revenant
+0xEA9789D1=Revenant
+
+;0x647986EA=Wolfsbane
+0x647986EA=Wolfsbane
+
+;0x2FCECEB7=Lycan
+0x2FCECEB7=Lycan
+
+;0x11F76C14=Hexer
+0x11F76C14=Hexer
+
+;0xDDF716D8=Angel
+0xDDF716D8=Angel
+
+;0x77934CEE=Daemon
+0x77934CEE=Daemon
+
+;0xE2D00195=Innovation
+0xE2D00195=Innovation
+
+;0x97FA4F36=Gang Burrito
+0x97FA4F36=Gang Burrito
+
+;0x2B7F9DE3=Slamvan
+0x2B7F9DE3=Slamvan
+
+;0xB12314E0=Towtruck
+0xB12314E0=Towtruck
+
+;0xF9300CC5=Bati 800
+0xF9300CC5=Bati 800
+
+;0xB569E154=Wayfarer
+0xB569E154=Wayfarer
+
+;0xCADD5D2D=Bati Custom
+0xCADD5D2D=Bati Custom
+
+;0x9C669788=Double T
+0x9C669788=Double T
+
+;0x971AB25B=Double T Custom
+0x971AB25B=Double T Custom
+
+;0x885F3671=Prison Bus
+0x885F3671=Prison Bus
+
+;0x8EDCFA90=Yankee
+0x8EDCFA90=Yankee
+
+;0xA99B5BBA=Hakuchou
+0xA99B5BBA=Hakuchou
+
+;0xB3CEE5E4=Hakuchou Custom
+0xB3CEE5E4=Hakuchou Custom
+
+;0x322CF98F=Rhapsody
+0x322CF98F=Rhapsody
+
+;0xFF22D208=Regina
+0xFF22D208=Regina
+
+;0x39F9C898=Tampa
+0x39F9C898=Tampa
+
+;0xFC5A022C=Terry
+0xFC5A022C=Terry
+
+;0x13242FC0=Clay
+0x13242FC0=Clay
+
+;0x68DE63CF=Billy progress
+0x68DE63CF=Billy progress
+
+;0x56443E9B=Jim progress
+0x56443E9B=Jim progress
+
+;0xD392B932=Jim respect
+0xD392B932=Jim respect
+
+;0xA2435694=Jim like
+0xA2435694=Jim like
+
+;0xAF25F059=Stubbs progress
+0xAF25F059=Stubbs progress
+
+;0x7D018C11=Ashley progress
+0x7D018C11=Ashley progress
+
+;0xFEEC0FE8=Elizabeta progress
+0xFEEC0FE8=Elizabeta progress
+
+;0x0CABAB67=Ray progress
+0x0CABAB67=Ray progress
+
+;0xDA6B46E3=Terry respect
+0xDA6B46E3=Terry respect
+
+;0x3B668774=Terry like
+0x3B668774=Terry like
+
+;0xC5B39C0C=Clay respect
+0xC5B39C0C=Clay respect
+
+;0xD17DB3A0=Clay like
+0xD17DB3A0=Clay like
+
+;0xE29755D3=Game Progress
+0xE29755D3=Game Progress
+
+;0xAA7E659E=Times played air hockey
+0xAA7E659E=Times played air hockey
+
+;0xBB420725=Times won air hockey
+0xBB420725=Times won air hockey
+
+;0xD4DD3A5B=Number of racers knocked off their bike
+0xD4DD3A5B=Number of racers knocked off their bike
+
+;0x519533D1=Favorite activity with Jim
+0x519533D1=Favorite activity with Jim
+
+;0xEDC4EF56=Favorite activity with Terry
+0xEDC4EF56=Favorite activity with Terry
+
+;0xDC874CDB=Favorite activity with Clay
+0xDC874CDB=Favorite activity with Clay
+
+;0x0A26281C=Bike race wins
+0x0A26281C=Bike race wins
+
+;0x86332034=Seagulls exterminated
+0x86332034=Seagulls exterminated
+
+;0xB4C97D60=Number of bikes delivered
+0xB4C97D60=Number of bikes delivered
+
+;0xA38FDAED=Stubbs' dirty laundry washed
+0xA38FDAED=Stubbs' dirty laundry washed
+
+;0x2753EDFB=Times backup was called
+0x2753EDFB=Times backup was called
+
+;0x14F84944=Terry toughness
+0x14F84944=Terry toughness
+
+;0xF9B912C6=Clay toughness
+0xF9B912C6=Clay toughness
+
+;0x0CFF387A=Gang wars complete
+0x0CFF387A=Gang wars complete
+
+;0xFE4D9B17=Times played hi-lo cards
+0xFE4D9B17=Times played hi-lo cards
+
+;0x632C64D3=Times won hi-lo cards
+0x632C64D3=Times won hi-lo cards
+
+;0xF92813F8=Times played arm wrestling
+0xF92813F8=Times played arm wrestling
+
+;0x25636C6E=Times won arm wrestling
+0x25636C6E=Times won arm wrestling
+
+;0x68D4B861=Kills with Grenade Launcher
+0x68D4B861=Kills with Grenade Launcher
+
+;0x5AE91C8A=Kills with Assault Shotgun
+0x5AE91C8A=Kills with Assault Shotgun
+
+;0xE42E2F1E=Kills with Pool Cue
+0xE42E2F1E=Kills with Pool Cue
+
+;0xC3693EE6=Kills with Sawn-off Shotgun
+0xC3693EE6=Kills with Sawn-off Shotgun
+
+;0xD5286264=Kills with Automatic 9mm
+0xD5286264=Kills with Automatic 9mm
+
+;0x67E087D6=Kills with Pipe Bombs
+0x67E087D6=Kills with Pipe Bombs
+
+;0x1EB512C0=Favorite activity with Jim
+0x1EB512C0=Favorite activity with Jim
+
+;0x23751C48=Favorite activity with Terry
+0x23751C48=Favorite activity with Terry
+
+;0x31ACB8B7=Favorite activity with Clay
+0x31ACB8B7=Favorite activity with Clay
+
+;0xC24DC3FA=Air Hockey
+0xC24DC3FA=Air Hockey
+
+;0x2D122288=Gang War
+0x2D122288=Gang War
+
+;0x398FD3A7=Hanging Out
+0x398FD3A7=Hanging Out
+
+;0x7C768C03=Races
+0x7C768C03=Races
+
+;0x35DD168F=Hi-Lo Cards
+0x35DD168F=Hi-Lo Cards
+
+;0x8F90F949=Arm Wrestling
+0x8F90F949=Arm Wrestling
+
+;0x9DB6E765=All seagulls killed. LC is a quieter place.
+0x9DB6E765=All seagulls killed. LC is a quieter place.
+
+;0x10216D02=~1~ seagulls left in Liberty City.
+0x10216D02=~1~ seagulls left in Liberty City.
+
+;0x6B6F5380=Just one seagull left in Liberty City.
+0x6B6F5380=Just one seagull left in Liberty City.
+
+;0xEE96E6A2=Billy
+0xEE96E6A2=Billy
+
+;0x7C508217=Corrupt Politician
+0x7C508217=Corrupt Politician
+
+;0xDA093D87=Jim
+0xDA093D87=Jim
+
+;0x4BC1F284=Leila
+0x4BC1F284=Leila
+
+;0x1B191133=Billy
+0x1B191133=Billy
+
+;0x783CCB81=Stubbs
+0x783CCB81=Stubbs
+
+;0x8589E61B=Elizabeta
+0x8589E61B=Elizabeta
+
+;0x9ED718CD=Ray Boccino
+0x9ED718CD=Ray Boccino
+
+;0xAD4A35B3=Ashley
+0xAD4A35B3=Ashley
+
+;0x0A51EFC1=Jim
+0x0A51EFC1=Jim
+
+;0xD8960C4A=Contact
+0xD8960C4A=Contact
+
+;0xE5BC2696=Contact
+0xE5BC2696=Contact
+
+;0x32F24101=Lost Eagle
+0x32F24101=Lost Eagle
+
+;0x474C0808=Arm wrestling
+0x474C0808=Arm wrestling
+
+;0xB98F6C8D=Race
+0xB98F6C8D=Race
+
+;0xA76FC84E=Hi-Lo Card Game
+0xA76FC84E=Hi-Lo Card Game
+
+;0x99BE2CEB=Air hockey
+0x99BE2CEB=Air hockey
+
+;0x84030175=Gang War
+0x84030175=Gang War
+
+;0xF6596620=Pool Cue
+0xF6596620=Pool Cue
+
+;0xF0955A98=Pipe Bomb
+0xF0955A98=Pipe Bomb
+
+;0xE307BF7D=Grenade Launcher
+0xE307BF7D=Grenade Launcher
+
+;0xCD3A93E3=Terry
+0xCD3A93E3=Terry
+
+;0x27724851=Clay
+0x27724851=Clay
+
+;0xDAADAE4D=Territory 1
+0xDAADAE4D=Territory 1
+
+;0xE8F24AD6=Territory 2
+0xE8F24AD6=Territory 2
+
+;0xF744677A=Territory 3
+0xF744677A=Territory 3
+
+;0x858503FD=Territory 4
+0x858503FD=Territory 4
+
+;0xA1B03C53=Territory 5
+0xA1B03C53=Territory 5
+
+;0xAFE6D8C0=Territory 6
+0xAFE6D8C0=Territory 6
+
+;0xBE5CF5AC=Clay's Vehicle
+0xBE5CF5AC=Clay's Vehicle
+
+;0x4C6B91CB=Jim's Weapon
+0x4C6B91CB=Jim's Weapon
+
+;0x33824F3B=Clean and Serene...
+0x33824F3B=Clean and Serene...
+
+;0xC82C86D9=TLAD Complete
+0xC82C86D9=TLAD Complete
+
+;0x5F05447A=Noise Effect
+0x5F05447A=Noise Effect
+
+;0x4F3C3F29=THIS LABEL NEEDS TO BE HERE !!!
+0x4F3C3F29=THIS LABEL NEEDS TO BE HERE !!!
+
+;0xC92D82AF=Dummy label.
+0xC92D82AF=Dummy label.
+
+;0xB4EABB35=Clay is on his way to deliver a bike to you. It is indicated by the ~BLIP_126~ on the radar.
+0xB4EABB35=Clay is on his way to deliver a bike to you. It is indicated by the ~BLIP_126~ on the radar.
+
+;0xADC1E6A2=Jim has left a 9mm Pistol with ~1~ rounds of ammunition for you at The Lost clubhouse.
+0xADC1E6A2=Jim has left a 9mm Pistol with ~1~ rounds of ammunition for you at The Lost clubhouse.
+
+;0x5234AF89=Jim has left a Micro SMG with ~1~ rounds of ammunition for you at The Lost clubhouse.
+0x5234AF89=Jim has left a Micro SMG with ~1~ rounds of ammunition for you at The Lost clubhouse.
+
+;0x2CC964AF=Jim has left a SMG with ~1~ rounds of ammunition for you at The Lost clubhouse.
+0x2CC964AF=Jim has left a SMG with ~1~ rounds of ammunition for you at The Lost clubhouse.
+
+;0xE508D623=Jim has left an Automatic 9mm with ~1~ rounds of ammunition for you at The Lost clubhouse.
+0xE508D623=Jim has left an Automatic 9mm with ~1~ rounds of ammunition for you at The Lost clubhouse.
+
+;0xF8CEFDAF=Jim has left a Sawn-Off Shotgun with ~1~ rounds of ammunition for you at The Lost clubhouse.
+0xF8CEFDAF=Jim has left a Sawn-Off Shotgun with ~1~ rounds of ammunition for you at The Lost clubhouse.
+
+;0x1429B464=Jim has left a Pipe Bomb for you at The Lost clubhouse.
+0x1429B464=Jim has left a Pipe Bomb for you at The Lost clubhouse.
+
+;0xCDE17848=Go to the ~BLIP_127~ to collect the weapon Jim has left.
+0xCDE17848=Go to the ~BLIP_127~ to collect the weapon Jim has left.
+
+;0x824B673E=Press ~INPUT_PICKUP~ to arm wrestle.
+0x824B673E=Press ~INPUT_PICKUP~ to arm wrestle.
+
+;0x71A5C5F3=Who do you want to arm wrestle?~n~Press ~PAD_A~ to challenge Jim.~n~Press ~PAD_B~ to challenge Terry.~n~Press ~PAD_X~ to challenge Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x71A5C5F3=Who do you want to arm wrestle?~n~Press ~PAD_A~ to challenge Jim.~n~Press ~PAD_B~ to challenge Terry.~n~Press ~PAD_X~ to challenge Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x46DDC4E5=Who do you want to arm wrestle?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to challenge Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to challenge Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_3~ to challenge Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x46DDC4E5=Who do you want to arm wrestle?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to challenge Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to challenge Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_3~ to challenge Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0xAAB83817=Who do you want to arm wrestle?~n~Press ~PAD_A~ to challenge Jim.~n~Press ~PAD_B~ to challenge Terry.~n~Press ~INPUT_PICKUP~ to exit.
+0xAAB83817=Who do you want to arm wrestle?~n~Press ~PAD_A~ to challenge Jim.~n~Press ~PAD_B~ to challenge Terry.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x23D46E8F=Who do you want to arm wrestle?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to challenge Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to challenge Terry.~n~Press ~INPUT_PICKUP~ to exit.
+0x23D46E8F=Who do you want to arm wrestle?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to challenge Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to challenge Terry.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x9E199EDA=Who do you want to arm wrestle?~n~Press ~PAD_A~ to challenge Jim.~n~Press ~PAD_B~ to challenge Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x9E199EDA=Who do you want to arm wrestle?~n~Press ~PAD_A~ to challenge Jim.~n~Press ~PAD_B~ to challenge Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x5F4E2940=Who do you want to arm wrestle?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to challenge Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to challenge Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x5F4E2940=Who do you want to arm wrestle?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to challenge Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to challenge Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0xC750F148=Who do you want to arm wrestle?~n~Press ~PAD_A~ to challenge Terry.~n~Press ~PAD_B~ to challenge Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0xC750F148=Who do you want to arm wrestle?~n~Press ~PAD_A~ to challenge Terry.~n~Press ~PAD_B~ to challenge Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x82ABA84E=Who do you want to arm wrestle?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to challenge Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to challenge Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x82ABA84E=Who do you want to arm wrestle?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to challenge Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to challenge Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0xD46F8B85=Press ~INPUT_PICKUP~ to challenge Jim to an arm wrestle.~n~$20 wager.
+0xD46F8B85=Press ~INPUT_PICKUP~ to challenge Jim to an arm wrestle.~n~$20 wager.
+
+;0x02CD6840=Press ~INPUT_PICKUP~ to challenge Terry to an arm wrestle.~n~$20 wager.
+0x02CD6840=Press ~INPUT_PICKUP~ to challenge Terry to an arm wrestle.~n~$20 wager.
+
+;0xF0564352=Press ~INPUT_PICKUP~ to challenge Clay to an arm wrestle.~n~$20 wager.
+0xF0564352=Press ~INPUT_PICKUP~ to challenge Clay to an arm wrestle.~n~$20 wager.
+
+;0xDB79188C=Press ~INPUT_PICKUP~ to arm wrestle.~n~$100 wager.
+0xDB79188C=Press ~INPUT_PICKUP~ to arm wrestle.~n~$100 wager.
+
+;0xED63BC61=Press ~INPUT_PICKUP~ to arm wrestle.~n~$200 wager.
+0xED63BC61=Press ~INPUT_PICKUP~ to arm wrestle.~n~$200 wager.
+
+;0xF82ED1F7=Press ~INPUT_PICKUP~ to arm wrestle.~n~$300 wager.
+0xF82ED1F7=Press ~INPUT_PICKUP~ to arm wrestle.~n~$300 wager.
+
+;0x09E0755A=You do not have enough cash for an arm wrestle challenge.~n~$100 wager.
+0x09E0755A=You do not have enough cash for an arm wrestle challenge.~n~$100 wager.
+
+;0x241429C1=You do not have enough cash for an arm wrestle challenge.~n~$200 wager.
+0x241429C1=You do not have enough cash for an arm wrestle challenge.~n~$200 wager.
+
+;0x3565CC64=You do not have enough cash for an arm wrestle challenge.~n~$300 wager.
+0x3565CC64=You do not have enough cash for an arm wrestle challenge.~n~$300 wager.
+
+;0x3FB0E0FA=You do not have enough cash for an arm wrestle challenge.~n~$20 wager.
+0x3FB0E0FA=You do not have enough cash for an arm wrestle challenge.~n~$20 wager.
+
+;0xCA3A1F36=You do not have enough cash to challenge Jim at an arm wrestle.~n~$20 wager.
+0xCA3A1F36=You do not have enough cash to challenge Jim at an arm wrestle.~n~$20 wager.
+
+;0x2B556183=You do not have enough cash to challenge Terry at an arm wrestle.~n~$20 wager.
+0x2B556183=You do not have enough cash to challenge Terry at an arm wrestle.~n~$20 wager.
+
+;0x04F494C6=You do not have enough cash to challenge Clay at an arm wrestle.~n~$20 wager.
+0x04F494C6=You do not have enough cash to challenge Clay at an arm wrestle.~n~$20 wager.
+
+;0x15E77511=John
+0x15E77511=John
+
+;0x9699681D=Press ~INPUT_PICKUP~ to play hi-lo cards.~n~$10 per hand.
+0x9699681D=Press ~INPUT_PICKUP~ to play hi-lo cards.~n~$10 per hand.
+
+;0x68D68C98=Press ~INPUT_PICKUP~ to play hi-lo cards with Jim.~n~$10 per hand.
+0x68D68C98=Press ~INPUT_PICKUP~ to play hi-lo cards with Jim.~n~$10 per hand.
+
+;0x02AAC036=Press ~INPUT_PICKUP~ to play hi-lo cards with Terry.~n~$10 per hand.
+0x02AAC036=Press ~INPUT_PICKUP~ to play hi-lo cards with Terry.~n~$10 per hand.
+
+;0x14E564AB=Press ~INPUT_PICKUP~ to play hi-lo cards with Clay.~n~$10 per hand.
+0x14E564AB=Press ~INPUT_PICKUP~ to play hi-lo cards with Clay.~n~$10 per hand.
+
+;0xE736094D=Press ~INPUT_PICKUP~ to play hi-lo cards with Jim and Terry.~n~$10 per hand.
+0xE736094D=Press ~INPUT_PICKUP~ to play hi-lo cards with Jim and Terry.~n~$10 per hand.
+
+;0xF967ADB0=Press ~INPUT_PICKUP~ to play hi-lo cards with Jim and Clay.~n~$10 per hand.
+0xF967ADB0=Press ~INPUT_PICKUP~ to play hi-lo cards with Jim and Clay.~n~$10 per hand.
+
+;0xCB8F5200=Press ~INPUT_PICKUP~ to play hi-lo cards with Terry and Clay.~n~$10 per hand.
+0xCB8F5200=Press ~INPUT_PICKUP~ to play hi-lo cards with Terry and Clay.~n~$10 per hand.
+
+;0xDDDDF69D=Press ~INPUT_PICKUP~ to play hi-lo cards with Jim, Terry and Clay.~n~$10 per hand.
+0xDDDDF69D=Press ~INPUT_PICKUP~ to play hi-lo cards with Jim, Terry and Clay.~n~$10 per hand.
+
+;0xB02C9B3B=You do not have enough cash to play cards. ~n~$10 per hand.
+0xB02C9B3B=You do not have enough cash to play cards. ~n~$10 per hand.
+
+;0x89916F8B=Who do you want to play pool with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Terry.~n~Press ~PAD_X~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x89916F8B=Who do you want to play pool with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Terry.~n~Press ~PAD_X~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x75E045BE=Who do you want to play pool with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_3~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x75E045BE=Who do you want to play pool with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_3~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0xCBD3F3C7=Who do you want to play pool with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
+0xCBD3F3C7=Who do you want to play pool with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0xE550EDE3=Who do you want to play pool with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
+0xE550EDE3=Who do you want to play pool with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0xB994CF49=Who do you want to play pool with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0xB994CF49=Who do you want to play pool with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x85C4622F=Who do you want to play pool with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x85C4622F=Who do you want to play pool with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0xAC5EB4DD=Who do you want to play pool with?~n~Press ~PAD_A~ to play Terry.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0xAC5EB4DD=Who do you want to play pool with?~n~Press ~PAD_A~ to play Terry.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x8466961B=Who do you want to play pool with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x8466961B=Who do you want to play pool with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x9A181050=Press ~INPUT_PICKUP~ to play pool with Jim.
+0x9A181050=Press ~INPUT_PICKUP~ to play pool with Jim.
+
+;0x90A0FD5A=Press ~INPUT_PICKUP~ to play pool with Terry.
+0x90A0FD5A=Press ~INPUT_PICKUP~ to play pool with Terry.
+
+;0x7E6758E7=Press ~INPUT_PICKUP~ to play pool with Clay.
+0x7E6758E7=Press ~INPUT_PICKUP~ to play pool with Clay.
+
+;0x98F2472A=Who do you want to play darts with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Terry.~n~Press ~PAD_X~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x98F2472A=Who do you want to play darts with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Terry.~n~Press ~PAD_X~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x6C9F16B7=Who do you want to play darts with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_3~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x6C9F16B7=Who do you want to play darts with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_3~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0xA6C0E2C7=Who do you want to play darts with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
+0xA6C0E2C7=Who do you want to play darts with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x4ED2289F=Who do you want to play darts with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
+0x4ED2289F=Who do you want to play darts with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x75650010=Who do you want to play darts with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x75650010=Who do you want to play darts with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x6356A71B=Who do you want to play darts with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x6356A71B=Who do you want to play darts with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x8B3B2BBC=Who do you want to play darts with?~n~Press ~PAD_A~ to play Terry.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x8B3B2BBC=Who do you want to play darts with?~n~Press ~PAD_A~ to play Terry.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x9E34EA4C=Who do you want to play darts with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x9E34EA4C=Who do you want to play darts with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x5F98D47C=Press ~INPUT_PICKUP~ to play darts with Jim.
+0x5F98D47C=Press ~INPUT_PICKUP~ to play darts with Jim.
+
+;0x6DC370D1=Press ~INPUT_PICKUP~ to play darts with Terry.
+0x6DC370D1=Press ~INPUT_PICKUP~ to play darts with Terry.
+
+;0x449E1E87=Press ~INPUT_PICKUP~ to play darts with Clay.
+0x449E1E87=Press ~INPUT_PICKUP~ to play darts with Clay.
+
+;0xBDDD8D08=Press ~INPUT_PICKUP~ to play air hockey.
+0xBDDD8D08=Press ~INPUT_PICKUP~ to play air hockey.
+
+;0x6F8CF06C=Who do you want to play air hockey with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Terry.~n~Press ~PAD_X~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x6F8CF06C=Who do you want to play air hockey with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Terry.~n~Press ~PAD_X~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x4C84C664=Who do you want to play air hockey with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_3~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x4C84C664=Who do you want to play air hockey with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_3~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x623F55D1=Who do you want to play air hockey with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
+0x623F55D1=Who do you want to play air hockey with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x65785A90=Who do you want to play air hockey with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
+0x65785A90=Who do you want to play air hockey with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x8A7AA643=Who do you want to play air hockey with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x8A7AA643=Who do you want to play air hockey with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0xF0DF8517=Who do you want to play air hockey with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0xF0DF8517=Who do you want to play air hockey with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x852F9BAD=Who do you want to play air hockey with?~n~Press ~PAD_A~ to play Terry.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x852F9BAD=Who do you want to play air hockey with?~n~Press ~PAD_A~ to play Terry.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x2154202B=Who do you want to play air hockey with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x2154202B=Who do you want to play air hockey with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Terry.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+
+;0xE3B758C7=Press ~INPUT_PICKUP~ to play air hockey with Jim.
+0xE3B758C7=Press ~INPUT_PICKUP~ to play air hockey with Jim.
+
+;0x0F152F86=Press ~INPUT_PICKUP~ to play air hockey with Terry.
+0x0F152F86=Press ~INPUT_PICKUP~ to play air hockey with Terry.
+
+;0xF8E7032A=Press ~INPUT_PICKUP~ to play air hockey with Clay.
+0xF8E7032A=Press ~INPUT_PICKUP~ to play air hockey with Clay.
+
+;0xB07DA5FE=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to play again.
+0xB07DA5FE=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to play again.
+
+;0x1C1E311B=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to play again.
+0x1C1E311B=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to play again.
+
+;0xF9716CE5=Are you sure you want to quit?
+0xF9716CE5=Are you sure you want to quit?
+
+;0x38073BEE=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to the game.
+0x38073BEE=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to the game.
+
+;0xFF249139=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to go back to the game.
+0xFF249139=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to go back to the game.
+
+;0xB260EA70=Biker Backup Stats
+0xB260EA70=Biker Backup Stats
+
+;0x84920ED3=Terry
+0x84920ED3=Terry
+
+;0x5BB63D1C=Clay
+0x5BB63D1C=Clay
+
+;0x45B6EBBC=Max Health
+0x45B6EBBC=Max Health
+
+;0x071667CB=Accuracy
+0x071667CB=Accuracy
+
+;0x184BE5F6=Shoot Rate
+0x184BE5F6=Shoot Rate
+
+;0xBCD9C608=Weapon Upgrade
+0xBCD9C608=Weapon Upgrade
+
+;0xDDA5FB06=Damage Multiplier
+0xDDA5FB06=Damage Multiplier
+
+;0xE0C743C7=Current Weapon
+0xE0C743C7=Current Weapon
+
+;0xA612D3E5=Next Weapon
+0xA612D3E5=Next Weapon
+
+;0x18D49A39=Backup Hardness
+0x18D49A39=Backup Hardness
+
+;0xD15BADED=Got best weapon.
+0xD15BADED=Got best weapon.
+
+;0x923542A7=9mm
+0x923542A7=9mm
+
+;0xA176E12A=Automatic 9mm
+0xA176E12A=Automatic 9mm
+
+;0x77CD8DD8=Micro SMG
+0x77CD8DD8=Micro SMG
+
+;0x850C2855=Assault Rifle
+0x850C2855=Assault Rifle
+
+;0x5C31D691=Carbine Rifle
+0x5C31D691=Carbine Rifle
+
+;0x6A77731C=Shotgun
+0x6A77731C=Shotgun
+
+;0x3F689CFF=Sawn-Off Shotgun
+0x3F689CFF=Sawn-Off Shotgun
+
+;0x4D0A3842=Combat Shotgun
+0x4D0A3842=Combat Shotgun
+
+;0x95154857=Assault Shotgun
+0x95154857=Assault Shotgun
+
+;0x1EEEE724=~a~
+0x1EEEE724=~a~
+
+;0x191713F6=~1~
+0x191713F6=~1~
+
+;0x43463C54=~1~
+0x43463C54=~1~
+
+;0x30E149D8=+~1~
+0x30E149D8=+~1~
+
+;0xF892DCF9=+~1~
+0xF892DCF9=+~1~
+
+;0xDEDF47AE=Press ~INPUT_PICKUP~ button to send Terry and Clay to the waypoint.
+0xDEDF47AE=Press ~INPUT_PICKUP~ button to send Terry and Clay to the waypoint.
+
+;0xCD1DA42B=Press ~INPUT_PICKUP~ button to recall Terry and Clay from the waypoint.
+0xCD1DA42B=Press ~INPUT_PICKUP~ button to recall Terry and Clay from the waypoint.
+
+;0x90ADD4E4=Each time you successfully complete a job with Terry and Clay they will become more fight hardened.
+0x90ADD4E4=Each time you successfully complete a job with Terry and Clay they will become more fight hardened.
+
+;0x61B0F432=As Terry and Clay get more fight hardened, their abilities and choices of weapons will improve.
+0x61B0F432=As Terry and Clay get more fight hardened, their abilities and choices of weapons will improve.
+
+;0xD66CE065=Losing the cops with Terry and Clay will make them more fight hardened.
+0xD66CE065=Losing the cops with Terry and Clay will make them more fight hardened.
+
+;0xAE2A8FE1=Riding in formation with Terry and Clay will make them more fight hardened.
+0xAE2A8FE1=Riding in formation with Terry and Clay will make them more fight hardened.
+
+;0xE36B8AA8=Terry and Clay can't reach your current location.
+0xE36B8AA8=Terry and Clay can't reach your current location.
+
+;0x2F42789B=Terry can't reach your current location.
+0x2F42789B=Terry can't reach your current location.
+
+;0x50F01C28=Clay can't reach your current location.
+0x50F01C28=Clay can't reach your current location.
+
+;0x6C9C4410=Terry and Clay are on their way to join you. They are indicated by ~b~~BLIP_95~~s~ and ~b~~BLIP_96~~s~ on the radar.
+0x6C9C4410=Terry and Clay are on their way to join you. They are indicated by ~b~~BLIP_95~~s~ and ~b~~BLIP_96~~s~ on the radar.
+
+;0x21A98EB4=Press ~INPUT_PICKUP~ to purchase weapons from Terry.
+0x21A98EB4=Press ~INPUT_PICKUP~ to purchase weapons from Terry.
+
+;0x6145036C=Terry got bored and left.
+0x6145036C=Terry got bored and left.
+
+;0xAF6A39BE=Terry will sell you weapons at discounted prices. Meet Terry at the ~BLIP_118~ icon to purchase weapons.
+0xAF6A39BE=Terry will sell you weapons at discounted prices. Meet Terry at the ~BLIP_118~ icon to purchase weapons.
+
+;0x5EFB1A9A=~s~When in this camera mode, use ~PAD_RSTICK_LEFT~ and ~PAD_RSTICK_RIGHT~ to see from another biker's point of view.
+0x5EFB1A9A=~s~When in this camera mode, use ~PAD_RSTICK_LEFT~ and ~PAD_RSTICK_RIGHT~ to see from another biker's point of view.
+
+;0xE0207704=~s~When in this camera mode, use ~MOUSE~ left and right to see from another biker's point of view.
+0xE0207704=~s~When in this camera mode, use ~MOUSE~ left and right to see from another biker's point of view.
+
+;0xD8E7E8FE=Bowling costs $10.
+0xD8E7E8FE=Bowling costs $10.
+
+;0x3ABF1E4F=Find an empty lane to play a game in.
+0x3ABF1E4F=Find an empty lane to play a game in.
+
+;0x9D19E403=Press ~INPUT_PICKUP~ to play a half game.~n~Press ~ACCEPT~ to play a full game.
+0x9D19E403=Press ~INPUT_PICKUP~ to play a half game.~n~Press ~ACCEPT~ to play a full game.
+
+;0xD77758BD=Press ~INPUT_PICKUP~ if you want to bowl.
+0xD77758BD=Press ~INPUT_PICKUP~ if you want to bowl.
+
+;0x7425121A=You don't have enough cash to play.
+0x7425121A=You don't have enough cash to play.
+
+;0xE65F768D=Walk up to the desk to start bowling.
+0xE65F768D=Walk up to the desk to start bowling.
+
+;0x033433B6=This 5 frame game with Michelle is free.
+0x033433B6=This 5 frame game with Michelle is free.
+
+;0x56B65AB9=You can't bowl with the cops after you.
+0x56B65AB9=You can't bowl with the cops after you.
+
+;0x757C7566=Cage Ridin' Citizen
+0x757C7566=Cage Ridin' Citizen
+
+;0x6335D0D9=Insta-Biker
+0x6335D0D9=Insta-Biker
+
+;0xD778B95D=Weekend Warrior
+0xD778B95D=Weekend Warrior
+
+;0xECCEE409=Lone Wolf Biker
+0xECCEE409=Lone Wolf Biker
+
+;0x33A3F1B2=MC Prospect
+0x33A3F1B2=MC Prospect
+
+;0x29B0DDCC=Got Your Colors
+0x29B0DDCC=Got Your Colors
+
+;0x82330ECF=Screaming Night Hog
+0x82330ECF=Screaming Night Hog
+
+;0xB07DEB64=Ride Captain
+0xB07DEB64=Ride Captain
+
+;0xDEAE47C8=Getting Monkey Butt
+0xDEAE47C8=Getting Monkey Butt
+
+;0x90FAAC5E=Big Dog Rider
+0x90FAAC5E=Big Dog Rider
+
+;0x97C453D7=War Horse
+0x97C453D7=War Horse
+
+;0xAD367EBB=Forever Two Wheels
+0xAD367EBB=Forever Two Wheels
+
+;0xB97DD21B=You have ~1~ second to return to a bike.
+0xB97DD21B=You have ~1~ second to return to a bike.
+
+;0xCCD9EE2F=You have ~1~ second to return to your ~b~bike.
+0xCCD9EE2F=You have ~1~ second to return to your ~b~bike.
+
+;0xAD2797A5=You have ~1~ seconds to return to a bike.
+0xAD2797A5=You have ~1~ seconds to return to a bike.
+
+;0xEDB13B26=You have ~1~ seconds to return to your ~b~bike.
+0xEDB13B26=You have ~1~ seconds to return to your ~b~bike.
+
+;0x5331FFC2=THIS LABEL NEEDS TO BE HERE !!!
+0x5331FFC2=THIS LABEL NEEDS TO BE HERE !!!
+
+;0xCFC8D72A=Crooked Cops
+0xCFC8D72A=Crooked Cops
+
+;0x1596A2EC=Toilets
+0x1596A2EC=Toilets
+
+;0x1B386264=Scandal
+0x1B386264=Scandal
+
+;0x6FB7D80D=Stubbs Shot
+0x6FB7D80D=Stubbs Shot
+
+;0x75FD47DF=Love child
+0x75FD47DF=Love child
+
+;0xDE1A688D=Serial Killer
+0xDE1A688D=Serial Killer
+
+;0xB47362C7=Uptown Riders
+0xB47362C7=Uptown Riders
+
+;0x119E464A=Twins
+0x119E464A=Twins
+
+;0xB97AAA8E=Customs
+0xB97AAA8E=Customs
+
+;0x2AEDCD9A=Air travel
+0x2AEDCD9A=Air travel
+
+;0x3B024C02=Hermaphrodite Island
+0x3B024C02=Hermaphrodite Island
+
+;0x41C0A7B1=Club Kid Death
+0x41C0A7B1=Club Kid Death
+
+;0xD34CA436=Exploitation
+0xD34CA436=Exploitation
+
+;0x2193AB4D=Marijuana
+0x2193AB4D=Marijuana
+
+;0x851FC1DD=Prison incident
+0x851FC1DD=Prison incident
+
+;0xBA23EBE8=Gay
+0xBA23EBE8=Gay
+
+;0x91DF17EE=Drugs and Terror
+0x91DF17EE=Drugs and Terror
+
+;0xBFDCE416=Hermaphrodite Island
+0xBFDCE416=Hermaphrodite Island
+
+;0x62E5E882=Homosexual Homicide
+0x62E5E882=Homosexual Homicide
+
+;0xC37D002F=Lazy
+0xC37D002F=Lazy
+
+;0xA35C2B15=Prisons
+0xA35C2B15=Prisons
+
+;0xC7F50419=Election
+0xC7F50419=Election
+
+;0x20FA5BF0=Air toilets
+0x20FA5BF0=Air toilets
+
+;0x36F33D62=Soul Crushing
+0x36F33D62=Soul Crushing
+
+;0x6CB8A210=Graduates
+0x6CB8A210=Graduates
+
+;0x7781A7AB=www.trainyourselftolerant.com
+0x7781A7AB=www.trainyourselftolerant.com
+
+;0xF499220C=www.ecoelitevacations.com
+0xF499220C=www.ecoelitevacations.com
+
+;0xE6EB86B1=www.genderroledoll.com
+0xE6EB86B1=www.genderroledoll.com
+
+;0x59376B47=www.globeoil.net
+0x59376B47=www.globeoil.net
+
+;0x4B80CFDA=www.banditmagazine.net
+0x4B80CFDA=www.banditmagazine.net
+
+;0xC10C3DC3=www.killdebtdead.com
+0xC10C3DC3=www.killdebtdead.com
+
+;0xAA69107D=www.morningwoodspa.com
+0xAA69107D=www.morningwoodspa.com
+
+;0xDC96F4D8=www.highmenspacetours.com
+0xDC96F4D8=www.highmenspacetours.com
+
+;0x55AE4C13=ECO ELITE VACATIONS
+0x55AE4C13=ECO ELITE VACATIONS
+
+;0xF81B4620=Because you can afford to care.
+0xF81B4620=Because you can afford to care.
+
+;0xEB403288=www.ecoelitevacations.com
+0xEB403288=www.ecoelitevacations.com
+
+;0x6C3FF932=GENDER ROLE DOLL
+0x6C3FF932=GENDER ROLE DOLL
+
+;0xE4A11F30=Reinforce positive playtime, family values and gender roles with the Gender Role Doll.
+0xE4A11F30=Reinforce positive playtime, family values and gender roles with the Gender Role Doll.
+
+;0x83C3E38D=www.genderroledoll.com
+0x83C3E38D=www.genderroledoll.com
+
+;0x5314C6DC=GLOBE OIL
+0x5314C6DC=GLOBE OIL
+
+;0xF6E243B2=Changing the climate. Powering the future.
+0xF6E243B2=Changing the climate. Powering the future.
+
+;0xB1153E2F=www.globeoil.net
+0xB1153E2F=www.globeoil.net
+
+;0x88E3B279=HIGHMEN SPACE TOURS
+0x88E3B279=HIGHMEN SPACE TOURS
+
+;0x4114D816=Breaking the barrier. Visiting the void. If only for a fleeting moment.
+0x4114D816=Breaking the barrier. Visiting the void. If only for a fleeting moment.
+
+;0x9F5D9AC0=www.highmenspacetours.com
+0x9F5D9AC0=www.highmenspacetours.com
+
+;0x7F919FD5=KILL DEBT DEAD
+0x7F919FD5=KILL DEBT DEAD
+
+;0xF2D2BB93=Debt Settlement. Debtor Elimination. Available for all.
+0xF2D2BB93=Debt Settlement. Debtor Elimination. Available for all.
+
+;0xCCA7F554=www.killdebtdead.com
+0xCCA7F554=www.killdebtdead.com
+
+;0xB5638B78=MANAGING MILLENNIALS
+0xB5638B78=MANAGING MILLENNIALS
+
+;0x1BB08D4E=It's the baby boomers vs Gen X vs Gen Y.
+0x1BB08D4E=It's the baby boomers vs Gen X vs Gen Y.
+
+;0x4A99F13A=www.managingmillennials.org
+0x4A99F13A=www.managingmillennials.org
+
+;0xA40DE8CD=MORNING WOOD SPA
+0xA40DE8CD=MORNING WOOD SPA
+
+;0x4D85F0F8=Spa & Wellness Center.
+0x4D85F0F8=Spa & Wellness Center.
+
+;0x3956CEB4=www.morningwoodspa.com
+0x3956CEB4=www.morningwoodspa.com
+
+;0xD1C94443=TRAIN YOURSELF TOLERANT
+0xD1C94443=TRAIN YOURSELF TOLERANT
+
+;0x7808C601=Sensitivity training for the office.
+0x7808C601=Sensitivity training for the office.
+
+;0x6706AA13=www.trainyourselftolerant.com
+0x6706AA13=www.trainyourselftolerant.com
+
+;0xC03AA126=CONGRESSMAN THOMAS STUBBS
+0xC03AA126=CONGRESSMAN THOMAS STUBBS
+
+;0x29DC29A5=Vote for me. Vote for me. Vote for me.
+0x29DC29A5=Vote for me. Vote for me. Vote for me.
+
+;0x55CC879F=www.congressmanthomasstubbs.com
+0x55CC879F=www.congressmanthomasstubbs.com
+
+;0x063FB3C3=BANDIT!
+0x063FB3C3=BANDIT!
+
+;0x732E4AE8=America's best-selling men's lifestyle magazine! It's the 21st century - worship yourself. Bandit!
+0x732E4AE8=America's best-selling men's lifestyle magazine! It's the 21st century - worship yourself. Bandit!
+
+;0xF406C341=www.banditmagazine.net
+0xF406C341=www.banditmagazine.net
+
+;0x17B1D6A7=LOST MC
+0x17B1D6A7=LOST MC
+
+;0x843B6D02=Brothers For Life, Lost Forever.
+0x843B6D02=Brothers For Life, Lost Forever.
+
+;0xA5DAA6F2=www.lostmc.com
+0xA5DAA6F2=www.lostmc.com
+
+;0x41052951=UPTOWN RIDERS MC
+0x41052951=UPTOWN RIDERS MC
+
+;0x98AC95E4=The Uptown Riders are a group of urban riding enthusiasts based out of Northwood in Liberty City.
+0x98AC95E4=The Uptown Riders are a group of urban riding enthusiasts based out of Northwood in Liberty City.
+
+;0xDF34199C=www.uptownriders.net
+0xDF34199C=www.uptownriders.net
+
+;0x536FCE26=ANGELS OF DEATH MC
+0x536FCE26=ANGELS OF DEATH MC
+
+;0xA8E0364B=Men wanted to treat women like objects, ride motorcycles, and say fuck off to anyone who looked different - they joined the AODMC
+0xA8E0364B=Men wanted to treat women like objects, ride motorcycles, and say fuck off to anyone who looked different - they joined the AODMC
+
+;0x10F3FD1B=www.angelsofdeathonline.com
+0x10F3FD1B=www.angelsofdeathonline.com
+
+;0xDF3E0135=THIS LABEL NEEDS TO BE HERE !!!
+0xDF3E0135=THIS LABEL NEEDS TO BE HERE !!!
+
+;0x5020E957=Billy
+0x5020E957=Billy
+
+;0xAF08D5FA=We need your input in a discussion, John. Come to the house.
+0xAF08D5FA=We need your input in a discussion, John. Come to the house.
+
+;0xFB446E74=Go see Liz Torres. She might be able to unload some of that shit we found. If it's cool, you can collect from Brian off Inchon Ave.
+0xFB446E74=Go see Liz Torres. She might be able to unload some of that shit we found. If it's cool, you can collect from Brian off Inchon Ave.
+
+;0x8D5B92A0=PLACEHOLDER
+0x8D5B92A0=PLACEHOLDER
+
+;0xD791A70F=PLACEHOLDER
+0xD791A70F=PLACEHOLDER
+
+;0x3D89C429=Jim
+0x3D89C429=Jim
+
+;0x510E7B5B=Where'd you run off to, brother?
+0x510E7B5B=Where'd you run off to, brother?
+
+;0xF4F5C32B=Meet me at Ray's...
+0xF4F5C32B=Meet me at Ray's...
+
+;0xE3B720AE=Why didn't you show, man? We had a date.
+0xE3B720AE=Why didn't you show, man? We had a date.
+
+;0x99638C00=I thought you were gonna hang out, brother.
+0x99638C00=I thought you were gonna hang out, brother.
+
+;0x085AE9F5=Jonathan? What you got going on that's more important than hanging with your brothers?
+0x085AE9F5=Jonathan? What you got going on that's more important than hanging with your brothers?
+
+;0x1F5317D5=Got bored of wating for you, John.
+0x1F5317D5=Got bored of wating for you, John.
+
+;0x8D197360=You ever need some firepower, let me know. I might just be able to drop off what you're looking for in the House.
+0x8D197360=You ever need some firepower, let me know. I might just be able to drop off what you're looking for in the House.
+
+;0x426FDE0E=Ha ha. Johnny, I've sent you a link to the Deadbeats' website. Check it out!
+0x426FDE0E=Ha ha. Johnny, I've sent you a link to the Deadbeats' website. Check it out!
+
+;0x322E3D8B=Special Ability Now Available - variation 3
+0x322E3D8B=Special Ability Now Available - variation 3
+
+;0xDCA206BC=Special Ability Now Available - variation 4
+0xDCA206BC=Special Ability Now Available - variation 4
+
+;0xEADDA333=Let's hang soon, man.
+0xEADDA333=Let's hang soon, man.
+
+;0x2B1DA3BA=Let's do something, man.
+0x2B1DA3BA=Let's do something, man.
+
+;0x00D44F28=Johnny, I'm getting bored of this business shit. Let's have fun sometime.
+0x00D44F28=Johnny, I'm getting bored of this business shit. Let's have fun sometime.
+
+;0xE3AD14DA=All work and no play makes Johnny a dull boy. Let's hang.
+0xE3AD14DA=All work and no play makes Johnny a dull boy. Let's hang.
+
+;0xF16AB055=Dude, you ever need some help, Terry and Clay can back you up. Just call one of em.
+0xF16AB055=Dude, you ever need some help, Terry and Clay can back you up. Just call one of em.
+
+;0x719D30AC=Now that you're chapter leader you should take advantage. Get Terry and Clay up off their asses and make em help you.
+0x719D30AC=Now that you're chapter leader you should take advantage. Get Terry and Clay up off their asses and make em help you.
+
+;0x482BDDD6=I feel like you're giving Terry and Clay an easy ride, dude. Give 'em a call and make 'em help you out.
+0x482BDDD6=I feel like you're giving Terry and Clay an easy ride, dude. Give 'em a call and make 'em help you out.
+
+;0x55EE795B=These are fucked up times, dude. Remember to get T and C to help you if shit gets tough.
+0x55EE795B=These are fucked up times, dude. Remember to get T and C to help you if shit gets tough.
+
+;0x1CB806EF=Good race, man. I'm gonna need to soak all these bruises I got.
+0x1CB806EF=Good race, man. I'm gonna need to soak all these bruises I got.
+
+;0xDD2803E0=Shit, man. Jackie's gonna kill me when she sees these bruises. Nice racing.
+0xDD2803E0=Shit, man. Jackie's gonna kill me when she sees these bruises. Nice racing.
+
+;0xEB5EA04D=I'm getting to old to get beat up like that. Good racing.
+0xEB5EA04D=I'm getting to old to get beat up like that. Good racing.
+
+;0x40A44AD7=I enjoyed the race, even if it nearly killed me. Call me soon, brother.
+0x40A44AD7=I enjoyed the race, even if it nearly killed me. Call me soon, brother.
+
+;0x526DEE6A=I hope you didn't take that love tap too seriously. Nice racing.
+0x526DEE6A=I hope you didn't take that love tap too seriously. Nice racing.
+
+;0xBA0F3DAB=Shit, hitting you with that bat was the best part of the race for me. How about you?
+0xBA0F3DAB=Shit, hitting you with that bat was the best part of the race for me. How about you?
+
+;0xC3D9513F=Nice race, man. You're an easy target. Ha ha.
+0xC3D9513F=Nice race, man. You're an easy target. Ha ha.
+
+;0xFDE94562=I should play for the Swingers after that bat work. Nice race, dude.
+0xFDE94562=I should play for the Swingers after that bat work. Nice race, dude.
+
+;0xA7499820=Bad luck in the race, man. You should get more aggressive out there.
+0xA7499820=Bad luck in the race, man. You should get more aggressive out there.
+
+;0xD422F1C6=You ain't gonna win those raaces if you're all pacifist with it. Later on, brother.
+0xD422F1C6=You ain't gonna win those raaces if you're all pacifist with it. Later on, brother.
+
+;0x65609443=Better luck next race, man. Batter up.
+0x65609443=Better luck next race, man. Batter up.
+
+;0x15F4F6C1=Johnny man. You're the friendliest biker I know. Get aggressive in the next race.
+0x15F4F6C1=Johnny man. You're the friendliest biker I know. Get aggressive in the next race.
+
+;0x02B55042=We should hang out at the clubhouse sometime, do arm wrestling, play pool, or play cards. Or we could play air hockey, play darts, or play pool - shit, there's all kinds of stuff we can do. Call me.
+0x02B55042=We should hang out at the clubhouse sometime, do arm wrestling, play pool, or play cards. Or we could play air hockey, play darts, or play pool - shit, there's all kinds of stuff we can do. Call me.
+
+;0x5B6D81B1=We'll hang out again soon.
+0x5B6D81B1=We'll hang out again soon.
+
+;0x992FFD35=You should sleep in Brian's old apartment - he won't be turning up there again. Sure beats that old bed at the clubhouse.
+0x992FFD35=You should sleep in Brian's old apartment - he won't be turning up there again. Sure beats that old bed at the clubhouse.
+
+;0xBDE3469B=Me and the boys have fixed up Brian's apartment after the fire. You should sleep there. It's still a shithole, but might be better than that old bed at the clubhouse.
+0xBDE3469B=Me and the boys have fixed up Brian's apartment after the fire. You should sleep there. It's still a shithole, but might be better than that old bed at the clubhouse.
+
+;0x6D7925C8=Hey man, don't tell Jackie that I stayed in the club. Thanks, dude.
+0x6D7925C8=Hey man, don't tell Jackie that I stayed in the club. Thanks, dude.
+
+;0xC736D94E=Sorry, man. I wasn't gonna leave that club. You'll know what I'm talking about when you get married. Later.
+0xC736D94E=Sorry, man. I wasn't gonna leave that club. You'll know what I'm talking about when you get married. Later.
+
+;0x61920C39=Stubbs
+0x61920C39=Stubbs
+
+;0x62F4C1EF=Something about faked terrorist acts gets me all excited, Klebitz. You can either take out the chopper as it lands or deal with the convoy as it makes its way out of the airport. By the way, I've got a man at the Southwest gate who can help you if you're locked into the runway area. - TS III
+0x62F4C1EF=Something about faked terrorist acts gets me all excited, Klebitz. You can either take out the chopper as it lands or deal with the convoy as it makes its way out of the airport. By the way, I've got a man at the Southwest gate who can help you if you're locked into the runway area. - TS III
+
+;0xA1643EC9=Excellent work. Call 123-555-0160 if you want to tune into that listening device of yours. - TS III
+0xA1643EC9=Excellent work. Call 123-555-0160 if you want to tune into that listening device of yours. - TS III
+
+;0x729DE13D=I still got work for you to do. Give me a call if you need a job. - TS III
+0x729DE13D=I still got work for you to do. Give me a call if you need a job. - TS III
+
+;0x44D305A8=My sources tell me you've been locked inside the airport. There's a man on the Southwest gate who can unlock it for you. - TS III
+0x44D305A8=My sources tell me you've been locked inside the airport. There's a man on the Southwest gate who can unlock it for you. - TS III
+
+;0xA97F7E0A=PLACEHOLDER
+0xA97F7E0A=PLACEHOLDER
+
+;0x1EC869AE=PLACEHOLDER
+0x1EC869AE=PLACEHOLDER
+
+;0xF0AB8D75=PLACEHOLDER
+0xF0AB8D75=PLACEHOLDER
+
+;0x3A6620E9=PLACEHOLDER
+0x3A6620E9=PLACEHOLDER
+
+;0x0BB8438E=PLACEHOLDER
+0x0BB8438E=PLACEHOLDER
+
+;0xFED829CA=PLACEHOLDER
+0xFED829CA=PLACEHOLDER
+
+;0xD0A54D69=PLACEHOLDER
+0xD0A54D69=PLACEHOLDER
+
+;0xD259EDCB=Ashley
+0xD259EDCB=Ashley
+
+;0xB4A5015D=Baby, I need to see you. Get here soon. xx
+0xB4A5015D=Baby, I need to see you. Get here soon. xx
+
+;0x8EDF35D2=PLACEHOLDER
+0x8EDF35D2=PLACEHOLDER
+
+;0xA0205854=PLACEHOLDER
+0xA0205854=PLACEHOLDER
+
+;0xEA746CFB=PLACEHOLDER
+0xEA746CFB=PLACEHOLDER
+
+;0x9825F960=Elizabeta
+0x9825F960=Elizabeta
+
+;0xC79B3480=PLACEHOLDER
+0xC79B3480=PLACEHOLDER
+
+;0xE2136970=PLACEHOLDER
+0xE2136970=PLACEHOLDER
+
+;0x94294D8D=PLACEHOLDER
+0x94294D8D=PLACEHOLDER
+
+;0x756F1019=I got some work for you and Malc. Come see me. - Liz
+0x756F1019=I got some work for you and Malc. Come see me. - Liz
+
+;0x888CB654=A friend of mine asked me to pass on the number of her boyfriend's cab business. It's called Bellic Enterprises and it's 555-2222. - Liz
+0x888CB654=A friend of mine asked me to pass on the number of her boyfriend's cab business. It's called Bellic Enterprises and it's 555-2222. - Liz
+
+;0xDACC5AD2=PLACEHOLDER
+0xDACC5AD2=PLACEHOLDER
+
+;0xECF2FF1F=PLACEHOLDER
+0xECF2FF1F=PLACEHOLDER
+
+;0xBB8D1C54=PLACEHOLDER
+0xBB8D1C54=PLACEHOLDER
+
+;0xC068260A=Johnny! I spoke to your friend Jim and he's says you need work. He's sending a friend of his called Malc as well. Meet me at my apartment. - Liz
+0xC068260A=Johnny! I spoke to your friend Jim and he's says you need work. He's sending a friend of his called Malc as well. Meet me at my apartment. - Liz
+
+;0x86ECD6EE=Ray
+0x86ECD6EE=Ray
+
+;0x91EFED88=PLACEHOLDER
+0x91EFED88=PLACEHOLDER
+
+;0x7FAF4907=PLACEHOLDER
+0x7FAF4907=PLACEHOLDER
+
+;0x2D8CA4C3=PLACEHOLDER
+0x2D8CA4C3=PLACEHOLDER
+
+;0x1B4F0048=PLACEHOLDER
+0x1B4F0048=PLACEHOLDER
+
+;0xE8259A02=PLACEHOLDER
+0xE8259A02=PLACEHOLDER
+
+;0x9ECA86AD=Terry
+0x9ECA86AD=Terry
+
+;0x7740645B=what the fuck, man? Where were you?
+0x7740645B=what the fuck, man? Where were you?
+
+;0x312FD83B=I don't got time to wait around for you all day, man.
+0x312FD83B=I don't got time to wait around for you all day, man.
+
+;0xE362BC9E=You're like my fucking ex wife, always standing me up. Screw you, man.
+0xE362BC9E=You're like my fucking ex wife, always standing me up. Screw you, man.
+
+;0x0DF211C0=I don't mean to sound like a bitch, but come on dude. Where were you?
+0x0DF211C0=I don't mean to sound like a bitch, but come on dude. Where were you?
+
+;0x424C7A74=Hey man. You need help, call me or Clay.
+0x424C7A74=Hey man. You need help, call me or Clay.
+
+;0xFC666EA9=Clay and I are here if the Chapter President ever needs assistance.
+0xFC666EA9=Clay and I are here if the Chapter President ever needs assistance.
+
+;0xEEAD5337=Hey, Prez. Call me or Clay if you need some backup.
+0xEEAD5337=Hey, Prez. Call me or Clay if you need some backup.
+
+;0xD8DAA792=Me and Clay are here to help out on Club business, Prez. Just call one of us.
+0xD8DAA792=Me and Clay are here to help out on Club business, Prez. Just call one of us.
+
+;0xC948886E=Johnny, man. You ever need to replenish your weapons supply, call me and I'll bring round the War Wagon.
+0xC948886E=Johnny, man. You ever need to replenish your weapons supply, call me and I'll bring round the War Wagon.
+
+;0x6DB65EC8=Special Ability Now Available - variation 2
+0x6DB65EC8=Special Ability Now Available - variation 2
+
+;0x781B7392=Special Ability Now Available - variation 3
+0x781B7392=Special Ability Now Available - variation 3
+
+;0x7F3501C5=Special Ability Now Available - variation 4
+0x7F3501C5=Special Ability Now Available - variation 4
+
+;0x9BAF3AB9=What's up, dude? You gonna hang out with your brothers soon.
+0x9BAF3AB9=What's up, dude? You gonna hang out with your brothers soon.
+
+;0x4EE5A123=Man, why ain't you calling? I can take my bitch of an ex walking out, but not my brothers.
+0x4EE5A123=Man, why ain't you calling? I can take my bitch of an ex walking out, but not my brothers.
+
+;0x2087C468=Brother. Let's hang out soon.
+0x2087C468=Brother. Let's hang out soon.
+
+;0x72666824=Fuck, man. Let's go out and stick it to em soon.
+0x72666824=Fuck, man. Let's go out and stick it to em soon.
+
+;0x46258FA3=Fuck, man. You smacked me good. Serves me right for racing with an asshole like you. Ha ha ha.
+0x46258FA3=Fuck, man. You smacked me good. Serves me right for racing with an asshole like you. Ha ha ha.
+
+;0x183A33CD=Shit. Was that you that smacked me? Pleasure racing with you.
+0x183A33CD=Shit. Was that you that smacked me? Pleasure racing with you.
+
+;0xE982565E=I think I lost a tooth when you hit me, man. Sweet racing.
+0xE982565E=I think I lost a tooth when you hit me, man. Sweet racing.
+
+;0xE6E7D4A5=Johnny K, smacks his own brother in the face to try and beat him in a race. Let's hang out soon.
+0xE6E7D4A5=Johnny K, smacks his own brother in the face to try and beat him in a race. Let's hang out soon.
+
+;0xD4AD3030=I got you good, Johnny. Don't hold it against me. See you soon, man.
+0xD4AD3030=I got you good, Johnny. Don't hold it against me. See you soon, man.
+
+;0x44620F9C=Shit, Johnny. I hit you good. Let's race again sometime.
+0x44620F9C=Shit, Johnny. I hit you good. Let's race again sometime.
+
+;0xB2316B39=Nothing like having a bike between your legs and a bat in your hand. Sorry if I hit you too hard, John.
+0xB2316B39=Nothing like having a bike between your legs and a bat in your hand. Sorry if I hit you too hard, John.
+
+;0x9FDA468B=Let's do that again, Johnny. I could get used to hitting you in the face with a bat. Ha ha ha.
+0x9FDA468B=Let's do that again, Johnny. I could get used to hitting you in the face with a bat. Ha ha ha.
+
+;0x8DABA22E=Too bad, Johnny. You might do better if you actually made contact with that bat of yours.
+0x8DABA22E=Too bad, Johnny. You might do better if you actually made contact with that bat of yours.
+
+;0x700CE6ED=You're a pleasure to race with, Johnny. Mainly coz you don't know how to use your bat. Ha ha.
+0x700CE6ED=You're a pleasure to race with, Johnny. Mainly coz you don't know how to use your bat. Ha ha.
+
+;0x5D964200=Nice racing with you, man. Next time try and actually use your bat.
+0x5D964200=Nice racing with you, man. Next time try and actually use your bat.
+
+;0x598E39F0=You may not have won the race, but you upset anyone with your bat. Good for you, man. Call me soon.
+0x598E39F0=You may not have won the race, but you upset anyone with your bat. Good for you, man. Call me soon.
+
+;0x4724151C=Good seeing you at the clubhouse.
+0x4724151C=Good seeing you at the clubhouse.
+
+;0x44E90F8A=You should have said you couldn't stay.
+0x44E90F8A=You should have said you couldn't stay.
+
+;0x5326AC05=Thanks for leaving me at the club, dude. Nothing cooler than a divorced man lone wolfing it amongst the strippers. See you soon.
+0x5326AC05=Thanks for leaving me at the club, dude. Nothing cooler than a divorced man lone wolfing it amongst the strippers. See you soon.
+
+;0x9DD54161=Hey dude, I oughta left with you. Just left that place with a bunch of debt and a sore cock. Later.
+0x9DD54161=Hey dude, I oughta left with you. Just left that place with a bunch of debt and a sore cock. Later.
+
+;0x0D73E3FE=Clay
+0x0D73E3FE=Clay
+
+;0x3C3D1A16=You missed us, man.
+0x3C3D1A16=You missed us, man.
+
+;0x6A50763C=Hey man, you missed out.
+0x6A50763C=Hey man, you missed out.
+
+;0x588AD2B1=You shoulda been there, man. It was a blast.
+0x588AD2B1=You shoulda been there, man. It was a blast.
+
+;0x6152642C=I hope you're having fun, man. Because you missed out.
+0x6152642C=I hope you're having fun, man. Because you missed out.
+
+;0x500CC1A1=Me and Terry wanna see some action, too. Let us know if you need some help.
+0x500CC1A1=Me and Terry wanna see some action, too. Let us know if you need some help.
+
+;0x9EA35ECD=I'm itching to see some action, man. Let me know if you need Terry and me behind you.
+0x9EA35ECD=I'm itching to see some action, man. Let me know if you need Terry and me behind you.
+
+;0x8C60BA48=Me and T are itching for some action. Unleash us, man. Come on.
+0x8C60BA48=Me and T are itching for some action. Unleash us, man. Come on.
+
+;0xB8501226=You need some help, just call me or Terry. Okay?
+0xB8501226=You need some help, just call me or Terry. Okay?
+
+;0xAF05FF92=You ever need a bike delivered, just call the Road Captain. Yours truly.
+0xAF05FF92=You ever need a bike delivered, just call the Road Captain. Yours truly.
+
+;0xAEBF40F0=Special Ability Now Available - variation 2
+0xAEBF40F0=Special Ability Now Available - variation 2
+
+;0xE3F2AB56=Special Ability Now Available - variation 3
+0xE3F2AB56=Special Ability Now Available - variation 3
+
+;0xD315099B=Special Ability Now Available - variation 4
+0xD315099B=Special Ability Now Available - variation 4
+
+;0xF84F540F=We should hang, brother.
+0xF84F540F=We should hang, brother.
+
+;0x7779D266=Brother, we should have some chill time.
+0x7779D266=Brother, we should have some chill time.
+
+;0xACD73D20=Yo, Johnny. Why don't you call me no more?
+0xACD73D20=Yo, Johnny. Why don't you call me no more?
+
+;0x9BFD9B6D=Johnny, man. We should hit it soon.
+0x9BFD9B6D=Johnny, man. We should hit it soon.
+
+;0xC181E675=You call that a hit, man? My little sister can hit harder than that. Let's race again soon.
+0xC181E675=You call that a hit, man? My little sister can hit harder than that. Let's race again soon.
+
+;0x409C64AC=You're a mean motherfucker, ain't you. Let's race again soon.
+0x409C64AC=You're a mean motherfucker, ain't you. Let's race again soon.
+
+;0x35D74F22=We need a rematch. I wanna see if you're just as cold next time we race.
+0x35D74F22=We need a rematch. I wanna see if you're just as cold next time we race.
+
+;0x1290876D=You hit your own brother? I'm shocked, Johnny. Let's have a rematch soon.
+0x1290876D=You hit your own brother? I'm shocked, Johnny. Let's have a rematch soon.
+
+;0x40C663D8=How you like that bat being taken to you, Johnny. Call me, man.
+0x40C663D8=How you like that bat being taken to you, Johnny. Call me, man.
+
+;0xC6046E4E=Oh, Johnny. You're an easy target. If you ain't scared, let's race again soon.
+0xC6046E4E=Oh, Johnny. You're an easy target. If you ain't scared, let's race again soon.
+
+;0xB43ECAC3=I'm swingin low, Johnny. We gotta race again real soon.
+0xB43ECAC3=I'm swingin low, Johnny. We gotta race again real soon.
+
+;0xE9213487=Shit. Was that you I hit? I hope so. Call me soon, man.
+0xE9213487=Shit. Was that you I hit? I hope so. Call me soon, man.
+
+;0xD762910A=Johnny, man. Racing's a sport for aggressive men. You should stick to darts.
+0xD762910A=Johnny, man. Racing's a sport for aggressive men. You should stick to darts.
+
+;0x58A71395=Johnny, man. Maybe we should play air hockey next time. You ain't even man enough to swing a bat.
+0x58A71395=Johnny, man. Maybe we should play air hockey next time. You ain't even man enough to swing a bat.
+
+;0x8AE57811=The give you the bat so you hit people, Johnny. Next time why don't you use it?
+0x8AE57811=The give you the bat so you hit people, Johnny. Next time why don't you use it?
+
+;0x7C43DACE=You ain't on the track to make friends. If you need to hit someone in the face to win, fucking do it. See you soon, man.
+0x7C43DACE=You ain't on the track to make friends. If you need to hit someone in the face to win, fucking do it. See you soon, man.
+
+;0x929B077C=Till next time, Johnny.
+0x929B077C=Till next time, Johnny.
+
+;0xA07DA221=You were here and then you wre gone. What happened?
+0xA07DA221=You were here and then you wre gone. What happened?
+
+;0xC211E549=Johnny I heard your Hexer got messed up, call me and ill get it fixed up and will bring it to you.
+0xC211E549=Johnny I heard your Hexer got messed up, call me and ill get it fixed up and will bring it to you.
+
+;0xD3EC08FD=Brother, why'd you leave the stripclub? You get jealous of my gifts with the finer sex? Maybe you coulda learned something.
+0xD3EC08FD=Brother, why'd you leave the stripclub? You get jealous of my gifts with the finer sex? Maybe you coulda learned something.
+
+;0xE72EAF82=Thanks for giving me some space with the ladies at the club. You were seriously killing my vibe, dude. We'll hang soon, yeah?
+0xE72EAF82=Thanks for giving me some space with the ladies at the club. You were seriously killing my vibe, dude. We'll hang soon, yeah?
+
+;0xC32D4F72=Angus
+0xC32D4F72=Angus
+
+;0x2D4D72CC=I've got some more bikes that need getting. We got to keep making money, man. Call me.
+0x2D4D72CC=I've got some more bikes that need getting. We got to keep making money, man. Call me.
+
+;0x18904952=PLACEHOLDER
+0x18904952=PLACEHOLDER
+
+;0x41071A3F=PLACEHOLDER
+0x41071A3F=PLACEHOLDER
+
+;0xAF49F6CB=PLACEHOLDER
+0xAF49F6CB=PLACEHOLDER
+
+;0x6458E0E2=PLACEHOLDER
+0x6458E0E2=PLACEHOLDER
+
+;0x5397BF60=PLACEHOLDER
+0x5397BF60=PLACEHOLDER
+
+;0xED416C3C=Secret
+0xED416C3C=Secret
+
+;0xE7F13623=PLACEHOLDER
+0xE7F13623=PLACEHOLDER
+
+;0xD62E929E=PLACEHOLDER
+0xD62E929E=PLACEHOLDER
+
+;0x037CED3A=PLACEHOLDER
+0x037CED3A=PLACEHOLDER
+
+;0xF1B349A7=PLACEHOLDER
+0xF1B349A7=PLACEHOLDER
+
+;0xBACC5BDA=PLACEHOLDER
+0xBACC5BDA=PLACEHOLDER
+
+;0x8D3300A8=PLACEHOLDER
+0x8D3300A8=PLACEHOLDER
+
+;0x0C67FF1C=PLACEHOLDER
+0x0C67FF1C=PLACEHOLDER
+
+;0xDF20A48E=PLACEHOLDER
+0xDF20A48E=PLACEHOLDER
+
+;0xA836B6BB=PLACEHOLDER
+0xA836B6BB=PLACEHOLDER
+
+;0x4AD1E069=PLACEHOLDER
+0x4AD1E069=PLACEHOLDER
+
+;0x7FB04A25=PLACEHOLDER
+0x7FB04A25=PLACEHOLDER
+
+;0x4FE4B898=THIS LABEL NEEDS TO BE HERE !!!
+0x4FE4B898=THIS LABEL NEEDS TO BE HERE !!!
+
+;0x4D9A3E5F=GTA episodic content proof of concept demo
+0x4D9A3E5F=GTA episodic content proof of concept demo
+
+;0x48393A3B=Buck
+0x48393A3B=Buck
+
+;0x63CCF162=Earl
+0x63CCF162=Earl
+
+;0xE47872BB=Hank
+0xE47872BB=Hank
+
+;0x72218E0F=Hal
+0x72218E0F=Hal
+
+;0x80E32B92=Pat
+0x80E32B92=Pat
+
+;0x8D9244F0=Frank
+0x8D9244F0=Frank
+
+;0x0BE9C1A9=Willy
+0x0BE9C1A9=Willy
+
+;0xB9F71DB9=Tug
+0xB9F71DB9=Tug
+
+;0xC7ACB924=Bruce
+0xC7ACB924=Bruce
+
+;0xD8625A8F=Glenn
+0xD8625A8F=Glenn
+
+;0x93680289=Horse
+0x93680289=Horse
+
+;0xA8A62D05=Shawn
+0xA8A62D05=Shawn
+
+;0xF8114BE2=Leon
+0xF8114BE2=Leon
+
+;0x0D56766C=Chuck
+0x0D56766C=Chuck
+
+;0x8C7CF4B3=Dick
+0x8C7CF4B3=Dick
+
+;0x61BE9F37=Brett
+0x61BE9F37=Brett
+
+;0x70F73DA8=Hamm
+0x70F73DA8=Hamm
+
+;0xBE42583D=Monty
+0xBE42583D=Monty
+
+;0x49A0EEFC=Spike
+0x49A0EEFC=Spike
+
+;0x16D70969=Conan
+0x16D70969=Conan
+
+;0xCB0EF97E=Petey
+0xCB0EF97E=Petey
+
+;0x9D141D89=Nick
+0x9D141D89=Nick
+
+;0xA6823065=Wayne
+0xA6823065=Wayne
+
+;0x78C254E6=Dogg
+0x78C254E6=Dogg
+
+;0x9A87A1AD=DECEASED
+0x9A87A1AD=DECEASED
+
+;0x37D7414D=ARRESTED
+0x37D7414D=ARRESTED
+
+;0x03E06B28=Billy
+0x03E06B28=Billy
+
+;0xD61B8F9F=Jim
+0xD61B8F9F=Jim
+
+;0xDF65A233=Terry
+0xDF65A233=Terry
+
+;0xAEF3C148=Clay
+0xAEF3C148=Clay
+
+;0x6B04396E=Brian
+0x6B04396E=Brian
+
+;0x3D395DD9=Jason
+0x3D395DD9=Jason
+
+;0x134F5987=Press ~INPUT_PHONE_ACCEPT~ to answer a call.
+0x134F5987=Press ~INPUT_PHONE_ACCEPT~ to answer a call.
+
+;0xA11C773A=Press ~INPUT_PHONE_TAKE_OUT~ to activate the phone.
+0xA11C773A=Press ~INPUT_PHONE_TAKE_OUT~ to activate the phone.
+
+;0x1F0E7E2F=Press ~INPUT_PHONE_ACCEPT~ to access the menu.
+0x1F0E7E2F=Press ~INPUT_PHONE_ACCEPT~ to access the menu.
+
+;0x1E22D3EA=~s~Use ~INPUT_PHONE_TAKE_OUT~ and ~INPUT_PHONE_PUT_AWAY~ to navigate the phone menu.
+0x1E22D3EA=~s~Use ~INPUT_PHONE_TAKE_OUT~ and ~INPUT_PHONE_PUT_AWAY~ to navigate the phone menu.
+
+;0x70C95F5F=~s~Use ~INPUT_KB_UP~ and ~INPUT_KB_DOWN~ to navigate the phone menu.
+0x70C95F5F=~s~Use ~INPUT_KB_UP~ and ~INPUT_KB_DOWN~ to navigate the phone menu.
+
+;0x34AACCC3=Press ~INPUT_PHONE_ACCEPT~ to select a menu item.
+0x34AACCC3=Press ~INPUT_PHONE_ACCEPT~ to select a menu item.
+
+;0x9D87FA99=Press ~INPUT_PHONE_CANCEL~ to exit the phone menu and put away the phone.
+0x9D87FA99=Press ~INPUT_PHONE_CANCEL~ to exit the phone menu and put away the phone.
+
+;0xDD76BA5A=~s~The special icon above the radar is a mission replay text message. Press ~INPUT_PHONE_TAKE_OUT~ to read this message and select the ~h~replay~s~ option to replay the last mission you failed.
+0xDD76BA5A=~s~The special icon above the radar is a mission replay text message. Press ~INPUT_PHONE_TAKE_OUT~ to read this message and select the ~h~replay~s~ option to replay the last mission you failed.
+
+;0xEB9549B3=Hold ~INPUT_AIM~ to lock onto enemies. Press ~INPUT_ATTACK~ to fire your weapon.
+0xEB9549B3=Hold ~INPUT_AIM~ to lock onto enemies. Press ~INPUT_ATTACK~ to fire your weapon.
+
+;0x8514CE69=Use ~INPUT_FREE_AIM~ to enter aim mode.
+0x8514CE69=Use ~INPUT_FREE_AIM~ to enter aim mode.
+
+;0xD60E64BB=When locked onto enemies you can switch between targets using ~PAD_RSTICK_LEFTRIGHT~.
+0xD60E64BB=When locked onto enemies you can switch between targets using ~PAD_RSTICK_LEFTRIGHT~.
+
+;0xCE771B0A=Use ~PAD_RSTICK_ALL~ to aim at enemies.
+0xCE771B0A=Use ~PAD_RSTICK_ALL~ to aim at enemies.
+
+;0xF96C8A49=Half hold ~PAD_LT~ to free aim. Use ~PAD_RSTICK_ALL~ to aim (Standard controls).
+0xF96C8A49=Half hold ~PAD_LT~ to free aim. Use ~PAD_RSTICK_ALL~ to aim (Standard controls).
+
+;0xB6F0A951=~s~Press ~INPUT_ATTACK~ to fire your weapon.
+0xB6F0A951=~s~Press ~INPUT_ATTACK~ to fire your weapon.
+
+;0x55D5E8C2=~s~You can play online with your friends via the multiplayer option on the phone. This allows you to play with other Social Club users.
+0x55D5E8C2=~s~You can play online with your friends via the multiplayer option on the phone. This allows you to play with other Social Club users.
+
+;0xA053AEBD=~s~For a quick online game select the Instant Play option in the phone menu.
+0xA053AEBD=~s~For a quick online game select the Instant Play option in the phone menu.
+
+;0x195782E8=~s~Press ~INPUT_COVER~ to enter and exit cover.
+0x195782E8=~s~Press ~INPUT_COVER~ to enter and exit cover.
+
+;0xC0BEF3BF=Hold ~INPUT_SPRINT~ to run. Tap ~INPUT_SPRINT~ repeatedly to sprint.
+0xC0BEF3BF=Hold ~INPUT_SPRINT~ to run. Tap ~INPUT_SPRINT~ repeatedly to sprint.
+
+;0x37ECBB45=Use ~INPUT_SPRINT~ to sprint.
+0x37ECBB45=Use ~INPUT_SPRINT~ to sprint.
+
+;0x7603AFF3=Press ~INPUT_DUCK~ to crouch, this will make your aim more accurate.
+0x7603AFF3=Press ~INPUT_DUCK~ to crouch, this will make your aim more accurate.
+
+;0x70005CEE=~r~Brian has escaped to the Police station.
+0x70005CEE=~r~Brian has escaped to the Police station.
+
+;0x9245A178=~r~You have lost Brian.
+0x9245A178=~r~You have lost Brian.
+
+;0x59FB69F6=RACE ALDERNEY BEACH
+0x59FB69F6=RACE ALDERNEY BEACH
+
+;0xD9B2E957=RACE ALDERNEY INDUSTRIAL
+0xD9B2E957=RACE ALDERNEY INDUSTRIAL
+
+;0x8116B8A3=RACE TUDOR DOCKS
+0x8116B8A3=RACE TUDOR DOCKS
+
+;0xAF9386A8=RACE ALDERNEY_CITY
+0xAF9386A8=RACE ALDERNEY_CITY
+
+;0xEFA29542=RACE ALDERNEY CASINO
+0xEFA29542=RACE ALDERNEY CASINO
+
+;0x29F1FAC7=RACE NORTH WEST ALDERNEY
+0x29F1FAC7=RACE NORTH WEST ALDERNEY
+
+;0x3DA1ADC3=RACE HOLLAND
+0x3DA1ADC3=RACE HOLLAND
+
+;0xB2AA0E7D=RACE PARK CIRCUIT
+0xB2AA0E7D=RACE PARK CIRCUIT
+
+;0x81343BAF=RACE BOHAN STRIP
+0x81343BAF=RACE BOHAN STRIP
+
+;0x4706C769=RACE BOHAN BEACH
+0x4706C769=RACE BOHAN BEACH
+
+;0x0A77AA07=RACE BOHAN STEPS
+0x0A77AA07=RACE BOHAN STEPS
+
+;0x5D6DCFF2=RACE SCHOTTLER STATION
+0x5D6DCFF2=RACE SCHOTTLER STATION
+
+;0x9DCACDD5=The ~BLIP_114~ icon represents the meeting point for a gang war. Go to that location to meet with other Lost members. In gang wars you will battle with other gangs. There will be various gang wars around the city.
+0x9DCACDD5=The ~BLIP_114~ icon represents the meeting point for a gang war. Go to that location to meet with other Lost members. In gang wars you will battle with other gangs. There will be various gang wars around the city.
+
+;0xAB8C6958=There will always be various gang wars around the city. These will be represented by the ~BLIP_114~ icon. Gang wars are a good way to increase how battle hardened Lost gang members become.
+0xAB8C6958=There will always be various gang wars around the city. These will be represented by the ~BLIP_114~ icon. Gang wars are a good way to increase how battle hardened Lost gang members become.
+
+;0x4FEBB214=You need to be on a bike to start a gang war.
+0x4FEBB214=You need to be on a bike to start a gang war.
+
+;0x9B6AEF9A=10 Gang Wars completed: Sawn-off shotgun delivered to safehouse.
+0x9B6AEF9A=10 Gang Wars completed: Sawn-off shotgun delivered to safehouse.
+
+;0xE146FB51=20 Gang Wars completed: Semi-automatic pistol delivered to safehouse.
+0xE146FB51=20 Gang Wars completed: Semi-automatic pistol delivered to safehouse.
+
+;0x6DF114A7=30 Gang Wars completed: Carbine rifle delivered to safehouse.
+0x6DF114A7=30 Gang Wars completed: Carbine rifle delivered to safehouse.
+
+;0x5795E821=40 Gang Wars completed: Assault shotgun delivered to safehouse.
+0x5795E821=40 Gang Wars completed: Assault shotgun delivered to safehouse.
+
+;0xE74E0793=50 Gang Wars completed: Grenade launcher delivered to safehouse.
+0xE74E0793=50 Gang Wars completed: Grenade launcher delivered to safehouse.
+
+;0x327A98D2=123-555-0160
+0x327A98D2=123-555-0160
+
+;0x942C1E5D=1235550160
+0x942C1E5D=1235550160
+
+;0xBB62AF77=You have arranged to do an activity with Jim. Meet him by going towards the ~BLIP_106~ on the radar.
+0xBB62AF77=You have arranged to do an activity with Jim. Meet him by going towards the ~BLIP_106~ on the radar.
+
+;0x2C721B4B=You can cancel an activity after it has been arranged. Use the option on the phone under Jim's name. He will prefer to be warned than stood up.
+0x2C721B4B=You can cancel an activity after it has been arranged. Use the option on the phone under Jim's name. He will prefer to be warned than stood up.
+
+;0xF139154D=You can take Jim to any location marked on the radar, or to the location of other activities.
+0xF139154D=You can take Jim to any location marked on the radar, or to the location of other activities.
+
+;0x0A5DDE89=You have completed the arranged activity with Jim. Take him home or go on another activity if you have found one. You can go on up to 3 additional activities.
+0x0A5DDE89=You have completed the arranged activity with Jim. Take him home or go on another activity if you have found one. You can go on up to 3 additional activities.
+
+;0x0DD65DF7=You have completed the arranged activity with Jim. You have already taken him on 3 additional activities. Take him home.
+0x0DD65DF7=You have completed the arranged activity with Jim. You have already taken him on 3 additional activities. Take him home.
+
+;0x68A2E85F=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Jim home. You'll sober up soon.
+0x68A2E85F=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Jim home. You'll sober up soon.
+
+;0xEA13D89D=Steer slowly past to attract Jim's attention.
+0xEA13D89D=Steer slowly past to attract Jim's attention.
+
+;0x33887A80=Steer slowly past to attract Jim's attention.
+0x33887A80=Steer slowly past to attract Jim's attention.
+
+;0xE37B7CA3=Follow ~b~Jim~s~ into the Clubhouse.
+0xE37B7CA3=Follow ~b~Jim~s~ into the Clubhouse.
+
+;0xD30FCA8E=Compete with Jim at Arm Wrestling ~BLIP_110~ or Cards ~BLIP_112~ one floor up. Leave the Clubhouse to quit hanging out with Jim.
+0xD30FCA8E=Compete with Jim at Arm Wrestling ~BLIP_110~ or Cards ~BLIP_112~ one floor up. Leave the Clubhouse to quit hanging out with Jim.
+
+;0xF6771AEF=You have arranged to do an activity with Terry. Meet him by going towards the ~BLIP_118~ on the radar.
+0xF6771AEF=You have arranged to do an activity with Terry. Meet him by going towards the ~BLIP_118~ on the radar.
+
+;0x1A3090E8=You can cancel an activity after it has been arranged. Use the option on the phone under Terry's name. He will prefer to be warned than stood up.
+0x1A3090E8=You can cancel an activity after it has been arranged. Use the option on the phone under Terry's name. He will prefer to be warned than stood up.
+
+;0xAA0DB5E3=You can take Terry to any location marked on the radar, or to the location of other activities.
+0xAA0DB5E3=You can take Terry to any location marked on the radar, or to the location of other activities.
+
+;0x0339C97D=You have completed the arranged activity with Terry. Take him home or go on another activity if you have found one. You can go on up to 3 additional activities.
+0x0339C97D=You have completed the arranged activity with Terry. Take him home or go on another activity if you have found one. You can go on up to 3 additional activities.
+
+;0xFD6351AB=You have completed the arranged activity with Terry. You have already taken him on 3 additional activities. Take him home.
+0xFD6351AB=You have completed the arranged activity with Terry. You have already taken him on 3 additional activities. Take him home.
+
+;0x40A483C7=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Terry home. You'll sober up soon.
+0x40A483C7=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Terry home. You'll sober up soon.
+
+;0x7DF9FCA6=Steer slowly past to attract Terry's attention.
+0x7DF9FCA6=Steer slowly past to attract Terry's attention.
+
+;0x6496CE1A=Steer slowly past to attract Terry's attention.
+0x6496CE1A=Steer slowly past to attract Terry's attention.
+
+;0x00AE27DC=Follow ~b~Terry~s~ into the Clubhouse.
+0x00AE27DC=Follow ~b~Terry~s~ into the Clubhouse.
+
+;0x9423BD07=Compete with Terry at Arm Wrestling ~BLIP_110~ or Cards ~BLIP_112~ one floor up. Leave the Clubhouse to quit hanging out with Terry.
+0x9423BD07=Compete with Terry at Arm Wrestling ~BLIP_110~ or Cards ~BLIP_112~ one floor up. Leave the Clubhouse to quit hanging out with Terry.
+
+;0xC929CC25=You have arranged to do an activity with Clay. Meet him by going towards the ~BLIP_119~ on the radar.
+0xC929CC25=You have arranged to do an activity with Clay. Meet him by going towards the ~BLIP_119~ on the radar.
+
+;0x52DFEBB5=You can cancel an activity after it has been arranged. Use the option on the phone under Clay's name. He will prefer to be warned than stood up.
+0x52DFEBB5=You can cancel an activity after it has been arranged. Use the option on the phone under Clay's name. He will prefer to be warned than stood up.
+
+;0x1BD2E790=You can take Clay to any location marked on the radar, or to the location of other activities.
+0x1BD2E790=You can take Clay to any location marked on the radar, or to the location of other activities.
+
+;0x192185BC=You have completed the arranged activity with Clay. Take him home or go on another activity if you have found one. You can go on up to 3 additional activities.
+0x192185BC=You have completed the arranged activity with Clay. Take him home or go on another activity if you have found one. You can go on up to 3 additional activities.
+
+;0x24B2556E=You have completed the arranged activity with Clay. You have already taken him on 3 additional activities. Take him home.
+0x24B2556E=You have completed the arranged activity with Clay. You have already taken him on 3 additional activities. Take him home.
+
+;0x81D4695A=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Clay home. You'll sober up soon.
+0x81D4695A=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Clay home. You'll sober up soon.
+
+;0x27871B59=Steer slowly past to attract Clay's attention.
+0x27871B59=Steer slowly past to attract Clay's attention.
+
+;0x5F1C8738=Steer slowly past to attract Clay's attention.
+0x5F1C8738=Steer slowly past to attract Clay's attention.
+
+;0x6A08086E=Follow ~b~Clay~s~ into the Clubhouse.
+0x6A08086E=Follow ~b~Clay~s~ into the Clubhouse.
+
+;0xD97FD65E=Compete with Clay at Arm Wrestling ~BLIP_110~ or Cards ~BLIP_112~ one floor up. Leave the Clubhouse to quit hanging out with Clay.
+0xD97FD65E=Compete with Clay at Arm Wrestling ~BLIP_110~ or Cards ~BLIP_112~ one floor up. Leave the Clubhouse to quit hanging out with Clay.
+
+;0x42EE4319=To quit hanging out at the clubhouse, go outside and walk a short distance away.
+0x42EE4319=To quit hanging out at the clubhouse, go outside and walk a short distance away.
+
+;0xC20CD4C7=To quit this friend activity, get on a bike or into a car.
+0xC20CD4C7=To quit this friend activity, get on a bike or into a car.
+
+;0x95F16B30=~b~Jim~s~, ~b~Terry~s~, and ~b~Clay~s~ have been left behind.
+0x95F16B30=~b~Jim~s~, ~b~Terry~s~, and ~b~Clay~s~ have been left behind.
+
+;0xB8D42EC0=~b~Jim~s~ and ~b~Terry~s~ have been left behind.
+0xB8D42EC0=~b~Jim~s~ and ~b~Terry~s~ have been left behind.
+
+;0xD376512C=~b~Jim~s~ and ~b~Clay~s~ have been left behind.
+0xD376512C=~b~Jim~s~ and ~b~Clay~s~ have been left behind.
+
+;0x2D3F20F0=~b~Terry~s~ and ~b~Clay~s~ have been left behind.
+0x2D3F20F0=~b~Terry~s~ and ~b~Clay~s~ have been left behind.
+
+;0x0A3503A3=~b~Jim~s~ has been left behind.
+0x0A3503A3=~b~Jim~s~ has been left behind.
+
+;0x234FF640=~b~Terry~s~ has been left behind.
+0x234FF640=~b~Terry~s~ has been left behind.
+
+;0x43B979A7=~b~Clay~s~ has been left behind.
+0x43B979A7=~b~Clay~s~ has been left behind.
+
+;0x7BD68BD0=~r~You left your friends behind.
+0x7BD68BD0=~r~You left your friends behind.
+
+;0xFB60FC77=You are now President of The Lost Motorcycle Club.
+0xFB60FC77=You are now President of The Lost Motorcycle Club.
+
+;0xC61391DD=You can call for help anytime from Terry or Clay. They will provide backup for you on jobs.
+0xC61391DD=You can call for help anytime from Terry or Clay. They will provide backup for you on jobs.
+
+;0xD77534A0=To ask for their help, call Terry or Clay and select Backup.
+0xD77534A0=To ask for their help, call Terry or Clay and select Backup.
+
+;0x54582E68=Terry and Clay's stats are displayed just above the radar. For these characters you can see more info on the stats by pressing ~INPUT_PHONE_PUT_AWAY~.
+0x54582E68=Terry and Clay's stats are displayed just above the radar. For these characters you can see more info on the stats by pressing ~INPUT_PHONE_PUT_AWAY~.
+
+;0x7394BCDF=Terry and Clay's stats are displayed just above the radar. For these characters you can see more info on the stats by pressing ~INPUT_FRONTEND_SHOWSCORE~.
+0x7394BCDF=Terry and Clay's stats are displayed just above the radar. For these characters you can see more info on the stats by pressing ~INPUT_FRONTEND_SHOWSCORE~.
+
+;0xB6CC48F4=The details displayed above the radar show how fight hardened your Lost gang members are. This is represented by the colored bar next to their names.
+0xB6CC48F4=The details displayed above the radar show how fight hardened your Lost gang members are. This is represented by the colored bar next to their names.
+
+;0x5FEF9B84=Gang members get harder each time they complete a job with you. They will become more effective in gun battles.
+0x5FEF9B84=Gang members get harder each time they complete a job with you. They will become more effective in gun battles.
+
+;0x91167DD1=If they die on a job they will be replaced by a new Lost gang member.
+0x91167DD1=If they die on a job they will be replaced by a new Lost gang member.
+
+;0x9FEB1ECE=You can now use Jim's special ability. You can call up Jim and select "Weapons" and he will stash your fully loaded weapon in the Lost Clubhouse.
+0x9FEB1ECE=You can now use Jim's special ability. You can call up Jim and select "Weapons" and he will stash your fully loaded weapon in the Lost Clubhouse.
+
+;0x72A45E5E=You can now use Terry's special ability. You can call up Terry and select "Gun Van" he will arrive at a location near you and sell you guns and equipment at discounted prices.
+0x72A45E5E=You can now use Terry's special ability. You can call up Terry and select "Gun Van" he will arrive at a location near you and sell you guns and equipment at discounted prices.
+
+;0x7E840705=You can now use Clay's special ability. You can call up Clay and select "Bikes" he will drop off the bike of your choice near your location.
+0x7E840705=You can now use Clay's special ability. You can call up Clay and select "Bikes" he will drop off the bike of your choice near your location.
+
+;0xFAD1336A=You can now phone Jim to get a fully loaded weapon left in the Clubhouse arm wrestling room, Clay to bring you a bike, or Terry for cheap weapons and ammo.
+0xFAD1336A=You can now phone Jim to get a fully loaded weapon left in the Clubhouse arm wrestling room, Clay to bring you a bike, or Terry for cheap weapons and ammo.
+
+;0xAD0EBC11=The autosave pause menu option is used by The Lost and Damned. It is currently switched off. Switch it on again to re-enable autosaving for The Lost and Damned.
+0xAD0EBC11=The autosave pause menu option is used by The Lost and Damned. It is currently switched off. Switch it on again to re-enable autosaving for The Lost and Damned.
+
+;0x47B4959B=You can't race if you don't have a bike.
+0x47B4959B=You can't race if you don't have a bike.
+
+;0x400C26AB=THIS LABEL NEEDS TO BE HERE !!!
+0x400C26AB=THIS LABEL NEEDS TO BE HERE !!!
+
+;0xAEBE45DA=...Clean And Serene
+0xAEBE45DA=...Clean And Serene
+
+;0xBC74E147=Angels In America
+0xBC74E147=Angels In America
+
+;0x53670F31=It's War
+0x53670F31=It's War
+
+;0x61B4ABCC=Action/Reaction
+0x61B4ABCC=Action/Reaction
+
+;0x56041467=Buyer's Market
+0x56041467=Buyer's Market
+
+;0x6435B0CA=This Shit's Cursed
+0x6435B0CA=This Shit's Cursed
+
+;0x7A7EDD5C=Liberty City Choppers
+0x7A7EDD5C=Liberty City Choppers
+
+;0x8AE97E31=Bad Cop Drop
+0x8AE97E31=Bad Cop Drop
+
+;0x19191A92=I Want One Of Those
+0x19191A92=I Want One Of Those
+
+;0x451C7AED=Hit The Pipe
+0x451C7AED=Hit The Pipe
+
+;0x56D91E6A=End Of Chapter
+0x56D91E6A=End Of Chapter
+
+;0x617733A6=Bad Standing
+0x617733A6=Bad Standing
+
+;0x738AD7CD=Politics
+0x738AD7CD=Politics
+
+;0xFC2EE913=Off Route
+0xFC2EE913=Off Route
+
+;0x0E178CE4=Proc Odd Jobs
+0x0E178CE4=Proc Odd Jobs
+
+;0x1AC1A638=Get Lost
+0x1AC1A638=Get Lost
+
+;0x2A73459B=Coming Down
+0x2A73459B=Coming Down
+
+;0xE521BAFD=Roman's Holiday
+0xE521BAFD=Roman's Holiday
+
+;0xF450595A=Heavy Toll
+0xF450595A=Heavy Toll
+
+;0x002B6FE8=Marta Full Of Grace
+0x002B6FE8=Marta Full Of Grace
+
+;0xEA594444=Shifting Weight
+0xEA594444=Shifting Weight
+
+;0x496F8277=Diamonds In The Rough
+0x496F8277=Diamonds In The Rough
+
+;0x3B86E6A2=Collector's Item
+0x3B86E6A2=Collector's Item
+
+;0x252CB9EE=Was It Worth it?
+0x252CB9EE=Was It Worth it?
+
+;0x85C47BBC=Clean And...
+0x85C47BBC=Clean And...
+
+;0xCB708677=Angels In...
+0xCB708677=Angels In...
+
+;0x358BDE08=It's War
+0x358BDE08=It's War
+
+;0xBEDC6F8F=Action/Reaction
+0xBEDC6F8F=Action/Reaction
+
+;0xAABE383F=Buyer's Market.
+0xAABE383F=Buyer's Market.
+
+;0x97781093=This Shit's...
+0x97781093=This Shit's...
+
+;0x8275EA43=Liberty City...
+0x8275EA43=Liberty City...
+
+;0x8948F6C9=Bad Cop Drop
+0x8948F6C9=Bad Cop Drop
+
+;0xB495BEAE=I Want One Of..
+0xB495BEAE=I Want One Of..
+
+;0xFF4997F3=Hit The Pipe
+0xFF4997F3=Hit The Pipe
+
+;0xCCF236A9=End Of Chapter
+0xCCF236A9=End Of Chapter
+
+;0x09AD2EFA=Bad Standing
+0x09AD2EFA=Bad Standing
+
+;0xEF51FDAC=Politics
+0xEF51FDAC=Politics
+
+;0xBAD48A7E=Off Route
+0xBAD48A7E=Off Route
+
+;0x2C60F0C5=Proc Odd Jobs
+0x2C60F0C5=Proc Odd Jobs
+
+;0xBE4D13AF=Get Lost
+0xBE4D13AF=Get Lost
+
+;0x38A58BFA=Coming Down
+0x38A58BFA=Coming Down
+
+;0x4D8BC09A=Roman's Holiday
+0x4D8BC09A=Roman's Holiday
+
+;0x368A11B7=Heavy Toll
+0x368A11B7=Heavy Toll
+
+;0xE77E4B6A=Marta Full...
+0xE77E4B6A=Marta Full...
+
+;0xD1699E25=Shifting Weight
+0xD1699E25=Shifting Weight
+
+;0x0C3E2021=Diamonds In The
+0x0C3E2021=Diamonds In The
+
+;0x36BD7407=Collector's...
+0x36BD7407=Collector's...
+
+;0xD8413A6C=Was It Worth...
+0xD8413A6C=Was It Worth...
+
+;0x85B91AB8=THIS LABEL NEEDS TO BE HERE !!!
+0x85B91AB8=THIS LABEL NEEDS TO BE HERE !!!
+
+;0xD7AE343F=Billy
+0xD7AE343F=Billy
+
+;0x7E297977=Jim
+0x7E297977=Jim
+
+;0x9C1C3D20=Stubbs
+0x9C1C3D20=Stubbs
+
+;0xEA505987=Ashley
+0xEA505987=Ashley
+
+;0xB108E6F9=Elizabeta
+0xB108E6F9=Elizabeta
+
+;0x7F41036A=Ray
+0x7F41036A=Ray
+
+;0xDE28B978=Terry
+0xDE28B978=Terry
+
+;0xB062DDED=Clay
+0xB062DDED=Clay
+
+;0x69C0D86A=Angus
+0x69C0D86A=Angus
+
+;0xBA2AFB61=Malc
+0xBA2AFB61=Malc
+
+;0x9113C900=Brian
+0x9113C900=Brian
+
+;0xC5D8328C=Bryce Bug
+0xC5D8328C=Bryce Bug
+
+;0xEFA40979=Job
+0xEFA40979=Job
+
+;0x02BAAFA6=Air Hockey
+0x02BAAFA6=Air Hockey
+
+;0x506FCB13=Arm Wrestling
+0x506FCB13=Arm Wrestling
+
+;0x5E9AE769=Boating
+0x5E9AE769=Boating
+
+;0x2C5C02EC=Bowling
+0x2C5C02EC=Bowling
+
+;0x97FCDA2C=Darts
+0x97FCDA2C=Darts
+
+;0xA5B6F5A0=Drinking
+0xA5B6F5A0=Drinking
+
+;0x76879742=Eating
+0x76879742=Eating
+
+;0x84C633BF=Gang War
+0x84C633BF=Gang War
+
+;0xA7F97A3D=Hang Out
+0xA7F97A3D=Hang Out
+
+;0x30A67723=Heli Ride
+0x30A67723=Heli Ride
+
+;0xFEEF93B6=HiLo Cards
+0xFEEF93B6=HiLo Cards
+
+;0xD4183E08=Lift
+0xD4183E08=Lift
+
+;0x226B5AAD=Pool
+0x226B5AAD=Pool
+
+;0x67D1E575=Race
+0x67D1E575=Race
+
+;0x360701E0=Show
+0x360701E0=Show
+
+;0x0B53AC7E=Strip Club
+0x0B53AC7E=Strip Club
+
+;0x3AC7084A=Do Gang War?
+0x3AC7084A=Do Gang War?
+
+;0x08825695=Do Race?
+0x08825695=Do Race?
+
+;0xED186B7D=Hang Out?
+0xED186B7D=Hang Out?
+
+;0x3CD06786=Air Hockey?
+0x3CD06786=Air Hockey?
+
+;0xDA522744=Cancel Plans
+0xDA522744=Cancel Plans
+
+;0xFA716782=Weapons
+0xFA716782=Weapons
+
+;0xE8B9C469=Backup
+0xE8B9C469=Backup
+
+;0xCDE00EB6=Cancel Plans
+0xCDE00EB6=Cancel Plans
+
+;0xFB8DEA11=Gun Van
+0xFB8DEA11=Gun Van
+
+;0x2AC1424A=Backup
+0x2AC1424A=Backup
+
+;0x6DAF4829=Cancel Plans
+0x6DAF4829=Cancel Plans
+
+;0x4A558176=Bikes
+0x4A558176=Bikes
+
+;0xBF362D0B=Billy
+0xBF362D0B=Billy
+
+;0xBB3CFB49=Pistol
+0xBB3CFB49=Pistol
+
+;0xAD825FD4=Pump Shotgun
+0xAD825FD4=Pump Shotgun
+
+;0x96C13252=Micro-SMG
+0x96C13252=Micro-SMG
+
+;0x890F96EF=Sniper Rifle
+0x890F96EF=Sniper Rifle
+
+;0x75276F1F=Assault Rifle
+0x75276F1F=Assault Rifle
+
+;0x63D8CC82=SMG
+0x63D8CC82=SMG
+
+;0x4D99A004=Carbine Rifle
+0x4D99A004=Carbine Rifle
+
+;0x40540579=Combat Shotgun
+0x40540579=Combat Shotgun
+
+;0x2B9D5C0C=RPG
+0x2B9D5C0C=RPG
+
+;0xCDF3A0BA=Grenade Launcher
+0xCDF3A0BA=Grenade Launcher
+
+;0x9DDF1D5F=Assault Shotgun
+0x9DDF1D5F=Assault Shotgun
+
+;0x8C1379C8=9mm Automatic Pistol
+0x8C1379C8=9mm Automatic Pistol
+
+;0x603C221A=Sawn-Off Shotgun
+0x603C221A=Sawn-Off Shotgun
+
+;0x56770E90=Grenade
+0x56770E90=Grenade
+
+;0xD99114CA=Pipe Bombs
+0xD99114CA=Pipe Bombs
+
+;0xC8CE733D=Molotov
+0xC8CE733D=Molotov
+
+;0xBDE05D61=Combat Sniper
+0xBDE05D61=Combat Sniper
+
+;0x1360BBD3=BIK - INNOVATION
+0x1360BBD3=BIK - INNOVATION
+
+;0x00CB96A9=BIK - HEXER
+0x00CB96A9=BIK - HEXER
+
+;0x2DFD710C=BIK - HAKUCHOU
+0x2DFD710C=BIK - HAKUCHOU
+
+;0xC58F9F12=BIK - DOUBLET
+0xC58F9F12=BIK - DOUBLET
+
+;0x965940A6=VAN - GANG BURRITO
+0x965940A6=VAN - GANG BURRITO
+
+;0xA943E67B=VAN - SLAMVAN
+0xA943E67B=VAN - SLAMVAN
+
+;0x4478017A=enabled cheat - "INNOVATION"
+0x4478017A=enabled cheat - "INNOVATION"
+
+;0xBA31ECEC=enabled cheat - "HEXER"
+0xBA31ECEC=enabled cheat - "HEXER"
+
+;0xAA944DB1=enabled cheat - "HAKUCHOU"
+0xAA944DB1=enabled cheat - "HAKUCHOU"
+
+;0x340CDB4C=enabled cheat - "DOUBLET"
+0x340CDB4C=enabled cheat - "DOUBLET"
+
+;0x421DF76E=enabled cheat - "GANG BURRITO"
+0x421DF76E=enabled cheat - "GANG BURRITO"
+
+;0x0FE412FB=enabled cheat - "SLAMVAN"
+0x0FE412FB=enabled cheat - "SLAMVAN"
+
+;0x5F8F3DB3=THE LOST MC
+0x5F8F3DB3=THE LOST MC
+
+;0x9B7E3C86=THIS LABEL NEEDS TO BE HERE !!!
+0x9B7E3C86=THIS LABEL NEEDS TO BE HERE !!!
+
+;0xEBF73FBE=~z~Beachgate.
+0xEBF73FBE=~z~Beachgate.
+
+;0x35E0DED5=~z~Boulevard.
+0x35E0DED5=~z~Boulevard.
+
+;0x4C5ECB48=~z~Uhh... Little Bay.
+0x4C5ECB48=~z~Uhh... Little Bay.
+
+;0x05F055ED=~z~Yeah, uhh... Northern Gardens.
+0x05F055ED=~z~Yeah, uhh... Northern Gardens.
+
+;0x5FB02421=~z~Uhh... Fortside.
+0x5FB02421=~z~Uhh... Fortside.
+
+;0x3B01261C=~z~Uhh... Industrial.
+0x3B01261C=~z~Uhh... Industrial.
+
+;0x96965376=~z~South Bohan.
+0x96965376=~z~South Bohan.
+
+;0x77C40338=~z~Chase Point.
+0x77C40338=~z~Chase Point.
+
+;0x8C15B7C7=~z~Charge Island.
+0x8C15B7C7=~z~Charge Island.
+
+;0xE63342FF=~z~Colony Island.
+0xE63342FF=~z~Colony Island.
+
+;0x5ACBE819=~z~Rotterdam Hill.
+0x5ACBE819=~z~Rotterdam Hill.
+
+;0xEB9D4203=~z~Yeah, uhh... Steinway.
+0xEB9D4203=~z~Yeah, uhh... Steinway.
+
+;0x65733F31=~z~Uhh... East Island City.
+0x65733F31=~z~Uhh... East Island City.
+
+;0xE93E4F08=~z~Yeah, Meadows Park.
+0xE93E4F08=~z~Yeah, Meadows Park.
+
+;0x96C032B7=~z~Meadow Hills
+0x96C032B7=~z~Meadow Hills
+
+;0xB30E3CFC=~z~Cerveza Heights.
+0xB30E3CFC=~z~Cerveza Heights.
+
+;0x7EECF803=~z~Yeah, Willis.
+0x7EECF803=~z~Yeah, Willis.
+
+;0x30EBE4A3=~z~Uhh... Schottler.
+0x30EBE4A3=~z~Uhh... Schottler.
+
+;0x2B0D828A=~z~Beechwood City.
+0x2B0D828A=~z~Beechwood City.
+
+;0x48AA603D=~z~Uhh... Downtown.
+0x48AA603D=~z~Uhh... Downtown.
+
+;0x357565B1=~z~East Hook.
+0x357565B1=~z~East Hook.
+
+;0xC76BF981=~z~Boabo.
+0xC76BF981=~z~Boabo.
+
+;0xA073E562=~z~Francis International Airport.
+0xA073E562=~z~Francis International Airport.
+
+;0x6B3D28A8=~z~South Slopes.
+0x6B3D28A8=~z~South Slopes.
+
+;0xAB409262=~z~Yeah, Hove Beach.
+0xAB409262=~z~Yeah, Hove Beach.
+
+;0xD4E8F919=~z~Firefly Island.
+0xD4E8F919=~z~Firefly Island.
+
+;0x3BDAF31D=~z~Uhh... Outlook.
+0x3BDAF31D=~z~Uhh... Outlook.
+
+;0x3CCAA211=~z~Yeah, Anger Bay.
+0x3CCAA211=~z~Yeah, Anger Bay.
+
+;0x27482C31=~z~Castle Gardens.
+0x27482C31=~z~Castle Gardens.
+
+;0x8E0DD084=~z~The Exchange.
+0x8E0DD084=~z~The Exchange.
+
+;0x235B6D5A=~z~Chinatown.
+0x235B6D5A=~z~Chinatown.
+
+;0x3C2D41C6=~z~Little Italy.
+0x3C2D41C6=~z~Little Italy.
+
+;0x1F201AFD=~z~Fishmarket North.
+0x1F201AFD=~z~Fishmarket North.
+
+;0xAD6C6A5A=~z~Fishmarket uhh...South.
+0xAD6C6A5A=~z~Fishmarket uhh...South.
+
+;0x9CFBE36A=~z~Castle Garden City.
+0x9CFBE36A=~z~Castle Garden City.
+
+;0xEC2DEE0F=~z~Norfolk.
+0xEC2DEE0F=~z~Norfolk.
+
+;0x0F8D6889=~z~Suffolk.
+0x0F8D6889=~z~Suffolk.
+
+;0xB888A797=~z~Yeah, Lower Easton.
+0xB888A797=~z~Yeah, Lower Easton.
+
+;0x5835FD3C=~z~Easton.
+0x5835FD3C=~z~Easton.
+
+;0x471CA272=~z~The Triangle.
+0x471CA272=~z~The Triangle.
+
+;0xE52EE7EB=~z~The Meat Quarter.
+0xE52EE7EB=~z~The Meat Quarter.
+
+;0x823F78FD=~z~Uhh... Presidents City.
+0x823F78FD=~z~Uhh... Presidents City.
+
+;0x5E6D27B8=~z~Uhh... Lancet.
+0x5E6D27B8=~z~Uhh... Lancet.
+
+;0x1C56FD7A=~z~Westminster.
+0x1C56FD7A=~z~Westminster.
+
+;0x46E66724=~z~Purgatory.
+0x46E66724=~z~Purgatory.
+
+;0x8E3612FC=~z~Star Junction.
+0x8E3612FC=~z~Star Junction.
+
+;0x5E2E1AF0=~z~Hatton Gardens.
+0x5E2E1AF0=~z~Hatton Gardens.
+
+;0x19A45645=~z~Middle Park uhh... East.
+0x19A45645=~z~Middle Park uhh... East.
+
+;0x42958F51=~z~Lancaster.
+0x42958F51=~z~Lancaster.
+
+;0xFD453C3E=~z~Middle Park.
+0xFD453C3E=~z~Middle Park.
+
+;0x5E8411EE=~z~Yeah, Varsity Heights.
+0x5E8411EE=~z~Yeah, Varsity Heights.
+
+;0x94DE678F=~z~Middle Park uhh... West.
+0x94DE678F=~z~Middle Park uhh... West.
+
+;0x4F891DBA=~z~North Holland.
+0x4F891DBA=~z~North Holland.
+
+;0x3D56B747=~z~East Holland.
+0x3D56B747=~z~East Holland.
+
+;0x236221B7=~z~Jefferson Heights.
+0x236221B7=~z~Jefferson Heights.
+
+;0x0D5AC052=~z~Northwood.
+0x0D5AC052=~z~Northwood.
+
+;0x9B5F2316=~z~Westdyke.
+0x9B5F2316=~z~Westdyke.
+
+;0xBBFD1BDE=~z~Yeah, Leftwood.
+0xBBFD1BDE=~z~Yeah, Leftwood.
+
+;0xC1046A8A=~z~Alderney City.
+0xC1046A8A=~z~Alderney City.
+
+;0xE9EA4C0D=~z~Berchem.
+0xE9EA4C0D=~z~Berchem.
+
+;0x62CC3178=~z~Uhh... Normandy.
+0x62CC3178=~z~Uhh... Normandy.
+
+;0x0F5DAF39=~z~Yeah, Acter.
+0x0F5DAF39=~z~Yeah, Acter.
+
+;0xB4C5CBA7=~z~Acter Bay.
+0xB4C5CBA7=~z~Acter Bay.
+
+;0x784B4795=~z~Port Tudor.
+0x784B4795=~z~Port Tudor.
+
+;0xC31D5C32=~z~Tudor.
+0xC31D5C32=~z~Tudor.
+
+;0x65D96069=~z~Acter Industrial Park.
+0x65D96069=~z~Acter Industrial Park.
+
+;0x9865F339=~z~Richmond.
+0x9865F339=~z~Richmond.
+
+;0xB7DC4B87=~z~Frogtown.
+0xB7DC4B87=~z~Frogtown.
+
+;0x07B0DAE8=~z~Uhh... Happiness Island.
+0x07B0DAE8=~z~Uhh... Happiness Island.
+
+;0xFC67E81D=~z~Yeah, City Hall.
+0xFC67E81D=~z~Yeah, City Hall.
+
+;0x3A02F97D=~z~The Golfcourse.
+0x3A02F97D=~z~The Golfcourse.
+
+;0x9EC5DDF5=~z~The Airport.
+0x9EC5DDF5=~z~The Airport.
+
+;0x40F1C780=~z~Firefly Projects.
+0x40F1C780=~z~Firefly Projects.
+
+;0x86E925BF=~z~Broker Bridge.
+0x86E925BF=~z~Broker Bridge.
+
+;0x38FEA002=~z~Algonquin Bridge.
+0x38FEA002=~z~Algonquin Bridge.
+
+;0x08956977=~z~East Borough Bridge.
+0x08956977=~z~East Borough Bridge.
+
+;0xCE89F387=~z~Dukes Bay Bridge.
+0xCE89F387=~z~Dukes Bay Bridge.
+
+;0xC89E4CD0=~z~Hickey Bridge.
+0xC89E4CD0=~z~Hickey Bridge.
+
+;0x011F2CF0=~z~Northwood Heights Bridge.
+0x011F2CF0=~z~Northwood Heights Bridge.
+
+;0x56F72F43=~z~The Booth Tunnel.
+0x56F72F43=~z~The Booth Tunnel.
+
+;0x1D0500CF=~z~Uhh... Leaper's Bridge.
+0x1D0500CF=~z~Uhh... Leaper's Bridge.
+
+;0x302489B6=~z~~x~Man... I dunno right now. Shit, I'll call you back.
+0x302489B6=~z~~x~Man... I dunno right now. Shit, I'll call you back.
+
+;0xF9CA9D03=~z~~x~Dude. I didn't think I'd get given the third degree. I'll call you back with a locate.
+0xF9CA9D03=~z~~x~Dude. I didn't think I'd get given the third degree. I'll call you back with a locate.
+
+;0x648D7287=~z~~x~I dunno. Ain't it enough that I'm calling for help? Fucking bureaucrats.
+0x648D7287=~z~~x~I dunno. Ain't it enough that I'm calling for help? Fucking bureaucrats.
+
+;0xB0C01479=~z~~x~Hello, this is the LCPD, where would you like us to send an officer?
+0xB0C01479=~z~~x~Hello, this is the LCPD, where would you like us to send an officer?
+
+;0x0913EB15=~z~~x~Hello, you're through to the MS Paramedics. In which area is your medical emergency?
+0x0913EB15=~z~~x~Hello, you're through to the MS Paramedics. In which area is your medical emergency?
+
+;0x90C77552=~z~~x~Hello, this is the FDLC. Where do you need assistance?
+0x90C77552=~z~~x~Hello, this is the FDLC. Where do you need assistance?
+
+;0x29CE6514=~z~~x~Hello, you're through to the Liberty City Emergency Services.
+0x29CE6514=~z~~x~Hello, you're through to the Liberty City Emergency Services.
+
+;0x392503C1=~z~~x~Please use your touchtone keypad to select which specific service you require.
+0x392503C1=~z~~x~Please use your touchtone keypad to select which specific service you require.
+
+;0x4E842E7F=~z~~x~Press 1 for Police, press 2 for Paramedics, press 3 for the Fire Department.
+0x4E842E7F=~z~~x~Press 1 for Police, press 2 for Paramedics, press 3 for the Fire Department.
+
+;0xCF72B1D6=~z~~x~An LCPD peacekeeper will be there as soon as possible, sir.
+0xCF72B1D6=~z~~x~An LCPD peacekeeper will be there as soon as possible, sir.
+
+;0x0A659CFB=~z~~x~We'll send a basically trained paramedic as soon as we can, sir.
+0x0A659CFB=~z~~x~We'll send a basically trained paramedic as soon as we can, sir.
+
+;0x76ECF608=~z~~x~Don't move and please have your insurance documentation or credit card ready.
+0x76ECF608=~z~~x~Don't move and please have your insurance documentation or credit card ready.
+
+;0x8ADD69F7=~z~~x~We'll get a fire truck out to you right away.
+0x8ADD69F7=~z~~x~We'll get a fire truck out to you right away.
+
+;0x5C928D62=~z~~x~Hold tight and please be advised that the FDLC takes no responsibility for damage to property.
+0x5C928D62=~z~~x~Hold tight and please be advised that the FDLC takes no responsibility for damage to property.
+
+;0xA9325562=~z~~x~We look forward to hearing from you again. Please stay safe in the meantime.
+0xA9325562=~z~~x~We look forward to hearing from you again. Please stay safe in the meantime.
+
+;0xC4815B5F=~z~~x~I'm sorry, but all our peacekeepers are currently busy filling quotas and dealing with paper work.
+0xC4815B5F=~z~~x~I'm sorry, but all our peacekeepers are currently busy filling quotas and dealing with paper work.
+
+;0xB2643725=~z~~x~Please call back later.
+0xB2643725=~z~~x~Please call back later.
+
+;0x62508147=~z~~x~All our lines are busy at the moment, please call again later. Your emergency is important to us.
+0x62508147=~z~~x~All our lines are busy at the moment, please call again later. Your emergency is important to us.
+
+;0x1D629E98=~z~Thank you, sir.
+0x1D629E98=~z~Thank you, sir.
+
+;0xD6148FFD=~z~What's the point in the Second Amendment if you ain't gonna use it?
+0xD6148FFD=~z~What's the point in the Second Amendment if you ain't gonna use it?
+
+;0x03CA6B68=~z~Don't go selling to kids now.
+0x03CA6B68=~z~Don't go selling to kids now.
+
+;0xB983D6F4=~z~From my cold dead hand, buddy.
+0xB983D6F4=~z~From my cold dead hand, buddy.
+
+;0xE64EB071=~z~It don't matter what the world thinks of America, at least we can still buy guns here.
+0xE64EB071=~z~It don't matter what the world thinks of America, at least we can still buy guns here.
+
+;0x346F4CC1=~z~Don't worry, pal. The recession ain't gonna affect the illegal arms trade.
+0x346F4CC1=~z~Don't worry, pal. The recession ain't gonna affect the illegal arms trade.
+
+;0x62412864=~z~Adios, amigo.
+0x62412864=~z~Adios, amigo.
+
+;0x1A0A97F8=~z~You guys do any endorsement deals? The Lost MC are looking for a sponsor.
+0x1A0A97F8=~z~You guys do any endorsement deals? The Lost MC are looking for a sponsor.
+
+;0x47B5734D=~z~Thanks, dude. You've been most helpful.
+0x47B5734D=~z~Thanks, dude. You've been most helpful.
+
+;0x4177EC3A=~z~Thanks man. The next guy I shoot, I'm going to tell him where I shop.
+0x4177EC3A=~z~Thanks man. The next guy I shoot, I'm going to tell him where I shop.
+
+;0x18A1E15A=~z~Didn't take me for a window shopper, did you? So long.
+0x18A1E15A=~z~Didn't take me for a window shopper, did you? So long.
+
+;0xB463192E=~z~Sorry, man. I had to cut down spending on firearms. This fucking economic downturn...
+0xB463192E=~z~Sorry, man. I had to cut down spending on firearms. This fucking economic downturn...
+
+;0xA6C37DEB=~z~You know what, I thought I was gonna go out and kill somebody then I decided not to.
+0xA6C37DEB=~z~You know what, I thought I was gonna go out and kill somebody then I decided not to.
+
+;0xD943E2EF=~z~I was just looking, man. Guns give me a raging hard on.
+0xD943E2EF=~z~I was just looking, man. Guns give me a raging hard on.
+
+;0xCAFD4662=~z~Fuck it, man. My wife don't need killing after all.
+0xCAFD4662=~z~Fuck it, man. My wife don't need killing after all.
+
+;0xCDEF0F01=~z~~x~Blah. Blah. Blah. Blah. Blah.
+0xCDEF0F01=~z~~x~Blah. Blah. Blah. Blah. Blah.
+
+;0xB860E3E5=~z~~x~Yadda. Yadda. Yadda. Yadda.
+0xB860E3E5=~z~~x~Yadda. Yadda. Yadda. Yadda.
+
+;0xAAA3C86B=~z~~x~This shit really interest you?
+0xAAA3C86B=~z~~x~This shit really interest you?
+
+;0xA4EC3CFC=~z~~x~You're like a fucking parrot.
+0xA4EC3CFC=~z~~x~You're like a fucking parrot.
+
+;0x87280174=~z~~x~What kinda engine you got in this thing?
+0x87280174=~z~~x~What kinda engine you got in this thing?
+
+;0x8C900C4C=~z~~x~Oh yeah?
+0x8C900C4C=~z~~x~Oh yeah?
+
+;0xAF5051CC=~z~~x~Sure.
+0xAF5051CC=~z~~x~Sure.
+
+;0x691F4567=~z~~x~Okay.
+0x691F4567=~z~~x~Okay.
+
+;0x9BD0AACD=~z~~x~Well, whoop dee do.
+0x9BD0AACD=~z~~x~Well, whoop dee do.
+
+;0xB3435856=~z~~x~How fast that rotor go?
+0xB3435856=~z~~x~How fast that rotor go?
+
+;0xC1F575BA=~z~~x~Uh huh.
+0xC1F575BA=~z~~x~Uh huh.
+
+;0x958E1CEC=~z~~x~You do this every day?
+0x958E1CEC=~z~~x~You do this every day?
+
+;0xA338B841=~z~~x~How high up are we?
+0xA338B841=~z~~x~How high up are we?
+
+;0x5A20260D=~z~~x~These things ever crash?
+0x5A20260D=~z~~x~These things ever crash?
+
+;0x68EDC3A8=~z~~x~Just let me look at the city in peace, man.
+0x68EDC3A8=~z~~x~Just let me look at the city in peace, man.
+
+;0x420BF5E5=~z~~x~Really? Great.
+0x420BF5E5=~z~~x~Really? Great.
+
+;0x4FA19110=~z~~x~Yeah. Yeah. Yeah.
+0x4FA19110=~z~~x~Yeah. Yeah. Yeah.
+
+;0x24923AF2=~z~~x~Whatever.
+0x24923AF2=~z~~x~Whatever.
+
+;0x33CCD967=~z~~x~Dude.
+0x33CCD967=~z~~x~Dude.
+
+;0xDCE8AAC8=~z~~x~Fascinating. Really.
+0xDCE8AAC8=~z~~x~Fascinating. Really.
+
+;0x7487C3A6=~z~~x~You like bikes? I gotta nice one.
+0x7487C3A6=~z~~x~You like bikes? I gotta nice one.
+
+;0x25C5A623=~z~~x~You're a nasty little madam, ain't ya?
+0x25C5A623=~z~~x~You're a nasty little madam, ain't ya?
+
+;0x53408118=~z~~x~You're young and beautiful. Don't throw it away, baby.
+0x53408118=~z~~x~You're young and beautiful. Don't throw it away, baby.
+
+;0x85AB65ED=~z~~x~Shit, have I seen that booty on the internet?
+0x85AB65ED=~z~~x~Shit, have I seen that booty on the internet?
+
+;0xB6EEC873=~z~~x~Sweet girls like the bad boys, don't they?
+0xB6EEC873=~z~~x~Sweet girls like the bad boys, don't they?
+
+;0x691FACD6=~z~~x~Man, oh, man.
+0x691FACD6=~z~~x~Man, oh, man.
+
+;0x8DA0E82F=~z~~x~You ever done it one the back of a chopper going a hundred down the super slab?
+0x8DA0E82F=~z~~x~You ever done it one the back of a chopper going a hundred down the super slab?
+
+;0x80294D40=~z~~x~You like ink, baby? Scope me out.
+0x80294D40=~z~~x~You like ink, baby? Scope me out.
+
+;0x6A7321D4=~z~~x~You got a big brother I should worry about.
+0x6A7321D4=~z~~x~You got a big brother I should worry about.
+
+;0x5C6885BF=~z~~x~What time you clock off? Seriously.
+0x5C6885BF=~z~~x~What time you clock off? Seriously.
+
+;0x56A77A39=~z~~x~You like weed and beer? We could have a good old night.
+0x56A77A39=~z~~x~You like weed and beer? We could have a good old night.
+
+;0x48D5DE96=~z~~x~Excuse those stains sugar. It's only grease, that's all it is.
+0x48D5DE96=~z~~x~Excuse those stains sugar. It's only grease, that's all it is.
+
+;0x5E4CF6B3=~z~~x~If the brothers could see this.
+0x5E4CF6B3=~z~~x~If the brothers could see this.
+
+;0x4B135040=~z~~x~Lost MC. Oh yeah.
+0x4B135040=~z~~x~Lost MC. Oh yeah.
+
+;0xFD5D34D5=~z~~x~You ladies tag teamin' me?
+0xFD5D34D5=~z~~x~You ladies tag teamin' me?
+
+;0xEF78190B=~z~~x~I can only fit one of you ladies on my bike with me.
+0xEF78190B=~z~~x~I can only fit one of you ladies on my bike with me.
+
+;0x21E9FDEE=~z~~x~Hey, hey, hey, you're ganging up on me. I might have to fight back.
+0x21E9FDEE=~z~~x~Hey, hey, hey, you're ganging up on me. I might have to fight back.
+
+;0xB617264A=~z~~x~I'm seeing double and I ain't even drunk.
+0xB617264A=~z~~x~I'm seeing double and I ain't even drunk.
+
+;0x77DB71A6=~z~~x~Stick a fork in me, I'm done.
+0x77DB71A6=~z~~x~Stick a fork in me, I'm done.
+
+;0xDDA43D36=~z~~x~Memories of that shit are gonna keep me going if I ever do time.
+0xDDA43D36=~z~~x~Memories of that shit are gonna keep me going if I ever do time.
+
+;0xEB63D8B5=~z~~x~You just got yourself a part in my dreams, baby.
+0xEB63D8B5=~z~~x~You just got yourself a part in my dreams, baby.
+
+;0xA118441F=~z~~x~If you're ever looking for an MC affiliation, think about The Lost.
+0xA118441F=~z~~x~If you're ever looking for an MC affiliation, think about The Lost.
+
+;0xDD0E30C4=Dummy label.
+0xDD0E30C4=Dummy label.
+
+;0x8B40D45B=E1ES_AA
+0x8B40D45B=E1ES_AA
+
+;0x5947EA42=010
+0x5947EA42=010
+
+;0x0254A54D=E1ES_BA
+0x0254A54D=E1ES_BA
+
+;0x6F687C90=010
+0x6F687C90=010
+
+;0x7AA361E7=E1ES_CA
+0x7AA361E7=E1ES_CA
+
+;0xD14A0490=010
+0xD14A0490=010
+
+;0xC86F4658=E1ES_DA
+0xC86F4658=E1ES_DA
+
+;0xEB014863=010
+0xEB014863=010
+
+;0xB87D38FB=E1ES_EA
+0xB87D38FB=E1ES_EA
+
+;0xA50E8420=010
+0xA50E8420=010
+
+;0xD5F112F4=E1ES_FA
+0xD5F112F4=E1ES_FA
+
+;0x630F4C3C=010
+0x630F4C3C=010
+
+;0x356B7E66=E1ES_GA
+0x356B7E66=E1ES_GA
+
+;0x62FB50F1=010
+0x62FB50F1=010
+
+;0xD00F5508=E1ES_HA
+0xD00F5508=E1ES_HA
+
+;0x4D20BAB2=010
+0x4D20BAB2=010
+
+;0xA743E187=E1ES_IA
+0xA743E187=E1ES_IA
+
+;0x89660973=010
+0x89660973=010
+
+;0x71BBE0A9=E1ES_JA
+0x71BBE0A9=E1ES_JA
+
+;0x59E8541F=010
+0x59E8541F=010
+
+;0xDF8ED938=E1ES_KA
+0xDF8ED938=E1ES_KA
+
+;0x4309A109=010
+0x4309A109=010
+
+;0xA1205BE0=E1ES_LA
+0xA1205BE0=E1ES_LA
+
+;0x73C471B3=010
+0x73C471B3=010
+
+;0xC5425E67=E1ES_MA
+0xC5425E67=E1ES_MA
+
+;0xB66C9E8C=010
+0xB66C9E8C=010
+
+;0xFA9C67F2=E1ES_NA
+0xFA9C67F2=E1ES_NA
+
+;0x80988347=010
+0x80988347=010
+
+;0x7FDBE9CD=E1ES_OA
+0x7FDBE9CD=E1ES_OA
+
+;0xEC53CFED=010
+0xEC53CFED=010
+
+;0xBD4F608A=E1ES_PA
+0xBD4F608A=E1ES_PA
+
+;0x91E4B6A6=010
+0x91E4B6A6=010
+
+;0xA0245AD4=E1ES_QA
+0xA0245AD4=E1ES_QA
+
+;0x38083903=010
+0x38083903=010
+
+;0xE7001BB5=E1ES_RA
+0xE7001BB5=E1ES_RA
+
+;0xE0C4ED1E=010
+0xE0C4ED1E=010
+
+;0xB3F2757B=E1ES_SA
+0xB3F2757B=E1ES_SA
+
+;0xEA8160B3=010
+0xEA8160B3=010
+
+;0x9DABE563=E1ES_TA
+0x9DABE563=E1ES_TA
+
+;0x12EEB793=010
+0x12EEB793=010
+
+;0xE1CEF796=E1ES_UA
+0xE1CEF796=E1ES_UA
+
+;0x1E9799EE=010
+0x1E9799EE=010
+
+;0x68BB71AC=E1ES_VA
+0x68BB71AC=E1ES_VA
+
+;0x19C522E2=010
+0x19C522E2=010
+
+;0x20C4C1AA=E1ES_WA
+0x20C4C1AA=E1ES_WA
+
+;0x82F0ED10=010
+0x82F0ED10=010
+
+;0x6014DE7F=E1ES_XA
+0x6014DE7F=E1ES_XA
+
+;0x653D8FA9=010
+0x653D8FA9=010
+
+;0x5500665C=E1ES_YA
+0x5500665C=E1ES_YA
+
+;0x8205DC8A=010
+0x8205DC8A=010
+
+;0xAEDA4AF1=E1ES_ZA
+0xAEDA4AF1=E1ES_ZA
+
+;0xCA068A29=010
+0xCA068A29=010
+
+;0xA8571318=E1ES_A_AA
+0xA8571318=E1ES_A_AA
+
+;0x11C107FE=010
+0x11C107FE=010
+
+;0x2146E1C6=E1ES_A_BA
+0x2146E1C6=E1ES_A_BA
+
+;0x769AD084=010
+0x769AD084=010
+
+;0x4133247D=E1ES_A_CA
+0x4133247D=E1ES_A_CA
+
+;0xF6583A73=010
+0xF6583A73=010
+
+;0x32BDD12B=E1ES_A_DA
+0x32BDD12B=E1ES_A_DA
+
+;0xD2084B7C=010
+0xD2084B7C=010
+
+;0xB6E9FA20=E1ES_A_EA
+0xB6E9FA20=E1ES_A_EA
+
+;0xE429BE0C=010
+0xE429BE0C=010
+
+;0xCC22FA14=E1ES_A_FA
+0xCC22FA14=E1ES_A_FA
+
+;0xE2D93978=010
+0xE2D93978=010
+
+;0x4BAEB690=E1ES_A_GA
+0x4BAEB690=E1ES_A_GA
+
+;0x0DFDB507=010
+0x0DFDB507=010
+
+;0x85A88DBD=E1ES_A_HA
+0x85A88DBD=E1ES_A_HA
+
+;0x07277F4B=010
+0x07277F4B=010
+
+;0x25EF51BF=E1ES_A_IA
+0x25EF51BF=E1ES_A_IA
+
+;0xDBFAAEA7=010
+0xDBFAAEA7=010
+
+;0xCACAA434=E1ES_A_JA
+0xCACAA434=E1ES_A_JA
+
+;0x34911D48=010
+0x34911D48=010
+
+;0xB201C1D5=E1ES_A_KA
+0xB201C1D5=E1ES_A_KA
+
+;0x858396AD=010
+0x858396AD=010
+
+;0xA4319C59=E1ES_A_LA
+0xA4319C59=E1ES_A_LA
+
+;0x442E3188=010
+0x442E3188=010
+
+;0xAA9A2139=E1ES_A_MA
+0xAA9A2139=E1ES_A_MA
+
+;0x0BD69013=010
+0x0BD69013=010
+
+;0xFCE45815=E1ES_A_NA
+0xFCE45815=E1ES_A_NA
+
+;0x4F01A4F8=010
+0x4F01A4F8=010
+
+;0xBD5318C0=E1ES_A_OA
+0xBD5318C0=E1ES_A_OA
+
+;0x80F39262=010
+0x80F39262=010
+
+;0x9BF69D33=E1ES_A_PA
+0x9BF69D33=E1ES_A_PA
+
+;0x6B0F32FD=010
+0x6B0F32FD=010
+
+;0xE025F514=E1ES_A_QA
+0xE025F514=E1ES_A_QA
+
+;0x1014A6E5=010
+0x1014A6E5=010
+
+;0x1FD50E00=E1ES_A_RA
+0x1FD50E00=E1ES_A_RA
+
+;0x9792A554=010
+0x9792A554=010
+
+;0xC8DBB3D2=E1ES_A_SA
+0xC8DBB3D2=E1ES_A_SA
+
+;0x0795A3A7=010
+0x0795A3A7=010
+
+;0x06CB80FB=E1ES_A_TA
+0x06CB80FB=E1ES_A_TA
+
+;0xE105DA83=010
+0xE105DA83=010
+
+;0x3F60FE26=E1ES_A_UA
+0x3F60FE26=E1ES_A_UA
+
+;0xDAB47CD3=010
+0xDAB47CD3=010
+
+;0x5E1A3F90=E1ES_A_VA
+0x5E1A3F90=E1ES_A_VA
+
+;0x7120ACA8=010
+0x7120ACA8=010
+
+;0x88F83A15=E1ES_A_WA
+0x88F83A15=E1ES_A_WA
+
+;0x4DF90860=010
+0x4DF90860=010
+
+;0xE04FAECB=E1ES_A_XA
+0xE04FAECB=E1ES_A_XA
+
+;0x1FDE0A2A=010
+0x1FDE0A2A=010
+
+;0x449E9865=E1ES_A_YA
+0x449E9865=E1ES_A_YA
+
+;0xEBBB2339=010
+0xEBBB2339=010
+
+;0x25DB8FAC=E1ES_A_ZA
+0x25DB8FAC=E1ES_A_ZA
+
+;0x4EFE8DF4=010
+0x4EFE8DF4=010
+
+;0xFEBF456E=E1ES_B_AA
+0xFEBF456E=E1ES_B_AA
+
+;0xD00507D0=010
+0xD00507D0=010
+
+;0xE7E02D0A=E1ES_B_BA
+0xE7E02D0A=E1ES_B_BA
+
+;0x6CE34738=010
+0x6CE34738=010
+
+;0x929C8E58=E1ES_B_CA
+0x929C8E58=E1ES_B_CA
+
+;0xE80A4C1D=010
+0xE80A4C1D=010
+
+;0xBBBF8504=E1ES_B_DA
+0xBBBF8504=E1ES_B_DA
+
+;0x0D9012A5=010
+0x0D9012A5=010
+
+;0x5CA8EFF7=E1ES_B_EA
+0x5CA8EFF7=E1ES_B_EA
+
+;0xF47297B7=010
+0xF47297B7=010
+
+;0x855ECEEC=E1ES_B_FA
+0x855ECEEC=E1ES_B_FA
+
+;0x8D87A8FC=010
+0x8D87A8FC=010
+
+;0xA1F334D4=E1ES_B_GA
+0xA1F334D4=E1ES_B_GA
+
+;0x17A9ABBF=010
+0x17A9ABBF=010
+
+;0xBD6961D6=E1ES_B_HA
+0xBD6961D6=E1ES_B_HA
+
+;0xFCC2DB4E=010
+0xFCC2DB4E=010
+
+;0xEDD108ED=E1ES_B_IA
+0xEDD108ED=E1ES_B_IA
+
+;0x486EAE11=010
+0x486EAE11=010
+
+;0x3C139F29=E1ES_B_JA
+0x3C139F29=E1ES_B_JA
+
+;0x964AB919=010
+0x964AB919=010
+
+;0x09E3407B=E1ES_B_KA
+0x09E3407B=E1ES_B_KA
+
+;0xA6BDA733=010
+0xA6BDA733=010
+
+;0x84B6A538=E1ES_B_LA
+0x84B6A538=E1ES_B_LA
+
+;0x0F3C3965=010
+0x0F3C3965=010
+
+;0x1C7DB17B=E1ES_B_MA
+0x1C7DB17B=E1ES_B_MA
+
+;0x71147850=010
+0x71147850=010
+
+;0xB7FB176B=E1ES_B_NA
+0xB7FB176B=E1ES_B_NA
+
+;0x6EFC8187=010
+0x6EFC8187=010
+
+;0xEA2AC48F=E1ES_B_OA
+0xEA2AC48F=E1ES_B_OA
+
+;0xE848CA41=010
+0xE848CA41=010
+
+;0x8D07382F=E1ES_B_PA
+0x8D07382F=E1ES_B_PA
+
+;0x3249EE24=010
+0x3249EE24=010
+
+;0x965FE15B=E1ES_B_QA
+0x965FE15B=E1ES_B_QA
+
+;0xAA2396D2=010
+0xAA2396D2=010
+
+;0x6411CA28=E1ES_B_RA
+0x6411CA28=E1ES_B_RA
+
+;0x06CFDD8D=010
+0x06CFDD8D=010
+
+;0x1EDB8EB0=E1ES_B_SA
+0x1EDB8EB0=E1ES_B_SA
+
+;0x7F81E502=010
+0x7F81E502=010
+
+;0xF0AD88C8=E1ES_B_TA
+0xF0AD88C8=E1ES_B_TA
+
+;0xACC874BA=010
+0xACC874BA=010
+
+;0x025826B5=E1ES_B_UA
+0x025826B5=E1ES_B_UA
+
+;0x8ED09AD6=010
+0x8ED09AD6=010
+
+;0xADDA4F67=E1ES_B_VA
+0xADDA4F67=E1ES_B_VA
+
+;0xEACE5E24=010
+0xEACE5E24=010
+
+;0x0D87ED7C=E1ES_B_WA
+0x0D87ED7C=E1ES_B_WA
+
+;0xD4334829=010
+0xD4334829=010
+
+;0x4CE51823=E1ES_B_XA
+0x4CE51823=E1ES_B_XA
+
+;0xFE9847FD=010
+0xFE9847FD=010
+
+;0x77ADEF12=E1ES_B_YA
+0x77ADEF12=E1ES_B_YA
+
+;0x07B7441E=010
+0x07B7441E=010
+
+;0x1A459EC8=E1ES_B_ZA
+0x1A459EC8=E1ES_B_ZA
+
+;0xAE69CAA4=010
+0xAE69CAA4=010
+
+;0xC214BC7F=E1ES_C_AA
+0xC214BC7F=E1ES_C_AA
+
+;0x711AF722=010
+0x711AF722=010
+
+;0x67779FF1=E1ES_C_BA
+0x67779FF1=E1ES_C_BA
+
+;0x426A26A5=010
+0x426A26A5=010
+
+;0x819EF3D3=E1ES_C_CA
+0x819EF3D3=E1ES_C_CA
+
+;0xA65857D8=010
+0xA65857D8=010
+
+;0xA2719E6B=E1ES_C_DA
+0xA2719E6B=E1ES_C_DA
+
+;0xE2094538=010
+0xE2094538=010
+
+;0x3BC0BCDE=EC1_DA
+0x3BC0BCDE=EC1_DA
+
+;0x33C641B7=100
+0x33C641B7=100
+
+;0x8C12B111=EC1_EA
+0x8C12B111=EC1_EA
+
+;0x95EF5465=100
+0x95EF5465=100
+
+;0x9CE3DC60=EC1_FA
+0x9CE3DC60=EC1_FA
+
+;0xA9EB58D5=100
+0xA9EB58D5=100
+
+;0x6BA668F1=EC1_GA
+0x6BA668F1=EC1_GA
+
+;0xBDE88ED0=EC1_GB
+0xBDE88ED0=EC1_GB
+
+;0x6CE47B7D=EC1_GC
+0x6CE47B7D=EC1_GC
+
+;0xD3D14F97=100100100
+0xD3D14F97=100100100
+
+;0x3FCDD2F8=EC1_HA
+0x3FCDD2F8=EC1_HA
+
+;0xB471E180=100
+0xB471E180=100
+
+;0xD1A6A765=EC1_IA
+0xD1A6A765=EC1_IA
+
+;0x5C1EBD7F=EC1_IB
+0x5C1EBD7F=EC1_IB
+
+;0x340CAB33=100100
+0x340CAB33=100100
+
+;0xFBF4162E=EC1_JA
+0xFBF4162E=EC1_JA
+
+;0x1383C66D=EC1_JB
+0x1383C66D=EC1_JB
+
+;0x086F2A64=100100
+0x086F2A64=100100
+
+;0xAA0D58CE=EC1_C_OA
+0xAA0D58CE=EC1_C_OA
+
+;0x75716E94=100
+0x75716E94=100
+
+;0xC8A5EC8D=EC1_C_PA
+0xC8A5EC8D=EC1_C_PA
+
+;0xF6754DE7=EC1_C_PB
+0xF6754DE7=EC1_C_PB
+
+;0x8674F5CF=100100
+0x8674F5CF=100100
+
+;0xDFE1D783=EC1_C_QA
+0xDFE1D783=EC1_C_QA
+
+;0x0C32EC26=100
+0x0C32EC26=100
+
+;0x65CF1F5E=E1JA_EA
+0x65CF1F5E=E1JA_EA
+
+;0xE5388101=010
+0xE5388101=010
+
+;0xE1110DE7=E1JA_FA
+0xE1110DE7=E1JA_FA
+
+;0x98350166=010
+0x98350166=010
+
+;0x306588E7=E1JA_GA
+0x306588E7=E1JA_GA
+
+;0xF732A979=010
+0xF732A979=010
+
+;0x82AFFF3A=E1JA_AA
+0x82AFFF3A=E1JA_AA
+
+;0x744E38E9=090
+0x744E38E9=090
+
+;0xD3005554=E1JA_BA
+0xD3005554=E1JA_BA
+
+;0xDAB6B091=090
+0xDAB6B091=090
+
+;0x44788792=E1JA_CA
+0x44788792=E1JA_CA
+
+;0x2EEBE791=090
+0x2EEBE791=090
+
+;0x0AA43A52=E1JA_DA
+0x0AA43A52=E1JA_DA
+
+;0x75388CB9=090
+0x75388CB9=090
+
+;0xD051974B=Dummy label.
+0xD051974B=Dummy label.
+
+;0x2CF5CCC1=Down Under
+0x2CF5CCC1=Down Under
+
+;0x0F6E91B3=Triple L Rocks
+0x0F6E91B3=Triple L Rocks
+
+;0x208133D8=Bayshore Run
+0x208133D8=Bayshore Run
+
+;0xF235573D=Blockie
+0xF235573D=Blockie
+
+;0x05A07E13=Meltdown
+0x05A07E13=Meltdown
+
+;0xC86903A5=Down The Hatch
+0xC86903A5=Down The Hatch
+
+;0xD9E1A696=In the Bricks
+0xD9E1A696=In the Bricks
+
+;0xAB174902=Ramped Up
+0xAB174902=Ramped Up
+
+;0x8F1F1112=A Bohan Scramble
+0x8F1F1112=A Bohan Scramble
+
+;0x59E703FB=Uncoupled
+0x59E703FB=Uncoupled
+
+;0x6B9CA766=Down By The River
+0x6B9CA766=Down By The River
+
+;0xF184332B=Carousel
+0xF184332B=Carousel
+
+;0x03BDD79E=Honk Honk
+0x03BDD79E=Honk Honk
+
+;0x1506FA30=Bridging the Gap
+0x1506FA30=Bridging the Gap
+
+;0x27139E55=Paradise Lost
+0x27139E55=Paradise Lost
+
+;0xA858A0D5=Middle Ground
+0xA858A0D5=Middle Ground
+
+;0xBA964550=Triangulate
+0xBA964550=Triangulate
+
+;0xCBD5E7CF=Fairground Distraction
+0xCBD5E7CF=Fairground Distraction
+
+;0xDE1C0C5B=Double Parking
+0xDE1C0C5B=Double Parking
+
+;0x19CD04B0=The Lost's Highway
+0x19CD04B0=The Lost's Highway
+
+;0x2B92283A=Duke of the City
+0x2B92283A=Duke of the City
+
+;0x516973E8=Broker Back
+0x516973E8=Broker Back
+
+;0x6335177F=Fluid Exchange
+0x6335177F=Fluid Exchange
+
+;0xE32D9766=Dock Tease
+0xE32D9766=Dock Tease
+
+;0xF4ACBA64=Reaper's Ride
+0xF4ACBA64=Reaper's Ride
+
+;0x05DB5CC1=Derailer
+0x05DB5CC1=Derailer
+
+;0x0919633D=Snakes & Ladders
+0x0919633D=Snakes & Ladders
+
+;0xCBB8E885=Beached
+0xCBB8E885=Beached
+
+;0xDD798C06=Hoon Dog
+0xDD798C06=Hoon Dog
+
+;0x5A386B66=Bogan's Revenge
+0x5A386B66=Bogan's Revenge
+
+;0x172D525F=Game Name
+0x172D525F=Game Name
+
+;0xF98FAF99=Full Throttle
+0xF98FAF99=Full Throttle
+
+;0xE34E8317=Chopper vs Chopper
+0xE34E8317=Chopper vs Chopper
+
+;0x75435853=Icon_w_PrisonersKilled_Left
+0x75435853=Icon_w_PrisonersKilled_Left
+
+;0x840975DF=Icon_w_PrisonersSaved_Left
+0x840975DF=Icon_w_PrisonersSaved_Left
+
+;0x51AD9128=Icon_w_BikesCaptured_Left
+0x51AD9128=Icon_w_BikesCaptured_Left
+
+;0x58CB9F60=Icon_w_TurfLost_Left
+0x58CB9F60=Icon_w_TurfLost_Left
+
+;0x6539383B=Icon_w_TurfTaken_Left
+0x6539383B=Icon_w_TurfTaken_Left
+
+;0x291B8D0D=Icon_w_TimeSpentRunning_Left
+0x291B8D0D=Icon_w_TimeSpentRunning_Left
+
+;0x41A37110=Icon_w_CheckpointsReached_Left
+0x41A37110=Icon_w_CheckpointsReached_Left
+
+;0x81D8A112=Witnesses Killed
+0x81D8A112=Witnesses Killed
+
+;0x742605AD=Witnesses Saved
+0x742605AD=Witnesses Saved
+
+;0x655BE819=Bikes Captured
+0x655BE819=Bikes Captured
+
+;0x576C4C3A=Turf Lost
+0x576C4C3A=Turf Lost
+
+;0x1DB758D1=Turf Taken
+0x1DB758D1=Turf Taken
+
+;0xB4D18AFD=Time spent as Lone Wolf Biker
+0xB4D18AFD=Time spent as Lone Wolf Biker
+
+;0xF53287C8=Checkpoints reached
+0xF53287C8=Checkpoints reached
+
+;0xC6F3BDCE=Chopper vs Chopper
+0xC6F3BDCE=Chopper vs Chopper
+
+;0xD8BAE15C=Witness Protection
+0xD8BAE15C=Witness Protection
+
+;0xD91F5A7A=Witness Protection
+0xD91F5A7A=Witness Protection
+
+;0xE9BA8357=Club Business
+0xE9BA8357=Club Business
+
+;0x6C82813E=Club Business
+0x6C82813E=Club Business
+
+;0x341296EA=Races
+0x341296EA=Races
+
+;0x45D0BA66=Team Deathmatch
+0x45D0BA66=Team Deathmatch
+
+;0xC2DCADD5=Team Deathmatch
+0xC2DCADD5=Team Deathmatch
+
+;0x558659D1=Own the City
+0x558659D1=Own the City
+
+;0xB09F095A=Own the City
+0xB09F095A=Own the City
+
+;0x598D61DF=Lone Wolf Biker
+0x598D61DF=Lone Wolf Biker
+
+;0x6BD2866D=Deathmatch
+0x6BD2866D=Deathmatch
+
+;0x7E14AAF1=Instant Play
+0x7E14AAF1=Instant Play
+
+;0xF1EE9212=Free Mode
+0xF1EE9212=Free Mode
+
+;0x517516CF=A biker's running through checkpoints with a gunship at his back. How long will he last?
+0x517516CF=A biker's running through checkpoints with a gunship at his back. How long will he last?
+
+;0x005BCC49=~a~ 2 players.
+0x005BCC49=~a~ 2 players.
+
+;0x7C126C09=~m~The ~COL_NET_1~N.O.O.S.E.~m~ must protect the state witnesses while ~COL_NET_2~The ~COL_NET_2~Lost~m~ must take them out.
+0x7C126C09=~m~The ~COL_NET_1~N.O.O.S.E.~m~ must protect the state witnesses while ~COL_NET_2~The ~COL_NET_2~Lost~m~ must take them out.
+
+;0xCD9266C3=~a~ 4-16 players.
+0xCD9266C3=~a~ 4-16 players.
+
+;0x6E08CFF6=Get respect within the club. Angus will let you know of any club business.
+0x6E08CFF6=Get respect within the club. Angus will let you know of any club business.
+
+;0x9B638266=~a~ 2-8 players.
+0x9B638266=~a~ 2-8 players.
+
+;0xBD0B6F16=It's biker v biker in a race through the streets of Liberty City.
+0xBD0B6F16=It's biker v biker in a race through the streets of Liberty City.
+
+;0x8EE7662A=~a~ 2-32 players.
+0x8EE7662A=~a~ 2-32 players.
+
+;0x8B418B83=It's faction versus faction in an all out war.
+0x8B418B83=It's faction versus faction in an all out war.
+
+;0x1D4002D9=~a~ 3-32 players.
+0x1D4002D9=~a~ 3-32 players.
+
+;0x9676A1ED=Take and hold as much territory as you can.
+0x9676A1ED=Take and hold as much territory as you can.
+
+;0x6A8B9D73=~a~ 2-16 players.
+0x6A8B9D73=~a~ 2-16 players.
+
+;0xE6C4C288=One biker on the run. How long can they last?
+0xE6C4C288=One biker on the run. How long can they last?
+
+;0x78D039FC=~a~ 2-16 players.
+0x78D039FC=~a~ 2-16 players.
+
+;0x7257D9AC=It's every biker for himself.
+0x7257D9AC=It's every biker for himself.
+
+;0x5611F47C=~a~ 2-32 players.
+0x5611F47C=~a~ 2-32 players.
+
+;0x7FE1F4C0=It's every biker for himself.
+0x7FE1F4C0=It's every biker for himself.
+
+;0xE7669727=~a~ Up to 32 players.
+0xE7669727=~a~ Up to 32 players.
+
+;0xC363F76C=~m~The ~COL_NET_1~biker~m~ tries to get to a checkpoint - the pursuer pilots an attack helicopter hunting them down. When the biker dies, the roles are reversed. Hold ~INPUT_VEH_EXIT~ to respawn your vehicle.
+0xC363F76C=~m~The ~COL_NET_1~biker~m~ tries to get to a checkpoint - the pursuer pilots an attack helicopter hunting them down. When the biker dies, the roles are reversed. Hold ~INPUT_VEH_EXIT~ to respawn your vehicle.
+
+;0xDBF42890=~m~The ~COL_NET_1~N.O.O.S.E.~m~ have to escort witnesses to police stations around the city, while ~COL_NET_2~The Lost~m~ try to destroy the transport bus and take out the snitches before they talk.
+0xDBF42890=~m~The ~COL_NET_1~N.O.O.S.E.~m~ have to escort witnesses to police stations around the city, while ~COL_NET_2~The Lost~m~ try to destroy the transport bus and take out the snitches before they talk.
+
+;0xA00AB0BA=~m~Angus will keep you informed as to what's on the agenda for The Lost MC. Complete tasks to gain standing within the Club.
+0xA00AB0BA=~m~Angus will keep you informed as to what's on the agenda for The Lost MC. Complete tasks to gain standing within the Club.
+
+;0xB217D800=~m~Race to the finish, passing through each checkpoint in order. Hold ~INPUT_VEH_EXIT~ to respawn your vehicle on the last checkpoint passed. Bikers don't play fair so you've been given a bat to wield. Crack the heads of any racers who come close enough.
+0xB217D800=~m~Race to the finish, passing through each checkpoint in order. Hold ~INPUT_VEH_EXIT~ to respawn your vehicle on the last checkpoint passed. Bikers don't play fair so you've been given a bat to wield. Crack the heads of any racers who come close enough.
+
+;0x8F57185C=~m~Starting on foot, get from the starting position to the finish line by any means necessary. First one there wins.
+0x8F57185C=~m~Starting on foot, get from the starting position to the finish line by any means necessary. First one there wins.
+
+;0xE4CEC34E=~m~Starting on foot, get to the next point on the map however you can. Proceed through the points in order. First one to finish wins.
+0xE4CEC34E=~m~Starting on foot, get to the next point on the map however you can. Proceed through the points in order. First one to finish wins.
+
+;0x863F8050=~m~Take the other faction out. The faction with the most cash at the end wins. Remember to loot the cash dropped by deceased players. That's how to gain dominance.
+0x863F8050=~m~Take the other faction out. The faction with the most cash at the end wins. Remember to loot the cash dropped by deceased players. That's how to gain dominance.
+
+;0x988624DD=~m~Take as much territory as you can. A territory becomes yours when all its defenders are dead. While you own a territory, members of your club will appear to defend it. Your club's Gun Van is marked with a square blip on your radar. Drive it near your defenders to equip them with better weaponry.
+0x988624DD=~m~Take as much territory as you can. A territory becomes yours when all its defenders are dead. While you own a territory, members of your club will appear to defend it. Your club's Gun Van is marked with a square blip on your radar. Drive it near your defenders to equip them with better weaponry.
+
+;0x1591A85F=~m~One player is the ~COL_NET_1~Lone Wolf Biker~m~, racing to checkpoints while evading the ~COL_NET_2~pursuers~m~. Kill the Lone Wolf Biker and it'll be you getting hunted - and you'll become invincible for ten seconds. Pursuers can hold ~INPUT_VEH_EXIT~ to respawn their vehicles.
+0x1591A85F=~m~One player is the ~COL_NET_1~Lone Wolf Biker~m~, racing to checkpoints while evading the ~COL_NET_2~pursuers~m~. Kill the Lone Wolf Biker and it'll be you getting hunted - and you'll become invincible for ten seconds. Pursuers can hold ~INPUT_VEH_EXIT~ to respawn their vehicles.
+
+;0x7CF06DB2=~m~Kill the other bikers as many times as you can. The biker with the most cash when the game ends wins. Remember to loot the cash dropped by your dead adversaries.
+0x7CF06DB2=~m~Kill the other bikers as many times as you can. The biker with the most cash when the game ends wins. Remember to loot the cash dropped by your dead adversaries.
+
+;0x6B6BCAAD=~m~Kill the other bikers as many times as you can. The biker with the most cash when the game ends wins. Remember to loot the cash dropped by your dead adversaries.
+0x6B6BCAAD=~m~Kill the other bikers as many times as you can. The biker with the most cash when the game ends wins. Remember to loot the cash dropped by your dead adversaries.
+
+;0x7AE5DE42=~1~ WINS
+0x7AE5DE42=~1~ WINS
+
+;0xD79EECDA=~1~ MINUTES WINS
+0xD79EECDA=~1~ MINUTES WINS
+
+;0x51799B4E=THE LOST MC
+0x51799B4E=THE LOST MC
+
+;0xC3C1FFDD=ANGELS OF DEATH MC
+0xC3C1FFDD=ANGELS OF DEATH MC
+
+;0x8B585D3B=~1~% WINS
+0x8B585D3B=~1~% WINS
+
+;0xB336953E=~1~%
+0xB336953E=~1~%
+
+;0xE9F49BC8=Weapons
+0xE9F49BC8=Weapons
+
+;0x47B0BA23=All
+0x47B0BA23=All
+
+;0x979FDA00=Weak
+0x979FDA00=Weak
+
+;0xA9E67E8D=Standard
+0xA9E67E8D=Standard
+
+;0x6D8C05D9=Powerful
+0x6D8C05D9=Powerful
+
+;0x7ECA2855=Pistols
+0x7ECA2855=Pistols
+
+;0x831630F1=Shotguns
+0x831630F1=Shotguns
+
+;0xD6465754=Projectiles
+0xD6465754=Projectiles
+
+;0xE7B97A3A=Melee
+0xE7B97A3A=Melee
+
+;0xB9E39E8F=SMGs
+0xB9E39E8F=SMGs
+
+;0xC9EE3EA4=Assault Rifles
+0xC9EE3EA4=Assault Rifles
+
+;0x57171640=Grenade Launchers
+0x57171640=Grenade Launchers
+
+;0x695E3ACE=Sniper Rifles
+0x695E3ACE=Sniper Rifles
+
+;0x7BD4DFBB=Biker Weapons
+0x7BD4DFBB=Biker Weapons
+
+;0x8BEF7FF0=Health Only
+0x8BEF7FF0=Health Only
+
+;0x1BFDA012=Off
+0x1BFDA012=Off
+
+;0xE1FAEFC9=THE LOST
+0xE1FAEFC9=THE LOST
+
+;0xFABBBACD=Race Class
+0xFABBBACD=Race Class
+
+;0x1E3C3C8F=The Lost
+0x1E3C3C8F=The Lost
+
+;0xC52B0A6E=Angels of Death
+0xC52B0A6E=Angels of Death
+
+;0xB278E50A=Street Bikes
+0xB278E50A=Street Bikes
+
+;0xE98FD337=Vans
+0xE98FD337=Vans
+
+;0xD754AEC1=Cars
+0xD754AEC1=Cars
+
+;0x7A65F4E5=Trucks
+0x7A65F4E5=Trucks
+
+;0x6BAF5778=Cars
+0x6BAF5778=Cars
+
+;0x9E8ABD2E=Trucks
+0x9E8ABD2E=Trucks
+
+;0x8CBD1993=Everyman For Himself
+0x8CBD1993=Everyman For Himself
+
+;0x740C32E7=THE LOST MC
+0x740C32E7=THE LOST MC
+
+;0x2FA7AA1F=ANGELS OF DEATH MC
+0x2FA7AA1F=ANGELS OF DEATH MC
+
+;0xB57294AF=Bus Health
+0xB57294AF=Bus Health
+
+;0x0CD1F322=Prison Bus
+0x0CD1F322=Prison Bus
+
+;0x12242162=Prisoner
+0x12242162=Prisoner
+
+;0xD5BB547F=Police Station
+0xD5BB547F=Police Station
+
+;0x8B05AF83=N.O.O.S.E.
+0x8B05AF83=N.O.O.S.E.
+
+;0x047BA269=THE LOST MC
+0x047BA269=THE LOST MC
+
+;0xF26058CF=You have been invited to play GTAIV:The Lost and Damned - Witness Protection.
+0xF26058CF=You have been invited to play GTAIV:The Lost and Damned - Witness Protection.
+
+;0xA1A5B75B=You have been invited to play GTAIV:The Lost and Damned - Club Business.
+0xA1A5B75B=You have been invited to play GTAIV:The Lost and Damned - Club Business.
+
+;0x22573A20=You have been invited to play GTAIV:The Lost and Damned - Race.
+0x22573A20=You have been invited to play GTAIV:The Lost and Damned - Race.
+
+;0x15289FC3=You have been invited to play GTAIV:The Lost and Damned - Team Deathmatch.
+0x15289FC3=You have been invited to play GTAIV:The Lost and Damned - Team Deathmatch.
+
+;0x8E6B924B=You have been invited to play GTAIV:The Lost and Damned - Own the City.
+0x8E6B924B=You have been invited to play GTAIV:The Lost and Damned - Own the City.
+
+;0xC0C476FC=You have been invited to play GTAIV:The Lost and Damned - Lone Wolf Biker.
+0xC0C476FC=You have been invited to play GTAIV:The Lost and Damned - Lone Wolf Biker.
+
+;0xAFEED551=You have been invited to play GTAIV:The Lost and Damned - Deathmatch.
+0xAFEED551=You have been invited to play GTAIV:The Lost and Damned - Deathmatch.
+
+;0x49620835=You have been invited to play GTAIV:The Lost and Damned - Instant Play.
+0x49620835=You have been invited to play GTAIV:The Lost and Damned - Instant Play.
+
+;0x63903B31=You have been invited to play GTAIV:The Lost and Damned - Freemode.
+0x63903B31=You have been invited to play GTAIV:The Lost and Damned - Freemode.
+
+;0xAF2A0965=You have been invited to join a party in GTAIV:The Lost and Damned.
+0xAF2A0965=You have been invited to join a party in GTAIV:The Lost and Damned.
+
+;0xB6F43CEC=Team Game. The N.O.O.S.E. must protect the state witnesses while The Lost must take them out.
+0xB6F43CEC=Team Game. The N.O.O.S.E. must protect the state witnesses while The Lost must take them out.
+
+;0x86262EA5=Select this option to jump straight into a player match free-for-all game, bypassing the lobby screen.
+0x86262EA5=Select this option to jump straight into a player match free-for-all game, bypassing the lobby screen.
+
+;0x0EF56CED=Coop Game. Get respect within the club. Angus will let you know of any club business.
+0x0EF56CED=Coop Game. Get respect within the club. Angus will let you know of any club business.
+
+;0xED497556=It's biker v biker in a race through the streets of Liberty City.
+0xED497556=It's biker v biker in a race through the streets of Liberty City.
+
+;0xD0D4BC6D=Team Game. Take and hold as much territory as you can.
+0xD0D4BC6D=Team Game. Take and hold as much territory as you can.
+
+;0x6D5BF57D=One biker on the run. How long could you last with everyone else chasing you?
+0x6D5BF57D=One biker on the run. How long could you last with everyone else chasing you?
+
+;0x0A112EE9=It's every biker for himself.
+0x0A112EE9=It's every biker for himself.
+
+;0xD5AB7A5A=Kick back in Liberty City.
+0xD5AB7A5A=Kick back in Liberty City.
+
+;0x992F0162=A biker's running through checkpoints with a gunship at his back. How long will he last?
+0x992F0162=A biker's running through checkpoints with a gunship at his back. How long will he last?
+
+;0x148A811F=Lost and Damned Deathmatch
+0x148A811F=Lost and Damned Deathmatch
+
+;0x2943AA91=Lost and Damned Races
+0x2943AA91=Lost and Damned Races
+
+;0xEE82353B=Lost and Damned Team Deathmatch
+0xEE82353B=Lost and Damned Team Deathmatch
+
+;0x142B4319=Team game. It's faction versus faction in an all out war.
+0x142B4319=Team game. It's faction versus faction in an all out war.
+
+;0x8F543836=Drive the van past your defenders to upgrade their weapons.
+0x8F543836=Drive the van past your defenders to upgrade their weapons.
+
+;0x7D087AAA=Deathmatch
+0x7D087AAA=Deathmatch
+
+;0x05960F33=Team Deathmatch
+0x05960F33=Team Deathmatch
+
+;0xA1174633=Races
+0xA1174633=Races
+
+;0xB3D26BA9=Club Business
+0xB3D26BA9=Club Business
+
+;0x7AE679D2=Lone Wolf Biker
+0x7AE679D2=Lone Wolf Biker
+
+;0x4F4E22A2=Witness Protection
+0x4F4E22A2=Witness Protection
+
+;0x884A149D=Own The City
+0x884A149D=Own The City
+
+;0x9AFB39FF=Free Mode
+0x9AFB39FF=Free Mode
+
+;0xA5CFCFA8=Party Mode
+0xA5CFCFA8=Party Mode
+
+;0xB5FDF004=Chopper vs. Chopper
+0xB5FDF004=Chopper vs. Chopper
+
+;0xD3DF2BC6=Down Under
+0xD3DF2BC6=Down Under
+
+;0xC4490BBA=Triple L Rocks
+0xC4490BBA=Triple L Rocks
+
+;0x405703D0=Bayshore Run
+0x405703D0=Bayshore Run
+
+;0x7191E645=Blockie
+0x7191E645=Blockie
+
+;0x2B5959D5=Meltdown
+0x2B5959D5=Meltdown
+
+;0x5D0F3D40=Down The Hatch
+0x5D0F3D40=Down The Hatch
+
+;0xB8B0F482=In the Bricks
+0xB8B0F482=In the Bricks
+
+;0xAB66D9EE=Ramped Up
+0xAB66D9EE=Ramped Up
+
+;0x6430CB83=A Bohan Scramble
+0x6430CB83=A Bohan Scramble
+
+;0x86E810F1=Uncoupled
+0x86E810F1=Uncoupled
+
+;0xD17C261C=Down By The River
+0xD17C261C=Down By The River
+
+;0x6728D4CB=Carousel
+0x6728D4CB=Carousel
+
+;0x234B4CE1=Honk Honk
+0x234B4CE1=Honk Honk
+
+;0x115DA906=Bridging the Gap
+0x115DA906=Bridging the Gap
+
+;0xBFAF05AA=Paradise Lost
+0xBFAF05AA=Paradise Lost
+
+;0x2E06E258=Middle Ground
+0x2E06E258=Middle Ground
+
+;0x6A0E5A66=Triangulate
+0x6A0E5A66=Triangulate
+
+;0x5963B911=Fairground Distraction
+0x5963B911=Fairground Distraction
+
+;0x073114AD=Double Parking
+0x073114AD=Double Parking
+
+;0x74E2700E=The Lost's Highway
+0x74E2700E=The Lost's Highway
+
+;0xB103E854=Duke of the City
+0xB103E854=Duke of the City
+
+;0x6401D9FA=Broker Back
+0x6401D9FA=Broker Back
+
+;0x1B93C91F=Fluid Exchange
+0x1B93C91F=Fluid Exchange
+
+;0x2A4DE693=Dock Tease
+0x2A4DE693=Dock Tease
+
+;0x00271246=Reaper's Ride
+0x00271246=Reaper's Ride
+
+;0x0EE82FC8=Derailer
+0x0EE82FC8=Derailer
+
+;0x0AC32776=Snakes & Ladders
+0x0AC32776=Snakes & Ladders
+
+;0x1901C3F3=Beached
+0x1901C3F3=Beached
+
+;0xEE586E9D=Hoon Dog
+0xEE586E9D=Hoon Dog
+
+;0xF99C8529=Bogan's Revenge
+0xF99C8529=Bogan's Revenge
+
+;0xD1BDB568=Lost Bikes
+0xD1BDB568=Lost Bikes
+
+;0x6C218740=Angels Of Death Bikes
+0x6C218740=Angels Of Death Bikes
+
+;0x58F3E0E5=Street Bikes
+0x58F3E0E5=Street Bikes
+
+;0xAF7D8DEF=Vans
+0xAF7D8DEF=Vans
+
+;0x9FC4EE7A=Cars
+0x9FC4EE7A=Cars
+
+;0x8A99C424=Trucks
+0x8A99C424=Trucks
+
+;0x79282141=Road Bikes
+0x79282141=Road Bikes
+
+;0xFA75A3DE=Run for 2 minutes
+0xFA75A3DE=Run for 2 minutes
+
+;0xF69E9C30=Run for 5 minutes
+0xF69E9C30=Run for 5 minutes
+
+;0xE601FAF7=Run for 10 minutes
+0xE601FAF7=Run for 10 minutes
+
+;0xD433D75B=Everyone Gets a Go
+0xD433D75B=Everyone Gets a Go
+
+;0x6FB011DD=3 Checkpoints
+0x6FB011DD=3 Checkpoints
+
+;0xA5857D87=5 Checkpoints
+0xA5857D87=5 Checkpoints
+
+;0x22E9F84E=9 Checkpoints
+0x22E9F84E=9 Checkpoints
+
+;0x3A68274E=40 Percent
+0x3A68274E=40 Percent
+
+;0x28B283E3=60 Percent
+0x28B283E3=60 Percent
+
+;0x5E99EFB1=80 Percent
+0x5E99EFB1=80 Percent
+
+;0xFC30AAE0=100 Percent
+0xFC30AAE0=100 Percent
+
+;0xEF6E915C=Biker Weapons
+0xEF6E915C=Biker Weapons
+
+;0x259CFDB8=Grenade Launchers
+0x259CFDB8=Grenade Launchers
+

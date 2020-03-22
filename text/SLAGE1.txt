@@ -1,0 +1,94 @@
+﻿[SLAGE1]
+;0x0631DE52=45 mins
+0x0631DE52=45 mins
+
+;0x08F5F433=You lost the ~B~bike.~S~ Get it back and take it to your Clubhouse.
+0x08F5F433=You lost the ~B~bike.~S~ Get it back and take it to your Clubhouse.
+
+;0x0D44FE87=One of The Lost has taken the ~B~bike.~S~ Get it back before he takes it to their Clubhouse.
+0x0D44FE87=One of The Lost has taken the ~B~bike.~S~ Get it back before he takes it to their Clubhouse.
+
+;0x0D6DFED5=~R~The Lost destroyed the bike.~S~
+0x0D6DFED5=~R~The Lost destroyed the bike.~S~
+
+;0x101456A8=Steal the ~B~Innovation~S~ before The Lost and bring it back to the Clubhouse.
+0x101456A8=Steal the ~B~Innovation~S~ before The Lost and bring it back to the Clubhouse.
+
+;0x14787ADF=30 mins
+0x14787ADF=30 mins
+
+;0x16337E51=10 mins
+0x16337E51=10 mins
+
+;0x1BB819B7=One of your brothers lost the ~B~bike.~S~ Steal it and take it to your Clubhouse.
+0x1BB819B7=One of your brothers lost the ~B~bike.~S~ Steal it and take it to your Clubhouse.
+
+;0x22A79739=Best of 3
+0x22A79739=Best of 3
+
+;0x2DCABDDC=You captured the bike for your team.
+0x2DCABDDC=You captured the bike for your team.
+
+;0x30E533B4=60 mins
+0x30E533B4=60 mins
+
+;0x3D0D4C04=Best of 9
+0x3D0D4C04=Best of 9
+
+;0x4B4FE889=Best of 5
+0x4B4FE889=Best of 5
+
+;0x54C40BCE=You have the bike. Return it to the ~Y~Clubhouse.~S~
+0x54C40BCE=You have the bike. Return it to the ~Y~Clubhouse.~S~
+
+;0x624AFB14=Steal the ~B~Innovation~S~ before the Angels of Death and bring it back to the Clubhouse.
+0x624AFB14=Steal the ~B~Innovation~S~ before the Angels of Death and bring it back to the Clubhouse.
+
+;0xAAE3109F=One of the Angels of Death has taken the ~B~bike.~S~ Get it back before he takes it to their Clubhouse.
+0xAAE3109F=One of the Angels of Death has taken the ~B~bike.~S~ Get it back before he takes it to their Clubhouse.
+
+;0xB743D0C8=One of your brothers captured the bike.
+0xB743D0C8=One of your brothers captured the bike.
+
+;0xB7DF515F=~R~The bike was destroyed.~S~
+0xB7DF515F=~R~The bike was destroyed.~S~
+
+;0xC300C261=Duration
+0xC300C261=Duration
+
+;0xC9137467=Get off the bike.
+0xC9137467=Get off the bike.
+
+;0xDA669675=~S~The Lost no longer have the ~B~bike.~S~ Steal it and take it to the Clubhouse.
+0xDA669675=~S~The Lost no longer have the ~B~bike.~S~ Steal it and take it to the Clubhouse.
+
+;0xDB9D9983=~S~Take the bike back to the ~Y~Clubhouse.~S~
+0xDB9D9983=~S~Take the bike back to the ~Y~Clubhouse.~S~
+
+;0xE2F180BF=~R~The Angels of Death destroyed the bike.~S~
+0xE2F180BF=~R~The Angels of Death destroyed the bike.~S~
+
+;0xE471AA8B=~R~The bike is stuck. Pickup a different bike.~S~
+0xE471AA8B=~R~The bike is stuck. Pickup a different bike.~S~
+
+;0xE87C22E3=20 mins
+0xE87C22E3=20 mins
+
+;0xEE2C3EA0=~R~You destroyed the bike.~S~
+0xEE2C3EA0=~R~You destroyed the bike.~S~
+
+;0xF4AB2432=~R~The Angels of Death captured the bike.~S~
+0xF4AB2432=~R~The Angels of Death captured the bike.~S~
+
+;0xF6AC4F00=~R~One of your brothers destroyed the bike. ~S~
+0xF6AC4F00=~R~One of your brothers destroyed the bike. ~S~
+
+;0xFBD75BA8=~R~The Lost captured the bike.~S~
+0xFBD75BA8=~R~The Lost captured the bike.~S~
+
+;0xFE8ADF5D=One of your brothers has the ~B~bike.~S~ Help get it back to the Clubhouse.
+0xFE8ADF5D=One of your brothers has the ~B~bike.~S~ Help get it back to the Clubhouse.
+
+;0xFF72608C=~S~The Angels of Death no longer have the ~B~bike.~S~ Steal it and take it to the Clubhouse.
+0xFF72608C=~S~The Angels of Death no longer have the ~B~bike.~S~ Steal it and take it to the Clubhouse.
+

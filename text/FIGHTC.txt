@@ -1,0 +1,43 @@
+﻿[FIGHTC]
+;0x0388A2F5=Here comes a new Challenger
+0x0388A2F5=Here comes a new Challenger
+
+;0x08AB303D=RANK D
+0x08AB303D=RANK D
+
+;0x0B0E3945=Here comes new Challengers
+0x0B0E3945=Here comes new Challengers
+
+;0x0C2813D8=If the crowd sides with you, in can help out in a tight spot.
+0x0C2813D8=If the crowd sides with you, in can help out in a tight spot.
+
+;0x1E3A5B5B=RANK E
+0x1E3A5B5B=RANK E
+
+;0x2D1DF922=RANK B
+0x2D1DF922=RANK B
+
+;0x3F659DB1=RANK C
+0x3F659DB1=RANK C
+
+;0x428DCD34=The Crowd goes wild!!!!!
+0x428DCD34=The Crowd goes wild!!!!!
+
+;0x53D3468C=RANK A
+0x53D3468C=RANK A
+
+;0x8B9AFCC8=To get the crowd on your side try to showboat by pressing LB or perform counters.
+0x8B9AFCC8=To get the crowd on your side try to showboat by pressing LB or perform counters.
+
+;0x9651094A=FIGHT CLUB ~n~ ~n~ The goal is beat down anyone who steps up and challenge you.~n~ ~n~ There are 7 ranks increasing in difficulty. Maim your way to the top.
+0x9651094A=FIGHT CLUB ~n~ ~n~ The goal is beat down anyone who steps up and challenge you.~n~ ~n~ There are 7 ranks increasing in difficulty. Maim your way to the top.
+
+;0xA4E784E7=The fight is over, you have now made the next rank.
+0xA4E784E7=The fight is over, you have now made the next rank.
+
+;0xD8744FD0=RANK F
+0xD8744FD0=RANK F
+
+;0xE3EEE3D5=Elite Rank
+0xE3EEE3D5=Elite Rank
+

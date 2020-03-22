@@ -1,0 +1,46 @@
+﻿[JIM6]
+;0x187F2044=Take out ~r~Brian.
+0x187F2044=Take out ~r~Brian.
+
+;0x19148E94=~r~Your bike was wrecked.
+0x19148E94=~r~Your bike was wrecked.
+
+;0x2BFFB155=Brian is protected in his safehouse.
+0x2BFFB155=Brian is protected in his safehouse.
+
+;0x7E468995=Brian is dead.
+0x7E468995=Brian is dead.
+
+;0x8970A276=Get clear of the house.
+0x8970A276=Get clear of the house.
+
+;0x8DCA0498=~s~When locked-on while equipped with a pistol, you can perform an execution on certain characters.
+0x8DCA0498=~s~When locked-on while equipped with a pistol, you can perform an execution on certain characters.
+
+;0xA6E5236F=~s~If you launch a grenade through a window into the house, the occupants will flee.
+0xA6E5236F=~s~If you launch a grenade through a window into the house, the occupants will flee.
+
+;0xA8BB73F5=Terry and Clay will cover the rear exit of the house.
+0xA8BB73F5=Terry and Clay will cover the rear exit of the house.
+
+;0xAB590E53=Get on your ~b~bike.
+0xAB590E53=Get on your ~b~bike.
+
+;0xB2190A8B=~r~You abandoned your bike.
+0xB2190A8B=~r~You abandoned your bike.
+
+;0xB7C11A4C=~s~Lose the cops.
+0xB7C11A4C=~s~Lose the cops.
+
+;0xD07A5DD8=Find a way into the house.
+0xD07A5DD8=Find a way into the house.
+
+;0xDDB8F855=~r~Brian~s~ is trying to escape out the back entrance.
+0xDDB8F855=~r~Brian~s~ is trying to escape out the back entrance.
+
+;0xE3952D69=~r~Brian got away.
+0xE3952D69=~r~Brian got away.
+
+;0xF5232729=Go to Brian's ~y~safehouse.
+0xF5232729=Go to Brian's ~y~safehouse.
+
