@@ -1,19 +1,19 @@
 ﻿[WEZL115]
 ;0x2143AA07=Drugs and Terror
-0x2143AA07=Drugs and Terror
+0x2143AA07=毒品和恐怖主义
 
 ;0x2232D346=Leslie Mitchell
-0x2232D346=Leslie Mitchell
+0x2232D346=莱斯利米奇尔
 
 ;0x81779C20=Liberal drug lovers deny link
-0x81779C20=Liberal drug lovers deny link
+0x81779C20=自由主义吸毒者否认联系
 
 ;0xDD96794F=We all know that liberals love drugs. From Vinewood cocaine parties to ecstasy-fueled swinging suburban romps, to pre-schoolers having their drinks laced with acid and college kids shooting up heroin, nothing says 'liberal drop out' like a family ruined by the ravages of drugs. Now, police are saying there is an incontrovertible link between drugs coming into our city and our nation and the terror threat we all face. It's the thing liberals love most - the fact that their licentious behavior is putting the lives of all of us at deadly risk.
-0xDD96794F=We all know that liberals love drugs. From Vinewood cocaine parties to ecstasy-fueled swinging suburban romps, to pre-schoolers having their drinks laced with acid and college kids shooting up heroin, nothing says 'liberal drop out' like a family ruined by the ravages of drugs. Now, police are saying there is an incontrovertible link between drugs coming into our city and our nation and the terror threat we all face. It's the thing liberals love most - the fact that their licentious behavior is putting the lives of all of us at deadly risk.
+0xDD96794F=我们都知道自由主义者喜欢毒品。 从好麦坞的可卡因派对到狂喜-活力充沛的时髦的郊区嬉戏,到学前的儿童喝着掺酸的酒， 以及大学生们吸他们的海洛因, 无不体现着就像被毒品摧残的家庭一样的'离经叛道' 。 目前，警方表示，毒品在全国的泛滥和我们面临的恐怖主义威胁有着无可争辩的联系。 这是自由主义者最喜欢的东西 - 事实上他们放荡的行为正在使我们的生命面临死亡的威胁。
 
 ;0xEB6594ED=Why? Because terrorists sell drugs to liberals to buy bombs to kill us all. It's really that simple. The police department said so yesterday and I for one believe them. Now that we finally have the truth, it isn't the military industrial complex that's the problem, so isn't it time that we punish drug addicts properly like the criminals they really are?
-0xEB6594ED=Why? Because terrorists sell drugs to liberals to buy bombs to kill us all. It's really that simple. The police department said so yesterday and I for one believe them. Now that we finally have the truth, it isn't the military industrial complex that's the problem, so isn't it time that we punish drug addicts properly like the criminals they really are?
+0xEB6594ED=为什么？因为恐怖分子用自由主义者买毒品的钱来购买炸弹，炸弹可以把我们都杀死。这是显而易见的。 警察局昨天是这样表示的，我很相信警察局所说的。既然我们最终看到了真相，军火工业不是问题的源头， 所以现在不正是我们像犯人一样正当的惩治吸毒者的时机吗？
 
 ;0xEFB75801=The link the liberals deny
-0xEFB75801=The link the liberals deny
+0xEFB75801=自由主义者否认的联系
 

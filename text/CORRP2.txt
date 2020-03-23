@@ -1,55 +1,55 @@
 ﻿[CORRP2]
 ;0x01FC0ADF=~r~The bus is stuck.
-0x01FC0ADF=~r~The bus is stuck.
+0x01FC0ADF=~r~巴士无法移动了。
 
 ;0x04B5B4D3=Take control of the ~b~prison transport bus.
-0x04B5B4D3=Take control of the ~b~prison transport bus.
+0x04B5B4D3=接管~b~监狱巴士。
 
 ;0x16F5D953=Get to the ~b~prison transport bus.
-0x16F5D953=Get to the ~b~prison transport bus.
+0x16F5D953=前往 ~b~监狱巴士。
 
 ;0x2362F22D=Get the bus to the ~y~drop.
-0x2362F22D=Get the bus to the ~y~drop.
+0x2362F22D=把巴士运送到 ~y~检查点。
 
 ;0x2A780057=~s~Lose the cops.
-0x2A780057=~s~Lose the cops.
+0x2A780057=~s~甩掉警察。
 
 ;0x355FF1A6=~r~You abandoned the bus.
-0x355FF1A6=~r~You abandoned the bus.
+0x355FF1A6=~r~你遗弃了巴士。
 
 ;0x3DC9A6FA=Get to the prison transport bus ~y~location.
-0x3DC9A6FA=Get to the prison transport bus ~y~location.
+0x3DC9A6FA=前往监狱巴士的~y~位置。
 
 ;0x623D6FE1=Get back in the ~b~bus.
-0x623D6FE1=Get back in the ~b~bus.
+0x623D6FE1=回到 ~b~巴士上。
 
 ;0x639F8E55=The ~b~bus~s~ is leaving. Intercept it before it reaches the prison.
-0x639F8E55=The ~b~bus~s~ is leaving. Intercept it before it reaches the prison.
+0x639F8E55= ~b~巴士~s~ 已经出发。 在它到达监狱之前拦截它。
 
 ;0x7CBA005D=~r~The bus made it to the prison.
-0x7CBA005D=~r~The bus made it to the prison.
+0x7CBA005D=~r~巴士已经到达了监狱。
 
 ;0x83204D66=The cops have now given up looking for the prison transport bus.
-0x83204D66=The cops have now given up looking for the prison transport bus.
+0x83204D66=警察已经放弃寻找监狱巴士。
 
 ;0x97505A02=Take out the prison transport bus ~r~guards.
-0x97505A02=Take out the prison transport bus ~r~guards.
+0x97505A02=干掉监狱巴士的~r~守卫。
 
 ;0xA75D15CF=Hold ~INPUT_VEH_CIN_CAM~ for an inside view of the prison transport bus.
-0xA75D15CF=Hold ~INPUT_VEH_CIN_CAM~ for an inside view of the prison transport bus.
+0xA75D15CF=按住 ~INPUT_VEH_CIN_CAM~ 来查看监狱巴士的内部。
 
 ;0xB52DB170=You will attract attention in the prison transport bus. Try to avoid the cops on your way to the drop off point.
-0xB52DB170=You will attract attention in the prison transport bus. Try to avoid the cops on your way to the drop off point.
+0xB52DB170=在监狱巴士上你会引起警察怀疑。 在到达检查点之前尽可能的规避警察。
 
 ;0xC7259533=~r~You disrupted the prisoner's escape plans.
-0xC7259533=~r~You disrupted the prisoner's escape plans.
+0xC7259533=~r~你扰乱了犯人的逃跑计划。
 
 ;0xD6A2342C=~r~A prisoner has died.
-0xD6A2342C=~r~A prisoner has died.
+0xD6A2342C=~r~一个囚犯已经死亡。
 
 ;0xE96059A8=~r~The bus was wrecked.
-0xE96059A8=~r~The bus was wrecked.
+0xE96059A8=~r~巴士已经被摧毁。
 
 ;0xF2701048=~s~Lose the cops.
-0xF2701048=~s~Lose the cops.
+0xF2701048=~s~甩掉警察。
 
