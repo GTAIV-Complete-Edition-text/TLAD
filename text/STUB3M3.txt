@@ -1,13 +1,13 @@
 ﻿[STUB3M3]
 ;0xA6E6A43B=~s~PHONECALL~n~~n~You must destroy a truck.~n~To help you, a bike is armed with a bomb.~n~Bomb becomes armed at 88mph and blows up if speed drops below 88mph.~n~~n~ You can use the bomb to destroy the enemy truck.
-0xA6E6A43B=~s~PHONECALL~n~~n~You must destroy a truck.~n~To help you, a bike is armed with a bomb.~n~Bomb becomes armed at 88mph and blows up if speed drops below 88mph.~n~~n~ You can use the bomb to destroy the enemy truck.
+0xA6E6A43B=~s~PHONECALL~n~~n~你必须摧毁一辆卡车。~n~一辆摩托车上装有炸弹来帮助你。~n~当速度为88英里每小时时炸弹准备爆炸，如果速度低于88英里每小时就会爆炸。~n~~n~ 你可以用炸弹摧毁敌人的卡车。
 
 ;0xD1404002=~r~BOMB ARMED!
-0xD1404002=~r~BOMB ARMED!
+0xD1404002=~r~准备爆炸！
 
 ;0xD46F4737=~s~Destroy the ~r~tanker.
-0xD46F4737=~s~Destroy the ~r~tanker.
+0xD46F4737=~s~摧毁~r~油罐车。
 
 ;0xF59A3AC5=~s~Speed: ~1~mph
-0xF59A3AC5=~s~Speed: ~1~mph
+0xF59A3AC5=~s~速度：~1~英里每小时
 
