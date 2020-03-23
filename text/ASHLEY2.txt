@@ -1,97 +1,129 @@
 ﻿[ASHLEY2]
 ;0x0F348820=~s~Get back on the ~b~bike.
 0x0F348820=~s~Get back on the ~b~bike.
+0x0F348820=~s~回到~b~机车上。
 
 ;0x21832CBD=~s~Get on the ~b~bike.
 0x21832CBD=~s~Get on the ~b~bike.
+0x21832CBD=~s~骑上~b~机车。
 
 ;0x27338B02=~r~Your bike was wrecked.
 0x27338B02=~r~Your bike was wrecked.
+0x27338B02=~r~你的机车损毁了。
 
 ;0x2BC2413B=~s~Take out ~r~Ray's guys.~s~
 0x2BC2413B=~s~Take out ~r~Ray's guys.~s~
+0x2BC2413B=~s~干掉~r~Ray的人。
 
 ;0x3E47E646=~s~Some of the ~r~mafia ~s~are fleeing. Chase them down.
 0x3E47E646=~s~Some of the ~r~mafia ~s~are fleeing. Chase them down.
+0x3E47E646=~s~一些~r~黑手党~s~正在逃窜.。追上他们。
 
 ;0x45E5FB06=~s~Get away from the Libertonian before the cops arrive in full force.
 0x45E5FB06=~s~Get away from the Libertonian before the cops arrive in full force.
+0x45E5FB06=~s~在大量警察到来之前离开Libertonian。
 
 ;0x49154FB1=~r~You attacked Isaac's crew.
 0x49154FB1=~r~You attacked Isaac's crew.
+0x49154FB1=~r~你伤害了Isaac的人。
 
 ;0x4D0BD6B2=~r~You missed the diamond deal.
 0x4D0BD6B2=~r~You missed the diamond deal.
+0x4D0BD6B2=~r~你错过了钻石交易。
 
 ;0x69B910F8=~r~Jim has been injured.
 0x69B910F8=~r~Jim has been injured.
+0x69B910F8=~r~Jim受伤了。
 
 ;0x7B70B467=~r~You attacked Jim.
 0x7B70B467=~r~You attacked Jim.
+0x7B70B467=~r~你攻击了Jim。
 
 ;0x7F5BEDF1=~s~Go to the ~y~Libertonian~s~ between 9pm and 3am.
 0x7F5BEDF1=~s~Go to the ~y~Libertonian~s~ between 9pm and 3am.
+0x7F5BEDF1=~s~在21点到3点之间到达~y~Libertonian。
 
 ;0x842544E4=~r~You attacked the gang.
 0x842544E4=~r~You attacked the gang.
+0x842544E4=~r~你攻击了帮众。
 
 ;0x879FC68D=~s~Terry and Clay will wait for you at the north exit of the Libertonian.
 0x879FC68D=~s~Terry and Clay will wait for you at the north exit of the Libertonian.
+0x879FC68D=~s~Terry和Clay在Libertonian北出口等你。
 
 ;0x8D048942=~s~Go back to ~y~Ray.
 0x8D048942=~s~Go back to ~y~Ray.
+0x8D048942=~s~回到~y~Ray那边。
 
 ;0x916D0C8F=~s~Meet Niko at the ~y~goods entrance.
 0x916D0C8F=~s~Meet Niko at the ~y~goods entrance.
+0x916D0C8F=~s~在~y~货物入口处~s~和Niko碰面。
 
 ;0x9AB2A49E=~s~Escape from the ~y~Libertonian.
 0x9AB2A49E=~s~Escape from the ~y~Libertonian.
+0x9AB2A49E=~s~逃离~y~Libertonian。
 
 ;0xA107F95D=~s~Press ~INPUT_VEH_CIN_CAM~ to focus the camera on the nearest mafia car.
 0xA107F95D=~s~Press ~INPUT_VEH_CIN_CAM~ to focus the camera on the nearest mafia car.
+0xA107F95D=~s~按下~INPUT_VEH_CIN_CAM~将镜头聚焦于最近的黑手党车辆。
 
 ;0xA2B8820A=~r~You angered Isaac's crew.
 0xA2B8820A=~r~You angered Isaac's crew.
+0xA2B8820A=~r~你激怒了Isaac的人。
 
 ;0xA8A04079=~s~Go to the North entrance of the ~y~Libertonian.
 0xA8A04079=~s~Go to the North entrance of the ~y~Libertonian.
+0xA8A04079=~s~去~y~Libertonian的北入口。
 
 ;0xB4FC2691=~r~The gang have been injured.
 0xB4FC2691=~r~The gang have been injured.
+0xB4FC2691=~r~帮众受伤了。
 
 ;0xBE26B9D2=~r~Isaac is dead.
 0xBE26B9D2=~r~Isaac is dead.
+0xBE26B9D2=~r~Isaac死了。
 
 ;0xC2D5432F=~r~Niko has been injured.
 0xC2D5432F=~r~Niko has been injured.
+0xC2D5432F=~r~Niko受伤了。
 
 ;0xC38AF64E=~s~Lose Isaac's crew.
 0xC38AF64E=~s~Lose Isaac's crew.
+0xC38AF64E=~s~甩掉Isaac的人。
 
 ;0xCC8A5711=~r~Niko is dead.
 0xCC8A5711=~r~Niko is dead.
+0xCC8A5711=~r~Niko死了。
 
 ;0xD22C9395=~s~Lose the cops.
 0xD22C9395=~s~Lose the cops.
+0xD22C9395=~s~甩掉警察。
 
 ;0xD45EE642=~r~You attacked Niko.
 0xD45EE642=~r~You attacked Niko.
+0xD45EE642=~r~你攻击了Niko。
 
 ;0xDAD7F3AC=~r~Job Failed.
 0xDAD7F3AC=~r~Job Failed.
+0xDAD7F3AC=~r~任务失败。
 
 ;0xEF45CDC7=~s~Meet ~b~Niko~s~ at the South entrance to the Libertonian.
 0xEF45CDC7=~s~Meet ~b~Niko~s~ at the South entrance to the Libertonian.
+0xEF45CDC7=~s~与~b~Niko~s~在Libertonian南入口碰面。
 
 ;0xF4E75386=~s~Take the money to ~b~Jim.
 0xF4E75386=~s~Take the money to ~b~Jim.
+0xF4E75386=~s~将钱带给~b~Jim。
 
 ;0xFA5828E8=~s~Job Complete.
 0xFA5828E8=~s~Job Complete.
+0xFA5828E8=~s~任务完成。
 
 ;0xFD166968=~s~Come back between 9pm and 3am.
 0xFD166968=~s~Come back between 9pm and 3am.
+0xFD166968=~s~21点到3点之间再来。
 
 ;0xFF29680A=~s~Enter the ~y~Libertonian.
 0xFF29680A=~s~Enter the ~y~Libertonian.
+0xFF29680A=~s~进入~y~Libertonian。
 
