@@ -1,34 +1,34 @@
 ﻿[LEILA3]
 ;0x16CFC706=Escape the airport.
-0x16CFC706=Escape the airport.
+0x16CFC706=逃离机场。
 
 ;0x3BDD7FF2=Go to the ~y~car park~s~.
-0x3BDD7FF2=Go to the ~y~car park~s~.
+0x3BDD7FF2=去~y~停车场~s~。
 
 ;0x4445BC40=Don't leave the ~b~courier~s~ behind.
-0x4445BC40=Don't leave the ~b~courier~s~ behind.
+0x4445BC40=不要把~b~线人~s~落在后面。
 
 ;0x535323B2=Lose the cops.
-0x535323B2=Lose the cops.
+0x535323B2=甩掉警察。
 
 ;0x5CF6C3C8=You let the van get to the security compound.
-0x5CF6C3C8=You let the van get to the security compound.
+0x5CF6C3C8=把厢型车开到安全区域。
 
 ;0x9487B145=Take the courier to the ~y~safehouse~s~.
-0x9487B145=Take the courier to the ~y~safehouse~s~.
+0x9487B145=带线人去~y~安全屋~s~。
 
 ;0xA74556C0=Leave the van for the Angels of Death to deal with.
-0xA74556C0=Leave the van for the Angels of Death to deal with.
+0xA74556C0=把厢型车留给Angels of Death处理。
 
 ;0xAD663C1E=Get in the ~b~police van~s~.
-0xAD663C1E=Get in the ~b~police van~s~.
+0xAD663C1E=进入~b~警用厢型车~s~。
 
 ;0xCD06A242=The ~r~police van~s~ is leaving for the security compound. Hurry.
-0xCD06A242=The ~r~police van~s~ is leaving for the security compound. Hurry.
+0xCD06A242=~r~警用厢型车~s~正在从安全区域离开。快点。
 
 ;0xDF6146F7=Hijack the ~r~police van~s~.
-0xDF6146F7=Hijack the ~r~police van~s~.
+0xDF6146F7=劫持~r~警用厢型车~s~。
 
 ;0xEBA2611D=The drug courier is dead.
-0xEBA2611D=The drug courier is dead.
+0xEBA2611D=毒贩的线人死了。
 
