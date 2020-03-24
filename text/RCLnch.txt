@@ -1,7 +1,6 @@
 ﻿[RCLnch]
 ;0xAB0FDC50=The ~BLIP_111~ icon represents the meeting point for a race. Go to that location to meet with Terry or Clay who will race alongside you. In races you will battle with other bikers for 1st position. There will be various races around the city.
-0xAB0FDC50=The ~BLIP_111~ icon represents the meeting point for a race. Go to that location to meet with Terry or Clay who will race alongside you. In races you will battle with other bikers for 1st position. There will be various races around the city.
-
+0xAB0FDC50=~BLIP_111~图标表示一场比赛的集合地点。去那个地方与会和你一起比赛的Terry或Clay见面。在比赛中你将会与其他摩托车手争夺第1名的位置。城市里将会有各种比赛。
 ;0xB96678FD=There will be various races around the city, these will be represented by the ~BLIP_111~ icon.
-0xB96678FD=There will be various races around the city, these will be represented by the ~BLIP_111~ icon.
+0xB96678FD=城市里将会有各种比赛，它们将会以~BLIP_111~图标来显示。
 
