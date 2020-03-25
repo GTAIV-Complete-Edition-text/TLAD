@@ -6,19 +6,19 @@
 0x074C1B1C=~r~你的摩托车被毁了。
 
 ;0x2198C8F2=Follow ~b~Malc.
-0x2198C8F2=跟着~b~Malc。
+0x2198C8F2=跟随~b~Malc。
 
 ;0x37527049=~r~The last biker got away.
 0x37527049=~r~最后一名摩托车手逃走了。
 
 ;0x4B12D163=~r~You hurt Malc.
-0x4B12D163=~r~Y你伤害了Malc。
+0x4B12D163=~r~你伤害了Malc。
 
 ;0x4C10C2D4=~r~You hurt DeSean.
 0x4C10C2D4=~r~你伤害了DeSean。
 
 ;0x626F244F=Follow ~b~DeSean.
-0x626F244F=跟着~b~DeSean。
+0x626F244F=跟随~b~DeSean。
 
 ;0x63BC391D=~r~You abandoned your bike.
 0x63BC391D=~r~你抛弃了你的摩托车。
