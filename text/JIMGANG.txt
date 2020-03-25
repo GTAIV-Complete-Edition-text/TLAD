@@ -1,33 +1,33 @@
 ﻿[JIMGANG]
 ;0x14C9BE89=~r~The target vehicle has escaped.
-0x14C9BE89=~r~The target vehicle has escaped.
+0x14C9BE89=~r~目标车辆逃走了。
 
 ;0x4E840214=~s~PHONECALL~n~~n~Jim tells you where to meet him and the others if you want to join them in an attack on a rival gang.
-0x4E840214=~s~PHONECALL~n~~n~Jim tells you where to meet him and the others if you want to join them in an attack on a rival gang.
+0x4E840214=~s~PHONECALL~n~~n~如果你想和他们一起攻击敌对帮派的话，Jim会告诉你去哪与他和其他人见面。
 
 ;0x5374833C=~1~/25
 0x5374833C=~1~/25
 
 ;0x5F5641DF=~s~Meet up with the Lost ~b~members.
-0x5F5641DF=~s~Meet up with the Lost ~b~members.
+0x5F5641DF=~s~与Lost ~b~成员们~s~见面。
 
 ;0x6293DA1C=~r~A member of The Lost has been injured.
-0x6293DA1C=~r~A member of The Lost has been injured.
+0x6293DA1C=~r~一名Lost成员受伤了。
 
 ;0x79C2887D=~r~Jim has been injured.
-0x79C2887D=~r~Jim has been injured.
+0x79C2887D=~r~Jim受伤了。
 
 ;0x7CBF7CB1=~s~Find the rival ~r~gang.
-0x7CBF7CB1=~s~Find the rival ~r~gang.
+0x7CBF7CB1=~s~找到敌对~r~帮派。
 
 ;0x85B667BF=GANG WAR
 0x85B667BF=GANG WAR
 
 ;0x887CA5F1=~r~A target has escaped.
-0x887CA5F1=~r~A target has escaped.
+0x887CA5F1=~r~一个目标逃走了。
 
 ;0xA56C4E0A=~s~Take out the ~r~target vehicle.
-0xA56C4E0A=~s~Take out the ~r~target vehicle.
+0xA56C4E0A=~s~干掉~r~目标车辆。
 
 ;0xAE15B87D=~1~
 0xAE15B87D=~1~
@@ -36,11 +36,11 @@
 0xBD39F3FC=DEFEATED
 
 ;0xC75E91EE=~s~Get a bike.
-0xC75E91EE=~s~Get a bike.
+0xC75E91EE=~s~找一辆摩托车。
 
 ;0xF6F4E771=LOST MC
 0xF6F4E771=LOST MC
 
 ;0xF90D754B=~s~Take out the rival ~r~gang.
-0xF90D754B=~s~Take out the rival ~r~gang.
+0xF90D754B=~s~干掉敌对~r~帮派。
 
