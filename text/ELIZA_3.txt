@@ -13,11 +13,12 @@
 
 ;0x0F20AB78=~s~Where the fuck is he going? Cover him!
 0x0F20AB78=~s~妈的他要去哪？掩护他！
+
 ;0x17668880=~s~Fuck take these fuckers out!
 0x17668880=~s~草把这些混蛋都干掉！
 
 ;0x1A60C1F8=~s~Get these pigs off DeSean's tail Johnny!
-0x1A60C1F8=~s~干掉DeSean后面的蠢货，Johnny！
+0x1A60C1F8=~s~干掉DeSean后面的条子，Johnny！
 
 ;0x1B21BE75=~r~Your bike was wrecked.
 0x1B21BE75=~r~你的摩托被摧毁了。
@@ -47,7 +48,7 @@
 0x74E5A990=~s~妈的！射击这些该死的玻璃窗！
 
 ;0x7ED69F7C=~s~Johnny we got a NOOSE van dead ahead!
-0x7ED69F7C=~s~Johnny我们前方有NOOSE的装甲车！
+0x7ED69F7C=~s~Johnny我们前方有NOOSE的车！
 
 ;0x873B16A6=~r~DeSean is dead.
 0x873B16A6=~r~DeSean死了。
@@ -80,7 +81,7 @@
 0xDF473DCA=~s~保护~b~DeSean。
 
 ;0xE14ACFCD=~s~Take these pigs out already Johnny!
-0xE14ACFCD=~s~干掉这些蠢货，Johnny！
+0xE14ACFCD=~s~干掉这些条子，Johnny！
 
 ;0xFCD786E6=~s~Fuck roadblock!
 0xFCD786E6=~s~草，路障！
