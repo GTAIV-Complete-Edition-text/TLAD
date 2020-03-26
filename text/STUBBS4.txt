@@ -1,100 +1,100 @@
 ﻿[STUBBS4]
 ;0x075FD38A=~r~Your brother's bike was wrecked.~s~
-0x075FD38A=~r~Your brother's bike was wrecked.~s~
+0x075FD38A=~r~你兄弟的摩托车坏了。~s~
 
 ;0x14D0F46D=~s~You need heavy artillery weapons to blow up the prison doors.~s~
-0x14D0F46D=~s~You need heavy artillery weapons to blow up the prison doors.~s~
+0x14D0F46D=~s~你需要重型火炮来爆破监狱门。~s~
 
 ;0x377AF31B=~s~Fight your way through the ~r~guards.~s~
-0x377AF31B=~s~Fight your way through the ~r~guards.~s~
+0x377AF31B=~s~清理沿途的~r~保安。~s~
 
 ;0x3863DB43=Go to the ~y~prison.~s~
-0x3863DB43=Go to the ~y~prison.~s~
+0x3863DB43=去~y~监狱。~s~
 
 ;0x57ACD3AB=Press ~INPUT_PICKUP~ to obtain free weapons from Terry.
-0x57ACD3AB=Press ~INPUT_PICKUP~ to obtain free weapons from Terry.
+0x57ACD3AB=按~INPUT_PICKUP~从Terry处得到免费武器。
 
 ;0x5E0300F3=~r~The Slam Van was wrecked.~s~
-0x5E0300F3=~r~The Slam Van was wrecked.~s~
+0x5E0300F3=~r~Slam Van损坏了。~s~
 
 ;0x6DC4877A=Blow up the ~r~prison doors.~s~
-0x6DC4877A=Blow up the ~r~prison doors.~s~
+0x6DC4877A=爆破~r~监狱门。~s~
 
 ;0x6F1622F9=~r~Clay is dead.~s~
-0x6F1622F9=~r~Clay is dead.~s~
+0x6F1622F9=~r~Clay死了。~s~
 
 ;0x720EA4D0=~s~Please step away from the gates.~s~
-0x720EA4D0=~s~Please step away from the gates.~s~
+0x720EA4D0=~s~请离开大门。~s~
 
 ;0x7F5E8A87=Get back to Terry and Clay and get on your ~b~bike.~s~
-0x7F5E8A87=Get back to Terry and Clay and get on your ~b~bike.~s~
+0x7F5E8A87=返回Terry和Clay处并骑上你的~b~摩托车。~s~
 
 ;0x8223C73A=Lead The Lost back to the ~y~clubhouse.~s~
-0x8223C73A=Lead The Lost back to the ~y~clubhouse.~s~
+0x8223C73A=带领Lost返回~y~俱乐部。~s~
 
 ;0x8C3139D7=~s~Get back on your ~b~Bike.~s~
-0x8C3139D7=~s~Get back on your ~b~Bike.~s~
+0x8C3139D7=~s~返回你的~b~摩托车。~s~
 
 ;0x949C7406=~s~Speak to Terry to get free weapons.~s~
-0x949C7406=~s~Speak to Terry to get free weapons.~s~
+0x949C7406=~s~与Terry谈话以获取免费武器。~s~
 
 ;0x9F817FB5=~s~Authorised personnel only. Leave the area now.~s~
-0x9F817FB5=~s~Authorised personnel only. Leave the area now.~s~
+0x9F817FB5=~s~仅授权人员进入。马上离开区域。~s~
 
 ;0xA4D0FECD=Get back to ~b~Terry and Clay.~s~
-0xA4D0FECD=Get back to ~b~Terry and Clay.~s~
+0xA4D0FECD=返回~b~Terry和Clay处。~s~
 
 ;0xA8AC1624=~r~The Lost biker is dead.~s~
-0xA8AC1624=~r~The Lost biker is dead.~s~
+0xA8AC1624=~r~Lost摩托车手死了。~s~
 
 ;0xA8B34A4F=~r~Billy has been securely locked down.~s~
-0xA8B34A4F=~r~Billy has been securely locked down.~s~
+0xA8B34A4F=~r~Billy已被锁在监狱中。~s~
 
 ;0xA8FE92AF=~s~Step away from the gates. You're not on the visitors list, you're not coming in. ~s~
-0xA8FE92AF=~s~Step away from the gates. You're not on the visitors list, you're not coming in. ~s~
+0xA8FE92AF=~s~离开大门。你不在访问者名单上，不允许进入。~s~
 
 ;0xB46D61C3=~r~You have damaged the Lost vehicles.~s~
-0xB46D61C3=~r~You have damaged the Lost vehicles.~s~
+0xB46D61C3=~r~你损坏了Lost的载具。~s~
 
 ;0xB698E5C2=~s~Make your way to the ~y~prison yard.~s~
-0xB698E5C2=~s~Make your way to the ~y~prison yard.~s~
+0xB698E5C2=~s~前往~y~监狱场地。~s~
 
 ;0xB931B72F=~r~You abandoned Terry and Clay.~s~
-0xB931B72F=~r~You abandoned Terry and Clay.~s~
+0xB931B72F=~r~你丢下了Terry和Clay。~s~
 
 ;0xB9BD77A2=~s~Clear the area of ~r~guards.~s~
-0xB9BD77A2=~s~Clear the area of ~r~guards.~s~
+0xB9BD77A2=~s~清楚区域内的~r~保安。~s~
 
 ;0xBE58417C=~r~Terry is dead.~s~
-0xBE58417C=~r~Terry is dead.~s~
+0xBE58417C=~r~Terry死了。~s~
 
 ;0xC943D57D=Get out of the prison and lose the cops.
-0xC943D57D=Get out of the prison and lose the cops.
+0xC943D57D=离开监狱并甩掉警察。
 
 ;0xDB727BB0=~r~Clay's bike was wrecked.~s~
-0xDB727BB0=~r~Clay's bike was wrecked.~s~
+0xDB727BB0=~r~Clay的摩托车坏了。~s~
 
 ;0xDBCEFA93=~r~Billy has been put on lockdown.~s~
-0xDBCEFA93=~r~Billy has been put on lockdown.~s~
+0xDBCEFA93=~r~Billy已被锁在监狱中。~s~
 
 ;0xE15AA0B1=~s~Follow~b~ Terry and Clay~s~ out of the prison.
-0xE15AA0B1=~s~Follow~b~ Terry and Clay~s~ out of the prison.
+0xE15AA0B1=~s~跟着~b~Terry和Clay~s~离开监狱。
 
 ;0xE47F8DCA=~r~You attacked the Lost bikers.~s~
-0xE47F8DCA=~r~You attacked the Lost bikers.~s~
+0xE47F8DCA=~r~你攻击了Lost摩托车手。~s~
 
 ;0xE693F95D=~s~When locked-on while equipped with a pistol, you can perform an execution on certain characters.~s~
-0xE693F95D=~s~When locked-on while equipped with a pistol, you can perform an execution on certain characters.~s~
+0xE693F95D=~s~当装备手枪并锁定特定角色时，你可以对他执行处决。~s~
 
 ;0xEB104099=Lose the cops.
-0xEB104099=Lose the cops.
+0xEB104099=甩掉警察。
 
 ;0xF07B6ACC=~s~Execute ~r~Billy.~s~
-0xF07B6ACC=~s~Execute ~r~Billy.~s~
+0xF07B6ACC=~s~处决~r~Billy。~s~
 
 ;0xF1C62857=~r~You have alerted the guards and blown your cover.~s~
-0xF1C62857=~r~You have alerted the guards and blown your cover.~s~
+0xF1C62857=~r~你引起了保安的警觉并被识破了伪装。~s~
 
 ;0xFC79BDC2=~r~Your bike was wrecked.~r~
-0xFC79BDC2=~r~Your bike was wrecked.~r~
+0xFC79BDC2=~r~你的摩托车坏了。~r~
 
