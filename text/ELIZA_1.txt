@@ -21,10 +21,10 @@
 0x4E94C3E5=回到~b~厢型车。~s~
 
 ;0x509E5D85=Take the van to the ~y~lockup.~s~
-0x509E5D85=把厢型车开到~y~监狱。~s~
+0x509E5D85=把厢型车开到~y~车库。~s~
 
 ;0x6D957FEE=~r~The van has been wrecked.~s~
-0x6D957FEE=~r~厢型车已被摧毁。~s~
+0x6D957FEE=~r~厢型车被摧毁了。~s~
 
 ;0x6DE182F2=Get a 4 door vehicle.
 0x6DE182F2=找一辆四门载具。

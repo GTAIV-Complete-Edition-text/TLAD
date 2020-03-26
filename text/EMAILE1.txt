@@ -51,7 +51,7 @@
 0x35126748=星期一
 
 ;0x36921D77=Earn your degree online in less than a week!
-0x36921D77=一星期内获得你的在线学位！
+0x36921D77=一星期内在网上获得你的学位！
 
 ;0x3792C603=Jim Fitz
 0x3792C603=Jim Fitz
