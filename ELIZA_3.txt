@@ -1,0 +1,88 @@
+﻿[ELIZA_3]
+;0x01E911C7=~s~Press ~INPUT_AIM~ to aim and ~INPUT_ATTACK~ to fire.
+0x01E911C7=~s~按~INPUT_AIM~瞄准以及按~INPUT_ATTACK~开火。
+
+;0x04C5C9DF=~s~Press ~INPUT_ATTACK~ to drop pipe bombs.
+0x04C5C9DF=~s~按下~INPUT_ATTACK~来丢土制炸弹。
+
+;0x067377D4=~s~Get on your ~b~bike.~s~
+0x067377D4=~s~上~b~摩托车。~s~
+
+;0x0DF93620=~s~We got shit up ahead too, Johnny!
+0x0DF93620=~s~我们前面也有麻烦，Johnny！
+
+;0x0F20AB78=~s~Where the fuck is he going? Cover him!
+0x0F20AB78=~s~妈的他要去哪？掩护他！
+
+;0x17668880=~s~Fuck take these fuckers out!
+0x17668880=~s~草把这些混蛋都干掉！
+
+;0x1A60C1F8=~s~Get these pigs off DeSean's tail Johnny!
+0x1A60C1F8=~s~干掉DeSean后面的条子，Johnny！
+
+;0x1B21BE75=~r~Your bike was wrecked.
+0x1B21BE75=~r~你的摩托被摧毁了。
+
+;0x2C266583=~s~Fuck this! Johnny use these grenades!
+0x2C266583=~s~草！Johnny，用这些手雷！
+
+;0x2D7FD85D=~s~Go to the ~y~deal.~s~
+0x2D7FD85D=~s~去~y~交易地点。~s~
+
+;0x2DE1E3F5=~r~You abandoned your bike.
+0x2DE1E3F5=~r~你丢弃了你的摩托。
+
+;0x2FBA1F06=~s~Don't speak so soon Johnny - cops up ahead!
+0x2FBA1F06=~s~现在不是谈这个的时候Johnny - 警察来啦！
+
+;0x579A3C6E=~s~Shit that was intense!
+0x579A3C6E=~s~妈的太险了！
+
+;0x6BD533B8=~s~To quickly reload release ~INPUT_AIM~ and then press it again.
+0x6BD533B8=~s~松开~INPUT_AIM~然后再按下它以快速装弹。
+
+;0x6DBF64D4=~s~Head for the tunnel, we need to shake this fuckin' bird!
+0x6DBF64D4=~s~去隧道，我们得甩掉这该死的直升机！
+
+;0x74E5A990=~s~Fuck this! Shoot out these fucking windows!
+0x74E5A990=~s~妈的！射击这些该死的玻璃窗！
+
+;0x7ED69F7C=~s~Johnny we got a NOOSE van dead ahead!
+0x7ED69F7C=~s~Johnny我们前方有NOOSE的车！
+
+;0x873B16A6=~r~DeSean is dead.
+0x873B16A6=~r~DeSean死了。
+
+;0x919BC37C=~s~Press ~INPUT_ATTACK~ to drop grenades.
+0x919BC37C=~s~按下~INPUT_ATTACK~来扔手雷。
+
+;0x987E392C=~r~Malc is dead.
+0x987E392C=~r~Malc死了。
+
+;0xB0C45242=~s~Press ~INPUT_VEH_LOOK_BEHIND~ to look behind you while dropping grenades.
+0xB0C45242=~s~当你投掷手雷时按下~INPUT_VEH_LOOK_BEHIND~来观察后方。
+
+;0xB96A8011=~s~Fuck, go go go - escort DeSean!
+0xB96A8011=~s~草，快走 - 保护DeSean！
+
+;0xBC108050=~r~Malc's bike was wrecked.
+0xBC108050=~r~Malc的摩托车被摧毁了。
+
+;0xC1C490C1=~s~Shit! DeSean is taking damage.
+0xC1C490C1=~s~草！DeSean正受到伤害。
+
+;0xCE5224D3=~r~DeSean's bike was wrecked.
+0xCE5224D3=~r~DeSean的摩托车被摧毁了。
+
+;0xD3A2347C=~s~Johnny, we got a bird - 10 o'clock!
+0xD3A2347C=~s~Johnny，有架直升机 - 10点钟方向！
+
+;0xDF473DCA=~s~Defend ~b~DeSean~s~ from the cops.
+0xDF473DCA=~s~保护~b~DeSean。
+
+;0xE14ACFCD=~s~Take these pigs out already Johnny!
+0xE14ACFCD=~s~干掉这些条子，Johnny！
+
+;0xFCD786E6=~s~Fuck roadblock!
+0xFCD786E6=~s~草，路障！
+
