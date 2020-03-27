@@ -33,7 +33,7 @@
 0x8223C73A=带领Lost返回~y~俱乐部。~s~
 
 ;0x8C3139D7=~s~Get back on your ~b~Bike.~s~
-0x8C3139D7=~s回到你的~b~摩托车上。~s~
+0x8C3139D7=~s~回到你的~b~摩托车上。~s~
 
 ;0x949C7406=~s~Speak to Terry to get free weapons.~s~
 0x949C7406=~s~与Terry谈话以获取免费武器。~s~
