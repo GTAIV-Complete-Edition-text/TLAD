@@ -15,7 +15,7 @@
 0x66BAED1A=直升机正在降落。想办法解决掉~r~目标。~s~
 
 ;0x74C68939=The convoy is on the move. Take out the ~r~target.~s~
-0x74C68939=护卫队正在行进。解决掉~r~目标。~s~
+0x74C68939=车队正在行进。解决掉~r~目标。~s~
 
 ;0x86274768=You can buy weapons, armor and ammo at the gun shops.
 0x86274768=你可以在枪店买到武器、防弹衣和弹药。
