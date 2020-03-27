@@ -6,7 +6,7 @@
 0x14D0F46D=~s~你需要重型火炮来爆破监狱门。~s~
 
 ;0x377AF31B=~s~Fight your way through the ~r~guards.~s~
-0x377AF31B=~s~清理沿途的~r~保安。~s~
+0x377AF31B=~s~杀出一条血路，通过~r~保安~s~的封锁。
 
 ;0x3863DB43=Go to the ~y~prison.~s~
 0x3863DB43=去~y~监狱。~s~
@@ -24,7 +24,7 @@
 0x6F1622F9=~r~Clay死了。~s~
 
 ;0x720EA4D0=~s~Please step away from the gates.~s~
-0x720EA4D0=~s~请离开大门。~s~
+0x720EA4D0=~s~请远离大门。~s~
 
 ;0x7F5E8A87=Get back to Terry and Clay and get on your ~b~bike.~s~
 0x7F5E8A87=返回Terry和Clay处并骑上你的~b~摩托车。~s~
@@ -48,10 +48,10 @@
 0xA8AC1624=~r~Lost摩托车手死了。~s~
 
 ;0xA8B34A4F=~r~Billy has been securely locked down.~s~
-0xA8B34A4F=~r~Billy已被锁在监狱中。~s~
+0xA8B34A4F=~r~Billy已被安全地锁在监狱中。~s~
 
 ;0xA8FE92AF=~s~Step away from the gates. You're not on the visitors list, you're not coming in. ~s~
-0xA8FE92AF=~s~离开大门。你不在访问者名单上，不允许进入。~s~
+0xA8FE92AF=~s~远离大门。你不在访问者名单上，不允许进入。~s~
 
 ;0xB46D61C3=~r~You have damaged the Lost vehicles.~s~
 0xB46D61C3=~r~你损坏了Lost的载具。~s~
@@ -63,7 +63,7 @@
 0xB931B72F=~r~你丢下了Terry和Clay。~s~
 
 ;0xB9BD77A2=~s~Clear the area of ~r~guards.~s~
-0xB9BD77A2=~s~清楚区域内的~r~保安。~s~
+0xB9BD77A2=~s~清除区域内的~r~保安。~s~
 
 ;0xBE58417C=~r~Terry is dead.~s~
 0xBE58417C=~r~Terry死了。~s~
