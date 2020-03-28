@@ -18,13 +18,13 @@
 0x1E17A3F0=PLACEHOLDER
 
 ;0x21446BDE=Some day
-0x21446BDE=Some day
+0x21446BDE=某一天
 
 ;0x218FC037=Thursday
-0x218FC037=Thursday
+0x218FC037=星期四
 
 ;0x21F0C105=Tuesday
-0x21F0C105=Tuesday
+0x21F0C105=星期二
 
 ;0x22AD9F4A=B.G. out
 0x22AD9F4A=B.G. out
@@ -48,22 +48,22 @@
 0x31960666=HOTTTTTT FREE AMATEUR WEBCAMS
 
 ;0x35126748=Monday
-0x35126748=Monday
+0x35126748=星期一
 
 ;0x36921D77=Earn your degree online in less than a week!
-0x36921D77=Earn your degree online in less than a week!
+0x36921D77=一星期内在网上获得你的学位！
 
 ;0x3792C603=Jim Fitz
 0x3792C603=Jim Fitz
 
 ;0x38B83E99=Glad you are well.
-0x38B83E99=Glad you are well.
+0x38B83E99=别来无恙。
 
 ;0x3A433F0C=jimfitz@LostMC.com
 0x3A433F0C=jimfitz@LostMC.com
 
 ;0x3E315651=all done
-0x3E315651=all done
+0x3E315651=万事俱备
 
 ;0x41919D64=43jh43b8@eyefind.info
 0x41919D64=43jh43b8@eyefind.info
@@ -81,7 +81,7 @@
 0x4B53B0E8=ligner@goldberglignerandshyster.com
 
 ;0x4F259B62=Saturday
-0x4F259B62=Saturday
+0x4F259B62=星期六
 
 ;0x550D11E2=PLACEHOLDER
 0x550D11E2=PLACEHOLDER
@@ -93,10 +93,10 @@
 0x5B2680D2=angus@LostMC.com
 
 ;0x5F843C1F=Friday
-0x5F843C1F=Friday
+0x5F843C1F=星期五
 
 ;0x5FBF3CA1=Wednesday
-0x5FBF3CA1=Wednesday
+0x5FBF3CA1=星期三
 
 ;0x601B25C2=Tina Brannigan
 0x601B25C2=Tina Brannigan
@@ -105,10 +105,10 @@
 0x662EB425=PLACEHOLDER
 
 ;0x67EDF930=Shit
-0x67EDF930=Shit
+0x67EDF930=我靠
 
 ;0x6A8EC9F4=Professor Flavio Covarrubias B.A, B.Ec, B.S., MFA, MBA, LL.M, Msc, Ph.D, MD (Harford University)
-0x6A8EC9F4=Professor Flavio Covarrubias B.A, B.Ec, B.S., MFA, MBA, LL.M, Msc, Ph.D, MD (Harford University)
+0x6A8EC9F4=教授Flavio Covarrubias B.A,，B.Ec， B.S.， MFA， MBA， LL.M， Msc， Ph.D， MD （哈佛大学）
 
 ;0x6CC5B068=Jerry Giordano
 0x6CC5B068=Jerry Giordano
@@ -126,13 +126,13 @@
 0x7AD6C036=halforddegrees@grype.org
 
 ;0x7D66F7E4=Sunday
-0x7D66F7E4=Sunday
+0x7D66F7E4=星期天
 
 ;0x7EF854CD=WADJET
 0x7EF854CD=WADJET
 
 ;0x8188E4A6=hey bro
-0x8188E4A6=hey bro
+0x8188E4A6=嘿老兄
 
 ;0x85D305D9=Kill Debt Dead
 0x85D305D9=Kill Debt Dead
@@ -141,7 +141,7 @@
 0x88B35BEB=elenaimaylov@eyefind.info
 
 ;0x8A2EE1B5=I miss you.
-0x8A2EE1B5=I miss you.
+0x8A2EE1B5=我想你了。
 
 ;0x8B257E12=PLACEHOLDER
 0x8B257E12=PLACEHOLDER
@@ -153,10 +153,10 @@
 0x8F4B9371=www.killdebtdead.com
 
 ;0x90F178BF=Harford University
-0x90F178BF=Harford University
+0x90F178BF=哈佛大学
 
 ;0x9751097D=My nipples like thumbs for you
-0x9751097D=My nipples like thumbs for you
+0x9751097D=我的乳头对你来说就像拇指一样
 
 ;0xA179AABA=PLACEHOLDER
 0xA179AABA=PLACEHOLDER
@@ -165,10 +165,10 @@
 0xA5DF3149=Tlks1iK87
 
 ;0xA9136216=Urgent - Your Bank of Liberty account. Please Update Account Details
-0xA9136216=Urgent - Your Bank of Liberty account. Please Update Account Details
+0xA9136216=紧急 - 你的自由城银行账户。请更新账户资料
 
 ;0xB0654655=Larry Ligner, attorney at law
-0xB0654655=Larry Ligner, attorney at law
+0xB0654655=Larry Ligner，律师
 
 ;0xB3244E0F=PLACEHOLDER
 0xB3244E0F=PLACEHOLDER
@@ -186,7 +186,7 @@
 0xC351D12F=saidoubakayoko@grype.org
 
 ;0xC3D0D4F8=Thank you.
-0xC3D0D4F8=Thank you.
+0xC3D0D4F8=谢谢。
 
 ;0xCA746BC8=Saidou Bakayoko
 0xCA746BC8=Saidou Bakayoko
@@ -198,7 +198,7 @@
 0xCF814EB4=UNREAD
 
 ;0xD212717B=Thinking about you.
-0xD212717B=Thinking about you.
+0xD212717B=考虑下你。
 
 ;0xD5DE508B=INBOX FULL
 0xD5DE508B=INBOX FULL
@@ -210,10 +210,10 @@
 0xD7D4247D=Angus
 
 ;0xE2540EE3=Customer Service Bank of Lee Burty.
-0xE2540EE3=Customer Service Bank of Lee Burty.
+0xE2540EE3=Lee Burty客服银行
 
 ;0xE66FAE7A=RE: hey bro
-0xE66FAE7A=RE: hey bro
+0xE66FAE7A=回信：嘿老兄
 
 ;0xE800A9F1=LOST MC
 0xE800A9F1=LOST MC
@@ -231,5 +231,5 @@
 0xEF8F29A1=ashbutlerxxx@eyefind.info
 
 ;0xF9DFC0E9=Wedding bells?
-0xF9DFC0E9=Wedding bells?
+0xF9DFC0E9=婚礼的钟声？
 
