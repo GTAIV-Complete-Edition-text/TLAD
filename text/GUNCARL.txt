@@ -1,259 +1,259 @@
 ﻿[GUNCARL]
 ;0x0075556A=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Sniper Rifle.
-0x0075556A=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Sniper Rifle.
+0x0075556A=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取狙击步枪。
 
 ;0x01235084=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken an Automatic 9mm.
-0x01235084=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken an Automatic 9mm.
+0x01235084=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取全自动9mm手枪。
 
 ;0x01BBB6A9=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Micro SMG.
-0x01BBB6A9=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Micro SMG.
+0x01BBB6A9=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取微型冲锋枪。
 
 ;0x055954C6=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Assault Rifle
-0x055954C6=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Assault Rifle
+0x055954C6=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~突击步枪
 
 ;0x08758382=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~17 x Automatic 9mm rounds
-0x08758382=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~17 x Automatic 9mm rounds
+0x08758382=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~17 x 全自动9mm手枪子弹
 
 ;0x09F2B5F5=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Pipe Bombs.
-0x09F2B5F5=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Pipe Bombs.
+0x09F2B5F5=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~土制炸弹。
 
 ;0x0B01174A=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~9mm
-0x0B01174A=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~9mm
+0x0B01174A=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~9mm手枪
 
 ;0x0F2611CC=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Carbine Rifle
-0x0F2611CC=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Carbine Rifle
+0x0F2611CC=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~卡宾枪
 
 ;0x0F94E5ED=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Micro SMG
-0x0F94E5ED=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Micro SMG
+0x0F94E5ED=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~微型冲锋枪
 
 ;0x11A5342D=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Rocket Launcher
-0x11A5342D=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Rocket Launcher
+0x11A5342D=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~火箭筒
 
 ;0x130F0B74=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Grenade
-0x130F0B74=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Grenade
+0x130F0B74=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~手雷
 
 ;0x135065CF=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade for Launcher
-0x135065CF=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade for Launcher
+0x135065CF=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~榴弹
 
 ;0x1A983DE7=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~SMG
-0x1A983DE7=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~SMG
+0x1A983DE7=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~冲锋枪
 
 ;0x1B256C69=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Pipe Bomb.
-0x1B256C69=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Pipe Bomb.
+0x1B256C69=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取土制炸弹。
 
 ;0x1DF2783F=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Automatic 9mm ammo.
-0x1DF2783F=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Automatic 9mm ammo.
+0x1DF2783F=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~全自动9mm手枪弹药。
 
 ;0x26E266EE=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Combat Shotgun
-0x26E266EE=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Combat Shotgun
+0x26E266EE=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~战斗霰弹枪
 
 ;0x2A237349=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Molotov
-0x2A237349=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Molotov
+0x2A237349=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~燃烧瓶
 
 ;0x2A24B45D=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You can't carry any more of that type of ammo.
-0x2A24B45D=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You can't carry any more of that type of ammo.
+0x2A24B45D=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~r~你无法携带更多那种类型的弹药。
 
 ;0x2B5B3216=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Shotgun
-0x2B5B3216=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Shotgun
+0x2B5B3216=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~霰弹枪
 
 ;0x2D06EBA1=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Molotov
-0x2D06EBA1=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Molotov
+0x2D06EBA1=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~燃烧瓶
 
 ;0x2E02282F=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Assault Shotgun
-0x2E02282F=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Assault Shotgun
+0x2E02282F=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~突击霰弹枪
 
 ;0x2F1AF510=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken Body Armor.
-0x2F1AF510=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken Body Armor.
+0x2F1AF510=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取防弹衣。
 
 ;0x39496DF0=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Rocket Launcher.
-0x39496DF0=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Rocket Launcher.
+0x39496DF0=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取火箭筒。
 
 ;0x396129CC=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Molotovs.
-0x396129CC=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Molotovs.
+0x396129CC=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~燃烧瓶。
 
 ;0x3B9E9AD0=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~10 x Sniper Rifle rounds
-0x3B9E9AD0=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~10 x Sniper Rifle rounds
+0x3B9E9AD0=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~10 x 狙击步枪子弹
 
 ;0x3C916B3B=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Assault Rifle
-0x3C916B3B=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Assault Rifle
+0x3C916B3B=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~突击步枪
 
 ;0x3EF8BA2E=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Carbine Rifle.
-0x3EF8BA2E=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Carbine Rifle.
+0x3EF8BA2E=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取卡宾枪。
 
 ;0x4681FA22=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Grenade Launcher.
-0x4681FA22=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Grenade Launcher.
+0x4681FA22=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取榴弹发射器。
 
 ;0x47E7DCD1=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~9mm
-0x47E7DCD1=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~9mm
+0x47E7DCD1=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~9mm手枪
 
 ;0x492076CD=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Knife
-0x492076CD=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Knife
+0x492076CD=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~小刀
 
 ;0x4D63D869=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Shotgun
-0x4D63D869=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Shotgun
+0x4D63D869=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~霰弹枪
 
 ;0x52B5A3DA=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Sawn-Off Shotgun.
-0x52B5A3DA=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Sawn-Off Shotgun.
+0x52B5A3DA=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取短管霰弹枪。
 
 ;0x5348E345=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade
-0x5348E345=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade
+0x5348E345=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~手雷
 
 ;0x56FBD2D6=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Rocket for Launcher
-0x56FBD2D6=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Rocket for Launcher
+0x56FBD2D6=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~火箭弹
 
 ;0x5B1FB976=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Body Armor
-0x5B1FB976=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Body Armor
+0x5B1FB976=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~防弹衣
 
 ;0x5BDC83B9=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Sawn-Off Shotgun ammo.
-0x5BDC83B9=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Sawn-Off Shotgun ammo.
+0x5BDC83B9=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~短管霰弹枪子弹。
 
 ;0x5CD0016F=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Sniper Rifle
-0x5CD0016F=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Sniper Rifle
+0x5CD0016F=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~狙击步枪
 
 ;0x61BE52D4=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Knife
-0x61BE52D4=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Knife
+0x61BE52D4=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~小刀
 
 ;0x625C2F5E=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Rocket Launcher
-0x625C2F5E=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Rocket Launcher
+0x625C2F5E=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~火箭筒
 
 ;0x63BA6FF3=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Grenades.
-0x63BA6FF3=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Grenades.
+0x63BA6FF3=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~手雷。
 
 ;0x65E8ED44=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Assault Shotgun
-0x65E8ED44=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Assault Shotgun
+0x65E8ED44=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~突击霰弹枪
 
 ;0x6D73A81D=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~30 x Carbine Rifle rounds
-0x6D73A81D=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~30 x Carbine Rifle rounds
+0x6D73A81D=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~30 x 卡宾枪子弹
 
 ;0x6E647302=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Combat Shotgun ammo.
-0x6E647302=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Combat Shotgun ammo.
+0x6E647302=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~战斗霰弹枪弹药。
 
 ;0x77F6371B=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Sawn-Off Shotgun
-0x77F6371B=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Sawn-Off Shotgun
+0x77F6371B=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~短管霰弹枪
 
 ;0x7909A4E5=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of SMG ammo.
-0x7909A4E5=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of SMG ammo.
+0x7909A4E5=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~冲锋枪弹药。
 
 ;0x7C8C6535=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Pipe Bomb
-0x7C8C6535=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Pipe Bomb
+0x7C8C6535=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~土制炸弹
 
 ;0x7D01B5E2=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Assault Shotgun ammo.
-0x7D01B5E2=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Assault Shotgun ammo.
+0x7D01B5E2=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~突击霰弹枪弹药。
 
 ;0x81536317=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Sniper Rifle ammo.
-0x81536317=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Sniper Rifle ammo.
+0x81536317=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~狙击步枪弹药。
 
 ;0x8827EED8=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~30 x SMG rounds
-0x8827EED8=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~30 x SMG rounds
+0x8827EED8=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~30 x 冲锋枪子弹
 
 ;0x8A27C399=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Combat Shotgun
-0x8A27C399=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Combat Shotgun
+0x8A27C399=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~战斗霰弹枪
 
 ;0x8BE84914=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~50 x Micro SMG rounds
-0x8BE84914=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~50 x Micro SMG rounds
+0x8BE84914=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~50 x 微型冲锋枪子弹
 
 ;0x942DEAF1=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Sawn-Off Shotgun
-0x942DEAF1=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Sawn-Off Shotgun
+0x942DEAF1=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~短管霰弹枪
 
 ;0x94643303=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of 9mm ammo.
-0x94643303=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of 9mm ammo.
+0x94643303=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~9mm手枪弹药。
 
 ;0x976C88A3=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Rockets.
-0x976C88A3=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Rockets.
+0x976C88A3=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~火箭弹。
 
 ;0x98CC1C03=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Pipe Bomb
-0x98CC1C03=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Pipe Bomb
+0x98CC1C03=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~土制炸弹
 
 ;0x9AB7CFFF=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~17 x 9mm rounds
-0x9AB7CFFF=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~17 x 9mm rounds
+0x9AB7CFFF=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~17 x 9mm手枪子弹
 
 ;0x9E5C8B66=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Shotgun.
-0x9E5C8B66=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Shotgun.
+0x9E5C8B66=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取霰弹枪。
 
 ;0xA25ADA1C=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~SMG
-0xA25ADA1C=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~SMG
+0xA25ADA1C=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~冲锋枪
 
 ;0xA2E166B6=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~10 x Combat Shotgun rounds
-0xA2E166B6=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~10 x Combat Shotgun rounds
+0xA2E166B6=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~10 x 战斗霰弹枪子弹
 
 ;0xA8ABD062=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Micro SMG ammo.
-0xA8ABD062=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Micro SMG ammo.
+0xA8ABD062=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~微型冲锋枪弹药。
 
 ;0xAF3AC2FE=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade Launcher
-0xAF3AC2FE=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade Launcher
+0xAF3AC2FE=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~榴弹发射器
 
 ;0xB2DDCC0F=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Grenade.
-0xB2DDCC0F=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Grenade.
+0xB2DDCC0F=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取手雷。
 
 ;0xB350EAE9=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Automatic 9mm
-0xB350EAE9=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Automatic 9mm
+0xB350EAE9=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~全自动9mm手枪
 
 ;0xB5E9F6C3=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You are already equipped with a knife.
-0xB5E9F6C3=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You are already equipped with a knife.
+0xB5E9F6C3=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~r~你已持有小刀。
 
 ;0xBDEB8B9F=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Carbine Rifle
-0xBDEB8B9F=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Carbine Rifle
+0xBDEB8B9F=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~卡宾枪
 
 ;0xBE90C03C=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Knife.
-0xBE90C03C=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Knife.
+0xBE90C03C=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取小刀。
 
 ;0xC23A01D0=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Micro SMG
-0xC23A01D0=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Micro SMG
+0xC23A01D0=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~微型冲锋枪
 
 ;0xCA35F208=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Molotov.
-0xCA35F208=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Molotov.
+0xCA35F208=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取燃烧瓶。
 
 ;0xCB53834D=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~8 x Assault Shotgun rounds
-0xCB53834D=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~8 x Assault Shotgun rounds
+0xCB53834D=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~8 x 突击步枪子弹
 
 ;0xCC690E3E=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~Not enough cash.
-0xCC690E3E=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~Not enough cash.
+0xCC690E3E=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~r~现金不足。
 
 ;0xCE736F0E=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~2 x Shotgun rounds
-0xCE736F0E=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~2 x Shotgun rounds
+0xCE736F0E=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~2 x 霰弹枪子弹
 
 ;0xCFFD9122=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~8 x Shotgun rounds
-0xCFFD9122=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~8 x Shotgun rounds
+0xCFFD9122=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~8 x 霰弹枪子弹
 
 ;0xD2430CD1=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You are already wearing full body armor.
-0xD2430CD1=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You are already wearing full body armor.
+0xD2430CD1=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~r~你已装备全满防弹衣。
 
 ;0xD7BF8A4F=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a SMG.
-0xD7BF8A4F=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a SMG.
+0xD7BF8A4F=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取冲锋枪。
 
 ;0xDD187EDB=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Grenade Launcher
-0xDD187EDB=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Grenade Launcher
+0xDD187EDB=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~榴弹发射器
 
 ;0xE2F27805=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Combat Shotgun.
-0xE2F27805=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Combat Shotgun.
+0xE2F27805=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取战斗霰弹枪。
 
 ;0xE43278A3=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Launching Grenades.
-0xE43278A3=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Launching Grenades.
+0xE43278A3=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~榴弹。
 
 ;0xE51B5E8C=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken an Assault Shotgun.
-0xE51B5E8C=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken an Assault Shotgun.
+0xE51B5E8C=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取突击霰弹枪。
 
 ;0xEACFA069=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Automatic 9mm
-0xEACFA069=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Automatic 9mm
+0xEACFA069=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~全自动9mm手枪
 
 ;0xEBE8D18C=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a 9mm.
-0xEBE8D18C=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a 9mm.
+0xEBE8D18C=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取9mm手枪。
 
 ;0xEC3EECBC=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Sniper Rifle
-0xEC3EECBC=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Sniper Rifle
+0xEC3EECBC=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~狙击步枪
 
 ;0xEEDE20FB=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Assault Rifle ammo.
-0xEEDE20FB=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Assault Rifle ammo.
+0xEEDE20FB=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~突击步枪弹药。
 
 ;0xF2A43730=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken an Assault Rifle.
-0xF2A43730=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken an Assault Rifle.
+0xF2A43730=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取突击步枪。
 
 ;0xF6DB08A5=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of shotgun ammo.
-0xF6DB08A5=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of shotgun ammo.
+0xF6DB08A5=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~霰弹枪子弹。
 
 ;0xF6DE7282=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~30 x Assault Rifle rounds
-0xF6DE7282=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~30 x Assault Rifle rounds
+0xF6DE7282=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~30 x 突击步枪子弹
 
 ;0xFC53A044=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Carbine Rifle ammo.
-0xFC53A044=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Carbine Rifle ammo.
+0xFC53A044=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~卡宾枪弹药。
 
