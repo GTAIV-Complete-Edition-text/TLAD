@@ -1,259 +1,259 @@
 ﻿[GUNCAR]
 ;0x0380C8D2=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~30 x Assault Rifle rounds $55
-0x0380C8D2=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~30 x 突击步枪子弹 $55
+0x0380C8D2=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~30 x 突击步枪子弹 $55
 
 ;0x062F927F=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Molotov $350
-0x062F927F=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~燃烧瓶 $350
+0x062F927F=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~燃烧弹 $350
 
 ;0x080F4BAB=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Pipe Bomb $700
-0x080F4BAB=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~土制炸弹 $700
+0x080F4BAB=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~土制炸弹 $700
 
 ;0x0FFB9FB2=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of Sawn-Off Shotgun ammo.
-0x0FFB9FB2=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~短管霰弹枪弹药。
+0x0FFB9FB2=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~发短管霰弹枪子弹。
 
 ;0x12B6E73E=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~10 x Sniper Rifle rounds $500
-0x12B6E73E=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~10 x 狙击步枪子弹 $500
+0x12B6E73E=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~10 x 狙击步枪子弹 $500
 
 ;0x12DAE142=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You can't carry any more of that type of ammo.
-0x12DAE142=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~r~你无法携带更多那种类型弹药。
+0x12DAE142=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~r~你无法携带更多此种弹药。
 
 ;0x134259A1=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Micro SMG purchased.
-0x134259A1=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买微型冲锋枪。
+0x134259A1=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买微型冲锋枪。
 
 ;0x16A4F03A=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Knife $100
-0x16A4F03A=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~小刀 $100
+0x16A4F03A=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~匕首 $100
 
 ;0x1DB23B1F=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Sawn-Off Shotgun purchased.
-0x1DB23B1F=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买短管霰弹枪。
+0x1DB23B1F=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买短管霰弹枪。
 
 ;0x1E75C30B=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~SMG $1750
-0x1E75C30B=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~冲锋枪 $1750
+0x1E75C30B=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~冲锋枪 $1750
 
 ;0x1F9C8119=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~50 x Micro SMG rounds $20
-0x1F9C8119=U用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~50 x 微型冲锋枪子弹 $20
+0x1F9C8119=U用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~50 x 微型冲锋枪子弹 $20
 
 ;0x204FF4EC=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Assault Rifle purchased.
-0x204FF4EC=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买突击步枪。
+0x204FF4EC=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买突击步枪。
 
 ;0x2108752D=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of Micro SMG ammo.
-0x2108752D=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~微型冲锋枪弹药。
+0x2108752D=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~发微型冲锋枪子弹。
 
 ;0x235B89B7=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Micro SMG $840
-0x235B89B7=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~微型冲锋枪 $840
+0x235B89B7=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~微型冲锋枪 $840
 
 ;0x24AF060A=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Rocket Launcher purchased.
-0x24AF060A=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买火箭筒。
+0x24AF060A=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买火箭筒。
 
 ;0x26C200A4=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Sniper Rifle purchased.
-0x26C200A4=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买狙击步枪。
+0x26C200A4=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买狙击步枪。
 
 ;0x351D2D3A=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Sniper Rifle $5000
-0x351D2D3A=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~狙击步枪 $5000
+0x351D2D3A=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~狙击步枪 $5000
 
 ;0x35BA2700=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade for Launcher $700
-0x35BA2700=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~榴弹 $700
+0x35BA2700=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~榴弹 $700
 
 ;0x37E9EF8E=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~~1~ x Pipe Bombs purchased.
-0x37E9EF8E=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~~1~ x 土制炸弹已购买。
+0x37E9EF8E=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~枚土制炸弹。
 
 ;0x397CA749=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of Carbine Rifle ammo.
-0x397CA749=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~卡宾枪弹药。
+0x397CA749=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~发卡宾枪子弹。
 
 ;0x3D747B6F=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Pipe Bomb $700
-0x3D747B6F=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~土制炸弹 $700
+0x3D747B6F=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~土制炸弹 $700
 
 ;0x3F3FBA0B=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Rocket Launcher $10000
-0x3F3FBA0B=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~火箭筒 $10000
+0x3F3FBA0B=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~火箭筒 $10000
 
 ;0x3FD442A8=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Carbine Rifle $3500
-0x3FD442A8=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~卡宾枪 $3500
+0x3FD442A8=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~卡宾枪 $3500
 
 ;0x45D08B5B=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Pipe Bomb purchased.
-0x45D08B5B=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买土制炸弹。
+0x45D08B5B=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买土制炸弹。
 
 ;0x460D3F3A=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of Sniper Rifle ammo.
-0x460D3F3A=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~狙击步枪弹药。
+0x460D3F3A=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~发狙击步枪子弹。
 
 ;0x490140F3=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~10 x Combat Shotgun rounds $100
-0x490140F3=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~10 x 战斗霰弹枪子弹 $100
+0x490140F3=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~10 x 战斗霰弹枪子弹 $100
 
 ;0x4940CF2D=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Combat Shotgun purchased.
-0x4940CF2D=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买战斗霰弹枪。
+0x4940CF2D=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买战斗霰弹枪。
 
 ;0x4D6DDCBB=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~8 x Shotgun rounds $70
-0x4D6DDCBB=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~8 x 霰弹枪子弹 $70
+0x4D6DDCBB=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~8 x 霰弹枪子弹 $70
 
 ;0x4DC31C0C=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Sawn-Off Shotgun $600
-0x4DC31C0C=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~短管霰弹枪 $600
+0x4DC31C0C=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~短管霰弹枪 $600
 
 ;0x4EF2D105=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade purchased.
-0x4EF2D105=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买手雷。
+0x4EF2D105=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买手雷。
 
 ;0x5106E50D=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Shotgun $840
-0x5106E50D=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~霰弹枪 $840
+0x5106E50D=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~霰弹枪 $840
 
 ;0x5302E2B1=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of Combat Shotgun ammo.
-0x5302E2B1=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~战斗霰弹枪弹药。
+0x5302E2B1=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~发战斗霰弹枪子弹。
 
 ;0x547328A0=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of Automatic 9mm ammo.
-0x547328A0=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~全自动9mm手枪弹药。
+0x547328A0=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~发全自动9mm手枪子弹。
 
 ;0x5E107E00=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Body Armor $300
-0x5E107E00=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~防弹衣 $300
+0x5E107E00=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~防弹衣 $300
 
 ;0x5F8B7AA2=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade Launcher $7000
-0x5F8B7AA2=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~榴弹发射器 $7000
+0x5F8B7AA2=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~榴弹发射器 $7000
 
 ;0x6354FAF9=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Carbine Rifle purchased.
-0x6354FAF9=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买卡宾枪。
+0x6354FAF9=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买卡宾枪。
 
 ;0x67FF1B62=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~Not enough cash.
-0x67FF1B62=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~r~现金不足。
+0x67FF1B62=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~r~现金不足。
 
 ;0x69EA95B4=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Body Armor purchased.
-0x69EA95B4=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买防弹衣。
+0x69EA95B4=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买防弹衣。
 
 ;0x6A465446=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Automatic 9mm purchased.
-0x6A465446=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买全自动9mm手枪。
+0x6A465446=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买全自动9mm手枪。
 
 ;0x6ABF110D=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Assault Shotgun $3500
-0x6ABF110D=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~突击霰弹枪 $3500
+0x6ABF110D=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~突击霰弹枪 $3500
 
 ;0x6AF98A42=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~~1~ x Molotovs purchased.
-0x6AF98A42=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~~1~ x 燃烧瓶已购买
+0x6AF98A42=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~枚燃烧弹。
 
 ;0x6C411B81=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Assault Rifle $2450
-0x6C411B81=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~突击步枪 $2450
+0x6C411B81=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~突击步枪 $2450
 
 ;0x71399F22=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ x Launching Grenades.
-0x71399F22=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买 ~1~ x 榴弹。
+0x71399F22=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~枚榴弹。
 
 ;0x762473BF=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~9mm $420
-0x762473BF=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~9mm手枪 $420
+0x762473BF=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~9mm手枪 $420
 
 ;0x7777AB9A=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Sawn-Off Shotgun $600
-0x7777AB9A=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~短管霰弹枪 $600
+0x7777AB9A=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~短管霰弹枪 $600
 
 ;0x79E4B078=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Assault Shotgun purchased.
-0x79E4B078=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买突击霰弹枪。
+0x79E4B078=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买突击霰弹枪。
 
 ;0x7B0637EB=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~30 x Carbine Rifle rounds $70
-0x7B0637EB=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~30 x 卡宾枪子弹 $70
+0x7B0637EB=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~30 x 卡宾枪子弹 $70
 
 ;0x7E06BF0C=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~SMG $1750
-0x7E06BF0C=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~冲锋枪 $1750
+0x7E06BF0C=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~冲锋枪 $1750
 
 ;0x7FC0B2A0=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Knife purchased.
-0x7FC0B2A0=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买小刀。
+0x7FC0B2A0=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买匕首。
 
 ;0x80CFB5EE=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~~1~ x Grenades purchased.
-0x80CFB5EE=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~~1~ x 手雷已购买。
+0x80CFB5EE=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~枚手雷。
 
 ;0x81693E61=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~8 x Assault Shotgun rounds $25
-0x81693E61=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~8 x 突击霰弹枪子弹 $25
+0x81693E61=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~8 x 突击霰弹枪子弹 $25
 
 ;0x83080D7E=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Micro SMG $840
-0x83080D7E=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~微型冲锋枪 $840
+0x83080D7E=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~微型冲锋枪 $840
 
 ;0x83B6441B=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~~1~ x Rockets purchased.
-0x83B6441B=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~~1~ x 火箭弹已购买。
+0x83B6441B=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~枚火箭弹。
 
 ;0x8640C810=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Automatic 9mm $500
-0x8640C810=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~全自动9mm手枪 $500
+0x8640C810=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~全自动9mm手枪 $500
 
 ;0x8674C138=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~SMG purchased.
-0x8674C138=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买冲锋枪。
+0x8674C138=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买冲锋枪。
 
 ;0x8857D28E=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~30 x SMG rounds $20
-0x8857D28E=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~30 x 冲锋枪子弹 $20
+0x8857D28E=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~30 x 冲锋枪子弹 $20
 
 ;0x8C87207C=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Shotgun $840
-0x8C87207C=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~霰弹枪 $840
+0x8C87207C=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~霰弹枪 $840
 
 ;0x94FF6589=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Rocket for Launcher $3500
-0x94FF6589=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~火箭弹 $3500
+0x94FF6589=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~火箭弹 $3500
 
 ;0x9AE9F8D2=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Grenade $700
-0x9AE9F8D2=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~手雷 $700
+0x9AE9F8D2=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~手雷 $700
 
 ;0x9CF7F57E=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~17 x Automatic 9mm rounds $15
-0x9CF7F57E=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~17 x 全自动9mm手枪子弹 $15
+0x9CF7F57E=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~17 x 全自动9mm手枪子弹 $15
 
 ;0x9D09EE62=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of SMG ammo.
-0x9D09EE62=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~冲锋枪弹药。
+0x9D09EE62=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~发冲锋枪子弹。
 
 ;0x9E5C7967=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade Launcher purchased.
-0x9E5C7967=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买榴弹发射器。
+0x9E5C7967=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买榴弹发射器。
 
 ;0xA81C8357=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of 9mm ammo.
-0xA81C8357=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~9mm手枪弹药。
+0xA81C8357=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~发9mm手枪子弹。
 
 ;0xBE34F244=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Combat Shotgun $1500
-0xBE34F244=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~战斗霰弹枪 $1500
+0xBE34F244=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~战斗霰弹枪 $1500
 
 ;0xBFB94150=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You are already wearing full body armor.
-0xBFB94150=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~r~你已装备全满防弹衣。
+0xBFB94150=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~r~你已经装备完好的防弹衣。
 
 ;0xC3C14A80=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Molotov $350
-0xC3C14A80=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~燃烧瓶 $350
+0xC3C14A80=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~燃烧弹 $350
 
 ;0xC7000DBC=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Automatic 9mm $500
-0xC7000DBC=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~全自动9mm手枪 $500
+0xC7000DBC=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~全自动9mm手枪 $500
 
 ;0xC8149796=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade $700
-0xC8149796=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~手雷 $700
+0xC8149796=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~手雷 $700
 
 ;0xCB241C69=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Carbine Rifle $3500
-0xCB241C69=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~卡宾枪 $3500
+0xCB241C69=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~卡宾枪 $3500
 
 ;0xCB854A28=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of shotgun ammo.
-0xCB854A28=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~霰弹枪弹药。
+0xCB854A28=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~发霰弹枪子弹。
 
 ;0xCC6D5AAC=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~17 x 9mm rounds $25
-0xCC6D5AAC=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~17 x 9mm手枪子弹 $25
+0xCC6D5AAC=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~17 x 9mm手枪子弹 $25
 
 ;0xD1B657AE=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Molotov purchased.
-0xD1B657AE=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买燃烧瓶。
+0xD1B657AE=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买燃烧弹。
 
 ;0xD4B2A921=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Assault Shotgun $3500
-0xD4B2A921=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~突击霰弹枪 $3500
+0xD4B2A921=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~突击霰弹枪 $3500
 
 ;0xD6A734BB=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Knife $100
-0xD6A734BB=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~小刀 $100
+0xD6A734BB=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~匕首 $100
 
 ;0xD7D94FE5=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Combat Shotgun $1500
-0xD7D94FE5=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~战斗霰弹枪 $1500
+0xD7D94FE5=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~战斗霰弹枪 $1500
 
 ;0xDA5A67D2=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~9mm purchased.
-0xDA5A67D2=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买9mm手枪
+0xDA5A67D2=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买9mm手枪。
 
 ;0xDDA2FE37=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~9mm $420
-0xDDA2FE37=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~9mm手枪 $420
+0xDDA2FE37=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~9mm手枪 $420
 
 ;0xE501FE45=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You are already equipped with a knife.
-0xE501FE45=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~r~你已持有一把小刀。
+0xE501FE45=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~r~你已经拥有了匕首。
 
 ;0xE898D752=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Assault Rifle $2450
-0xE898D752=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~突击步枪 $2450
+0xE898D752=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~突击步枪 $2450
 
 ;0xEB74D6A5=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Grenade Launcher $7000
-0xEB74D6A5=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~榴弹发射器 $7000
+0xEB74D6A5=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~榴弹发射器 $7000
 
 ;0xEBAB9404=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~2 x Shotgun rounds $5
-0xEBAB9404=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~2 x 霰弹枪子弹 $5
+0xEBAB9404=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~2 x 霰弹枪子弹 $5
 
 ;0xEE67111B=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of Assault Rifle ammo.
-0xEE67111B=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~突击步枪弹药。
+0xEE67111B=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~发突击步枪子弹。
 
 ;0xF0AF68CB=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Sniper Rifle $5000
-0xF0AF68CB=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~狙击步枪 $5000
+0xF0AF68CB=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~狙击步枪 $5000
 
 ;0xF92E7218=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Rocket Launcher $10000
-0xF92E7218=你这个槽位已有一把武器。~n~按~INPUT_FRONTEND_ACCEPT~来替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~火箭筒 $10000
+0xF92E7218=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~火箭筒 $10000
 
 ;0xFCB23611=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of Assault Shotgun ammo.
-0xFCB23611=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~突击霰弹枪弹药。
+0xFCB23611=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~突击霰弹枪弹药。
 
 ;0xFDD02EBD=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Shotgun purchased.
-0xFDD02EBD=用~PAD_LSTICK_ALL~来选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买霰弹枪。
+0xFDD02EBD=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买霰弹枪。
 
