@@ -6,7 +6,7 @@
 0x391D3CC6=Johnny伙计，
 
 ;0x4CAD27EF=Ain't you got better things to do than look around at shit like this on the internet? Later, man.
-0x4CAD27EF=你没有比在网上看这些傻逼东西更好的事情要做吗？回见，伙计。
+0x4CAD27EF=整天看这种粪坑网站，你就这么闲着没事干吗？回见，伙计。
 
 ;0x629A0FBF=Brother,
 0x629A0FBF=兄弟，
@@ -18,7 +18,7 @@
 0x86EC5863=兄弟，
 
 ;0x9828BEE5=Deadbeat pricks.
-0x9828BEE5=死妈天使的笨蛋们。
+0x9828BEE5=傻逼死妈天使。
 
 ;0x9DCC862F=Johnny man,
 0x9DCC862F=Johnny伙计，
@@ -36,7 +36,7 @@
 0xBFD7CA3D=兄弟，
 
 ;0xC5EB6702=Check out this site, man. Fucking assholes! If ever you thought this war weren't worth fighting. <a href="www.angelsofdeathonline.com">www.angelsofdeathonline.com</a>
-0xC5EB6702=看看这个网站，伙计。他妈的傻逼！如果你认为这仗不值得打<a href="www.angelsofdeathonline.com">www.angelsofdeathonline.com</a>
+0xC5EB6702=看看这个网站，伙计。他妈的傻逼！看了你就知道这仗该打了。 <a href="www.angelsofdeathonline.com">www.angelsofdeathonline.com</a>
 
 ;0xC72BCFD8=Later man,
 0xC72BCFD8=回见，伙计，
