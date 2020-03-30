@@ -15,7 +15,7 @@
 0x1BA34CE6=~z~可我变了。知道吗Chad？
 
 ;0x25E6616C=~z~Was very willful, Chad, was very willful.
-0x25E6616C=~z~那是以前，Chad，以前
+0x25E6616C=~z~那是以前，Chad，以前。
 
 ;0x3AD48A58=~z~Here you go.
 0x3AD48A58=~z~接好。
@@ -87,7 +87,7 @@
 0xD7AF72E8=~z~呃……我知道，警官。
 
 ;0xE012DD7F=~z~-Come on guys, come on let's go.~n~-Alright man...
-0xE012DD7F=~z~-来吧兄弟们，该出发了~n~-好嘞...
+0xE012DD7F=~z~-来吧兄弟们，该出发了。~n~-好嘞...
 
 ;0xE469DE70=~z~Pray. I pray.
 0xE469DE70=~z~我会祈祷的。
