@@ -1,0 +1,58 @@
+﻿[EML16]
+;0x03D8F8F3=Dear Johnny,
+0x03D8F8F3=亲爱的Johnny,
+
+;0x09ECD552=Yours truly,
+0x09ECD552=诚挚的，
+
+;0x0B098754=Dear Johnny,
+0x0B098754=亲爱的Johnny,
+
+;0x194D23DB=Dear Johnny,
+0x194D23DB=亲爱的Johnny,
+
+;0x291893B9=Yours truly,
+0x291893B9=诚挚的，
+
+;0x2E874E4F=Dear Johnny,
+0x2E874E4F=亲爱的Johnny,
+
+;0x3AD63734=Yours truly,
+0x3AD63734=诚挚的，
+
+;0x3EA26E85=Dear Johnny,
+0x3EA26E85=亲爱的Johnny,
+
+;0x49353CA9=We look forward to welcoming you as a student at Harford University.
+0x49353CA9=我们期待能在哈佛大学像欢迎新生一样欢迎您。
+
+;0x5C7D7A82=Yours truly,
+0x5C7D7A82=诚挚的，
+
+;0x6E481E17=Yours truly,
+0x6E481E17=诚挚的，
+
+;0x70BC0BB6=Ph.d in Refrigerator Maintenance: Just $2,499!!!!! B.A. in Pharmaceutical Baking Just $1,399 B.A in Natural Healing: Just $1,199!!! Msc in Beach Management: Just $1,899!!! No attendance! No study! No exams! All you need is a valid credit card. Your new career is just one affordable payment away. Order today and we will throw in an MBA FREE OF CHARGE!!! What have you got to lose?
+0x70BC0BB6=冰箱维护的哲学博士:只要$2,499!!!!! 药物烘焙的文学硕士，只要$1,399自然疗法的文学硕士: 只要 $1,199!!! 海滩管理的理学博士：只要 $1,899!!! 不需要上课! 不需要学习! 没有考试! 你只需要一个有效的银行卡。 离你梦想中的工作只有一个汇款的距离了！ 今天下单，我们会免费赠给你一个工商管理硕士学位!!! 你还能失去什么呢?
+
+;0x79013389=Yours truly,
+0x79013389=诚挚的，
+
+;0x7EF7A82D=Wouldn't you like to boost your salary with a qualification from a prestigious academic institution? Are you aware that you can get a college degree in exchange for what you already know?!!! Can you imagine graduating with top honors in a matter of days rather than years? Harford University awards academic credit for life experience in a wide range of sought-after subjects:
+0x7EF7A82D=你不想通过一个著名学术机构的资格证书来提高你的薪水吗?你知道大学学位可以来索取所有的东西吗?!!! 你能想象从顶尖大学毕业仅需要几天而不是好几年吗? 哈佛大学正在众多吃香的专业中授予你终身学分:
+
+;0x8AC2D70C=Yours truly,
+0x8AC2D70C=诚挚的，
+
+;0xA7350FF0=Yours truly,
+0xA7350FF0=诚挚的，
+
+;0xD2A89693=Dear Johnny,
+0xD2A89693=亲爱的Johnny,
+
+;0xE15533EC=Dear Johnny,
+0xE15533EC=亲爱的Johnny,
+
+;0xF7135F68=Dear Johnny,
+0xF7135F68=亲爱的Johnny,
+
