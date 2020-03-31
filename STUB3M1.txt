@@ -1,0 +1,67 @@
+﻿[STUB3M1]
+;0x174BA28B=~r~You missed your chance.
+0x174BA28B=~r~你错过了你的机会。
+
+;0x24DE38F7=~r~You injured the hooker.
+0x24DE38F7=~r~你伤害了妓女。
+
+;0x3531D078=~s~There is the politician, use the phone to take a photo of him with the hooker.
+0x3531D078=~s~是那个政客，用手机拍一张他和妓女的照片。
+
+;0x610E1503=~s~Take an incriminating photo of the politician with the hooker.
+0x610E1503=~s~拍一张那个政客和妓女的罪证。
+
+;0x625186E2=~s~Send the photo to Stubbs.
+0x625186E2=~s~把照片发给Stubbs。
+
+;0x69697274=~r~You damaged the politician's car.
+0x69697274=~r~你损坏了政客的车。
+
+;0x6A858B3D=~s~Lose the cops.
+0x6A858B3D=~s~甩掉警察。
+
+;0x70293EFB=~s~The politician must be in the photo.
+0x70293EFB=~s~政客必须在照片里。
+
+;0x723CA903=~s~The politician drives a red Cognoscenti. Look out for him from this vantage point.
+0x723CA903=~s~那个政客开着一辆红色的Cognoscenti。在这个有利位置注意着他。
+
+;0x7E6E836E=~s~You got the photograph.
+0x7E6E836E=~s~你得到照片了。
+
+;0x8886C0F2=~r~You scared away the hookers by bringing the police in.
+0x8886C0F2=~r~你把条子带过来吓跑了妓女。
+
+;0x8DC3B6AE=~s~Quickly send the photo to Stubbs so he can use it.
+0x8DC3B6AE=~s~赶快将照片发给Stubbs，他就可以使用它了。
+
+;0x8DFA011D=~r~You spooked the politician.
+0x8DFA011D=~r~你吓坏了那个政客。
+
+;0xB30917A2=~s~Go to the ~y~lookout point~s~ on the roof and wait for the politician.
+0xB30917A2=~s~去屋顶的~y~观望点~s~等那个政客。
+
+;0xB7496EB0=~s~PHONE CALL~n~~n~Stubbs wants you to photograph ~n~a rival politician soliciting a hooker~n~ and then send him the evidence.
+0xB7496EB0=~s~PHONE CALL~n~~n~Stubbs希望你拍一张~n~一个竞争的政客招一个妓女的照片~n~然后把证据发给他。
+
+;0xBE27B91A=~s~The hooker must be in the photo.
+0xBE27B91A=~s~妓女必须在照片里。
+
+;0xBEC812DF=~r~You scared all the hookers away.
+0xBEC812DF=~r~你把所有的妓女都吓跑了。
+
+;0xBEE5C8A9=~s~That is not the politician.
+0xBEE5C8A9=~s~那不是那个政治家。
+
+;0xC40CA4E7=~s~Lose the cops before you go near the hookers.
+0xC40CA4E7=~s~在你靠近妓女之前甩掉警察。
+
+;0xDD6B8A78=~s~Go to the ~y~alley~s~ near the red light district.
+0xDD6B8A78=~s~去红灯区旁的~y~小巷~s~旁。
+
+;0xE293AD65=~r~You injured the politician.
+0xE293AD65=~r~你伤害了那个政治家。
+
+;0xFCC71E7B=~s~Phone Ho'
+0xFCC71E7B=~s~给他打电话
+
