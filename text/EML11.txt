@@ -1,73 +1,72 @@
 ﻿[EML11]
 ;0x0BF4D36F=Look after yourself,
-0x0BF4D36F=Look after yourself,
+0x0BF4D36F=照顾好你自己。
 
 ;0x0EDDF548=Blah. Blah. Blah. At least I know what I'm fighting for. Look after yourself. John.
-0x0EDDF548=Blah. Blah. Blah. At least I know what I'm fighting for. Look after yourself. John.
+0x0EDDF548=一言难尽。至少我知道自己在为什么而奋斗。照顾好你自己。John。
 
 ;0x1CA37A47=Whoa. Dude? You should talk to a head doctor.
-0x1CA37A47=Whoa. Dude? You should talk to a head doctor.
+0x1CA37A47=哇。老兄？你应该和一个主治医师谈谈。
 
 ;0x1D1250B3=John,
-0x1D1250B3=John,
+0x1D1250B3=John，
 
 ;0x2186FE93=Your Brother,
-0x2186FE93=Your Brother,
+0x2186FE93=你的哥哥，
 
 ;0x22A600D1=Look after yourself,
-0x22A600D1=Look after yourself,
+0x22A600D1=照顾好你自己，
 
 ;0x34A07FCF=Dear John,
-0x34A07FCF=Dear John,
+0x34A07FCF=亲爱的John，
 
 ;0x4214C539=I love you, too bro. And out of a place of love I make one comment - you get on some very strong medication to deal with the fact you've lost your fucking mind, you messianic dip shit.
-0x4214C539=I love you, too bro. And out of a place of love I make one comment - you get on some very strong medication to deal with the fact you've lost your fucking mind, you messianic dip shit.
+0x4214C539=我也爱你，兄弟。所以出于爱的原因我想说一句—你得吃点强效药来解决你失去理智的事实，你这狂热的混蛋。
 
 ;0x5518E5B6=Your Brother,
-0x5518E5B6=Your Brother,
+0x5518E5B6=你的哥哥，
 
 ;0x5CAD6E0E=You always were a smart ass with all the answers. i have a country. You have nothing. Mom and Dad were right about you, you smug little shit. I will fuck you up when I see you. Mark my words. Disrespecting me like that. And my country. My country. I've seen men die for that shit, you junkie piece of shit. And happily. You would only die for drugs or money. You're a rat, not a man.
-0x5CAD6E0E=You always were a smart ass with all the answers. i have a country. You have nothing. Mom and Dad were right about you, you smug little shit. I will fuck you up when I see you. Mark my words. Disrespecting me like that. And my country. My country. I've seen men die for that shit, you junkie piece of shit. And happily. You would only die for drugs or money. You're a rat, not a man.
+0x5CAD6E0E=你总是对所有答案自作聪明。我背后有一个国家。你屁都没有。爸爸妈妈对你的看法是对的，你个自以为是的混蛋。当我看到你就会收拾你。记住我的话。像那样不尊重我和我的国家，我的国家。我已经见过有人因为这种破事死了，你个混蛋。幸运的是，你只会为毒品或钱而死。你个卑鄙的家伙，不配做人。
 
 ;0x80059694=Dear John,
-0x80059694=Dear John,
+0x80059694=亲爱的John，
 
 ;0xA66F8866=Look after yourself,
-0xA66F8866=Look after yourself,
+0xA66F8866=照顾好你自己，
 
 ;0xA7C5843D=What about the life you chose led you to make such stupid choices? Billy Grey? Give me a break. He always was an arsehole. Back in the neighborhood, he was a jackass thinking he was Jesus on an acid trip when we were fifteen and you were 10. That was a long time ago. i hope you don't still look up to that asshole, pardon my fucking French.
-0xA7C5843D=What about the life you chose led you to make such stupid choices? Billy Grey? Give me a break. He always was an arsehole. Back in the neighborhood, he was a jackass thinking he was Jesus on an acid trip when we were fifteen and you were 10. That was a long time ago. i hope you don't still look up to that asshole, pardon my fucking French.
+0xA7C5843D=你选择了什么样的生活，来让你做出如此蠢的选择？Billy Grey？饶了我吧。他一直都是个傻逼。就说以前住在一起的时候，在我15岁你10岁的时候，那混蛋磕了药，以为自己是上帝。那已经是很久以前的事了。我希望你别再看那个傻逼了，原谅我糟糕的法语。
 
 ;0xB5E0824D=John,
-0xB5E0824D=John,
+0xB5E0824D=John，
 
 ;0xBE38B7F8=Your Brother,
-0xBE38B7F8=Your Brother,
+0xBE38B7F8=你的哥哥，
 
 ;0xC1841998=John,
-0xC1841998=John,
+0xC1841998=John，
 
 ;0xC518BEE3=I hope this mail finds you well and happy and law abiding. I doubt the later, but a brother can hope, can't he? I got shot at yesterday and saw someone have their leg blown off. i saw three kids die last week. My life is one long orgy of death and horror. At least i know i am on the right side. i miss you, man. You have a heart.
-0xC518BEE3=I hope this mail finds you well and happy and law abiding. I doubt the later, but a brother can hope, can't he? I got shot at yesterday and saw someone have their leg blown off. i saw three kids die last week. My life is one long orgy of death and horror. At least i know i am on the right side. i miss you, man. You have a heart.
+0xC518BEE3=我希望这封邮件能使你好起来，开心起来，遵守法律起来。我怀疑后者，但作为一个哥哥可以有所希望，难道不能吗？我昨天挨了一枪，看见有人腿被炸了。我上周看到三个孩子死了。我的生活就是死亡和恐惧的漫长狂欢。至少我知道我是正确的。我想你了，伙计。发发善心吧。
 
 ;0xC73B2506=Dear John,
-0xC73B2506=Dear John,
+0xC73B2506=亲爱的John，
 
 ;0xC9B2A9F1=Dear John,
-0xC9B2A9F1=Dear John,
+0xC9B2A9F1=亲爱的John，
 
 ;0xD88B6C9D=Your Brother,
-0xD88B6C9D=Your Brother,
+0xD88B6C9D=你的哥哥，
 
 ;0xD92A6706=You will throw your whole life way. For a guy who wouldn't piss on you if you were on fire. I know we've been over this a thousand times, but my life is kind of stressful right now.
-0xD92A6706=You will throw your whole life way. For a guy who wouldn't piss on you if you were on fire. I know we've been over this a thousand times, but my life is kind of stressful right now.
+0xD92A6706=你会抛弃你全部的生活。为了一个即使你着火也不会对你撒尿的人。我知道我们已经说过成千上万次了，但是我现在生活有点压力。
 
 ;0xDA554B36=John,
-0xDA554B36=John,
+0xDA554B36=John，
 
 ;0xEF551A30=Look after yourself,
-0xEF551A30=Look after yourself,
+0xEF551A30=照顾好你自己，
 
 ;0xFD065195=Thanks for your input Mikey. I miss you, man. I think about you, but I made different choices to you. Doesn't seem like either of our choices panned out so good. We both get shot at. And both of us are fighting other people's battles. Look after yourself. John
-0xFD065195=Thanks for your input Mikey. I miss you, man. I think about you, but I made different choices to you. Doesn't seem like either of our choices panned out so good. We both get shot at. And both of us are fighting other people's battles. Look after yourself. John
-
+0xFD065195=谢谢你的建议，Mikey。我想你了，伙计。我考虑到你，但是我为你做出了不同选择。看来我们的选择都不怎么好。我们都得到了机会。我们都在为别人而战。照顾好你自己。John
