@@ -3,13 +3,13 @@
 0x15548382=骑车注意安全，
 
 ;0x40872EDA=Let's give him a chance, man. Brothers for life. No matter what. Johnny.
-0x40872EDA=让我们给他一个机会吧，伙计。一生的兄弟。无论如何。 Johnny。
+0x40872EDA=给他一次机会吧，哥们。毕竟大家是一辈子的兄弟。Johnny。
 
 ;0x53F880D1=Ride safe,
 0x53F880D1=骑车注意安全，
 
 ;0x54A9944B=World ain't what we thought it was, and people we trusted turned out to be scum. I miss Jim. More than anything. He was the real deal. The man we all wanted to be.
-0x54A9944B=世界不是我们想的那样，我们信任的人都成了人渣。我想Jim了。超过任何东西。他是正确的人选。我们都想成为的人。
+0x54A9944B=世界不是我们想象的那样，我们信任的人其实是些人渣。我很想念Jim，想念他超过一切。他才是真正的好汉，我们都想成为的好汉。
 
 ;0x6867BBC7=Fuck. We'll see, man. We'll see.
 0x6867BBC7=操。我们会看到的，伙计。我们都会看到的。
@@ -21,16 +21,16 @@
 0x78E4CAA9=骑车注意安全，
 
 ;0x88BF5538=Johnny man,
-0x88BF5538=Johnny伙计，
+0x88BF5538=Johnny哥，
 
 ;0x8EDA7694=Be safe,
 0x8EDA7694=注意安全，
 
 ;0x9629B7C6=So, they let him out? Ridiculous in some ways. Man, it's tough. I love my brothers, all of them, but there's brothers who stood by me, (you, Jim, Clay and a few others) and brothers who said they would, and I think we know which camp Billy and Brian fall into. This is my life now. I can't ride into the sunset. I can't ride into anything. I'm stuck in a chair and I need money.
-0x9629B7C6=所以，他们放他出来了？在某些方面这有些荒谬。伙计，这很艰难。我爱我的兄弟，所有人，但也有兄弟支持我，（你，Jim，Clay和其他几个人）兄弟们说他们会的，我想我们知道Billy和Brian在哪一方。这就是我现在的生活。我不能骑车去看日落。我不能加入任何事。我被困在一把椅子上。我需要钱。
+0x9629B7C6=他这就被放出来了？真的是有点荒谬。兄弟，真的太难了。我爱我的兄弟们，我爱所有兄弟，但兄弟里面有确实念着我的(你、Jim、Clay和其他几个)，也有说会念着我的。Billy和Brian是哪种你我应该心知肚明。这就是我现在的生活，我不可能骑车奔向夕阳，不可能骑车奔向任何地方。我被困在了轮椅上，我还需要钱。
 
 ;0xA52E0E15=Johnny man,
-0xA52E0E15=Johnny伙计，
+0xA52E0E15=Johnny哥，
 
 ;0xA9BF2C5D=Be safe,
 0xA9BF2C5D=注意安全，
@@ -42,37 +42,37 @@
 0xB82DC93A=骑车注意安全，
 
 ;0xBAF60162=Well I guess that's that then. You did what had to be done. And that's why you're a brother and why it's time to move on with our lives. End the charade that this gang meant anything. Do it for Jim.
-0xBAF60162=我想，就这样吧。你做了该做的。这就是为什么你是我的兄弟，为什么是时候继续我们的生活了。结束帮派意味着任何事的伪装吧。就当是为Jim做的。
+0xBAF60162=我想，就这样吧。你做了该做的事。所以你才是兄弟，所以现在该让我们的日子继续下去了。揭下「一切为了帮会」的伪装吧。就当是为Jim揭下的。
 
 ;0xC1AAC70E=Johnny man,
-0xC1AAC70E=Johnny伙计，
+0xC1AAC70E=Johnny哥，
 
 ;0xC36B34A0=I hear you, brother. Whatever happens, you know me and you are brothers. Johnny.
-0xC36B34A0=我懂你的意思，伙计。不管发生什么，你知道我们俩都是兄弟。
+0xC36B34A0=我知道了，兄弟。不管发生什么，我们两个都是兄弟。Johnny。
 
 ;0xC3A84AD3=Amen to that brother.
-0xC3A84AD3=同意那个兄弟。
+0xC3A84AD3=我只能阿门了，兄弟。
 
 ;0xCD09A589=So it's come to this. the Lost MC showing that it was all a load of bullshit and all them oaths we swore really never meant shit to anyone. Well, Johnny, you got my blessing. I'm with you, all the way. If i weren't in a fucknig chair, I'd kill them fucks myself. They ain't human beings, let alone brothers. They are scum. Real low life scum. You got my blessing. Do what's got to be done.
-0xCD09A589=所以事情到了这个地步。Lost MC说明了他们宣誓我们从不冒犯任何人是一堆废话。好吧，Johnny，我祝福你。我会一直支持着你。如果我不在那该死的椅子上，我自己也会杀了他们。那不是人干的事，更别说兄弟了。他们是人渣。真正的下流人渣。我祝福你。做该做的事吧。
+0xCD09A589=终于还是这样了。我们加入失落摩托时的誓言都成了空话，根本没人在乎。好吧，Johnny，我祝福你。我会永远支持你。要不是因为我只能坐傻逼轮椅，老子就亲自杀了那帮崽种了。他们根本不是人，更别提当兄弟了。他们是一群渣滓，真正下贱的渣滓。我支持你。做该做的事吧。
 
 ;0xCFF563A3=Brother,
 0xCFF563A3=兄弟，
 
 ;0xD4A3ECCE=Shit's fucked up brother.
-0xD4A3ECCE=我他妈的搞砸了，兄弟。
+0xD4A3ECCE=真的是出事了，兄弟。
 
 ;0xE87714AA=Brother,
 0xE87714AA=兄弟，
 
 ;0xF0B06CD6=I need it so we have to keep making it. It's tough. I hope Billy don't fuck it up for all of us. He nearly did last time. We are a small crew. We can't beat the Deadbeats, but we can live alongside them. Billy will come out and go on a rampage. And Brian and those other clowns will drag us all along. It ain't going to be good. It's just a question of how bad.
-0xF0B06CD6=我需要我们继续去努力。这很艰难。我希望Billy不要把我们都搞砸了。他上次差点死了。我们是一个小团体。我们不能打败死妈天使，但是我们可以和他们和平共处。而Billy只会出来蛮横地和他们干架。Brian和其他傻子们也会拖我们后腿。那不可能有好结果的，问题只是有多糟。
+0xF0B06CD6=我需要钱，所以我们就得努力打拼。实在太难了。希望Billy出来后不会把我们的事情搞砸。上次他差不多就搞砸了。我们只有一小撮人，无法打败死妈天使，但我们可以与他们共生。Billy出来后肯定会找他们干架，Brian和其他傻子肯定也会把我们拉上。以后肯定没好日子过了，就是不知道会有多糟糕。
 
 ;0xF0EB257E=Brother,
 0xF0EB257E=兄弟，
 
 ;0xF634B025=Johnny man,
-0xF634B025=Johnny伙计，
+0xF634B025=Johnny哥，
 
 ;0xF6CDC661=Be safe,
 0xF6CDC661=注意安全，
