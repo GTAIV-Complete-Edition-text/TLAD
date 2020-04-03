@@ -1,0 +1,31 @@
+﻿[LBTR110]
+;0x0477AEF5=We thinks she doth protest too much
+0x0477AEF5=我们认为最近她抗议的太过了
+
+;0x24D9851C="My husband is straight," says Interior's Designer's wife.
+0x24D9851C="我的老公是直的，" 室内设计师的妻子说。
+
+;0x343E10A5=Staff Writer
+0x343E10A5=编剧
+
+;0x50C9003C=Could prison be a dangerous place?
+0x50C9003C=监狱也是个危险的地方吗？
+
+;0x8BC7C010=What Went Wrong at Alderney State?
+0x8BC7C010=Alderney州的监狱有什么差池？
+
+;0xB7DD2515=Will they all kill each other, and save us the bother?
+0xB7DD2515=他们会互相残杀，还是拯救我们弟兄？
+
+;0xCE9DD755=Tony J. Smith
+0xCE9DD755=Tony J. Smith
+
+;0xE6EDD044=After the recent murderous incident at Alderney State Correctional Facility, a security review is being called for. Sally Butters of Moms for a Police State says she's "sick and tired of criminals stealing from us. We want to put them to work in order to make the US economy the powerhouse it once was. The private medical sector has worked so well for this country, why can't we privatize everything?"
+0xE6EDD044=在最近奥尔德尼州监狱的谋杀案发生之后，我们迫切需要一份安保反思。 Sally Butters of Moms for a Police State says she's "受够了罪犯从我们这里偷东西。 我们想要让他们去工作，来让美国经济恢复原先那样强大。私人医院一直以来为这个国家工作的这么好， 为什么我们不能让所有的东西都私有化?"
+
+;0xF30835BC=Ever since the flamboyant interior designer, Dalton Randolph, hit the public eye as star of the home makeover show Posh Touch For Poor Schmucks, online message boards have buzzed with claims that he is as gay as a picnic basket and his marriage is a sham. Now, finally, Dalton and his wife Betania have decided to speak out against the constant barrage of accusations. In an exclusive interview, Betania told the Liberty Tree, "He hasn't decorated my interior since the wedding night, I'll admit, but I know what my husband is and isn't. I'd never dream of going shopping for clothes without him. Nobody understands layering like Dalton. Can't a man wear fuchsia and depilate these days without being called gay?" Randolph, who says that he is waging a one-man war against terracotta, is best-known for jumping up and down and clapping while squealing, "What is this hot mess?" when he walks into somebody's house for the first time. The jury might still be out on this one.
+0xF30835BC=自从卖弄的室内设计师, Dalton Randolph,在傻瓜们爱看的室内翻新秀《润饰之触》上一炮而红，部分网络舆论显示，他实际上是一个十足的男同性恋者并且他的婚姻是冒牌的。 现在，最终Dalton和他的妻子Betania决定公开反对持续不断的流言。在一场专访中, Betania告诉《自由之树》的记者, "自从和他结婚以来他没有装饰过我的内饰, 我承认，但是我清楚我的老公是什么样的人，并且他不像流言那般。 我几乎无法想象如果离开他了我怎么去买衣服。 其他人是不能明白Dalton的丰富内心的。 难道现在的男人穿着红色衣服并且热衷于剔除体毛会不被认为是一个男同性恋吗" Randolph表示他正在发动一场反对土红色的单人战争，并且他因为在尖叫的时候拍手并上蹿下跳而闻名，当他第一次偷偷溜进别人家里的时候，大家都很奇怪 "这个精神小伙在干啥?"当然陪审团可能还在忙于处理这件事呢。
+
+;0xF91B749F=Certain liberal groups have blamed the incident on strict prison rules. They call for regular meditation sessions and Reiki training for all guards. Earth-Song Bowden, a campaigner for prisoner rights, says "most violent tendencies can be traced to a misalignment of Chakras. We need to treat the cause of the problem. Not the symptom." Whatever the reason for what happened, something has to change at Alderney State. Parents have enough to worry about with terrorists on the loose and our economy failing, our prisons must remain secure.
+0xF91B749F=部分自由主义群体已经把这次事件的起因归咎于严格的监狱条例.他们呼吁所有的保安都改定期冥想和训练灵气。 Earth-Song Bowden, 一个犯人人权运动号召者，表示 "大多数暴力倾向可以追溯到脉轮失调。我们应该从根本上解决问题，而不应该是表象。" 无论发生的事情是出于何种理由，Alderney州必须做出一些改变。 父母们已经够担心逍遥法外的恐怖分子和我们的经济危机了，我们的监狱必须要保证安全。
+
