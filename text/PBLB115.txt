@@ -2,27 +2,34 @@
 ;0x31A4E19A=S. Fiona Scott
 0x31A4E19A=S. Fiona Scott
 
-;0x3D1E0116=The greed and corruption of war-mongering politicians has left our economy in tatters. Air Sol squandered half a billion dollars last year on executive bonuses. People that run companies shouldn't get rich. We at PLO are all in favor of raising taxes. But when Big Business thinks it can start taxing our bodily functions, it's time to make a stand. Boycott the airlines. Take the bus. March on the White House. Wear sloganned t-shirts. Eat more sprouts. Your consumer choices CAN make a difference. The people still have the power. Honestly.
-0x3D1E0116=The greed and corruption of war-mongering politicians has left our economy in tatters. Air Sol squandered half a billion dollars last year on executive bonuses. People that run companies shouldn't get rich. We at PLO are all in favor of raising taxes. But when Big Business thinks it can start taxing our bodily functions, it's time to make a stand. Boycott the airlines. Take the bus. March on the White House. Wear sloganned t-shirts. Eat more sprouts. Your consumer choices CAN make a difference. The people still have the power. Honestly.
 
-;0x40ED8B55=Just as workers were getting their work-life balance back, corporations are crushing resistance, forcing employees to stay at their constraining cubicles, not surf the internet for seventy five percent of the day, and show up on time. Another casualty this week as Sandra McColland collapsed while at work. Many therapists and holistic specialists believe an open attendance policy, lack of management hierarchy, and daily breaks to catch up on literature about celebrities creates a happy and fruitful workplace.
-0x40ED8B55=Just as workers were getting their work-life balance back, corporations are crushing resistance, forcing employees to stay at their constraining cubicles, not surf the internet for seventy five percent of the day, and show up on time. Another casualty this week as Sandra McColland collapsed while at work. Many therapists and holistic specialists believe an open attendance policy, lack of management hierarchy, and daily breaks to catch up on literature about celebrities creates a happy and fruitful workplace.
+;0x3D1E0116=The greed and corruption of war-mongering politicians has left our economy in tatters. Air Sol squandered half a billion dollars last year on executive bonuses. People that run companies shouldn't get rich. We at PLO are all in favor of raising taxes. But when Big Business thinks it can start taxing our bodily functions,it's time to make a stand. Boycott the airlines. Take the bus. March on the White House. Wear sloganned t-shirts. Eat more sprouts. Your consumer choices CAN make a difference. The people still have the power. Honestly.
+0x3D1E0116=好战政客们的贪婪和腐败让我们的经济千疮百孔。Air Sol 公司去年在高管奖金上浪费了五亿美元。经营企业的人不应该发家致富。我社人士都赞成加税。但当大企业认为它会开始耗费我们的身体机能时，就是时候表明立场了。联合抵制航空公司。乘坐公共汽车。向白宫进军。穿印有标语的T恤。多吃豆芽。你的消费选择可以带来改变。真诚的说，人民依然有着力量。
+
+
+;0x40ED8B55=Just as workers were getting their work-life balance back,corporations are crushing resistance,forcing employees to stay at their constraining cubicles,not surf the internet for seventy five percent of the day,and show up on time. Another casualty this week as Sandra McColland collapsed while at work. Many therapists and holistic specialists believe an open attendance policy,lack of management hierarchy,and daily breaks to catch up on literature about celebrities creates a happy and fruitful workplace.
+0x40ED8B55=正当工人们重新获得工作与生活的平衡时，公司正在反抗粉碎阻力，强迫员工留在他们狭小的隔间里。一天中有75%的时间不能在网上冲浪，而且必须准时露面。另一位受害者Sandra McColland 本周在工作中精神崩溃。很多治疗专家和整体护理专家都信任开放的护理政策，缺乏管理等级制度。还有，每天利用休息时间阅读有关名人的文学作品，可以营造一个快乐而富有成效的工作环境。
+
 
 ;0x56A93D22=Mile high madness.
-0x56A93D22=Mile high madness.
+0x56A93D22=海拔高得疯狂
 
-;0xBBE4FEA2=Are you incontinent, diabetic or menstruating? Make sure you arrive at the airport with a big bag of quarters for your next flight (although be aware that you'll probably exceed your weight allowance). In a last-ditch attempt to sustain their record levels of profit, Air Sol has announced that pay toilets have been installed on all its aircraft. Passengers will now be charged $2 for a number one and $3 for a number two. Where will this lunacy end? $20 for a life jacket? And, yes, before all the CEOs start whining from the top of their ivory towers, we know what's at the root of all this nickel-and-diming: Oil.
-0xBBE4FEA2=Are you incontinent, diabetic or menstruating? Make sure you arrive at the airport with a big bag of quarters for your next flight (although be aware that you'll probably exceed your weight allowance). In a last-ditch attempt to sustain their record levels of profit, Air Sol has announced that pay toilets have been installed on all its aircraft. Passengers will now be charged $2 for a number one and $3 for a number two. Where will this lunacy end? $20 for a life jacket? And, yes, before all the CEOs start whining from the top of their ivory towers, we know what's at the root of all this nickel-and-diming: Oil.
+
+;0xBBE4FEA2=Are you incontinent,diabetic or menstruating? Make sure you arrive at the airport with a big bag of quarters for your next flight (although be aware that you'll probably exceed your weight allowance). In a last-ditch attempt to sustain their record levels of profit,Air Sol has announced that pay toilets have been installed on all its aircraft. Passengers will now be charged $2 for a number one and $3 for a number two. Where will this lunacy end? $20 for a life jacket? And,yes,before all the CEOs start whining from the top of their ivory towers,we know what's at the root of all this nickel-and-diming: Oil.
+0xBBE4FEA2=您是否有大小便失禁、糖尿病或月经来潮的情况?确保你到达机场时带着一大袋25美分的硬币准备下一趟航班（尽管要知道可能会超过重量限额）。这是他们试图维持创纪录利润水平的最后努力，Air Sol 公司宣布在其所有飞机上都安装了付费厕所。现在，乘客乘坐1号机型航班将要支付2美元，2号机型3美元。这种精神失常会在何时结束？20美元买一件救生衣？此外，是的，在所有CEO们在他们的象牙白高塔的顶端开始发闹骚之前，我们知道所有这些斤斤计较的小事的根源是什么：石油。
+
 
 ;0xCDC16318=Corporations crushing the soul of workers
-0xCDC16318=Corporations crushing the soul of workers
+0xCDC16318=公司摧毁了劳动工人们的灵魂
+
 
 ;0xDCDCA850=A legacy of torment
-0xDCDCA850=A legacy of torment
+0xDCDCA850=源于折磨的遗产
+
 
 ;0xE227E9FF=Joshua Crane
 0xE227E9FF=Joshua Crane
 
-;0xF684F1F9=Air travelers need to be more flush than ever.
-0xF684F1F9=Air travelers need to be more flush than ever.
 
+;0xF684F1F9=Air travelers need to be more flush than ever.
+0xF684F1F9=航空旅客们的脸必须比以往任何时候都红。
