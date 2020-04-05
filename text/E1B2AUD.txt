@@ -12,28 +12,28 @@
 0x03430187=~z~哈哈哈，去你妈的死妈天使。
 
 ;0x056DCA46=~z~Come on, don't you want to party with me?!
-0x056DCA46=~z~Come on, don't you want to party with me?!
+0x056DCA46=~z~来吧，你不想和我开个派对吗？
 
 ;0x07251CF4=~z~you would just taken mine and left me on the road. Later, bro.
 0x07251CF4=~z~你会直接开走我的车，把我晾在路上。再见，老兄。
 
 ;0x0893E876=~z~Billy, man. Shit! The Lost ain't much without the chapter President. What're we gonna do?
-0x0893E876=~z~Billy, man. Shit! The Lost ain't much without the chapter President. What're we gonna do?
+0x0893E876=~z~Billy，伙计。妈的！分会主席挂了，失落机车帮就全完了。我们该怎么办？
 
 ;0x093C5901=~z~I'm sorry. You enjoy your little party.
-0x093C5901=~z~那我很抱歉。你继续享受你的小派对。
+0x093C5901=~z~噢，我很抱歉。那您就继续享受你的小派对吧。
 
 ;0x0A3F1EB6=~z~Good night, buddy
-0x0A3F1EB6=~z~安息吧，老哥
+0x0A3F1EB6=~z~安息吧，老兄
 
 ;0x0B69A944=E1B2_KA
 0x0B69A944=E1B2_KA
 
 ;0x0C4327CF=~z~Let's get those Deadbeats.
-0x0C4327CF=~z~让我们去抓住那些死妈天使。
+0x0C4327CF=~z~让我们干掉那些死妈天使。
 
 ;0x0CF5B246=~z~Fucking Losers.
-0x0CF5B246=~z~该死的失败者。
+0x0CF5B246=~z~一群废物。
 
 ;0x0D8423FF=~z~but I'm seeing this hot Russian broad over on Firefly Island.
 0x0D8423FF=~z~但我在Firefly岛上看到了这个身材火爆的俄罗斯女人。
@@ -51,7 +51,7 @@
 0x13CC0262=592
 
 ;0x14E7B879=~z~Ha ha ha. If your bike got trashed when I was a prospect,
-0x14E7B879=~z~哈哈哈。我见习的时候如果你的车报废了，
+0x14E7B879=~z~哈哈哈。那时候如果你的车报废了，
 
 ;0x15C4B2CE=600
 0x15C4B2CE=600
@@ -63,7 +63,7 @@
 0x16A7816B=~z~操！我没追上他们。
 
 ;0x1914F8B2=~z~Might I tempt you in a swift libation, my most trusted and honored guest?
-0x1914F8B2=~z~要我给你倒杯饮料吗，我最信任最尊贵的客人？
+0x1914F8B2=~z~要我给你倒杯饮料吗，这位客人？
 
 ;0x19B3BD9F=~z~Sorry about that.
 0x19B3BD9F=~z~很抱歉。
@@ -90,7 +90,7 @@
 0x1DAF9B09=~z~死妈天使？他们在这干嘛？
 
 ;0x1FEB3AD7=~z~A.O.D. ain't nothing.
-0x1FEB3AD7=~z~死亡天使什么都不是。
+0x1FEB3AD7=~z~死亡天使就是一群垃圾。
 
 ;0x221F83A9=~z~Please don't get away.
 0x221F83A9=~z~请别走。
@@ -117,7 +117,7 @@
 0x2F98F6AC=E1B2_MA
 
 ;0x314D6E00=~z~Fuck, we gotta get these chumps before they tell the rest of their chapter.
-0x314D6E00=~z~妈的，我们得在这些笨蛋告诉其他人之前抓住他们。
+0x314D6E00=~z~妈的，我们得在这些笨蛋告诉其他人之前干掉他们。
 
 ;0x31E22EDF=690
 0x31E22EDF=690
@@ -213,7 +213,7 @@
 0x60C0728F=090
 
 ;0x61BC34F1=~z~What the fuck was that? Some kind of fucking coup? Billy was chapter President, man.
-0x61BC34F1=~z~那他妈的是什么？什么他妈的政变？Billy是分会会长，伙计。
+0x61BC34F1=~z~那他妈的是什么？是他妈的政变吗？Billy是分会会长，伙计。
 
 ;0x6772D91C=~z~Poor bike.
 0x6772D91C=~z~可怜的摩托车。
@@ -228,10 +228,10 @@
 0x6BD1410B=~z~失落机车帮的派对永远不欢迎死亡天使参加。
 
 ;0x6D20FD39=~z~Shit. There ain't no stopping a war now, is there?
-0x6D20FD39=~z~操。现在不能停止战争了，是吗？
+0x6D20FD39=~z~操。现在不是休战期了，是吗？
 
 ;0x6E1038BF=~z~You're all Losers.
-0x6E1038BF=~z~你们都是失败者。
+0x6E1038BF=~z~你们都是废物。
 
 ;0x6E49D7B3=~z~Run away you fat racist assholes
 0x6E49D7B3=~z~逃吧，你们这群种族主义肥猪
@@ -288,7 +288,7 @@
 0x7E0C104E=SFX_PAUSE_350
 
 ;0x813E11DB=~z~AOD gonna pay for that. Let's get 'em.
-0x813E11DB=~z~死妈天使们要付出代价。快去抓住他们。
+0x813E11DB=~z~死亡天使要付出代价。快去干掉他们。
 
 ;0x822B999D=092
 0x822B999D=092
@@ -303,7 +303,7 @@
 0x853FD528=~z~嘿，Johnny，我知道我管不着，但你应该好好照顾你的车，伙计。
 
 ;0x8628FDCA=~z~I dunno what was going through this head a mine. I'll go think on it. See you round, Jason.
-0x8628FDCA=~z~我不知道什么正在穿过这些。我去考虑一下。回头见，Jason。
+0x8628FDCA=~z~我不知道这家伙脑子里到底在想些什么。我去考虑一下。回头见，Jason。
 
 ;0x86475C49=~z~He's the head of this chapter, man. If Billy wants a war, then all the brothers best get ready to fight.
 0x86475C49=~z~他是这个分部的老大，伙计。如果Billy想开战，所有弟兄们都要准备开始战斗。
@@ -321,7 +321,7 @@
 0x8A74C340=~z~加油站的那个傻瓜服务员问我：
 
 ;0x8BC6F3B2=~z~Have another drink or somethin' but calm the fuck down.
-0x8BC6F3B2=~z~再来杯酒，或者喝点别的，但是给我冷静点。
+0x8BC6F3B2=~z~再来杯酒，或者喝点别的，但是他妈给我冷静点。
 
 ;0x8C31A469=E1B2_TC
 0x8C31A469=E1B2_TC
@@ -339,7 +339,7 @@
 0x95743AC4=E1B2_DA
 
 ;0x96FAA910=~z~We ain't Losers, we're The Lost.
-0x96FAA910=~z~我们不是失败者，我们是失落机车帮。
+0x96FAA910=~z~废你妈的废物，我们是失落机车帮。
 
 ;0x971D0535=~z~He'll be missed, brother. See you at Church.
 0x971D0535=~z~他会被人铭记的，兄弟。教堂见。
@@ -420,7 +420,7 @@
 0xBD507F70=SFX_PAUSE_210
 
 ;0xBFEC0A0D=~z~That's bad craftsmanship.
-0xBFEC0A0D=~z~手艺太差了。
+0xBFEC0A0D=~z~手艺太烂了。
 
 ;0xC000B935=100090010
 0xC000B935=100090010
@@ -438,7 +438,7 @@
 0xC4D5150D=~z~必须赶快阻止这些人告诉其他的死亡天使。
 
 ;0xC4F6E139=~z~We're brothers. We'll pull through this, kid. Adios.
-0xC4F6E139=~z我们是兄弟。我们会挺过去的，孩子。再见。
+0xC4F6E139=~z~我们是兄弟。我们会挺过去的，孩子。再见。
 
 ;0xC5B41460=~z~Gonna drink her daddy's expensive vodka and fuck her under the pier.
 0xC5B41460=~z~准备喝她爸爸昂贵的伏特加，然后再码头下面干她。
@@ -516,7 +516,7 @@
 0xE452E101=~z~别再叫我们“死妈天使”。
 
 ;0xE4D8903A=~z~But, let me tell you, it's a strange kind of truce that makes
-0xE4D8903A=~z~但是，让我告诉你，这是一种奇妙的休战
+0xE4D8903A=~z~但是，让我告诉你，这休战还挺特别
 
 ;0xE573AA92=~z~Come on.
 0xE573AA92=~z~别开玩笑了。
@@ -549,7 +549,7 @@
 0xF15110F3=~z~“嘿，老兄！你还好吧？” 我说：
 
 ;0xF1D5F252=~z~Thanks, man. Reminds me of when you were a prospect. Running round the whole city for us brothers.
-0xF1D5F252=~z~多谢了，伙计。让我想起来你还是个见习成员的时候，为了兄弟们在整个城市间穿梭。
+0xF1D5F252=~z~谢了兄弟。我记得当年你还是个黄毛小子，为了兄弟们跑遍了城市。
 
 ;0xF34AF1F8=~z~These boys are going straight back to their chapter brothers.
 0xF34AF1F8=~z~这几个小喽啰直接回分会了兄弟们。
@@ -561,7 +561,7 @@
 0xF47679BA=~z~Johnny，伙计，你让那些死妈天使们告诉他们的同伴大战开始了？
 
 ;0xF5BCD751=~z~Shit. Jason. You motherfuckers!
-0xF5BCD751=~z~我去，Jason，你他妈可别挂了！
+0xF5BCD751=~z~我去，Jason。你他妈可别挂了！
 
 ;0xF63AF569=~z~That's beautiful.
 0xF63AF569=~z~那真是太好了。
@@ -579,7 +579,7 @@
 0xF91FFB3A=010
 
 ;0xFA138370=~z~Let's get those Angels of Death, Johnny.
-0xFA138370=~z~让我们去抓住那些死亡天使，Johnny。
+0xFA138370=~z~让我们去干掉那些死亡天使，Johnny。
 
 ;0xFAB553EA=492
 0xFAB553EA=492
@@ -591,7 +591,7 @@
 0xFB8DBDA4=~z~我得说，好日子到头了。
 
 ;0xFBCA4687=~z~Party's over, you assholes.
-0xFBCA4687=~z~派对结束了，混蛋们。
+0xFBCA4687=~z~派对结束了，傻逼们。
 
 ;0xFD500BBE=E1B2_LB
 0xFD500BBE=E1B2_LB
