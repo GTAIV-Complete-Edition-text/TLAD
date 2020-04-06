@@ -330,7 +330,7 @@
 0x92AE7C58=~z~Jason走了，Bill。我完全没准备好。
 
 ;0x9467D7FB=~z~We're only here by blind luck, Bill. And you know it. So long.
-0x9467D7FB=~z~我们能在这只是撞了大运，Bill，你知道的。这么久了。
+0x9467D7FB=~z~我们能在这只是撞了大运，Bill，你知道的。再见了。
 
 ;0x95274749=~z~Fuck, man. My bike!
 0x95274749=~z~操，伙计，我的摩托车！
