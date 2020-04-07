@@ -12,7 +12,7 @@
 0x026BBB30=~z~那些摩托车糟透了，伙计。我们错过了发薪日。
 
 ;0x03196CCC=~z~Yeah? Having an old lady and kid hasn't made you scared of getting dirty?
-0x03196CCC=~z~是吗？有老母亲和孩子还没让你害怕干脏活吗？
+0x03196CCC=~z~是吗？家里上有老下有小还没让你害怕干脏活吗？
 
 ;0x0426F504=SFX_PAUSE_130
 0x0426F504=SFX_PAUSE_130
@@ -42,7 +42,7 @@
 0x0A8D0CA4=E1J1_A_JA
 
 ;0x0B195913=~z~It would take a real dumb civilian to screw with our bikes on club turf.
-0x0B195913=~z~只有真正的傻子才会在我们的地盘上对摩托车下手。
+0x0B195913=~z~只有最纯种的傻逼才会在我们的地盘上对摩托车下手。
 
 ;0x0D22C195=E1J1_GI
 0x0D22C195=E1J1_GI
@@ -54,7 +54,7 @@
 0x0DC7E2F6=~z~你有经常联系Terry和Clay吗？
 
 ;0x0DED347C=~z~Head home, Johnny boy.
-0x0DED347C=~z~回去吧，Johnny
+0x0DED347C=~z~回去吧，Johnny。
 
 ;0x0F0FC934=E1J1_SA
 0x0F0FC934=E1J1_SA
@@ -111,10 +111,10 @@
 0x1D02DA80=~z~难以置信。
 
 ;0x1E921970=~z~Yeah?
-0x1E921970=~z~耶?
+0x1E921970=~z~耶？
 
 ;0x200D821E=~z~You'd think the Deadbeats would know when they were beat.
-0x200D821E=~z~你以为死妈天使的人会知道他们何时被打败。
+0x200D821E=~z~你以为死妈天使的人知道他们什么时候会吃瘪啊。
 
 ;0x20768429=~z~You must be really attached to this bike.
 0x20768429=~z~你一定很中意这辆摩托车。
@@ -138,7 +138,7 @@
 0x238DF8E5=~z~是时候给他们点教训了，Johnny。
 
 ;0x2395CDD1=~z~You haven't brought them to the house in a while.
-0x2395CDD1=~z~你有一段时间没带他们过来了。
+0x2395CDD1=~z~你有一段时间没带他们来我们会所了。
 
 ;0x2493E1F6=~z~~x~
 0x2493E1F6=~z~~x~
@@ -201,7 +201,7 @@
 0x31F0B234=100
 
 ;0x323527A6=~z~Don't you fucks know when to give up?
-0x323527A6=~z~你们这些傻逼难道不知道何时该放弃吗？
+0x323527A6=~z~你们这些傻逼难道不知道什么时候该放弃吗？
 
 ;0x32776AA0=SFX_PAUSE_210
 0x32776AA0=SFX_PAUSE_210
@@ -237,7 +237,7 @@
 0x3968C5A9=100090010090100
 
 ;0x3A3DD0C7=~z~Shit. That guy knows more about tuning a bike than the rest of the brothers put together,
-0x3A3DD0C7=~z~靠。那家伙比其他兄弟们更懂摩托车，
+0x3A3DD0C7=~z~靠。那家伙比其他兄弟们加起来都懂摩托车，
 
 ;0x3AAA4406=~z~Stick to me, Johnny.
 0x3AAA4406=~z~跟紧我，Johnny。
@@ -282,10 +282,10 @@
 0x44A841CD=090
 
 ;0x44AF4B61=~z~Would somebody tell the Deadbeats that possession is nine tenths of the law.
-0x44AF4B61=~z~会有人告诉死妈天使的人，财产占法律的十分之九吗。
+0x44AF4B61=~z~能不能有人来告诉死妈天使的人，财产占法律的十分之九。
 
 ;0x44D3907C=~z~Hey man, Jackie can handle herself but it ain't exactly a family friendly environment at the moment, is it?
-0x44D3907C=~z~嘿，Jackie能照顾好自己，但现在的家庭环境不太友好，懂吧？
+0x44D3907C=~z~嘿，Jackie能照顾好自己，但现在帮派里的氛围不太好，懂吧？
 
 ;0x454FF7EC=~z~~x~
 0x454FF7EC=~z~~x~
@@ -345,7 +345,7 @@
 0x5282FB40=~z~这些摩托车是我们的，警官先生。
 
 ;0x52B0E89D=~z~You're persistent motherfuckers, I'll give you that.
-0x52B0E89D=~z~你真是个固执的混蛋，我会给你的。
+0x52B0E89D=~z~我承认，你是个固执的混蛋。
 
 ;0x52CC679B=~z~Come on, these bikes are ours now.
 0x52CC679B=~z~拜托，这些摩托车现在是我们的了。
@@ -429,7 +429,7 @@
 0x6687AC62=292
 
 ;0x66A38B12=~z~Fucking cocksuckers.
-0x66A38B12=~z~妈了个逼的
+0x66A38B12=~z~妈了个逼的。
 
 ;0x66D0E95D=SFX_PAUSE_070
 0x66D0E95D=SFX_PAUSE_070
@@ -450,13 +450,13 @@
 0x6C1CF2D5=E1J1_FK
 
 ;0x6C295F27=~z~You know, when things calm down.
-0x6C295F27=~z~你懂的，当事情都处理好之后。
+0x6C295F27=~z~你懂的，等到把事情都处理好之后。
 
 ;0x6D273074=~z~Be cool man.
 0x6D273074=~z~冷静点。
 
 ;0x6F33A8DF=~z~Ain't we a little too old for stealing bikes and clubhouse flags and crap like that?
-0x6F33A8DF=~z~偷摩托车和会所旗帜这种行为对我们来说是不是太老了？
+0x6F33A8DF=~z~偷摩托车和会所旗帜不是我们老练人该做的事了吧？
 
 ;0x704177FD=E1J1_DA
 0x704177FD=E1J1_DA
@@ -465,7 +465,7 @@
 0x70709724=E1J1_XB
 
 ;0x709E3D7D=~z~Now I got a guy who pays me for them
-0x709E3D7D=~z~现在我找到了个能付我钱的人。
+0x709E3D7D=~z~现在我找到了个买它们的买家
 
 ;0x7226C9F3=E1J1_CA
 0x7226C9F3=E1J1_CA
@@ -474,13 +474,13 @@
 0x72FE46E0=E1J1_RA
 
 ;0x736928D4=~z~Fucking Deadbeats. Don't know when to leave good enough alone.
-0x736928D4=~z~妈的死亡天使。不到什么时候该适可而止。
+0x736928D4=~z~妈的死亡天使。不知道什么时候该适可而止。
 
 ;0x74103EA3=E1J1_BC
 0x74103EA3=E1J1_BC
 
 ;0x75150A8F=~z~How smart you gonna feel when we drag your old lady downtown,
-0x75150A8F=~z~当我们把你老母亲拉到市区时候，你会觉得自己多聪明，
+0x75150A8F=~z~当我们操你老母的时候，你还会觉得自己有多聪明，
 
 ;0x75D6FECA=SFX_PAUSE_270
 0x75D6FECA=SFX_PAUSE_270
@@ -540,7 +540,7 @@
 0x802898F2=~z~她马上就会求我们再审问她一次。
 
 ;0x80BB1F83=~z~Fucking cocksuckers.
-0x80BB1F83=~z~妈了个逼的
+0x80BB1F83=~z~妈了个逼的。
 
 ;0x8112231D=090
 0x8112231D=090
@@ -663,7 +663,7 @@
 0x9BFC11DA=SFX_PAUSE_120
 
 ;0x9C4BD6A4=~z~Watch it there slim.
-0x9C4BD6A4=~z~注意点儿。
+0x9C4BD6A4=~z~注意点儿，二逼。
 
 ;0x9D5CE467=E1J1_GH
 0x9D5CE467=E1J1_GH
@@ -807,7 +807,7 @@
 0xBDE9A7CB=~z~太糟了，兄弟。我早就想干掉这些死妈天使的人了。
 
 ;0xBE02C5C9=~z~We should unload a couple of these bikes. A prospect can handle the truck.
-0xBE02C5C9=~z~我们得卸下一对摩托车。一个有前途的人会处理这辆卡车的。
+0xBE02C5C9=~z~我们得卸下一对摩托车。这样就有办法处理这辆卡车了。
 
 ;0xBF7F6CD6=100090010090100
 0xBF7F6CD6=100090010090100
@@ -879,7 +879,7 @@
 0xD12F668C=010090100
 
 ;0xD1FBD25B=~z~Them sirens get real tiresome after a while.
-0xD1FBD25B=~z~一段时间后，这些警笛是真的烦人。
+0xD1FBD25B=~z~这些警笛一直响得让人心烦。
 
 ;0xD22DB80F=102
 0xD22DB80F=102
@@ -1023,7 +1023,7 @@
 0xFE9F9DBA=~z~没人会报道这些摩托车被偷了，所以放过我们吧。
 
 ;0xFEB2040A=~z~Luck's a perverse thing ain't it? How are Jackie and the kid?
-0xFEB2040A=~z~运气就是这么反复无常不是吗？Jackie和kid最近怎么样了？
+0xFEB2040A=~z~运气就是这么反复无常不是吗？Jackie和孩子最近怎么样了？
 
 ;0xFF9D2D9D=~z~Get away from these cops, man.
 0xFF9D2D9D=~z~甩掉这些条子。
