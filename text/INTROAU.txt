@@ -1,115 +1,115 @@
 ﻿[INTROAU]
 ;0x05119ED3=~z~It's about time.
-0x05119ED3=~z~It's about time.
+0x05119ED3=~z~是时候了。
 
 ;0x0CC036D9=~z~Keep it up, I'm gonna push you down these stairs.
-0x0CC036D9=~z~Keep it up, I'm gonna push you down these stairs.
+0x0CC036D9=~z~抓稳点，要下楼梯了。
 
 ;0x1086B5BD=~z~Home sweet home.
-0x1086B5BD=~z~Home sweet home.
+0x1086B5BD=~z~我又回来了。
 
 ;0x1615C984=~z~Hold on little buddy.
-0x1615C984=~z~Hold on little buddy.
+0x1615C984=~z~坐稳喽，小伙子。
 
 ;0x1BA34CE6=~z~I've changed. And you know what, Chad?
-0x1BA34CE6=~z~I've changed. And you know what, Chad?
+0x1BA34CE6=~z~我改变了。你知道吗，Chad？
 
 ;0x25E6616C=~z~Was very willful, Chad, was very willful.
-0x25E6616C=~z~Was very willful, Chad, was very willful.
+0x25E6616C=~z~那是以前，Chad，以前任性。
 
 ;0x3AD48A58=~z~Here you go.
-0x3AD48A58=~z~Here you go.
+0x3AD48A58=~z~拿好。
 
 ;0x4F1BB3D2=~z~Hey, stay in touch!
-0x4F1BB3D2=~z~Hey, stay in touch!
+0x4F1BB3D2=~z~嘿，保持联系！
 
 ;0x5563B3D6=~z~Yes, Daddy.
-0x5563B3D6=~z~Yes, Daddy.
+0x5563B3D6=~z~好的，「爸爸」。
 
 ;0x60DAD664=~z~Yo.
-0x60DAD664=~z~Yo.
+0x60DAD664=~z~哟。
 
 ;0x65D40F33=~z~If I had it my way, we wouldn't waste our time - you'd be inside already.
-0x65D40F33=~z~If I had it my way, we wouldn't waste our time - you'd be inside already.
+0x65D40F33=~z~要是我说了算，你早就进去了，省得浪费大家时间。
 
 ;0x67115731=~z~You, stay out of trouble.
-0x67115731=~z~You, stay out of trouble.
+0x67115731=~z~你，别惹是非。
 
 ;0x6C72E1F8=~z~I know, Chad. I know. It's a disease.
-0x6C72E1F8=~z~I know, Chad. I know. It's a disease.
+0x6C72E1F8=~z~我知道，Chad。我知道。毒瘾是病。
 
 ;0x733EAA10=~z~I believe in this man.
-0x733EAA10=~z~I believe in this man.
+0x733EAA10=~z~我相信这个人。
 
 ;0x7400AB8C=~z~Yes, sir.
-0x7400AB8C=~z~Yes, sir.
+0x7400AB8C=~z~好的长官。
 
 ;0x781A05D2=~z~In fact, I'm praying right now.
-0x781A05D2=~z~In fact, I'm praying right now.
+0x781A05D2=~z~实际上，我现在就在祈祷。
 
 ;0x814CC624=~z~His share on willfulness was one of the most powerful things I've ever heard.
-0x814CC624=~z~His share on willfulness was one of the most powerful things I've ever heard.
+0x814CC624=~z~他的任性程度，真的是前无古人后无来者。
 
 ;0x8B0E9F2F=~z~God works in mysterious ways.
-0x8B0E9F2F=~z~God works in mysterious ways.
+0x8B0E9F2F=~z~主的意图是难以捉摸的。
 
 ;0x8BC0A093=~z~Well, let's hope you don't live to regret that faith.
-0x8BC0A093=~z~Well, let's hope you don't live to regret that faith.
+0x8BC0A093=~z~那好，祝你不会为这份信任后悔。
 
 ;0x8FB662F7=~z~Mr. Grey has made great progress.
-0x8FB662F7=~z~Mr. Grey has made great progress.
+0x8FB662F7=~z~Grey先生进步很大。
 
 ;0x9E16453E=~z~Yes sir.
-0x9E16453E=~z~Yes sir.
+0x9E16453E=~z~好的，长官。
 
 ;0x9F90D4B7=~z~Gentlemen, shall we get the fuck out of here?
-0x9F90D4B7=~z~Gentlemen, shall we get the fuck out of here?
+0x9F90D4B7=~z~先生们，我看差不多该离开这儿了吧？
 
 ;0xAD0A1D9E=~z~You do understand what probation means?
-0xAD0A1D9E=~z~You do understand what probation means?
+0xAD0A1D9E=~z~你应该知道什么叫做缓刑吧？
 
 ;0xB06169D4=~z~Excuse me?
-0xB06169D4=~z~Excuse me?
+0xB06169D4=~z~你说什么？
 
 ;0xBF259BA5=~z~Alright, everybody, c'mon. Break it up, let's go.
-0xBF259BA5=~z~Alright, everybody, c'mon. Break it up, let's go.
+0xBF259BA5=~z~好了，各位，快点，别磨叽了，出发吧。
 
 ;0xBF40941E=~z~Meetings every day.
-0xBF40941E=~z~Meetings every day.
+0xBF40941E=~z~要常来戒毒互助会。
 
 ;0xC88DD4A5=~z~It means that if you continue down that same path,
-0xC88DD4A5=~z~It means that if you continue down that same path,
+0xC88DD4A5=~z~就是说你要是重蹈覆辙，
 
 ;0xC9432823=~z~You changed me.
-0xC9432823=~z~You changed me.
+0xC9432823=~z~是你改变了我。
 
 ;0xD7AF72E8=~z~Uh... yes sir.
-0xD7AF72E8=~z~Uh... yes sir.
+0xD7AF72E8=~z~呃...知道，长官。
 
 ;0xE012DD7F=~z~-Come on guys, come on let's go.~n~-Alright man...
-0xE012DD7F=~z~-Come on guys, come on let's go.~n~-Alright man...
+0xE012DD7F=~z~－快点，兄弟们，该出发了。~n~－好的，伙计...
 
 ;0xE469DE70=~z~Pray. I pray.
-0xE469DE70=~z~Pray. I pray.
+0xE469DE70=~z~要祈祷。会祈祷的。
 
 ;0xE73BD788=~z~but I'll leave the salvation to you gentlemen.
-0xE73BD788=~z~but I'll leave the salvation to you gentlemen.
+0xE73BD788=~z~不过能不能被救赎就是你们的事了。
 
 ;0xED7F709B=~z~Call you if I feel the need to use.
-0xED7F709B=~z~Call you if I feel the need to use.
+0xED7F709B=~z~犯毒瘾了就电话找你。
 
 ;0xF0EE7F36=~z~See ya, fuck.
-0xF0EE7F36=~z~See ya, fuck.
+0xF0EE7F36=~z~回见，崽种。
 
 ;0xF32E29E5=~z~you'll be locked up and calling some cellmate Daddy within a month.
-0xF32E29E5=~z~you'll be locked up and calling some cellmate Daddy within a month.
+0xF32E29E5=~z~不出一个月，你就会被抓回去管狱友叫「爸爸」。
 
 ;0xF82C85F9=~z~You're very willful.
-0xF82C85F9=~z~You're very willful.
+0xF82C85F9=~z~你太任性了。
 
 ;0xF954FBBA=~z~In this case, it seems God is down right perverse,
-0xF954FBBA=~z~In this case, it seems God is down right perverse,
+0xF954FBBA=~z~照这么说，上帝他老人家已经老年痴呆了，
 
 ;0xFD9D844F=~z~Remember. It's a disease.
-0xFD9D844F=~z~Remember. It's a disease.
+0xFD9D844F=~z~记住，毒瘾是病。
 
