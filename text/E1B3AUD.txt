@@ -228,7 +228,7 @@
 0x38EA016D=102090012090102
 
 ;0x39439D88=~z~He was banging some Russian broad
-0x39439D88=~z~他在和搞一个俄罗斯女人
+0x39439D88=~z~他在搞一个俄罗斯女人
 
 ;0x39C6748D=~z~Jason.
 0x39C6748D=~z~Jason。
@@ -303,7 +303,7 @@
 0x485094BD=192
 
 ;0x48C6B90D=~z~Billy, you fucking killed him, Johnny. You let him die.
-0x48C6B90D=~z~Billy是你他妈杀了他，Johnny。你眼睁睁看着他死的。
+0x48C6B90D=~z~Billy，是你他妈杀了他，Johnny。你眼睁睁看着他死的。
 
 ;0x48CAB79B=090
 0x48CAB79B=090
@@ -312,7 +312,7 @@
 0x4AF90C6A=SFX_PAUSE_060
 
 ;0x4B981A7C=~z~In the meantime, let's take a moment to remember Jason
-0x4B981A7C=~z~同时，让我们花点时间来缅怀一下杰森
+0x4B981A7C=~z~同时，让我们花点时间来缅怀一下Jason
 
 ;0x4C6144A0=~z~Deadbeats, Deadbeats, Deadbeats.
 0x4C6144A0=~z~死妈天使，死妈天使，死妈天使。
@@ -366,7 +366,7 @@
 0x5BC1EE86=~z~现在你真是个无能的人。
 
 ;0x5BE05227=~z~Things have grown up, brother. You want to survive, you got to grow up too.
-0x5BE05227=~z~事情闹大了，兄弟们。要或者，你必须成长。
+0x5BE05227=~z~事情闹大了，兄弟们。想要活着，你就必须成长。
 
 ;0x5BEC6859=190
 0x5BEC6859=190
@@ -576,7 +576,7 @@
 0x84980A4F=~z~我们是一辈子的兄弟。
 
 ;0x8672A55E=~z~The brothers are getting jumped, come on bitch.
-0x8672A55E=~z~The brothers are getting jumped, come on bitch.
+0x8672A55E=~z~兄弟们被偷袭了，来吧，婊子。
 
 ;0x882BC297=~z~Oh man. You're kidding me.
 0x882BC297=~z~哦，伙计。你在跟我开玩笑吧。
@@ -684,7 +684,7 @@
 0x9DF27D43=SFX_PAUSE_130
 
 ;0x9E7C8D38=~z~Tell me, brother. How am I supposed to lead this motley crew of bikers, without a bike?
-0x9E7C8D38=~z~告诉我，兄弟。没有车子，我怎么能带领这群骑摩托车的？
+0x9E7C8D38=~z~告诉我，兄弟。没有车子，我怎么能带领这群骑车的？
 
 ;0x9F6A4807=~z~They was mad but, see, there was only two of them.
 0x9F6A4807=~z~他全都疯了，但是，知道吗，他只有两个人。
@@ -696,7 +696,7 @@
 0xA090D1F4=E1B3_VA
 
 ;0xA2212AAB=~z~The days when we had all the pigs this side of the West River coming down on us? Those happy days?
-0xA2212AAB=~z~西河这边的蠢猪们都冲向我们的日子？那段快乐的日子？
+0xA2212AAB=~z~West River这边的蠢猪们都来干我们的日子？那段快乐的日子？
 
 ;0xA2AB705A=~z~Hey...
 0xA2AB705A=~z~嘿……
@@ -768,7 +768,7 @@
 0xB3E18974=~z~Billy，伙计，再见了兄弟。
 
 ;0xB489DE40=~z~I'm a complicated individual and I've got serious authority issues.
-0xB489DE40=~z~我是个复杂的人，我有严重的权威问题。
+0xB489DE40=~z~我是个复杂的人，我有严重的司法问题。
 
 ;0xB56D96AF=~z~Billy Grey is back, Deadbeats.
 0xB56D96AF=~z~Billy Grey回来了，死妈天使。
@@ -900,25 +900,25 @@
 0xD23EA69F=~z~比以往任何时刻都重要。
 
 ;0xD296CEDE=~z~Man, the Deadbeats seem real annoyed. If I was you, I'd be scared they'd attack me in the street.
-0xD296CEDE=~z~伙计，死妈天使们似乎真的发表了。如果我是你，我会担心他们在街上攻击我们。
+0xD296CEDE=~z~伙计，死妈天使们似乎真的发飙了。如果我是你，我会担心他们在街上攻击我们。
 
 ;0xD2FB1220=~z~You're on the wrong side of the West River, pricks.
 0xD2FB1220=~z~你们惹错人了，混蛋们。
 
 ;0xD45019F4=~z~Alright all of you, let's go! Let's go.
-0xD45019F4=~z~所有跟上了！我们快走。
+0xD45019F4=~z~所有人，现在，立刻，马上，跟我走！
 
 ;0xD6337DD9=E1B3_DC
 0xD6337DD9=E1B3_DC
 
 ;0xD6B18281=~z~Time to move out, Johnny. Come on.
-0xD6B18281=~z~改走了，Johnny。快点。
+0xD6B18281=~z~该走了，Johnny。快点。
 
 ;0xD6BBBEEB=E1B3_XA
 0xD6BBBEEB=E1B3_XA
 
 ;0xD9F798DF=~z~I didn't think so, I guessed you just liked cock.
-0xD9F798DF=~z~我不这么认为，我猜你只是喜欢老二。
+0xD9F798DF=~z~我不这么认为，我猜你是喜欢老二。
 
 ;0xDAACFCB3=E1B3_PA
 0xDAACFCB3=E1B3_PA
@@ -948,7 +948,7 @@
 0xDD083C39=102090012090102090102
 
 ;0xDDDE2A64=~z~Big boys. Heh heh heh. You're a homo, Johnny.
-0xDDDE2A64=~z~老大们。呵呵呵。你真是个基佬，Johnny。
+0xDDDE2A64=~z~老大们。呵呵呵。你真是个死基佬，Johnny。
 
 ;0xDDF6C4B9=E1B3_MA
 0xDDF6C4B9=E1B3_MA
@@ -1050,7 +1050,7 @@
 0xF1118E7E=E1B3_XB
 
 ;0xF162F680=~z~Pre-emptive strike, my brother. And fuck me if it wasn't the right move.
-0xF162F680=~z~先发制人，我的兄弟。如果我做的不对，那我就去死吧。
+0xF162F680=~z~先发制人，我的兄弟。如果我做的不对，那我就去死，好不好？
 
 ;0xF18BF0E1=E1B3_NA
 0xF18BF0E1=E1B3_NA
@@ -1065,7 +1065,7 @@
 0xF3202C34=E1B3_ZC
 
 ;0xF48B8D44=~z~Yeah, I need to do some learning. Mind if I practice on you, Brian?
-0xF48B8D44=~z~是啊，我确定需要学点东西。介意我在你身上练习吗，Brian？
+0xF48B8D44=~z~是啊，我确实需要学点东西。介意我在你身上练习吗，Brian？
 
 ;0xF52718B4=~z~Shit. Brian's gone and fucking bought it.
 0xF52718B4=~z~妈的。Brian走了，他自食其果。
