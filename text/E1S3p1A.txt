@@ -9,7 +9,7 @@
 0x0E37B3DE=E1S3p1_CA
 
 ;0x11B997CF=~z~I guess the old horn dog couldn't get it up. When I last saw him in the changing room he looked virile enough.
-0x11B997CF=~z~我猜这只老喇叭狗硬不起来了。我上次在更衣室见他还挺有男子气概的。
+0x11B997CF=~z~我猜这只老色鬼硬不起来了。我上次在更衣室见他还挺有男子气概的。
 
 ;0x1427F268=010090100
 0x1427F268=010090100
@@ -36,7 +36,7 @@
 0x1D07B434=~z~我找的人开着一辆红色的Cognoscenti。
 
 ;0x21353C8B=~z~I'm here. Problem is I can't tell your colleague from all the other bottom feeders hanging round.
-0x21353C8B=~z~我在这了。问题是我不能把你的同事和这周围所有其他卑鄙小人区分开。
+0x21353C8B=~z~我到这了。问题是我不能把你的同事和这周围所有其他卑鄙小人区分开。
 
 ;0x28FFAAA0=SFX_PAUSE_290
 0x28FFAAA0=SFX_PAUSE_290
@@ -57,7 +57,7 @@
 0x3A70CC38=E1S3p1_BC
 
 ;0x441223A0=~z~What I'm after is someone to snap a shot of a fellow Congressman picking up a lady of the night.
-0x441223A0=~z~我想找的是一个能抓拍到一名同行议员接上一个妓女的人。
+0x441223A0=~z~我想找一个人帮我拍一个同行议员找妓女的照片。
 
 ;0x4739B860=SFX_PAUSE_190
 0x4739B860=SFX_PAUSE_190
@@ -135,7 +135,7 @@
 0xA6E336D1=~z~那非常甜蜜，又很尴尬。相信我。
 
 ;0xAEADB855=~z~The cops have scared off all the women, Mr. Stubbs. Your guy ain't gonna get his dose of VD.
-0xAEADB855=~z~条子吓跑了所有的妓女，Stubbs.先生。你说的那家伙肯定得不了性病了。
+0xAEADB855=~z~条子吓跑了所有的妓女，Stubbs先生。你说的那家伙肯定得不了性病了。
 
 ;0xAED53450=E1S3p1_AG
 0xAED53450=E1S3p1_AG
