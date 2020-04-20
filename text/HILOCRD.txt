@@ -1,202 +1,202 @@
 ﻿[HILOCRD]
 ;0x0AF2AB55=Ace of Diamonds~n~(Ace is low)
-0x0AF2AB55=Ace of Diamonds~n~(Ace is low)
+0x0AF2AB55=方块A~n~(A最小)
 
 ;0x0D382FC8=4 of Diamonds~n~
-0x0D382FC8=4 of Diamonds~n~
+0x0D382FC8=方块4~n~
 
 ;0x0D9CBCB3=Queen of Clubs~n~
-0x0D9CBCB3=Queen of Clubs~n~
+0x0D9CBCB3=梅花Q~n~
 
 ;0x0F6A5111=6 of Spades~n~
-0x0F6A5111=6 of Spades~n~
+0x0F6A5111=黑桃6~n~
 
 ;0x1D884BF7=Ace of Hearts~n~(Ace is low)
-0x1D884BF7=Ace of Hearts~n~(Ace is low)
+0x1D884BF7=红桃A~n~(A最小)
 
 ;0x2760F22D=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to play again.
-0x2760F22D=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to play again.
+0x2760F22D=按~INPUT_PICKUP~退出。~n~按~INPUT_MOUSE_LMB~再玩一局。
 
 ;0x287BE64F=6 of Diamonds~n~
-0x287BE64F=6 of Diamonds~n~
+0x287BE64F=方块6~n~
 
 ;0x2CAD6ECA=King of Diamonds~n~
-0x2CAD6ECA=King of Diamonds~n~
+0x2CAD6ECA=方块K~n~
 
 ;0x3103F29A=King of Hearts~n~
-0x3103F29A=King of Hearts~n~
+0x3103F29A=红桃K~n~
 
 ;0x32FD183A=4 of Spades~n~
-0x32FD183A=4 of Spades~n~
+0x32FD183A=黑桃4~n~
 
 ;0x3447AFCE=Predict if the value of the next card is higher or lower (Aces are low). Last person remaining wins.~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
-0x3447AFCE=Predict if the value of the next card is higher or lower (Aces are low). Last person remaining wins.~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+0x3447AFCE=猜下张牌更大还是更小(A最小)。猜错淘汰，活到最后的人获胜。~n~按~INPUT_FRONTEND_ACCEPT~继续。~n~按~INPUT_PICKUP~离开游戏。
 
 ;0x363E11FD=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to go back to the game.
-0x363E11FD=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to go back to the game.
+0x363E11FD=按~INPUT_PICKUP~退出。~n~按~INPUT_MOUSE_LMB~回到游戏。
 
 ;0x38A306A1=8 of Diamonds~n~
-0x38A306A1=8 of Diamonds~n~
+0x38A306A1=方块8~n~
 
 ;0x3FF090CF=Jack of Hearts~n~
-0x3FF090CF=Jack of Hearts~n~
+0x3FF090CF=红桃J~n~
 
 ;0x417013DE=2 of Hearts~n~
-0x417013DE=2 of Hearts~n~
+0x417013DE=红桃2~n~
 
 ;0x41BA35B4=5 of Spades~n~
-0x41BA35B4=5 of Spades~n~
+0x41BA35B4=黑桃5~n~
 
 ;0x4679A24E=7 of Diamonds~n~
-0x4679A24E=7 of Diamonds~n~
+0x4679A24E=方块7~n~
 
 ;0x4F0470A3=10 of Spades~n~
-0x4F0470A3=10 of Spades~n~
+0x4F0470A3=黑桃10~n~
 
 ;0x530D5856=8 of Spades~n~
-0x530D5856=8 of Spades~n~
+0x530D5856=黑桃8~n~
 
 ;0x5B0C4B6F=3 of Diamonds~n~
-0x5B0C4B6F=3 of Diamonds~n~
+0x5B0C4B6F=方块3~n~
 
 ;0x5D4EC20A=~a~~n~Wrong!~n~Press ~INPUT_MOUSE_LMB~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
-0x5D4EC20A=~a~~n~Wrong!~n~Press ~INPUT_MOUSE_LMB~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+0x5D4EC20A=~a~~n~错误！~n~按~INPUT_MOUSE_LMB~继续。~n~按~INPUT_PICKUP~离开游戏。
 
 ;0x5DD482E7=~a~~n~Press ~INPUT_PICKUP~ to leave the game.
-0x5DD482E7=~a~~n~Press ~INPUT_PICKUP~ to leave the game.
+0x5DD482E7=~a~~n~按~INPUT_PICKUP~离开游戏。
 
 ;0x5EB74E6C=3 of Hearts~n~
-0x5EB74E6C=3 of Hearts~n~
+0x5EB74E6C=红桃3~n~
 
 ;0x5F8FF16F=Queen of Spades~n~
-0x5F8FF16F=Queen of Spades~n~
+0x5F8FF16F=黑桃Q~n~
 
 ;0x615AF4F9=King of Spades~n~
-0x615AF4F9=King of Spades~n~
+0x615AF4F9=黑桃K~n~
 
 ;0x61CE75D8=9 of Spades~n~
-0x61CE75D8=9 of Spades~n~
+0x61CE75D8=黑桃9~n~
 
 ;0x61F10B14=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to play again.
-0x61F10B14=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to play again.
+0x61F10B14=按~INPUT_PICKUP~退出。~n~按~INPUT_FRONTEND_ACCEPT~再玩一局。
 
 ;0x6241E5F8=Ace of Clubs~n~(Ace is low)
-0x6241E5F8=Ace of Clubs~n~(Ace is low)
+0x6241E5F8=梅花A~n~(A最小)
 
 ;0x6277B776=Predict if the value of the next card is higher or lower (Aces are low). Last person remaining wins.~n~Press ~INPUT_MOUSE_LMB~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
-0x6277B776=Predict if the value of the next card is higher or lower (Aces are low). Last person remaining wins.~n~Press ~INPUT_MOUSE_LMB~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+0x6277B776=猜下张牌更大还是更小(A最小)。猜错淘汰，活到最后的人获胜。~n~按~INPUT_MOUSE_LMB~继续。~n~按~INPUT_PICKUP~离开游戏。
 
 ;0x6527FC8F=3 of Spades~n~
-0x6527FC8F=3 of Spades~n~
+0x6527FC8F=黑桃3~n~
 
 ;0x687C8334=7 of Spades~n~
-0x687C8334=7 of Spades~n~
+0x687C8334=黑桃7~n~
 
 ;0x6BD4E8A7=4 of Hearts~n~
-0x6BD4E8A7=4 of Hearts~n~
+0x6BD4E8A7=红桃4~n~
 
 ;0x6FAB2688=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to the game.
-0x6FAB2688=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to the game.
+0x6FAB2688=按~INPUT_PICKUP~退出。~n~按~INPUT_FRONTEND_ACCEPT~回到游戏。
 
 ;0x702E75C7=Queen of Diamonds~n~
-0x702E75C7=Queen of Diamonds~n~
+0x702E75C7=方块Q~n~
 
 ;0x73FE7D57=9 of Diamonds~n~
-0x73FE7D57=9 of Diamonds~n~
+0x73FE7D57=方块9~n~
 
 ;0x7763A10A=Ace of Spades~n~(Ace is low)
-0x7763A10A=Ace of Spades~n~(Ace is low)
+0x7763A10A=黑桃A~n~(A最小)
 
 ;0x7AEDBD19=~a~~n~Wrong!~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
-0x7AEDBD19=~a~~n~Wrong!~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+0x7AEDBD19=~a~~n~错误！~n~按~INPUT_FRONTEND_ACCEPT~来继续。~n~按~INPUT_PICKUP~离开游戏。
 
 ;0x7B130723=5 of Hearts~n~
-0x7B130723=5 of Hearts~n~
+0x7B130723=红桃5~n~
 
 ;0x7D105242=Higher!
-0x7D105242=Higher!
+0x7D105242=大！
 
 ;0x7EE65A34=~a~~n~Correct!~n~Press ~INPUT_MOUSE_LMB~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
-0x7EE65A34=~a~~n~Correct!~n~Press ~INPUT_MOUSE_LMB~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+0x7EE65A34=~a~~n~正确！~n~按~INPUT_MOUSE_LMB~来继续。~n~按~INPUT_PICKUP~离开游戏。
 
 ;0x8305A787=Jack of Clubs~n~
-0x8305A787=Jack of Clubs~n~
+0x8305A787=梅花J~n~
 
 ;0x8612FB7F=10 of Clubs~n~
-0x8612FB7F=10 of Clubs~n~
+0x8612FB7F=梅花10~n~
 
 ;0x8618FA93=9 of Clubs~n~
-0x8618FA93=9 of Clubs~n~
+0x8618FA93=梅花9~n~
 
 ;0x8837A16C=6 of Hearts~n~
-0x8837A16C=6 of Hearts~n~
+0x8837A16C=红桃6~n~
 
 ;0x88725822=~a~~n~Correct!~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
-0x88725822=~a~~n~Correct!~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
+0x88725822=~a~~n~正确！~n~按~INPUT_FRONTEND_ACCEPT~继续。~n~按~INPUT_PICKUP~离开游戏。
 
 ;0x8B4CF020=10 of Diamonds~n~
-0x8B4CF020=10 of Diamonds~n~
+0x8B4CF020=方块10~n~
 
 ;0x90B342E2=King of Clubs~n~
-0x90B342E2=King of Clubs~n~
+0x90B342E2=梅花K~n~
 
 ;0x973875AE=Current card is ~a~~n~Press ~INPUT_FRONTEND_X~ to predict higher.~n~Press ~INPUT_FRONTEND_CANCEL~ to predict lower.~n~Press ~INPUT_PICKUP~ to leave the game.
-0x973875AE=Current card is ~a~~n~Press ~INPUT_FRONTEND_X~ to predict higher.~n~Press ~INPUT_FRONTEND_CANCEL~ to predict lower.~n~Press ~INPUT_PICKUP~ to leave the game.
+0x973875AE=目前的牌是~a~~n~按~INPUT_FRONTEND_X~猜大。~n~按~INPUT_FRONTEND_CANCEL~猜小。~n~按~INPUT_PICKUP~离开游戏。
 
 ;0x9923D393=3 of Clubs~n~
-0x9923D393=3 of Clubs~n~
+0x9923D393=梅花3~n~
 
 ;0xA58EDC1A=7 of Hearts~n~
-0xA58EDC1A=7 of Hearts~n~
+0xA58EDC1A=红桃7~n~
 
 ;0xAEE1FF0F=2 of Clubs~n~
-0xAEE1FF0F=2 of Clubs~n~
+0xAEE1FF0F=梅花2~n~
 
 ;0xB47679E9=8 of Hearts~n~
-0xB47679E9=8 of Hearts~n~
+0xB47679E9=红桃8~n~
 
 ;0xB64FF281=10 of Hearts~n~
-0xB64FF281=10 of Hearts~n~
+0xB64FF281=红桃10~n~
 
 ;0xBB969878=5 of Clubs~n~
-0xBB969878=5 of Clubs~n~
+0xBB969878=梅花5~n~
 
 ;0xC23DA5C6=4 of Clubs~n~
-0xC23DA5C6=4 of Clubs~n~
+0xC23DA5C6=梅花4~n~
 
 ;0xC23E957D=9 of Hearts~n~
-0xC23E957D=9 of Hearts~n~
+0xC23E957D=红桃9~n~
 
 ;0xC76E66FD=Lower!
-0xC76E66FD=Lower!
+0xC76E66FD=小！
 
 ;0xCC53A93B=Queen of Hearts~n~
-0xCC53A93B=Queen of Hearts~n~
+0xCC53A93B=红桃Q~n~
 
 ;0xD0670F32=8 of Clubs~n~
-0xD0670F32=8 of Clubs~n~
+0xD0670F32=梅花8~n~
 
 ;0xDAA523AE=7 of Clubs~n~
-0xDAA523AE=7 of Clubs~n~
+0xDAA523AE=梅花7~n~
 
 ;0xE0BBD6E4=Jack of Diamonds~n~
-0xE0BBD6E4=Jack of Diamonds~n~
+0xE0BBD6E4=方块J~n~
 
 ;0xE3DB6901=6 of Clubs~n~
-0xE3DB6901=6 of Clubs~n~
+0xE3DB6901=方块6~n~
 
 ;0xE5557CE8=2 of Spades~n~
-0xE5557CE8=2 of Spades~n~
+0xE5557CE8=黑桃2~n~
 
 ;0xE9A7058F=Jack of Spades~n~
-0xE9A7058F=Jack of Spades~n~
+0xE9A7058F=黑桃J~n~
 
 ;0xEFC674E1=2 of Diamonds~n~
-0xEFC674E1=2 of Diamonds~n~
+0xEFC674E1=方块2~n~
 
 ;0xF600C44B=Current card is ~a~~n~Press ~INPUT_KB_UP~ to predict higher.~n~Press ~INPUT_KB_DOWN~ to predict lower.~n~Press ~INPUT_PICKUP~ to leave the game.
-0xF600C44B=Current card is ~a~~n~Press ~INPUT_KB_UP~ to predict higher.~n~Press ~INPUT_KB_DOWN~ to predict lower.~n~Press ~INPUT_PICKUP~ to leave the game.
+0xF600C44B=目前的牌是~a~~n~按~INPUT_KB_UP~猜大。~n~按~INPUT_KB_DOWN~猜小。~n~按~INPUT_PICKUP~离开游戏。
 
 ;0xF6860264=5 of Diamonds~n~
-0xF6860264=5 of Diamonds~n~
+0xF6860264=方块5~n~
 
