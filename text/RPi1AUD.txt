@@ -1,15 +1,15 @@
 [RPi1AUD]
 ;0x00B76DB4=~z~You ain't getting away from here, Brian.
-0x00B76DB4=~z~ÄãÌÓ²»³öÕâ¶ùÁË£¬Brian¡£
+0x00B76DB4=~z~ä½ é€ƒä¸å‡ºè¿™å„¿äº†ï¼ŒBrianã€‚
 
 ;0x062825E7=~z~Man, it wasn't like that.
-0x062825E7=~z~ĞÖµÜ£¬ÊÂÇé²»ÊÇÕâÑùµÄ¡£
+0x062825E7=~z~å…„å¼Ÿï¼Œäº‹æƒ…ä¸æ˜¯è¿™æ ·çš„ã€‚
 
 ;0x06C4ED57=~z~Come on, man. Don't be like that.
-0x06C4ED57=~z~àŞà¸£¬ĞÖµÜ£¬Äã±ğÕâÑù¡£
+0x06C4ED57=~z~å™¢å–”ï¼Œå…„å¼Ÿï¼Œä½ åˆ«è¿™æ ·ã€‚
 
 ;0x06DC8E7D=~z~Just wait here a second, would you, Johnny?
-0x06DC8E7D=~z~ÄãÔ¸ÒâÔÚÕâµÈÒ»»á¶ùÂğ£¬Johnny?
+0x06DC8E7D=~z~ä½ æ„¿æ„åœ¨è¿™ç­‰ä¸€ä¼šå„¿å—ï¼ŒJohnny?
 
 ;0x0CED7840=100090010
 0x0CED7840=100090010
@@ -21,16 +21,16 @@
 0x113BD540=RPi1_OA
 
 ;0x138C259F=~z~Heh heh heh. You didn't expect this one, did you?
-0x138C259F=~z~ºÇºÇºÇ£¬Ïë²»µ½°É?
+0x138C259F=~z~å‘µå‘µå‘µï¼Œæƒ³ä¸åˆ°å§?
 
 ;0x13EE28A0=~z~Uh, can you wait here a minute, man?
-0x13EE28A0=~z~ßÀ£¬»ï¼Æ£¬ÄãÄÜÔÚÕâ¶ùµÈÒ»»á¶ùÂğ£¿
+0x13EE28A0=~z~å‘ƒï¼Œä¼™è®¡ï¼Œä½ èƒ½åœ¨è¿™å„¿ç­‰ä¸€ä¼šå„¿å—ï¼Ÿ
 
 ;0x161FA9E0=SFX_PAUSE_420
 0x161FA9E0=SFX_PAUSE_420
 
 ;0x17499AD8=~z~You little fucking shit. Fuck you, Brian.
-0x17499AD8=~z~Äã¸öáÌÖÖ£¬²ÙÄãÂèµÄBrian¡£
+0x17499AD8=~z~ä½ ä¸ªå´½ç§ï¼Œæ“ä½ å¦ˆçš„Brianã€‚
 
 ;0x1D1AA5DE=SFX_PAUSE_480
 0x1D1AA5DE=SFX_PAUSE_480
@@ -39,16 +39,16 @@
 0x1D95699C=SFX_PAUSE_570
 
 ;0x1F1AD918=~z~I can help you save the club, man. Seriously.
-0x1F1AD918=~z~ÎÒÄÜ°ïÄãÕü¾È»áËù£¬ÕæµÄ£¬ĞÖµÜ¡£
+0x1F1AD918=~z~æˆ‘èƒ½å¸®ä½ æ‹¯æ•‘ä¼šæ‰€ï¼ŒçœŸçš„ï¼Œå…„å¼Ÿã€‚
 
 ;0x266BE65E=~z~Uh...you were my brother, Brian, but you fucked shit up.
-0x266BE65E=~z~àŞ...ÄãÒÔÇ°ÕæÊÇÎÒµÄºÃĞÖµÜ£¬Brian£¬¿ÉÏ§ÄãÏÖÔÚ¸ã³ÉÁËÕâÑù¡£
+0x266BE65E=~z~å™¢...ä½ ä»¥å‰çœŸæ˜¯æˆ‘çš„å¥½å…„å¼Ÿï¼ŒBrianï¼Œå¯æƒœä½ ç°åœ¨ææˆäº†è¿™æ ·ã€‚
 
 ;0x27524529=~z~This don't feel right to me, man. Now get the fuck out of here.
-0x27524529=~z~ÎÒ¸Ğ¾õ²»Ì«¶Ô£¬»ï¼Æ£¬ÏÖÔÚÁ¢Âí¹ö³öÀ´¡£
+0x27524529=~z~æˆ‘æ„Ÿè§‰ä¸å¤ªå¯¹ï¼Œä¼™è®¡ï¼Œç°åœ¨ç«‹é©¬æ»šå‡ºæ¥ã€‚
 
 ;0x283B7B61=~z~Look, I'm with Johnny f-ing Klebitz. Umm, we're coming to you, huh.
-0x283B7B61=~z~Ìı×Å£¬ÎÒÔÚºÍËûÂèµÄJohnny Klebitz£¬ßÀ£¬ÎÒÃÇÕıÔÚÈ¥ÄãÄÇ¶ù£¬ºÇºÇ¡£
+0x283B7B61=~z~å¬ç€ï¼Œæˆ‘åœ¨å’Œä»–å¦ˆçš„Johnny Klebitzï¼Œå‘ƒï¼Œæˆ‘ä»¬æ­£åœ¨å»ä½ é‚£å„¿ï¼Œå‘µå‘µã€‚
 
 ;0x28B69304=100
 0x28B69304=100
@@ -60,16 +60,16 @@
 0x2DED62A3=RPi1_JA
 
 ;0x303F7A15=~z~Seriously. Billy, he fucked up.
-0x303F7A15=~z~ÕæµÄ£¬Billy£¬Ëû¸ãÔÒÁË¡£
+0x303F7A15=~z~çœŸçš„ï¼ŒBillyï¼Œä»–æç ¸äº†ã€‚
 
 ;0x316A7DB7=~z~Fuck you Brian.
-0x316A7DB7=~z~ÄãËµÄãÂèÄØ¡£
+0x316A7DB7=~z~ä½ è¯´ä½ å¦ˆå‘¢ã€‚
 
 ;0x32061EA6=RPi1_FB
 0x32061EA6=RPi1_FB
 
 ;0x330D54C0=~z~Johnny Klebitz.
-0x330D54C0=~z~Johnny Klebitz¡£
+0x330D54C0=~z~Johnny Klebitzã€‚
 
 ;0x333CAFC5=RPi1_EA
 0x333CAFC5=RPi1_EA
@@ -78,16 +78,16 @@
 0x33482DB0=RPi1_EB
 
 ;0x3A8AFBA9=~z~Uh, can you wait here a minute, man?
-0x3A8AFBA9=~z~ßÀ£¬»ï¼Æ£¬ÄãÄÜÔÚÕâ¶ùµÈÒ»»á¶ùÂğ£¿
+0x3A8AFBA9=~z~å‘ƒï¼Œä¼™è®¡ï¼Œä½ èƒ½åœ¨è¿™å„¿ç­‰ä¸€ä¼šå„¿å—ï¼Ÿ
 
 ;0x3DBADB42=~z~Johnny! Johnny K.
-0x3DBADB42=~z~Johnny£¡Johnny K¡£
+0x3DBADB42=~z~Johnnyï¼Johnny Kã€‚
 
 ;0x3F59A949=~z~Heh heh heh, yeah, yeah, that's right. Listen I've, ummm...
-0x3F59A949=~z~ºÇºÇºÇ£¬¶Ô£¬ÊÇ£¬Ã»´í£¬Ìı×ÅÎÒÒÑ¾­£¬ßÀ...
+0x3F59A949=~z~å‘µå‘µå‘µï¼Œå¯¹ï¼Œæ˜¯ï¼Œæ²¡é”™ï¼Œå¬ç€æˆ‘å·²ç»ï¼Œå‘ƒ...
 
 ;0x41C99E91=~z~Everything got out of control, seriously.
-0x41C99E91=~z~ËùÓĞÊÂÇé¶¼Ê§È¥¿ØÖÆÁË,ÕæµÄ¡£
+0x41C99E91=~z~æ‰€æœ‰äº‹æƒ…éƒ½å¤±å»æ§åˆ¶äº†,çœŸçš„ã€‚
 
 ;0x42F7578B=RPi1_PA
 0x42F7578B=RPi1_PA
@@ -96,28 +96,28 @@
 0x4685BF9D=SFX_PAUSE_450
 
 ;0x491C7E7D=~z~You're dead, Brian.
-0x491C7E7D=~z~½ñÌìÖ®ÄÚÉ±ÁËÄã£¬Brian¡£
+0x491C7E7D=~z~ä»Šå¤©ä¹‹å†…æ€äº†ä½ ï¼ŒBrianã€‚
 
 ;0x4AA3B115=~z~Where you taking me now, boy?
-0x4AA3B115=~z~ÄãÏÖÔÚÒª´øÎÒÈ¥ÄÄ£¬Ğ¡×Ó£¿
+0x4AA3B115=~z~ä½ ç°åœ¨è¦å¸¦æˆ‘å»å“ªï¼Œå°å­ï¼Ÿ
 
 ;0x4F6E7EA9=~z~Hey I thought I told you to stay out of town?
-0x4F6E7EA9=~z~Î¹£¬ÎÒ¼ÇµÃÎÒÊÇ½ĞÄãÀë¿ªÕâ¶ù°É£¿
+0x4F6E7EA9=~z~å–‚ï¼Œæˆ‘è®°å¾—æˆ‘æ˜¯å«ä½ ç¦»å¼€è¿™å„¿å§ï¼Ÿ
 
 ;0x504CEB37=100090100
 0x504CEB37=100090100
 
 ;0x509F3C3C=~z~Yeah, killing your friends.
-0x509F3C3C=~z~ÊÇÊÇÊÇ£¬É±ÁËÅóÓÑµÄºÃºì¹÷¡£
+0x509F3C3C=~z~æ˜¯æ˜¯æ˜¯ï¼Œæ€äº†æœ‹å‹çš„å¥½çº¢æ£ã€‚
 
 ;0x542DB423=~z~Stay behind me. Don't overtake, Johnny. Don't get ahead of yourself.
-0x542DB423=~z~¸úÔÚÎÒºóÃæ£¬±ğ³¬ÉÏÀ´£¬Johnny£¬±ğµ±×Ô¼º»¹ÊÇÍ·¶ù¡£
+0x542DB423=~z~è·Ÿåœ¨æˆ‘åé¢ï¼Œåˆ«è¶…ä¸Šæ¥ï¼ŒJohnnyï¼Œåˆ«å½“è‡ªå·±è¿˜æ˜¯å¤´å„¿ã€‚
 
 ;0x55311907=~z~Yeah. We're coming to you.
-0x55311907=~z~ÊÇ°¡£¬ÎÒÃÇÕıÔÚÈ¥ÄãÄÇ¶ù¡£
+0x55311907=~z~æ˜¯å•Šï¼Œæˆ‘ä»¬æ­£åœ¨å»ä½ é‚£å„¿ã€‚
 
 ;0x5BD06236=~z~Hey, it's, it's Brian.
-0x5BD06236=~z~Î¹£¬ÎÒ£¬ÎÒÊÇBrian¡£
+0x5BD06236=~z~å–‚ï¼Œæˆ‘ï¼Œæˆ‘æ˜¯Brianã€‚
 
 ;0x630D2E66=RPi1_MA
 0x630D2E66=RPi1_MA
@@ -129,25 +129,25 @@
 0x683C00C7=RPi1_GC
 
 ;0x6A7D6E90=~z~That was fair? Just part of the game?
-0x6A7D6E90=~z~ÄÇ¾Í¹«Æ½ÁË£¿½ö½öÊÇÕâ³¡ÓÎÏ·µÄÒ»²¿·Ö£¿
+0x6A7D6E90=~z~é‚£å°±å…¬å¹³äº†ï¼Ÿä»…ä»…æ˜¯è¿™åœºæ¸¸æˆçš„ä¸€éƒ¨åˆ†ï¼Ÿ
 
 ;0x6D1EF53B=~z~You're my family.
-0x6D1EF53B=~z~ÄãÊÇÎÒµÄ¼ÒÈË¡£
+0x6D1EF53B=~z~ä½ æ˜¯æˆ‘çš„å®¶äººã€‚
 
 ;0x6EAF9006=SFX_PAUSE_490
 0x6EAF9006=SFX_PAUSE_490
 
 ;0x73949128=~z~Johnny's a fucking Judas.
-0x73949128=~z~JohnnyÄã¸ö¸ÃËÀµÄÅÑÍ½¡£
+0x73949128=~z~Johnnyä½ ä¸ªè¯¥æ­»çš„å›å¾’ã€‚
 
 ;0x73FC64FC=RPi1_NB
 0x73FC64FC=RPi1_NB
 
 ;0x7449D65D=~z~I should be Chapter President.
-0x7449D65D=~z~ÎÒ²ÅÓ¦¸ÃÊÇÄ¦ÍĞ°ïÊ×Áì¡£
+0x7449D65D=~z~æˆ‘æ‰åº”è¯¥æ˜¯æ‘©æ‰˜å¸®é¦–é¢†ã€‚
 
 ;0x76F908EF=~z~Billy... he controlled me. I'm so ashamed.
-0x76F908EF=~z~Billy...Ëû¹Æ»óÁËÎÒ£¬ÎÒºÜĞßÀ¢¡£
+0x76F908EF=~z~Billy...ä»–è›Šæƒ‘äº†æˆ‘ï¼Œæˆ‘å¾ˆç¾æ„§ã€‚
 
 ;0x7739A2AB=RPi1_CC
 0x7739A2AB=RPi1_CC
@@ -159,10 +159,10 @@
 0x79F58464=RPi1_FC
 
 ;0x80E11D8F=~z~This feels weird, dude.
-0x80E11D8F=~z~»ï¼Æ£¬Õâ¸Ğ¾õºÜÆæ¹Ö¡£
+0x80E11D8F=~z~ä¼™è®¡ï¼Œè¿™æ„Ÿè§‰å¾ˆå¥‡æ€ªã€‚
 
 ;0x84F769BE=~z~We were all under a lot of pressure.
-0x84F769BE=~z~ÎÒÃÇ¶¼ÓĞºÜ´óµÄÑ¹Á¦¡£
+0x84F769BE=~z~æˆ‘ä»¬éƒ½æœ‰å¾ˆå¤§çš„å‹åŠ›ã€‚
 
 ;0x85EA4709=RPi1_KA
 0x85EA4709=RPi1_KA
@@ -177,25 +177,25 @@
 0x89A22255=SFX_PAUSE_360
 
 ;0x89CAAE92=~z~You gotta come with me. I got to show you something.
-0x89CAAE92=~z~ÄãµÃ¸úÎÒÀ´£¬ÎÒÓĞĞ©¶«Î÷Òª¸øÄã¿´¡£
+0x89CAAE92=~z~ä½ å¾—è·Ÿæˆ‘æ¥ï¼Œæˆ‘æœ‰äº›ä¸œè¥¿è¦ç»™ä½ çœ‹ã€‚
 
 ;0x8A9698B4=RPi1_NA
 0x8A9698B4=RPi1_NA
 
 ;0x8F5AC8B4=~z~You're a dick.
-0x8F5AC8B4=~z~ÎÒÅÑÄãÂè¡£
+0x8F5AC8B4=~z~æˆ‘å›ä½ å¦ˆã€‚
 
 ;0x9300A08C=~z~Then there's a big bad Johnny Klebitz. Heh heh heh.
-0x9300A08C=~z~»¹ÓĞÄÇ¸ö´óÉµ±ÆJohnny Klebitz¡£ºÇºÇºÇ¡£
+0x9300A08C=~z~è¿˜æœ‰é‚£ä¸ªå¤§å‚»é€¼Johnny Klebitzã€‚å‘µå‘µå‘µã€‚
 
 ;0x96A50D19=~z~And listen, I made some bad decisions.
-0x96A50D19=~z~ÄãÌıÎÒËµ£¬ÎÒÈ·Êµ×öÁËÒ»Ğ©´íÎóµÄ¾ö¶¨¡£
+0x96A50D19=~z~ä½ å¬æˆ‘è¯´ï¼Œæˆ‘ç¡®å®åšäº†ä¸€äº›é”™è¯¯çš„å†³å®šã€‚
 
 ;0x97C49D52=~z~You were always a Judas, Johnny.
-0x97C49D52=~z~ÄãÒ»Ö±ÊÇ¸öÅÑÍ½£¬Johnny¡£
+0x97C49D52=~z~ä½ ä¸€ç›´æ˜¯ä¸ªå›å¾’ï¼ŒJohnnyã€‚
 
 ;0x9C51D470=~z~You're still a snivelling little shit, man.
-0x9C51D470=~z~»ï¼Æ£¬Äã»¹ÊÇ¸öÈíÈõÎŞÄÜµÄĞ¡ÔÓÖÖ¡£
+0x9C51D470=~z~ä¼™è®¡ï¼Œä½ è¿˜æ˜¯ä¸ªè½¯å¼±æ— èƒ½çš„å°æ‚ç§ã€‚
 
 ;0x9CC729E6=RPi1_DA
 0x9CC729E6=RPi1_DA
@@ -207,37 +207,37 @@
 0xA3CD7B73=RPi1_FA
 
 ;0xA42E174E=~z~What you been doing with yourself then, Brian? Hiding under some rock?
-0xA42E174E=~z~ÄÇÄãÓÖÔÚ×öÊ²Ã´£¬Brian£¿¶ãÔÚÄ³¿éÊ¯Í·ºóÃæ£¿
+0xA42E174E=~z~é‚£ä½ åˆåœ¨åšä»€ä¹ˆï¼ŒBrianï¼Ÿèº²åœ¨æŸå—çŸ³å¤´åé¢ï¼Ÿ
 
 ;0xA53B383F=~z~Billy was good to you, man.
-0xA53B383F=~z~Billy¶ÔÄãºÜºÃ£¬»ï¼Æ¡£
+0xA53B383F=~z~Billyå¯¹ä½ å¾ˆå¥½ï¼Œä¼™è®¡ã€‚
 
 ;0xA5F6DDC5=RPi1_DB
 0xA5F6DDC5=RPi1_DB
 
 ;0xA648678D=~z~I gotta come clean. Come with me, please...
-0xA648678D=~z~ÎÒ±ØĞëËµ³öÕæÏà£¬Çë¸úÎÒÀ´°É...
+0xA648678D=~z~æˆ‘å¿…é¡»è¯´å‡ºçœŸç›¸ï¼Œè¯·è·Ÿæˆ‘æ¥å§...
 
 ;0xA70059C7=~z~Come on, Johnny. Follow me. Follow me.
-0xA70059C7=~z~À´°É£¬Johnny¡£¸ú×ÅÎÒ¡£¸úÉÏÀ´¡£
+0xA70059C7=~z~æ¥å§ï¼ŒJohnnyã€‚è·Ÿç€æˆ‘ã€‚è·Ÿä¸Šæ¥ã€‚
 
 ;0xA7D9CDE2=SFX_PAUSE_340
 0xA7D9CDE2=SFX_PAUSE_340
 
 ;0xA9BD9424=~z~I've been waiting to see you for a long time, Johnny. Ever since,
-0xA9BD9424=~z~ÎÒÏë¼ûÄãºÜ¾ÃÁË£¬Johnny£¬×Ô´Ó£¬
+0xA9BD9424=~z~æˆ‘æƒ³è§ä½ å¾ˆä¹…äº†ï¼ŒJohnnyï¼Œè‡ªä»ï¼Œ
 
 ;0xABAE8810=SFX_PAUSE_330
 0xABAE8810=SFX_PAUSE_330
 
 ;0xABC43757=~z~But seriously, Johnny, you're the man.
-0xABC43757=~z~µ«ÊÇËµÕæµÄ£¬Johnny£¬ÄãÊÇ¸öÕæºº×Ó¡£
+0xABC43757=~z~ä½†æ˜¯è¯´çœŸçš„ï¼ŒJohnnyï¼Œä½ æ˜¯ä¸ªçœŸæ±‰å­ã€‚
 
 ;0xACA18429=RPi1_GA
 0xACA18429=RPi1_GA
 
 ;0xAD27761B=~z~I hope I don't regret not killing you, Brian.
-0xAD27761B=~z~ÎÒÏ£ÍûÎÒ²»ºó»Ú·Å¹ıÄã£¬Brian¡£
+0xAD27761B=~z~æˆ‘å¸Œæœ›æˆ‘ä¸åæ‚”æ”¾è¿‡ä½ ï¼ŒBrianã€‚
 
 ;0xAEE64853=RPi1_MB
 0xAEE64853=RPi1_MB
@@ -246,22 +246,22 @@
 0xB0B112C8=SFX_PAUSE_360
 
 ;0xB0B2A206=~z~That's nice, dude. I'm real touched.
-0xB0B2A206=~z~¿ÉÒÔ£¬ĞÖµÜ£¬ÎÒºÜ¸Ğ¶¯¡£
+0xB0B2A206=~z~å¯ä»¥ï¼Œå…„å¼Ÿï¼Œæˆ‘å¾ˆæ„ŸåŠ¨ã€‚
 
 ;0xB1B4FCFE=~z~But me... I was being a good soldier. Following my leader.
-0xB1B4FCFE=~z~¿ÉÎÒ...ÎÒÊÇ¸öºÃºì¹÷¡£×·Ëæ×ÅÎÒÀÏ´ó
+0xB1B4FCFE=~z~å¯æˆ‘...æˆ‘æ˜¯ä¸ªå¥½çº¢æ£ã€‚è¿½éšç€æˆ‘è€å¤§
 
 ;0xB3BDD3C6=~z~That's the last insult, motherfucker.
-0xB3BDD3C6=~z~ÕâÊÇ×îºóÒ»´ÎÎÊºòÁË£¬áÌÖÖ¡£
+0xB3BDD3C6=~z~è¿™æ˜¯æœ€åä¸€æ¬¡é—®å€™äº†ï¼Œå´½ç§ã€‚
 
 ;0xB5C68781=~z~I don't know how Billy put up with you, man.
-0xB5C68781=~z~ÎÒÕæ¸ã²»¶®BillyÊÇÔõÃ´ÈÌÄãµÄ£¬¸çÃÇ¶ù¡£
+0xB5C68781=~z~æˆ‘çœŸæä¸æ‡‚Billyæ˜¯æ€ä¹ˆå¿ä½ çš„ï¼Œå“¥ä»¬å„¿ã€‚
 
 ;0xB8C0FD48=~z~See if you can keep up, huh Johnny? Don't get lost.
-0xB8C0FD48=~z~Johnny£¬Äã¸úµÃÉÏÎÒÂğ£¬¹ş£¿¿É±ğÃÔÂ·ÁË¡£
+0xB8C0FD48=~z~Johnnyï¼Œä½ è·Ÿå¾—ä¸Šæˆ‘å—ï¼Œå“ˆï¼Ÿå¯åˆ«è¿·è·¯äº†ã€‚
 
 ;0xBAFF7487=~z~Fuck you, Klebitz-o-witz.
-0xBAFF7487=~z~È¥ÄãÂèµÄ£¬Klebitz-o-witz¡£
+0xBAFF7487=~z~å»ä½ å¦ˆçš„ï¼ŒKlebitz-o-witzã€‚
 
 ;0xBB692669=RPi1_CA
 0xBB692669=RPi1_CA
@@ -279,31 +279,31 @@
 0xBFA29C66=100
 
 ;0xBFC1191A=~z~Come on, man. That ain't fair. That ain't fair.
-0xBFC1191A=~z~àŞ²»£¬ĞÖµÜ£¬ÄÇ²»¹«Æ½£¬ÄÇ²»¹«Æ½¡£
+0xBFC1191A=~z~å™¢ä¸ï¼Œå…„å¼Ÿï¼Œé‚£ä¸å…¬å¹³ï¼Œé‚£ä¸å…¬å¹³ã€‚
 
 ;0xC415570C=~z~You sound kinda creepy, there, Brian. No, I don't mean to make fun. I really don't.
-0xC415570C=~z~ÄãÄÇÌı×ÅÓĞµãÏÅÈË£¬ÄãÇÆ£¬Brian¡£²»£¬ÎÒ²»ÊÇÒª¿ªÍæĞ¦¡£ÎÒÕæÃ»ÓĞ¡£
+0xC415570C=~z~ä½ é‚£å¬ç€æœ‰ç‚¹å“äººï¼Œä½ ç§ï¼ŒBrianã€‚ä¸ï¼Œæˆ‘ä¸æ˜¯è¦å¼€ç©ç¬‘ã€‚æˆ‘çœŸæ²¡æœ‰ã€‚
 
 ;0xC7F7FC3A=~z~I hope you die scared, Brian. You little bitch.
-0xC7F7FC3A=~z~µ«Ô¸Äã»¹ÊÇÅÂËÀµÄ£¬Brian£¬Äã¸öáÌÖÖ¡£
+0xC7F7FC3A=~z~ä½†æ„¿ä½ è¿˜æ˜¯æ€•æ­»çš„ï¼ŒBrianï¼Œä½ ä¸ªå´½ç§ã€‚
 
 ;0xC96FAE6B=~z~You best be legit, Brian.
-0xC96FAE6B=~z~Äã×îºÃ¹æ¾Øµã£¬Brian¡£
+0xC96FAE6B=~z~ä½ æœ€å¥½è§„çŸ©ç‚¹ï¼ŒBrianã€‚
 
 ;0xCCEC34BC=~z~Then I'll leave town.
-0xCCEC34BC=~z~È»ºóÎÒ»áÓÀÔ¶Àë¿ªÕâÀï¡£
+0xCCEC34BC=~z~ç„¶åæˆ‘ä¼šæ°¸è¿œç¦»å¼€è¿™é‡Œã€‚
 
 ;0xCEE48A0F=~z~Brian, you mother fucking little piece of shit. Die!
 0xCEE48A0F=~z~Brian, you mother fucking little piece of shit. Die!
 
 ;0xD09080EF=~z~I did. I left. I was a ghost. Seriously Johnny.
-0xD09080EF=~z~ÎÒÊÇ×ßÁË£¬Àë¿ªÁËÕâÀï£¬Ïñ¸ö¹Â»êÒ°¹íÒ»Ñù£¬ÕæµÄJohnny¡£
+0xD09080EF=~z~æˆ‘æ˜¯èµ°äº†ï¼Œç¦»å¼€äº†è¿™é‡Œï¼Œåƒä¸ªå­¤é­‚é‡é¬¼ä¸€æ ·ï¼ŒçœŸçš„Johnnyã€‚
 
 ;0xD13E6DB2=RPi1_LA
 0xD13E6DB2=RPi1_LA
 
 ;0xD1FFBD97=~z~Really?
-0xD1FFBD97=~z~ÄãÈÏÕæµÄ£¿
+0xD1FFBD97=~z~ä½ è®¤çœŸçš„ï¼Ÿ
 
 ;0xD32BE84E=RPi1_BA
 0xD32BE84E=RPi1_BA
@@ -315,10 +315,10 @@
 0xD53328AC=RPi1_GD
 
 ;0xD7386F19=~z~ever since you paid me that little visit.
-0xD7386F19=~z~´ÓÄãÍ»È»ÕÒÎÒ±¨¸´Ö®ºó¡£
+0xD7386F19=~z~ä»ä½ çªç„¶æ‰¾æˆ‘æŠ¥å¤ä¹‹åã€‚
 
 ;0xD7D8C2AD=~z~Okay... but if you're fucking with me,
-0xD7D8C2AD=~z~ĞĞ...µ«ÊÇÈç¹ûÄãËûÂèµÄ¸Ò¸ãÎÒ¡£
+0xD7D8C2AD=~z~è¡Œ...ä½†æ˜¯å¦‚æœä½ ä»–å¦ˆçš„æ•¢ææˆ‘ã€‚
 
 ;0xD8497F9F=102090102090012090102
 0xD8497F9F=102090102090012090102
@@ -327,22 +327,22 @@
 0xDA9B0BE3=RPi1_EC
 
 ;0xDB66D065=~z~But all the people that were killed, and all the shit we've been through,
-0xDB66D065=~z~¿ÉÄÇĞ©ËùÓĞËÀÈ¥µÄÈËÃÇ£¬ºÍÎÒÃÇ¾­Àú¹ıµÄÄñÊÂ£¬
+0xDB66D065=~z~å¯é‚£äº›æ‰€æœ‰æ­»å»çš„äººä»¬ï¼Œå’Œæˆ‘ä»¬ç»å†è¿‡çš„é¸Ÿäº‹ï¼Œ
 
 ;0xDB8385F8=~z~Yeah, I've been you know, hanging with some dudes. I miss Billy, you know.
 0xDB8385F8=~z~Yeah, I've been you know, hanging with some dudes. I miss Billy, you know.
 
 ;0xDBC5B215=~z~That's Johnny K, thinks he's President of the Alderney chapter. Most us think he's First Lady
-0xDBC5B215=~z~ÄÇÊÇJohnny K£¬ËûÓ¦¸ÃÊÇAlderneyµÄÊ×Áì¡£ÎÒÃÇ´ó¶¼¾õµÃËûÊÇµÚÒ»·òÈË
+0xDBC5B215=~z~é‚£æ˜¯Johnny Kï¼Œä»–åº”è¯¥æ˜¯Alderneyçš„é¦–é¢†ã€‚æˆ‘ä»¬å¤§éƒ½è§‰å¾—ä»–æ˜¯ç¬¬ä¸€å¤«äºº
 
 ;0xDD76F948=RPi1_HA
 0xDD76F948=RPi1_HA
 
 ;0xDEAF7DFF=~z~Yeah. Nice one. Johnny K.
-0xDEAF7DFF=~z~ÊÇÀ²£¬»¹¿ÉÒÔ¡£Johnny K¡£
+0xDEAF7DFF=~z~æ˜¯å•¦ï¼Œè¿˜å¯ä»¥ã€‚Johnny Kã€‚
 
 ;0xDF98B454=~z~Brother. Brother, Brother, Brother, Brother it's, ah, it's ah, Brian.
-0xDF98B454=~z~ĞÖµÜ¡£ĞÖµÜ£¬ĞÖµÜ£¬ĞÖµÜ£¬ĞÖµÜÕâÊÇ£¬ßÀ£¬ÕâÊÇßÀ£¬Brian¡£
+0xDF98B454=~z~å…„å¼Ÿã€‚å…„å¼Ÿï¼Œå…„å¼Ÿï¼Œå…„å¼Ÿï¼Œå…„å¼Ÿè¿™æ˜¯ï¼Œå‘ƒï¼Œè¿™æ˜¯å‘ƒï¼ŒBrianã€‚
 
 ;0xE260F9E5=SFX_PAUSE_190
 0xE260F9E5=SFX_PAUSE_190
@@ -354,47 +354,48 @@
 0xE36E9758=102
 
 ;0xE3D92780=~z~You were a ghost for like five minutes man.
-0xE3D92780=~z~ÄãÕâ¹íÖ»µ±ÁËÎå·ÖÖÓ°É£¬ĞÖµÜ.
+0xE3D92780=~z~ä½ è¿™é¬¼åªå½“äº†äº”åˆ†é’Ÿå§ï¼Œå…„å¼Ÿ.
 
 ;0xE5E79630=012090102090102090012
 0xE5E79630=012090102090102090012
 
 ;0xE8625189=~z~Stay here for a second, buddy. Don't go nowhere.
-0xE8625189=~z~ÔÚÄÇÀïµÈÒ»»á¶ù£¬»ï¼Æ£¬ÄÄ¶ùÒ²±ğÈ¥¡£
+0xE8625189=~z~åœ¨é‚£é‡Œç­‰ä¸€ä¼šå„¿ï¼Œä¼™è®¡ï¼Œå“ªå„¿ä¹Ÿåˆ«å»ã€‚
 
 ;0xE93F4D08=~z~Looky who I got with me - Johnny K, my old pal.
-0xE93F4D08=~z~¿´¿´ÎÒºÍË­À´ÁË - Johnny K£¬ÎÒµÄÀÏ»ï¼Æ¡£
+0xE93F4D08=~z~çœ‹çœ‹æˆ‘å’Œè°æ¥äº† - Johnny Kï¼Œæˆ‘çš„è€ä¼™è®¡ã€‚
 
 ;0xE9A9664E=~z~I'm gonna put a bullet right through your fucking skull Brian.
-0xE9A9664E=~z~ÎÒ¾ÍÒ»Ç¹´ò±¬ÄãµÄÄÔ¿ÇBrian¡£
+0xE9A9664E=~z~æˆ‘å°±ä¸€æªæ‰“çˆ†ä½ çš„è„‘å£³Brianã€‚
 
 ;0xEA808AD0=102
 0xEA808AD0=102
 
 ;0xEB234B69=~z~Yeah. I got Johnny K from Alderney with me. We're coming to you.
-0xEB234B69=~z~ÊÇ°¡¡£ÎÒ´ø×ÅJohnny K´ÓAlderneyÀ´ÁË¡£ÎÒÃÇÕıÔÚÈ¥ÄãÄÇÀïÄØ¡£
+0xEB234B69=~z~æ˜¯å•Šã€‚æˆ‘å¸¦ç€Johnny Kä»Alderneyæ¥äº†ã€‚æˆ‘ä»¬æ­£åœ¨å»ä½ é‚£é‡Œå‘¢ã€‚
 
 ;0xEB8F7202=~z~Get the fuck out of my sight.
-0xEB8F7202=~z~ÂíÉÏ´ÓÎÒÃæÇ°¹ö¿ª¡£
+0xEB8F7202=~z~é©¬ä¸Šä»æˆ‘é¢å‰æ»šå¼€ã€‚
 
 ;0xEDA874E8=~z~and the fact you and Billy are rats.
-0xEDA874E8=~z~ÒÔ¼°ÄãºÍBillyÊÇÄÚ¹íµÄÊÂÊµ¡£
+0xEDA874E8=~z~ä»¥åŠä½ å’ŒBillyæ˜¯å†…é¬¼çš„äº‹å®ã€‚
 
 ;0xF4C68324=~z~Fuck you Brian.
-0xF4C68324=~z~ÎÒ²ÙÄãÂèµÄBrian¡£
+0xF4C68324=~z~æˆ‘æ“ä½ å¦ˆçš„Brianã€‚
 
 ;0xF51349F4=~z~I told you to go permanently.
-0xF51349F4=~z~ÎÒËµµÄÊÇÈÃÄãÓÀÔ¶¹öµ°¡£
+0xF51349F4=~z~æˆ‘è¯´çš„æ˜¯è®©ä½ æ°¸è¿œæ»šè›‹ã€‚
 
 ;0xF7940F61=092
 0xF7940F61=092
 
 ;0xFE2D6B05=~z~Hey, hey, you'd never guess who I bumped into.
-0xFE2D6B05=~z~ºÙ£¬ºÙ£¬ÄãÓ¦¸ÃÓÀÔ¶Ò²²Â²»µ½ÎÒ×²µ¹Ë­ÁË¡£
+0xFE2D6B05=~z~å˜¿ï¼Œå˜¿ï¼Œä½ åº”è¯¥æ°¸è¿œä¹ŸçŒœä¸åˆ°æˆ‘æ’å€’è°äº†ã€‚
 
 ;0xFFF48110=100090100090100
 0xFFF48110=100090100090100
 
 ;0xFFF94EE3=~z~Hiding under a rock? That's funny, JK, really funny.
-0xFFF94EE3=~z~¶ãÔÚÊ¯Í·ºóÃæ£¿ÓĞÒâË¼£¬JK£¬ÕæÓĞÒâË¼¡£
+0xFFF94EE3=~z~èº²åœ¨çŸ³å¤´åé¢ï¼Ÿæœ‰æ„æ€ï¼ŒJKï¼ŒçœŸæœ‰æ„æ€ã€‚
+
 
