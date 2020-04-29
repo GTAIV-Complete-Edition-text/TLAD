@@ -30,7 +30,7 @@
 0x161FA9E0=SFX_PAUSE_420
 
 ;0x17499AD8=~z~You little fucking shit. Fuck you, Brian.
-0x17499AD8=~z~你个崽种，操你妈的Brian。
+0x17499AD8=~z~你个崽种，操你妈的，Brian。
 
 ;0x1D1AA5DE=SFX_PAUSE_480
 0x1D1AA5DE=SFX_PAUSE_480
@@ -48,7 +48,7 @@
 0x27524529=~z~我感觉不太对，伙计，现在立马滚出来。
 
 ;0x283B7B61=~z~Look, I'm with Johnny f-ing Klebitz. Umm, we're coming to you, huh.
-0x283B7B61=~z~听着，我在和他妈的Johnny Klebitz，呃，我们正在去你那儿，呵呵。
+0x283B7B61=~z~听着，我在和丫的Johnny Klebitz，呃，我们正在去你那儿，呵呵。
 
 ;0x28B69304=100
 0x28B69304=100
