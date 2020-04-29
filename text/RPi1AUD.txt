@@ -9,7 +9,7 @@
 0x06C4ED57=~z~噢喔，兄弟，你别这样。
 
 ;0x06DC8E7D=~z~Just wait here a second, would you, Johnny?
-0x06DC8E7D=~z~你愿意在这等一会儿吗，Johnny?
+0x06DC8E7D=~z~在这等一会儿，好吗，Johnny？
 
 ;0x0CED7840=100090010
 0x0CED7840=100090010
