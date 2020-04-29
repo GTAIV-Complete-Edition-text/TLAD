@@ -1,13 +1,13 @@
 ﻿[PBLB17]
 ;0x615548F9=Exploitation that needs to be explained
-0x615548F9=Exploitation that needs to be explained
+0x615548F9=请把剥削解释清楚
 
 ;0x908547FE=Sweatshops. That's what the ragged, broken American college student finds when they hit the workforce. Fresh out of college, a place of learning, they want time to balance life by taking long hikes, getting colon cleansing, writing in a journal! How do we expect people to be part of a democracy when they are bogged down by oppressive work 8-9 hours a day? We feel sad for Sandra McColland, she's standing up for herself and fighting corporate America. Good for you. You go girl. These conservatives will take every ounce of your being. Sue them till they get a clue that work is about more than working.
-0x908547FE=Sweatshops. That's what the ragged, broken American college student finds when they hit the workforce. Fresh out of college, a place of learning, they want time to balance life by taking long hikes, getting colon cleansing, writing in a journal! How do we expect people to be part of a democracy when they are bogged down by oppressive work 8-9 hours a day? We feel sad for Sandra McColland, she's standing up for herself and fighting corporate America. Good for you. You go girl. These conservatives will take every ounce of your being. Sue them till they get a clue that work is about more than working.
+0x908547FE=血汗工厂。这就是衣衫褴褛、心力交瘁的美国大学生的就业现状。他们刚从大学这个学习场所毕业，需要能用来远足、洗肠、写日记的时间平衡生活！如果人们被每天八九个小时的强制劳动绑架，他们还怎么参与到民主社会当中？Sandra McColland为自己发声，并与美国企业界进行抗争，我们为她的遭遇感到难过。你真行，加油姑娘。这些保守派会榨干你的每分每毫。起诉他们，让他们认清劳动不仅仅是干活。
 
 ;0xB475AB54=Joshua Crane
 0xB475AB54=Joshua Crane
 
 ;0xD6F12803=Who will stand up for the privileged?
-0xD6F12803=Who will stand up for the privileged?
+0xD6F12803=谁会为特权阶级发声？
 

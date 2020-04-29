@@ -1,94 +1,94 @@
 ﻿[JIM1]
 ;0x02CFC46D=Get your ~b~bike.~s~
-0x02CFC46D=Get your ~b~bike.~s~
+0x02CFC46D=取得~b~摩托车。~s~
 
 ;0x07EB8249=~r~There aren't enough bikes for the shipment.~s~
-0x07EB8249=~r~There aren't enough bikes for the shipment.~s~
+0x07EB8249=~r~摩托车太少，卖不掉了。~s~
 
 ;0x08245A4E=Go to ~b~Jim.~s~
-0x08245A4E=Go to ~b~Jim.~s~
+0x08245A4E=去找~b~Jim。~s~
 
 ;0x17E4EE97=Go to ~b~Jim.~s~
-0x17E4EE97=Go to ~b~Jim.~s~
+0x17E4EE97=去找~b~Jim。~s~
 
 ;0x1A9827A2=~r~A stolen bike was wrecked.~s~
-0x1A9827A2=~r~A stolen bike was wrecked.~s~
+0x1A9827A2=~r~一辆偷取的摩托车被摧毁了。~s~
 
 ;0x1AAFA13D=Your backup has arrived.
-0x1AAFA13D=Your backup has arrived.
+0x1AAFA13D=你的支援到了。
 
 ;0x1F2D885C=Go to the ~y~clubhouse.~s~
-0x1F2D885C=Go to the ~y~clubhouse.~s~
+0x1F2D885C=前往~y~会所。~s~
 
 ;0x271A8D02=Get in the ~b~truck.~s~
-0x271A8D02=Get in the ~b~truck.~s~
+0x271A8D02=进入~b~卡车。~s~
 
 ;0x2DE8A5D2=~s~Fuck yeah.~s~
-0x2DE8A5D2=~s~Fuck yeah.~s~
+0x2DE8A5D2=~s~真吉尔棒。~s~
 
 ;0x4EDB1027=~r~Jim is dead.~s~
-0x4EDB1027=~r~Jim is dead.~s~
+0x4EDB1027=~r~Jim死了。~s~
 
 ;0x51546CA9=Phone Terry or Clay for backup.
-0x51546CA9=Phone Terry or Clay for backup.
+0x51546CA9=打电话给Terry或Clay呼叫支援。
 
 ;0x6191B594=~r~Jim's bike was wrecked.~s~
-0x6191B594=~r~Jim's bike was wrecked.~s~
+0x6191B594=~r~Jim的摩托车被摧毁了。~s~
 
 ;0x658B88BF=Get back to the ~y~yard.~s~
-0x658B88BF=Get back to the ~y~yard.~s~
+0x658B88BF=返回~y~院子。~s~
 
 ;0x68039A0B=Get back on your ~b~bike.~s~
-0x68039A0B=Get back on your ~b~bike.~s~
+0x68039A0B=回到你的~b~摩托车~s~上。
 
 ;0x6CFEC5DA=You can phone Terry or Clay for help at any time during a job.
-0x6CFEC5DA=You can phone Terry or Clay for help at any time during a job.
+0x6CFEC5DA=差事期间，你随时可以打电话给Terry或Clay寻求帮助。
 
 ;0x7457DB20=~r~Your bike was wrecked.~s~
-0x7457DB20=~r~Your bike was wrecked.~s~
+0x7457DB20=~r~你的摩托车被摧毁了。~s~
 
 ;0x76C1B787=~s~Let's do this.~s~
-0x76C1B787=~s~Let's do this.~s~
+0x76C1B787=~s~开干。~s~
 
 ;0x7BB9C177=Get in the truck with ~b~Jim.~s~
-0x7BB9C177=Get in the truck with ~b~Jim.~s~
+0x7BB9C177=与~b~Jim~s~一起进入卡车。
 
 ;0x850F7C8F=~r~The truck was wrecked.~s~
-0x850F7C8F=~r~The truck was wrecked.~s~
+0x850F7C8F=~r~卡车被摧毁了。~s~
 
 ;0x8CE1576A=Take out the ~r~Angels of Death.~s~
-0x8CE1576A=Take out the ~r~Angels of Death.~s~
+0x8CE1576A=干掉~r~死亡天使成员。~s~
 
 ;0x9BD1F54B=Wait for ~b~Jim.~s~
-0x9BD1F54B=Wait for ~b~Jim.~s~
+0x9BD1F54B=等待~b~Jim。~s~
 
 ;0xB0711E89=Park the bike on the back of the ~y~truck.~s~
-0xB0711E89=Park the bike on the back of the ~y~truck.~s~
+0xB0711E89=将摩托车停到~y~卡车~s~后面。
 
 ;0xB9D7B27E=Go to the ~y~diner.~s~
-0xB9D7B27E=Go to the ~y~diner.~s~
+0xB9D7B27E=前往~y~小餐厅。~s~
 
 ;0xBF3CBC20=Get back in the ~b~truck.~s~
-0xBF3CBC20=Get back in the ~b~truck.~s~
+0xBF3CBC20=回到~b~卡车~s~上。
 
 ;0xCC1656FB=Leave the bikes, I'll have them looked after.
-0xCC1656FB=Leave the bikes, I'll have them looked after.
+0xCC1656FB=车就放这儿吧，我会处理好的。
 
 ;0xD145EC8E=Follow ~b~Jim~s~ back to the clubhouse.
-0xD145EC8E=Follow ~b~Jim~s~ back to the clubhouse.
+0xD145EC8E=跟随~b~Jim~s~返回会所。
 
 ;0xDE3D7B49=Take a ~b~bike.~s~
-0xDE3D7B49=Take a ~b~bike.~s~
+0xDE3D7B49=偷一辆~b~摩托车。~s~
 
 ;0xF08F1FEC=Get in the ~b~truck~s~ with Jim.
-0xF08F1FEC=Get in the ~b~truck~s~ with Jim.
+0xF08F1FEC=与Jim一起进入~b~卡车。~s~
 
 ;0xF18D21E8=Go to the ~b~truck.~s~
-0xF18D21E8=Go to the ~b~truck.~s~
+0xF18D21E8=前往~b~卡车~s~所在地。~s~
 
 ;0xF2B2AF67=Get on the ~b~bike.~s~
-0xF2B2AF67=Get on the ~b~bike.~s~
+0xF2B2AF67=骑上~b~摩托车。~s~
 
 ;0xF3E12568=Get in the ~b~truck.~s~
-0xF3E12568=Get in the ~b~truck.~s~
+0xF3E12568=进入~b~卡车。~s~
 
