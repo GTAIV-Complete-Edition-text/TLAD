@@ -1,93 +1,93 @@
 ﻿[JIMRACE]
 ;0x021EB42F=Follow ~b~Malc ~s~to the race start.
-0x021EB42F=Follow ~b~Malc ~s~to the race start.
+0x021EB42F=跟着~b~Malc ~s~去比赛起点。
 
 ;0x02D1592B=~r~The cops scared off the other racers.
-0x02D1592B=~r~The cops scared off the other racers.
+0x02D1592B=~r~条子把别的赛车手吓跑了。
 
 ;0x0DEFD172=You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_FRONTEND_RT~ for a right attack.
-0x0DEFD172=You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_FRONTEND_RT~ for a right attack.
+0x0DEFD172=你有一根棒球棍，可以用来攻击其他对手。按~INPUT_VEH_HEADLIGHT~攻击左边，或按~INPUT_FRONTEND_RT~攻击右边。
 
 ;0x1133BA00=RACES
 0x1133BA00=RACES
 
 ;0x153A60A8=Get a bike and follow ~b~Malc.
-0x153A60A8=Get a bike and follow ~b~Malc.
+0x153A60A8=骑上一辆摩托车，跟着~b~Malc。
 
 ;0x19E98C0C=12th
-0x19E98C0C=12th
+0x19E98C0C=第12名
 
 ;0x1D330B7C=6th
-0x1D330B7C=6th
+0x1D330B7C=第6名
 
 ;0x1D66705F=Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_FRONTEND_RT~ for a heavy right attack.
-0x1D66705F=Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_FRONTEND_RT~ for a heavy right attack.
+0x1D66705F=按住~INPUT_VEH_HEADLIGHT~向左重击，或按住~INPUT_FRONTEND_RT~向右重击。
 
 ;0x21B1848E=10th
-0x21B1848E=10th
+0x21B1848E=第10名
 
 ;0x24C8D9E5=11th
-0x24C8D9E5=11th
+0x24C8D9E5=第11名
 
 ;0x280BE7B0=~1~/12
 0x280BE7B0=~1~/12
 
 ;0x2F4AAAFC=~r~Race abandoned.
-0x2F4AAAFC=~r~Race abandoned.
+0x2F4AAAFC=~r~你放弃了比赛。
 
 ;0x3577DCA8=4th
-0x3577DCA8=4th
+0x3577DCA8=第4名
 
 ;0x397CA490=Press a key to choose an Alderney race course.~n~0: ALDERNEY_BEACH ~n~1: ALDERNEY_INDUSTRIAL ~n~2: TUDOR_DOCKS ~n~3: ALDERNEY_CITY ~n~4: ALDERNEY_CASINO ~n~5: ALDERNEY_NW
-0x397CA490=Press a key to choose an Alderney race course.~n~0: ALDERNEY_BEACH ~n~1: ALDERNEY_INDUSTRIAL ~n~2: TUDOR_DOCKS ~n~3: ALDERNEY_CITY ~n~4: ALDERNEY_CASINO ~n~5: ALDERNEY_NW
+0x397CA490=按一个键来选择一条Alderney比赛路线。~n~0: ALDERNEY_BEACH ~n~1: ALDERNEY_INDUSTRIAL ~n~2: TUDOR_DOCKS ~n~3: ALDERNEY_CITY ~n~4: ALDERNEY_CASINO ~n~5: ALDERNEY_NW
 
 ;0x3FF366C7=Get a bike and go to the ~y~start line.
-0x3FF366C7=Get a bike and go to the ~y~start line.
+0x3FF366C7=骑上一辆摩托车，去~y~起点线。
 
 ;0x46299390=3rd
-0x46299390=3rd
+0x46299390=第3名
 
 ;0x55DA57A0=2
 0x55DA57A0=2
 
 ;0x58973FFA=~r~You lose.
-0x58973FFA=~r~You lose.
+0x58973FFA=~r~你输了。
 
 ;0x62A531CC=You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.
-0x62A531CC=You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.
+0x62A531CC=你有一根棒球棍，可以用来攻击其他对手。按~INPUT_MOUSE_LMB~攻击左边，或按~INPUT_MOUSE_RMB~攻击右边。
 
 ;0x6638785C=3
 0x6638785C=3
 
 ;0x6F68E144=You win.
-0x6F68E144=You win.
+0x6F68E144=你赢了。
 
 ;0x7C40B88A=Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.
-0x7C40B88A=Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.
+0x7C40B88A=按住~INPUT_MOUSE_LMB~向左重击，或按住~INPUT_MOUSE_RMB~向右重击。
 
 ;0x877D6854=Press a key to choose an East race course.~n~0: BOHAN_STRIP ~n~1: BOHAN_BEACH ~n~2: BOHAN_STEPS ~n~5: SCHOTTLER_STATION
-0x877D6854=Press a key to choose an East race course.~n~0: BOHAN_STRIP ~n~1: BOHAN_BEACH ~n~2: BOHAN_STEPS ~n~5: SCHOTTLER_STATION
+0x877D6854=按一个键来选择一条东部比赛路线。~n~0: BOHAN_STRIP ~n~1: BOHAN_BEACH ~n~2: BOHAN_STEPS ~n~5: SCHOTTLER_STATION
 
 ;0x8C59EA5D=RACE
 0x8C59EA5D=RACE
 
 ;0x8E08CB2A=Get a bike and go to the start line.
-0x8E08CB2A=Get a bike and go to the start line.
+0x8E08CB2A=骑上一辆摩托车，去起点线。
 
 ;0x92D88D34=Lose the cops, or the race may be abandoned.
-0x92D88D34=Lose the cops, or the race may be abandoned.
+0x92D88D34=甩掉警察，否则比赛将会放弃。
 
 ;0x9324C866=7th
-0x9324C866=7th
+0x9324C866=第7名
 
 ;0x967F991D=2nd
-0x967F991D=2nd
+0x967F991D=第2名
 
 ;0x992D6788=Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.
-0x992D6788=Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.
+0x992D6788=按住~INPUT_MOUSE_LMB~向左重击，或按住~INPUT_MOUSE_RMB~向右重击。
 
 ;0xB2449A1D=You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_VEH_CIN_CAM~ for a right attack.
-0xB2449A1D=You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_VEH_CIN_CAM~ for a right attack.
+0xB2449A1D=你有一根棒球棍，可以用来攻击其他对手。按~INPUT_VEH_HEADLIGHT~攻击左边，或按~INPUT_VEH_CIN_CAM~攻击右边。 
 
 ;0xB4AA9527=1
 0xB4AA9527=1
@@ -96,47 +96,47 @@
 0xB9354413=LOST...
 
 ;0xBB3D184A=Get back on the bike.
-0xBB3D184A=Get back on the bike.
+0xBB3D184A=回到摩托车上。
 
 ;0xBB72C767=Go
-0xBB72C767=Go
+0xBB72C767=出发
 
 ;0xBC199D88=Go to the ~y~start line.
-0xBC199D88=Go to the ~y~start line.
+0xBC199D88=去~y~起点线。
 
 ;0xC045C12B=9th
-0xC045C12B=9th
+0xC045C12B=第9名
 
 ;0xC3AE3CF0=Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_VEH_CIN_CAM~ for a heavy right attack.
-0xC3AE3CF0=Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_VEH_CIN_CAM~ for a heavy right attack.
+0xC3AE3CF0=按住~INPUT_VEH_HEADLIGHT~向左重击，或按住~INPUT_VEH_CIN_CAM~向右重击。
 
 ;0xC4C9FDC6=Go to the start line.
-0xC4C9FDC6=Go to the start line.
+0xC4C9FDC6=去起点线。
 
 ;0xC779B23E=You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.
-0xC779B23E=You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.
+0xC779B23E=你有一根棒球棍，可以用来攻击其他对手。按~INPUT_MOUSE_LMB~攻击左边，或按~INPUT_MOUSE_RMB~攻击右边。
 
 ;0xCA99824B=1st
-0xCA99824B=1st
+0xCA99824B=第1名
 
 ;0xCB90AEBB=~1~
 0xCB90AEBB=~1~
 
 ;0xCD34F8D6=Press a key to choose an Algonquin race course.~n~0: HOLLAND ~n~2: PARK_CIRCUIT
-0xCD34F8D6=Press a key to choose an Algonquin race course.~n~0: HOLLAND ~n~2: PARK_CIRCUIT
+0xCD34F8D6=按一个键来选择一条Algonquin比赛路线。~n~0: HOLLAND ~n~2: PARK_CIRCUIT
 
 ;0xCE5E117A=5th
-0xCE5E117A=5th
+0xCE5E117A=第5名
 
 ;0xE228DF72=8th
-0xE228DF72=8th
+0xE228DF72=第8名
 
 ;0xEB389AE3=Press a key to choose a race area.~n~0: Alderney ~n~1: Algonquin ~n~2: East (Bohan & Broker)
-0xEB389AE3=Press a key to choose a race area.~n~0: Alderney ~n~1: Algonquin ~n~2: East (Bohan & Broker)
+0xEB389AE3=按一个键来选择一片比赛区域。~n~0: Alderney ~n~1: Algonquin ~n~2: East (Bohan & Broker)
 
 ;0xF6E4FEE5=Line up your bike.
-0xF6E4FEE5=Line up your bike.
+0xF6E4FEE5=停好你的摩托车。
 
 ;0xFAF187C6=Get a suitable bike.
-0xFAF187C6=Get a suitable bike.
+0xFAF187C6=找一辆合适的摩托车。
 

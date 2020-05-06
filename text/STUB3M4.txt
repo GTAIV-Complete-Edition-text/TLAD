@@ -1,79 +1,79 @@
 ﻿[STUB3M4]
 ;0x014EAE07=~r~You hurt the bugging expert.
-0x014EAE07=~r~You hurt the bugging expert.
+0x014EAE07=~r~你伤害了那个窃听的专家。
 
 ;0x10B6D526=Get the car back ~s~by ~1~:0~1~.
-0x10B6D526=Get the car back ~s~by ~1~:0~1~.
+0x10B6D526=~s~在~1~:0~1~之前把车开回去。
 
 ;0x1FF1739B=~r~Deputy Mayor Dawkins has reported the car missing.
-0x1FF1739B=~r~Deputy Mayor Dawkins has reported the car missing.
+0x1FF1739B=~r~副市长Dawkins已经报告车丢了。
 
 ;0x209F9703=You have until 00:0~1~.
-0x209F9703=You have until 00:0~1~.
+0x209F9703=你必须在00:0~1~之前赶到。
 
 ;0x2B42AC49=You have until 0~1~:0~1~.
-0x2B42AC49=You have until 0~1~:0~1~.
+0x2B42AC49=你必须在0~1~:0~1~之前赶到。
 
 ;0x3B7B2AB2=Get the car back ~s~by 0~1~:~1~.
-0x3B7B2AB2=Get the car back ~s~by 0~1~:~1~.
+0x3B7B2AB2=~s~在0~1~:~1~之前把车开回去。
 
 ;0x5278FAB5=You have until 00:~1~.
-0x5278FAB5=You have until 00:~1~.
+0x5278FAB5=你必须在00:~1~之前赶到。
 
 ;0x57B90535=You have until 0~1~:~1~.
-0x57B90535=You have until 0~1~:~1~.
+0x57B90535=你必须在0~1~:~1~之前赶到。
 
 ;0x63C9D6AE=~s~Leave the area before Deputy Mayor Dawkins gets back.
-0x63C9D6AE=~s~Leave the area before Deputy Mayor Dawkins gets back.
+0x63C9D6AE=~s~在副市长Dawkins回来之前离开区域。
 
 ;0x6B0C841C=Steal the ~b~car.
-0x6B0C841C=Steal the ~b~car.
+0x6B0C841C=窃取~b~车辆。
 
 ;0x70ECE254=~s~You have ~1~ minutes left to return car to the garage.
-0x70ECE254=~s~You have ~1~ minutes left to return car to the garage.
+0x70ECE254=~s~你还剩下~1~把车送回车库。
 
 ;0x7923C80A=You have until ~1~:~1~.
-0x7923C80A=You have until ~1~:~1~.
+0x7923C80A=你必须在~1~:~1~之前赶到。
 
 ;0x79482093=~s~Take the car to the ~y~bugging expert~s~, if the car is damaged he will buff out any scratches.
-0x79482093=~s~Take the car to the ~y~bugging expert~s~, if the car is damaged he will buff out any scratches.
+0x79482093=~s~把车带给~y~窃听专家~s~，如果车辆损坏他将会修复任何划痕。
 
 ;0x85BC8DE4=~s~Knowing Me, Knowing You
-0x85BC8DE4=~s~Knowing Me, Knowing You
+0x85BC8DE4=~s~知己知彼
 
 ;0x898068C3=You have until ~1~:0~1~.
-0x898068C3=You have until ~1~:0~1~.
+0x898068C3=你必须在~1~:0~1~之前赶到。
 
 ;0xA67F7B01=~s~Get the car back to the ~y~garage~s~, don't damage it.
-0xA67F7B01=~s~Get the car back to the ~y~garage~s~, don't damage it.
+0xA67F7B01=~s~把车开回~y~车库~s~，不要损坏它。
 
 ;0xB41F9641=Get the car back ~s~by 00:0~1~.
-0xB41F9641=Get the car back ~s~by 00:0~1~.
+0xB41F9641=~s~在00:0~1~之前把车开回去。
 
 ;0xB4B29773=~r~The car was wrecked.
-0xB4B29773=~r~The car was wrecked.
+0xB4B29773=~r~车辆被毁了。
 
 ;0xC200320E=~r~The car is too damaged.
-0xC200320E=~r~The car is too damaged.
+0xC200320E=~r~车辆损坏太严重了。
 
 ;0xC26D32DC=Get the car back ~s~by 00:~1~.
-0xC26D32DC=Get the car back ~s~by 00:~1~.
+0xC26D32DC=~s~在00:~1~之前把车开回去。
 
 ;0xCD6F7D5F=~s~Return the car to the ~y~drive.
-0xCD6F7D5F=~s~Return the car to the ~y~drive.
+0xCD6F7D5F=~s~把车放回~y~车道。
 
 ;0xCFE94DD4=Get the car back ~s~by ~1~:~1~.
-0xCFE94DD4=Get the car back ~s~by ~1~:~1~.
+0xCFE94DD4=~s~在~1~:~1~之前把车开回去。
 
 ;0xD40CF19E=~s~Time is running out.
-0xD40CF19E=~s~Time is running out.
+0xD40CF19E=~s~时间不多了。
 
 ;0xDD3BE879=Get the car back ~s~by 0~1~:0~1~.
-0xDD3BE879=Get the car back ~s~by 0~1~:0~1~.
+0xDD3BE879=~s~在0~1~:0~1~之前把车开回去。
 
 ;0xF5401E39=Get back in the ~b~car.
-0xF5401E39=Get back in the ~b~car.
+0xF5401E39=回到~b~车~s~里。
 
 ;0xFB82C675=~s~Return the car in the direction it was facing before.
-0xFB82C675=~s~Return the car in the direction it was facing before.
+0xFB82C675=~s~把车调整回原来的朝向。
 

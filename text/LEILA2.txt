@@ -1,22 +1,22 @@
 ﻿[LEILA2]
 ;0x131A4A6C=Get back to the lead ~b~vehicle.~s~
-0x131A4A6C=Get back to the lead ~b~vehicle.~s~
+0x131A4A6C=回到领头~b~车~s~后。
 
 ;0x240AEC4D=How many bikes in the convoy? Press a number from 2 to 6.
-0x240AEC4D=How many bikes in the convoy? Press a number from 2 to 6.
+0x240AEC4D=车队里有多少台摩托车？按从2到6的一个数字。
 
 ;0x5351CA6A=Follow the convoy ~b~leader.~s~
-0x5351CA6A=Follow the convoy ~b~leader.~s~
+0x5351CA6A=跟着车队~b~领导者。~s~
 
 ;0x5C0DDC52=Do you want to lead the convoy? Press 1 for Yes or 2 to set a biker as leader.
-0x5C0DDC52=Do you want to lead the convoy? Press 1 for Yes or 2 to set a biker as leader.
+0x5C0DDC52=你想领导车队吗？按1确定或按2来设置一个车队领导者。
 
 ;0x80FB25BC=Get back on your ~b~bike.~s~
-0x80FB25BC=Get back on your ~b~bike.~s~
+0x80FB25BC=回到你的~b~摩托车~s~上。
 
 ;0xC06AA506=The Convoy will follow you.
-0xC06AA506=The Convoy will follow you.
+0xC06AA506=车队会跟着你。
 
 ;0xF6E091F9=Get on the empty ~b~bike.~s~
-0xF6E091F9=Get on the empty ~b~bike.~s~
+0xF6E091F9=骑上那台空的~b~摩托车。~s~
 

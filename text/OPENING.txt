@@ -3,16 +3,16 @@
 0x060CB982=Terry
 
 ;0x0F8F7793=Vice President
-0x0F8F7793=Vice President
+0x0F8F7793=副会长
 
 ;0x28ED072D=Frame number ~1~
-0x28ED072D=Frame number ~1~
+0x28ED072D=帧数~1~
 
 ;0x2C3ABC55=Jeremy
 0x2C3ABC55=Jeremy
 
 ;0x33E0F054=Sargent At Arms
-0x33E0F054=Sargent At Arms
+0x33E0F054=军士长
 
 ;0x36A07C9A=Brian
 0x36A07C9A=Brian
@@ -24,7 +24,7 @@
 0x4649A475=Clay
 
 ;0x4765CE86=Club Secretary
-0x4765CE86=Club Secretary
+0x4765CE86=俱乐部秘书长
 
 ;0x57236D38=Terry Thorpe
 0x57236D38=Terry Thorpe
@@ -33,7 +33,7 @@
 0x5C453E9F=Jason Michaels
 
 ;0x5D4BF98E=President
-0x5D4BF98E=President
+0x5D4BF98E=会长
 
 ;0x6CA0B20E=Simons
 0x6CA0B20E=Simons
@@ -42,7 +42,7 @@
 0x6EA5C235=Klebitz
 
 ;0x71ADD5A3=Enforcer
-0x71ADD5A3=Enforcer
+0x71ADD5A3=执行者
 
 ;0x7B99F891=Jason
 0x7B99F891=Jason
@@ -66,13 +66,13 @@
 0x9692A425=Michaels
 
 ;0xA497EE9E=Treasurer
-0xA497EE9E=Treasurer
+0xA497EE9E=财务长
 
 ;0xA85B630D=Billy Grey
 0xA85B630D=Billy Grey
 
 ;0xC18159B8=Road Captain
-0xC18159B8=Road Captain
+0xC18159B8=行车长
 
 ;0xC36AE1F3=Grey
 0xC36AE1F3=Grey
