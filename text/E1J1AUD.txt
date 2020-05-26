@@ -159,7 +159,7 @@
 0x2773AAD9=E1J1_VA
 
 ;0x27A7E792=~z~Just like your daddy paid your momma for sex.
-0x27A7E792=~z~就像你爹花钱嫖你妈一样。
+0x27A7E792=~z~就像你爹花钱操你妈一样。
 
 ;0x28C53ED7=~z~~x~
 0x28C53ED7=~z~~x~
@@ -456,7 +456,7 @@
 0x6D273074=~z~冷静点，兄弟。
 
 ;0x6F33A8DF=~z~Ain't we a little too old for stealing bikes and clubhouse flags and crap like that?
-0x6F33A8DF=~z~我们都多大人了，还干这种偷鸡摸狗的勾当啊？
+0x6F33A8DF=~z~我们都多大了，还干这种偷鸡摸狗的勾当啊？
 
 ;0x704177FD=E1J1_DA
 0x704177FD=E1J1_DA
