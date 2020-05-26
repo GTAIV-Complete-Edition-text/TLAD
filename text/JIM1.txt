@@ -3,7 +3,7 @@
 0x02CFC46D=取得你的~b~摩托。~s~
 
 ;0x07EB8249=~r~There aren't enough bikes for the shipment.~s~
-0x07EB8249=~r~摩托车太少，卖不掉了。~s~
+0x07EB8249=~r~摩托太少，卖不掉了。~s~
 
 ;0x08245A4E=Go to ~b~Jim.~s~
 0x08245A4E=去找~b~Jim。~s~
@@ -33,7 +33,7 @@
 0x51546CA9=打电话给Terry或Clay呼叫支援。
 
 ;0x6191B594=~r~Jim's bike was wrecked.~s~
-0x6191B594=~r~Jim的摩托车被毁了。~s~
+0x6191B594=~r~Jim的摩托坏了。~s~
 
 ;0x658B88BF=Get back to the ~y~yard.~s~
 0x658B88BF=返回~y~厂房后院。~s~
@@ -45,7 +45,7 @@
 0x6CFEC5DA=差事期间，你随时可以打电话给Terry或Clay寻求帮助。
 
 ;0x7457DB20=~r~Your bike was wrecked.~s~
-0x7457DB20=~r~你的摩托被毁了。~s~
+0x7457DB20=~r~你的摩托坏了。~s~
 
 ;0x76C1B787=~s~Let's do this.~s~
 0x76C1B787=~s~开干。~s~
@@ -54,7 +54,7 @@
 0x7BB9C177=与~b~Jim~s~一起进入卡车。
 
 ;0x850F7C8F=~r~The truck was wrecked.~s~
-0x850F7C8F=~r~卡车被摧毁了。~s~
+0x850F7C8F=~r~卡车坏了。~s~
 
 ;0x8CE1576A=Take out the ~r~Angels of Death.~s~
 0x8CE1576A=干掉~r~死亡天使成员。~s~
