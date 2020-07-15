@@ -1,160 +1,159 @@
 ﻿[BILLY1]
 ;0x01070223=~r~Brian is dead.
-0x01070223=~r~Brian is dead.
+0x01070223=~r~Brian 死了.
 
 ;0x0AA332FC=Get on your ~b~bike.
-0x0AA332FC=Get on your ~b~bike.
+0x0AA332FC=上~b~摩托。
 
 ;0x0EB7C2C3=~r~Jason is dead.
-0x0EB7C2C3=~r~Jason is dead.
+0x0EB7C2C3=~r~Jason 死了。
 
 ;0x175A1653=Johnny will need the bike to ride in convoy with the other Lost bikers.
-0x175A1653=Johnny will need the bike to ride in convoy with the other Lost bikers.
+0x175A1653=Johney需要摩托与其他Lost车队成员骑行。
 
 ;0x1C4DE7B8=~s~Use ~PAD_DPAD_LEFTRIGHT~ to cycle between radio stations when in a vehicle.
-0x1C4DE7B8=~s~Use ~PAD_DPAD_LEFTRIGHT~ to cycle between radio stations when in a vehicle.
+0x1C4DE7B8=~s~按~PAD_DPAD_LEFTRIGHT~ 在载具上切换电台。
 
 ;0x20AFEB6F=Follow ~b~Billy~s~ back to The Lost clubhouse.
-0x20AFEB6F=Follow ~b~Billy~s~ back to The Lost clubhouse.
+0x20AFEB6F=跟着~b~Billy~s~ 返回Lost会所。
 
 ;0x248F7401=Wait for ~b~Billy.
-0x248F7401=Wait for ~b~Billy.
+0x248F7401=等待~b~Billy.
 
 ;0x259FB2DE=You can use the Lost Clubhouse computer to access the Internet.
-0x259FB2DE=You can use the Lost Clubhouse computer to access the Internet.
+0x259FB2DE=你可以用Lost会所里的电脑上网。
 
 ;0x2717D10D=Ride to The Lost ~y~clubhouse.
-0x2717D10D=Ride to The Lost ~y~clubhouse.
+0x2717D10D=骑车返回Lost~y~会所。
 
 ;0x352C37C3=~r~Terry is dead.
-0x352C37C3=~r~Terry is dead.
+0x352C37C3=~r~Terry死了。
 
 ;0x370EA4BB=~r~Clay is dead.
-0x370EA4BB=~r~Clay is dead.
+0x370EA4BB=~r~Clay死了。
 
 ;0x3B23CBCC=Ride to the ~y~chop shop.
-0x3B23CBCC=Ride to the ~y~chop shop.
+0x3B23CBCC=骑去~y~修车厂。
 
 ;0x3BD4DF48=Watch the latest shows on TV.
-0x3BD4DF48=Watch the latest shows on TV.
+0x3BD4DF48=在电视上看最新的节目。
 
 ;0x3FEA5BC0=Get off your bike.
-0x3FEA5BC0=Get off your bike.
+0x3FEA5BC0=下摩托。
 
 ;0x4A137BC5=This is Johnny's Hexer. It's the only one of its kind in Liberty City.~n~A modern classic chopper with a 2032cc twin cam engine and 6 speed transmission with a final chain drive.
-0x4A137BC5=This is Johnny's Hexer. It's the only one of its kind in Liberty City.~n~A modern classic chopper with a 2032cc twin cam engine and 6 speed transmission with a final chain drive.
+0x4A137BC5=这是Johney的Hexer，在自由城独一无二。~n~它是一台现代复古摩托，搭载2032cc的双凸轮发动机与6速变速箱，采用链条传动。
 
 ;0x50C83B56=You can arm wrestle with your brothers.
-0x50C83B56=You can arm wrestle with your brothers.
+0x50C83B56=你可以和兄弟们掰手腕。
 
 ;0x5A29321E=~r~Your bike was wrecked.
-0x5A29321E=~r~Your bike was wrecked.
+0x5A29321E=~r~你的摩托毁坏了。
 
 ;0x5D7E54C2=Try your luck in a hi-lo card game.
-0x5D7E54C2=Try your luck in a hi-lo card game.
+0x5D7E54C2=在hi-lo试试手气。
 
 ;0x62E321FF=Ride back to the ~y~clubhouse.
-0x62E321FF=Ride back to the ~y~clubhouse.
+0x62E321FF=骑车返回~y~会所。
 
 ;0x698EB986=You are too far away from ~b~Billy.~s~ Ride closer to your group.
-0x698EB986=You are too far away from ~b~Billy.~s~ Ride closer to your group.
+0x698EB986=你离~b~Billy 太远了。~s~ 离你的队伍距离近一些。
 
 ;0x6C4DF261=This is the Lost clubhouse.
-0x6C4DF261=This is the Lost clubhouse.
+0x6C4DF261=这是Lost的会所。
 
 ;0x74239AC2=~r~Billy is dead.
-0x74239AC2=~r~Billy is dead.
+0x74239AC2=~r~Billy死了。
 
 ;0x7ED36B66=~s~Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to brake or reverse if the vehicle is stopped.
-0x7ED36B66=~s~Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to brake or reverse if the vehicle is stopped.
+0x7ED36B66=~s~按~INPUT_VEH_ACCELERATE~ 加速。按~INPUT_VEH_BRAKE~ 刹车，如果车停下来则会倒车。
 
 ;0x7F7149A0=~r~Jim is dead.
-0x7F7149A0=~r~Jim is dead.
+0x7F7149A0=~r~Jim死了
 
 ;0x7F85122F=Destroy all of the ~r~machines.
-0x7F85122F=Destroy all of the ~r~machines.
+0x7F85122F=摧毁所有~r~machines.
 
 ;0x84A8AFFF=Get back on your ~b~bike.
-0x84A8AFFF=Get back on your ~b~bike.
+0x84A8AFFF上你的~b~摩托。
 
 ;0x869D3820=Enter and stay on the badge to hold the gang formation. This will increase your health and repair your bike.
-0x869D3820=Enter and stay on the badge to hold the gang formation. This will increase your health and repair your bike.
+0x869D3820=进入并待在会徽内可以恢复你的生命值，护甲并修复你的摩托。
 
 ;0x8B27256D=When leading a group of bikers, stay close to them to hear them talk.
-0x8B27256D=When leading a group of bikers, stay close to them to hear them talk.
+0x8B27256D=当带领车队时，接近他们听他们谈话。
 
 ;0x95B1453F=Terry will deliver guns to your location.
-0x95B1453F=Terry will deliver guns to your location.
+0x95B1453F=Terry会运送武器到你附近。
 
 ;0xA288E155=Press ~INPUT_ENTER~ to enter or exit a vehicle.
-0xA288E155=Press ~INPUT_ENTER~ to enter or exit a vehicle.
+0xA288E155=按~INPUT_ENTER~ 进入或离开载具。
 
 ;0xA73CE0F4=Get back on your ~b~bike~s~ and follow Billy.
-0xA73CE0F4=Get back on your ~b~bike~s~ and follow Billy.
+0xA73CE0F4=上你的摩托~b~bike~s~ 并跟着Billy
 
 ;0xA86434E3=Take out the ~r~Angels of Death.
-0xA86434E3=Take out the ~r~Angels of Death.
+0xA86434E3=干掉~r~Angels of Death。
 
 ;0xB56E61A6=Ride to the Angels of Death ~y~hangout.
-0xB56E61A6=Ride to the Angels of Death ~y~hangout.
+0xB56E61A6=去死亡天使~y~活动的地方。
 
 ;0xBBD17E69=~r~A Lost bike was wrecked.
-0xBBD17E69=~r~A Lost bike was wrecked.
+0xBBD17E69=~r~一辆Lost的摩托损毁了。
 
 ;0xBC99006F=When riding in a convoy, hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the leader.
-0xBC99006F=When riding in a convoy, hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the leader.
+0xBC99006F=当在车队骑行时，按~INPUT_VEH_CIN_CAM~ 把视角对准领队。
 
 ;0xC16DE043=Follow ~b~Billy.
-0xC16DE043=Follow ~b~Billy.
+0xC16DE043=跟着~b~Billy.
 
 ;0xC3091FD6=You can save any vehicle in the parking place outside your safehouse.
-0xC3091FD6=You can save any vehicle in the parking place outside your safehouse.
+0xC3091FD6=你可以在会所外的停车位保存任意载具。
 
 ;0xC47193A5=~s~Use ~INPUT_VEH_NEXT_RADIO~ or ~INPUT_VEH_PREV_RADIO~ to cycle between radio stations when in a vehicle.
-0xC47193A5=~s~Use ~INPUT_VEH_NEXT_RADIO~ or ~INPUT_VEH_PREV_RADIO~ to cycle between radio stations when in a vehicle.
+0xC47193A5=~s~按~INPUT_VEH_NEXT_RADIO~ 或~INPUT_VEH_PREV_RADIO~ 在载具上切换电台。
 
 ;0xC7F7224B=Ride to where the machines are being ~y~unloaded.
-0xC7F7224B=Ride to where the machines are being ~y~unloaded.
+0xC7F7224B=骑到~y~机器被卸下的地方。
 
 ;0xCA651387=~r~Billy's bike was wrecked.
-0xCA651387=~r~Billy's bike was wrecked.
+0xCA651387=~r~比利的摩托损毁了。
 
 ;0xCCCE9234=~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake.
-0xCCCE9234=~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake.
+0xCCCE9234=~s~按~INPUT_VEH_HANDBRAKE~ 使用手刹。
 
 ;0xCECD7A3C=You have left ~b~Billy~s~ behind, go and get him.
-0xCECD7A3C=You have left ~b~Billy~s~ behind, go and get him.
+0xCECD7A3C=你把~b~Billy~s~ 落下了，回去接他。
 
 ;0xCFE0A0E6=When leading a group of bikers, hold ~INPUT_VEH_CIN_CAM~ to switch the camera to the group point of view.
-0xCFE0A0E6=When leading a group of bikers, hold ~INPUT_VEH_CIN_CAM~ to switch the camera to the group point of view.
-
+0xCFE0A0E6=当带领车队时，按~INPUT_VEH_CIN_CAM~ 将视角切换为车队视角。
 ;0xD0C3BB4B=If you lose your ride, a phone call to Clay will get you an alternative bike.
-0xD0C3BB4B=If you lose your ride, a phone call to Clay will get you an alternative bike.
+0xD0C3BB4B=如果你失去了座驾，给Clay打电话可以获得一辆替代摩托。
 
 ;0xD6944C5D=~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake. ~n~Press ~PAD_A~ for alternative handbrake (Standard controls).
-0xD6944C5D=~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake. ~n~Press ~PAD_A~ for alternative handbrake (Standard controls).
+0xD6944C5D=~s~按~INPUT_VEH_HANDBRAKE~ 使用手刹。~n~按 ~PAD_A~ 使用替代手刹 (标准控制)。
 
 ;0xD8E05CA5=A Lost Motorcycle Club badge will appear behind Billy when cruising in a gang.
-0xD8E05CA5=A Lost Motorcycle Club badge will appear behind Billy when cruising in a gang.
+0xD8E05CA5=当车队骑行时，Billy身后会出现一个Lost会徽。
 
 ;0xD9D95169=Get back on your ~b~bike.
-0xD9D95169=Get back on your ~b~bike.
+0xD9D95169=上你的~b~摩托。
 
 ;0xDC976678=~r~Your bike was wrecked.
-0xDC976678=~r~Your bike was wrecked.
+0xDC976678=~r~你的摩托损毁了。
 
 ;0xDD64F15D=~r~A member of The Lost is dead.
-0xDD64F15D=~r~A member of The Lost is dead.
+0xDD64F15D=~r~一个Lost成员死了。
 
 ;0xDFB25928=And pay your respects to fallen comrades.
-0xDFB25928=And pay your respects to fallen comrades.
+0xDFB25928=对你不幸的老伙计放尊重点。
 
 ;0xEC687294=Sleeping on the bed will save the game and advance time by six hours.
-0xEC687294=Sleeping on the bed will save the game and advance time by six hours.
+0xEC687294=在床上睡觉可以保存游戏，而且游戏时间会前进6小时。
 
 ;0xF310BDD4=~r~You abandoned your bike.
-0xF310BDD4=~r~You abandoned your bike.
+0xF310BDD4=~r~你丢弃了你的摩托。
 
 ;0xFA880ED7=You can hang out and take part in activities with fellow members of The Lost.
-0xFA880ED7=You can hang out and take part in activities with fellow members of The Lost.
+0xFA880ED7=你可以与其他Lost成员出游和参与活动。
 
