@@ -6,10 +6,10 @@
 0x04431948=E1S1_JC
 
 ;0x0549C024=~z~Oh and Klebitz, trust me...
-0x0549C024=~z~哦，Klebitz，相信我吧……
+0x0549C024=~z~噢，Klebitz，相信我...
 
 ;0x05A3244B=~z~Make it appear as though it's a terrorist act.
-0x05A3244B=~z~让它看起来像是场恐怖袭击。
+0x05A3244B=~z~装作是一场恐怖袭击。
 
 ;0x0643CF55=E1S1_EB
 0x0643CF55=E1S1_EB
@@ -21,16 +21,16 @@
 0x0749D5C6=~z~记得用你的膝盖来抬。
 
 ;0x0796724A=~z~so I thought I'd fit right in here.
-0x0796724A=~z~所以我觉得这里合适我进来。
+0x0796724A=~z~我不是很适合这里吗。
 
 ;0x0E6FD5F2=~z~Take a step back, buddy. This is off limits to you.
-0x0E6FD5F2=~z~退后一步，老哥。禁止入内。
+0x0E6FD5F2=~z~请你退后，伙计。这边禁止入内。
 
 ;0x0EDB00D3=~z~Uhh... no I thought I'd inquire about a membership.
-0x0EDB00D3=~z~呃……没有。我想问下是会员才能进去吗？
+0x0EDB00D3=~z~呃...没有。你们这儿的会员怎么办？
 
 ;0x0F55CFB2=~z~This asshole just gave us permission to use deadly force, people.
-0x0F55CFB2=~z~伙计们，允许使用致命武器对付这混蛋。
+0x0F55CFB2=~z~现在有理由下死手了，各位。
 
 ;0x12588C35=~z~Don't you have any bags to rifle through or something. Get lost.
 0x12588C35=~z~你没有带着装有武器之类东西的包包吧？滚开。
@@ -45,13 +45,13 @@
 0x14A5BF24=~z~明天见。
 
 ;0x150B5A04=~z~I'm just about happy with the eulogy my researchers drafted up.
-0x150B5A04=~z~我对我手下研究起草出来的悼词很满意。
+0x150B5A04=~z~我对我手下起草的悼词很满意。
 
 ;0x17304439=~z~Well, now that you mention it... I'm starting to feel a little queasy.
-0x17304439=~z~好吧，既然你提到了……我开始有点小紧张了。
+0x17304439=~z~好吧，被你这么一说...我还真有点不舒服。
 
 ;0x177C6489=~z~Leavis will give you a package on the way out.
-0x177C6489=~z~Leavis出去的时候会给你包东西。
+0x177C6489=~z~Leavis出去的时候会给你件装备。
 
 ;0x1F1FD74D=SFX_PAUSE_300
 0x1F1FD74D=SFX_PAUSE_300
@@ -66,16 +66,16 @@
 0x223F6BE5=~z~很高兴认识你。
 
 ;0x2355FFBE=~z~We're trying to protect people over here, take a step back.
-0x2355FFBE=~z~我们在保护这里的人，退后一步。
+0x2355FFBE=~z~我们在保护这里的人，请你退后。
 
 ;0x2547135A=~z~Stubbs.
 0x2547135A=~z~Stubbs。
 
 ;0x25C3637F=~z~That being said, I try to do a good deed here and there.
-0x25C3637F=~z~这么说来，我在试着为天下做点好事。
+0x25C3637F=~z~尽管如此，我也努力做着各种善事。
 
 ;0x25EDE1B4=~z~Don't be pathetic and no secrets here, pal.
-0x25EDE1B4=~z~别可怜兮兮的，这没啥秘密可藏，伙计。
+0x25EDE1B4=~z~别可怜兮兮的，这里大家坦诚相见。
 
 ;0x2A572292=010090100090100090100090010100090100090010090100
 0x2A572292=010090100090100090100090010100090100090010090100
@@ -84,31 +84,31 @@
 0x2AFD8AE0=SFX_PAUSE_330
 
 ;0x2C303B7D=~z~Excuse me?
-0x2C303B7D=~z~你说啥？
+0x2C303B7D=~z~您确定吗？
 
 ;0x2FA8A0FE=SFX_PAUSE_220
 0x2FA8A0FE=SFX_PAUSE_220
 
 ;0x30FE78D1=~z~I need people to elect me so that I feel marginally less bad about myself
-0x30FE78D1=~z~推选我了我照镜子的
+0x30FE78D1=~z~我需要人们选我，当选了我才不会那么内疚，
 
 ;0x314B13B0=~z~Take this prick down, people.
-0x314B13B0=~z~伙计们，干翻这屌毛。
+0x314B13B0=~z~干掉这个混蛋，各位。
 
 ;0x316245E1=~z~Let me tell you something... you've got a job wiping rich pricks' asses,
-0x316245E1=~z~让我告诉你点东西吧……你干的是给阔佬们擦屁股的活计，
+0x316245E1=~z~我跟你说句实话...你干的是给阔佬擦屁股的活计，
 
 ;0x363982AF=100
 0x363982AF=100
 
 ;0x368F0412=~z~Grossman? That guys an asshole.
-0x368F0412=~z~Grossman？那家伙是个混蛋。
+0x368F0412=~z~Grossman？那家伙就一混蛋。
 
 ;0x36CE5520=~z~This ain't any of your business, bag monkey. Clear off.
 0x36CE5520=~z~这不关你的事，吃屌佬。滚蛋。
 
 ;0x383E0984=~z~Whoa, that's heavy man.
-0x383E0984=~z~哇哦，那事情挺严重啊，哥们。
+0x383E0984=~z~喔，有点难受啊，哥们。
 
 ;0x39AD33DB=E1S1_EC
 0x39AD33DB=E1S1_EC
@@ -117,10 +117,10 @@
 0x3A283DE6=~z~哦，别煽情了，Klebitz。这很不爽。毕竟我是个大佬。
 
 ;0x3EAFE07C=~z~and for some reason you seem a little pleased with yourself.
-0x3EAFE07C=~z~不知道为啥，你看起来还觉得有点满足啊。
+0x3EAFE07C=~z~就这你还这么得意啊。
 
 ;0x3EE1939F=~z~or a poignant sense of guilt afterwards.
-0x3EE1939F=~z~或者是完事后的负罪感。
+0x3EE1939F=~z~也不会留下强烈的负罪感。
 
 ;0x43E99763=SFX_PAUSE_110
 0x43E99763=SFX_PAUSE_110
@@ -129,34 +129,34 @@
 0x453C9A1A=SFX_PAUSE_160
 
 ;0x455322A6=~z~No. That's disgusting. How could you suggest such a thing?
-0x455322A6=~z~不，那太恶心了。你怎么会想出这种事情？
+0x455322A6=~z~不，那可太孝顺了。你怎么想出来的？
 
 ;0x462C5039=SFX_PAUSE_380
 0x462C5039=SFX_PAUSE_380
 
 ;0x47D02AAD=~z~a typical Stubbs you might say. Sleep easy and drop into the club sometime soon.
-0x47D02AAD=~z~你说的可能是那种典型的Stubbs。好好睡一觉吧，晚点找时间顺便来下俱乐部吧。
+0x47D02AAD=~z~可谓是Stubbs家的典型。好好睡一觉，有空再来俱乐部一趟。
 
 ;0x48C11271=~z~It'll have a baggage handler uniform in it that should get you access to the runways. Enjoy yourself.
 0x48C11271=~z~里面会有件行李搬运工的制服，这应该能帮你进到跑道里去。嗨起来吧。
 
 ;0x49472982=~z~I need people to like me. I need people to like me so that they elect me.
-0x49472982=~z~我需要人们喜爱我，喜爱我了才会推选我，
+0x49472982=~z~我需要人们拥护我，拥护我他们才会选我，
 
 ;0x4B3BAC53=~z~Yeah, I can imagine. So what is it that you want?
-0x4B3BAC53=~z~是啊，我想象得出来。那么你想要些啥？
+0x4B3BAC53=~z~是啊，看得出来。那，你有什么需求？
 
 ;0x4D7A8DCA=SFX_PAUSE_230
 0x4D7A8DCA=SFX_PAUSE_230
 
 ;0x4EEECDBD=~z~Trust me man, nothing would please me more,
-0x4EEECDBD=~z~相信我吧哥们，没有谁能请得动我，
+0x4EEECDBD=~z~相信我，哥们，我是不会得意的，
 
 ;0x509A5A5A=SFX_PAUSE_360
 0x509A5A5A=SFX_PAUSE_360
 
 ;0x526CD5DF=~z~This guy ain't right, drop him.
-0x526CD5DF=~z~这人不太对劲，干掉他。
+0x526CD5DF=~z~这人有问题，干掉他。
 
 ;0x5347F025=~z~Don't worry about that. We've got terrorism insurance up to our eye balls.
 0x5347F025=~z~别担心。咱的眼珠子买了恐怖主义保险了。
@@ -165,13 +165,13 @@
 0x536660D2=E1S1_KC
 
 ;0x56050F0E=~z~I think you should leave, sir, before I call the police.
-0x56050F0E=~z~在我报警之前，我觉得你应该离开，先生。
+0x56050F0E=~z~请您自己出去，先生，不然我报警了。
 
 ;0x5692C525=~z~Why? Blackmail?
-0x5692C525=~z~为啥呢？要恐吓吗？
+0x5692C525=~z~为什么？想敲诈你？
 
 ;0x5BA0CE35=~z~I'm a politician. I'm a cynic. I'm very needy.
-0x5BA0CE35=~z~我是个政治家，是个愤世嫉俗的人，我很需要支持。
+0x5BA0CE35=~z~我是个政治家，认为人本自私，我很需要认可。
 
 ;0x5D8B7957=E1S1_ED
 0x5D8B7957=E1S1_ED
@@ -180,7 +180,7 @@
 0x5E1C51ED=E1S1_KB
 
 ;0x6028F031=~z~Will you leave?
-0x6028F031=~z~你能走吗？
+0x6028F031=~z~麻烦你出去。
 
 ;0x615AD891=~z~Tom Stubbs. How do you do?
 0x615AD891=~z~Tom Stubbs。你好吗？
@@ -189,7 +189,7 @@
 0x62A304C6=SFX_PAUSE_350
 
 ;0x62B7A873=~z~"I think you should leave sir, before I...", dude, it is the twenty-first century.
-0x62B7A873=~z~“我觉得你应该离开，在我……”，老哥，现在是二十一世纪了。
+0x62B7A873=~z~「请您自己出去，不然...」老哥，这都二十一世纪了。
 
 ;0x641DF941=~z~Protect Mr. Stubbs.
 0x641DF941=~z~保护Stubbs先生。
@@ -198,25 +198,25 @@
 0x6577E2E4=E1S1_KF
 
 ;0x68DCE9B9=~z~Not exactly. I need his money, and he hasn't died.
-0x68DCE9B9=~z~也不太对。我需要他的钱，但他还没死。
+0x68DCE9B9=~z~不太准确。我需要他的钱，但他还没死。
 
 ;0x68F902F7=~z~We got a problem here.
-0x68F902F7=~z~咱们有麻烦了。
+0x68F902F7=~z~这边出现状况。
 
 ;0x6ABD0E8F=~z~You don't racially profile like a terrorist, but I'm about to start treating you like one.
-0x6ABD0E8F=~z~你看起来不像是个恐怖分子，但我准备要把你当成恐怖分子来招待了。
+0x6ABD0E8F=~z~虽然你长得不像恐怖分子，但我还是得把你当作恐怖分子招待了。
 
 ;0x6C6058C5=SFX_PAUSE_430
 0x6C6058C5=SFX_PAUSE_430
 
 ;0x7097770A=~z~And thank you, best massage I ever had that didn't involve a happy ending
-0x7097770A=~z~谢谢了，这是我做过最好的按摩，尽管没有个快乐的结尾，
+0x7097770A=~z~谢谢了，这是我做过最好的按摩，事后既没有幸福地生活在一起，
 
 ;0x7314E718=~z~You too.
 0x7314E718=~z~You too.
 
 ;0x73B89750=~z~Oh, Mr. Stubbs, sir. Okay, you only had to say so, sir.
-0x73B89750=~z~哦，是Stubbs先生。好吧，你这么说不就行了，先生。
+0x73B89750=~z~噢，您找Stubbs先生啊。好的，下次您早点说，先生。
 
 ;0x75A877C9=100090100090010090010090100090100
 0x75A877C9=100090100090010090010090100090100
@@ -234,7 +234,7 @@
 0x793C9009=SFX_PAUSE_100
 
 ;0x7E0A9414=~z~Unfortunately, an awful man has insured that my chance of being re-elected is pretty much zero.
-0x7E0A9414=~z~很不幸，有个坏家伙打包票说我再选上的机会绝对为零。
+0x7E0A9414=~z~很不幸，有个坏家伙让我再次当选的几率趋近于零。
 
 ;0x7EAD46EF=~z~You know, you're really starting to grow on me.
 0x7EAD46EF=~z~你知道吗，你真的开始喜欢上我了。
@@ -243,13 +243,13 @@
 0x7EE49FA4=~z~恐怕不行了，Stubbs。你叔叔还活的好好的。
 
 ;0x7FB89664=~z~Now listen. I'm in a bit of a bother, sport.
-0x7FB89664=~z~现在听着，我有点不爽，哥们。
+0x7FB89664=~z~你听好，我现在有点麻烦，哥们。
 
 ;0x81082BCB=E1S1_DH
 0x81082BCB=E1S1_DH
 
 ;0x81199B3A=~z~I know . Now, you've got to get the old goat today.
-0x81199B3A=~z~我知道。现在，你今天得去解决掉这讨厌鬼。
+0x81199B3A=~z~我知道。今天，你就得把那老头子办了。
 
 ;0x8416EFB0=~z~Nice tattoos, no wonder you can only get a job like this. Move it, asshole.
 0x8416EFB0=~z~纹身不错，怪不得你只能找到这样的工作。去吧，混蛋。
@@ -258,7 +258,7 @@
 0x85C97321=~z~老兄，你看看。这里没啥重东西可抬的。
 
 ;0x85FDBBDA=~z~but I'm supposed to see Tom Stubbs and well... he said to meet him here.
-0x85FDBBDA=~z~但是我应该见一见Tom Stubbs……他说了在这和他见面。
+0x85FDBBDA=~z~但我是来这儿找Tom Stubbs的...他说来这里找他。
 
 ;0x876355FB=~z~Enjoy making minimum wage, asshole.
 0x876355FB=~z~赏你点蚊子腿吧，混蛋。
@@ -276,25 +276,25 @@
 0x8F92C835=SFX_PAUSE_150
 
 ;0x9053B8A6=~z~Personally, I'd prefer a benign dictatorship without the pretence of choice,
-0x9053B8A6=~z~就本人而言，我更中意没有选择借口的良性专政，
+0x9053B8A6=~z~对我来说，我更中意开明独裁，没有「你有选择」的假象。
 
 ;0x90A7AFD3=E1S1_JB
 0x90A7AFD3=E1S1_JB
 
 ;0x916A3BDB=~z~That sanctimonious do-gooder controls the family trust.
-0x916A3BDB=~z~那个帮倒忙的伪君子控制了家族的基金。
+0x916A3BDB=~z~那个道貌岸然的大善人控制着家族基金。
 
 ;0x9284BBFC=~z~Grossman tells me you're reliable.
-0x9284BBFC=~z~Grossman告诉过我你是靠得住的。
+0x9284BBFC=~z~Grossman跟我说你很可靠。
 
 ;0x93D440AF=~z~My father died years ago, thank god. No. My uncle.
-0x93D440AF=~z~谢天谢地，我爸几年前就死了。是我叔叔，
+0x93D440AF=~z~我爸几年前就死了，谢天谢地。目标是我叔叔，
 
 ;0x95565A8B=~z~Right you are.
 0x95565A8B=~z~这就对了嘛。
 
 ;0x996DC8B6=~z~-Could you excuse us, sugar?~n~-Okay, sure.
-0x996DC8B6=~z~—你能回避下吗，小妞？~n~—好的呢。
+0x996DC8B6=~z~－你能回避下吗，小妞？~n~－好的呢。
 
 ;0x9A9256FF=~z~You better start looking for another source of campaign financing.
 0x9A9256FF=~z~你最好开始寻找另外的竞选资金来源了。
@@ -312,7 +312,7 @@
 0x9DF93CE0=~z~是啊，我寻思我是这样的。
 
 ;0xA1825B03=~z~but let's leave the political discussions shall we?
-0xA1825B03=~z~但是咱们先不聊政治了可以吗？
+0xA1825B03=~z~但是，先把政治的话题放一放好吗？
 
 ;0xA2B8AC1A=090
 0xA2B8AC1A=090
@@ -324,19 +324,19 @@
 0xA3C10EB6=~z~今天别出啥岔子，好吗？
 
 ;0xA4445F7B=~z~Can we stop with the jokes?
-0xA4445F7B=~z~咱能不讲笑了吗？
+0xA4445F7B=~z~笑话说完了吗？
 
 ;0xA492F904=~z~Follow me, will you. Mr. Stubbs is in the day spa, receiving some back work.
-0xA492F904=~z~跟我来吧，好吗？Stubbs先生在做SPA，按摩背部呢。
+0xA492F904=~z~我来为您带路。Stubbs先生在做SPA，按摩背部呢。
 
 ;0xA4CB6089=~z~Look, I'm not going to insult your intelligence by pretending to be a good guy.
-0xA4CB6089=~z~听着，我可不会充好人去侮辱你的聪明才智。
+0xA4CB6089=~z~听着，我不会把你当傻逼，假惺惺地演好人。
 
 ;0xA58BE41E=~z~Yes, so is being arrested for drug running and spending the next thirty years in prison.
-0xA58BE41E=~z~是啊，跟因为贩毒在局子里蹲上三十年一样严重。
+0xA58BE41E=~z~是啊，跟因为贩毒在牢里蹲三十年一样难受。
 
 ;0xA8A5012D=~z~Okay, Klebitz. Give me the good news.
-0xA8A5012D=~z~好了，Klebitz。告诉我好消息。
+0xA8A5012D=~z~好了，Klebitz。告诉我是好消息。
 
 ;0xAC7AFA41=E1S1_KE
 0xAC7AFA41=E1S1_KE
@@ -345,7 +345,7 @@
 0xAC916EFD=~z~是的，我们是老交情了。
 
 ;0xB14EC5A0=~z~Do you have an appointment?
-0xB14EC5A0=~z~您有预约了吗？
+0xB14EC5A0=~z~您有预约吗？
 
 ;0xB16EABAB=~z~He'll land and travel in a car convoy to the Civic Citadel.
 0xB16EABAB=~z~他落地了就会跟着车队去Civic Citadel。
@@ -354,10 +354,10 @@
 0xB19B98E1=~z~盗亦有道，好极了。
 
 ;0xB37C0E60=~z~Much appreciated.
-0xB37C0E60=~z~多谢了。
+0xB37C0E60=~z~多谢。
 
 ;0xB3E2FFC4=~z~What? You want me to kill your father?
-0xB3E2FFC4=~z~啥？你想我去杀了你爹？
+0xB3E2FFC4=~z~啥？你想让我杀了你爹？
 
 ;0xB6319C3D=~z~Thank you, Leavis.
 0xB6319C3D=~z~谢谢，Leavis。
@@ -366,13 +366,13 @@
 0xB7C8078A=~z~民主真是个好东西。
 
 ;0xBA358D71=~z~I see, you make a wonderful politician.
-0xBA358D71=~z~我懂的，你是个出色的政治家。
+0xBA358D71=~z~明白了，你是个出色的政客。
 
 ;0xBB58F79F=~z~Alright, I'll make the call. There's going to be a car for you in short term parking.
 0xBB58F79F=~z~好了，我打电话吧。有辆车在临时停车场给你。
 
 ;0xBBC92791=~z~Ah, he was a man of the people, a philanthropist, a pompous windbag and an occasional catamite,
-0xBBC92791=~z~啊，他是人民公仆，是个慈善家，是个夸夸其谈的人，有时也是个娈童。
+0xBBC92791=~z~啊，他是人民公仆，是个大善人，是个牛皮大王，有时也是娈童。
 
 ;0xBD14EE3F=E1S1_HA
 0xBD14EE3F=E1S1_HA
@@ -381,16 +381,16 @@
 0xC03CC7AD=~z~好了，士兵们，干活了。
 
 ;0xC2BE1C52=~z~when I stare into the mirror.
-0xC2BE1C52=~z~时候才会好受一点点。
+0xC2BE1C52=~z~才能正视镜中的自己。
 
 ;0xC3593C5C=~z~I am what I am, but I look out for those who help me.
-0xC3593C5C=~z~我就是我，助我者昌。
+0xC3593C5C=~z~我就是我，但我不会忘恩。
 
 ;0xC695DEE3=E1S1_DC
 0xC695DEE3=E1S1_DC
 
 ;0xC833C041=~z~Mr. Stubbs. A gentleman for you.
-0xC833C041=~z~Stubbs先生，有人要见你。
+0xC833C041=~z~Stubbs先生，有人找您。
 
 ;0xC8C4ABC8=E1S1_KA
 0xC8C4ABC8=E1S1_KA
@@ -420,16 +420,16 @@
 0xD895E67D=102
 
 ;0xD89A6A48=~z~Please step back or we will consider you a terrorist.
-0xD89A6A48=~z~请后退，否则我们会认为你是恐怖分子。
+0xD89A6A48=~z~请后退，否则视同恐怖分子。
 
 ;0xDC53E881=~z~So, you're David Grossman's friend?
-0xDC53E881=~z~好了，你是David Grossman的朋友吗？
+0xDC53E881=~z~好了，你就是David Grossman的朋友？
 
 ;0xDCF5D2F1=~z~You and your little gang, I mean.
-0xDCF5D2F1=~z~我指的是你和你的小马仔。
+0xDCF5D2F1=~z~我是指你和你的小团伙。
 
 ;0xDEA7ED4E=~z~For my conscience's sake, I hope your lack of humanity is a genetic quality.
-0xDEA7ED4E=~z~天地良心，我希望你的没人性是遗传来的。
+0xDEA7ED4E=~z~天地良心，希望你的没人性是家族遗传。
 
 ;0xE40F7C0D=E1S1_EA
 0xE40F7C0D=E1S1_EA
@@ -444,7 +444,7 @@
 0xEACDBFDE=SFX_PAUSE_180
 
 ;0xEB04ED17=~z~Well I think they can fix that with surgery these days, you know.
-0xEB04ED17=~z~呃，我觉得这的人动几天手术就给你治好了，你懂的。
+0xEB04ED17=~z~嫌丢人的话现在有手术可以增长。
 
 ;0xEC0149F1=E1S1_JA
 0xEC0149F1=E1S1_JA
@@ -456,10 +456,10 @@
 0xEE268C26=~z~谢谢。
 
 ;0xEF417788=~z~Make it spectacular.
-0xEF417788=~z~下手专业点，
+0xEF417788=~z~来场盛大送行，
 
 ;0xF1AA9343=~z~Sadly, Stubbs, I'm not going to be able to disappoint you. Your uncle is no longer with us.
-0xF1AA9343=~z~很遗憾，我没让你失望。你叔叔再也不会和我们在一块了。
+0xF1AA9343=~z~很遗憾，Stubss，没能让你失望。你叔叔与世长辞了。
 
 ;0xF2EB8C24=SFX_PAUSE_050
 0xF2EB8C24=SFX_PAUSE_050
@@ -468,7 +468,7 @@
 0xF32EAFF0=~z~也买了人寿保险。哦不，你千方百计要干掉我最爱的家人。
 
 ;0xF3DF80C4=~z~That'll do wonders for my campaign in all sorts of ways.
-0xF3DF80C4=~z~这会在各个方面对我的竞选产生影响。
+0xF3DF80C4=~z~对我的竞选在各方面都会有奇效。
 
 ;0xF422B57C=E1S1_DE
 0xF422B57C=E1S1_DE
@@ -483,10 +483,10 @@
 0xF8B8820A=E1S1_DG
 
 ;0xFA5CD7D7=~z~Yeah, under this ravaged, drug-addled exterior lies the heart of a reactionary prick,
-0xFA5CD7D7=~z~对的，在这个被毒瘾摧残的外表之下躺着一颗有着反抗锋芒的内心，
+0xFA5CD7D7=~z~对，在这副瘾君子的皮囊下，藏着一颗叛逆浪子的心，
 
 ;0xFBC730A1=~z~If you're looking to board a plane, you're in the wrong place.
-0xFBC730A1=~z~要是你想上飞机的话，你来错地方了。
+0xFBC730A1=~z~想登机的话你来错地方了。
 
 ;0xFF1EFF2A=~z~Ah, Mr. Klebitz, in need of some help, are we?
 0xFF1EFF2A=~z~啊，Klebitz先生，咱是不是需要点帮助？
