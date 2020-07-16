@@ -51,7 +51,7 @@
 0x17304439=~z~好吧，被你这么一说...我还真有点不舒服。
 
 ;0x177C6489=~z~Leavis will give you a package on the way out.
-0x177C6489=~z~Leavis出去的时候会给你件装备。
+0x177C6489=~z~出去的时候Leavis会给你件装备。
 
 ;0x1F1FD74D=SFX_PAUSE_300
 0x1F1FD74D=SFX_PAUSE_300
