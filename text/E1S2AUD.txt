@@ -12,40 +12,40 @@
 0x048B40B0=E1S2_TH
 
 ;0x060A2652=~z~voters, have mistakenly been taken into LCPD custody.
-0x060A2652=~z~投票人，被冤枉地投入LCPD的监狱了。
+0x060A2652=~z~选民，被冤枉地抓进LCPD拘留所了。
 
 ;0x060EDFD7=~z~If you've got any strings left to pull, I'd pull 'em now.
-0x060EDFD7=~z~要是你还有啥关系能拉的话，我帮你一把。
+0x060EDFD7=~z~要是你还有什么关系的话，赶紧动用吧。
 
 ;0x078F61F0=E1S2_TB
 0x078F61F0=E1S2_TB
 
 ;0x095E7456=~z~I'm familiar with mechanics. I believe it's man's duty to take things apart and see how they work.
-0x095E7456=~z~我对机械很熟悉。我相信男人的使命就是把东西拆开然后看看它是怎么运作的。
+0x095E7456=~z~我对机械很熟悉。我相信男人的使命就是把东西拆开，弄清楚原理。
 
 ;0x09963A9E=~z~I'm afraid you boys aren't gonna start your stretch yet.
-0x09963A9E=~z~我担心你们还没来得及活动活动筋骨呢。
+0x09963A9E=~z~恐怕你们没法进去服刑了。
 
 ;0x0B142AC6=~z~I'm not really dressed for this and you said it was urgent.
-0x0B142AC6=~z~我没打扮好，因为你说这事情很急。
+0x0B142AC6=~z~你说情况紧急，我没换衣服就来了。
 
 ;0x0B2DE9FD=~z~My former friends are on their own now. I'll see you, Klebitz.
-0x0B2DE9FD=~z~现在看来我的老朋友们得好自为之了。再见了，Klebitz。
+0x0B2DE9FD=~z~我以前的这些朋友该自力更生了。再见，Klebitz。
 
 ;0x0C08BD83=E1S2_OC
 0x0C08BD83=E1S2_OC
 
 ;0x0C0D171E=~z~A man's organs ain't meant to look like that. Come on.
-0x0C0D171E=~z~一个人的器官看起来不应该是那样的。赶紧的。
+0x0C0D171E=~z~正常人的器官不该是那副模样。快点。
 
 ;0x0C994FB9=E1S2_MC
 0x0C994FB9=E1S2_MC
 
 ;0x0D7BC58B=~z~Fucking politicians.
-0x0D7BC58B=~z~操你妈的政治家。
+0x0D7BC58B=~z~傻逼政客。
 
 ;0x0EC006EC=~z~I got some keys, boys. Get out those bracelets.
-0x0EC006EC=~z~我弄到些钥匙，伙计们。把手铐打开。
+0x0EC006EC=~z~我这儿有钥匙，伙计们。解开手铐吧。
 
 ;0x107644AB=E1S2_TF
 0x107644AB=E1S2_TF
@@ -63,52 +63,52 @@
 0x14E09AF7=~z~哦，我喜欢在舞会，那里有乐队。
 
 ;0x159C01DC=~z~You got real problems, brother.
-0x159C01DC=~z~你肚子里有点墨水啊，兄弟。
+0x159C01DC=~z~你问题很大啊，兄弟。
 
 ;0x16B9E45A=SFX_PAUSE_380
 0x16B9E45A=SFX_PAUSE_380
 
 ;0x190540BC=~z~We need to lose the fucking cops.
-0x190540BC=~z~咱得甩掉这些操蛋条子。
+0x190540BC=~z~我们要甩掉这些狗条子。
 
 ;0x1958D70F=~z~Please stand back, sir. It's for you own safety.
-0x1958D70F=~z~为了你的人身安全，请后退，先生。
+0x1958D70F=~z~请后退，先生。这是为了你好。
 
 ;0x196B7FF6=~z~smell of money and all that stuff, you know, does that make you happy?
-0x196B7FF6=~z~闻着这些珠光宝气的味道，你懂的，真的让你开心吗？
+0x196B7FF6=~z~整天泡在铜臭味里面，你真的开心吗？
 
 ;0x1A38686E=090
 0x1A38686E=090
 
 ;0x1A57E649=~z~Long way from the Exchange now, aren't you, you yuppie pricks? Still think you're better than guys like me, huh?
-0x1A57E649=~z~现在离上税不还早着呢吗，你个雅皮士屌毛。你还觉得比我这样的人优越吗？
+0x1A57E649=~z~这里可不是你们的证交区，雅皮士屌毛。还觉得自己比我们优越吗？
 
 ;0x1AAB09DB=010090100090100090100090010
 0x1AAB09DB=010090100090100090100090010
 
 ;0x1AC16016=~z~I ain't never going to understand politics.
-0x1AC16016=~z~政治这东西我从来没琢磨透。
+0x1AC16016=~z~政治我一辈子都搞不懂。
 
 ;0x1AE002C7=~z~Hey, how ya doing man?
-0x1AE002C7=~z~嗨，你好吗哥们？
+0x1AE002C7=~z~嘿，你好吗哥们？
 
 ;0x1C07DB43=E1S2_PA
 0x1C07DB43=E1S2_PA
 
 ;0x1D4D491C=~z~Oh shit. Oh shit. I can't get arrested again.
-0x1D4D491C=~z~哦妈的，妈的，我可不能再被逮住了。
+0x1D4D491C=~z~哦操，哦操，我不能再被逮住了。
 
 ;0x1DA66DFA=~z~Okey dokey then.
 0x1DA66DFA=~z~那好吧。
 
 ;0x1E7ED19B=~z~down in the deepest recesses of the Civic Citadel.
-0x1E7ED19B=~z~深处有个小问题。
+0x1E7ED19B=~z~出现了一点小失误。
 
 ;0x1FA0A0DA=~z~Sure.
 0x1FA0A0DA=~z~确实。
 
 ;0x2087C2C5=~z~The rendezvous is by the Globe Oil plant in the Acter Industrial Park.
-0x2087C2C5=~z~有人在Acter工业园的Globe炼油厂跟咱会面。
+0x2087C2C5=~z~碰头地点在Acter工业园的Globe炼油厂旁边。
 
 ;0x235DDD2D=090
 0x235DDD2D=090
@@ -117,10 +117,10 @@
 0x256CFFCB=E1S2_OB
 
 ;0x268D2EA3=~z~So, you're a motorcyclist? What hardware do you grip between those thighs?
-0x268D2EA3=~z~那么，你是个摩托车手？你胯下的座驾是啥？
+0x268D2EA3=~z~那，你是个摩托车手喽？你胯下的座驾是哪款？
 
 ;0x26A171A0=~z~There are some bad people in here, sir. Please stand back.
-0x26A171A0=~z~里面有坏人，先生。请站远点。
+0x26A171A0=~z~现在里面有坏人，先生。请勿靠近。
 
 ;0x27EC410E=~z~Oh, I do like to be beside the sea.
 0x27EC410E=~z~哦，我喜欢在海边，
@@ -129,10 +129,10 @@
 0x2A66C752=SFX_PAUSE_180
 
 ;0x2C92A62C=~z~Ahh, Mr. Stubbs is expecting you.
-0x2C92A62C=~z~啊，Stubbs先生等你来呢。
+0x2C92A62C=~z~啊，Stubbs先生正等着您呢。
 
 ;0x2CEA1F21=~z~Don't leave us here. Help us get out of this.
-0x2CEA1F21=~z~别抛下咱啊，帮我们逃出去。
+0x2CEA1F21=~z~别抛下我们，帮我们逃出去。
 
 ;0x2D7BFCCB=SFX_PAUSE_540
 0x2D7BFCCB=SFX_PAUSE_540
@@ -144,7 +144,7 @@
 0x2F8B013B=E1S2_UC
 
 ;0x30437524=~z~Yes, well, there's been a clerical error
-0x30437524=~z~对的。是这样，在Civic Citadel的最
+0x30437524=~z~好的，行。市政厅内部的决策
 
 ;0x31224ADF=E1S2_SE
 0x31224ADF=E1S2_SE
@@ -153,19 +153,19 @@
 0x3229E0D2=SFX_PAUSE_180
 
 ;0x32386626=~z~There's a boat waiting behind the Globe Oil plant in Acter Industrial.
-0x32386626=~z~有艘船在Acter工业园的Globe炼油厂后面等着。
+0x32386626=~z~有条船在Acter工业园的Globe炼油厂后面等我们。
 
 ;0x35CC962C=~z~Shit, I'm probably gonna end up doing time with you boys at this rate.
-0x35CC962C=~z~照这样下去的话，我可能得和你们大伙一起度过铁窗生涯了。
+0x35CC962C=~z~妈的，照这样下去，我得跟你们作伴了。
 
 ;0x35F00A17=~z~Nothing like running from the cops to get the blood pumping.
-0x35F00A17=~z~没有啥比从条子手中逃出生天更加让人血脉喷张的了。
+0x35F00A17=~z~还是跟条子玩躲猫猫最刺激。
 
 ;0x3789F4D7=E1S2_DA
 0x3789F4D7=E1S2_DA
 
 ;0x38F22491=~z~I doubt those who remember me think it a great idea that I am about to be roaming free again.
-0x38F22491=~z~我怀疑那些还记得我的人觉得再把我放出来是个好主意。
+0x38F22491=~z~还记得我的人知道我重获自由多半会被吓死吧。
 
 ;0x390DF8A5=~z~You crossed the line.
 0x390DF8A5=~z~你越界了。
@@ -186,10 +186,10 @@
 0x3ECC1B45=392
 
 ;0x3F7B1933=~z~Pull some strings or something?
-0x3F7B1933=~z~拉下关系之类的？
+0x3F7B1933=~z~动用下你的人脉？
 
 ;0x3F81858C=~z~Drop this perp.
-0x3F81858C=~z~干掉这嫌疑犯。
+0x3F81858C=~z~干掉这个坏蛋。
 
 ;0x4081CF8E=~z~I need some help, brother. The cherry tops have got me closed in. I need some friends to take some of the heat for me.
 0x4081CF8E=~z~我需要帮助，兄弟。条子把我关起来了。我需要来几个兄弟帮我弄走这玩意。
@@ -198,19 +198,19 @@
 0x415A368D=SFX_PAUSE_180
 
 ;0x429B93B8=~z~I'm not going back.
-0x429B93B8=~z~我不会回来的。
+0x429B93B8=~z~我才不要回去。
 
 ;0x4317E7B8=~z~A panhead, shovelhead, V-twin?
 0x4317E7B8=~z~Panhead？Shovelhead？V-twin？
 
 ;0x432A30E7=~z~Get out the fucking way.
-0x432A30E7=~z~快他妈让开。
+0x432A30E7=~z~别他妈挡路。
 
 ;0x438ED456=SFX_PAUSE_140
 0x438ED456=SFX_PAUSE_140
 
 ;0x43DC1C55=~z~Oh, but I've been seeing Dr. White since I was seven.
-0x43DC1C55=~z~噢，但是从我七岁开始我看的都是White医生，
+0x43DC1C55=~z~噢，但我从七岁开始就只找White医生看病了。
 
 ;0x44672705=~z~How's my driving?
 0x44672705=~z~我车技如何？
@@ -219,7 +219,7 @@
 0x46AEFD6F=E1S2_MA
 
 ;0x47BEA2CE=~z~while my whole life falls to shit all around me. But fuck it. I'm alright.
-0x47BEA2CE=~z~我还衣着体面地跟一个凶残的政客在一个桑拿房里待着。操蛋的是我还安然无恙。
+0x47BEA2CE=~z~同时我的整个人生都变得一团糟。不过没事，爷很好。
 
 ;0x484C5235=SFX_PAUSE_270
 0x484C5235=SFX_PAUSE_270
@@ -237,13 +237,13 @@
 0x4BFA0929=~z~哦，我喜欢在海滨，
 
 ;0x4CBC2001=~z~You're in my world now, son.
-0x4CBC2001=~z~你逃不出我的手掌心了，小逼崽子。
+0x4CBC2001=~z~你逃不出我的手掌心了，小子。
 
 ;0x4DC935CF=~z~Well, isn't there something you can do about that yourself man?
-0x4DC935CF=~z~好吧，你自己不能做点啥吗，哥们？
+0x4DC935CF=~z~你自己就没有什么办法吗，哥们？
 
 ;0x4EA631E9=~z~Change your therapist.
-0x4EA631E9=~z~把你的治疗师换了吧。
+0x4EA631E9=~z~换个医生吧。
 
 ;0x4EEDD3F0=SFX_PAUSE_220
 0x4EEDD3F0=SFX_PAUSE_220
@@ -255,13 +255,13 @@
 0x4F24D4EF=501090501090051090501090051090501090501090051090501090501090051
 
 ;0x5095CBBE=~z~Let's get the fuck away from these pigs.
-0x5095CBBE=~z~咱们快他妈从这些笨猪手里逃出去。
+0x5095CBBE=~z~一起从这帮条子手里逃走吧。
 
 ;0x5153051C=E1S2_XA
 0x5153051C=E1S2_XA
 
 ;0x518CC150=~z~The bulls are gonna be real pissed if they catch us.
-0x518CC150=~z~要是条子逮着咱了，这帮狠人真的会气死的。
+0x518CC150=~z~我们被抓的话，做多的人都得气死。
 
 ;0x51A273A5=400090400
 0x51A273A5=400090400
@@ -276,13 +276,13 @@
 0x541E9E45=E1S2_A_BA
 
 ;0x544B858F=~z~You're the best tasting thing I've had since I got locked up.
-0x544B858F=~z~自从我被关起来之后，你是我尝过味道最好的东西。
+0x544B858F=~z~你是我被捕以来最美味的一餐。
 
 ;0x56D572F7=~z~Where are you going? Don't leave us with him.
-0x56D572F7=~z~你去哪呢？别把咱抛下和他在一起啊。
+0x56D572F7=~z~你去哪呢？别把我们留给警察。
 
 ;0x56E9BC54=~z~Shit. Get us out of here.
-0x56E9BC54=~z~妈的，带咱逃出去。
+0x56E9BC54=~z~妈的，带我们逃出去。
 
 ;0x56F37141=E1S2_EA
 0x56F37141=E1S2_EA
@@ -294,19 +294,19 @@
 0x5909E7AA=SFX_PAUSE_220
 
 ;0x598487F5=~z~For these fellas it's white collar shenanigans. Caught with their hand in the cookie jar.
-0x598487F5=~z~因为咱这帮白领手脚不干净，被逮到现形了。
+0x598487F5=~z~因为这帮白领手脚不干净，被人逮到现形了。
 
 ;0x5B31F3CC=~z~Your friends are out to sea, Mr. Stubbs. Good luck to them. I think they'll need it.
-0x5B31F3CC=~z~Stubbs先生，你的朋友们从海上逃走了。祝他们好运吧，我寻思他们需要这东西。
+0x5B31F3CC=~z~你的朋友都出海了，Stubbs先生。祝他们好运吧，他们会需要的。
 
 ;0x5C832957=~z~Good to see you, boys.
 0x5C832957=~z~见到你们伙计真好。
 
 ;0x5CA5F6B0=~z~Believe me, a short recession and a trip to Panama isn't going to finish those boys off.
-0x5CA5F6B0=~z~相信我吧，短暂的经济萎缩和巴拿马之行弄不垮他们的。
+0x5CA5F6B0=~z~相信我吧，短暂的经济衰退和巴拿马之行弄不垮他们的。
 
 ;0x5CF84E8D=~z~Okay. What can I do for you man?
-0x5CF84E8D=~z~好吧。有啥事吗，哥们？
+0x5CF84E8D=~z~好吧。这次你有什么需求？
 
 ;0x5D7E5693=SFX_PAUSE_180
 0x5D7E5693=SFX_PAUSE_180
@@ -333,13 +333,13 @@
 0x66015A83=~z~甩掉条子！
 
 ;0x6633FF14=~z~I'm guessing it wasn't you I got paid to bail out anyways.
-0x6633FF14=~z~不管怎么说，我寻思我收钱进局子要捞的人不是你。
+0x6633FF14=~z~估计别人掏钱雇我捞的人也不是你。
 
 ;0x6680F490=100090010090100
 0x6680F490=100090010090100
 
 ;0x680E8D81=~z~Oh don't you worry, those boys don't need luck. You shoulda seen them in '73.
-0x680E8D81=~z~哦，你别担心，那帮人不需要运气。你应该看到，这桩事圆满结束了。
+0x680E8D81=~z~哦，你别担心，那帮人不需要运气。你该看看他们73年的表现。
 
 ;0x6857C428=E1S2_ZA
 0x6857C428=E1S2_ZA
@@ -357,7 +357,7 @@
 0x6C56672D=~z~操，操，操，操。
 
 ;0x6C6E0143=~z~Don't think you ain't gettin' caught in this thing, Deadbeats.
-0x6C6E0143=~z~你以为你们能跟得上吗，死妈天使。
+0x6C6E0143=~z~别以为这样你们就不会被捕了，死妈天使。
 
 ;0x6D8F4C53=~z~We've got a boat to catch.
 0x6D8F4C53=~z~我们要上船了。
@@ -375,19 +375,19 @@
 0x710AB0A3=~z~兄弟有难，八方支援。我会告诉他们注意听警笛声的。祝好运吧。
 
 ;0x7148E91A=~z~We got an intruder.
-0x7148E91A=~z~有人闯入。
+0x7148E91A=~z~有入侵者。
 
 ;0x71C63104=~z~Well, Mr. Stubbs. The good news is the cops aren't going to get there hands on those voters.
-0x71C63104=~z~呃，Stubbs先生，有个好消息是，条子们再也抓不到那帮选举人了。坏消息是，他们都死了。
+0x71C63104=~z~呃，Stubbs先生，有个好消息，那些选民不会被警察抓回去了。
 
 ;0x721AF8D2=~z~The man's a genius.
-0x721AF8D2=~z~这人是个天才。
+0x721AF8D2=~z~他是个天才。
 
 ;0x723CA6E2=100
 0x723CA6E2=100
 
 ;0x727031FA=~z~do you really enjoy life?
-0x727031FA=~z~你真的享受这日子吗？
+0x727031FA=~z~你现在幸福吗？
 
 ;0x72C83F63=SFX_PAUSE_240
 0x72C83F63=SFX_PAUSE_240
@@ -402,16 +402,16 @@
 0x75E3DD71=070
 
 ;0x77BC897D=~z~these gentlemen are in a prison transport bus,
-0x77BC897D=~z~这些人在一辆囚车上，
+0x77BC897D=~z~这些人现在在一辆囚车上，
 
 ;0x77DE4CB4=~z~Alright!
 0x77DE4CB4=~z~好了！
 
 ;0x7AE75F39=~z~Here's the keys. Get yourselves un-cuffed.
-0x7AE75F39=~z~钥匙在这，自己开锁。
+0x7AE75F39=~z~钥匙拿好，自己开锁。
 
 ;0x7B355055=~z~Learn all you like, just wait until I'm paid, mister.
-0x7B355055=~z~想学啥就学啥，等我拿到钱再说，先生。
+0x7B355055=~z~你爱咋学咋学，等我拿到钱再说，先生。
 
 ;0x7B760458=E1S2_WA
 0x7B760458=E1S2_WA
@@ -426,28 +426,28 @@
 0x80DEF20E=~z~兄弟们，来吧。很高兴见到你。
 
 ;0x80E6CEE7=~z~Oh yes, sir. Hello, sir. I'm fine.
-0x80E6CEE7=~z~是的，先生，我很好。
+0x80E6CEE7=~z~是的，先生。先生您好，我很好。
 
 ;0x81A359E9=~z~And everything in your garden is rosey. How nice!
 0x81A359E9=~z~一切都是那么美好！太好了！
 
 ;0x8204175C=~z~Ah, Mr. Stubbs is in the steam room. Right this way.
-0x8204175C=~z~啊，Stubbs先生在桑拿房里。这边走。
+0x8204175C=~z~呃，Stubbs先生在桑拿房里。这边请。
 
 ;0x82516898=SFX_PAUSE_130
 0x82516898=SFX_PAUSE_130
 
 ;0x835F4422=~z~I was thinking their problem might lie with one of the other passengers on their little cruise. Later on, Mr. Congressman.
-0x835F4422=~z~我寻思问题可能会发生在其他人身上。再见了，议员先生。
+0x835F4422=~z~主要是船上还有个不妙的家伙。回见，议员先生。
 
 ;0x84443AEA=E1S2_NA
 0x84443AEA=E1S2_NA
 
 ;0x8550B533=~z~If the cops get us, who want to be my cellmate?
-0x8550B533=~z~要是条子抓到我们了，我要拉谁垫背？
+0x8550B533=~z~被抓进去的话，谁想当我室友？
 
 ;0x8566A4D1=~z~No, all you need to know is that, uh,
-0x8566A4D1=~z~不，你只需要知道的是，呃，
+0x8566A4D1=~z~你需要知道的只有，呃，
 
 ;0x8597BDD1=E1S2_CA
 0x8597BDD1=E1S2_CA
@@ -477,28 +477,28 @@
 0x8B0BA806=SFX_PAUSE_130
 
 ;0x8BA81B9F=~z~Unless you yuppies want me to throw you to the pigs, shut the hell up.
-0x8BA81B9F=~z~你们这帮雅皮士，不想被我甩回给笨猪条子的话就闭上臭嘴。
+0x8BA81B9F=~z~你们这帮雅皮士，不想被我送给傻逼条子就他妈闭嘴。
 
 ;0x8C386776=~z~Jonathan, what's the problem?
 0x8C386776=~z~Jonathan，怎么回事？
 
 ;0x90166D46=~z~I don't really know what you mean, sir.
-0x90166D46=~z~我不是很懂你啥意思，先生。
+0x90166D46=~z~我不太理解您的意思，先生。
 
 ;0x9018C898=~z~It's a Deadbeat turkey shoot.
-0x9018C898=~z~	是死妈天使无力的攻击。
+0x9018C898=~z~是死妈天使狩猎场。
 
 ;0x9089B467=~z~I'm fully clothed, in a steam room with a murdering politician,
-0x9089B467=~z~嘿，当我生活一团糟的时候，
+0x9089B467=~z~我穿着衣服跟一个杀人犯政客待在桑拿房里，
 
 ;0x92AD5EC6=E1S2_RD
 0x92AD5EC6=E1S2_RD
 
 ;0x937D7472=~z~The bad news is they're dead.
-0x937D7472=~z~坏消息是，他们都死了。
+0x937D7472=~z~坏消息是他们都死了。
 
 ;0x939001C9=~z~Cops'll be lookin' for this bus. You better ditch it.
-0x939001C9=~z~条子们会找到这辆囚车的，你最好把它扔了。
+0x939001C9=~z~条子会全力寻找这辆囚车的，最好把它处理掉。
 
 ;0x95CEC4D1=E1S2_HA
 0x95CEC4D1=E1S2_HA
@@ -510,19 +510,19 @@
 0x97307A80=E1S2_TG
 
 ;0x97E5CA07=~z~Sure, I got it.
-0x97E5CA07=~z~好了，我懂了。
+0x97E5CA07=~z~好的，我懂了。
 
 ;0x9861532E=802
 0x9861532E=802
 
 ;0x99969024=~z~That's intense.
-0x99969024=~z~真刺激。
+0x99969024=~z~太猛了。
 
 ;0x9A82DFA3=~z~Do me a favor and don't fucking eat me, back there.
-0x9A82DFA3=~z~别他妈把我吃了，回来帮我个忙吧。
+0x9A82DFA3=~z~帮兄弟个忙，别上来口我，后面的。
 
 ;0x9CEA53D8=~z~Too much red tape, yadda yadda yadda...
-0x9CEA53D8=~z~而且有很多繁文缛节的东西，等等等等。
+0x9CEA53D8=~z~手续太多了，折腾来折腾去的...
 
 ;0x9D10C473=090
 0x9D10C473=090
@@ -534,22 +534,22 @@
 0x9E1F7F61=090
 
 ;0x9E2B576E=~z~Get them out of there and we will make it worth your while.
-0x9E2B576E=~z~把他们带走，咱们会让你感到值得的。
+0x9E2B576E=~z~把他们救出来，报酬不会让你后悔的。
 
 ;0xA03D551A=~z~Oh, I've doubled up on the therapy.
-0xA03D551A=~z~哦，我已经加了双倍的疗程了。
+0xA03D551A=~z~噢，疗程已经加到双倍了。
 
 ;0xA0E40F3F=~z~Dead men don't talk, Klebitz. This, I can work with. I'll talk to you soon.
-0xA0E40F3F=~z~死人是不会开口的，Klebitz。这样，我来处理吧。晚点找你。
+0xA0E40F3F=~z~死人不会说话，Klebitz。这样，我来处理吧。晚点找你。
 
 ;0xA2520861=291
 0xA2520861=291
 
 ;0xA2AB9A42=~z~I'm gonna take that as meaning you were into some sick shit. Let's not discuss it.
-0xA2AB9A42=~z~反正我理解成破事缠身的意思。咱不讨论这些了。
+0xA2AB9A42=~z~我就理解成你是身患顽疾了。不聊这个了。
 
 ;0xA301373A=~z~Thank you, sir. My fellow prisoners and I are most grateful.
-0xA301373A=~z~谢谢你，先生。咱几个吃牢饭的都很感激你。
+0xA301373A=~z~谢谢你，先生。我和狱友们都很感谢你。
 
 ;0xA3BA0337=E1S2_KC
 0xA3BA0337=E1S2_KC
@@ -558,7 +558,7 @@
 0xA4677D70=E1S2_ND
 
 ;0xA579DE47=~z~He just wears a different uniform.
-0xA579DE47=~z~只是穿着不同的皮囊。
+0xA579DE47=~z~只不过行头不同。
 
 ;0xA5825AAF=~z~One police roadblock coming up. Strap in!
 0xA5825AAF=~z~前方有警察路障。系好安全带！
@@ -567,31 +567,31 @@
 0xA697E76B=~z~而你，我的朋友，需要去解放他们。
 
 ;0xA69E23EA=~z~Cars, bikes... we are all machines.
-0xA69E23EA=~z~比如说汽车、摩托车……我们人也是机器。
+0xA69E23EA=~z~汽车、摩托车...我们人也是机器。
 
 ;0xA70CCFCD=~z~Acter Industrial is where they're meant to meet us. By the Globe Oil plant.
-0xA70CCFCD=~z~他们原本计划在Acter工业园的Globe炼油厂跟咱见面。
+0xA70CCFCD=~z~他们计划的会合点在Acter工业园的Globe炼油厂。
 
 ;0xAAA16F46=~z~No, I'm afraid not sport, way too far down the line for that.
-0xAAA16F46=~z~不，恐怕不行，老兄。这事已经严重了，
+0xAAA16F46=~z~不，恐怕不行，老兄。这次托关系都很难摆平。
 
 ;0xAC2B5CA5=~z~I'm trying to save your preppie asses, so calm down.
-0xAC2B5CA5=~z~我这不是在救你们这帮小逼崽子出来嘛，所以淡定点吧。
+0xAC2B5CA5=~z~我忙着救你们这帮小屁孩出去，都别吵了。
 
 ;0xAE9BAA50=~z~Good. Hey let me ask you something...
-0xAE9BAA50=~z~好。嘿，让我告诉你点东西吧……
+0xAE9BAA50=~z~好。喂，我问你个问题...
 
 ;0xAEF61B4F=~z~All traders by blood. Great genes.
-0xAEF61B4F=~z~所有的生意人生来都是命好的。
+0xAEF61B4F=~z~都是商人世家。基因优秀。
 
 ;0xAFC603EB=~z~You're going to need to step away from the building, sir.
-0xAFC603EB=~z~你得离大楼远点，先生。
+0xAFC603EB=~z~请您不要再靠近了，先生。
 
 ;0xB042F3D9=~z~Klebitz! How ya doing, sport?
-0xB042F3D9=~z~Klebitz！你好吗，老哥？
+0xB042F3D9=~z~Klebitz！你好吗，哥们？
 
 ;0xB0D3F647=~z~Miss your uncle?
-0xB0D3F647=~z~想念你叔叔了没？
+0xB0D3F647=~z~还想你叔叔吗？
 
 ;0xB45437F3=SFX_PAUSE_670
 0xB45437F3=SFX_PAUSE_670
@@ -600,25 +600,25 @@
 0xB5371DD3=SFX_PAUSE_100
 
 ;0xB5A44033=~z~So, umm, what're you folks in for?
-0xB5A44033=~z~所以，呃，各位是为啥被关进来的呢？
+0xB5A44033=~z~所以，呃，各位是为啥被捕的？
 
 ;0xB815F3FA=E1S2_SD
 0xB815F3FA=E1S2_SD
 
 ;0xB96410FD=~z~You fucking assholes.
-0xB96410FD=~z~你他妈的混蛋。
+0xB96410FD=~z~一群臭傻逼。
 
 ;0xB96E2A17=E1S2_RC
 0xB96E2A17=E1S2_RC
 
 ;0xB9F4F838=~z~Can you keep it down? In case you ain't noticed I'm trying to keep you boys outta prison.
-0xB9F4F838=~z~你们能不能小点声？生怕不知道我带着你们越狱？
+0xB9F4F838=~z~能不能小点声？生怕没人知道我带你们越狱吗？
 
 ;0xBAD17D46=500090590090592090592090592090090
 0xBAD17D46=500090590090592090592090592090090
 
 ;0xBC0687BB=~z~LCPD done setup a roadblock. They want your asses bad, boys!
-0xBC0687BB=~z~LCPD设好了路障。他们想干翻咱，兄弟们！
+0xBC0687BB=~z~LCPD设置了路障。警察很想抓住你们，各位！
 
 ;0xBCFA3023=SFX_PAUSE_100
 0xBCFA3023=SFX_PAUSE_100
@@ -627,16 +627,16 @@
 0xBD31919B=E1S2_A_DA
 
 ;0xBD43D77E=~z~Since we've all, uh, eaten,
-0xBD43D77E=~z~看来咱们都，呃，吃过了，
+0xBD43D77E=~z~既然大家都，呃，吃过了，
 
 ;0xBD56FB9A=100
 0xBD56FB9A=100
 
 ;0xBD600E13=~z~really satisfied some inner urge within you, sir?
-0xBD600E13=~z~真的满足了你内心的某些渴望了吗，先生？
+0xBD600E13=~z~真的能满足您内心的欲望吗，先生？
 
 ;0xBE4649A9=~z~Yes, sir. Something like that. And tell me sir, are you happy?
-0xBE4649A9=~z~是的，先生。差不多是这样。那么你告诉我吧先生，你快乐吗？
+0xBE4649A9=~z~是的，先生。差不多是这样。告诉我，先生，您快乐吗？
 
 ;0xBFE085D7=E1S2_SC
 0xBFE085D7=E1S2_SC
@@ -645,7 +645,7 @@
 0xC0440713=~z~现在允许使用武力。
 
 ;0xC3152A89=~z~Please, sir. We cannot have civilians approaching the station house today.
-0xC3152A89=~z~请回吧，先生。今天我们不能让平民靠近警局大楼。
+0xC3152A89=~z~请回吧，先生。今天我们不能让平民靠近警局。
 
 ;0xC354C230=E1S2_RE
 0xC354C230=E1S2_RE
@@ -657,10 +657,10 @@
 0xC43DE8C5=090
 
 ;0xC83C2026=~z~We got a roadblock, people. Things might get a little rough.
-0xC83C2026=~z~咱遇到个路障，伙计们。事情有点棘手。
+0xC83C2026=~z~碰到路障了，伙计们。这下有点难办了。
 
 ;0xC8B3E815=~z~You learn so much from seeing the insides of things.
-0xC8B3E815=~z~通过观察东西的内部，你可以学到很多。
+0xC8B3E815=~z~观察东西的内部可以学到很多。
 
 ;0xCA12E5E4=SFX_PAUSE_400
 0xCA12E5E4=SFX_PAUSE_400
@@ -669,7 +669,7 @@
 0xCC47CB62=E1S2_RA
 
 ;0xCC8375FD=~z~we've got a new destination people.
-0xCC8375FD=~z~伙计们，咱们有新的目的地了。
+0xCC8375FD=~z~咱们的目的地要换了，各位。
 
 ;0xCF483BDB=090
 0xCF483BDB=090
@@ -681,10 +681,10 @@
 0xD1DCDE44=SFX_PAUSE_070
 
 ;0xD3BFBAD2=~z~As you say, sir.
-0xD3BFBAD2=~z~如你所说，先生。
+0xD3BFBAD2=~z~您说得对，先生。
 
 ;0xD45743C5=~z~Ok, I got it.
-0xD45743C5=~z~好了，我懂了。
+0xD45743C5=~z~好的，我懂了。
 
 ;0xD595BF8E=~z~A group of outstanding civilians,
 0xD595BF8E=~z~一群杰出的市民，
@@ -696,7 +696,7 @@
 0xD75CC81E=SFX_PAUSE_170
 
 ;0xDB110342=~z~I mean, does serving all these rich morons, you know...
-0xDB110342=~z~我意思是，给这些傻逼阔佬打工，你懂的……
+0xDB110342=~z~就是说，天天伺候这些傻逼阔佬...
 
 ;0xDB50682B=SFX_PAUSE_500
 0xDB50682B=SFX_PAUSE_500
@@ -708,13 +708,13 @@
 0xDE0923E0=E1S2_A_CA
 
 ;0xDE716544=~z~I hope them Deadbeats're enjoying their run.
-0xDE716544=~z~我希望这些死妈天使追得开心。
+0xDE716544=~z~希望这帮死妈天使玩得开心。
 
 ;0xE086C012=~z~You should be put down. I saw what you did to that orderly.
-0xE086C012=~z~你应该被干掉的。我看到了你对那个勤杂工干了啥。
+0xE086C012=~z~你就该判死刑。我知道你对勤杂工干了啥。
 
 ;0xE147C6DD=~z~Shut it, yuppies. I'm trying to think.
-0xE147C6DD=~z~闭嘴吧，雅皮士们。我得寻思寻思接下来咋办。
+0xE147C6DD=~z~闭嘴吧，雅皮士。我需要思考。
 
 ;0xE1B3DB1A=SFX_PAUSE_380
 0xE1B3DB1A=SFX_PAUSE_380
@@ -735,40 +735,40 @@
 0xE81060AB=~z~站住别动！
 
 ;0xE92D83BD=~z~Look, it was a victimless crime. My taxes pay your salary.
-0xE92D83BD=~z~听着，这是无受害人犯罪，我交的税是给你发工资用的。
+0xE92D83BD=~z~听着，这是无受害人犯罪，是我交税养你们的。
 
 ;0xE98A26CE=~z~I'm afraid I can't get your yuppie friends out of the city, Mr. Stubbs.
-0xE98A26CE=~z~我恐怕不能把你这群雅皮士朋友带出市里了，Stubbs先生。
+0xE98A26CE=~z~恐怕我不能带你的雅皮士朋友逃出生天了，Stubbs先生。
 
 ;0xEBA9EAA6=~z~Well, I think what I've learned is that there's always a man, dude.
-0xEBA9EAA6=~z~好吧，我想的是我领悟到的东西是人终究是人，老哥，
+0xEBA9EAA6=~z~好吧，我的人生感悟是，总有人欠收拾，伙计。
 
 ;0xEBC07AEF=E1S2_A_EA
 0xEBC07AEF=E1S2_A_EA
 
 ;0xEBD9E672=~z~Faster. Faster. We need to lose them.
-0xEBD9E672=~z~再快点，再快点。我们得甩掉他们。
+0xEBD9E672=~z~快点，快点。我们得甩掉他们。
 
 ;0xEE2742AA=E1S2_SK
 0xEE2742AA=E1S2_SK
 
 ;0xEE89BEAD=~z~You a bike man?
-0xEE89BEAD=~z~你也是摩托车手？
+0xEE89BEAD=~z~你也玩摩托？
 
 ;0xEF067F09=E1S2_PB
 0xEF067F09=E1S2_PB
 
 ;0xEF0AB4B6=~z~I wager one could learn a lot about my fellow prisoners by seeing how they're wired.
-0xEF0AB4B6=~z~我打赌，通过观察我的狱友们是怎么混到一块的，是个人都能学到很多。
+0xEF0AB4B6=~z~把我的这些狱友拆开一定可以学到很多东西。
 
 ;0xEFA332E8=~z~Every wise politician knows when to cut their losses.
-0xEFA332E8=~z~每个精明的政治家都知道该啥时候止损。
+0xEFA332E8=~z~精明的政治家都知道什么时候止损。
 
 ;0xEFFFC595=~z~True blue. Come on in.
 0xEFFFC595=~z~是自己人。快进来吧。
 
 ;0xF14C0D2C=~z~Mom always told me I'd be a bus driver.
-0xF14C0D2C=~z~老妈一直都说我会是个大巴司机。
+0xF14C0D2C=~z~老妈一直说我会当大巴司机。
 
 ;0xF1A4C3E1=SFX_PAUSE_160
 0xF1A4C3E1=SFX_PAUSE_160
@@ -780,37 +780,37 @@
 0xF3DD3CA4=~z~随你吧，好兄弟。
 
 ;0xF4C8EDDF=~z~Hey, my preppie friends, will you shut the hell up?
-0xF4C8EDDF=~z~嘿，小朋友们，能不能闭上你们的臭嘴？
+0xF4C8EDDF=~z~嘿，小朋友们，能不能他妈闭嘴？
 
 ;0xF6FA25BB=E1S2_MB
 0xF6FA25BB=E1S2_MB
 
 ;0xF7CA20F6=~z~Those coveralls chafing you? Well you must be used to wearing Perseus suits and shit.
-0xF7CA20F6=~z~那些囚服是不是把你们穿得都磨破皮了？你们肯定是被Perseus里卖的垃圾西装惯坏了。
+0xF7CA20F6=~z~这身囚服是不是硌得难受？你们肯定只穿得惯Perseus的垃圾西装。
 
 ;0xF7FD2854=SFX_PAUSE_120
 0xF7FD2854=SFX_PAUSE_120
 
 ;0xF8D79921=~z~This bus ain't going to Alderney State Correctional I'm afraid.
-0xF8D79921=~z~我恐怕这辆囚车去的不是Alderney州监狱了。
+0xF8D79921=~z~恐怕这辆囚车的目的地不是Alderney州监狱。
 
 ;0xFA2A9460=SFX_PAUSE_550
 0xFA2A9460=SFX_PAUSE_550
 
 ;0xFBDBCCCD=~z~My greed was of a... more corporeal nature.
-0xFBDBCCCD=~z~但我的贪欲……更多的是与生俱来的。
+0xFBDBCCCD=~z~但我的贪欲...更多的是一种本能。
 
 ;0xFC0203C4=E1S2_NC
 0xFC0203C4=E1S2_NC
 
 ;0xFCEB1E34=~z~The only people coming past here today are wearing cuffs. Walk away.
-0xFCEB1E34=~z~今天能从这过的人都是戴着手铐的。走开。
+0xFCEB1E34=~z~今天这里只放行戴手铐的人。走开。
 
 ;0xFDF2537B=630360690
 0xFDF2537B=630360690
 
 ;0xFE7E904B=~z~I mean, has giving the man, the, err, finger,
-0xFE7E904B=~z~我的意思是，向别人，呃，竖中指，
+0xFE7E904B=~z~我是说，整天找别人，呃，麻烦，
 
 ;0xFF86A9A1=~z~Here comes the school bus.
 0xFF86A9A1=~z~校车来啦。
@@ -819,5 +819,5 @@
 0xFFB99AE3=E1S2_NB
 
 ;0xFFD20E26=~z~The police are gonna catch us. I know it.
-0xFFD20E26=~z~我就知道，警察要逮到咱们了。
+0xFFD20E26=~z~警察要抓住我们了，我就知道。
 
