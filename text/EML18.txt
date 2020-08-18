@@ -1,58 +1,58 @@
 ﻿[EML18]
 ;0x16FA30DD=Kill Debt Dead
-0x16FA30DD=Kill Debt Dead
+0x16FA30DD=债务清洁工
 
 ;0x241DCB24=Kill Debt Dead
-0x241DCB24=Kill Debt Dead
+0x241DCB24=债务清洁工
 
 ;0x281B1857=Completely risk free!
-0x281B1857=Completely risk free!
+0x281B1857=绝对零风险！
 
 ;0x364B6F7F=Kill Debt Dead
-0x364B6F7F=Kill Debt Dead
+0x364B6F7F=债务清洁工
 
 ;0x59D6D19C=Completely risk free! Clear your debts in less than 30 days! 100% success rate!Are you drowning in debt? Getting harassed by creditors? Struggling to pay your bills on time? Scared to answer the phone? Do you hide every time the doorbell rings?
-0x59D6D19C=Completely risk free! Clear your debts in less than 30 days! 100% success rate!Are you drowning in debt? Getting harassed by creditors? Struggling to pay your bills on time? Scared to answer the phone? Do you hide every time the doorbell rings?
+0x59D6D19C=绝对零风险！ 三十天内清零你的债务。100%成功率！你正在为你的债务发愁吗? 被高利贷骚扰? 为还钱而痛苦挣扎吗? 不敢打电话吗? 每次门铃响的时候你都在躲藏吗?
 
 ;0x61AE8B81=Completely risk free!
-0x61AE8B81=Completely risk free!
+0x61AE8B81=绝对零风险！
 
 ;0x68909951=Completely risk free!
-0x68909951=Completely risk free!
+0x68909951=绝对零风险！
 
 ;0x6D655DB2=Kill Debt Dead
-0x6D655DB2=Kill Debt Dead
+0x6D655DB2=债务清洁工
 
 ;0x6EBD6062=Kill Debt Dead
-0x6EBD6062=Kill Debt Dead
+0x6EBD6062=债务清洁工
 
 ;0x72DC2DDC=Completely risk free!
-0x72DC2DDC=Completely risk free!
+0x72DC2DDC=绝对零风险！
 
 ;0x84AC517C=Completely risk free!
-0x84AC517C=Completely risk free!
+0x84AC517C=绝对零风险！
 
 ;0x962EF481=Completely risk free!
-0x962EF481=Completely risk free!
+0x962EF481=绝对零风险！
 
 ;0xB3A1052F=Can you imagine eliminating ALL your outstanding debt? Can you imagine all the people you owe money to floating face down in the their backyard pool with no explanation? Can you imagine never making another payment again?
-0xB3A1052F=Can you imagine eliminating ALL your outstanding debt? Can you imagine all the people you owe money to floating face down in the their backyard pool with no explanation? Can you imagine never making another payment again?
+0xB3A1052F=你能想象消灭你所有的债务吗? 你能想象你的债主都在后院的水池里离奇的淹死了?你能想象今生不用再为付款发愁了吗?
 
 ;0xC6C3906D=Kill Debt Dead
-0xC6C3906D=Kill Debt Dead
+0xC6C3906D=债务清洁工
 
 ;0xCF0A6637=Completely risk free!
-0xCF0A6637=Completely risk free!
+0xCF0A6637=绝对零风险！
 
 ;0xD76676FB=Completely risk free!
-0xD76676FB=Completely risk free!
+0xD76676FB=绝对零风险！
 
 ;0xD8D63492=Kill Debt Dead
-0xD8D63492=Kill Debt Dead
+0xD8D63492=债务清洁工
 
 ;0xE8506E8D=We eliminate debt quickly and painlessly without damaging your credit score. We sell financial freedom. You may have ruined your life and will never recover, but we can help. Why should you have to pay for the things you've bought? Borrow your way to a new future. Today is the first day of the rest of your lifetime of debt. <a href=www.killdebtdead.com>www.killdebtdead.com</a>
-0xE8506E8D=We eliminate debt quickly and painlessly without damaging your credit score. We sell financial freedom. You may have ruined your life and will never recover, but we can help. Why should you have to pay for the things you've bought? Borrow your way to a new future. Today is the first day of the rest of your lifetime of debt. <a href=www.killdebtdead.com>www.killdebtdead.com</a>
+0xE8506E8D=我们快速无痛苦的消灭你的债务，并且不会影响你的信用度. 我们卖的是财务自由. 你也许毁掉了你的一生，并且再也无法恢复, 但我们可以帮忙！你为什么需要为你买的东西付款? 我们为你的未来铺路。 今天是你负债累累的最后一天。 <a href=www.killdebtdead.com>www.killdebtdead.com</a>
 
 ;0xE8C8547A=Kill Debt Dead
-0xE8C8547A=Kill Debt Dead
+0xE8C8547A=债务清洁工
 

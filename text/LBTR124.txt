@@ -1,43 +1,43 @@
 ﻿[LBTR124]
 ;0x0251BDF5=Wasp Patriarch Terror Death Shocker
-0x0251BDF5=Wasp Patriarch Terror Death Shocker
+0x0251BDF5=Wasp Patriarch死于骇人听闻的恐怖袭击
 
 ;0x11955E63=By Richie Score
-0x11955E63=By Richie Score
+0x11955E63=Richie Score报道
 
 ;0x19F736E6=Brokerage firms were rocked yesterday by the news that some of the people who work there are not corrupt, greedy rule breakers. After a wide spread investigation into insider trading and corporate greed, the FIB only arrested 20 brokers at three brokerage firms in northern Alderney yesterday, which represented only 35 per cent of the work force. Human resource professionals at all the firms were humiliated to discover they had employed as up to 65 per cent of their work force people who are not morally destitute and greedy as can be. One CEO commented to us "How are we supposed to make our growth targets and raise our share price if we are not taking undue risks with other people's money, driven on by the desperate greed of our brokers? I'm appalled at what is happening in this town." Federal investigators promised to search out more corruption on the exchange and make sure those found guilty are properly punished with book deals and talk show appearances.
-0x19F736E6=Brokerage firms were rocked yesterday by the news that some of the people who work there are not corrupt, greedy rule breakers. After a wide spread investigation into insider trading and corporate greed, the FIB only arrested 20 brokers at three brokerage firms in northern Alderney yesterday, which represented only 35 per cent of the work force. Human resource professionals at all the firms were humiliated to discover they had employed as up to 65 per cent of their work force people who are not morally destitute and greedy as can be. One CEO commented to us "How are we supposed to make our growth targets and raise our share price if we are not taking undue risks with other people's money, driven on by the desperate greed of our brokers? I'm appalled at what is happening in this town." Federal investigators promised to search out more corruption on the exchange and make sure those found guilty are properly punished with book deals and talk show appearances.
+0x19F736E6=经纪公司昨天被重磅消息震惊，在那里工作的竟然有部分人不是腐败分子，不是贪婪的违法者。在一场广泛的关于内幕交易与朋党贪污的调查之后， FIB 昨天在北奥尔德尼仅仅逮捕了3个经纪公司的20名违法者。 这仅仅是他们35%的涉事人员。所有公司的人力资源专家羞耻的发现他们聘用了高达65%的道德缺失，无限贪婪的人。 一个CEO对我们发表评论 "如果我们没有带着其他人的金钱承受不应得的高风险，我们应当如何设定增长目标，并且提高我们的股票价格，并被处在破产边缘的没有希望的人到处驱使? 我同样被发生在这个城市的事情震惊"联邦调查局的警员承诺，会在今后查处更多的腐败案件，并且保证罪犯会严格的被书刊和脱口秀公开处刑。
 
 ;0x209DC0D9=In an ironic twist of fate, this patriot's children were also killed by rogue acts of terrorism. The family is now headed by Congressman Thomas Stubbs, Arthur Stubb's nephew. Mr Stubbs told reporters at a conference he hastily convened "This is a tragedy. My family has given so much to this country and to freedom. Arthur Stubbs was a great. Great man. I will carry on his work fighting justice and honor wherever I find it. His death had made me a very rich man and I will use that money for good, and for insuring my re-election."
-0x209DC0D9=In an ironic twist of fate, this patriot's children were also killed by rogue acts of terrorism. The family is now headed by Congressman Thomas Stubbs, Arthur Stubb's nephew. Mr Stubbs told reporters at a conference he hastily convened "This is a tragedy. My family has given so much to this country and to freedom. Arthur Stubbs was a great. Great man. I will carry on his work fighting justice and honor wherever I find it. His death had made me a very rich man and I will use that money for good, and for insuring my re-election."
+0x209DC0D9=在一个讽刺的命运翻转中， 这个爱国者的孩子也被暴戾的恐怖主义行为杀害。议员Thomas Stubbs， Arthur Stubb的外甥继承了家产。Stubbs先生在他匆忙召集会议中告诉记者， "这真是一个悲剧。我的家庭为这个国家，为了自由付出了太多。 Arthur Stubbs是一个伟大的人。我会继承他为公平正义所做的事业，并且褒奖那些为正义献身的人。他的死使我变成了一个非常富有的人并且我会妥善使用我的家产， 并且会用于我的连任。"
 
 ;0x3537960C=TJ Barry
 0x3537960C=TJ Barry
 
 ;0x3F4F1810=Michael Graves's campaign is fighting allegations that his campaign manager bore him a love child after discussions over strategy became a little too intimate. Three years ago, Mona Arthurs, 40, gave birth to a child she claimed was fathered by her openly gay husband, Jay. However, as baby Mike grew and developed, observant friends noticed a problem - Jay Arthurs is black. Baby Mikey is apparently, not. Ms. Arthurs and Mikey, who live in Los Santos, have gone into hiding while politicans try to score points off each other over the story. Mr. Graves released the following statement "I did not sleep with Ms Arthurs, nor with any woman, at any time, under any circumstances. My political opponents are ruining this poor woman's reputation, which is odd, given that the wives are notorious sluts."
-0x3F4F1810=Michael Graves's campaign is fighting allegations that his campaign manager bore him a love child after discussions over strategy became a little too intimate. Three years ago, Mona Arthurs, 40, gave birth to a child she claimed was fathered by her openly gay husband, Jay. However, as baby Mike grew and developed, observant friends noticed a problem - Jay Arthurs is black. Baby Mikey is apparently, not. Ms. Arthurs and Mikey, who live in Los Santos, have gone into hiding while politicans try to score points off each other over the story. Mr. Graves released the following statement "I did not sleep with Ms Arthurs, nor with any woman, at any time, under any circumstances. My political opponents are ruining this poor woman's reputation, which is odd, given that the wives are notorious sluts."
+0x3F4F1810=Michael Graves的竞选团队正在反抗指控，指控称他的竞选经理在工作之余和他过度亲密，并为他生了一个私生子。三年前， Mona Arthurs， 40岁， 为她的已经公开出柜的同性恋丈夫Jay生了一个孩子。 但是，随着小孩Mike成长发育， 细心的朋友发现了一个问题 - Jay Arthurs是黑人。 婴儿Mikey显然，不是。 Arthurs女士和Mikey住在洛圣都，  在政客互相寻找污点的时候躲避了起来。Graves先生随后发表了声明"我没和Arthurs女士睡过觉， 也从来没和其他女人，在任何时候和情况下睡过觉。我的政敌正在摧毁这个可怜女人的名誉， 这很奇怪， 毕竟所有的妇人都是臭名昭著的荡妇。"
 
 ;0x43ADBB80=Insider Trading Sting in Alderney
-0x43ADBB80=Insider Trading Sting in Alderney
+0x43ADBB80=Alderney州的内部交易猖獗
 
 ;0x7588A06B=Rumors abound
-0x7588A06B=Rumors abound
+0x7588A06B=谣言四起
 
 ;0x793ACFBF=Insider Trading Sting in Alderney
-0x793ACFBF=Insider Trading Sting in Alderney
+0x793ACFBF=Alderney州的内部交易猖獗
 
 ;0x807EA89E=Scandal rocks the Exchange, Again.
-0x807EA89E=Scandal rocks the Exchange, Again.
+0x807EA89E=丑闻再次震惊了交易所
 
 ;0xC5304B42=Michael Wayne
 0xC5304B42=Michael Wayne
 
 ;0xC9FABFB4=Violence at airport
-0xC9FABFB4=Violence at airport
+0xC9FABFB4=机场恐袭
 
 ;0xD03CD032=Graves in love child scandal
-0xD03CD032=Graves in love child scandal
+0xD03CD032=Graves私生子丑闻
 
 ;0xEDB25B03=Arthur Stubbs, elder statesman of the legendary Stubbs political clan was gunned down by terrorists yesterday shortly after arriving at Francis International Airport. Mr. Stubbs, 83, was arriving in the city for a family meeting and to help to discuss bailing out a lot of rich people upset by the recent problems on the exchange. A passionate democrat when it suited him and also an elitist who hated poor people, Mr. Stubbs embodied an America that has mercifully disappeared. He was brutally killed standing up for freedom by a splinter cell now on the loose in Liberty City. Police are searching for the terror cell and advise people to be very afraid and report any activity by brown people.
-0xEDB25B03=Arthur Stubbs, elder statesman of the legendary Stubbs political clan was gunned down by terrorists yesterday shortly after arriving at Francis International Airport. Mr. Stubbs, 83, was arriving in the city for a family meeting and to help to discuss bailing out a lot of rich people upset by the recent problems on the exchange. A passionate democrat when it suited him and also an elitist who hated poor people, Mr. Stubbs embodied an America that has mercifully disappeared. He was brutally killed standing up for freedom by a splinter cell now on the loose in Liberty City. Police are searching for the terror cell and advise people to be very afraid and report any activity by brown people.
+0xEDB25B03=Arthur Stubbs，系享誉盛名的Stubbs政治家族中的年长议员，在昨天到达弗兰西斯国际机场不久，被恐怖分子击毙  Stubbs先生， 83岁， 要来到这个城市参加家族会议， 以帮助被近期事件困扰的富人。他是一个热情的民主党人，并且是一个尝试帮助穷人的精英。 Stubbs先生的身上体现了一个消失了的仁爱的美国。他被残忍的杀害了这件事体现了自由民主正在以细胞分裂的速度消失。警察正在搜索恐怖的巢穴，并且告诫人们保持谨慎并且通报一切关于棕色人种的动向。
 

@@ -42,7 +42,7 @@
 0xB52DB170=驾驶囚车会引起警察怀疑。到达碰头地点前尽量避开警察。
 
 ;0xC7259533=~r~You disrupted the prisoner's escape plans.
-0xC7259533=~r~你扰乱了囚犯的逃跑计划。
+0xC7259533=~r~你扰乱了囚犯的越狱计划。
 
 ;0xD6A2342C=~r~A prisoner has died.
 0xD6A2342C=~r~有囚犯死了。

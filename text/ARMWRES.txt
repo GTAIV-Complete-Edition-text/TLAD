@@ -3,19 +3,19 @@
 0x0563B7EA=1...
 
 ;0x0D69C7F6=Start in 3...
-0x0D69C7F6=3秒后开始...
+0x0D69C7F6=倒计时 3...
 
 ;0x0F766047=Press ~INPUT_MOUSE_LMB~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to forfeit.~n~This is the deciding round!
-0x0F766047=按下 ~INPUT_MOUSE_LMB~ 来开始掰手腕。~n~按下 ~INPUT_PICKUP~ 来取消。~n~这是决定性的一回合!
+0x0F766047=按~INPUT_MOUSE_LMB~开始掰手腕。~n~按~INPUT_PICKUP~弃赛。~n~决胜局！
 
 ;0x28423B38=Press ~INPUT_FRONTEND_ACCEPT~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to forfeit.~n~You must win this round to stay in it!
-0x28423B38=按下 ~INPUT_FRONTEND_ACCEPT~ 来开始掰手腕。~n~按下 ~INPUT_PICKUP~ 来取消。~n~你必须赢得这一回合来保持参赛资格！
+0x28423B38=按~INPUT_FRONTEND_ACCEPT~开始掰手腕。~n~按~INPUT_PICKUP~弃赛。~n~输掉这局就会被淘汰！
 
 ;0x2F3A6B8A=You win.
 0x2F3A6B8A=你赢了。
 
 ;0x393A4BBB=Press ~INPUT_MOUSE_LMB~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to forfeit.~n~You must win this round to stay in it!
-0x393A4BBB=按下 ~INPUT_MOUSE_LMB~ 来开始掰手腕。~n~按下 ~INPUT_PICKUP~ 来取消。~n~你必须赢得这一回合来保持参赛资格！
+0x393A4BBB=按~INPUT_MOUSE_LMB~开始掰手腕。~n~按~INPUT_PICKUP~弃赛。~n~输掉这局就会被淘汰！
 
 ;0x3B99A461=2...
 0x3B99A461=2...
@@ -27,10 +27,10 @@
 0x4EBE31D8=你输了。
 
 ;0x50AE2FB6=Press ~INPUT_PICKUP~ to forfeit. ~n~Press ~INPUT_MOUSE_LMB~ to return to the contest.
-0x50AE2FB6=按下 ~INPUT_PICKUP~来取消。 ~n~按下 ~INPUT_MOUSE_LMB~ 来返回比赛。
+0x50AE2FB6=按~INPUT_PICKUP~弃赛。~n~按~INPUT_MOUSE_LMB~继续比赛。
 
 ;0x673337F5=Press ~INPUT_FRONTEND_ACCEPT~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to forfeit.~n~This is the deciding round!
-0x673337F5=按下 ~INPUT_FRONTEND_ACCEPT~ 来开始掰手腕.~n~按下 ~INPUT_PICKUP~ 来取消。~n~这是决定性的一回合!
+0x673337F5=按~INPUT_FRONTEND_ACCEPT~开始掰手腕。~n~按~INPUT_PICKUP~弃赛。~n~决胜局！
 
 ;0x68DB98A7=Opponent stamina
 0x68DB98A7=对手耐力
@@ -39,25 +39,25 @@
 0x744C2F94=玩家速度
 
 ;0x99BE1E2A=Press ~INPUT_PICKUP~ to forfeit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to return to the contest.
-0x99BE1E2A=按下 ~INPUT_PICKUP~ 来取消。 ~n~按下 ~INPUT_FRONTEND_ACCEPT~ 来回到比赛。
+0x99BE1E2A=按~INPUT_PICKUP~弃赛。~n~按~INPUT_FRONTEND_ACCEPT~继续比赛。
 
 ;0x9F22D1D8=Press ~INPUT_MOUSE_LMB~ for a rematch. ~n~Press ~INPUT_PICKUP~ to quit.
-0x9F22D1D8=按下 ~INPUT_MOUSE_LMB~ 来重新比赛一次。 ~n~按下 ~INPUT_PICKUP~来退出。
+0x9F22D1D8=按~INPUT_MOUSE_LMB~再比一次。~n~按~INPUT_PICKUP~退出。
 
 ;0xA101EF97=Press ~INPUT_MOUSE_LMB~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to quit.~n~Best of three rounds wins.
-0xA101EF97=按下 ~INPUT_MOUSE_LMB~ 来开始掰手腕。~n~按下 ~INPUT_PICKUP~ 来退出。~n~三局两胜。
+0xA101EF97=按~INPUT_MOUSE_LMB~开始掰手腕。~n~按~INPUT_PICKUP~退出。~n~三局两胜。
 
 ;0xA89DBBE9=Rapidly move ~PAD_RSTICK_LEFTRIGHT~ to arm wrestle.
-0xA89DBBE9=快速的移动 ~PAD_RSTICK_LEFTRIGHT~ 来掰手腕。
+0xA89DBBE9=快速移动~PAD_RSTICK_LEFTRIGHT~发力。
 
 ;0xB30AD14C=Press ~INPUT_MOUSE_LMB~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to forfeit.~n~Win one more round to win!
-0xB30AD14C=按下 ~INPUT_MOUSE_LMB~来开始掰手腕。~n~按下 ~INPUT_PICKUP~来取消.~n~再赢一回合来胜利！
+0xB30AD14C=按~INPUT_MOUSE_LMB~开始掰手腕。~n~按~INPUT_PICKUP~弃赛。~n~决胜局！
 
 ;0xBF0BC512=Player stamina
 0xBF0BC512=玩家耐力
 
 ;0xC40072AE=Press ~INPUT_FRONTEND_ACCEPT~ for a rematch. ~n~Press ~INPUT_PICKUP~ to quit.
-0xC40072AE=按下 ~INPUT_FRONTEND_ACCEPT~ 来重新比赛一次。 ~n~按下 ~INPUT_PICKUP~ 来退出。
+0xC40072AE=按~INPUT_FRONTEND_ACCEPT~再比一次。~n~按~INPUT_PICKUP~退出。
 
 ;0xCFD2669F=Opponent speed
 0xCFD2669F=对手速度
@@ -69,11 +69,11 @@
 0xE05D2B67=对手正在使用2号玩家的控制板。
 
 ;0xEDE1466F=Press ~INPUT_FRONTEND_ACCEPT~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to quit.~n~Best of three rounds wins.
-0xEDE1466F=按下 ~INPUT_FRONTEND_ACCEPT~ 来开始掰手腕。~n~按下 ~INPUT_PICKUP~ 来退出。~n~三局两胜。
+0xEDE1466F=按~INPUT_FRONTEND_ACCEPT~开始掰手腕。~n~按~INPUT_PICKUP~退出。~n~三局两胜。
 
 ;0xF30F1341=Go!
-0xF30F1341=行动!
+0xF30F1341=开始！
 
 ;0xFAF5E098=Press ~INPUT_FRONTEND_ACCEPT~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to forfeit.~n~Win one more round to win!
-0xFAF5E098=按下 ~INPUT_FRONTEND_ACCEPT~ 来开始掰手腕。~n~按下 ~INPUT_PICKUP~来取消。~n~再赢一局来取得胜利！
+0xFAF5E098=按~INPUT_FRONTEND_ACCEPT~开始掰手腕。~n~按~INPUT_PICKUP~弃赛。~n~决胜局！
 

@@ -1,70 +1,69 @@
 ﻿[EML19]
 ;0x05E22335=Dear Mr Klebitz,
-0x05E22335=Dear Mr Klebitz,
+0x05E22335=亲爱的Klebitz先生,
 
 ;0x124B142A=I came to know your esteemed self in my search for relatives of my client with the objective of securing a destinee of the property and money left behind by my aforementioned client following his aforementioned death, which unfortunately claimed his life.
-0x124B142A=I came to know your esteemed self in my search for relatives of my client with the objective of securing a destinee of the property and money left behind by my aforementioned client following his aforementioned death, which unfortunately claimed his life.
+0x124B142A=我在寻找我当事人的亲属的过程中认识了你，目的是确保我当事人在上述不幸死亡后留下的财产和金钱的归宿。
 
 ;0x1769C65C=Dear Mr Klebitz,
-0x1769C65C=Dear Mr Klebitz,
+0x1769C65C=亲爱的Klebitz先生,
 
 ;0x1807C780=Dear Mr Klebitz,
-0x1807C780=Dear Mr Klebitz,
+0x1807C780=亲爱的Klebitz先生,
 
 ;0x24CC6121=Dear Mr Klebitz,
-0x24CC6121=Dear Mr Klebitz,
+0x24CC6121=亲爱的Klebitz先生,
 
 ;0x325FFC30=Dear Mr Klebitz,
-0x325FFC30=Dear Mr Klebitz,
+0x325FFC30=亲爱的Klebitz先生,
 
 ;0x58B04F17=Yours Obediently,
-0x58B04F17=Yours Obediently,
+0x58B04F17=您的仆人，
 
 ;0x636B648D=Yours Obediently,
-0x636B648D=Yours Obediently,
+0x636B648D=您的仆人，
 
 ;0x68F7417D=In consideration of my failing attempts to locate my client's relatives I humbly seek your help very urgently with much courtesy and hope to present you as the Next of Kin of the aforementioned deceased as you both bear the same name.
-0x68F7417D=In consideration of my failing attempts to locate my client's relatives I humbly seek your help very urgently with much courtesy and hope to present you as the Next of Kin of the aforementioned deceased as you both bear the same name.
+0x68F7417D=考虑到我未能找到我委托人的亲属，虽然内心谦恭，但又不得不紧急的寻求您的帮助，并希望让您作为上述死者的近亲出现，因为您与其人同名。
 
 ;0x75518859=Yours Obediently,
-0x75518859=Yours Obediently,
+0x75518859=您的仆人，
 
 ;0x7F816E91=I know that a solitication of this gravitude may cause you apprehension but I assure you wholeheadedly of the good faith in which it is solicited. My sincere apoligies for emptying myself into you unsolicitedly and I trust this letter reaches you in fine health. Please contact me at your earliest comfort. You will be rich.
-0x7F816E91=I know that a solitication of this gravitude may cause you apprehension but I assure you wholeheadedly of the good faith in which it is solicited. My sincere apoligies for emptying myself into you unsolicitedly and I trust this letter reaches you in fine health. Please contact me at your earliest comfort. You will be rich.
+0x7F816E91=我知道孤独的力量可能会让你的忧虑，但我向你保证，这是一个诚恳的要求。为我唐突的向您说了这么多而深感歉意，我相信你收到这封信时身体健康。请尽快与我联系。你很快就很有钱了。
 
 ;0x87F82DA6=Yours Obediently,
-0x87F82DA6=Yours Obediently,
+0x87F82DA6=您的仆人，
 
 ;0x99C55140=Yours Obediently,
-0x99C55140=Yours Obediently,
+0x99C55140=您的仆人，
 
 ;0xA49FB8D1=How do I find you today? Please fogive me if I am instruding your privacy. I am Barrister Saidou Bakayoko, personal attorney to the late Mr. Laurence Brand, who until his tragic death was a building contractor with the government of Burkina Faso.
-0xA49FB8D1=How do I find you today? Please fogive me if I am instruding your privacy. I am Barrister Saidou Bakayoko, personal attorney to the late Mr. Laurence Brand, who until his tragic death was a building contractor with the government of Burkina Faso.
+0xA49FB8D1=我今天怎么找你？如果你认为我正在侵犯你的隐私，请原谅我。我是律师Saidou Bakayoko，曾是已故劳伦斯·布兰德先生的私人律师，在他不幸去世之前，他是布基纳法索政府的建筑承包商。
 
 ;0xAC46F643=Yours Obediently,
-0xAC46F643=Yours Obediently,
+0xAC46F643=您的仆人，
 
 ;0xAD32F1D8=Dear Mr Klebitz,
-0xAD32F1D8=Dear Mr Klebitz,
+0xAD32F1D8=亲爱的Klebitz先生,
 
 ;0xBA948CB3=Dear Mr Klebitz,
-0xBA948CB3=Dear Mr Klebitz,
+0xBA948CB3=亲爱的Klebitz先生,
 
 ;0xBF191BE7=Yours Obediently,
-0xBF191BE7=Yours Obediently,
+0xBF191BE7=您的仆人，
 
 ;0xD0D9BF68=Yours Obediently,
-0xD0D9BF68=Yours Obediently,
+0xD0D9BF68=您的仆人，
 
 ;0xDF5AAE46=Knowing of your high trustworthiness and repute, I seek your consent if you are unequivocably interested to present you as Next Of Kin of the deceased so that the funds of $15.5m would be released into your bank account as the aforementioned Next Of Kin.
-0xDF5AAE46=Knowing of your high trustworthiness and repute, I seek your consent if you are unequivocably interested to present you as Next Of Kin of the deceased so that the funds of $15.5m would be released into your bank account as the aforementioned Next Of Kin.
+0xDF5AAE46=深知知道你的高信誉值得托付，如果您有不可撤销的利益，愿意将您列为死者的近亲，以便将1550万美元的资金作为上述近亲的遗产存入您的银行账户，希望您能同意。
 
 ;0xEEC94D23=This Bank of the deceased has issued a notice instructing me to produce the Next of Kin to the aforementioned account within the next four working days or have the account confiscated.
-0xEEC94D23=This Bank of the deceased has issued a notice instructing me to produce the Next of Kin to the aforementioned account within the next four working days or have the account confiscated.
+0xEEC94D23=死者的银行已发出通知，指示我在未来四个工作日内出示上述账户的近亲，如若不然，账户的资金就会被没收。
 
 ;0xFBA50EBB=Dear Mr Klebitz,
-0xFBA50EBB=Dear Mr Klebitz,
+0xFBA50EBB=亲爱的Klebitz先生,
 
 ;0xFD15E9BC=Two months ago my client and his entire family was killed in a motor accident on a road of Ouagadougou, which claimed all their lifes, sparing none of the ocupants of the aforementioned vehicle, not one, not even the bouncing headed dog who lived on the dashboard.
-0xFD15E9BC=Two months ago my client and his entire family was killed in a motor accident on a road of Ouagadougou, which claimed all their lifes, sparing none of the ocupants of the aforementioned vehicle, not one, not even the bouncing headed dog who lived on the dashboard.
-
+0xFD15E9BC=两个月前，我的当事人和他的整个家庭死于一场发生在瓦加杜古的惨烈车祸，这场车祸夺去了他们的生命，上述提到的车也面目全非难，甚至在仪表盘上坐着的宠物犬也死于非命。

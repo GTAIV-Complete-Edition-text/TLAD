@@ -1,43 +1,43 @@
 ﻿[LBTR130]
 ;0x27C992B6=It's part of every adult magazine: a several page spread with two nasty hot twins going at it with a guy who we'll call The Luckiest Man in the World. But is he really so lucky? Why is sex with twins ok, but inter-family sex considered foul and taboo? Reports are now coming in that sex with twins isn't all that great. One area man who declined to be named said, "It was a dream, right up until the point where two family members started 69ing. I'm sorry, I'm as red blooded as any man but that's difficult to deal with. I mean, why do you even need me? Why not call your dad over and bang him?" The twins' father refused to comment, only stating that they have a very close family.
-0x27C992B6=It's part of every adult magazine: a several page spread with two nasty hot twins going at it with a guy who we'll call The Luckiest Man in the World. But is he really so lucky? Why is sex with twins ok, but inter-family sex considered foul and taboo? Reports are now coming in that sex with twins isn't all that great. One area man who declined to be named said, "It was a dream, right up until the point where two family members started 69ing. I'm sorry, I'm as red blooded as any man but that's difficult to deal with. I mean, why do you even need me? Why not call your dad over and bang him?" The twins' father refused to comment, only stating that they have a very close family.
+0x27C992B6=这是每个成人杂志的一部分：几页纸画着两个身材火辣妖娆妩媚的双胞胎，在我们称为世界上最幸运的男人身上进进出出。但是他真的这么幸运吗？为什么和双胞胎的性关系竟然是没问题的，但是家族内的性关系就是禁忌的酸臭的？有消息称和双胞胎的性关系并不那么好。一位不愿意透露姓名的业内人士称， "那曾经是梦想，直到两个家庭成员开始做69式为止。抱歉，我是一个热血的男子但是这种事很难发生。我是说，你为啥需要我？为什么不把你的爸爸叫过来然后捆绑他？" 这对双胞胎的父亲拒绝评论， 只是说，我们的家庭关系非常紧密。
 
 ;0x4DB34DF1=Twins are 2 much for area man
-0x4DB34DF1=Twins are 2 much for area man
+0x4DB34DF1=一对双胞胎对男优来说太难得了
 
 ;0x51977C99=Despite allegations of involvement in drug dealing, the cagey Uptown Riders motorcycle gang is launching a clothing line. Known for their turbo-tuned sports bikes, blaring rap music, and reckless stunt riding; the group hopes their street wear will be a hit with suburban white kids looking to impress their friends. "We going for the urban scene, but most the shit that gets bought in North Holland and Bohan ain't exactly street legal. We looking to sell to the white boys whose mommas are gonna pay for the genuine article." When not beating up anyone who thinks they look 'kind of gay' and blowing their own faces off with over cooked batches of meth, the Angels of Death Motorcycle Club spend their time monopolizing the biker merchandise market. Their website sells everything from branded meth pipes to baby diapers. We'll see if the Uptown Riders can carve out a niche of their own.
-0x51977C99=Despite allegations of involvement in drug dealing, the cagey Uptown Riders motorcycle gang is launching a clothing line. Known for their turbo-tuned sports bikes, blaring rap music, and reckless stunt riding; the group hopes their street wear will be a hit with suburban white kids looking to impress their friends. "We going for the urban scene, but most the shit that gets bought in North Holland and Bohan ain't exactly street legal. We looking to sell to the white boys whose mommas are gonna pay for the genuine article." When not beating up anyone who thinks they look 'kind of gay' and blowing their own faces off with over cooked batches of meth, the Angels of Death Motorcycle Club spend their time monopolizing the biker merchandise market. Their website sells everything from branded meth pipes to baby diapers. We'll see if the Uptown Riders can carve out a niche of their own.
+0x51977C99=尽管有着参与贩毒的指控，守口如瓶的市郊摩托帮正在贩卖摩托帮服装。 他们因为涡轮加速的运动摩托车，喧闹的说唱音乐, 鲁莽的特技表演而备受瞩目， 这个组织希望他们这些白人小哥的街头穿着能够成为吸引眼球的时尚潮流。 "我们正在掀起市郊风，但是大部分在北荷兰和博汉买的东西都不合法。 我们希望卖给这些白人小哥，他们的妈妈会为他们的正品的穿着付钱。" 在不殴打，或者把那些认为摩托帮gay里gay气的人的脸摁在成堆的冰毒里面的时候，死亡天使摩托帮会充分利用垄断的摩托车商品市场。 他们的网站什么都卖，从品牌冰毒管到婴儿尿布。我们会看看城郊骑士会不会开辟出一个属于他们自己的市场。
 
 ;0x53896EF0=What's for dessert?
-0x53896EF0=What's for dessert?
+0x53896EF0=甜点吃什么？
 
 ;0x55106BEC=Tony J Smith
 0x55106BEC=Tony J Smith
 
 ;0x6B490AA0=Two taboo?
-0x6B490AA0=Two taboo?
+0x6B490AA0=两个禁忌？
 
 ;0x904964C5=Mary Williamson
 0x904964C5=Mary Williamson
 
 ;0xA7AFE0FD=The transport bus was taking him to Alderney State Correctional Facility along with several men recently convicted of insider trading. The police advise you to look after your families and share portfolios until they are able to track down this bus full of miscreants.
-0xA7AFE0FD=The transport bus was taking him to Alderney State Correctional Facility along with several men recently convicted of insider trading. The police advise you to look after your families and share portfolios until they are able to track down this bus full of miscreants.
+0xA7AFE0FD=监狱巴士正带着他和最近被定罪为内部交易的人前往Alderney州立监狱。 警方建议市民看好自己的家人，并且彼此分享投资组合，直到他们能追踪到这辆满载恶棍的巴士。
 
 ;0xB06E9108=Uptown Riders Retail
-0xB06E9108=Uptown Riders Retail
+0xB06E9108=城郊骑手的零售
 
 ;0xB956844A=The Dine and Dash killer, Curtis Stocker, could be back to his old cannibalistic tricks after his prison bus was hijacked from Leftwood Police Station. If you're not interested in having your internal organs feasted upon, we recommend you stay at home this evening. That said, Double D has a history of breaking into people's houses, so you may not be safe there either.
-0xB956844A=The Dine and Dash killer, Curtis Stocker, could be back to his old cannibalistic tricks after his prison bus was hijacked from Leftwood Police Station. If you're not interested in having your internal organs feasted upon, we recommend you stay at home this evening. That said, Double D has a history of breaking into people's houses, so you may not be safe there either.
+0xB956844A=食人杀手， Curtis Stocker，载他的监狱巴士在Leftwood警察局被劫持之后，他可能重拾他的食人伎俩。如果你对自己的器官被吃掉这件事不感兴趣的话， 我们推荐你今晚老老实实待在家里。有人说， 食人杀手有闯入他人家里的记录，所以你在家里也可能会很危险。
 
 ;0xC92DC0C6=Serial killer free to strike again
-0xC92DC0C6=Serial killer free to strike again
+0xC92DC0C6=连环杀手会再次作案
 
 ;0xD3D956D1=Biker gang starts clothing label
-0xD3D956D1=Biker gang starts clothing label
+0xD3D956D1=摩托帮开始贩卖自己帮派的制服
 
 ;0xE2D3F06F=Dine and Dash on the Loose
-0xE2D3F06F=Dine and Dash on the Loose
+0xE2D3F06F=食人凶手在逃
 
 ;0xF1DE8BFF=So much for denim and leather
-0xF1DE8BFF=So much for denim and leather
+0xF1DE8BFF=牛仔和皮革就这么多了
 
