@@ -9,13 +9,13 @@
 0x02838A1D=SFX_PAUSE_090
 
 ;0x0906B0C7=~z~When the patron saint of killing cops and smoking meth tells you to atone, you know you've been a bad girl.
-0x0906B0C7=~z~当你杀警察和吸毒的时候感到良心受到谴责，你就明白你是个坏女孩了。
+0x0906B0C7=~z~当杀警察和吸冰毒的守护神告诉你你该赎罪时，你就明白自己是个坏女孩了。
 
 ;0x0A8E923C=~z~Well, who says campaign donations don't buy you anything? I'm on it, Stubbs.
-0x0A8E923C=~z~好吧，谁告诉你有了竞选捐款还不能为所欲为的？我来接手，Stubbs。
+0x0A8E923C=~z~好吧，谁说竞选捐款无法给自己带来收益的？我来干，Stubbs。
 
 ;0x0D722CF5=~z~You need to get motivated. Lose the police.
-0x0D722CF5=~z~加油啊，甩掉警察。
+0x0D722CF5=~z~你需要动起来，甩掉警察。
 
 ;0x0DB8C661=E1S3p5_FD
 0x0DB8C661=E1S3p5_FD
@@ -27,10 +27,10 @@
 0x110CC920=SFX_PAUSE_410
 
 ;0x13F79E2F=~z~This is government business.
-0x13F79E2F=~z~此处例行公事。
+0x13F79E2F=~z~我们有政府的任务。
 
 ;0x14A05583=~z~Thanks for the info. And I thought guys like me were the scourge of society.
-0x14A05583=~z~谢谢你的消息。我觉得像我这样的人真是社会的毒瘤。
+0x14A05583=~z~谢谢你的情报。我觉得像我这样的人真的是社会毒瘤。
 
 ;0x15265489=E1S3p5_QA
 0x15265489=E1S3p5_QA
@@ -42,7 +42,7 @@
 0x16664F5A=102
 
 ;0x166D9CFE=~z~I don't even wanna guess what that means, but I'm thinking Juan ain't one of the schmucks who invested in your company.
-0x166D9CFE=~z~我才懒得寻思那是啥意思，但我觉得Juan不是唯一一个给你公司投资的傻逼。
+0x166D9CFE=~z~我都不想猜这句话的意思，但我觉得Juan不是唯一一个给你公司投资的傻逼。
 
 ;0x1676AF93=SFX_PAUSE_160
 0x1676AF93=SFX_PAUSE_160
@@ -54,22 +54,22 @@
 0x1D1D1191=E1S3p5_HA
 
 ;0x1DE2F22B=~z~Apart from watching a woman sail into the sunset with millions of dollars that belong to mom and pop investors,
-0x1DE2F22B=~z~除了看着一个女人卷走数百万大家拿来投资的血汗钱消失在晚霞里以外，
+0x1DE2F22B=~z~虽然我看着一个女人卷走数百万投资者的血汗钱消失在晚霞里，
 
 ;0x1EDC48BB=E1S3p5_KA
 0x1EDC48BB=E1S3p5_KA
 
 ;0x1FFD9EC1=~z~Mr. Congressman. I'm afraid your CEO friend is gonna have to stay and face the music.
-0x1FFD9EC1=~z~议员先生，恐怕你的CEO朋友要留下来自己认错了。
+0x1FFD9EC1=~z~议员先生，恐怕你的CEO朋友要留下来接受制裁了。
 
 ;0x22303AA0=~z~Can you please step back, sir?
-0x22303AA0=~z~先生，请你后退好吗？
+0x22303AA0=~z~请你后退好吗，先生？
 
 ;0x2265EE2C=E1S3p5_JE
 0x2265EE2C=E1S3p5_JE
 
 ;0x22E93C16=~z~We're gonna need some serious imagineering to get out of here.
-0x22E93C16=~z~咱得好好寻思下怎么逃出去。
+0x22E93C16=~z~我们得好好考虑下怎么逃跑。
 
 ;0x23D77806=E1S3p5_PB
 0x23D77806=E1S3p5_PB
@@ -84,10 +84,10 @@
 0x2ABE81CB=~z~别他妈教我做事，你个自以为是的屌毛。
 
 ;0x2C7694E2=~z~She's not making it to that tax haven.
-0x2C7694E2=~z~她没能去到那个避税港。
+0x2C7694E2=~z~她没法去那个避税港了。
 
 ;0x2D7379A0=~z~Prescription meds, vodka tonics,
-0x2D7379A0=~z~吃点处方药，喝点伏特加奎宁，
+0x2D7379A0=~z~吃点处方药，喝点伏特加汤力，
 
 ;0x2D74DCB2=290
 0x2D74DCB2=290
@@ -114,19 +114,19 @@
 0x3BBE815B=E1S3p5_CA
 
 ;0x3BD067C3=~z~I've got ten hours before Juan Pedro is crushing limes for my mojito on his rippled abs.
-0x3BD067C3=~z~在Juan Pedro用他那波涛汹涌的腹肌给我的鸡尾酒榨橙汁之前，我还有十个小时的时间。
+0x3BD067C3=~z~在Juan Pedro用他那波涛汹涌的腹肌给我的莫吉托榨柠檬汁前，我还有十个小时的时间。
 
 ;0x3E5C0CEA=E1S3p5_KC
 0x3E5C0CEA=E1S3p5_KC
 
 ;0x42EDF130=~z~You lost it, Stubbs? What're you talking about?
-0x42EDF130=~z~出啥事了，Stubbs？你说啥呢？
+0x42EDF130=~z~你疯了吗，Stubbs？你在说什么呢？
 
 ;0x440BF9BB=~z~I can't say I've enjoyed your listening to your socialist hypocritical nonsense, but thanks for the ride.
-0x440BF9BB=~z~说我欣赏你这一番社会主义者伪善的废话也不合适，但还是要谢谢你开车送我。
+0x440BF9BB=~z~我也谈不上是欣赏你那番社会主义者的伪善废话，但还是要谢谢你救我出来。
 
 ;0x44482749=~z~cuddling junior analysts who think they can fuck their way to a partnership. You?
-0x44482749=~z~跟那些以为操过逼就能做生意的初级分析师搂搂抱抱。你呢？
+0x44482749=~z~跟那些以为上床就能谈成生意的初级分析师搂搂抱抱。你呢？
 
 ;0x49F14FD7=~z~Mr. Stubbs. Your friend's chopper experienced mechanical failure.
 0x49F14FD7=~z~Stubbs先生，你朋友的直升机出故障了。
@@ -135,13 +135,13 @@
 0x4A0D2C08=SFX_PAUSE_190
 
 ;0x4C4903EA=~z~I've not felt like this since junior high school. Anyway,
-0x4C4903EA=~z~自从我初中毕业之后就没体验过这感觉了。不管怎样，
+0x4C4903EA=~z~自从我初中毕业之后就没体验过这感觉了。总之，
 
 ;0x4CDCE84E=SFX_PAUSE_350
 0x4CDCE84E=SFX_PAUSE_350
 
 ;0x4E0FBED7=~z~Took her last bonus. Her shares have hit the bottom. You dig?
-0x4E0FBED7=~z~拿走她最后的分红。她的股票已经触底了。懂了吗？
+0x4E0FBED7=~z~带上了她最后的分红。她的股票已经触底了。懂吗？
 
 ;0x4FC8A657=SFX_PAUSE_570
 0x4FC8A657=SFX_PAUSE_570
@@ -153,7 +153,7 @@
 0x52044092=200
 
 ;0x55A5A18A=~z~This is a restricted area. Get lost, okay?
-0x55A5A18A=~z~这里戒严了。滚一边去，明白？
+0x55A5A18A=~z~这里禁止入内。滚一边去，明白？
 
 ;0x5701DB26=SFX_PAUSE_170
 0x5701DB26=SFX_PAUSE_170
@@ -165,7 +165,7 @@
 0x5C2F1C81=~z~Juan！Juan！起飞吧，伙计。咱们往南飞，走吧！
 
 ;0x5D032A2C=~z~For you, maybe. Best case scenario,
-0x5D032A2C=~z~对于你来说，也许吧。最好的方案是，
+0x5D032A2C=~z~对于你来说，也许吧。最好的情况，
 
 ;0x5D650111=SFX_PAUSE_330
 0x5D650111=SFX_PAUSE_330
@@ -201,7 +201,7 @@
 0x6A011B69=E1S3p5_FA
 
 ;0x6A9477E0=~z~For me, okay. For your friend, not so well. She bought the big one.
-0x6A9477E0=~z~我的话，还好。你的朋友就不太好了。她被炸上天了。
+0x6A9477E0=~z~我的话，还好。你的朋友就不太好了。她已经去世了。
 
 ;0x6BEF203E=E1S3p5_GF
 0x6BEF203E=E1S3p5_GF
@@ -213,7 +213,7 @@
 0x6F695BF8=E1S3p5_AA
 
 ;0x71FC4F50=~z~Christ, sell, sell, sell!
-0x71FC4F50=~z~天哪，出事了，出事了！
+0x71FC4F50=~z~天哪，卖出，卖出，卖出！
 
 ;0x7284E5B3=SFX_PAUSE_350
 0x7284E5B3=SFX_PAUSE_350
@@ -231,7 +231,7 @@
 0x75AAB57A=SFX_PAUSE_400
 
 ;0x7607A273=~z~I'm okay.
-0x7607A273=~z~我很好。
+0x7607A273=~z~但我很好。
 
 ;0x7613B3CB=E1S3p5_SA
 0x7613B3CB=E1S3p5_SA
@@ -255,10 +255,10 @@
 0x82D7F5D5=~z~最后冲刺了。
 
 ;0x87C20965=~z~Hey, hey, does this look like our destination?
-0x87C20965=~z~嘿，嘿，这里看起来像是咱的目的地吗？
+0x87C20965=~z~喂，喂，这里看起来像是咱的目的地吗？
 
 ;0x87C7F99E=~z~You might consider that as a new career option.
-0x87C7F99E=~z~你可以考虑下把这作为一种新的生活方式。
+0x87C7F99E=~z~你可以考虑改行干这个。
 
 ;0x8B501316=290
 0x8B501316=290
@@ -267,13 +267,13 @@
 0x8E112643=E1S3p5_GD
 
 ;0x8FB1C21A=~z~I, ummm, dig, Johnny. Good to see you can't be rattled by something like this. Call me, okay?
-0x8FB1C21A=~z~我，嗯，懂了，Johnny。很高兴看见你没被像这样的事情吓到。再电话联系吧，好吗？
+0x8FB1C21A=~z~我，嗯，懂了，Johnny。很高兴看见你没被像这种差事吓到。再电话联系吧，好吗？
 
 ;0x906520F3=200
 0x906520F3=200
 
 ;0x920D600E=~z~Now that is awkward. Thanks for the heads up, sport.
-0x920D600E=~z~那现在这样很尴尬啊。多谢你提醒，老兄。
+0x920D600E=~z~那就不好办了。谢谢你提醒我，哥们。
 
 ;0x92D3F2F8=E1S3p5_IA
 0x92D3F2F8=E1S3p5_IA
@@ -294,16 +294,16 @@
 0x96E61F62=200
 
 ;0x972FBD75=~z~Take me over to the helipad in Alderney City. My man's waiting there with a chopper.
-0x972FBD75=~z~带我去Alderney市的停机坪。我的人开着直升机等我了。
+0x972FBD75=~z~带我去Alderney市的停机坪。我的人在直升机上等我。
 
 ;0x9928622C=~z~Get me a vodka tonic and some sedatives, okay. This hasn't been easy.
-0x9928622C=~z~给我来杯伏特加奎宁，再来点镇静剂，好吗。今天这遭太难了。
+0x9928622C=~z~给我来杯伏特加汤力，再来点镇静剂，好吗。今天太不容易了。
 
 ;0x9B49D553=~z~So, how do you sleep at night?
-0x9B49D553=~z~那你晚上怎么睡着的？
+0x9B49D553=~z~那，你晚上怎么睡的着？
 
 ;0x9C16A237=~z~Not if you do your job, I won't.
-0x9C16A237=~z~如果你不想干这种活的话，我也不想。
+0x9C16A237=~z~你完成工作的话，就不会。
 
 ;0x9D46E874=E1S3p5_DA
 0x9D46E874=E1S3p5_DA
@@ -330,7 +330,7 @@
 0xA5EC916C=E1S3p5_SB
 
 ;0xA6745EFF=~z~This is a time sensitive situation.
-0xA6745EFF=~z~这件事情对时机很敏感。
+0xA6745EFF=~z~现在的情况对时间很敏感。
 
 ;0xA711DA84=E1S3p5_GE
 0xA711DA84=E1S3p5_GE
@@ -348,13 +348,13 @@
 0xABFBA16A=SFX_PAUSE_190
 
 ;0xAC96C484=~z~Johnny, sorry, thought you were my broker mate. These markets, oh boy, I'm getting raped.
-0xAC96C484=~z~Johnny，不好意思，我还以为你是我的经纪人。那股市，哦伙计，我要亏大发了。
+0xAC96C484=~z~Johnny，不好意思，我把你当成股票经纪人了。那股市，哦伙计，我要亏大发了。
 
 ;0xACEBDF00=SFX_PAUSE_240
 0xACEBDF00=SFX_PAUSE_240
 
 ;0xAD3BA5A4=~z~Aim for the leather guy, people.
-0xAD3BA5A4=~z~伙计们，瞄准那穿皮衣的家伙。
+0xAD3BA5A4=~z~瞄准那个皮衣男，各位。
 
 ;0xADFF8A1D=E1S3p5_NA
 0xADFF8A1D=E1S3p5_NA
@@ -363,7 +363,7 @@
 0xAE8BA215=SFX_PAUSE_450
 
 ;0xAED65AB1=~z~I need you to liberate her from an alleyway off Vitullo in Berchem.
-0xAED65AB1=~z~我要你去Berchem的Vitullo路上的一个小巷子里把她救出来。
+0xAED65AB1=~z~我要你去Berchem的Vitullo路上的一个小巷里把她救出来。
 
 ;0xAFA297D4=SFX_PAUSE_340
 0xAFA297D4=SFX_PAUSE_340
@@ -387,10 +387,10 @@
 0xB9B50442=SFX_PAUSE_250
 
 ;0xBC8428E3=~z~Scratch that, make me a mojito, will you?
-0xBC8428E3=~z~洗一下杯子，给我来杯鸡尾酒，好吗？
+0xBC8428E3=~z~洗一下杯子，给我来杯莫吉托，好吗？
 
 ;0xBE2138A7=~z~So long, corporate America. You'll not be missed.
-0xBE2138A7=~z~再见了，美国大老板。你不会被惦记的。
+0xBE2138A7=~z~再见了，美国企业。我不会想你的。
 
 ;0xBF1E0BB4=E1S3p5_KB
 0xBF1E0BB4=E1S3p5_KB
@@ -405,7 +405,7 @@
 0xC37A6B98=201
 
 ;0xC3CB718C=~z~Firstly, no one calls me lady without having at least one zero docked from their annual salary.
-0xC3CB718C=~z~首先，没人敢不从自己的年薪里扣掉至少一个零就叫我小姐。
+0xC3CB718C=~z~首先，不先把自己的年薪扣掉至少一个零，谁都不许叫我小姐。
 
 ;0xC4DDABF3=020090200090200090020090200
 0xC4DDABF3=020090200090200090020090200
@@ -447,7 +447,7 @@
 0xD03E1C3F=~z~干得不错，干得不错。
 
 ;0xD0C96CBF=~z~Stop him! Stop him!
-0xD0C96CBF=~z~把他拦下！把他拦下！
+0xD0C96CBF=~z~拦住他！拦住他！
 
 ;0xD3F713EE=102
 0xD3F713EE=102
@@ -459,7 +459,7 @@
 0xD53516EA=E1S3p5_MA
 
 ;0xD697CBEA=~z~Too much information, sister. Mine was a moral question, not a practical one.
-0xD697CBEA=~z~信息量很大啊，姐妹。我问的是道德层面的问题，不是字面上的。
+0xD697CBEA=~z~信息量很大啊，姐姐。我问的是你的良心，不是怎么入睡。
 
 ;0xD7E1E946=E1S3p5_AG
 0xD7E1E946=E1S3p5_AG
@@ -468,22 +468,22 @@
 0xD8FBC1EF=E1S3p5_RB
 
 ;0xD99255D6=~z~Johnny, how's it going?
-0xD99255D6=~z~Johnny，办得咋样了？
+0xD99255D6=~z~Johnny，怎么样了？
 
 ;0xDA62938C=~z~Now that is awkward. Thanks for the heads up, sport.
-0xDA62938C=~z~那现在这样很尴尬啊。多谢你提醒，老兄。
+0xDA62938C=~z~那就不好办了。谢谢你提醒我，哥们。
 
 ;0xDA8CEB7C=~z~Oh, well done, well done. Conscience aside, I'll send her your best on my next holiday to the Caribbean. Thanks.
-0xDA8CEB7C=~z~哦，干得不错，干得不错。抛开良心不谈，我会在下次去加勒比海度假的时候带你向她问好。谢了。
+0xDA8CEB7C=~z~哦，干得好啊，干得好啊。抛开良心不谈，下次去加勒比海度假的时候我会替你问候她的。谢了。
 
 ;0xDA990DBE=E1S3p5_OA
 0xDA990DBE=E1S3p5_OA
 
 ;0xDAF84802=~z~Develop your problem solving skills, pronto.
-0xDAF84802=~z~尽快培养你解决问题的能力。
+0xDAF84802=~z~发挥你解决问题的能力，快啊。
 
 ;0xDB07E25F=~z~Here we go. You ever run from the cops before?
-0xDB07E25F=~z~咱们走吧。你以前也从条子手里跑掉过吗？
+0xDB07E25F=~z~咱们走吧。你有过跟条子捉迷藏的经历吗？
 
 ;0xDB40D630=SFX_PAUSE_550
 0xDB40D630=SFX_PAUSE_550
@@ -519,28 +519,28 @@
 0xE8A21AE1=E1S3p5_FB
 
 ;0xEAC6679E=~z~Extricate us from this situation.
-0xEAC6679E=~z~带我们摆脱困境。
+0xEAC6679E=~z~带我们逃出困境。
 
 ;0xEC195552=~z~She needs to enjoy her bonus half billion in peace.
-0xEC195552=~z~她需要找个安静地方好好享受她那五亿的分红。
+0xEC195552=~z~她需要安宁地享用她那五亿的分红。
 
 ;0xED80D6C4=~z~First goal achieved.
 0xED80D6C4=~z~完成第一个目标。
 
 ;0xEEE657CC=~z~Finish the job. Get back here.
-0xEEE657CC=~z~把活干完就回来。
+0xEEE657CC=~z~好好干活，快回来。
 
 ;0xEF6B4EFA=~z~That's right,
-0xEF6B4EFA=~z~这就对了，
+0xEF6B4EFA=~z~是这样。
 
 ;0xEFF765E3=~z~Now you're talking my language
-0xEFF765E3=~z~现在你说话的风格和我们一样了
+0xEFF765E3=~z~这就是我们的说话方式了。
 
 ;0xF008EF26=~z~My helicopter's waiting at the Alderney City Heliport.
-0xF008EF26=~z~我的直升机在Alderney市里的停机坪等我了。
+0xF008EF26=~z~我的直升机在Alderney市的停机坪等我。
 
 ;0xF16CEE85=~z~all Juan's assets are God given. And they're worth a lot more than those stocks right now.
-0xF16CEE85=~z~Juan所有的财富都是上帝赐予的。眼下他们可比那些股票值钱得多。
+0xF16CEE85=~z~Juan所有的财富都是上帝赐予的，眼下这些财富可比那些股票值钱得多。
 
 ;0xF310B151=~z~We just got permission to use deadly force.
 0xF310B151=~z~允许使用致命武力。
@@ -552,10 +552,10 @@
 0xF3D4340F=SFX_PAUSE_210
 
 ;0xF3E7DE14=~z~There'll be a big bonus for you if you get me out of here!
-0xF3E7DE14=~z~你帮我逃出去的话，大大地奖励你！
+0xF3E7DE14=~z~帮我逃出去的话，奖励大大地有！
 
 ;0xF5E05712=~z~a friend of mine who may well have contributed to the recent BAWSAQ meltdowns has been arrested by an FIB task force.
-0xF5E05712=~z~我一个可能和最近BAWSAQ的熔断有关系的朋友被FIB的专案组抓起来了。
+0xF5E05712=~z~我有个朋友可能和最近BAWSAQ的熔断有关，她被FIB的专案组抓起来了。
 
 ;0xF6727620=E1S3p5_RA
 0xF6727620=E1S3p5_RA
@@ -567,7 +567,7 @@
 0xF8339CB6=~z~我没把钱转到海外账户上，所以我可以降低点生活标准。
 
 ;0xFAE8C101=~z~Take this guy down.
-0xFAE8C101=~z~把这家伙干掉。
+0xFAE8C101=~z~干掉这家伙。
 
 ;0xFC07D6D6=~z~Her chopper lost it's pilot.
 0xFC07D6D6=~z~她直升机的驾驶员没了。
@@ -576,13 +576,13 @@
 0xFCA0F341=~z~你以为你从我身边走得掉？回来！
 
 ;0xFDA48A61=~z~Take us to the helipad on top of the Booth Tunnel.
-0xFDA48A61=~z~咱们去Booth Tunnel上面的停机坪。
+0xFDA48A61=~z~咱们去Booth隧道上面的停机坪。
 
 ;0xFF8A2D19=E1S3p5_JA
 0xFF8A2D19=E1S3p5_JA
 
 ;0xFF9D114B=~z~If we're caught, I have money to pay lawyers, you do not.
-0xFF9D114B=~z~要是咱都被抓了，我有钱请律师，你可没有。
+0xFF9D114B=~z~要是我们被抓了，我有钱请律师，你可没有。
 
 ;0xFFF3FBAA=~z~This seems promising.
 0xFFF3FBAA=~z~看起来很有希望啊。

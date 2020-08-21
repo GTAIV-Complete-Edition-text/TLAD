@@ -6,7 +6,7 @@
 0x04C14FD4=E1S3p4_FD
 
 ;0x05AA2525=~z~Make sure you don't scratch this on the way back, okay. Otherwise, he'll be wise to you, man.
-0x05AA2525=~z~保证回来的路上别把车刮花了，好吗？不然的话，他就会知道你都干了啥的，哥们。
+0x05AA2525=~z~回去的路上别把车刮花了，好吗？不然的话，他会看出来的，老兄。
 
 ;0x0A4D1586=SFX_PAUSE_250
 0x0A4D1586=SFX_PAUSE_250
@@ -24,7 +24,7 @@
 0x11A22BC2=E1S3p4_FA
 
 ;0x1524939F=~z~Charming, Klebitz. I'm thinking this means I won't be able to tune into radio Dawkins tonight?
-0x1524939F=~z~太好了吧，Klebitz，意思是我今晚不用偷听Dawkins了吗？
+0x1524939F=~z~太好了吧，Klebitz，意思是我今晚没法收听Dawkins电台了。
 
 ;0x176ABA72=SFX_PAUSE_180
 0x176ABA72=SFX_PAUSE_180
@@ -45,7 +45,7 @@
 0x20E01CDE=E1S3p4_BB
 
 ;0x2172FA7A=~z~Now, calm down, work out the tension, get a massage, beat off, kill someone, I don't care.
-0x2172FA7A=~z~现在，让我冷静下，别紧张，按会摩，再寻思干掉谁吧，我不在乎。
+0x2172FA7A=~z~现在，你冷静点，不要紧张，做个按摩，撸一管，杀个人，我不在乎。
 
 ;0x22432AE9=~z~Johnny?
 0x22432AE9=~z~Johnny？
@@ -54,7 +54,7 @@
 0x237001AE=SFX_PAUSE_170
 
 ;0x2628B2D0=~z~That's too bad, pal. Here's hoping Dawkins puts it down to the city's high crime rate.
-0x2628B2D0=~z~真倒霉，朋友。希望Dawkins把这怪罪到城市的高犯罪率上吧。
+0x2628B2D0=~z~真倒霉，朋友。希望Dawkins会把这怪罪到本市的高犯罪率上吧。
 
 ;0x28E5854C=SFX_PAUSE_310
 0x28E5854C=SFX_PAUSE_310
@@ -66,10 +66,10 @@
 0x2DB7CC97=100090010090100090100090100090100090010090100090100090100
 
 ;0x2F97D837=~z~You can drive cars as well, yes?
-0x2F97D837=~z~你会开车的吧？
+0x2F97D837=~z~你应该会开车吧？
 
 ;0x32D718B1=~z~I hope it gives you all the sexual kicks you're lookin' for.
-0x32D718B1=~z~我希望这就是你想要的快感。
+0x32D718B1=~z~希望你能用它听到你想要的性行为。
 
 ;0x3382F16E=E1S3p4_CD
 0x3382F16E=E1S3p4_CD
@@ -78,13 +78,13 @@
 0x3571E3EF=E1S3p4_AA
 
 ;0x3602FFF1=~z~Charming, Klebitz. I'm thinking this means I won't be able to tune into radio Dawkins tonight.
-0x3602FFF1=~z~太好了吧，Klebitz，意思是我今晚不用偷听Dawkins了。
+0x3602FFF1=~z~太好了吧，Klebitz，意思是我今晚没法收听Dawkins电台了。
 
 ;0x388DF2DF=E1S3p4_AD
 0x388DF2DF=E1S3p4_AD
 
 ;0x3DD9E216=~z~Hey, Stubbsy. This car has, umm, experienced some mechanical failures.
-0x3DD9E216=~z~嘿，Stubbsy。这辆车，呃，出了点毛病。
+0x3DD9E216=~z~嘿，Stubbsy。这辆车，呃，出了点机械故障。
 
 ;0x3DF1C6C5=SFX_PAUSE_430
 0x3DF1C6C5=SFX_PAUSE_430
@@ -105,13 +105,13 @@
 0x4A90DC6E=SFX_PAUSE_290
 
 ;0x4B234949=~z~Oh Johnny, I wouldn't want to hog all the fun for myself, I'll text you the number so you can have a listen, too.
-0x4B234949=~z~哦Johnny，我可不想独享这份快乐，我把电话号码发给你，这样子你也能一起来偷听了。
+0x4B234949=~z~哦，Johnny，我可不想独享这份快乐。之后我把号码发给你，这样你也能一起偷听了。
 
 ;0x4D2959DD=E1S3p4_ED
 0x4D2959DD=E1S3p4_ED
 
 ;0x4EB9B74B=~z~Hear the women, taste the blow, smell the fucking farts, man.
-0x4EB9B74B=~z~听女人尖叫，享受口交，舔他妈的屁眼，哥们。
+0x4EB9B74B=~z~听女人尖叫，享受口交，闻到臭屁，老兄。
 
 ;0x508B1391=E1S3p4_AB
 0x508B1391=E1S3p4_AB
@@ -120,7 +120,7 @@
 0x511367E6=E1S3p4_CA
 
 ;0x5159B69E=~z~Call me, soon.
-0x5159B69E=~z~打电话给我吧，再见。
+0x5159B69E=~z~有空再找我，再见。
 
 ;0x51721A11=010090010090100090100
 0x51721A11=010090010090100090100
@@ -138,7 +138,7 @@
 0x59603C2F=SFX_PAUSE_270
 
 ;0x5C2A6FEC=~z~Klebitz, Klebitz, you caught me in a fine mood. Just heard some good news about a bill I've been championing.
-0x5C2A6FEC=~z~Klebitz，Klebitz，我心情正好你就找我了。听我给你介绍些刚争取到的赚钱门路。
+0x5C2A6FEC=~z~Klebitz，Klebitz，我刚好心情不错。刚收到了个关于我支持的法案的好消息。
 
 ;0x61C2ACDA=~z~Call me, soon.
 0x61C2ACDA=~z~电话联系，再见。
@@ -147,7 +147,7 @@
 0x63617795=E1S3p4_AI
 
 ;0x67ED69B2=~z~Okay, man. We got you fitted out. You going to know everything that happens in this car.
-0x67ED69B2=~z~好了，哥们，咱给你装好了。这辆车被动了啥手脚你都懂的。
+0x67ED69B2=~z~好了，老兄。东西都装上了。车上发生什么你都能知道。
 
 ;0x6CB26D4F=~z~Johnny, my good man.
 0x6CB26D4F=~z~Johnny，我的好哥们。
@@ -171,13 +171,13 @@
 0x87D621FB=SFX_PAUSE_110
 
 ;0x88112408=~z~Yeah, sure, look, I think your guy's gonna noticed that his car's been cosmetically damaged to shit.
-0x88112408=~z~对，是的，听着，我寻思那人会注意到他的车被弄成了大花脸。
+0x88112408=~z~对，是的，听着，我想那家伙会发现车子成了大花脸的。
 
 ;0x8828D4BE=E1S3p4_EB
 0x8828D4BE=E1S3p4_EB
 
 ;0x895CF937=~z~No one's gonna hear shit.
-0x895CF937=~z~不会有人听到他放屁了。
+0x895CF937=~z~什么都没得听了。
 
 ;0x896F02F5=E1S3p4_DA
 0x896F02F5=E1S3p4_DA
@@ -195,13 +195,13 @@
 0x9B497783=SFX_PAUSE_130
 
 ;0x9FB17268=~z~Maybe stick them on the web as well once I've got what I need, capiche? Ciao, buddy.
-0x9FB17268=~z~一旦我拿到我要的消息，也许我会把它们发到网上，懂了吗？再见了，伙计。
+0x9FB17268=~z~一拿到我要的消息，我就该考虑发到网上了，懂了吗？再见了，伙计。
 
 ;0xA7D4AEF8=010090100090100090010
 0xA7D4AEF8=010090100090100090010
 
 ;0xAA5A3E0C=~z~Only bugs he's gonna touch will be eating his rotting corpse.
-0xAA5A3E0C=~z~尸体都臭得生虫子了，你还指望他装啥窃听器。
+0xAA5A3E0C=~z~他能听到的最后一件事就是自己的死讯了。
 
 ;0xAE2DA339=SFX_PAUSE_190
 0xAE2DA339=SFX_PAUSE_190
@@ -219,22 +219,22 @@
 0xBAA67A14=SFX_PAUSE_250
 
 ;0xBE3EE5D5=~z~Shit, Stubbs. That mechanic of yours had an accident.
-0xBE3EE5D5=~z~妈的，Stubbs。你的修车工出事了。
+0xBE3EE5D5=~z~妈的，Stubbs。你的机修工出事了。
 
 ;0xC1271C20=~z~Just what I've always wanted to experience: the scent of a city hall scumbag.
-0xC1271C20=~z~这正是我一直想体验的：市政厅里那帮废物的味道。
+0xC1271C20=~z~正是我一直想体验的——市政厅那帮废物的味道。
 
 ;0xC4BA8276=~z~Now be quick and get back before Mr. Dawkins realizes it's missing.
-0xC4BA8276=~z~在Dawkins发现车子失踪前赶紧回来。
+0xC4BA8276=~z~在Dawkins先生发现车子失踪前赶紧送回去。
 
 ;0xC57883FA=~z~Sure I can handle a cage, man. Later on.
-0xC57883FA=~z~我当然会开车，哥们。再见。
+0xC57883FA=~z~我当然会开车，老兄。再见。
 
 ;0xC6C2C51B=~z~It's like talking to a vampire whose just spotted a virgin. Sucking more money outta hard American workers, I bet.
-0xC6C2C51B=~z~真像跟个刚发现处女的吸血鬼讲话一样。我敢打赌，你从辛苦劳作的美国工人身上吸走了更多的血。
+0xC6C2C51B=~z~这话说的跟刚发现处女的吸血鬼似的。我看你又从辛苦劳动的美国工人身上吸了不少血吧。
 
 ;0xC85B4860=~z~You need to take it over to a garage on Muskteer to be fitted with surveillance equipment.
-0xC85B4860=~z~你得把车开到Musketeer街的一个车库去加装监听设备。
+0xC85B4860=~z~你要把车开到Musketeer街的一个车库去安装监听设备。
 
 ;0xC8E41E7A=100090100090010090100
 0xC8E41E7A=100090100090010090100
@@ -255,7 +255,7 @@
 0xD1D31A5C=E1S3p4_DB
 
 ;0xD1DF30E3=~z~The only thing I'm going to hear through that bug is you jerking off.
-0xD1DF30E3=~z~我从那窃听器里只能听到你在扯淡。
+0xD1DF30E3=~z~这样下去我只能听到你在车里撸管了。
 
 ;0xD4C8DE34=E1S3p4_BA
 0xD4C8DE34=E1S3p4_BA
@@ -276,16 +276,16 @@
 0xDC9CA4D3=E1S3p4_DC
 
 ;0xDF6CCBFE=~z~Sorry, man. You probably got enough listening to boy's jerk off at your fancy prep school. I shoulda known.
-0xDF6CCBFE=~z~不好意思哥们，我早该考虑到你上学的时候就已经听烦了同学们扯的淡。
+0xDF6CCBFE=~z~抱歉，老兄。是我没考虑到你上高级预科学校的时候就听过太多男孩子撸管了。
 
 ;0xE879DE10=~z~Drop the formalities, Klebitz. Dawkins has reported the car stolen.
-0xE879DE10=~z~赶紧收手，Klebitz。Dawkins报警说他的车被偷了。
+0xE879DE10=~z~别客套了，Klebitz。Dawkins报警说他的车被偷了。
 
 ;0xE8EC4AE1=~z~Alright, but just in case I'll instruct my mechanic to knock out any dings you might make along the way.
-0xE8EC4AE1=~z~好吧，但是以防万一，我会叫我的机修工把你在路上刮花的地方修好。
+0xE8EC4AE1=~z~好吧，但是以防万一，我会叫我的机修工把你在路上刮花的地方修好的。
 
 ;0xE9564BAD=~z~Now mind you, you might have to go off radar and take some shortcuts. Call me when it's done.
-0xE9564BAD=~z~现在提醒你，你要走小路，躲开监控。完事了给我打电话。
+0xE9564BAD=~z~提醒你一句，你要走小路，躲开监控。完事了给我打电话。
 
 ;0xEBCF9ADE=SFX_PAUSE_340
 0xEBCF9ADE=SFX_PAUSE_340
@@ -312,5 +312,5 @@
 0xFE0900DE=SFX_PAUSE_280
 
 ;0xFE3BAF7B=~z~Hey there, sport.
-0xFE3BAF7B=~z~这边，老兄。
+0xFE3BAF7B=~z~你好啊，哥们。
 
