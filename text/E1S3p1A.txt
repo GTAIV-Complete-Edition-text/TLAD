@@ -36,7 +36,7 @@
 0x1D07B434=~z~我找的人开着一辆红色的Cognoscenti。
 
 ;0x21353C8B=~z~I'm here. Problem is I can't tell your colleague from all the other bottom feeders hanging round.
-0x21353C8B=~z~我到这了。问题是我不能把你的同事和这周围所有其他卑鄙小人区分开。
+0x21353C8B=~z~我到了。问题是我不知道附近这么多小人里面哪个是你的同事。
 
 ;0x28FFAAA0=SFX_PAUSE_290
 0x28FFAAA0=SFX_PAUSE_290
@@ -45,7 +45,7 @@
 0x2BEC1224=E1S3p1_EA
 
 ;0x2C1B4C92=~z~The guy had a semi after squash. Oh well. Must have been on Mollis. Call me, Klebitz.
-0x2C1B4C92=~z~那家伙打完壁球后喝了半杯。噢好吧。一定是一直在Mollis。稍后打给我，Klebitz。
+0x2C1B4C92=~z~那家伙打完壁球后喝了半杯。噢好吧。一定是靠Mollis硬的。有空打给我，Klebitz。
 
 ;0x2FAEE096=SFX_PAUSE_290
 0x2FAEE096=SFX_PAUSE_290
@@ -57,7 +57,7 @@
 0x3A70CC38=E1S3p1_BC
 
 ;0x441223A0=~z~What I'm after is someone to snap a shot of a fellow Congressman picking up a lady of the night.
-0x441223A0=~z~我想找一个人帮我拍一个同行议员找妓女的照片。
+0x441223A0=~z~这次的需求是找人帮我拍一个议员同事找小姐的照片。
 
 ;0x4739B860=SFX_PAUSE_190
 0x4739B860=SFX_PAUSE_190
@@ -87,7 +87,7 @@
 0x67E259F7=010090100090100
 
 ;0x6A3BEFF3=~z~Ah, Klebitz, just the man. You ever play racquetball?
-0x6A3BEFF3=~z~啊，Klebitz，正是你。你打过壁球吗？
+0x6A3BEFF3=~z~啊，Klebitz，正是时候。你打过壁球吗？
 
 ;0x6A85852D=010090100090010
 0x6A85852D=010090100090010
@@ -96,7 +96,7 @@
 0x6C30BF59=E1S3p1_AB
 
 ;0x730658EC=~z~Unless you're after some necrophilic porn, Congressman, I'm not going to be able to help you out this time.
-0x730658EC=~z~除非你刚看了什么恋尸癖的黄片，议员先生，我这次帮不了你。
+0x730658EC=~z~除非你想看恋尸癖的黄片，议员先生，我这次帮不了你了。
 
 ;0x738C1F63=SFX_PAUSE_220
 0x738C1F63=SFX_PAUSE_220
@@ -105,10 +105,10 @@
 0x74E4DE24=~z~我没能拍到照片，议员先生。我很抱歉。
 
 ;0x75ABD45F=~z~Next to the murder, narcotics dealings and crimes against hygiene you commit,
-0x75ABD45F=~z~不同于你犯下的谋杀、毒品交易和危害卫生罪，
+0x75ABD45F=~z~比起你犯下的谋杀、毒品交易和危害卫生罪，
 
 ;0x79ACED7D=~z~Now make sure the photograph's tabloid material, will you, sport? Ah, there's a champ!
-0x79ACED7D=~z~现在确保照片会成为小报的选材，你会吗，伙计？啊，我知道你很可靠！
+0x79ACED7D=~z~务必确保照片会成为小报的素材，好吗，哥们？啊，知道你靠谱！
 
 ;0x888A1317=E1S3p1_FB
 0x888A1317=E1S3p1_FB
@@ -117,7 +117,7 @@
 0x8D8F3D3E=E1S3p1_DC
 
 ;0x99741446=~z~Stubbs, you get my message?
-0x99741446=~z~Stubbs，你收到我的信息了吗？
+0x99741446=~z~Stubbs，收到照片了吗？
 
 ;0x9A9A169A=~z~Bye now.
 0x9A9A169A=~z~再见咯。
@@ -132,10 +132,10 @@
 0xA610CAD4=SFX_PAUSE_570
 
 ;0xA6E336D1=~z~It's very sweet and really very embarrassing. Trust me.
-0xA6E336D1=~z~那非常甜蜜，又很尴尬。相信我。
+0xA6E336D1=~z~会很甜蜜但又不失尴尬的。相信我。
 
 ;0xAEADB855=~z~The cops have scared off all the women, Mr. Stubbs. Your guy ain't gonna get his dose of VD.
-0xAEADB855=~z~条子吓跑了所有的妓女，Stubbs先生。你说的那家伙肯定得不了性病了。
+0xAEADB855=~z~条子吓跑了那些妓女，Stubbs先生。你那同事肯定得不了性病了。
 
 ;0xAED53450=E1S3p1_AG
 0xAED53450=E1S3p1_AG
@@ -144,13 +144,13 @@
 0xB0997CAD=~z~天啊，不是。只是闲聊几句。
 
 ;0xB0C15461=~z~Stubbs, I can't get the shot.
-0xB0C15461=~z~Stubbs，我没能拍到照片。
+0xB0C15461=~z~Stubbs，我不能帮你拍照了。
 
 ;0xB3CA0102=E1S3p1_DA
 0xB3CA0102=E1S3p1_DA
 
 ;0xB41E03B6=~z~How about it?
-0xB41E03B6=~z~你怎么样？
+0xB41E03B6=~z~你干不干？
 
 ;0xB4DEF160=010090100090100
 0xB4DEF160=010090100090100
@@ -159,7 +159,7 @@
 0xB806C593=SFX_PAUSE_220
 
 ;0xBE7BDE5D=~z~It's sensational. I might employ you to come around and photograph my family Christmas card as well.
-0xBE7BDE5D=~z~这太妙了。我可能还会让你来我这拍我家的圣诞贺卡。
+0xBE7BDE5D=~z~这太妙了。我可能还会找你来我家帮忙拍圣诞贺卡上的照片。
 
 ;0xC0556D95=SFX_PAUSE_190
 0xC0556D95=SFX_PAUSE_190
@@ -168,7 +168,7 @@
 0xC20C039A=E1S3p1_AC
 
 ;0xC337EF76=~z~a little hypocrisy is hardly a sin. He's over on Traeger St in Port Tudor. Get a good one.
-0xC337EF76=~z~有点虚伪算不上罪过。他就在Port Tudor的Traeger街。干的漂亮点。
+0xC337EF76=~z~有点虚伪算不上罪过。他就在Tudor港的Traeger街。拍张好点的。
 
 ;0xC4FA09D4=SFX_PAUSE_210
 0xC4FA09D4=SFX_PAUSE_210
@@ -177,13 +177,13 @@
 0xC7154D34=SFX_PAUSE_330
 
 ;0xCB51FFAE=~z~There you go, sport. With your common or garden morality.
-0xCB51FFAE=~z~那好，小伙子。你能力很出色。
+0xCB51FFAE=~z~去吧，哥们。带着你的普通道德上吧。
 
 ;0xCF62768A=SFX_PAUSE_330
 0xCF62768A=SFX_PAUSE_330
 
 ;0xCF7E0802=~z~If it means bringing down scumbags like you, Stubbsie boy, I'm in.
-0xCF7E0802=~z~如果这意味着能打倒一个像你一样的人渣，Stubbsie伙计，那我就来。
+0xCF7E0802=~z~如果能让你同类的小人下台，Stubbsie仔，我干。
 
 ;0xD3CEAC13=E1S3p1_AE
 0xD3CEAC13=E1S3p1_AE
@@ -213,5 +213,5 @@
 0xFAF3C68F=E1S3p1_BB
 
 ;0xFCDE9532=~z~Is that what you're after? Run out of tennis partners when you killed off your uncle?
-0xFCDE9532=~z~那就是你的结果吗？你杀了你叔叔后就没有网球搭档了？
+0xFCDE9532=~z~是说你的需求吗？杀了你叔叔后就没人当你的网球搭档了？
 

@@ -1,6 +1,6 @@
 ﻿[E1S3p2A]
 ;0x00F9CA82=~z~You just done a line of yang, Stubbsy?
-0x00F9CA82=~z~You just done a line of yang, Stubbsy?
+0x00F9CA82=~z~你是刚吸收完阳气吗，Stubbsy？
 
 ;0x035E2A57=SFX_PAUSE_260
 0x035E2A57=SFX_PAUSE_260
@@ -9,13 +9,13 @@
 0x0889474A=E1S3p2_CA
 
 ;0x095018D5=~z~Exactly! That's part of my new campaign strategy. Giving people no choice.
-0x095018D5=~z~Exactly! That's part of my new campaign strategy. Giving people no choice.
+0x095018D5=~z~正是如此！我的新竞选策略就有这条。不给选民选择。
 
 ;0x096ED4BA=SFX_PAUSE_170
 0x096ED4BA=SFX_PAUSE_170
 
 ;0x09A1DBFE=~z~Wouldn't be in this situation if it wasn't for positive discrimination, dammit.
-0x09A1DBFE=~z~Wouldn't be in this situation if it wasn't for positive discrimination, dammit.
+0x09A1DBFE=~z~要不是为了少数族裔的特别优待就没这回事了，妈的。
 
 ;0x0C67A268=SFX_PAUSE_360
 0x0C67A268=SFX_PAUSE_360
@@ -27,7 +27,7 @@
 0x1432B44E=SFX_PAUSE_240
 
 ;0x173BD072=~z~Oh, you've got a mind for damage control, Johnny. If this rebel thing doesn't work out,
-0x173BD072=~z~Oh, you've got a mind for damage control, Johnny. If this rebel thing doesn't work out,
+0x173BD072=~z~噢，你还真有损害管制的头脑，Johnny。要是你叛逆不下去了，
 
 ;0x1A84C747=100
 0x1A84C747=100
@@ -45,22 +45,22 @@
 0x24A962D1=E1S3p2_AI
 
 ;0x25ACD18E=~z~Fair enough. I can't claim to like it, but I also can't claim to have a choice.
-0x25ACD18E=~z~Fair enough. I can't claim to like it, but I also can't claim to have a choice.
+0x25ACD18E=~z~也行。我谈不上喜欢这个主意，但我的确也没得选。
 
 ;0x2AC522FE=~z~Hey, damn, I know you.
-0x2AC522FE=~z~Hey, damn, I know you.
+0x2AC522FE=~z~嘿，妈的，我认识你。
 
 ;0x2BAFC147=~z~I'm going to the cops right now!
-0x2BAFC147=~z~I'm going to the cops right now!
+0x2BAFC147=~z~我这就去报警！
 
 ;0x2FA8A7D3=~z~In all seriousness though, some jumped up little twerp is about to go to the press with sensitive information.
-0x2FA8A7D3=~z~In all seriousness though, some jumped up little twerp is about to go to the press with sensitive information.
+0x2FA8A7D3=~z~回归正题，有个无耻混蛋要把一个敏感信息透露给媒体。
 
 ;0x348B0E1A=E1S3p2_IA
 0x348B0E1A=E1S3p2_IA
 
 ;0x34E28BBF=~z~He wanted to talk about you and me to Liberty City's finest.
-0x34E28BBF=~z~He wanted to talk about you and me to Liberty City's finest.
+0x34E28BBF=~z~他想把你我之间的事告诉警察。
 
 ;0x3550CE1C=010090010
 0x3550CE1C=010090010
@@ -75,7 +75,7 @@
 0x396A1DD3=E1S3p2_HB
 
 ;0x43EC0BCA=~z~Kiss your freedom goodbye, sir.
-0x43EC0BCA=~z~Kiss your freedom goodbye, sir.
+0x43EC0BCA=~z~跟你的自由告别吧，先生。
 
 ;0x4833A4F4=E1S3p2_AE
 0x4833A4F4=E1S3p2_AE
@@ -93,13 +93,13 @@
 0x4F10BC65=E1S3p2_IB
 
 ;0x507542E4=~z~Bad news for everyone is there might be a story about that friend of yours getting killed.
-0x507542E4=~z~Bad news for everyone is there might be a story about that friend of yours getting killed.
+0x507542E4=~z~坏消息是头版可能是你的朋友遇害的新闻。
 
 ;0x50902754=~z~I just impersonate the other candidate and it seems to work.
-0x50902754=~z~I just impersonate the other candidate and it seems to work.
+0x50902754=~z~我自己扮演我的竞选对手，似乎挺管用的。
 
 ;0x559AAF27=~z~They'll have fun with you on the inside.
-0x559AAF27=~z~They'll have fun with you on the inside.
+0x559AAF27=~z~你会成为囚犯们的新玩具的。
 
 ;0x57BA20C5=E1S3p2_DA
 0x57BA20C5=E1S3p2_DA
@@ -114,31 +114,31 @@
 0x5997C03F=E1S3p2_AD
 
 ;0x5A007C82=~z~Ah, if it isn't the road warrior, himself. Still sticking it to the man, man?
-0x5A007C82=~z~Ah, if it isn't the road warrior, himself. Still sticking it to the man, man?
+0x5A007C82=~z~啊，这不是公路战士吗。还是原来那样叛逆吗，兄弟？
 
 ;0x7024797C=E1S3p2_BA
 0x7024797C=E1S3p2_BA
 
 ;0x71236638=~z~You're going away for a long time.
-0x71236638=~z~You're going away for a long time.
+0x71236638=~z~在牢里慢慢反省吧。
 
 ;0x73AAB4C8=~z~Making threats like that can get you some serious jail time, sir. That was a big error.
-0x73AAB4C8=~z~Making threats like that can get you some serious jail time, sir. That was a big error.
+0x73AAB4C8=~z~这样威胁我可是能让你坐牢的，先生。你犯了个大错。
 
 ;0x76BD9260=E1S3p2_AF
 0x76BD9260=E1S3p2_AF
 
 ;0x7F2F4BD1=~z~You're the guy who just realized what a big fucking mistake it'd be to talk to some mud slingin' hack about Tom Stubbs.
-0x7F2F4BD1=~z~You're the guy who just realized what a big fucking mistake it'd be to talk to some mud slingin' hack about Tom Stubbs.
+0x7F2F4BD1=~z~你就要意识到自己差点犯下多大的错误了，居然想找三流记者写Tom Stubbs的黑料。
 
 ;0x86702EC5=~z~What's on the front page tomorrow, Klebitz?
-0x86702EC5=~z~What's on the front page tomorrow, Klebitz?
+0x86702EC5=~z~明天的头版新闻是什么，Klebitz？
 
 ;0x86B34999=E1S3p2_FD
 0x86B34999=E1S3p2_FD
 
 ;0x891DB434=~z~Good news for you is that it ain't your ugly mug.
-0x891DB434=~z~Good news for you is that it ain't your ugly mug.
+0x891DB434=~z~好消息是头版上没有你的丑脸。
 
 ;0x8A11B9E8=SFX_PAUSE_470
 0x8A11B9E8=SFX_PAUSE_470
@@ -147,7 +147,7 @@
 0x8EBDB580=SFX_PAUSE_270
 
 ;0x9339EEF4=~z~I knew you were stuck in the '70s, but that's ridiculous.
-0x9339EEF4=~z~I knew you were stuck in the '70s, but that's ridiculous.
+0x9339EEF4=~z~我知道你的思想还停留在70年代，但也太荒唐了。
 
 ;0x94956661=SFX_PAUSE_300
 0x94956661=SFX_PAUSE_300
@@ -186,7 +186,7 @@
 0xC1539D23=SFX_PAUSE_230
 
 ;0xC1AA898B=~z~So you're fighting positive discrimination with some good old fashioned negative discrimination?
-0xC1AA898B=~z~So you're fighting positive discrimination with some good old fashioned negative discrimination?
+0xC1AA898B=~z~所以你是想用老派的歧视待遇打败特别优待喽？
 
 ;0xC32EC8BF=SFX_PAUSE_330
 0xC32EC8BF=SFX_PAUSE_330
@@ -204,16 +204,16 @@
 0xD49F416C=SFX_PAUSE_220
 
 ;0xDB96BD5F=~z~Can you make him see his mistake?
-0xDB96BD5F=~z~Can you make him see his mistake?
+0xDB96BD5F=~z~你能让他认识到错误吗？
 
 ;0xE1CBE3D4=100
 0xE1CBE3D4=100
 
 ;0xE8D4BB8E=~z~Oh shit!
-0xE8D4BB8E=~z~Oh shit!
+0xE8D4BB8E=~z~噢，妈的！
 
 ;0xEAD79B58=~z~why don't you become a lobbyist? Call me later, alright?
-0xEAD79B58=~z~why don't you become a lobbyist? Call me later, alright?
+0xEAD79B58=~z~就改行去当说客吧？有空再找我，好吧？
 
 ;0xF43173DC=E1S3p2_BC
 0xF43173DC=E1S3p2_BC
@@ -222,17 +222,17 @@
 0xF5601694=SFX_PAUSE_460
 
 ;0xF6475286=~z~Mr. Stubbs. Your friend got away from me. Looks like you're gonna have your fifteen minutes.
-0xF6475286=~z~Mr. Stubbs. Your friend got away from me. Looks like you're gonna have your fifteen minutes.
+0xF6475286=~z~Stubbs先生，你的朋友从我这里跑了。看来你的光荣时刻就快要结束了。
 
 ;0xF692D70A=~z~You better have a good lawyer!
-0xF692D70A=~z~You better have a good lawyer!
+0xF692D70A=~z~你最好请得起律师！
 
 ;0xF7CE0563=SFX_PAUSE_490
 0xF7CE0563=SFX_PAUSE_490
 
 ;0xF7FABD9B=~z~Too bad for him and us, Klebitz. Give me a call later on.
-0xF7FABD9B=~z~Too bad for him and us, Klebitz. Give me a call later on.
+0xF7FABD9B=~z~于他于我们都很遗憾，Klebitz。有空再打给我吧。
 
 ;0xFC504646=~z~Stubbsy, I didn't get the chance to talk to that friend of yours. He was too busy getting killed.
-0xFC504646=~z~Stubbsy, I didn't get the chance to talk to that friend of yours. He was too busy getting killed.
+0xFC504646=~z~Stubbsy，我没能跟你的朋友说上话。当时他忙着去死。
 
