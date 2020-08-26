@@ -1,6 +1,6 @@
 ﻿[LBTR110]
 ;0x0477AEF5=We thinks she doth protest too much
-0x0477AEF5=我们认为最近她抗议的太过了
+0x0477AEF5=我们认为最近她抗议得太过了
 
 ;0x24D9851C="My husband is straight," says Interior's Designer's wife.
 0x24D9851C=「我的老公是直的」室内设计师的妻子说。

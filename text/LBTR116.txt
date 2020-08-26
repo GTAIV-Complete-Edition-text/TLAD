@@ -28,7 +28,6 @@
 
 ;0x80C19DBE=A routine arrest for drugs trafficking on the flight into Francis International from Bogota ended in chaos and carnage. A suspected drug smuggler was freed by an accomplice amid a hail of bullets in scenes not seen at the airport since the last major security breach. The smuggler was freed and rescued by an accomplice as a bloody fire storm ensued, and security and innocent by standers were killed. The suspect is described as being "probably foreign" with "a foreign, creepy vibe, like a rapist." Or "one of those white guys who becomes a terrorist."
 0x80C19DBE=一班飞机由波哥大入境Francis国际机场，对它进行的例行缉毒最终在混乱的屠杀中结束。一名疑似毒品走私者在枪林弹雨中被同伙救走，这是机场自上次重大安全漏洞以来首次出现的场景。走私者逃出生天，枪林弹雨后只剩下无辜民众和安保人员的尸体。对嫌疑人的描述有「似乎是外国人，说话调调很怪，像在唱rap」和「一个成为恐怖分子的白人」两种。
-弗朗西斯国际机场的航班上展开对毒贩的常规检查，然而这趟从波哥大起飞的航班最终在混乱与屠杀中结束。一名疑似毒品走私者当场在枪林弹雨中被共犯接走，并且因为机场的安保漏洞而消失不见。 这名毒贩被共犯接走，一场血腥的枪林弹雨接踵而至， 机场保安和无辜路人都惨遭屠杀。这名嫌犯被描述为 "大概是外国人"并且和”另一个像强奸犯一样的有恐怖气氛的外国人在一起。"或者 "他们中有一个白人成了恐怖分子。"
 
 ;0x92BE5AD0=Arrest for smuggling goes wrong.
 0x92BE5AD0=逮捕走私犯时出现状况。
