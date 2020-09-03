@@ -1,21 +1,21 @@
-﻿[E1FCT3A]
+﻿ [E1FCT3A]
 ;0x01540BB1=100
 0x01540BB1=100
 
 ;0x01ACDA80=~z~I've got a serious food baby, man. Feels like fucking twins in there.
-0x01ACDA80=~z~I've got a serious food baby, man. Feels like fucking twins in there.
+0x01ACDA80=~z~我有个吃得贼挑剔的宝宝，哥们。像他妈双胞胎似的。
 
 ;0x01B38AB4=~z~You're a fucking joke, man.
-0x01B38AB4=~z~You're a fucking joke, man.
+0x01B38AB4=~z~你是真他妈搞笑，哥们。
 
 ;0x0208AC07=E1FCT3_ACT_ARRIVE_PUB_GOODA
 0x0208AC07=E1FCT3_ACT_ARRIVE_PUB_GOODA
 
 ;0x020E914E=~z~Do they sell booze? I ain't stayin' unless they got booze, man.
-0x020E914E=~z~Do they sell booze? I ain't stayin' unless they got booze, man.
+0x020E914E=~z~他们卖酒吗？没酒的话我就不在这呆了，哥们。
 
 ;0x03C5CBEB=~z~OK, Johnny. Let's do it.
-0x03C5CBEB=~z~OK, Johnny. Let's do it.
+0x03C5CBEB=~z~好的，Johnny。嗨起来。
 
 ;0x04BB0D95=E1FCT3_ACT_ARM_WRESTLING_LEAVE_FORFEITEDA
 0x04BB0D95=E1FCT3_ACT_ARM_WRESTLING_LEAVE_FORFEITEDA
@@ -27,7 +27,7 @@
 0x06E91D61=100
 
 ;0x0791CACC=~z~Listen Johnny. I'm gonna give it a miss. Another time maybe.
-0x0791CACC=~z~Listen Johnny. I'm gonna give it a miss. Another time maybe.
+0x0791CACC=~z~听着Johnny。我得放鸽子了。别的时间吧。
 
 ;0x0819DF5C=100
 0x0819DF5C=100
@@ -45,13 +45,13 @@
 0x0B10EF54=E1FCT3_ACT_DARTS_LEAVE_ABANDONEDA
 
 ;0x0B936D79=~z~I eat here all the time. Seriously hot waitresses, bro.
-0x0B936D79=~z~I eat here all the time. Seriously hot waitresses, bro.
+0x0B936D79=~z~我都在这吃的。店小妹真的辣，兄弟。
 
 ;0x0BD6F02D=100
 0x0BD6F02D=100
 
 ;0x0DF3819E=~z~Man, I can't believe you chose this shithole. We're gonna have to get very drunk, very quickly.
-0x0DF3819E=~z~Man, I can't believe you chose this shithole. We're gonna have to get very drunk, very quickly.
+0x0DF3819E=~z~哥们，真不敢相信你会选这种鬼地方。咱会马上就喝到不省人事的。
 
 ;0x1072B26E=E1FCT3_ACT_AIRHOCK_LEAVE_LOSTA
 0x1072B26E=E1FCT3_ACT_AIRHOCK_LEAVE_LOSTA
@@ -63,64 +63,64 @@
 0x129EF010=E1FCT3_ACT_ARRIVE_NO_BIKEA
 
 ;0x12C49A84=~z~I'm gonna see if I can get us some takeout, man.
-0x12C49A84=~z~I'm gonna see if I can get us some takeout, man.
+0x12C49A84=~z~我看看咱能不能点外卖吧，哥们。
 
 ;0x138FFA5A=E1FCT3_ACT_DIFF_POOL_YESA
 0x138FFA5A=E1FCT3_ACT_DIFF_POOL_YESA
 
 ;0x13DA34E5=~z~There'd better be tits, man. You can't have a show without tits.
-0x13DA34E5=~z~There'd better be tits, man. You can't have a show without tits.
+0x13DA34E5=~z~最好有奶子看，哥们。看演出可不能少了奶子。
 
 ;0x13E92F1F=~z~I'm gonna feed you your balls, bitch.
-0x13E92F1F=~z~I'm gonna feed you your balls, bitch.
+0x13E92F1F=~z~我来支援你了，你个臭逼。
 
 ;0x14466ACA=E1FCT3_ACT_ARRIVE_SHOW_DRUNKA
 0x14466ACA=E1FCT3_ACT_ARRIVE_SHOW_DRUNKA
 
 ;0x165CB074=~z~Next time we'll do some proper drinking, man.
-0x165CB074=~z~Next time we'll do some proper drinking, man.
+0x165CB074=~z~下次咱得好好喝了，哥们。
 
 ;0x16A140CC=E1FCT3_ACT_DARTS_LEAVE_LOSTA
 0x16A140CC=E1FCT3_ACT_DARTS_LEAVE_LOSTA
 
 ;0x16AB9476=~z~Didn't think we were going to play darts, man. But, hey, when in fucking Rome.
-0x16AB9476=~z~Didn't think we were going to play darts, man. But, hey, when in fucking Rome.
+0x16AB9476=~z~本来不想玩飞镖的，哥们。但是，来都来了，那就玩吧。
 
 ;0x17269960=~z~That's my kinda bar, bro.
-0x17269960=~z~That's my kinda bar, bro.
+0x17269960=~z~那是我喜欢的酒吧，兄弟。
 
 ;0x17542712=E1FCT3_ACT_DIFF_SHOW_YESA
 0x17542712=E1FCT3_ACT_DIFF_SHOW_YESA
 
 ;0x17BF1791=~z~That what I call a feed, brother. That shit'll set you up for the day.
-0x17BF1791=~z~That what I call a feed, brother. That shit'll set you up for the day.
+0x17BF1791=~z~为啥我叫支援啊，兄弟。这破事一天天的来搞你。
 
 ;0x1821D37E=~z~You best be ready, man. I'm gonna take your ass to school then give it fucking homework.
-0x1821D37E=~z~You best be ready, man. I'm gonna take your ass to school then give it fucking homework.
+0x1821D37E=~z~你最好准备下，哥们。我会好好教育教育你的。
 
 ;0x19E183E8=100
 0x19E183E8=100
 
 ;0x1AA10A50=~z~Fuck man. You're late. Let's roll, brother.
-0x1AA10A50=~z~Fuck man. You're late. Let's roll, brother.
+0x1AA10A50=~z~我操，哥们。你迟到了。咱们走吧，兄弟。
 
 ;0x1B2A1F66=~z~You are one lucky motherfucker, Klebitz.
-0x1B2A1F66=~z~You are one lucky motherfucker, Klebitz.
+0x1B2A1F66=~z~你就是那走狗屎运的操蛋玩意，Klebitz。
 
 ;0x1D55A8CE=~z~I love this place, man. Straight-up beer and bitches. No bullshit, you know?
-0x1D55A8CE=~z~I love this place, man. Straight-up beer and bitches. No bullshit, you know?
+0x1D55A8CE=~z~这地方我爱了，哥们。酒够纯，妹够辣，不整花里胡哨的。懂我意思吧？
 
 ;0x1DD1AF82=~z~What's the problem, man? Have you grown tits all of a sudden?
-0x1DD1AF82=~z~What's the problem, man? Have you grown tits all of a sudden?
+0x1DD1AF82=~z~什么情况，哥们？你突然长奶子了？
 
 ;0x1DD4F752=~z~I can't face this right now, man. Maybe another time.
-0x1DD4F752=~z~I can't face this right now, man. Maybe another time.
+0x1DD4F752=~z~现在我对付不过来，哥们。别的时间吧。
 
 ;0x1DDE6DDB=E1FCT3_ACT_MEET_AT_ACTIVITY_NOT_LATEA
 0x1DDE6DDB=E1FCT3_ACT_MEET_AT_ACTIVITY_NOT_LATEA
 
 ;0x1E0D4367=~z~I'll fuck you all up.
-0x1E0D4367=~z~I'll fuck you all up.
+0x1E0D4367=~z~我把你们大伙都干翻。
 
 ;0x1F1B7BC4=100
 0x1F1B7BC4=100
@@ -129,16 +129,16 @@
 0x1F776E22=100
 
 ;0x1FDE2573=~z~I didn't think this was your kind of place, Johnny. But, fuck it, a drink's a drink.
-0x1FDE2573=~z~I didn't think this was your kind of place, Johnny. But, fuck it, a drink's a drink.
+0x1FDE2573=~z~我不觉得你会看上这种地方，Johnny。唉，真操了，喝一杯是一杯吧。
 
 ;0x2472FABB=100
 0x2472FABB=100
 
 ;0x24E5B4DE=~z~I fucking love that place, man.
-0x24E5B4DE=~z~I fucking love that place, man.
+0x24E5B4DE=~z~这地方我太他妈爱了，哥们。
 
 ;0x24EE30FB=~z~Darts? Where did that sudden inspiration come from? Fuck it, let's play.
-0x24EE30FB=~z~Darts? Where did that sudden inspiration come from? Fuck it, let's play.
+0x24EE30FB=~z~飞镖？你咋想的？真操了，玩就玩吧。
 
 ;0x25354077=E1FCT3_ACT_QUIT_AND_LEAVEA
 0x25354077=E1FCT3_ACT_QUIT_AND_LEAVEA
@@ -147,10 +147,10 @@
 0x25B9EE00=100
 
 ;0x26A3681C=~z~OK, Johnny. Let's see if we can awaken those fabled reactions of yours.
-0x26A3681C=~z~OK, Johnny. Let's see if we can awaken those fabled reactions of yours.
+0x26A3681C=~z~好了，Johnny。让咱看看能不能唤醒你体内传说中的那些本能。
 
 ;0x276CC2B8=~z~Come on, Johnny. Don't be such a pussy.
-0x276CC2B8=~z~Come on, Johnny. Don't be such a pussy.
+0x276CC2B8=~z~搞快点啊，Johnny。别那么娘们唧唧的。
 
 ;0x27D013AD=100
 0x27D013AD=100
@@ -159,7 +159,7 @@
 0x27E2E3D7=E1FCT3_ACT_GOHOME_DRUNKA
 
 ;0x284A0F16=~z~Thank you for your donation to the Terry beer fund, thank you.
-0x284A0F16=~z~Thank you for your donation to the Terry beer fund, thank you.
+0x284A0F16=~z~感谢你为Terry啤酒基金的捐款，非常感谢。
 
 ;0x2A82582A=E1FCT3_ACT_LEAVE_PUB_FIGHT_TAUNTSA
 0x2A82582A=E1FCT3_ACT_LEAVE_PUB_FIGHT_TAUNTSA
@@ -174,19 +174,19 @@
 0x2C54FBC3=E1FCT3_ACT_HI_LO_CARDS_LEAVE_DRUNKA
 
 ;0x2C8AC738=~z~Man, if I had a dollar for every time I've woken up on the floor of this joint.
-0x2C8AC738=~z~Man, if I had a dollar for every time I've woken up on the floor of this joint.
+0x2C8AC738=~z~哥们，要是我每次都能在这里的地板上醒来就好了。
 
 ;0x2CDFAECD=~z~Shit Johnny. I've been waiting around here like some fucking bitch, Johnny. Let's get going.
-0x2CDFAECD=~z~Shit Johnny. I've been waiting around here like some fucking bitch, Johnny. Let's get going.
+0x2CDFAECD=~z~你妈的，Johnny，我他妈像婊子站街似的在这等着你啊，Johnny。咱们走吧。
 
 ;0x2DB3D7DE=100
 0x2DB3D7DE=100
 
 ;0x2E765B3B=~z~What's the rush, bro? Can't we at least finish the game?
-0x2E765B3B=~z~What's the rush, bro? Can't we at least finish the game?
+0x2E765B3B=~z~你急啥呢，兄弟？就不能至少打完这把？
 
 ;0x2F745A2B=~z~You see how greasy my side of the table was?
-0x2F745A2B=~z~You see how greasy my side of the table was?
+0x2F745A2B=~z~你看到我这边桌子有多油吗？
 
 ;0x2F91BC67=100
 0x2F91BC67=100
@@ -204,40 +204,40 @@
 0x355596B2=100
 
 ;0x35CDBFE0=~z~It's official - I cannot play pool sober.
-0x35CDBFE0=~z~It's official - I cannot play pool sober.
+0x35CDBFE0=~z~我正式宣布，清醒的时候不能打台球。
 
 ;0x35F3AA69=~z~Thought I'd treat you to a little tactical masterclass.
-0x35F3AA69=~z~Thought I'd treat you to a little tactical masterclass.
+0x35F3AA69=~z~所以我教你点战术大师班的知识。
 
 ;0x360CEEC5=~z~I'm stronger than I look, I'm warning ya now.
-0x360CEEC5=~z~I'm stronger than I look, I'm warning ya now.
+0x360CEEC5=~z~现在警告你，我比你看起来的壮多了。
 
 ;0x3717DB81=100
 0x3717DB81=100
 
 ;0x376950F7=~z~Thanks bro. I'll see you soon.
-0x376950F7=~z~Thanks bro. I'll see you soon.
+0x376950F7=~z~谢了兄弟，再见了。
 
 ;0x38D07206=~z~Listen man, can we just get outta here now?
-0x38D07206=~z~Listen man, can we just get outta here now?
+0x38D07206=~z~听着哥们，咱能不能现在就走？
 
 ;0x38D8E03C=~z~A strip club? Now you're talking, man!
-0x38D8E03C=~z~A strip club? Now you're talking, man!
+0x38D8E03C=~z~脱衣舞俱乐部？这可是你说的，哥们！
 
 ;0x39F5BF81=~z~Shit Johnny. I didn't think you were a quitter.
-0x39F5BF81=~z~Shit Johnny. I didn't think you were a quitter.
+0x39F5BF81=~z~你妈的，Johnny。我不觉得你是个半途而废的人。
 
 ;0x3B214194=~z~Where are you going? It wasn't that bad.
-0x3B214194=~z~Where are you going? It wasn't that bad.
+0x3B214194=~z~你上哪去呢？没那么不堪吧。
 
 ;0x3BC5D015=~z~I am on fucking fire today.
-0x3BC5D015=~z~I am on fucking fire today.
+0x3BC5D015=~z~我今天贼他妈上火。
 
 ;0x3EB0242D=E1FCT3_ACT_ARRIVE_PUB_FAVOURITEA
 0x3EB0242D=E1FCT3_ACT_ARRIVE_PUB_FAVOURITEA
 
 ;0x3EDC4220=~z~Look at this poker face, man. I'm a closed book.
-0x3EDC4220=~z~Look at this poker face, man. I'm a closed book.
+0x3EDC4220=~z~看我这副死妈脸，哥们。我啥都不会。
 
 ;0x3F09AD67=100
 0x3F09AD67=100
@@ -246,7 +246,7 @@
 0x3F3204E1=100
 
 ;0x4001C944=~z~Let's do this shit, man. I'm a fucking air hockey legend, man.
-0x4001C944=~z~Let's do this shit, man. I'm a fucking air hockey legend, man.
+0x4001C944=~z~干他妈的，哥们。我他妈可是冰球小王子，哥们。
 
 ;0x40179CBF=E1FCT3_ACT_SHOW_LEAVE_WONA
 0x40179CBF=E1FCT3_ACT_SHOW_LEAVE_WONA
@@ -258,7 +258,7 @@
 0x40902E2C=E1FCT3_ACT_POOL_LEAVE_DRUNKA
 
 ;0x41CAE086=~z~Fuck man. What do they put in that beer? It smells like a dog's ass.
-0x41CAE086=~z~Fuck man. What do they put in that beer? It smells like a dog's ass.
+0x41CAE086=~z~我操，哥们。这帮人往酒里都放了啥？一股狗屁味。
 
 ;0x4228DF1B=100
 0x4228DF1B=100
@@ -273,10 +273,10 @@
 0x42C82568=E1FCT3_ACT_ARRIVE_HI_LO_CARDS_DRUNKA
 
 ;0x43200D1D=~z~OK, Johnny. Let's see how many you can actually get on the board.
-0x43200D1D=~z~OK, Johnny. Let's see how many you can actually get on the board.
+0x43200D1D=~z~好了，Johnny，咱们看看你能得多少分。
 
 ;0x435DC41B=~z~It was good hanging out, bro, but I've gotta roll.
-0x435DC41B=~z~It was good hanging out, bro, but I've gotta roll.
+0x435DC41B=~z~能出来玩很开心，兄弟，但我得走啦。
 
 ;0x44183CFC=E1FCT3_ACT_DIFF_FOOD_YESA
 0x44183CFC=E1FCT3_ACT_DIFF_FOOD_YESA
@@ -285,58 +285,58 @@
 0x44ACC499=100
 
 ;0x44B37E61=~z~I hope Bambi's here, man. I fucking love Bambi.
-0x44B37E61=~z~I hope Bambi's here, man. I fucking love Bambi.
+0x44B37E61=~z~真希望Bambi在这，哥们。我他妈太喜欢Bambi了。
 
 ;0x451EE9E2=100
 0x451EE9E2=100
 
 ;0x45B26D89=~z~That was fun, man. We have to do it again.
-0x45B26D89=~z~That was fun, man. We have to do it again.
+0x45B26D89=~z~真好玩啊，哥们。下次还要玩。
 
 ;0x45D8F583=E1FCT3_ACT_DARTS_LEAVE_WONA
 0x45D8F583=E1FCT3_ACT_DARTS_LEAVE_WONA
 
 ;0x47A25CDE=~z~How we gonna do this if you haven't got a bike, man?
-0x47A25CDE=~z~How we gonna do this if you haven't got a bike, man?
+0x47A25CDE=~z~你连摩托车都没有，咱们怎么去玩，哥们？
 
 ;0x4A379BBF=~z~Open wide and take it like a whore.
-0x4A379BBF=~z~Open wide and take it like a whore.
+0x4A379BBF=~z~放开点，像操逼一样。
 
 ;0x4A47B7C9=~z~Me playing pool is like poetry in motion, man. It's a fucking beautiful thing.
-0x4A47B7C9=~z~Me playing pool is like poetry in motion, man. It's a fucking beautiful thing.
+0x4A47B7C9=~z~我打台球就像朗诵一首流动的诗，哥们。真是太他妈美丽了。
 
 ;0x4C4F931F=~z~All square. That was a good match, bro.
-0x4C4F931F=~z~All square. That was a good match, bro.
+0x4C4F931F=~z~平局。打得不错，兄弟。
 
 ;0x4CADFFB9=~z~Those girls are high-quality, man. Tested and everything.
-0x4CADFFB9=~z~Those girls are high-quality, man. Tested and everything.
+0x4CADFFB9=~z~这些妹子技术可以的，哥们。都是久经考验的。
 
 ;0x4CDEE50F=~z~Shit Johnny. It was just starting to get good.
-0x4CDEE50F=~z~Shit Johnny. It was just starting to get good.
+0x4CDEE50F=~z~你妈的，Johnny。这才刚开始吃呢。
 
 ;0x4E077498=~z~I bet you've never seen reactions like that before.
-0x4E077498=~z~I bet you've never seen reactions like that before.
+0x4E077498=~z~我敢说你从来没见过这么快的反应。
 
 ;0x4E481CF5=~z~Hey man. Let's roll.
-0x4E481CF5=~z~Hey man. Let's roll.
+0x4E481CF5=~z~嘿哥们。咱们嗨起来吧。
 
 ;0x4E73484F=E1FCT3_ACT_POOL_LEAVE_ABANDONEDA
 0x4E73484F=E1FCT3_ACT_POOL_LEAVE_ABANDONEDA
 
 ;0x4E9AE19D=~z~I'm gonna clean up in here.
-0x4E9AE19D=~z~I'm gonna clean up in here.
+0x4E9AE19D=~z~我要把这一扫光。
 
 ;0x500B2176=~z~I can't believe you went for this place. Everything comes with a side order of dysentery.
-0x500B2176=~z~I can't believe you went for this place. Everything comes with a side order of dysentery.
+0x500B2176=~z~真不敢相信你会来这种地方。这里的东西吃了多多少少会拉肚子。
 
 ;0x50228565=E1FCT3_ACT_DROPOFF_DRUNKA
 0x50228565=E1FCT3_ACT_DROPOFF_DRUNKA
 
 ;0x51DC7152=~z~Where is your bike, man?
-0x51DC7152=~z~Where is your bike, man?
+0x51DC7152=~z~你摩托车呢，哥们？
 
 ;0x5285840C=~z~Can't do much against that kinda luck, man.
-0x5285840C=~z~Can't do much against that kinda luck, man.
+0x5285840C=~z~对这种运气毫无的抵抗力，哥们。
 
 ;0x532413E3=E1FCT3_ACT_DIFF_DARTS_YESA
 0x532413E3=E1FCT3_ACT_DIFF_DARTS_YESA
@@ -351,7 +351,7 @@
 0x5492FE56=100
 
 ;0x54F4B135=~z~I'll rearrange your face.
-0x54F4B135=~z~I'll rearrange your face.
+0x54F4B135=~z~我会让你刮目相看的。
 
 ;0x57272AE7=100
 0x57272AE7=100
@@ -369,49 +369,49 @@
 0x595CE5CA=100
 
 ;0x5BE819FC=~z~Good hanging out with you, brother.
-0x5BE819FC=~z~Good hanging out with you, brother.
+0x5BE819FC=~z~跟你出来玩真好，兄弟。
 
 ;0x5C6895DE=~z~Hold onto your g-strings, ladies. This party has just arrived.
-0x5C6895DE=~z~Hold onto your g-strings, ladies. This party has just arrived.
+0x5C6895DE=~z~抓好你们的内裤，美女们。派对刚刚开始。
 
 ;0x5CE85F06=~z~I love them all the same, man. Every single one of them.
-0x5CE85F06=~z~I love them all the same, man. Every single one of them.
+0x5CE85F06=~z~我还是喜欢他们，哥们。他们的每一个。
 
 ;0x5CFB3F61=E1FCT3_ACT_ARRIVE_SHOWA
 0x5CFB3F61=E1FCT3_ACT_ARRIVE_SHOWA
 
 ;0x5E4F91AC=~z~Why did it take you so long, bro? We gotta get moving.
-0x5E4F91AC=~z~Why did it take you so long, bro? We gotta get moving.
+0x5E4F91AC=~z~你咋这么久的，兄弟？咱得走了。
 
 ;0x5EA96288=~z~I wish I could just live in there, dude. Tits for breakfast every day.
-0x5EA96288=~z~I wish I could just live in there, dude. Tits for breakfast every day.
+0x5EA96288=~z~真希望我可以住在这，老哥。还能天天用奶子当早餐。
 
 ;0x6045FB78=100
 0x6045FB78=100
 
 ;0x606D39D0=~z~What do these fools want?
-0x606D39D0=~z~What do these fools want?
+0x606D39D0=~z~这帮傻逼想要啥？
 
 ;0x60BA1839=E1FCT3_ACT_DIFF_AIRHOCK_YESA
 0x60BA1839=E1FCT3_ACT_DIFF_AIRHOCK_YESA
 
 ;0x60C12083=~z~Shit Johnny. Cleaned me out, bro.
-0x60C12083=~z~Shit Johnny. Cleaned me out, bro.
+0x60C12083=~z~妈的，Johnny，干掉我吧，兄弟。
 
 ;0x62616909=~z~That was some midas touch shit back there.
-0x62616909=~z~That was some midas touch shit back there.
+0x62616909=~z~这里的东西都是能拿来赚钱的。
 
 ;0x6314C9C2=~z~I can't believe we were playing air hockey, man.
-0x6314C9C2=~z~I can't believe we were playing air hockey, man.
+0x6314C9C2=~z~真不敢相信咱会来玩桌上冰球，哥们。
 
 ;0x63B34BDD=E1FCT3_ACT_ARRIVE_DARTS_DRUNKA
 0x63B34BDD=E1FCT3_ACT_ARRIVE_DARTS_DRUNKA
 
 ;0x64F150BF=~z~Right, let's play some darts, brother.
-0x64F150BF=~z~Right, let's play some darts, brother.
+0x64F150BF=~z~对的，咱们去玩飞镖吧，兄弟。
 
 ;0x65514C02=~z~This place? Are you fucking kidding? You must have a cast-iron stomach, man.
-0x65514C02=~z~This place? Are you fucking kidding? You must have a cast-iron stomach, man.
+0x65514C02=~z~就这？你他妈搞笑呢？你那胃是铁做的吧，哥们。
 
 ;0x658393BA=100
 0x658393BA=100
@@ -420,19 +420,19 @@
 0x660D96E0=100
 
 ;0x6611206A=~z~You are luckier than a dude with two dicks, Johnny.
-0x6611206A=~z~You are luckier than a dude with two dicks, Johnny.
+0x6611206A=~z~你比有两根鸡巴的老哥还要走运啊，Johnny。
 
 ;0x671633B9=~z~Why do I get the feeling that the chef's special ingredient is his own DNA?
-0x671633B9=~z~Why do I get the feeling that the chef's special ingredient is his own DNA?
+0x671633B9=~z~为啥我咋觉得这厨师煮菜真的有天分呢？
 
 ;0x675A999A=~z~OK, Johnny. Let's see what you got.
-0x675A999A=~z~OK, Johnny. Let's see what you got.
+0x675A999A=~z~好了，Johnny。让咱看看你有啥本事。
 
 ;0x677C4047=E1FCT3_ACT_LEAVE_EATERY_GOODA
 0x677C4047=E1FCT3_ACT_LEAVE_EATERY_GOODA
 
 ;0x67835652=~z~You've no idea who you're fucking with.
-0x67835652=~z~You've no idea who you're fucking with.
+0x67835652=~z~你拿跟你作对的那人一点办法都没有。
 
 ;0x6A0495AD=E1FCT3_ACT_HI_LO_CARDS_LEAVE_LOSTA
 0x6A0495AD=E1FCT3_ACT_HI_LO_CARDS_LEAVE_LOSTA
@@ -450,55 +450,55 @@
 0x6C5391A9=100
 
 ;0x6CF5B51C=~z~Man, I couldn't hit anything today.
-0x6CF5B51C=~z~Man, I couldn't hit anything today.
+0x6CF5B51C=~z~哥们，今天我没兴趣打台球。
 
 ;0x6E2AB962=~z~OK, man. Let's dry hump some illegal immigrants.
-0x6E2AB962=~z~OK, man. Let's dry hump some illegal immigrants.
+0x6E2AB962=~z~好了，哥们。咱们把这帮非法移民给操翻吧。
 
 ;0x71499FF2=~z~I've gotta roll, brother. See you later.
-0x71499FF2=~z~I've gotta roll, brother. See you later.
+0x71499FF2=~z~我得走啦，兄弟。再见。
 
 ;0x71A29672=~z~Hot sauce, man. I want hot sauce on everything.
-0x71A29672=~z~Hot sauce, man. I want hot sauce on everything.
+0x71A29672=~z~辣酱，哥们。我啥都想加辣酱。
 
 ;0x72C4829D=E1FCT3_ACT_POOL_LEAVE_DRAWA
 0x72C4829D=E1FCT3_ACT_POOL_LEAVE_DRAWA
 
 ;0x7384BD5A=~z~I love this place, man. They put cheese on everything.
-0x7384BD5A=~z~I love this place, man. They put cheese on everything.
+0x7384BD5A=~z~这地方我爱了，哥们。他家的菜都放奶酪。
 
 ;0x752B627E=~z~That was close, man. We'll have to have a rematch.
-0x752B627E=~z~That was close, man. We'll have to have a rematch.
+0x752B627E=~z~比分太接近了，哥们。咱得重新比一次。
 
 ;0x76099591=~z~Right then, Klebitz. To the death.
-0x76099591=~z~Right then, Klebitz. To the death.
+0x76099591=~z~那就对了，Klebitz。你去死吧。
 
 ;0x763F5CAD=E1FCT3_ACT_LEAVE_EATERY_FAVOURITEA
 0x763F5CAD=E1FCT3_ACT_LEAVE_EATERY_FAVOURITEA
 
 ;0x76803A99=~z~Shit Johnny. You need to find yourself a bike, man.
-0x76803A99=~z~Shit Johnny. You need to find yourself a bike, man.
+0x76803A99=~z~你妈的，Johnny。找你自己的摩托车去，哥们。
 
 ;0x78015682=~z~We could have finished the game, man.
-0x78015682=~z~We could have finished the game, man.
+0x78015682=~z~咱本来能打完这把的，哥们。
 
 ;0x79193D17=~z~Right man. Let's take this old-school.
-0x79193D17=~z~Right man. Let's take this old-school.
+0x79193D17=~z~好了哥们，咱们把这老古董干掉。
 
 ;0x79C0F421=~z~Yeah, this place is ok. They're a bit fucking French with their portions, though.
-0x79C0F421=~z~Yeah, this place is ok. They're a bit fucking French with their portions, though.
+0x79C0F421=~z~可以，这地方不错。不过，他家的菜有点法国味。
 
 ;0x7AF88231=100
 0x7AF88231=100
 
 ;0x7C28CD5E=~z~Where have you been, Johnny? Come on, let's go.
-0x7C28CD5E=~z~Where have you been, Johnny? Come on, let's go.
+0x7C28CD5E=~z~你上哪去了，Johnny？快点，咱们走。
 
 ;0x7E10D0D2=~z~Where did this sudden change of plan come from? OK, man, pool it is.
-0x7E10D0D2=~z~Where did this sudden change of plan come from? OK, man, pool it is.
+0x7E10D0D2=~z~你这想法又从哪冒出来的？好吧，哥们，那就打台球去吧。
 
 ;0x7E2F39BD=~z~Hey Johnny, I'm gonna have to bail. We'll speak later.
-0x7E2F39BD=~z~Hey Johnny, I'm gonna have to bail. We'll speak later.
+0x7E2F39BD=~z~嘿Johnny，我得溜了。晚点聊。
 
 ;0x7F4847F3=E1FCT3_ACT_DARTS_LEAVE_DRUNKA
 0x7F4847F3=E1FCT3_ACT_DARTS_LEAVE_DRUNKA
@@ -507,34 +507,34 @@
 0x801A3F79=100
 
 ;0x8029A499=~z~There was definitely something wrong with my cue, man. I'm telling you.
-0x8029A499=~z~There was definitely something wrong with my cue, man. I'm telling you.
+0x8029A499=~z~我跟你说吧，这球杆肯定有毛病。
 
 ;0x81737AF2=~z~That was a good session, bro. We're pretty evenly matched.
-0x81737AF2=~z~That was a good session, bro. We're pretty evenly matched.
+0x81737AF2=~z~这把打得不错，兄弟。我们势均力敌啊。
 
 ;0x81B70906=100
 0x81B70906=100
 
 ;0x81B718E7=~z~Yeah darts, baby. First one to pop the barmaid's implants.
-0x81B718E7=~z~Yeah darts, baby. First one to pop the barmaid's implants.
+0x81B718E7=~z~对，飞镖，宝贝。就是那第一个把酒吧小妹的假奶子打掉的东西。
 
 ;0x832F0E7D=100
 0x832F0E7D=100
 
 ;0x837E6D7C=~z~We didn't even finish, Johnny. What's with the attitude?
-0x837E6D7C=~z~We didn't even finish, Johnny. What's with the attitude?
+0x837E6D7C=~z~咱还没打完呢，Johnny。你这啥态度啊？
 
 ;0x844F321C=~z~Ok Johnny. Let's see those skills you keep going on about.
-0x844F321C=~z~Ok Johnny. Let's see those skills you keep going on about.
+0x844F321C=~z~好了Johnny，让咱看看你平时吹的有多牛逼。
 
 ;0x845CD503=100
 0x845CD503=100
 
 ;0x84747116=~z~I'd eat at that place every day if I could. They've got the best-tasting cholesterol in town.
-0x84747116=~z~I'd eat at that place every day if I could. They've got the best-tasting cholesterol in town.
+0x84747116=~z~要是可以的话，我天天来这里吃。他家的胆固醇是全市最好吃的。
 
 ;0x847E9AE6=~z~I hate ties, man. It's worse than losing.
-0x847E9AE6=~z~I hate ties, man. It's worse than losing.
+0x847E9AE6=~z~打得不分高下真的讨厌，哥们。比输了还难受。
 
 ;0x864D7B98=E1FCT3_ACT_STRIP_LEAVE_WONA
 0x864D7B98=E1FCT3_ACT_STRIP_LEAVE_WONA
@@ -543,10 +543,10 @@
 0x866F9656=100
 
 ;0x86AB0DBE=~z~I think I'm done, man. Let's head off.
-0x86AB0DBE=~z~I think I'm done, man. Let's head off.
+0x86AB0DBE=~z~我完事了，哥们。咱回去吧。
 
 ;0x873FDA14=~z~Come on, Johnny. That's weak, man.
-0x873FDA14=~z~Come on, Johnny. That's weak, man.
+0x873FDA14=~z~加油啊，Johnny。太菜了吧，哥们。
 
 ;0x88A4A134=E1FCT3_ACT_ARRIVE_STRIP_DRUNKA
 0x88A4A134=E1FCT3_ACT_ARRIVE_STRIP_DRUNKA
@@ -555,61 +555,61 @@
 0x89722719=E1FCT3_ACT_ARRIVE_DARTSA
 
 ;0x899D9838=~z~That place is ok. Talk about cock-heavy, though.
-0x899D9838=~z~That place is ok. Talk about cock-heavy, though.
+0x899D9838=~z~这地方挺适合勃起的，我是这么认为。
 
 ;0x8B832D3B=E1FCT3_ACT_ARRIVE_EATERY_GOODA
 0x8B832D3B=E1FCT3_ACT_ARRIVE_EATERY_GOODA
 
 ;0x8BD82421=~z~Hey Johnny. Good to see you, man.
-0x8BD82421=~z~Hey Johnny. Good to see you, man.
+0x8BD82421=~z~嘿Johnny。见到你真开心，哥们。
 
 ;0x8F2FB660=~z~That was pretty funny, man.
-0x8F2FB660=~z~That was pretty funny, man.
+0x8F2FB660=~z~真好玩啊，哥们。
 
 ;0x90CCA4B9=E1FCT3_ACT_ARRIVE_ARM_WRESTLINGA
 0x90CCA4B9=E1FCT3_ACT_ARRIVE_ARM_WRESTLINGA
 
 ;0x911F846A=~z~Good times, brother. Hit me up again soon.
-0x911F846A=~z~Good times, brother. Hit me up again soon.
+0x911F846A=~z~今天过得很开心，兄弟。以后再叫我。
 
 ;0x92BBE515=100
 0x92BBE515=100
 
 ;0x932328F4=~z~You're gonna get annihilated, bro.
-0x932328F4=~z~You're gonna get annihilated, bro.
+0x932328F4=~z~把你干掉，兄弟。
 
 ;0x93A1BCB8=~z~I'm in the fucking zone, man. Steady as a rock.
-0x93A1BCB8=~z~I'm in the fucking zone, man. Steady as a rock.
+0x93A1BCB8=~z~我他妈进入状态了，哥们，稳的一批。
 
 ;0x946AC335=~z~This is shit, man. Let's get outta here.
-0x946AC335=~z~This is shit, man. Let's get outta here.
+0x946AC335=~z~这都是废物，哥们。咱们走吧。
 
 ;0x94B70A0D=100
 0x94B70A0D=100
 
 ;0x94D4AA11=~z~Hey Johnny. What d'ya say we call it a day?
-0x94D4AA11=~z~Hey Johnny. What d'ya say we call it a day?
+0x94D4AA11=~z~嘿Johnny，今天就这样了？你有啥想说的？
 
 ;0x950FADB7=~z~That is one fucked-up game.
-0x950FADB7=~z~That is one fucked-up game.
+0x950FADB7=~z~这把搞砸了。
 
 ;0x9823B544=~z~Yeah, I'm still not sure about that place. I was getting some funny smiles off the barman.
-0x9823B544=~z~Yeah, I'm still not sure about that place. I was getting some funny smiles off the barman.
+0x9823B544=~z~行吧，我不太确定这地方好不好。店里伙计一天天的摆着个死妈脸。
 
 ;0x99589E49=~z~I've got a good feeling about this.
-0x99589E49=~z~I've got a good feeling about this.
+0x99589E49=~z~我感觉上来了。
 
 ;0x99B25578=E1FCT3_ACT_MEET_AT_ACTIVITY_LATEA
 0x99B25578=E1FCT3_ACT_MEET_AT_ACTIVITY_LATEA
 
 ;0x9B03F366=~z~Listen, man, I'm outta here. See you later.
-0x9B03F366=~z~Listen, man, I'm outta here. See you later.
+0x9B03F366=~z~听着，哥们，我要走啦。再见。
 
 ;0x9BBF29CE=100
 0x9BBF29CE=100
 
 ;0x9D698422=~z~Fucking air hockey, man. I rule this shit.
-0x9D698422=~z~Fucking air hockey, man. I rule this shit.
+0x9D698422=~z~操他妈的桌上冰球，哥们。这是我的主场。
 
 ;0x9D70754B=100
 0x9D70754B=100
@@ -621,43 +621,43 @@
 0x9EBBA159=100
 
 ;0x9EE98224=~z~Alright, Klebitz. Let's get this show on the road.
-0x9EE98224=~z~Alright, Klebitz. Let's get this show on the road.
+0x9EE98224=~z~好了，Klebitz，咱们去看演出吧。
 
 ;0x9EFE69D3=100
 0x9EFE69D3=100
 
 ;0xA1F9DBF4=~z~We should have heckled more, bro.
-0xA1F9DBF4=~z~We should have heckled more, bro.
+0xA1F9DBF4=~z~咱应该多起哄一下的，兄弟。
 
 ;0xA2E69CCD=~z~Where have you been, man? I was starting to get paranoid.
-0xA2E69CCD=~z~Where have you been, man? I was starting to get paranoid.
+0xA2E69CCD=~z~你上哪去了，哥们？搞得我猜来猜去的。
 
 ;0xA3309F56=~z~I like your thinking, Johnny. I could do with some food.
-0xA3309F56=~z~I like your thinking, Johnny. I could do with some food.
+0xA3309F56=~z~你这想法我喜欢，Johnny。可以吃点东西。
 
 ;0xA3DCFAE6=~z~Stay away from the yellow mayonnaise, man, that's all I'm gonna say.
-0xA3DCFAE6=~z~Stay away from the yellow mayonnaise, man, that's all I'm gonna say.
+0xA3DCFAE6=~z~我想说的就是离蛋黄酱远点，哥们。
 
 ;0xA4A1A043=~z~Look who decided to finally show up.
-0xA4A1A043=~z~Look who decided to finally show up.
+0xA4A1A043=~z~看看谁最后到。
 
 ;0xA51A86CB=~z~That shit's given me a headache, man.
-0xA51A86CB=~z~That shit's given me a headache, man.
+0xA51A86CB=~z~这东西搞得我头疼，哥们。
 
 ;0xA540DFE9=100
 0xA540DFE9=100
 
 ;0xA61F669E=~z~I've got the fear, man. Can we get outta here?
-0xA61F669E=~z~I've got the fear, man. Can we get outta here?
+0xA61F669E=~z~给我都整怕了，哥们。咱能不能走了？
 
 ;0xA66F9A39=~z~I didn't think we were gonna be playing air hockey but...whatever floats your boat, man.
-0xA66F9A39=~z~I didn't think we were gonna be playing air hockey but...whatever floats your boat, man.
+0xA66F9A39=~z~我没寻思咱要玩桌上冰球啊……随便吧，你开心就好，哥们。
 
 ;0xA737C764=~z~Eyes up, brother. We've got company.
-0xA737C764=~z~Eyes up, brother. We've got company.
+0xA737C764=~z~打起精神来，兄弟。咱有伴了。
 
 ;0xA7A73AE6=~z~Let's hope I get some fucking luck for once.
-0xA7A73AE6=~z~Let's hope I get some fucking luck for once.
+0xA7A73AE6=~z~我他妈想走运一次。
 
 ;0xA7E7A416=E1FCT3_ACT_ARRIVE_BIKE_NOT_LATEA
 0xA7E7A416=E1FCT3_ACT_ARRIVE_BIKE_NOT_LATEA
@@ -666,7 +666,7 @@
 0xA8C35F05=100
 
 ;0xA937AAC8=~z~I didn't even know what I was laughing at, dude.
-0xA937AAC8=~z~I didn't even know what I was laughing at, dude.
+0xA937AAC8=~z~我都不懂我在笑啥，老哥。
 
 ;0xAAD66635=100
 0xAAD66635=100
@@ -675,28 +675,28 @@
 0xAC4B222C=E1FCT3_ACT_AIRHOCK_LEAVE_DRUNKA
 
 ;0xAC7E5A6E=~z~I think we all learned something today.
-0xAC7E5A6E=~z~I think we all learned something today.
+0xAC7E5A6E=~z~我觉得咱今天都学到了点东西。
 
 ;0xADB46D51=~z~We're gonna have to have a rematch, man.
-0xADB46D51=~z~We're gonna have to have a rematch, man.
+0xADB46D51=~z~咱得重新比一次，哥们。
 
 ;0xADBD32A2=~z~My mouth tastes like fucking battery acid, dude.
-0xADBD32A2=~z~My mouth tastes like fucking battery acid, dude.
+0xADBD32A2=~z~这味道我他妈尝起来像电池水似的。
 
 ;0xAE91FCAD=E1FCT3_ACT_ARRIVE_EATERY_AVERAGEA
 0xAE91FCAD=E1FCT3_ACT_ARRIVE_EATERY_AVERAGEA
 
 ;0xAFDAE054=~z~This'll do, I suppose. We'll be hungry again in another hour, though.
-0xAFDAE054=~z~This'll do, I suppose. We'll be hungry again in another hour, though.
+0xAFDAE054=~z~我觉得差不多饱了。不过再过一个小时咱又要饿了。
 
 ;0xB16AD45B=~z~I'm gonna feel that in the morning, man.
-0xB16AD45B=~z~I'm gonna feel that in the morning, man.
+0xB16AD45B=~z~早上的时候我就有感觉了，哥们。
 
 ;0xB1743BDD=~z~Good idea, man. This hangover needs feeding.
-0xB1743BDD=~z~Good idea, man. This hangover needs feeding.
+0xB1743BDD=~z~点子不错，哥们。宿醉完了得吃点东西。
 
 ;0xB1C76500=~z~You just witnessed the perfect fusion of power and technique.
-0xB1C76500=~z~You just witnessed the perfect fusion of power and technique.
+0xB1C76500=~z~你刚刚见证了力量与技术的完美融合。
 
 ;0xB1E6B315=100
 0xB1E6B315=100
@@ -711,28 +711,28 @@
 0xB35AB16B=100
 
 ;0xB4F262D9=~z~Check out these dickheads.
-0xB4F262D9=~z~Check out these dickheads.
+0xB4F262D9=~z~看看这帮狗屌。
 
 ;0xB526AE9E=~z~You ready, brother? Let's do this.
-0xB526AE9E=~z~You ready, brother? Let's do this.
+0xB526AE9E=~z~你准备好没，兄弟？开始了。
 
 ;0xB5B5FBDB=~z~Listen, I gotta go get outta here. Everything's spinning, dude.
-0xB5B5FBDB=~z~Listen, I gotta go get outta here. Everything's spinning, dude.
+0xB5B5FBDB=~z~听着，我得走了。还有事要忙呢，老哥。
 
 ;0xB8775682=~z~It was alright, man, but I reckon we should stay close to a restroom.
-0xB8775682=~z~It was alright, man, but I reckon we should stay close to a restroom.
+0xB8775682=~z~还好吧，哥们。不过我觉得咱应该离洗手间近一点。
 
 ;0xB8B249BD=~z~I've got a joke for you...suck my dick.
-0xB8B249BD=~z~I've got a joke for you...suck my dick.
+0xB8B249BD=~z~给你讲个笑话……吃我大屌吧。
 
 ;0xB90D6C99=~z~A tie, I can't fucking believe it. I'll have you next time.
-0xB90D6C99=~z~A tie, I can't fucking believe it. I'll have you next time.
+0xB90D6C99=~z~打平了，真他妈不敢相信。下次还跟你打。
 
 ;0xB95AAE5F=~z~Sorry man. I'm not in the mood for this right now.
-0xB95AAE5F=~z~Sorry man. I'm not in the mood for this right now.
+0xB95AAE5F=~z~不好意思哥们。现在没心情。
 
 ;0xBA1A48E8=~z~We're going here now? Fine by me. I'm always down for a game of pool.
-0xBA1A48E8=~z~We're going here now? Fine by me. I'm always down for a game of pool.
+0xBA1A48E8=~z~咱现在来这里吗？我觉得还行。我一直都喜欢打台球的。
 
 ;0xBD8CEB93=100
 0xBD8CEB93=100
@@ -741,25 +741,25 @@
 0xBE0450BC=E1FCT3_ACT_LEAVE_PUB_FIGHTA
 
 ;0xBE0FB8B5=~z~Higher. Lower. How the fuck am I supposed to know?
-0xBE0FB8B5=~z~Higher. Lower. How the fuck am I supposed to know?
+0xBE0FB8B5=~z~分数忽高忽低的。我他妈咋知道会怎样？
 
 ;0xBEB984C1=~z~Fucking pussies.
-0xBEB984C1=~z~Fucking pussies.
+0xBEB984C1=~z~操你妈个娘炮。
 
 ;0xBEECB238=E1FCT3_ACT_SHOW_LEAVE_ABANDONEDA
 0xBEECB238=E1FCT3_ACT_SHOW_LEAVE_ABANDONEDA
 
 ;0xBEFDEC84=~z~Shit Johnny, you should've told me. I'd have brought more money.
-0xBEFDEC84=~z~Shit Johnny, you should've told me. I'd have brought more money.
+0xBEFDEC84=~z~你妈的，Johnny。你应该早点跟我说，我就多带点钱来了。
 
 ;0xBF0B92A5=~z~I like your thinking, man. Getting loaded is a much better plan.
-0xBF0B92A5=~z~I like your thinking, man. Getting loaded is a much better plan.
+0xBF0B92A5=~z~你这想法我喜欢，哥们。喝酒好玩多了。
 
 ;0xC2E8C962=~z~That place isn't bad. Just what I needed.
-0xC2E8C962=~z~That place isn't bad. Just what I needed.
+0xC2E8C962=~z~这地方还不错，正是我想要的。
 
 ;0xC32077C6=~z~My arm hasn't got that much exercise since the CNT porn-athon.
-0xC32077C6=~z~My arm hasn't got that much exercise since the CNT porn-athon.
+0xC32077C6=~z~自从看了CNT的色情选秀节目后我这手臂就没咋锻炼了。
 
 ;0xC47BA46D=E1FCT3_ACT_DIFF_STRIP_YESA
 0xC47BA46D=E1FCT3_ACT_DIFF_STRIP_YESA
@@ -768,10 +768,10 @@
 0xC56940E5=100
 
 ;0xC5C39E8F=~z~You didn't tell me we were going to show, man. Shit, why not. I just hope nobody sees us.
-0xC5C39E8F=~z~You didn't tell me we were going to show, man. Shit, why not. I just hope nobody sees us.
+0xC5C39E8F=~z~你都没跟我说咱要去看演出，哥们。妈的，来都来了。希望没人看到咱们。
 
 ;0xC5F948CF=~z~Don't worry, man. You did ok for a beginner.
-0xC5F948CF=~z~Don't worry, man. You did ok for a beginner.
+0xC5F948CF=~z~别伤心，哥们。对于一个新手来说你打得挺好的了。
 
 ;0xC7555CD1=100
 0xC7555CD1=100
@@ -780,28 +780,28 @@
 0xC8833869=E1FCT3_ACT_ARRIVE_POOL_DRUNKA
 
 ;0xC8C0260A=~z~A drink? Now you're talking my language, brother.
-0xC8C0260A=~z~A drink? Now you're talking my language, brother.
+0xC8C0260A=~z~喝一杯？跟我想的一样啊，兄弟。
 
 ;0xC9D26EDC=~z~I don't even know why I play this stupid game.
-0xC9D26EDC=~z~I don't even know why I play this stupid game.
+0xC9D26EDC=~z~我不知道为啥我会玩这种傻逼游戏。
 
 ;0xCA12A5F5=~z~This better be good, man. We're cutting into some serious drinking time here.
-0xCA12A5F5=~z~This better be good, man. We're cutting into some serious drinking time here.
+0xCA12A5F5=~z~这地方最好给力点，咱要好好在这喝上一会。
 
 ;0xCA6B2126=~z~Glad you could make it, Johnny. We're gonna rule this shit.
-0xCA6B2126=~z~Glad you could make it, Johnny. We're gonna rule this shit.
+0xCA6B2126=~z~真高兴你成功了，Johnny。咱终于把这东西拿下了。
 
 ;0xCA7791E4=100
 0xCA7791E4=100
 
 ;0xCAAAD9A6=~z~Hey Johnny. Let's roll, man.
-0xCAAAD9A6=~z~Hey Johnny. Let's roll, man.
+0xCAAAD9A6=~z~嘿Johnny。咱们走吧，哥们。
 
 ;0xCAD94799=E1FCT3_ACT_STRIP_LEAVE_DRUNKA
 0xCAD94799=E1FCT3_ACT_STRIP_LEAVE_DRUNKA
 
 ;0xCB4426F7=~z~I'm done with this shit, man. You're a lousy fucking date.
-0xCB4426F7=~z~I'm done with this shit, man. You're a lousy fucking date.
+0xCB4426F7=~z~我受够了，哥们。跟你出来玩真的烦。
 
 ;0xCC427CEB=E1FCT3_ACT_EATERY_LEAVE_DRUNKA
 0xCC427CEB=E1FCT3_ACT_EATERY_LEAVE_DRUNKA
@@ -810,7 +810,7 @@
 0xCD1E2AB6=E1FCT3_ACT_DIFF_DRINK_YESA
 
 ;0xCF196BCE=~z~You seem to have forgotten a key piece of equipment... your fucking bike, bro!
-0xCF196BCE=~z~You seem to have forgotten a key piece of equipment... your fucking bike, bro!
+0xCF196BCE=~z~看来你好像忘记一件重要的装备……你他妈的摩托车呢，兄弟！
 
 ;0xCF5BEEAD=100
 0xCF5BEEAD=100
@@ -819,7 +819,7 @@
 0xD0666E1F=100
 
 ;0xD3923A2C=~z~A closet man of the arts? Who'd have thought it? Fuck it, I'll watch a show with you.
-0xD3923A2C=~z~A closet man of the arts? Who'd have thought it? Fuck it, I'll watch a show with you.
+0xD3923A2C=~z~换装艺术？谁会考虑看这个？真操了，那就陪你看吧。
 
 ;0xD3AA3248=E1FCT3_ACT_ARM_WRESTLING_LEAVE_DRUNKA
 0xD3AA3248=E1FCT3_ACT_ARM_WRESTLING_LEAVE_DRUNKA
@@ -831,16 +831,16 @@
 0xD45AD57C=100
 
 ;0xD4A34359=~z~You're crazy, man. We could have cleaned up in there.
-0xD4A34359=~z~You're crazy, man. We could have cleaned up in there.
+0xD4A34359=~z~你疯了吧，哥们。咱本来能打完这盘的。
 
 ;0xD59C5A98=~z~Fuck man. I've gotta drain the main vein.
-0xD59C5A98=~z~Fuck man. I've gotta drain the main vein.
+0xD59C5A98=~z~我操哥们。我得去拉泡尿。
 
 ;0xD5BDA6BF=~z~I would have had you if I hadn't got that cramp, Johnny.
-0xD5BDA6BF=~z~I would have had you if I hadn't got that cramp, Johnny.
+0xD5BDA6BF=~z~要不是我手抽了一下，你就输了，Johnny。
 
 ;0xD5CAEBD1=~z~That's what happens when you bring your B-game, Klebitz.
-0xD5CAEBD1=~z~That's what happens when you bring your B-game, Klebitz.
+0xD5CAEBD1=~z~你玩桌游就是这样子，Klebitz。
 
 ;0xD5D5611D=100
 0xD5D5611D=100
@@ -852,22 +852,22 @@
 0xD6B83BFF=100
 
 ;0xD6F5944A=~z~Fuck the wheel. Silicone is man's greatest invention.
-0xD6F5944A=~z~Fuck the wheel. Silicone is man's greatest invention.
+0xD6F5944A=~z~滚他妈的汽车。硅胶才是人类最伟大的发明。
 
 ;0xD7A14112=~z~This better not be any of that queer arty bullshit.
-0xD7A14112=~z~This better not be any of that queer arty bullshit.
+0xD7A14112=~z~最好别阴阳怪气文绉绉的在这扯淡。
 
 ;0xD8516A0C=100
 0xD8516A0C=100
 
 ;0xD8A6F4DE=~z~Not bad, man. Filled a hole.
-0xD8A6F4DE=~z~Not bad, man. Filled a hole.
+0xD8A6F4DE=~z~不错啊，哥们。又进一洞。
 
 ;0xD8B97ECC=~z~Air hockey?! Not quite what I was expecting, brother, I gotta say. But why not...
-0xD8B97ECC=~z~Air hockey?! Not quite what I was expecting, brother, I gotta say. But why not...
+0xD8B97ECC=~z~桌上冰球？！我得说下，我不是很想玩，兄弟。但来都来了……
 
 ;0xD8C1B8D1=~z~You're going down.
-0xD8C1B8D1=~z~You're going down.
+0xD8C1B8D1=~z~你输啦。
 
 ;0xD9E9AFCE=E1FCT3_ACT_ARRIVE_PUB_AVERAGEA
 0xD9E9AFCE=E1FCT3_ACT_ARRIVE_PUB_AVERAGEA
@@ -882,22 +882,22 @@
 0xDC5D3EFB=100
 
 ;0xDC625046=~z~This place isn't bad, bro. Just don't eat the peanuts on the bar, if you value your lower intestine.
-0xDC625046=~z~This place isn't bad, bro. Just don't eat the peanuts on the bar, if you value your lower intestine.
+0xDC625046=~z~这地方还不错，兄弟。你要是把你的小肠当一回事的话，就别去吃吧台上的花生。
 
 ;0xDD2DB971=100
 0xDD2DB971=100
 
 ;0xDE553B1C=~z~Already? You've gotta be fucking with me, man? We're just getting going.
-0xDE553B1C=~z~Already? You've gotta be fucking with me, man? We're just getting going.
+0xDE553B1C=~z~都准备好了？你要被我臭虐一顿了，哥们？咱开始吧。
 
 ;0xE0BC6E9A=100
 0xE0BC6E9A=100
 
 ;0xE143C0D7=~z~Come on, man. We could at least have finished the game.
-0xE143C0D7=~z~Come on, man. We could at least have finished the game.
+0xE143C0D7=~z~别这样啊，哥们。咱本来至少能打完这把的。
 
 ;0xE343E09A=~z~What the fuck, Johnny? I barely had time to slap an ass.
-0xE343E09A=~z~What the fuck, Johnny? I barely had time to slap an ass.
+0xE343E09A=~z~搞啥啊，Johnny？打婊子屁股的时间都要没了。
 
 ;0xE51C715F=100
 0xE51C715F=100
@@ -912,13 +912,13 @@
 0xE71606D6=100
 
 ;0xE75BFE17=~z~I couldn't even see the numbers, man.
-0xE75BFE17=~z~I couldn't even see the numbers, man.
+0xE75BFE17=~z~我都要看不清数字了，哥们。
 
 ;0xE7E25E46=100
 0xE7E25E46=100
 
 ;0xE8294A77=~z~Where's the fucking fire, bro? We could have at least finished the game.
-0xE8294A77=~z~Where's the fucking fire, bro? We could have at least finished the game.
+0xE8294A77=~z~你他妈哪来的火气啊，兄弟？咱至少都要打完这把的吧。
 
 ;0xE88DABC7=E1FCT3_ACT_LEAVE_PUB_FAVOURITEA
 0xE88DABC7=E1FCT3_ACT_LEAVE_PUB_FAVOURITEA
@@ -927,7 +927,7 @@
 0xEA153945=E1FCT3_ACT_ARRIVE_ARM_WRESTLING_DRUNKA
 
 ;0xEA5A14E7=~z~Did you see that last closeout, man? That was some textbook shit right there.
-0xEA5A14E7=~z~Did you see that last closeout, man? That was some textbook shit right there.
+0xEA5A14E7=~z~你看到我最后那一发绝杀了吗？这都是书上教的玩意。
 
 ;0xEAA99A5A=100
 0xEAA99A5A=100
@@ -936,7 +936,7 @@
 0xEAD8D7A5=E1FCT3_ACT_ARM_WRESTLING_LEAVE_LOSTA
 
 ;0xED025DC0=~z~I'm going straight for a kebab, man.
-0xED025DC0=~z~I'm going straight for a kebab, man.
+0xED025DC0=~z~我直接点一份烤肉，哥们。
 
 ;0xED20EC9E=E1FCT3_ACT_ARRIVE_STRIPA
 0xED20EC9E=E1FCT3_ACT_ARRIVE_STRIPA
@@ -945,10 +945,10 @@
 0xEEF4041A=100
 
 ;0xEF959AD4=~z~Listen man. I'm gonna bail. I can't handle this right now.
-0xEF959AD4=~z~Listen man. I'm gonna bail. I can't handle this right now.
+0xEF959AD4=~z~听着哥们，我得溜了。要顶不住了。
 
 ;0xF07CDF6B=~z~You can't back out on me now. I was about to hit a roll.
-0xF07CDF6B=~z~You can't back out on me now. I was about to hit a roll.
+0xF07CDF6B=~z~你可别半中途逃跑啊。我要进球了。
 
 ;0xF148138A=E1FCT3_ACT_STRIP_LEAVE_ABANDONEDA
 0xF148138A=E1FCT3_ACT_STRIP_LEAVE_ABANDONEDA
@@ -963,16 +963,16 @@
 0xF2ECE013=E1FCT3_ACT_AIRHOCK_LEAVE_ABANDONEDA
 
 ;0xF3247DCA=~z~Yeah, this'll do. They serve a half-decent whisky in here.
-0xF3247DCA=~z~Yeah, this'll do. They serve a half-decent whisky in here.
+0xF3247DCA=~z~好了，差不多了。他们家的威士忌还可以。
 
 ;0xF62938E8=100
 0xF62938E8=100
 
 ;0xF6326689=~z~What's your problem, man? We haven't even finished.
-0xF6326689=~z~What's your problem, man? We haven't even finished.
+0xF6326689=~z~你有病呢，哥们？咱还没打完呢。
 
 ;0xF64C5657=~z~I thought I had that one in the bag, man, I really did.
-0xF64C5657=~z~I thought I had that one in the bag, man, I really did.
+0xF64C5657=~z~我寻思我这发要进球了，哥们，真的。
 
 ;0xF66312FB=100
 0xF66312FB=100
@@ -981,13 +981,13 @@
 0xF7A26254=E1FCT3_ACT_ARM_WRESTLING_LEAVE_WONA
 
 ;0xF82E2D38=~z~I told you I was good, Johnny.
-0xF82E2D38=~z~I told you I was good, Johnny.
+0xF82E2D38=~z~我说过我很好，Johnny。
 
 ;0xF8C104F4=E1FCT3_ACT_POOL_LEAVE_LOSTA
 0xF8C104F4=E1FCT3_ACT_POOL_LEAVE_LOSTA
 
 ;0xF8E28C9B=~z~OK, Johnny. Let's see what you've got.
-0xF8E28C9B=~z~OK, Johnny. Let's see what you've got.
+0xF8E28C9B=~z~好了，Johnny。让咱看看你都有啥本事。
 
 ;0xF9CA662A=100
 0xF9CA662A=100
@@ -996,13 +996,13 @@
 0xFBAD8E76=E1FCT3_ACT_ARRIVE_EATERY_FAVOURITEA
 
 ;0xFBC3D479=~z~That place sucks, man. Everything tastes like fucking water.
-0xFBC3D479=~z~That place sucks, man. Everything tastes like fucking water.
+0xFBC3D479=~z~这地方真操蛋，哥们。啥玩意尝起来都他妈像水一样。
 
 ;0xFBF8BFDF=E1FCT3_ACT_GOHOMEA
 0xFBF8BFDF=E1FCT3_ACT_GOHOMEA
 
 ;0xFD487384=~z~This shit's about to go down, bro.
-0xFD487384=~z~This shit's about to go down, bro.
+0xFD487384=~z~你这废物要输啦，兄弟。
 
 ;0xFD6C275F=100
 0xFD6C275F=100
