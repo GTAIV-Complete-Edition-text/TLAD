@@ -1,31 +1,31 @@
 ﻿[LBTR110]
 ;0x0477AEF5=We thinks she doth protest too much
-0x0477AEF5=We thinks she doth protest too much
+0x0477AEF5=我们认为最近她抗议得太过了
 
 ;0x24D9851C="My husband is straight," says Interior's Designer's wife.
-0x24D9851C="My husband is straight," says Interior's Designer's wife.
+0x24D9851C=「我的老公是直的」室内设计师的妻子说。
 
 ;0x343E10A5=Staff Writer
-0x343E10A5=Staff Writer
+0x343E10A5=特约记者
 
 ;0x50C9003C=Could prison be a dangerous place?
-0x50C9003C=Could prison be a dangerous place?
+0x50C9003C=监狱也是危险区域吗？
 
 ;0x8BC7C010=What Went Wrong at Alderney State?
-0x8BC7C010=What Went Wrong at Alderney State?
+0x8BC7C010=Alderney州立监狱有什么问题？
 
 ;0xB7DD2515=Will they all kill each other, and save us the bother?
-0xB7DD2515=Will they all kill each other, and save us the bother?
+0xB7DD2515=他们是否会自相残杀，省得我们动手？
 
 ;0xCE9DD755=Tony J. Smith
 0xCE9DD755=Tony J. Smith
 
 ;0xE6EDD044=After the recent murderous incident at Alderney State Correctional Facility, a security review is being called for. Sally Butters of Moms for a Police State says she's "sick and tired of criminals stealing from us. We want to put them to work in order to make the US economy the powerhouse it once was. The private medical sector has worked so well for this country, why can't we privatize everything?"
-0xE6EDD044=After the recent murderous incident at Alderney State Correctional Facility, a security review is being called for. Sally Butters of Moms for a Police State says she's "sick and tired of criminals stealing from us. We want to put them to work in order to make the US economy the powerhouse it once was. The private medical sector has worked so well for this country, why can't we privatize everything?"
+0xE6EDD044=发生杀人案件以后，Alderney州立监狱遭到安全检查。「警察国家之母」的成员Sally Butters表示：「犯罪者一直在窃取我们的劳动果实，我已经受够了。我们想让他们参与劳动，好让美国的经济再次强大。私营医疗机构在国内很成功，我们直接把一切都私有化不就好了？」
 
 ;0xF30835BC=Ever since the flamboyant interior designer, Dalton Randolph, hit the public eye as star of the home makeover show Posh Touch For Poor Schmucks, online message boards have buzzed with claims that he is as gay as a picnic basket and his marriage is a sham. Now, finally, Dalton and his wife Betania have decided to speak out against the constant barrage of accusations. In an exclusive interview, Betania told the Liberty Tree, "He hasn't decorated my interior since the wedding night, I'll admit, but I know what my husband is and isn't. I'd never dream of going shopping for clothes without him. Nobody understands layering like Dalton. Can't a man wear fuchsia and depilate these days without being called gay?" Randolph, who says that he is waging a one-man war against terracotta, is best-known for jumping up and down and clapping while squealing, "What is this hot mess?" when he walks into somebody's house for the first time. The jury might still be out on this one.
-0xF30835BC=Ever since the flamboyant interior designer, Dalton Randolph, hit the public eye as star of the home makeover show Posh Touch For Poor Schmucks, online message boards have buzzed with claims that he is as gay as a picnic basket and his marriage is a sham. Now, finally, Dalton and his wife Betania have decided to speak out against the constant barrage of accusations. In an exclusive interview, Betania told the Liberty Tree, "He hasn't decorated my interior since the wedding night, I'll admit, but I know what my husband is and isn't. I'd never dream of going shopping for clothes without him. Nobody understands layering like Dalton. Can't a man wear fuchsia and depilate these days without being called gay?" Randolph, who says that he is waging a one-man war against terracotta, is best-known for jumping up and down and clapping while squealing, "What is this hot mess?" when he walks into somebody's house for the first time. The jury might still be out on this one.
+0xF30835BC=自从表现抢眼的室内设计师Dalton Randolph在家装节目《雅气拂白丁》中走红后，网络社区中到处是他是个骗婚基佬的传言。现在，Dalton和他的妻子Betania终于对这些传言进行了公开反驳。在专访中，Betania告诉Liberty Tree：「我承认，在新婚当夜以后他就没替我装修过了，但我知道我的丈夫是什么人。我都不敢想没有他陪我，我还怎么逛街买衣服。没有人比Dalton更懂层次感。紫红色的衣服和脱毛就非得跟基佬扯上关系吗？」这位设计师正在单枪匹马对抗土红色，他最有名的一点就是在初次进入某人的家时手舞足蹈上蹿下跳，大声尖叫「这是什么玩意？」目前我们暂时无法确定他是否是一名同性恋。
 
 ;0xF91B749F=Certain liberal groups have blamed the incident on strict prison rules. They call for regular meditation sessions and Reiki training for all guards. Earth-Song Bowden, a campaigner for prisoner rights, says "most violent tendencies can be traced to a misalignment of Chakras. We need to treat the cause of the problem. Not the symptom." Whatever the reason for what happened, something has to change at Alderney State. Parents have enough to worry about with terrorists on the loose and our economy failing, our prisons must remain secure.
-0xF91B749F=Certain liberal groups have blamed the incident on strict prison rules. They call for regular meditation sessions and Reiki training for all guards. Earth-Song Bowden, a campaigner for prisoner rights, says "most violent tendencies can be traced to a misalignment of Chakras. We need to treat the cause of the problem. Not the symptom." Whatever the reason for what happened, something has to change at Alderney State. Parents have enough to worry about with terrorists on the loose and our economy failing, our prisons must remain secure.
+0xF91B749F=某些自由主义团体将这一案件的发生归咎于严格的狱规，他们呼吁所有狱警定期进行冥想和灵气训练。 狱囚人权活动家Earth-Song Bowden说：「大多数人的暴力倾向是脉轮失调导致的。我们要对症下药，不能治标不治本。」无论导致这一案件的原因如何，Alderney州立监狱必须作出改变。光是逍遥法外的恐怖分子和我国乏力的经济已经够让父母们操心了，我们的监狱必须严抓安全，别给他们再添烦恼。
 
