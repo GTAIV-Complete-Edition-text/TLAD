@@ -1,9 +1,9 @@
 ﻿[E1FCJ3A]
 ;0x002E1BA2=~z~Lost MC, man. Round up the wrecking crew.
-0x002E1BA2=~z~失落帮万岁，哥们。把暴躁老哥们都叫上。
+0x002E1BA2=~z~失落帮万岁，哥们。叫上弟兄们一起。
 
 ;0x00E619B3=~z~Darts? Okay then.
-0x00E619B3=~z~飞镖？那可以啊。
+0x00E619B3=~z~飞镖？可以啊。
 
 ;0x00E7FA51=~z~Let's throw them darts then.
 0x00E7FA51=~z~那咱们去玩飞镖吧。
@@ -15,7 +15,7 @@
 0x01BADA2B=E1FCJ3_ACT_SHOW_LEAVE_ABANDONEDA
 
 ;0x03C277A9=~z~I hope I don't get sick cos' of that shit.
-0x03C277A9=~z~希望我不会因为这东西生病。
+0x03C277A9=~z~希望不会吃出病来。
 
 ;0x0498B7CC=E1FCJ3_ACT_DARTS_LEAVE_LOSTA
 0x0498B7CC=E1FCJ3_ACT_DARTS_LEAVE_LOSTA
@@ -27,7 +27,7 @@
 0x04F6A6A3=E1FCJ3_ACT_DIFF_DRINK_YESA
 
 ;0x054D101D=~z~We gotta go, man. You're late.
-0x054D101D=~z~咱得赶紧了，哥们。你迟到了。
+0x054D101D=~z~抓紧时间，哥们。你迟到了。
 
 ;0x06678A56=~z~Party time!
 0x06678A56=~z~派对时间到！
@@ -57,7 +57,7 @@
 0x0B4B707E=100
 
 ;0x0D320704=~z~That was kind of entertaining.
-0x0D320704=~z~这有点好玩啊。
+0x0D320704=~z~这个有点意思啊。
 
 ;0x0FB05FC8=E1FCJ3_ACT_HI_LO_CARDS_LEAVE_WONA
 0x0FB05FC8=E1FCJ3_ACT_HI_LO_CARDS_LEAVE_WONA
@@ -66,7 +66,7 @@
 0x10303CC7=~z~我得睡一觉清醒清醒，哥们，
 
 ;0x1123A0D3=~z~Okay, brothers.
-0x1123A0D3=~z~好的，兄弟。
+0x1123A0D3=~z~好了，兄弟们。
 
 ;0x11397A67=E1FCJ3_ACT_ARRIVE_POOLA
 0x11397A67=E1FCJ3_ACT_ARRIVE_POOLA
@@ -75,19 +75,19 @@
 0x11B1C91F=100
 
 ;0x121F0B94=~z~Let's fucking do this.
-0x121F0B94=~z~快他妈开动吧。
+0x121F0B94=~z~走他妈的。
 
 ;0x1245BFD1=~z~Let's show 'em how we do it in the Lost MC. Go get some brothers.
-0x1245BFD1=~z~让他们看看在咱们失落帮这该怎么来。去叫兄弟们。
+0x1245BFD1=~z~让他们看看咱们失落帮的规矩。叫几个弟兄来。
 
 ;0x1273BCCE=~z~It's not what we said, but okay.
-0x1273BCCE=~z~咱不是这样说的，但还好吧。
+0x1273BCCE=~z~跟说好的不一样，不过行吧。
 
 ;0x12F9A37A=~z~Looks like we picked up some bitches.
-0x12F9A37A=~z~看来咱们叫上的都是些臭逼玩意啊。
+0x12F9A37A=~z~看来咱们好像叫了些鸡啊。
 
 ;0x130BEC85=~z~We should have finished at the table man.
-0x130BEC85=~z~咱应该打完这把的，哥们。
+0x130BEC85=~z~我们应该打完这局，哥们。
 
 ;0x13C896D3=100
 0x13C896D3=100
@@ -96,7 +96,7 @@
 0x141BFA43=100
 
 ;0x148AC9DB=~z~You hungry man? Okay, I could eat.
-0x148AC9DB=~z~你饿了哥们？好吧，我也吃。
+0x148AC9DB=~z~你饿了哥们？那好，吃点吧。
 
 ;0x16BADF00=100
 0x16BADF00=100
@@ -105,64 +105,64 @@
 0x17AEB4E0=~z~Jonathan，你迟到了。咱们走吧，哥们。
 
 ;0x17DC19ED=~z~Food here makes my guts burn.
-0x17DC19ED=~z~这里的食物搞得我肚子火烧火燎的。
+0x17DC19ED=~z~吃这家店容易闹肚子。
 
 ;0x18E9FF1E=~z~I guess this dump will have to do us.
-0x18E9FF1E=~z~我寻思这垃圾东西迟早把我们害了。
+0x18E9FF1E=~z~那就在这儿凑合一次吧。
 
 ;0x19628E21=~z~Fuck this bullshit man.
-0x19628E21=~z~扯他妈的淡，哥们。
+0x19628E21=~z~妈了个逼的，哥们。
 
 ;0x1A7F2486=~z~Sure, I can handle a quick drink.
-0x1A7F2486=~z~当然，我可以一口闷。
+0x1A7F2486=~z~当然，稍微喝点没问题。
 
 ;0x1BF71C91=E1FCJ3_ACT_ARRIVE_STRIP_DRUNKA
 0x1BF71C91=E1FCJ3_ACT_ARRIVE_STRIP_DRUNKA
 
 ;0x1D13169D=~z~You, a quitter. Who'd have thought?
-0x1D13169D=~z~谁会料到你这人怎么虎头蛇尾的？
+0x1D13169D=~z~没想到你是个半途而废的人。
 
 ;0x1E2CE1A8=100
 0x1E2CE1A8=100
 
 ;0x214E0019=~z~Nothing mixes better than cards and booze. Apart from guns and booze...
-0x214E0019=~z~除了枪和酒，没啥能比打牌喝酒更好的了。
+0x214E0019=~z~喝酒打牌是绝配，仅次于打枪配喝酒...
 
 ;0x2163A996=E1FCJ3_ACT_ARRIVE_NO_BIKEA
 0x2163A996=E1FCJ3_ACT_ARRIVE_NO_BIKEA
 
 ;0x21A826E0=~z~Johnny, my brother.
-0x21A826E0=~z~Johnny，我的兄弟。
+0x21A826E0=~z~Johnny，好兄弟。
 
 ;0x227E0E74=~z~Okay Johnny - you should have said if you wanted to come to the strip club.
-0x227E0E74=~z~好，Johnny，你是有说过你想去脱衣舞俱乐部的吧。
+0x227E0E74=~z~好嘛，Johnny，想来脱衣舞俱乐部你就直说嘛。
 
 ;0x23D9AF09=~z~Air hockey? I'm drunk, what the fuck.
 0x23D9AF09=~z~桌上冰球？搞啥嘛，我都喝多了。
 
 ;0x245F6404=~z~Alright, man. Let's hit 'em hard. Get some of the brothers.
-0x245F6404=~z~好了，哥们。玩就玩尽兴。去叫上几个兄弟吧。
+0x245F6404=~z~好了，哥们。玩就玩尽兴。再叫几个兄弟吧。
 
 ;0x24A6B9BF=~z~You always was a lucky asshole, JK.
-0x24A6B9BF=~z~你这狗逼总是走狗屎运，JK。
+0x24A6B9BF=~z~你总是走狗屎运，JK。
 
 ;0x26C9DD2A=100
 0x26C9DD2A=100
 
 ;0x270D3ABA=~z~That was pretty good.
-0x270D3ABA=~z~那很好啊。
+0x270D3ABA=~z~刚才挺好玩的。
 
 ;0x2721539C=E1FCJ3_ACT_DIFF_ACTIVITY_NO_DRUNKA
 0x2721539C=E1FCJ3_ACT_DIFF_ACTIVITY_NO_DRUNKA
 
 ;0x276B884A=~z~I don't like that joint too much.
-0x276B884A=~z~我不是很喜欢那东西。
+0x276B884A=~z~我不太喜欢那家店。
 
 ;0x29E6047D=~z~Come on pussies.
-0x29E6047D=~z~快点，娘炮们。
+0x29E6047D=~z~快点，臭娘们。
 
 ;0x29EE4B83=~z~Okay, I can handle this place.
-0x29EE4B83=~z~好，我稳稳的。
+0x29EE4B83=~z~好，这家我可以接受。
 
 ;0x2AB054BD=E1FCJ3_ACT_ARRIVE_SHOW_DRUNKA
 0x2AB054BD=E1FCJ3_ACT_ARRIVE_SHOW_DRUNKA
@@ -171,7 +171,7 @@
 0x2ADB25E2=E1FCJ3_ACT_STRIP_LEAVE_WONA
 
 ;0x2ADCB230=~z~You're pathetic, man.
-0x2ADCB230=~z~你好可怜啊，哥们。
+0x2ADCB230=~z~你真可怜，哥们。
 
 ;0x2C625C5F=E1FCJ3_BA
 0x2C625C5F=E1FCJ3_BA
@@ -192,13 +192,13 @@
 0x300D78C7=~z~对不起哥们。
 
 ;0x3050966A=~z~All good. No one lost.
-0x3050966A=~z~都挺好。没有谁输。
+0x3050966A=~z~都挺好。没有输家。
 
 ;0x305B6AF7=100
 0x305B6AF7=100
 
 ;0x306CB202=~z~Air hockey? Bit of a change, but fine.
-0x306CB202=~z~桌上冰球？画风突变啊，不过还行。
+0x306CB202=~z~桌上冰球？没什么差别，也行吧。
 
 ;0x332B7F9B=~z~See you later, Johnny.
 0x332B7F9B=~z~再见了，Johnny。
@@ -219,7 +219,7 @@
 0x356C7B14=E1FCJ3_ACT_ARRIVE_EATERY_GOODA
 
 ;0x3575F9FF=~z~I'll kill you at darts, buddy.
-0x3575F9FF=~z~飞镖这块我能杀你个落花流水，老哥。
+0x3575F9FF=~z~玩飞镖我不得吊打你，老哥。
 
 ;0x3595531F=100
 0x3595531F=100
@@ -240,43 +240,43 @@
 0x36EE950D=~z~咱应该玩完这把飞镖的。
 
 ;0x39352FE7=~z~Let's play some fucking cards!
-0x39352FE7=~z~咱们他妈的去打牌吧！
+0x39352FE7=~z~一起他妈去打牌吧！
 
 ;0x3A6EE54F=~z~Lucky.
 0x3A6EE54F=~z~走运啊。
 
 ;0x3C7C1CDD=~z~Good to see you, brother, let's do this.
-0x3C7C1CDD=~z~很高兴见到你，兄弟。搞起来。
+0x3C7C1CDD=~z~很高兴见到你，兄弟。出发吧。
 
 ;0x3C88CC5D=~z~This looks like an okay joint, man.
-0x3C88CC5D=~z~这东西看起来还行，哥们。
+0x3C88CC5D=~z~这家店看着还行，哥们。
 
 ;0x3D1BD593=~z~Fuck this, homeboy.
 0x3D1BD593=~z~操他妈的，伙计。
 
 ;0x3E8F32E7=~z~Honor even, amigo.
-0x3E8F32E7=~z~万岁，朋友们。
+0x3E8F32E7=~z~势均力敌，兄弟。
 
 ;0x3F512247=~z~I'm outta here, amigo.
 0x3F512247=~z~我走了，朋友。
 
 ;0x411EB316=~z~Fuck you, pussy.
-0x411EB316=~z~操你妈的，娘炮。
+0x411EB316=~z~操你妈，娘炮。
 
 ;0x41AB0896=~z~I'd almost given you up for dead, brother.
-0x41AB0896=~z~我以为你死了，都要放弃了呢，兄弟。
+0x41AB0896=~z~你再不来我都要当你死了了，兄弟。
 
 ;0x426F6284=E1FCJ3_ACT_ARRIVE_ARM_WRESTLINGA
 0x426F6284=E1FCJ3_ACT_ARRIVE_ARM_WRESTLINGA
 
 ;0x42A31459=~z~Trust me, amigo - I was born with a dart in my hand.
-0x42A31459=~z~相信我吧，朋友，我生来就是玩飞镖的。
+0x42A31459=~z~相信我，朋友，我生来就是玩飞镖的。
 
 ;0x42C856B9=~z~Air hockey? Okay then.
 0x42C856B9=~z~桌上冰球？那行。
 
 ;0x4319DA69=~z~Man I'm so drunk any shit will seem good.
-0x4319DA69=~z~哥们，一喝多了，看啥都是赏心悦目的。
+0x4319DA69=~z~哥们，酒喝多了，看啥都赏心悦目。
 
 ;0x4368006C=~z~I hope I sober up soon.
 0x4368006C=~z~希望我赶快清醒过来。
@@ -297,7 +297,7 @@
 0x44C3BC4F=E1FCJ3_ACT_AIRHOCK_LEAVE_DRUNKA
 
 ;0x45802F11=~z~Okay, JK, let's roll.
-0x45802F11=~z~好的，JK，嗨起来。
+0x45802F11=~z~好啦，JK，走起。
 
 ;0x4646C874=100
 0x4646C874=100
@@ -321,7 +321,7 @@
 0x4A8FEC16=100
 
 ;0x4B7F9EB2=~z~That was kinda fun.
-0x4B7F9EB2=~z~那有点意思。
+0x4B7F9EB2=~z~有点意思。
 
 ;0x4CE1326A=100
 0x4CE1326A=100
@@ -330,7 +330,7 @@
 0x4DA8AAF0=100
 
 ;0x4E506489=~z~Man, I love that chow.
-0x4E506489=~z~哥们，这顿吃的我爱了。
+0x4E506489=~z~哥们，这顿我爱了。
 
 ;0x4EDAC217=~z~I nearly puked down that stripper's tits.
 0x4EDAC217=~z~我都要把那脱衣小妹的奶子吐出来了。
@@ -345,10 +345,10 @@
 0x54050DC4=100
 
 ;0x54CDC4DB=~z~ Let's hang again soon, man
-0x54CDC4DB=~z~下次再约，哥们
+0x54CDC4DB=~z~下次再约，哥们。
 
 ;0x553911AB=~z~Air hockey and booze - what a match made in heaven.
-0x553911AB=~z~桌上冰球加啤酒，真是天造地设的一对。
+0x553911AB=~z~桌上冰球加啤酒，简直是天作之合啊。
 
 ;0x55F2488D=E1FCJ3_ACT_ARM_WRESTLING_LEAVE_WONA
 0x55F2488D=E1FCJ3_ACT_ARM_WRESTLING_LEAVE_WONA
@@ -363,10 +363,10 @@
 0x57F2D3CA=~z~Johnny，兄弟，搞起来。
 
 ;0x5821F1B5=~z~Okay big boy, let's see what you got.
-0x5821F1B5=~z~好，大小伙子，让我看看你有啥本事。
+0x5821F1B5=~z~好，大家伙，让我看看你有啥本事。
 
 ;0x587FDBA6=~z~Sorry, brother. Genetics is a bitch.
-0x587FDBA6=~z~不好意思，兄弟，遗传学这东西就是废物一个。
+0x587FDBA6=~z~不好意思，兄弟，都是爹妈生得好。
 
 ;0x58E84CD0=~z~That was fun, brother. Let's hang again soon
 0x58E84CD0=~z~今天够嗨的，兄弟。过后再约啊。
@@ -390,10 +390,10 @@
 0x5B4198FC=100
 
 ;0x5B550339=~z~Sorry, man, but someone has to lose.
-0x5B550339=~z~不好意思啊，哥们，总得有个人输吧。
+0x5B550339=~z~不好意思啊，哥们，不过总得有人输啊。
 
 ;0x5B7F3D2F=~z~A show could be fun... not what we said, but fun.
-0x5B7F3D2F=~z~演出应该有点意思…不管怎么说，嗨就对了。
+0x5B7F3D2F=~z~演出应该有点意思...不是平常那个意思，就是有意思。
 
 ;0x5D1989B2=E1FCJ3_ACT_LEAVE_PUB_GOODA
 0x5D1989B2=E1FCJ3_ACT_LEAVE_PUB_GOODA
@@ -408,22 +408,22 @@
 0x5E3C5547=~z~Johnny，哥们，我得回家了。
 
 ;0x5E6315F6=~z~You always were a lucky bastard.
-0x5E6315F6=~z~你这操蛋玩意总是走狗屎运。
+0x5E6315F6=~z~你他妈次次走狗屎运啊。
 
 ;0x5EB13CEC=~z~Man I love this kind of joint.
-0x5EB13CEC=~z~哥们，这东西我喜欢。
+0x5EB13CEC=~z~哥们，就喜欢这种店。
 
 ;0x5EC6EE66=~z~We both know you're in the closet, amigo.
-0x5EC6EE66=~z~咱都知道你窝家里呢，朋友。
+0x5EC6EE66=~z~大家都知道你是基佬，朋友。
 
 ;0x5F7CB523=~z~We didn't stay that long.
-0x5F7CB523=~z~咱哪里有待了那么久。
+0x5F7CB523=~z~居然待了那么久吗。
 
 ;0x6118A52D=E1FCJ3_ACT_DIFF_ACTIVITY_NOA
 0x6118A52D=E1FCJ3_ACT_DIFF_ACTIVITY_NOA
 
 ;0x62926064=~z~That was good times, brother. See you soon
-0x62926064=~z~今天很开心，兄弟。再见
+0x62926064=~z~今天很开心，兄弟。再见。
 
 ;0x62E94B54=~z~You're late, brother. Let's roll.
 0x62E94B54=~z~你迟到啦，兄弟。走吧。
@@ -438,7 +438,7 @@
 0x64DD5A43=E1FCJ3_ACT_LEAVE_EATERY_GOODA
 
 ;0x64E50082=~z~Lucky bastard.
-0x64E50082=~z~走狗屎运的操蛋玩意。
+0x64E50082=~z~狗屎运。
 
 ;0x6530B0EB=~z~This place has the best food, man.
 0x6530B0EB=~z~这里的都是最好吃的，哥们。
@@ -447,7 +447,7 @@
 0x659E1975=E1FCJ3_ACT_ARRIVE_AIRHOCKA
 
 ;0x66162B49=~z~Man, nothing like a few drinks to make me think I can hustle at pool.
-0x66162B49=~z~哥们，没啥能比得上酒让我觉得我能在台球桌上大杀四方。
+0x66162B49=~z~哥们，酒足饭饱我必在台球桌上大杀四方。
 
 ;0x67081FE2=E1FCJ3_ACT_DARTS_LEAVE_DRUNKA
 0x67081FE2=E1FCJ3_ACT_DARTS_LEAVE_DRUNKA
@@ -459,10 +459,10 @@
 0x67958021=~z~我现在没空，Johnny。现在不行。
 
 ;0x67D0C6FE=~z~Man, lucky no one died in there - I'm too drunk for darts.
-0x67D0C6FE=~z~哥们，喝完酒了飞飞镖，还好没人死里边。
+0x67D0C6FE=~z~哥们，喝完酒了飞飞镖，还好没出人命。
 
 ;0x69510554=~z~You suck at pool, amigo.
-0x69510554=~z~你这台球打得真菜，朋友。
+0x69510554=~z~你打台球真菜，朋友。
 
 ;0x6A88EFC2=100
 0x6A88EFC2=100
@@ -471,7 +471,7 @@
 0x6C34DE9A=~z~可以啊，看演出吧，哥们。
 
 ;0x6C7B89D3=~z~You suck, man.
-0x6C7B89D3=~z~你好菜啊，哥们。
+0x6C7B89D3=~z~你好恶心，哥们。
 
 ;0x6C9AB083=100
 0x6C9AB083=100
@@ -480,10 +480,10 @@
 0x6D3DA535=100
 
 ;0x6D501C11=~z~You think you can prove yourself this time, huh JK?
-0x6D501C11=~z~这回你觉得能不能证明自己够牛逼，JK？
+0x6D501C11=~z~这回有没有把握证明自己够牛逼，JK？
 
 ;0x6DCB51C0=~z~That was kinda fun, I coulda stayed longer.
-0x6DCB51C0=~z~有点意思啊，我还能待下去。
+0x6DCB51C0=~z~有点意思啊，我还能多留一会儿。
 
 ;0x6DDDAF06=~z~This place looks okay.
 0x6DDDAF06=~z~这地方看起来还不错。
@@ -492,19 +492,19 @@
 0x6F04E938=E1FCJ3_ACT_DIFF_POOL_YESA
 
 ;0x70056542=~z~You need me to steal you a new watch, asshole?
-0x70056542=~z~你要我给你偷块新手表吗，混蛋？
+0x70056542=~z~要爷给你偷块新手表吗，混蛋？
 
 ;0x7007DF99=~z~Man, I love this place.
-0x7007DF99=~z~哥们，这地方我爱了。
+0x7007DF99=~z~哥们，这店我爱了。
 
 ;0x702EDEE8=~z~Okay, assholes. Good to fuckin' see ya.
-0x702EDEE8=~z~好啦，混小子，见到你真他妈好。
+0x702EDEE8=~z~好啦，混蛋们，很高兴见到你们。
 
 ;0x70635807=100
 0x70635807=100
 
 ;0x71A1E34D=~z~Let's see what you got, buddy.
-0x71A1E34D=~z~让咱看看你有啥本事，老哥。
+0x71A1E34D=~z~看看你实力如何，老哥。
 
 ;0x71C84AC9=~z~Man, I'm still drunk.
 0x71C84AC9=~z~哥们，我酒还没醒呢。
@@ -513,16 +513,16 @@
 0x71EEF23B=E1FCJ3_ACT_ARRIVE_STRIPA
 
 ;0x721E51CA=~z~Good food in there!
-0x721E51CA=~z~里面都是好吃的！
+0x721E51CA=~z~太好吃了！
 
 ;0x73521F94=E1FCJ3_ACT_ARRIVE_PUB_AVERAGEA
 0x73521F94=E1FCJ3_ACT_ARRIVE_PUB_AVERAGEA
 
 ;0x7523EFC9=~z~Don't mean to be an SOB, but you're late. Let's hit it.
-0x7523EFC9=~z~别耍赖，迟到就是迟到了。咱们走吧。
+0x7523EFC9=~z~不是我说你，但迟到就是迟到。咱们走吧。
 
 ;0x75D12514=~z~That joint kinda sucks ass, amigo.
-0x75D12514=~z~这地方有点操蛋，朋友。
+0x75D12514=~z~这家店太烂了，朋友。
 
 ;0x762338D5=~z~Sorry man.
 0x762338D5=~z~对不起，哥们。
@@ -531,13 +531,13 @@
 0x76DBD49F=E1FCJ3_ACT_DIFF_SHOW_YESA
 
 ;0x781CA2EB=~z~Pool ain't your thing.
-0x781CA2EB=~z~台球对你来说不算啥吧。
+0x781CA2EB=~z~你不适合打台球。
 
 ;0x79560931=100
 0x79560931=100
 
 ;0x79AD44AD=~z~Quitters never win, man.
-0x79AD44AD=~z~临战脱逃的人是赢不了的，哥们。
+0x79AD44AD=~z~临阵脱逃的人不可能赢，哥们。
 
 ;0x7AD205A6=E1FCJ3_ACT_STRIP_LEAVE_ABANDONEDA
 0x7AD205A6=E1FCJ3_ACT_STRIP_LEAVE_ABANDONEDA
@@ -552,7 +552,7 @@
 0x7CDE3BEE=E1FCJ3_ACT_QUIT_AND_LEAVEA
 
 ;0x7D320AE4=~z~Man, I feel lucky about this game.
-0x7D320AE4=~z~哥们，我觉得这把我走运了啊。
+0x7D320AE4=~z~哥们，我觉得这把是我运气好。
 
 ;0x7DF67A77=~z~Lost MC. Let's do it.
 0x7DF67A77=~z~失落帮万岁。搞起来。
@@ -564,7 +564,7 @@
 0x7EF6FD27=~z~下次咱们得打完才行。
 
 ;0x801A8E0B=~z~Let's see what you got in the way of air hockey skill, my friend.
-0x801A8E0B=~z~让咱看看你的球技有几斤几两，我的朋友。
+0x801A8E0B=~z~看看你的球技有几斤几两，我的朋友。
 
 ;0x80E9F930=~z~Man, I'm still drunk.
 0x80E9F930=~z~哥们，我还没醒酒呢。
@@ -573,19 +573,19 @@
 0x821826C3=E1FCJ3_ACT_LEAVE_PUB_FIGHT_TAUNTSA
 
 ;0x822A1048=~z~Pool? Okay then.
-0x822A1048=~z~台球？那也行。
+0x822A1048=~z~台球？也行吧。
 
 ;0x82D6CED1=~z~Let's wrestle like drunken assholes.
-0x82D6CED1=~z~让咱们像醉鬼一样战斗吧。
+0x82D6CED1=~z~像醉鬼一样决斗吧。
 
 ;0x849B87C1=~z~Brothers for life, Lost forever. Let's fuckin' do it.
-0x849B87C1=~z~好兄弟一辈子，失落帮万岁。搞他妈的。
+0x849B87C1=~z~生死兄弟情，失落帮万岁。搞他妈的。
 
 ;0x8556CB8B=100
 0x8556CB8B=100
 
 ;0x85ABB9E1=~z~That was pretty funny until you bailed.
-0x85ABB9E1=~z~你跑路之前还打得好好的。
+0x85ABB9E1=~z~演得好好的，你就跑出来了。
 
 ;0x85E73D0A=100
 0x85E73D0A=100
@@ -594,7 +594,7 @@
 0x85E9F9A5=100
 
 ;0x861C048A=~z~You were lucky to draw man.
-0x861C048A=~z~打平手是你走运了，哥们。
+0x861C048A=~z~平了算你走运，哥们。
 
 ;0x86449B5B=E1FCJ3_ACT_ARRIVE_EATERY_FAVOURITEA
 0x86449B5B=E1FCJ3_ACT_ARRIVE_EATERY_FAVOURITEA
@@ -612,34 +612,34 @@
 0x87841AA7=090
 
 ;0x87F840CC=~z~Pussies!
-0x87F840CC=~z~娘炮们！
+0x87F840CC=~z~娘们！
 
 ;0x8820A90F=~z~Shit - Jackie will kill me - Johnny - let's split.
-0x8820A90F=~z~操，Jackie真是要我命，Johnny，咱们去放松一下。
+0x8820A90F=~z~操，Jackie会杀了我的，Johnny，今天就散了吧。
 
 ;0x8907EF74=~z~This show better be good.
 0x8907EF74=~z~希望今天的演出好看点。
 
 ;0x8A258D0E=~z~Hey Einstein, you'll need a bike.
-0x8A258D0E=~z~嘿，聪明人，你得有辆摩托车。
+0x8A258D0E=~z~嘿，大天才，你的摩托呢？
 
 ;0x8AF13D11=~z~Next time, let's finish the fucking game man.
-0x8AF13D11=~z~下次咱们他妈的打完吧，哥们。
+0x8AF13D11=~z~下次咱们投完再走吧，哥们。
 
 ;0x8B803047=~z~Johnny, man I gotta split.
-0x8B803047=~z~Johnny，哥们，我要裂开了。
+0x8B803047=~z~Johnny，哥们，我得走了。
 
 ;0x8BCDC625=~z~We should have watched the end.
-0x8BCDC625=~z~咱应该打到结束的。
+0x8BCDC625=~z~我们应该看完整场的。
 
 ;0x8C81983C=~z~Hey we should have finished that shit.
-0x8C81983C=~z~嘿，咱们本来是要打完这把的吧。
+0x8C81983C=~z~喂，怎么不打完了再走。
 
 ;0x8CA43712=E1FCJ3_ACT_DROPOFFA
 0x8CA43712=E1FCJ3_ACT_DROPOFFA
 
 ;0x8F0F2BF4=~z~Let's see what you got buddy.
-0x8F0F2BF4=~z~让咱看看你的实力，老哥。
+0x8F0F2BF4=~z~看看你实力如何，老哥。
 
 ;0x911B173F=E1FCJ3_ACT_QUIT_AND_LEAVE_DRUNKA
 0x911B173F=E1FCJ3_ACT_QUIT_AND_LEAVE_DRUNKA
@@ -648,7 +648,7 @@
 0x91D66D9F=E1FCJ3_ACT_LEAVE_PUB_FAVOURITEA
 
 ;0x91F7D4E5=~z~This ain't what we said man. What the fuck is wrong with you?
-0x91F7D4E5=~z~咱可不是这样说的。你他妈怎么回事？
+0x91F7D4E5=~z~说好的可不是这样。你他妈怎么回事？
 
 ;0x926E355C=~z~I feel my luck is in tonight.
 0x926E355C=~z~我觉得我今晚走运了。
@@ -660,7 +660,7 @@
 0x92D56ECE=~z~搞起来。
 
 ;0x94034352=~z~Go round up some brothers, man.
-0x94034352=~z~去叫上几个兄弟，哥们。
+0x94034352=~z~去叫几个兄弟，哥们。
 
 ;0x9494CD17=~z~Lucky I didn't puke in there.
 0x9494CD17=~z~还好我没吐出来。
@@ -669,10 +669,10 @@
 0x94B482ED=E1FCJ3_ACT_LEAVE_EATERY_FAVOURITEA
 
 ;0x94E7B5C3=~z~Sure, I'll beat you at pool if you want.
-0x94E7B5C3=~z~好啊，打台球你想找虐我就来。
+0x94E7B5C3=~z~好啊，打台球找虐的话我奉陪。
 
 ;0x94FAA247=~z~A draw seems fair, brother.
-0x94FAA247=~z~平局够公平了吧，兄弟。
+0x94FAA247=~z~平局总行了吧，兄弟。
 
 ;0x952D2DF4=100
 0x952D2DF4=100
@@ -696,16 +696,16 @@
 0x9E54EFD0=100
 
 ;0xA00E1F30=~z~Let's play some fucking pool.
-0xA00E1F30=~z~咱们他妈的打台球吧。
+0xA00E1F30=~z~哥几个进去打台球吧。
 
 ;0xA08D8932=~z~That food was fantastic.
-0xA08D8932=~z~那里吃的很不错。
+0xA08D8932=~z~那家店的饭菜超棒。
 
 ;0xA1431B0C=E1FCJ3_ACT_EATERY_LEAVE_DRUNKA
 0xA1431B0C=E1FCJ3_ACT_EATERY_LEAVE_DRUNKA
 
 ;0xA2A97648=~z~What we doing here, man? I ain't down with this shit.
-0xA2A97648=~z~咱在这干啥呢，哥们？这东西放不倒我。
+0xA2A97648=~z~咱在这干啥呢，哥们？我来又不是为了这个。
 
 ;0xA2A9C3BD=~z~Fuck yeah boys. Good to see your ugly faces.
 0xA2A9C3BD=~z~见到你们这帮臭逼真他妈好，伙计。
@@ -732,16 +732,16 @@
 0xA638F05F=~z~哥们，喝了这么多还要打台球啊。
 
 ;0xA639E7BF=~z~We need numbers for this. Go get some of the boys.
-0xA639E7BF=~z~咱们多来点人吧。去叫上几个伙计。
+0xA639E7BF=~z~咱们多来点人吧。去叫几个伙计。
 
 ;0xA69B45F9=~z~You'll need a bike, genius.
-0xA69B45F9=~z~你需要辆摩托车，机灵鬼。
+0xA69B45F9=~z~找辆摩托车，睿智。
 
 ;0xA6DDF4FA=100
 0xA6DDF4FA=100
 
 ;0xA877BE7C=~z~That was a good meal.
-0xA877BE7C=~z~这顿吃的不错。
+0xA877BE7C=~z~这顿吃得不错。
 
 ;0xA8BC9826=E1FCJ3_ACT_POOL_LEAVE_DRUNKA
 0xA8BC9826=E1FCJ3_ACT_POOL_LEAVE_DRUNKA
@@ -762,13 +762,13 @@
 0xAD006786=E1FCJ3_ACT_ARRIVE_EATERY_AVERAGEA
 
 ;0xADBC8832=~z~Come on, let's hawk strange women.
-0xADBC8832=~z~赶紧的，咱们操逼去。
+0xADBC8832=~z~赶紧的，找两个外国妞来。
 
 ;0xB13E06E4=~z~Man I'm too drunk for women - I should go back to my wife.
-0xB13E06E4=~z~哥们，我喝多了泡不动妞了。我得回家陪陪老婆。
+0xB13E06E4=~z~哥们，我喝多了看不来妞，得回家陪老婆了。
 
 ;0xB1A0561F=~z~Brother, you still lost your dignity.
-0xB1A0561F=~z~兄弟，你还是那样放得开。
+0xB1A0561F=~z~兄弟，你还是没了面子。
 
 ;0xB1CB68EB=100
 0xB1CB68EB=100
@@ -777,7 +777,7 @@
 0xB2F5F216=100
 
 ;0xB4AA7106=~z~Drink was okay, man.
-0xB4AA7106=~z~喝酒还可以，哥们。
+0xB4AA7106=~z~酒水还可以，哥们。
 
 ;0xB4C97F88=E1FCJ3_ACT_AIRHOCK_LEAVE_ABANDONEDA
 0xB4C97F88=E1FCJ3_ACT_AIRHOCK_LEAVE_ABANDONEDA
@@ -819,7 +819,7 @@
 0xBF5E0474=~z~你嗑药了老哥？
 
 ;0xBFEA2C8D=~z~Women!
-0xBFEA2C8D=~z~美女们！
+0xBFEA2C8D=~z~娘们！
 
 ;0xC10A6555=100
 0xC10A6555=100
@@ -831,7 +831,7 @@
 0xC16C0699=100
 
 ;0xC1D11C50=~z~It's not chance, man. It's skill. I feel the cards.
-0xC1D11C50=~z~没机会了，哥们。这就是技术。我摸牌有灵性。
+0xC1D11C50=~z~不是运气，哥们。这就是技术。我摸牌有灵性。
 
 ;0xC1F276A1=~z~That bar is the best man.
 0xC1F276A1=~z~这家酒吧是最好的，哥们。
@@ -840,7 +840,7 @@
 0xC471A461=100
 
 ;0xC4B281E7=~z~I can hardly see I'm so drunk - darts sounds perfect!
-0xC4B281E7=~z~喝多了啥都看不见，最适合玩飞镖了！
+0xC4B281E7=~z~喝多了啥都看不清，最适合玩飞镖了！
 
 ;0xC4CEB7B7=E1FCJ3_ACT_LEAVE_PUB_AVERAGEA
 0xC4CEB7B7=E1FCJ3_ACT_LEAVE_PUB_AVERAGEA
@@ -849,7 +849,7 @@
 0xC50D8910=100
 
 ;0xC531BB3E=~z~Fuck all you ball sucking assholes
-0xC531BB3E=~z~滚你们妈的一帮吃屌的操蛋玩意
+0xC531BB3E=~z~滚你妈的一帮吃屌男。
 
 ;0xC62170DA=E1FCJ3_ACT_ARRIVE_ARM_WRESTLING_DRUNKA
 0xC62170DA=E1FCJ3_ACT_ARRIVE_ARM_WRESTLING_DRUNKA
@@ -864,7 +864,7 @@
 0xC87F8992=100
 
 ;0xCA55CD5D=~z~Makes a change from Jackie.
-0xCA55CD5D=~z~得让Jackie改改了。
+0xCA55CD5D=~z~暂别Jackie换换胃口。
 
 ;0xCAD4AEEF=~z~Johnny man, I'm outta here. Bye.
 0xCAD4AEEF=~z~Johnny，哥们，我走了。再见。
@@ -897,22 +897,22 @@
 0xD1DFDDAB=E1FCJ3_ACT_HI_LO_CARDS_LEAVE_ABANDONEDA
 
 ;0xD34B7000=~z~Not what you said, but I can hang.
-0xD34B7000=~z~不像你说的，我能挺住。
+0xD34B7000=~z~跟说好的不一样，但能接受。
 
 ;0xD3529F67=~z~Go get yourself a bike.
-0xD3529F67=~z~找你自己的车去。
+0xD3529F67=~z~骑上车再来。
 
 ;0xD3B6E01F=~z~That was fun.
 0xD3B6E01F=~z~那有点意思。
 
 ;0xD48B4C0F=~z~You're not bad. Getting better
-0xD48B4C0F=~z~还不错啊。变好了
+0xD48B4C0F=~z~还不错啊。变好了。
 
 ;0xD6540CED=E1FCJ3_ACT_DROPOFF_DRUNKA
 0xD6540CED=E1FCJ3_ACT_DROPOFF_DRUNKA
 
 ;0xD6A86407=~z~You lucky bastard man.
-0xD6A86407=~z~你个走狗屎运的操蛋玩意。
+0xD6A86407=~z~算你丫运气好，哥们。
 
 ;0xD6B4D64D=100
 0xD6B4D64D=100
@@ -921,7 +921,7 @@
 0xD783D9BA=~z~咱们看美女去。
 
 ;0xD812496A=~z~Johnny - it's been fun, but I've got a wife to be shouted at. Goodbye.
-0xD812496A=~z~Johnny，虽然今天很嗨，但家里还有个老婆等着我使唤呢。再见。
+0xD812496A=~z~Johnny，今天玩得很嗨，但老婆还在等着训我。再见。
 
 ;0xDBB7356E=100
 0xDBB7356E=100
@@ -930,10 +930,10 @@
 0xDCE52462=E1FCJ3_ACT_ARM_WRESTLING_LEAVE_DRUNKA
 
 ;0xDD26B1F5=~z~The food here is okay.
-0xDD26B1F5=~z~这里吃的还不错。
+0xDD26B1F5=~z~这里的饭菜还不错。
 
 ;0xDD48E544=~z~Let's see some fucking women then.
-0xDD48E544=~z~那咱们他妈的去看看美女吧。
+0xDD48E544=~z~那就一起进去看娘们吧。
 
 ;0xDD8A1679=~z~No man.
 0xDD8A1679=~z~不行，哥们。
@@ -957,22 +957,22 @@
 0xE11507D8=E1FCJ3_ACT_ARRIVE_PUB_FAVOURITEA
 
 ;0xE19BC8A7=~z~Lucky asshole. You must live in a bar.
-0xE19BC8A7=~z~走狗屎运的操蛋玩意。你是活在酒吧里的吧。
+0xE19BC8A7=~z~太狗了。你这是住酒吧了吧。
 
 ;0xE1A3511E=E1FCJ3_ACT_POOL_LEAVE_LOSTA
 0xE1A3511E=E1FCJ3_ACT_POOL_LEAVE_LOSTA
 
 ;0xE1D5EDF1=~z~Man, I'm still drunk.
-0xE1D5EDF1=~z~哥们，我酒还没醒呢。
+0xE1D5EDF1=~z~哥们，我还醉着呢。
 
 ;0xE4A0AFF7=~z~Man I am still drunk as shit.
-0xE4A0AFF7=~z~哥们，我还醉的跟屎一样呢。
+0xE4A0AFF7=~z~哥们，我还醉得跟屎一样呢。
 
 ;0xE4BC3004=~z~Man, I love this place.
 0xE4BC3004=~z~哥们，这地方我爱了。
 
 ;0xE52AC7DD=~z~Look at these assholes
-0xE52AC7DD=~z~看看这帮操蛋玩意
+0xE52AC7DD=~z~看看这帮操蛋玩意。
 
 ;0xE587917D=~z~I want to finish that shit man.
 0xE587917D=~z~我想打完这把啊，哥们。
@@ -987,7 +987,7 @@
 0xE68951EA=E1FCJ3_ACT_POOL_LEAVE_DRAWA
 
 ;0xE7201B8B=~z~I guess this establishment will have to suffice amigo.
-0xE7201B8B=~z~我寻思这地方应该能满足得了咱们，朋友。
+0xE7201B8B=~z~这次只能在这儿凑合了，兄弟们。
 
 ;0xE749B54D=~z~Man, man, I ain't sobered up.
 0xE749B54D=~z~哥们，哥们，我还没醒酒呢。
@@ -996,7 +996,7 @@
 0xE85DC444=100
 
 ;0xE98D3D50=~z~This place is okay, if you don't mind stomach ache.
-0xE98D3D50=~z~你要是不介意肚子会痛的话，那这地方还是不错的。
+0xE98D3D50=~z~不怕胃疼的话，这家店也还可以。
 
 ;0xEA284DEA=~z~I'm either gonna sober up or puke up.
 0xEA284DEA=~z~我要不醒过来，要不就吐出来。
@@ -1008,13 +1008,13 @@
 0xEC7A060F=E1FCJ3_ACT_ARRIVE_DARTS_DRUNKA
 
 ;0xED94E0E1=~z~You remember today. It won't happen again.
-0xED94E0E1=~z~今天这出你记住了哈，没有下次了。
+0xED94E0E1=~z~今天这出你记住了，没有下次了。
 
 ;0xEEE55E89=100
 0xEEE55E89=100
 
 ;0xEEFD56BC=~z~Genius, come back when you've got a bike.
-0xEEFD56BC=~z~啥时候弄到辆车你再回来吧，天才。
+0xEEFD56BC=~z~睿智，没有摩托就别来碰头了。
 
 ;0xEF464215=~z~Johnny - good to see you brother.
 0xEF464215=~z~Johnny，见到你真好，兄弟。
@@ -1026,25 +1026,25 @@
 0xF15358F2=E1FCJ3_ACT_ARM_WRESTLING_LEAVE_ABANDONEDA
 
 ;0xF178D316=~z~Man - that place should be shut down.
-0xF178D316=~z~哥们，这地方应该关门大吉的才对。
+0xF178D316=~z~哥们，这家店就该直接关门。
 
 ;0xF18B5ECC=090
 0xF18B5ECC=090
 
 ;0xF202C15B=~z~I gotta split man.
-0xF202C15B=~z~我要吐了，哥们。
+0xF202C15B=~z~我要走了，哥们。
 
 ;0xF29E0B82=~z~Man, I've got the drunken munchies bad.
-0xF29E0B82=~z~哥们，喝多了吃东西我不太舒服。
+0xF29E0B82=~z~哥们，我酒喝多了正想垫垫肚子。
 
 ;0xF2D565B6=~z~I don't usually play pool with women.
-0xF2D565B6=~z~我一般不和娘炮打台球。
+0xF2D565B6=~z~我一般不和娘们打台球。
 
 ;0xF2F6BC98=100
 0xF2F6BC98=100
 
 ;0xF3746470=~z~Drinking and fighting! Fucking genius.
-0xF3746470=~z~喝酒、对战！太他妈有想法了。
+0xF3746470=~z~喝酒、干架！太天才了。
 
 ;0xF5423749=100
 0xF5423749=100
@@ -1056,7 +1056,7 @@
 0xF8711488=~z~哥们，我看东西都重影了，得走了。
 
 ;0xF92B8D90=~z~Thanks man - that's a big change from being screamed at my old lady - let's hang soon.
-0xF92B8D90=~z~ 谢了哥们，出来玩和在家被老婆骂，比起来真是大不相同。晚点再约吧。
+0xF92B8D90=~z~谢了哥们，出来玩和在家被老婆骂真是大不相同。晚点再约吧。
 
 ;0xFA3DE603=100
 0xFA3DE603=100
@@ -1074,7 +1074,7 @@
 0xFF3C9944=~z~我放你一马你才打平局的，伙计。
 
 ;0xFF6989B7=~z~I'm still fucking drunk.
-0xFF6989B7=~z~我还他妈上头呢着呢。
+0xFF6989B7=~z~我他妈还醉着呢。
 
 ;0xFFDC0527=~z~Huh, lucky.
 0xFFDC0527=~z~哼，算你走运。
