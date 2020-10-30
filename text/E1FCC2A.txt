@@ -573,7 +573,7 @@
 0xD859BC0D=~z~我等着你。
 
 ;0xD9050BBB=~z~How bout we go see some naked ladies?
-0xD9050BBB=~z~一起去去看脱衣小妹怎样？
+0xD9050BBB=~z~一起去看脱衣小妹怎样？
 
 ;0xD96772FF=~z~Sorry, Clay, I can't. Don't think my license can take another fast riding award. Ha ha ha.
 0xD96772FF=~z~不好意思，Clay，来不了。再来一张超速奖状我的驾照就保不住了。哈哈哈。
