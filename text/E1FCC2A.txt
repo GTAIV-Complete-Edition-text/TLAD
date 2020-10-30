@@ -6,19 +6,19 @@
 0x0366CE7F=E1FCC2_ACT_E1C_GETCALL_DARTS_NOA
 
 ;0x062A56E5=~z~Eating together's a building block for a strong family unit, Clayton. Let's do it. I'll be by soon.
-0x062A56E5=~z~在一起吃饭是一个强大家庭的基石，Clayton。咱们来吧。我马上到。
+0x062A56E5=~z~一起吃饭是构筑家庭的基石，Clayton。一起去吃吧。我马上来。
 
 ;0x0678FA18=100
 0x0678FA18=100
 
 ;0x06A99A17=~z~I love the HQ, dude. But I'm kinda tied up on the outside. Lost MC for life, man.
-0x06A99A17=~z~我也喜欢来咱们帮的会所，但是我现在在外面忙呢。失落帮万岁，哥们。
+0x06A99A17=~z~我也想去会所，但是我现在在外面忙呢。失落帮万岁，哥们。
 
 ;0x06BF672F=~z~Wanna hit up a strip club with the brothers?
-0x06BF672F=~z~想跟兄弟一起去脱衣舞俱乐部吗？
+0x06BF672F=~z~想跟弟兄们一起去脱衣舞俱乐部吗？
 
 ;0x0713DA82=~z~Peace, brother. Another time.
-0x0713DA82=~z~淡定点，兄弟。下次吧。
+0x0713DA82=~z~再见，兄弟。下次吧。
 
 ;0x07AE7DF7=~z~Well, Johnny, you are a busy motherfucker. Let's hang soon.
 0x07AE7DF7=~z~行吧，Johnny，你他妈真是个大忙人。咱们以后再约。
@@ -39,22 +39,22 @@
 0x0B775B38=100
 
 ;0x0B881973=~z~Let's kick it at Church.
-0x0B881973=~z~咱们在会所见面。
+0x0B881973=~z~咱们会所见。
 
 ;0x0CA333B2=~z~Jonathan, feels like you and I don't do much that ain't Lost MC business. Wanna get some food together?
-0x0CA333B2=~z~Jonathan，感觉咱们都没干啥失落帮该干的事。想不想一起去吃东西？
+0x0CA333B2=~z~Jonathan，感觉咱们就没一起干过帮派公务以外的事。想不想一起去吃顿饭？
 
 ;0x0D10353F=E1FCC2_ACT_GETCALL_DARTS_FIRSTA
 0x0D10353F=E1FCC2_ACT_GETCALL_DARTS_FIRSTA
 
 ;0x0EF5F863=~z~Man... I can't do darts right now. Sorry.
-0x0EF5F863=~z~哥们，现在玩不了飞镖。抱歉。
+0x0EF5F863=~z~哥们...现在玩不了飞镖。抱歉。
 
 ;0x0F102CD3=~z~Dude, I can't have that food with you. Something came up. Another time.
-0x0F102CD3=~z~老哥，我不能跟你去吃东西了。还有事呢。下次吧。
+0x0F102CD3=~z~老兄，我没法陪你去吃饭了。突然有事，下次再约吧。
 
 ;0x107B88A4=~z~Clay? I can't go drinking with you, man. Have some shots for me.
-0x107B88A4=~z~Clay？我不能跟你去喝酒了，哥们。帮我多喝几杯吧。
+0x107B88A4=~z~Clay？我不能跟你去喝酒了，哥们。替我多喝几杯吧。
 
 ;0x10931A61=010
 0x10931A61=010
@@ -63,28 +63,28 @@
 0x123DE1BD=E1FCC2_ACT_GETCALL_AIRHOCK_FIRSTA
 
 ;0x1270DD4A=~z~Clay, dude, you're gonna have to go to that show without me. Sorry.
-0x1270DD4A=~z~Clay，老哥，我跟不了你去看演出了。不好意思啊。
+0x1270DD4A=~z~Clay，老兄，我没法陪你去看演出了。抱歉。
 
 ;0x138A67B2=~z~I know you're itching to see some of them young ladies at the gentlemans club as much as I am.
-0x138A67B2=~z~我知道你跟我一样心痒痒要去绅士俱乐部看小美女了。
+0x138A67B2=~z~我知道你跟我一样心痒痒，想去绅士俱乐部看小美女。
 
 ;0x14ED1870=~z~Shit, Johnny. I thought you was the only brother who could be credited for reliability. Thanks for calling at least.
-0x14ED1870=~z~妈的，Johnny。我寻思你是我惟一值得信赖的兄弟了。至少你还能打电话来，谢了。
+0x14ED1870=~z~妈的，Johnny。亏我当你是惟一值得信赖的兄弟。不过你至少通知我了。
 
 ;0x1526A6F8=E1FCC2_ACT_E1C_GETCALL_DRINK_YESA
 0x1526A6F8=E1FCC2_ACT_E1C_GETCALL_DRINK_YESA
 
 ;0x17015FCE=~z~Yo, seems like you spend more time hitting assholes with pool cues than hitting balls. Wanna try and amend that?
-0x17015FCE=~z~哟，看来你用球杆捅屁眼的时间比捅台球的还多。想不想试着换换口味？
+0x17015FCE=~z~哟，看来你用球杆捅屁眼的时间比捅台球的还多。要不要试试换个口味？
 
 ;0x1745B8EC=010
 0x1745B8EC=010
 
 ;0x18876D54=~z~Give me a minute and I'll swing by. Remember to behave yourself around the young ladies, Clay.
-0x18876D54=~z~给我一分钟，我马上到。记得哈，小美女围上来的时候你注意点，Clay。
+0x18876D54=~z~等我一会儿，我马上到。被小姑娘包围的时候记得稍微克制点，Clay。
 
 ;0x1891E4B1=~z~Kickass, man. I'm in.
-0x1891E4B1=~z~太爽了，哥们。我来了。
+0x1891E4B1=~z~太爽了，哥们。我来。
 
 ;0x1915CD10=E1FCC2_ACT_GETCALL_HANGOUT_FIRSTA
 0x1915CD10=E1FCC2_ACT_GETCALL_HANGOUT_FIRSTA
@@ -93,10 +93,10 @@
 0x1BE44CAB=100
 
 ;0x1D7E014D=~z~Air hockey might take my mind off the craziness, man. Wait for me.
-0x1D7E014D=~z~桌上冰球应该能让我轻松下，哥们。等我哈。
+0x1D7E014D=~z~桌上冰球应该能让我放松下，哥们。等我哈。
 
 ;0x1DB53D80=~z~Johnny K. Ain't being in The Lost about hanging with your brothers?
-0x1DB53D80=~z~Johnny K。是兄弟就来一起玩。
+0x1DB53D80=~z~Johnny K。是失落帮的兄弟就该一起玩。
 
 ;0x1EA68CC5=100
 0x1EA68CC5=100
@@ -105,7 +105,7 @@
 0x214C50D7=100
 
 ;0x21752A97=~z~Clay? I can't get drunk with you right now. Don't get drunk alone and go whoring now. You know it makes you lonely.
-0x21752A97=~z~Clay？我现在不能跟你一起喝。别自己喝多了然后又去操逼。这样子搞得你很寂寞。
+0x21752A97=~z~Clay？我现在没法陪你喝酒。别又自己喝多了出去嫖娼。这样只会让你寂寞。
 
 ;0x2214C5A2=010
 0x2214C5A2=010
@@ -126,25 +126,25 @@
 0x258CBDC2=010
 
 ;0x25AB56AF=~z~In a minute, man.
-0x25AB56AF=~z~一分钟到，哥们。
+0x25AB56AF=~z~一会儿见，哥们。
 
 ;0x263C09E1=~z~How bout we kick the shit out of somebody in the name of old fashioned gang rivalry?
-0x263C09E1=~z~咱们按帮派竞争的老规矩把某些人干出局怎么样？
+0x263C09E1=~z~咱们以老派的帮派竞争为名去暴揍某些人一顿如何？
 
 ;0x268A5838=~z~Alright dude. Let's get on the gas. See you soon.
-0x268A5838=~z~好的老哥。咱们喝酒去。一会见。
+0x268A5838=~z~好的老兄。一起去飙车吧。待会儿见。
 
 ;0x286AD22D=~z~Why, Johnny. You got a moment in your busy schedule for a brother?
-0x286AD22D=~z~凭啥啊，Johnny。你留给兄弟的一点时间都没有？
+0x286AD22D=~z~咋了，Johnny。你一点时间都没给弟兄们留？
 
 ;0x287C0992=~z~Let's hit up the air hockey tables.
-0x287C0992=~z~咱们冰球桌上碰一碰。
+0x287C0992=~z~我们一起去打桌上冰球吧。
 
 ;0x290744FC=010
 0x290744FC=010
 
 ;0x293A5E52=~z~Clayton, mi amigo, you're gonna be down one brother at the house. Something came up, man. Lost MC for life.
-0x293A5E52=~z~Clayton，朋友，你只能自己一个人去了。我有事，哥们。失落帮万岁。
+0x293A5E52=~z~Clayton，朋友，你只能自己一个人去会所了。我有急事，哥们。失落帮万岁。
 
 ;0x2CA1463A=E1FCC2_ACT_GETCALL_RACEA
 0x2CA1463A=E1FCC2_ACT_GETCALL_RACEA
@@ -153,7 +153,7 @@
 0x2CA3F8F7=010
 
 ;0x2D28DF47=~z~That house is my home, brother. I'll see you there.
-0x2D28DF47=~z~会所是我家，兄弟。咱到那见。
+0x2D28DF47=~z~会所就是我家，兄弟。到时候见。
 
 ;0x2F049FBD=010
 0x2F049FBD=010
@@ -162,13 +162,13 @@
 0x2F628F40=010
 
 ;0x2FB0A5B2=~z~You been stood up on a date or something? I'll play air hockey with you. Wait for me, man.
-0x2FB0A5B2=~z~你啥时候被放过鸽子之类的？我来跟你打桌上冰球了。等我啊，哥们。
+0x2FB0A5B2=~z~你是约会被人放鸽子了吗？我来跟你打桌上冰球了。等我啊，哥们。
 
 ;0x302D4553=~z~As much as I'd like to watch you try and stick your dick in everythin' with a pulse, Clay. I got other plans.
-0x302D4553=~z~Clay，虽然你操起逼来饥不择食的样子我是喜闻乐见的，但我还有别的事要忙。
+0x302D4553=~z~虽然我很想看你日天日地饥不择食的样子，Clay，但我有别的要忙。
 
 ;0x3043AE4D=~z~Hey Johnny, I was thinking a miserable bastard like you would need a good laugh. Wanna hit a show?
-0x3043AE4D=~z~嘿Johnny，我寻思像你这样可怜巴巴的操蛋玩意需要开口笑一下。想不想去看演出？
+0x3043AE4D=~z~嘿Johnny，我觉得你这样的可怜虫需要开口笑一笑。去不去看演出？
 
 ;0x3292B6A8=~z~I'm thinking a motherfucker such as yourself would welcome an air hockey challenge. How bout it?
 0x3292B6A8=~z~我寻思像你这样的操蛋玩意应该不会拒绝来一场桌上冰球挑战赛吧。怎么样？
@@ -177,10 +177,10 @@
 0x3344C9D4=E1FCC2_ACT_E1C_CALL_AIRHOCK_CANCELA
 
 ;0x34E4F522=~z~See you soon, man.
-0x34E4F522=~z~再见了，哥们。
+0x34E4F522=~z~待会儿见，哥们。
 
 ;0x356175E6=~z~Alright, man. Let's drop the hammer on that shit. I'll be by soon.
-0x356175E6=~z~好的，哥们。咱们好好发泄一下。我马上到。
+0x356175E6=~z~好啊，哥们。一起把油门拉满吧。我马上到。
 
 ;0x362B863D=100
 0x362B863D=100
@@ -189,28 +189,28 @@
 0x36CB63F7=E1FCC2_ACT_GETCALL_STRIP_FIRSTA
 
 ;0x37221FCB=~z~I got stuff to do, Clay. Haven't you got a nice little mattress thrasher to take out.
-0x37221FCB=~z~我有事要干，Clay。你没有小骚逼能操了吗？
+0x37221FCB=~z~我还有事要干，Clay。你就没有小骚逼能操了吗？
 
 ;0x3885DA53=E1FCC2_ACT_CALL_CANCELLED_MEDLIKEA
 0x3885DA53=E1FCC2_ACT_CALL_CANCELLED_MEDLIKEA
 
 ;0x39187EF4=~z~Don't mean to be an asshole, dude, but I'm kinda tied up right now. Give 'em hell at the house for me.
-0x39187EF4=~z~我可不是故意找茬啊，老哥，我现在真的忙得要死。替我在会所里好好教训下他们。
+0x39187EF4=~z~不是我不想去啊，老兄，但我现在真的很忙。替我在会所里好好教训下他们。
 
 ;0x3981BF61=~z~Another time another thing, Johnny. Talk to me soon.
-0x3981BF61=~z~另外找时间再安排吧，Johnny。晚点聊。
+0x3981BF61=~z~那就改天再约吧，Johnny。以后再聊。
 
 ;0x39BAAC0F=~z~Let's play some air hockey.
-0x39BAAC0F=~z~咱去打几盘桌上冰球吧。
+0x39BAAC0F=~z~一起打几盘桌上冰球吧。
 
 ;0x3B817BF8=~z~Lost MC til I die man. I'll see you there soon.
-0x3B817BF8=~z~失落帮，一生所爱，哥们。我马上到你那。
+0x3B817BF8=~z~到死都是失落帮的人，哥们。待会儿会所见。
 
 ;0x3D495509=~z~Even if there was a politician's face on that dartboard, man, I wouldn't have the time. Sorry.
-0x3D495509=~z~就算是那飞镖靶子上有个政治家的头像，哥们，我也来不了。不好意思了。
+0x3D495509=~z~就算是靶子上贴了政客的头像，哥们，我也没空来。不好意思了。
 
 ;0x402D3361=~z~Let's see who the big dog rider is. You wanna go racing?
-0x402D3361=~z~咱们来比看看谁才是骑车大佬。你想来赛车吗？
+0x402D3361=~z~咱们来比比看谁才是骑车大佬。你想来赛车吗？
 
 ;0x41FD4C6A=E1FCC2_ACT_E1C_GETCALL_SHOW_YESA
 0x41FD4C6A=E1FCC2_ACT_E1C_GETCALL_SHOW_YESA
@@ -228,25 +228,25 @@
 0x44FF74CA=E1FCC2_ACT_GETCALL_HANGOUTA
 
 ;0x4567BC56=~z~I don't got time to watch an overpaid comedian run his mouth, man. Later.
-0x4567BC56=~z~我可没空看一个工资过高的喜剧演员在那满嘴跑火车，哥们。再见。
+0x4567BC56=~z~我可没空看一个工资过高的喜剧演员满嘴跑火车，哥们。再见。
 
 ;0x45B17D48=010
 0x45B17D48=010
 
 ;0x4C0E970F=~z~Ha ha. Sure thing. Let's play some darts.
-0x4C0E970F=~z~哈哈。可以的。咱们玩飞镖去。
+0x4C0E970F=~z~哈哈。可以的。一起玩飞镖去吧。
 
 ;0x4C3A7D6D=~z~I gotta keep my head clear, Clayton. There'll be time for drinking soon enough.
-0x4C3A7D6D=~z~我在忌口呢，Clayton。很快就有时间来喝了。
+0x4C3A7D6D=~z~我现在要保持清醒，Clayton。之后会有机会一起喝酒的。
 
 ;0x4D692EEA=100
 0x4D692EEA=100
 
 ;0x4DDE87DD=~z~Don't worry your pretty little head. Another time, Johnny.
-0x4DDE87DD=~z~没事，你个小朋友。别的时间吧，Johnny。
+0x4DDE87DD=~z~来不了就来不了吧。改天再约，Johnny。
 
 ;0x4F7B5283=~z~Looking forward to it, man.
-0x4F7B5283=~z~等着呢，哥们。
+0x4F7B5283=~z~我等着呢，哥们。
 
 ;0x4F90C7E6=100
 0x4F90C7E6=100
@@ -261,31 +261,31 @@
 0x57881BF0=E1FCC2_ACT_GETCALL_EAT_FIRSTA
 
 ;0x59182949=~z~Clayton, you're gonna have to enter that race alone, man. Win it for The Lost MC.
-0x59182949=~z~Clayton，你只能自己去比赛了，哥们。为失落帮争光吧。
+0x59182949=~z~Clayton，你只能自己去赛车了，哥们。为失落帮争光吧。
 
 ;0x5A71013F=~z~That's cool, Johnny. Gimme a call sometime.
-0x5A71013F=~z~那可以啊，Johnny。常联系。
+0x5A71013F=~z~那好吧，Johnny。有空再联系。
 
 ;0x5E016C37=100
 0x5E016C37=100
 
 ;0x5E57BBA1=~z~Alright Clay, let's play darts.
-0x5E57BBA1=~z~好的，Clay，咱们玩飞镖。
+0x5E57BBA1=~z~好啊，Clay，一起玩飞镖吧。
 
 ;0x5ED0F12E=~z~Okay, man. You're on.
-0x5ED0F12E=~z~好的，哥们。你出来吧。
+0x5ED0F12E=~z~好的，哥们。约好了。
 
 ;0x61195B5F=E1FCC2_ACT_E1C_CALL_HANGOUT_CANCELA
 0x61195B5F=E1FCC2_ACT_E1C_CALL_HANGOUT_CANCELA
 
 ;0x61951632=~z~My man, Johnny. What's say you and I do some male bonding in the House?
-0x61951632=~z~我的哥们，Johnny。你说咱们去会所干点男人该干的事情咋样？
+0x61951632=~z~好兄弟，Johnny。你说咱们去会所增进下兄弟情谊如何？
 
 ;0x626E34C3=100
 0x626E34C3=100
 
 ;0x629ED562=~z~Sometimes we need to laugh just to keep from crying, dude. I'll be by soon.
-0x629ED562=~z~咱有时候是得笑一笑，不然就哭出来了，老哥。我马上到。
+0x629ED562=~z~有时候是得笑一笑，不然就要哭出来了，老兄。我马上到。
 
 ;0x62B2FEAB=E1FCC2_ACT_GETCALL_AIRHOCKA
 0x62B2FEAB=E1FCC2_ACT_GETCALL_AIRHOCKA
@@ -297,10 +297,10 @@
 0x65256E4A=E1FCC2_ACT_GETCALL_IRATEA
 
 ;0x65767152=~z~Johnny, it's Clay.
-0x65767152=~z~Johnny，是我，Clay。
+0x65767152=~z~Johnny，我是Clay。
 
 ;0x689CD286=~z~Clayton, man, I'm pushed for time and I gotta eat on the move. Some other time maybe.
-0x689CD286=~z~Clayton，哥们，我好忙，忙到边走边吃饭。别的时间再看看吧。
+0x689CD286=~z~Clayton，哥们，我忙得很，忙到只能边走边吃。改天再说吧。
 
 ;0x6B350097=E1FCC2_ACT_E1C_GETCALL_AIRHOCK_YESA
 0x6B350097=E1FCC2_ACT_E1C_GETCALL_AIRHOCK_YESA
@@ -309,25 +309,25 @@
 0x6C2F0BEE=~z~你有约了，王八玩意。
 
 ;0x6CE3B3F4=~z~Let's go get drunk.
-0x6CE3B3F4=~z~咱喝酒去。
+0x6CE3B3F4=~z~去喝个烂醉吧。
 
 ;0x6E1EDCC1=E1FCC2_ACT_E1C_GETCALL_GANGWAR_NOA
 0x6E1EDCC1=E1FCC2_ACT_E1C_GETCALL_GANGWAR_NOA
 
 ;0x7021AA82=~z~Let's have us a laugh. Wanna see a show?
-0x7021AA82=~z~咱去笑一笑吧。想不想看演出？
+0x7021AA82=~z~一起去笑一笑吧。想不想看演出？
 
 ;0x72EE164A=100
 0x72EE164A=100
 
 ;0x73F9A56B=~z~I'm usually above this shit, but something in me wants to kick the shit out of a rival gang. You in?
-0x73F9A56B=~z~我一般不掺和这些破事，但是内心总有一种感觉让我得出手干翻这帮死对头。你来不来？
+0x73F9A56B=~z~我一般不掺和这些，但我现在控制不住自己想暴打敌对帮派的念头。你来不来？
 
 ;0x740B0E7B=~z~Alright, brother. It's Clay.
 0x740B0E7B=~z~好，兄弟，我是Clay。
 
 ;0x747BF91C=~z~Sure, man. Better be funny though. I'll come by soon.
-0x747BF91C=~z~可以的，哥们。希望有点意思。我一会到。
+0x747BF91C=~z~可以，哥们。希望有点意思。我一会儿到。
 
 ;0x74907941=100
 0x74907941=100
@@ -336,7 +336,7 @@
 0x76A1DC52=E1FCC2_ACT_GETCALL_GREETA
 
 ;0x78D994CA=~z~I always got time to stick it to the man. I'll be by soon, Clay.
-0x78D994CA=~z~只要是跟兄弟玩我都有空。马上到，Clay。
+0x78D994CA=~z~只要是跟兄弟玩我都有空。我马上到，Clay。
 
 ;0x79D4670A=E1FCC2_ACT_GETCALL_SHOW_FIRSTA
 0x79D4670A=E1FCC2_ACT_GETCALL_SHOW_FIRSTA
@@ -345,19 +345,19 @@
 0x79EE35B8=010
 
 ;0x7B2B6276=~z~Don't worry about it. We'll hook up soon, Johnny K.
-0x7B2B6276=~z~没事，咱以后再约，Johnny K。
+0x7B2B6276=~z~没关系。那就以后再约吧，Johnny K。
 
 ;0x7BD05E8C=E1FCC2_ACT_GETCALL_DRINK_FIRSTA
 0x7BD05E8C=E1FCC2_ACT_GETCALL_DRINK_FIRSTA
 
 ;0x7D5EBAEF=~z~Shit, man, I've got other plans. Would have loved to whoop your hide. Another time.
-0x7D5EBAEF=~z~妈的，哥们，我有别的安排了。下次有空再叫你。
+0x7D5EBAEF=~z~妈的，哥们，我有别的安排了。可惜不能陪你躲猫猫了，改天再约吧。
 
 ;0x7DE3C5B3=E1FCC2_ACT_E1C_GETCALL_STRIP_NOA
 0x7DE3C5B3=E1FCC2_ACT_E1C_GETCALL_STRIP_NOA
 
 ;0x7DF09093=~z~Man, that's the shit that got us into this trouble. I can't, dude.
-0x7DF09093=~z~哥们，这就是咱们惹得一身骚的原因了。不行，老哥。
+0x7DF09093=~z~哥们，就是这样我们帮才会惹得一身骚。不行，老兄。
 
 ;0x7DF6AF79=~z~Let's do it.
 0x7DF6AF79=~z~咱们开始吧。
@@ -381,7 +381,7 @@
 0x8337ACD4=~z~哟，Johnny，我是Clay。
 
 ;0x8433957A=~z~Clayton, man, gonna have to rain check on the darts. Sorry.
-0x8433957A=~z~Clayton，哥们，来不了玩飞镖了，对不起。
+0x8433957A=~z~Clayton，哥们，飞镖只能改天再玩了。对不起。
 
 ;0x84562174=010
 0x84562174=010
@@ -390,22 +390,22 @@
 0x84EA9416=E1FCC2_ACT_E1C_GETCALL_RACE_YESA
 
 ;0x8680FE60=~z~Clayton, sorry man. There's just too much on my plate right now for pool.
-0x8680FE60=~z~Clayton，不好意思哥们。我现在忙，没空打台球。
+0x8680FE60=~z~Clayton，不好意思哥们。我现在很忙，没空打台球。
 
 ;0x86AF3075=~z~Alright, man. Let's kick some butt. Wait for me.
-0x86AF3075=~z~好的，哥们。嗨起来。等我啊。
+0x86AF3075=~z~好啊，哥们。一起参赛吧。等我啊。
 
 ;0x87458B5A=E1FCC2_ACT_E1C_CALL_GANGWAR_CANCELA
 0x87458B5A=E1FCC2_ACT_E1C_CALL_GANGWAR_CANCELA
 
 ;0x89B2DDF6=~z~Clay, you know I wanna contribute to those girls' colledge funds, but you're gonna have to go alone.
-0x89B2DDF6=~z~Clay，你晓得我也想给那些女的交大学学费，但是你只能自己去了。
+0x89B2DDF6=~z~Clay，其实我也想援助那些姑娘上大学，不过恐怕你得自己去了。
 
 ;0x8A570610=~z~Can't play pool right now, Clayton. I got things need doin'.
 0x8A570610=~z~现在没空打台球，Clayton。我还有事要忙。
 
 ;0x8AE63C8D=~z~Johnny, when's the last time we represented The Lost MC in an ass-whoopin' competition together? How bout it?
-0x8AE63C8D=~z~Johnny，咱上次代表失落帮参加那狗屁赛车比赛是啥时候来着？还来不来？
+0x8AE63C8D=~z~Johnny，咱上次代表失落帮参加狗屁赛车是啥时候来着？还来不来？
 
 ;0x8CF5E648=~z~Alright, brother. Call me when you got the time.
 0x8CF5E648=~z~行吧，兄弟。你有空再叫我吧。
@@ -417,28 +417,28 @@
 0x8DB0B1E8=E1FCC2_ACT_GETCALL_SHOWA
 
 ;0x8F36331E=~z~Nah, man. I ain't in the mood for that petty shit. Sorry.
-0x8F36331E=~z~呐，哥们。我现在没心思弄这些琐碎事情。不好意思。
+0x8F36331E=~z~不了，哥们。我现在没心情鸟这些屁事。抱歉。
 
 ;0x90D2A2F1=~z~Sorry, amigo. Don't got the time to refuel with you right now. Later on.
-0x90D2A2F1=~z~抱歉了朋友， 现在没空跟你去操逼。再见。
+0x90D2A2F1=~z~抱歉了朋友，我现在没空陪你补充能量。再见。
 
 ;0x91FF45FF=E1FCC2_ACT_GETCALL_GANGWARA
 0x91FF45FF=E1FCC2_ACT_GETCALL_GANGWARA
 
 ;0x95B9B886=~z~Hate to do it, Clay. But we're gonna have to save your darts lesson for another time.
-0x95B9B886=~z~我也不想这样，Clay。你的飞镖课得以后再上了。
+0x95B9B886=~z~我也不想这样，Clay。但你的飞镖课得以后再上了。
 
 ;0x95FC96E0=E1FCC2_ACT_GETCALL_STRIPA
 0x95FC96E0=E1FCC2_ACT_GETCALL_STRIPA
 
 ;0x9775797B=~z~As much as I love to watch you drool, Clay. I can't come to the strip club right now. Another time.
-0x9775797B=~z~虽然我很喜欢看你流口水的样子，Clay，但现在我来不了脱衣舞俱乐部了。另外找时间吧。
+0x9775797B=~z~虽然我很想看你流口水的样子，Clay，但我现在去不了脱衣舞俱乐部。改天吧。
 
 ;0x981D46FA=010
 0x981D46FA=010
 
 ;0x983651F3=~z~Sure man. Let's do some hustling on the tables. I'll come get you.
-0x983651F3=~z~可以的哥们。咱们去赌几把。我来接你了。
+0x983651F3=~z~好啊哥们。在台球桌上好好比一场吧。我来找你了。
 
 ;0x9851642E=~z~I'm in.
 0x9851642E=~z~我来了。
@@ -456,22 +456,22 @@
 0xA1F3F16D=100
 
 ;0xA27E0D09=~z~Clay, dude, I'm sorry but I gotta cancel the air hockey.
-0xA27E0D09=~z~Clay，老哥，真不好意思，我来不了玩桌上冰球了。
+0xA27E0D09=~z~Clay，老兄，真不好意思，但我没法玩桌上冰球了。
 
 ;0xA329628E=010
 0xA329628E=010
 
 ;0xA5E45EA4=~z~Hey, Clayton, I'm cancelling on you, dude. You're gonna have to play pocket pool instead.
-0xA5E45EA4=~z~嘿，Clayton，我来不了啦，老哥。你替我去打台球吧。
+0xA5E45EA4=~z~嘿，Clayton，我来不了啦，老兄。你只能自己玩球去了。
 
 ;0xA6997F59=~z~You hungry? Wanna go get some food?
-0xA6997F59=~z~你饿了？想不想去吃东西？
+0xA6997F59=~z~你饿了吗？想不想去吃东西？
 
 ;0xAA39F2A5=~z~Alright, Clayton. I'll join you for a drink or eighteen. See ya soon.
-0xAA39F2A5=~z~好的，Clayton。我来找你喝酒，或者干点大人该干的事情。一会见。
+0xAA39F2A5=~z~好的，Clayton。我来陪你喝上几杯。一会儿见。
 
 ;0xAAF04F59=~z~Don't think I'm turning into a peace loving hippie or nothing, but I got to cancel on that fighting we were gonna do.
-0xAAF04F59=~z~一会的战斗我来不了啦，不过你可别以为我变成了个爱好和平的嬉皮士或别的就行。
+0xAAF04F59=~z~一会的战斗我来不了了，不过你可别以为我成了爱好和平的嬉皮士啥的。
 
 ;0xACA08703=010
 0xACA08703=010
@@ -483,31 +483,31 @@
 0xAE8EF015=010
 
 ;0xB041E1F6=~z~Jonathan. There ain't no better way to catch up with a brother than to share a drink with him. You wanna get shit canned?
-0xB041E1F6=~z~Jonathan。跟兄弟相处，没啥比一起喝酒更好的方法了。你想不想来几杯？
+0xB041E1F6=~z~Jonathan。和兄弟联络感情，最好的方法还是一起喝酒。你想不想来几杯？
 
 ;0xB0824729=010
 0xB0824729=010
 
 ;0xB2106685=~z~Church is in session. We should be there.
-0xB2106685=~z~会所那在嗨呢。咱要过那去。
+0xB2106685=~z~会所那在嗨呢。我们也不能落下。
 
 ;0xB3372717=E1FCC2_ACT_GETCALL_EATA
 0xB3372717=E1FCC2_ACT_GETCALL_EATA
 
 ;0xB4063019=~z~Fuck, man, sorry but I ain't got the time to play air hockey with you.
-0xB4063019=~z~操，哥们，真不好意思我没空来跟你玩桌上冰球了。
+0xB4063019=~z~操，哥们，很抱歉，我没空陪你打桌上冰球了。
 
 ;0xB7680D01=~z~I'll go drinking with you, man. Just don't try and get in my shorts when all the old ladies turn you down.
-0xB7680D01=~z~我跟你喝酒去，哥们。只不过到时那的姐姐们都拒绝你的时候，别害羞得钻进我裤裆里就行。
+0xB7680D01=~z~我陪你喝，哥们。不过万一到时候你被那些老女人拒绝了，别害羞得钻进我裤裆里就行。
 
 ;0xB925EBC4=~z~Man, sorry, but I ain't in the mood to kick anyone's ass right now.
-0xB925EBC4=~z~哥们，抱歉了，我现在没心情出来嗨。
+0xB925EBC4=~z~哥们，抱歉了，但我现在没心情打人。
 
 ;0xB981A4D2=100
 0xB981A4D2=100
 
 ;0xBA504EC4=~z~Let's go drinking.
-0xBA504EC4=~z~咱喝酒去。
+0xBA504EC4=~z~一起去喝酒吧。
 
 ;0xBABF033A=E1FCC2_ACT_E1C_GETCALL_DRINK_NOA
 0xBABF033A=E1FCC2_ACT_E1C_GETCALL_DRINK_NOA
@@ -519,7 +519,7 @@
 0xBC9229E2=E1FCC2_ACT_GETCALL_RACE_NO
 
 ;0xBE724716=~z~Let's go to a show.
-0xBE724716=~z~咱看演出去。
+0xBE724716=~z~一起去看演出吧。
 
 ;0xBEE2C909=010
 0xBEE2C909=010
@@ -531,28 +531,28 @@
 0xC27E79F5=100
 
 ;0xC2E8B95C=~z~You're on.
-0xC2E8B95C=~z~你出来吧。
+0xC2E8B95C=~z~说定了。
 
 ;0xC528958A=E1FCC2_ACT_E1C_GETCALL_HANGOUT_YESA
 0xC528958A=E1FCC2_ACT_E1C_GETCALL_HANGOUT_YESA
 
 ;0xC5B923D8=~z~Much as I'd love to kick your butt, I can't play hockey now, Clay.
-0xC5B923D8=~z~我也想出来嗨啊，但是现在我打不了冰球，Clay。
+0xC5B923D8=~z~我也想来吊打你，但我现在打不了冰球，Clay。
 
 ;0xC7131980=~z~Get your ass here, Johnny.
 0xC7131980=~z~过来吧，Johnny。
 
 ;0xC9B9958A=~z~Johnny, man. How long has it been since you gave old Clay a call?
-0xC9B9958A=~z~Johnny，哥们。你都多久没给你Clay老哥打电话了？
+0xC9B9958A=~z~Johnny，哥们。你都多久没给你Clay老兄打电话了？
 
 ;0xCD20C044=E1FCC2_ACT_E1C_GETCALL_HANGOUT_NOA
 0xCD20C044=E1FCC2_ACT_E1C_GETCALL_HANGOUT_NOA
 
 ;0xCD78D738=~z~Ha ha. You old pussy hound, Clay. I'll keep you company at the strip club. I'll be by soon.
-0xCD78D738=~z~哈哈。你个老色逼，Clay。我跟你去脱衣舞俱乐部吧。马上到。
+0xCD78D738=~z~哈哈。你个老色批，Clay。我跟你去脱衣舞俱乐部吧。马上就到。
 
 ;0xCD8506DD=~z~Clay, man, I got some bad news. You aren't gonna have me wing-manning you at the gentleman's club. Sorry.
-0xCD8506DD=~z~Clay，哥们，有个坏消息。我来不了绅士俱乐部当你的僚机了。不好意思哈。
+0xCD8506DD=~z~Clay，哥们，有个坏消息。我没法来绅士俱乐部当你的僚机了。对不住了。
 
 ;0xD09EAE38=E1FCC2_ACT_GETCALL_DRINKA
 0xD09EAE38=E1FCC2_ACT_GETCALL_DRINKA
@@ -564,25 +564,25 @@
 0xD3821210=100
 
 ;0xD5242163=~z~Much as I'd love to have seen you sucking down my exhaust fumes, I'm pulling outta that race, man. Sorry.
-0xD5242163=~z~虽然我也很想看你在我后面吃灰，但我还是来不了赛车啦，哥们。抱歉。
+0xD5242163=~z~虽然我很想看你吃我的尾气，但我还是不来赛车了，哥们。抱歉。
 
 ;0xD5732422=~z~Yo, Johnny. It's been a while since we played darts, man.
-0xD5732422=~z~哟，Johnny。咱好久没玩飞镖啦，哥们。
+0xD5732422=~z~哟，Johnny。好久没一起玩飞镖了，哥们。
 
 ;0xD859BC0D=~z~I'll be waitin'.
-0xD859BC0D=~z~我等着嗷。
+0xD859BC0D=~z~我等着你。
 
 ;0xD9050BBB=~z~How bout we go see some naked ladies?
-0xD9050BBB=~z~咱去看看脱衣小妹怎样？
+0xD9050BBB=~z~一起去去看脱衣小妹怎样？
 
 ;0xD96772FF=~z~Sorry, Clay, I can't. Don't think my license can take another fast riding award. Ha ha ha.
-0xD96772FF=~z~不好意思，Clay，来不了。别以为我这车技有多大出息了。哈哈哈。
+0xD96772FF=~z~不好意思，Clay，来不了。再来一张超速奖状我的驾照就保不住了。哈哈哈。
 
 ;0xDAF44E4E=~z~I'm too busy for air hockey right now, Clay.
 0xDAF44E4E=~z~我现在很忙，没空打球，Clay。
 
 ;0xDB156864=~z~Let's go get some food.
-0xDB156864=~z~咱去吃点东西吧。
+0xDB156864=~z~一起去吃点东西吧。
 
 ;0xDBB6B398=E1FCJ2_AA
 0xDBB6B398=E1FCJ2_AA
@@ -591,10 +591,10 @@
 0xDC6FC5B4=100
 
 ;0xDC818B20=~z~Cold, brother, cold. I'll see you when I see you.
-0xDC818B20=~z~太无情了，兄弟。太无情了。咱们随缘吧。
+0xDC818B20=~z~无情啊，兄弟，太无情了。咱们有缘再会吧。
 
 ;0xDF9EC096=~z~Shit, Johnny. Let's spend some quality time together.
-0xDF9EC096=~z~妈的，Johnny。咱们一起嗨去。
+0xDF9EC096=~z~妈的，Johnny。咱们一起去嗨吧。
 
 ;0xDFC520AA=100
 0xDFC520AA=100
@@ -612,7 +612,7 @@
 0xE64F581E=100
 
 ;0xE89D203D=~z~How bout we play pool?
-0xE89D203D=~z~咱们打打台球咋样？
+0xE89D203D=~z~要不要去打会儿台球？
 
 ;0xE9565825=E1FCC2_ACT_GETCALL_POOLA
 0xE9565825=E1FCC2_ACT_GETCALL_POOLA
@@ -624,7 +624,7 @@
 0xEA097009=010
 
 ;0xEA4EA6BA=~z~Why you do me like this, Jonathan? Shit, I cancelled on some bitches on account of you.
-0xEA4EA6BA=~z~你咋这样的呢，Jonathan？你他妈的，为了你我还推掉了和好几个婊子约的炮。
+0xEA4EA6BA=~z~你怎么这么对我，Jonathan？他妈的，为了你我还推掉了跟好几个婊子的约会。
 
 ;0xEAE3E19E=010
 0xEAE3E19E=010
@@ -639,7 +639,7 @@
 0xEFAF8A85=010
 
 ;0xF01EF318=~z~Clayton, I gotta cancel on that pool we had planned. Sorry.
-0xF01EF318=~z~Clayton，我来不了打球了。不好意思。
+0xF01EF318=~z~Clayton，我没法来打台球了。不好意思。
 
 ;0xF03866FC=E1FCC2_ACT_E1C_CALL_DRINK_CANCELA
 0xF03866FC=E1FCC2_ACT_E1C_CALL_DRINK_CANCELA
@@ -654,13 +654,13 @@
 0xF373D511=E1FCC2_ACT_E1C_GETCALL_GANGWAR_YESA
 
 ;0xF4411E04=~z~Let's throw us some darts.
-0xF4411E04=~z~咱玩几把飞镖去。
+0xF4411E04=~z~一起去投两镖吧。
 
 ;0xF44E8F7D=E1FCC2_ACT_GETCALL_VERYIRATEA
 0xF44E8F7D=E1FCC2_ACT_GETCALL_VERYIRATEA
 
 ;0xF6F83881=~z~Maybe if you got your pie hole filled, you might not need to tell me bout all that pussy your getting. I'll come get you shortly.
-0xF6F83881=~z~你要是已经吃上了，就不用告诉我了。我马上来接你。
+0xF6F83881=~z~如果把你的嘴塞满了，估计我就不用听你逼逼你那些马子了。我马上来找你。
 
 ;0xF7F4CA6D=E1FCC2_ACT_GETCALL_GANGWAR_FIRSTA
 0xF7F4CA6D=E1FCC2_ACT_GETCALL_GANGWAR_FIRSTA
@@ -672,7 +672,7 @@
 0xF82411BA=E1FCC2_ACT_E1C_CALL_POOL_CANCELA
 
 ;0xF92F0111=~z~I hope you didn't lay the table, man. I can't eat with you no more. Sorry
-0xF92F0111=~z~希望你还没上菜，哥们。我不能来吃饭了。抱歉。
+0xF92F0111=~z~希望你还没摆上餐具，哥们。我不能来吃饭了。抱歉。
 
 ;0xF942258C=~z~How about we go racing. Tear up this city, man.
 0xF942258C=~z~咱去赛车怎么样？把这城市闹翻天，哥们。
@@ -684,13 +684,13 @@
 0xFA649DA2=E1FCC2_ACT_E1C_CALL_RACE_CANCELA
 
 ;0xFAF801CE=~z~Shit, dude, it's a bumout but I can't make it to the clubhouse no more.
-0xFAF801CE=~z~妈的，老哥，虽然很想去脱衣舞俱乐部，但还是懒得来了。
+0xFAF801CE=~z~妈的，老兄，很不好意思，但我没法来会所了。
 
 ;0xFBB718F3=~z~I wouldn't mind taking you to pool school, Clay. I'll be by soon.
-0xFBB718F3=~z~我不介意教教你打台球，Clay。马上到。
+0xFBB718F3=~z~我不介意教教你打台球，Clay。我马上到。
 
 ;0xFC22B0AE=~z~Clayton? Actually, man, I don't got time to see a show with you. Sorry.
-0xFC22B0AE=~z~Clayton？说真的，哥们，我没啥时间跟你去看演出。不好意思。
+0xFC22B0AE=~z~Clayton？其实吧，哥们，我没时间跟你去看演出。不好意思。
 
 ;0xFD1875A2=E1FCC2_ACT_E1C_GETCALL_STRIP_YESA
 0xFD1875A2=E1FCC2_ACT_E1C_GETCALL_STRIP_YESA
@@ -699,7 +699,7 @@
 0xFDEED20B=E1FCC2_ACT_E1C_CALL_STRIP_CANCELA
 
 ;0xFEA56919=~z~Clayton, my brother. You're gonna have to cruise for pussy at the strip club all by your lonesome. I can't come, man.
-0xFEA56919=~z~Clayton，好兄弟，你自己去脱衣舞俱乐部找逼操吧。我来不了了，哥们。
+0xFEA56919=~z~Clayton，好兄弟，你自己去脱衣舞俱乐部找娘们吧。我来不了了，哥们。
 
 ;0xFF956670=100
 0xFF956670=100
