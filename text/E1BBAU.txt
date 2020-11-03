@@ -27,10 +27,10 @@
 0x05B3154E=E1BB_AC
 
 ;0x0682C517=~z~Shame to miss it!
-0x0682C517=~z~Shame to miss it!
+0x0682C517=~z~错过了真丢人！
 
 ;0x06E5CDA5=~z~Before brothers started believing their own bullshit. Come on!
-0x06E5CDA5=~z~Before brothers started believing their own bullshit. Come on!
+0x06E5CDA5=~z~在兄弟们相信自己的屁话之前。上啊！
 
 ;0x07052268=SFX_PAUSE_220
 0x07052268=SFX_PAUSE_220
