@@ -9,7 +9,7 @@
 0x01D782F3=SFX_PAUSE_300
 
 ;0x026EE47F=~z~Unless you're Terrence here and you're eating asphalt after every corner.
-0x026EE47F=~z~Unless you're Terrence here and you're eating asphalt after every corner.
+0x026EE47F=~z~除非你是Terrence而且还在每个转弯都在柏油路上摔个狗吃屎。
 
 ;0x04A3ACFF=E1BB_BC
 0x04A3ACFF=E1BB_BC
