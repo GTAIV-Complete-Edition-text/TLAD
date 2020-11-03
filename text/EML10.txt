@@ -1,82 +1,82 @@
 ﻿[EML10]
 ;0x093EFF40=Hey baby,
-0x093EFF40=Hey baby,
+0x093EFF40=嘿宝贝儿，
 
 ;0x0DBF3EFD=Man, i fucked things up. I know I did. But you weren't a saint. You weren't. You're who you are, and you do bad shit. and hanging out with you made me do bad shit, even though it ain't your fault. but i did bad shit to you, because you were my world. i thought you would kill me and you didn't. so that makes you a better person than some. i'm so glad we are friends now.
-0x0DBF3EFD=Man, i fucked things up. I know I did. But you weren't a saint. You weren't. You're who you are, and you do bad shit. and hanging out with you made me do bad shit, even though it ain't your fault. but i did bad shit to you, because you were my world. i thought you would kill me and you didn't. so that makes you a better person than some. i'm so glad we are friends now.
+0x0DBF3EFD=亲爱的，我是个烂人，这我知道。但你也不是什么圣贤。你就是你，你做破事，而跟你一起厮混害的我也整了一堆破事，尽管这不是你的错。我做蠢事拖你下水，因为你就是我的全部。我以为你会杀了我但你没有，这就说明你比某些人强多了。我很高兴我们现在是朋友。
 
 ;0x10A50343=I ain't in the mood for internet chit chat, Ash. Have a nice life. Johnny.
-0x10A50343=I ain't in the mood for internet chit chat, Ash. Have a nice life. Johnny.
+0x10A50343=我现在没心情在网上唠嗑，小艾。祝你幸福。Johnny。
 
 ;0x10ED8ED9=Hey boy,
-0x10ED8ED9=Hey boy,
+0x10ED8ED9=嘿大男孩，
 
 ;0x1D55A7A9=Johnny boy,
-0x1D55A7A9=Johnny boy,
+0x1D55A7A9=亲爱的Johnny，
 
 ;0x3335D369=Hey baby,
-0x3335D369=Hey baby,
+0x3335D369=嘿宝贝，
 
 ;0x3D1C5C31=Ash, Ain't much point going over shit again. Whole world we live in is fucked up and we belong in that world. Things weren't meant to be, and I don't seem to be the family man type. I'm your friend, nothing more. Not ever. I can't watch you do any more drugs. Good luck staying clean this time. Johnny.
-0x3D1C5C31=Ash, Ain't much point going over shit again. Whole world we live in is fucked up and we belong in that world. Things weren't meant to be, and I don't seem to be the family man type. I'm your friend, nothing more. Not ever. I can't watch you do any more drugs. Good luck staying clean this time. Johnny.
+0x3D1C5C31=小艾，干那些蠢事没多大意义。我们所在的这个世界就是狗屁但我们还就属于它。事情不应该这样的，而我也不是什么居家好男人。我们是朋友，但仅此而已，不复以往了。我不能眼睁睁看你继续吸更多的毒品了。祝你好运，这段时间洁身自好。Johnny
 
 ;0x496973A2=Good luck Ashley. Please don't contact me again.
-0x496973A2=Good luck Ashley. Please don't contact me again.
+0x496973A2=祝你好运Ashley。 请不要再联系我了。
 
 ;0x56A29A42=Johnny boy,
-0x56A29A42=Johnny boy,
+0x56A29A42=Johnny大男孩，
 
 ;0x5C3461DD=Your friend,
-0x5C3461DD=Your friend,
+0x5C3461DD=你的朋友，
 
 ;0x624DB198=Dearest Johnny,
-0x624DB198=Dearest Johnny,
+0x624DB198=亲爱的Johnny，
 
 ;0x66B1AE32=Fuck off!
-0x66B1AE32=Fuck off!
+0x66B1AE32=滚！
 
 ;0x71DF0D36=Your friend,
 0x71DF0D36=Your friend,
 
 ;0x7FF68C03=Good luck Ashley. Please stay the fuck away from me.
-0x7FF68C03=Good luck Ashley. Please stay the fuck away from me.
+0x7FF68C03=祝你好运Ashley。请离我他妈的远点。
 
 ;0x8011A99B=Yours,
 0x8011A99B=Yours,
 
 ;0x92EBB1ED=I don't care, Ash. Stay away from me. Please.
-0x92EBB1ED=I don't care, Ash. Stay away from me. Please.
+0x92EBB1ED=我不在乎，小艾。离我远点，求你了。
 
 ;0xB4AD8CCF=i fucked up. it weren't my fault. i got thrown out of the facility. it weren't my coke. I love you, Johnny. i love you. drugs ain't shit. you're my drug. Listen, Johnny, can i borrow some money, for a few days? I miss you. i miss you so much.
-0xB4AD8CCF=i fucked up. it weren't my fault. i got thrown out of the facility. it weren't my coke. I love you, Johnny. i love you. drugs ain't shit. you're my drug. Listen, Johnny, can i borrow some money, for a few days? I miss you. i miss you so much.
+0xB4AD8CCF=我的人生乱七八糟。这不能怪我，我被从那设施里赶了出来。那不是我的可卡因。我爱你，Johnny。我爱你。毒品不是坏东西，你就是我的毒品。呃，Johnny，你能借我点钱吗，就几天？我想念你，想得肝肠寸断。
 
 ;0xB84B9417=it makes me happy to know you're on my side and even though we ain't together and we both fucked this thing up, we are at least friends. i'm off the drugs, Johnny boy. i'm off them. i don't want to get high no more. Not ever. i'm sorting myself out. i'm even exercising. i went running yesterday. i was nearly a model, one time.
-0xB84B9417=it makes me happy to know you're on my side and even though we ain't together and we both fucked this thing up, we are at least friends. i'm off the drugs, Johnny boy. i'm off them. i don't want to get high no more. Not ever. i'm sorting myself out. i'm even exercising. i went running yesterday. i was nearly a model, one time.
+0xB84B9417=尽管咱们已经分手了，但你能站在我这边还是让我很高兴。我们都搞得一团糟，但我们至少还是朋友。我戒毒了，Johnny亲，我不再需要它们了，我再也不想吸翻天了，再也不想。我要重回正轨了。我甚至都开始运动了。我昨天去跑步了，我当时都觉得自己像是个模特，有生以来的头一次。
 
 ;0xBA959E96=Your friend,
-0xBA959E96=Your friend,
+0xBA959E96=你的朋友，
 
 ;0xBE77A063=I checked into rehab again last week. i feel rough, but this time it's going to stick, i know it.
-0xBE77A063=I checked into rehab again last week. i feel rough, but this time it's going to stick, i know it.
+0xBE77A063=我上周又去戒毒了。我觉得这很困难，但我知道坚持才是胜利。
 
 ;0xC9483BFB=Yours,
-0xC9483BFB=Yours,
+0xC9483BFB=
 
 ;0xCE10458B=Your friend,
-0xCE10458B=Your friend,
+0xCE10458B=你的朋友，
 
 ;0xD7821BC7=Hey boy,
-0xD7821BC7=Hey boy,
+0xD7821BC7=嘿大男孩，
 
 ;0xDB9AE0AC=Yours,
-0xDB9AE0AC=Yours,
+0xDB9AE0AC=
 
 ;0xDCBDE2E6=Yours,
-0xDCBDE2E6=Yours,
+0xDCBDE2E6=
 
 ;0xE73971F2=i'm going to go to college or something. Give back. i miss you. it won't never be the same without you, but it's the way it's got to be. i know that. we both did bad shit and we hurt each other and people who love each other ain't meant to hurt each other.
-0xE73971F2=i'm going to go to college or something. Give back. i miss you. it won't never be the same without you, but it's the way it's got to be. i know that. we both did bad shit and we hurt each other and people who love each other ain't meant to hurt each other.
+0xE73971F2=我要去上大学或者做些别的什么，重回正轨。我想念你。没有你事情完全不会这样，但事情会这样发展的。我知道的。我们都做过蠢事，我们都互相伤害，而互相爱慕的人并不会故意互相伤害的。
 
 ;0xE9E7C092=Dearest Johnny,
-0xE9E7C092=Dearest Johnny,
+0xE9E7C092=亲爱的
 
