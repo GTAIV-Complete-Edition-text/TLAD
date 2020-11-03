@@ -1,55 +1,56 @@
 ﻿[EML14]
 ;0x2915EAE3=Firm dreams.
-0x2915EAE3=Firm dreams.
+0x2915EAE3=坚实的梦想。
 
 ;0x2D2170E5=Hello
-0x2D2170E5=Hello
+0x2D2170E5=你好
 
 ;0x364E8554=Firm dreams.
-0x364E8554=Firm dreams.
+0x364E8554=坚实的梦想。
 
 ;0x7B600D61=Hello
-0x7B600D61=Hello
+0x7B600D61=你好
 
 ;0x81E11C74=Firm dreams.
-0x81E11C74=Firm dreams.
+0x81E11C74=坚实的梦想。
 
 ;0x89292B08=Firm dreams.
-0x89292B08=Firm dreams.
+0x89292B08=坚实的梦想。
 
 ;0x938ABFC7=Firm dreams.
-0x938ABFC7=Firm dreams.
+0x938ABFC7=坚实的梦想。
 
 ;0xA520E2F7=Firm dreams.
-0xA520E2F7=Firm dreams.
+0xA520E2F7=坚实的梦想。
 
 ;0xAFBBF618=Hello
-0xAFBBF618=Hello
+0xAFBBF618=你好
 
 ;0xB5F31D4E=My hips dont boil slow or ginger child like brother.I hope my words does not remane without your atention.I have many phots for your accesing my flower and beauty. Fasten my obsticals and I will make good wife for you and your freinds.
-0xB5F31D4E=My hips dont boil slow or ginger child like brother.I hope my words does not remane without your atention.I have many phots for your accesing my flower and beauty. Fasten my obsticals and I will make good wife for you and your freinds.
+0xB5F31D4E=我的屁股冲击力超强，也不会让人没有感觉。我希望我的话不会被你忽略。我有很多照片，能让你一睹我的娇躯和玉体。系牢我的紧身衣，我可以成为你和你的朋友的好妻子。
 
 ;0xC2AD9BFF=Hello
-0xC2AD9BFF=Hello
+0xC2AD9BFF=你好
 
 ;0xC4B5BAD3=I like you hot lion.My name Elena of 22 years and you interest me greatly.My brother born with arms like pengwin and canot work so good.I see many problims in my life and I search the genrous man for love.Shaky!I make the good omeletes and dance the go go.I speak the full english from the movies and I have nice mound strong for baby.
-0xC4B5BAD3=I like you hot lion.My name Elena of 22 years and you interest me greatly.My brother born with arms like pengwin and canot work so good.I see many problims in my life and I search the genrous man for love.Shaky!I make the good omeletes and dance the go go.I speak the full english from the movies and I have nice mound strong for baby.
+0xC4B5BAD3=我喜欢你，火辣的雄狮。我叫Elena，22岁了，我对你很感性趣。我哥哥的鸟小的可怜，功能残缺。我的生活诸事不顺，期待着一个大方的男人带给我稳稳的爱。抖抖！我做得一手好蛋卷还很会跳go go舞。我完全是从电影中学的英语，我还有一对适合婴儿的大山丘。
 
 ;0xD19539CE=Hello
-0xD19539CE=Hello
+0xD19539CE=你好
 
 ;0xD5E04471=Firm dreams.
-0xD5E04471=Firm dreams.
+0xD5E04471=坚实的梦想。
 
 ;0xD6D3444A=Hello
-0xD6D3444A=Hello
+0xD6D3444A=你好
 
 ;0xE617E2D3=Hello
-0xE617E2D3=Hello
+0xE617E2D3=你好
 
 ;0xEFEE788D=Firm dreams.
-0xEFEE788D=Firm dreams.
+0xEFEE788D=坚实的梦想。
 
 ;0xFC708F84=Hello
-0xFC708F84=Hello
+0xFC708F84=你好
+
 
