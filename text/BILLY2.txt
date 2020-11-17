@@ -1,42 +1,42 @@
 ﻿[BILLY2]
 ;0x306BA416=~r~Billy is dead.
-0x306BA416=~r~Billy死了.
+0x306BA416=~r~Billy死了。
 
 ;0x3436D943=~s~Die motherfuckers!
-0x3436D943=~s~去死吧，狗娘养的
+0x3436D943=~s~去死吧，狗娘养的！
 
 ;0x5609804B=~s~Get on the ~b~bike.
-0x5609804B=~s~骑上你的~b~摩托
+0x5609804B=~s~骑上~b~摩托。
 
 ;0x664ABF3C=~s~The sawn-off shotgun can be fired from the motorbike by pressing ~INPUT_VEH_ATTACK~.
-0x664ABF3C=~s~你可以在骑摩托的时候按~INPUT_VEH_ATTACK~来使用短管霰弹枪.
+0x664ABF3C=~s~短管霰弹枪可在骑摩托时使用，按~INPUT_VEH_ATTACK~开火。
 
 ;0x6AD6344D=~s~Meet ~y~Billy.
-0x6AD6344D=~s~去见~y~Billy.
+0x6AD6344D=~s~去找~y~Billy。
 
 ;0x79150269=~r~Jason is dead.
-0x79150269=~r~Jason死了
+0x79150269=~r~Jason死了。
 
 ;0x832D6D70=~s~Chase the ~r~Angels of Death~s~ and take them out.
-0x832D6D70=~s~追 ~r~死亡天使~s~ 并制服他们
+0x832D6D70=~s~追逐~r~死亡天使成员，~s~干掉他们。
 
 ;0x972AE64C=~r~You lost the Angels of Death.
-0x972AE64C=~r~你跟丢了死亡天使
+0x972AE64C=~r~你跟丢了死亡天使。
 
 ;0xAE2CF676=~s~Leave the Angels of Death's turf and meet ~y~Billy.
-0xAE2CF676=~s~离开死亡天使的营地去见~y~Billy.
+0xAE2CF676=~s~离开死亡天使的地盘，去找~y~Billy。
 
 ;0xC3FC112B=~r~Your bike was wrecked.
-0xC3FC112B=~r~你的摩托完蛋了
+0xC3FC112B=~r~你的摩托坏了。
 
 ;0xD8B44061=~s~The ~r~A.O.D.~s~ are getting away.
-0xD8B44061=~r~死亡天使~s~正在逃跑
+0xD8B44061=~r~死亡天使~s~正在逃跑。
 
 ;0xDBEB2A1A=~r~You abandoned your bike.
-0xDBEB2A1A=~r~你丢下了你的摩托
+0xDBEB2A1A=~r~你抛弃了你的摩托。
 
 ;0xDC5D2EAC=~s~Burn in hell Angels!
-0xDC5D2EAC=~s~下地狱吧，“天使”！
+0xDC5D2EAC=~s~下地狱吧，「天使」！
 
 ;0xF2D1DB95=~s~Take that you pricks!
 0xF2D1DB95=~s~尝尝这个，混蛋！

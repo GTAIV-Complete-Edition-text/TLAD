@@ -1,118 +1,118 @@
 ﻿[BILLY6]
 ;0x0B5DF274=Lose the cops.
-0x0B5DF274=甩掉警察
+0x0B5DF274=甩掉条子。
 
 ;0x0D1A29A3=~s~Lose the cops.
-0x0D1A29A3=~s~甩掉警察
+0x0D1A29A3=~s~甩掉条子。
 
 ;0x0F0771A5=Protect ~b~Billy~s~.
-0x0F0771A5=保护~b~Billy~s~.
+0x0F0771A5=保护~b~Billy。
 
 ;0x16397E97=~s~Leave the vehicle and get to your ~b~bike.~s~
-0x16397E97=~s~离开车辆，并骑上你的~b~摩托~s~
+0x16397E97=~s~离开车辆，骑上你的~b~摩托。
 
 ;0x1D8D1C7E=~s~Go to your ~y~turf.~s~
-0x1D8D1C7E=~s~去你的~y~地盘~s~
+0x1D8D1C7E=~s~前往你的~y~地盘。
 
 ;0x217523BE=~r~Jim's bike was wrecked.
-0x217523BE=~r~Jim的车完蛋了
+0x217523BE=~r~Jim的车坏了。
 
 ;0x28EEA520=~s~Go to ~y~Feldspar Street.~s~
-0x28EEA520=~s~去~y~Feldspar Street.~s~
+0x28EEA520=~s~前往~y~Feldspar街。
 
 ;0x2E817F92=~r~You lost Billy.
-0x2E817F92=~r~你跟丢了Billy
+0x2E817F92=~r~你跟丢了Billy。
 
 ;0x31381129=~s~Race the Lost crew to the ~y~meet.~s~
-0x31381129=~s~在~y~会面~s~的路上和失落摩托帮成员竞速
+0x31381129=~s~与失落帮成员比赛谁先到达~y~会面地点。
 
 ;0x33009284=~s~Go to ~b~Billy.~s~
-0x33009284=~s~去找~b~Billy.~s~
+0x33009284=~s~去找~b~Billy。~s~
 
 ;0x46E070D8=~s~Get to ~b~Billy~s~ before you lose him.
-0x46E070D8=~s~在你跟丢之前跟上~b~Billy~s~ 
+0x46E070D8=~s~在跟丢之前跟上~b~Billy。 
 
 ;0x492C2358=~r~Brian's bike was wrecked.
-0x492C2358=~r~Brian的车完蛋了
+0x492C2358=~r~Brian的车坏了。
 
 ;0x4AD6651B=~r~Brian is dead.
-0x4AD6651B=~r~Brian死了
+0x4AD6651B=~r~Brian死了。
 
 ;0x5096C292=~s~Jump to the ~y~scaffold~s~ below.
-0x5096C292=~s~跳到下面的~y~脚手架~s~ 上
+0x5096C292=~s~跳到下面的~y~脚手架~s~上。
 
 ;0x5BBF126A=~r~Billy is dead.
-0x5BBF126A=~r~Billy死了
+0x5BBF126A=~r~Billy死了。
 
 ;0x634D1E73=~r~Billy's bike was wrecked.
-0x634D1E73=~r~Billy的车完蛋了
+0x634D1E73=~r~Billy的车坏了。
 
 ;0x74BBFD1E=~r~Your bike was wrecked.~s~
-0x74BBFD1E=~r~你的车完蛋了.~s~
+0x74BBFD1E=~r~你的摩托坏了。
 
 ;0x771BCCFC=~s~Follow ~b~Jim.~s~
-0x771BCCFC=~s~跟着~b~Jim.~s~
+0x771BCCFC=~s~跟着~b~Jim。
 
 ;0x7746B748=~s~Follow ~b~Jim.~s~
-0x7746B748=~s~跟着~b~Jim.~s~
+0x7746B748=~s~跟着~b~Jim。
 
 ;0x836E91AC=~s~Stay close to the group of bikers you are leading as Chapter President to talk with them.~s~
-0x836E91AC=~s~跟紧和你作为分部首领带领的车手来和他们谈话~s~
+0x836E91AC=~s~接近车队中的成员才能与他们对话。
 
 ;0x88E40153=When leading a group of bikers, hold ~INPUT_VEH_CIN_CAM~ to switch the camera to the group point of view.
-0x88E40153=当带领一队车手时， 按~INPUT_VEH_CIN_CAM~ 来切换到团队视角
+0x88E40153=带领车队时，按住~INPUT_VEH_CIN_CAM~切换至车队视角。
 
 ;0x8C7875B7=Billy's bike was lost.
-0x8C7875B7=Billy的车丢失了
+0x8C7875B7=Billy的摩托丢了。
 
 ;0x954974FE=~s~Get through the ~s~cops.~s~
-0x954974FE=~s~干掉~s~警察~s~
+0x954974FE=~s~干掉~s~警察。
 
 ;0x973CEBB1=~s~Go to the front of the ~y~building.~s~
-0x973CEBB1=~s~去~y~建筑.~s~的前面
+0x973CEBB1=~s~前往~y~建筑前端。
 
 ;0x9AB3B98B=~r~Jim is dead.
-0x9AB3B98B=~r~Jim死了
+0x9AB3B98B=~r~Jim死了。
 
 ;0x9F312DED=While holding ~INPUT_VEH_CIN_CAM~ use ~PAD_RSTICK_LEFTRIGHT~ to switch the camera between the different bikers in your group.
-0x9F312DED=当使用~INPUT_VEH_CIN_CAM~时， 使用~PAD_RSTICK_LEFTRIGHT~ 来切换你队伍里不同的成员视角
+0x9F312DED=按住~INPUT_VEH_CIN_CAM~时，用~PAD_RSTICK_LEFTRIGHT~在车队成员间切换视角。
 
 ;0xA1B29FB7=~s~Take care of the remaining ~r~Triads.~s~
-0xA1B29FB7=~s~处理剩下的~r~三合会~s~
+0xA1B29FB7=~s~处理剩下的~r~三合会成员。
 
 ;0xA2B9EBA2=Go back and get ~b~Jim.~s~
-0xA2B9EBA2=回去找 ~b~Jim.~s~
+0xA2B9EBA2=回去找~b~Jim。
 
 ;0xB360564B=Race against Billy to the ~y~target.~s~
-0xB360564B=在去~y~目标~s~的路上和Billy竞速
+0xB360564B=与Billy比赛谁先到达~y~目的地。
 
 ;0xBDB1E3C9=~r~You have abandoned your bike.~s~
-0xBDB1E3C9=~r~你扔下了你的车~s~
+0xBDB1E3C9=~r~你抛弃了你的摩托。
 
 ;0xD1DBBA02=~s~Place holder: Billy becomes leader.~s~
 0xD1DBBA02=~s~Place holder: Billy becomes leader.~s~
 
 ;0xD67B4A91=~s~Go to your ~b~bike.~s~
-0xD67B4A91=~s~骑上你的~b~摩托~s~
+0xD67B4A91=~s~去找你的~b~摩托。
 
 ;0xE08B0101=Follow ~b~Billy~s~ to the meet.
-0xE08B0101=跟着~b~Billy~s~ 去接头
+0xE08B0101=跟随~b~Billy~s~参加会面。
 
 ;0xE1AB8D81=~r~You abandoned Jim.~s~
-0xE1AB8D81=~r~你扔下了Jim.~s~
+0xE1AB8D81=~r~你抛弃了Jim。
 
 ;0xE774AB3A=~s~Take out the ~r~Triads.~s~
-0xE774AB3A=~s~干掉~r~三合会成员~s~
+0xE774AB3A=~s~干掉~r~三合会成员。
 
 ;0xEA9CBC30=Billy is dead.
-0xEA9CBC30=Billy死了
+0xEA9CBC30=Billy死了。
 
 ;0xF0733543=~s~Go to ~b~Jim.~s~
-0xF0733543=~s~去找~b~Jim.~s~
+0xF0733543=~s~去找~b~Jim。
 
 ;0xF5E97B64=~s~You are now Chapter President. Lead the group back to your ~y~turf.~s~
-0xF5E97B64=~s~你现在是分部的首领了，带着队伍回到你的~y~地盘~s~
+0xF5E97B64=~s~你现在是分会会长了，带弟兄们回你的~y~地盘。
 
 ;0xFDECE2B6=~s~Go to the meet with ~b~Billy.~s~
-0xFDECE2B6=~s~和~b~Billy.~s~去参加接头
+0xFDECE2B6=~s~与~b~Billy~s~一起参加会面。
 
