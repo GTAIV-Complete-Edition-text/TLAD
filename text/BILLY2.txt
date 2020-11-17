@@ -9,7 +9,7 @@
 0x5609804B=~s~骑上~b~摩托。
 
 ;0x664ABF3C=~s~The sawn-off shotgun can be fired from the motorbike by pressing ~INPUT_VEH_ATTACK~.
-0x664ABF3C=~s~短管霰弹枪可在骑摩托时使用，按~INPUT_VEH_ATTACK~开火。
+0x664ABF3C=~s~短管霰弹枪可在摩托上使用，按~INPUT_VEH_ATTACK~开火。
 
 ;0x6AD6344D=~s~Meet ~y~Billy.
 0x6AD6344D=~s~去找~y~Billy。
