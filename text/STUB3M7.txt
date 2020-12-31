@@ -15,7 +15,7 @@
 0x5129FFCE=~s~与~b~帮派分子~s~见面。
 
 ;0x56049317=~s~Go to the ~y~bar.
-0x56049317=~s~去~y~酒吧。
+0x56049317=~s~前往~y~酒吧。
 
 ;0x5C1D6E10=~s~It's your round Johnny.
 0x5C1D6E10=~s~轮到你了Johnny。
@@ -24,13 +24,13 @@
 0x7F3D10DB=~s~PHONECALL~n~~n~Johnny打电话给Jim来让他尽可能找出谁杀了新来的小子。
 
 ;0xA876EA39=~s~Go to the ~y~Superstar Cafe.
-0xA876EA39=~s~去~y~Superstar Cafe。
+0xA876EA39=~s~前往~y~Superstar Cafe。
 
 ;0xC8B3F540=~s~Go ~y~outside~s~ to see what's going on.
-0xC8B3F540=~s~去~y~外面~s~来看看会发生什么。
+0xC8B3F540=~s~去~y~外面~s~看看发生了什么。
 
 ;0xCBA4B094=~s~Leave the area.
-0xCBA4B094=~s~离开这一区域。
+0xCBA4B094=~s~离开这一带。
 
 ;0xCED23233=~r~The pub will no longer serve you.
 0xCED23233=~r~酒吧不会再接待你了。
@@ -39,5 +39,5 @@
 0xF15F54F6=~s~请给我两杯啤酒。
 
 ;0xF9DDD457=~s~Go to the ~y~Irish Pub.
-0xF9DDD457=~s~去~y~Irish Pub。
+0xF9DDD457=~s~前往~y~Irish Pub。
 

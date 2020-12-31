@@ -1,43 +1,42 @@
 ﻿[LBTR17]
 ;0x08FA65BD=Workers disgruntled
-0x08FA65BD=Workers disgruntled
+0x08FA65BD=工人持续不满
 
 ;0x19EAE52A=Michael Wayne
 0x19EAE52A=Michael Wayne
 
 ;0x457EAB6E=Club Kid Death
-0x457EAB6E=Club Kid Death
+0x457EAB6E=夜店男孩死于非命
 
 ;0x46F69B0A=Mysterious murder of good-time guy
-0x46F69B0A=Mysterious murder of good-time guy
+0x46F69B0A=针对夜店男孩的神秘谋杀
 
 ;0x48328A92=Sweatshops in LC?
-0x48328A92=Sweatshops in LC?
+0x48328A92=自由城竟然有血汗工厂?
 
 ;0x532A61E2=Evan Moss, 24, was found murdered in Broker. When, at the age of sixteen, he won the Teen Iron Weightlifting Competition in Arizona, no one could have predicted this violent end. Tragically, his life took a turn for the worse. After positive drug tests, the loss of his weight supplement sponsorship deal, and alleged involvement in a male escort business he hit rock bottom.
-0x532A61E2=Evan Moss, 24, was found murdered in Broker. When, at the age of sixteen, he won the Teen Iron Weightlifting Competition in Arizona, no one could have predicted this violent end. Tragically, his life took a turn for the worse. After positive drug tests, the loss of his weight supplement sponsorship deal, and alleged involvement in a male escort business he hit rock bottom.
+0x532A61E2=24岁的Evan Moss死于一场在Broker发生的谋杀。他曾在16岁时赢得了亚利桑那州青少年举重比赛的冠军，在那个时候，没有人能预料到他会有这样的结局。可悲的是，他的生活每况愈下。药检阳性、增重药不再找他代言、被怀疑涉嫌男妓生意，最终他陷入了人生低谷。
 
 ;0x5A65D778=Munchies in court
-0x5A65D778=Munchies in court
+0x5A65D778=法庭上的甜点
 
 ;0x5BE13656=A Los Santos man, who was prescribed medical marijuana for his glaucoma, has filed a lawsuit against his doctor and Cluckin Bell after ballooning from 180 to 350 pounds in less than six months. Phil Rosenburg, who can now back-roll a perfect blunt with just one hand, claims that he was not adequately informed of the side effects of his new medication. Rosenburg's attorney told Weazel News that his client now regularly devours a stuffed Pollo Toto Frito, a jar of mayonnaise, three pizzas and a plate of chocolate brownies covered in ranch sauce. He's lost his wallet seventeen times in the last month, developed an obsession with iconic bands of the 1970s and has started expressing increasingly left-wing political views. This is a landmark case and, if Rosenburg is awarded damages, predatory law firms are gearing up to get a class action suit against God, who created weed in the first place.
-0x5BE13656=A Los Santos man, who was prescribed medical marijuana for his glaucoma, has filed a lawsuit against his doctor and Cluckin Bell after ballooning from 180 to 350 pounds in less than six months. Phil Rosenburg, who can now back-roll a perfect blunt with just one hand, claims that he was not adequately informed of the side effects of his new medication. Rosenburg's attorney told Weazel News that his client now regularly devours a stuffed Pollo Toto Frito, a jar of mayonnaise, three pizzas and a plate of chocolate brownies covered in ranch sauce. He's lost his wallet seventeen times in the last month, developed an obsession with iconic bands of the 1970s and has started expressing increasingly left-wing political views. This is a landmark case and, if Rosenburg is awarded damages, predatory law firms are gearing up to get a class action suit against God, who created weed in the first place.
+0x5BE13656=洛圣都一男子在服用了医生为治疗他的青光眼所开的医用大麻后，在不到六个月时间内体重从180磅激增到了350磅。在经历了这一切后，他对他的医生和铛铛钟正式提起诉讼。这位名叫Phil Rosenburg的男子现在只用一只手就可以轻松地卷好完美的大麻烟。他声称医生在开药的时候并没有完全告诉他这次新换的药方的副作用。Rosenburg的律师跟Weazel新闻透露说，他的这位患者现在经常狼吞虎咽地吃掉填酱的意式烤面包卷、一整罐蛋黄酱、三个披萨还有一碟子淋满了田园沙拉酱的巧克力布朗尼。仅仅是在过去的1个月里，这位患者就丢了17次钱包，迷上了上世纪70年代的偶像乐队的同时政治立场越发左倾。这一诉讼在法律史上具有里程碑的意义。若是Rosenburg起诉成功得到损失费，虎视眈眈的众多律师事务所会向上帝提起集体诉讼，因为大麻是由上帝创造出来的。
 
 ;0x77FE78D1=Staff Writer
-0x77FE78D1=Staff Writer
+0x77FE78D1=特约记者
 
 ;0x8CBC5AC6=These are just some of the words that our editors thought would lead you into reading this story. But they are also words that could be used to describe how local recently graduated workers feel about Liberty City companies who are taking advantage of them. Sandra McColland has filed a lawsuit that sets a new standard for workers. After collapsing on the job in what she describes as a work/life balance, McColland is fighting for all Liberty City businesses to allow 2 months paid vacation a year, flexible hours, yoga a flotation/isolation chamber spa on site. Local businesses complain about a generation that wasn't required to work in high school, received an allowance, had college and a condo paid for, and then expect the same from the workforce.
-0x8CBC5AC6=These are just some of the words that our editors thought would lead you into reading this story. But they are also words that could be used to describe how local recently graduated workers feel about Liberty City companies who are taking advantage of them. Sandra McColland has filed a lawsuit that sets a new standard for workers. After collapsing on the job in what she describes as a work/life balance, McColland is fighting for all Liberty City businesses to allow 2 months paid vacation a year, flexible hours, yoga a flotation/isolation chamber spa on site. Local businesses complain about a generation that wasn't required to work in high school, received an allowance, had college and a condo paid for, and then expect the same from the workforce.
+0x8CBC5AC6=小编承认自己标题党了，但这也确实是应届求职者对利用他们的自由城企业的感受。Sandra McColland就势提起诉讼，试图为工人争取更人性化的行业新规。此前她在工作时昏倒，因为那份工作让她无法平衡工作时间和私人时间。在此之后，她便一直致力于为自由城所有企业的员工争取每年2个月的带薪休假、弹性的工作时间、瑜伽活动室、SPA中心等福利。而当地企业则抱怨这一代人高中不需要勤工俭学，拿着助学津贴，大学学费和公寓租金都有补贴，就业后居然还想要这样的待遇。
 
 ;0x8DA006A1=Tony J Smith
 0x8DA006A1=Tony J Smith
 
 ;0xC62845F1=Closing time for one clubber
-0xC62845F1=Closing time for one clubber
+0xC62845F1=某夜店红人的歇业时间
 
 ;0xFE0C01BA=Mary Jane made me fat!
-0xFE0C01BA=Mary Jane made me fat!
+0xFE0C01BA=Mary Jane让我胖得像头肥猪！
 
 ;0xFF43BA16=Moss had recently gained public attention as a star of the Liberty City nightclub scene. He was often sited with minor celebrities too drunk to know better at Algonquin hotspot Masionette 9. It was even rumored that Moss had hooked the biggest whale in the Liberty City Scene - nightclub baron Tony Prince. Mr. Prince would not comment on his friend's untimely death. The LCPD are looking for a group of men wearing tight black leather in connection to the slaying.
-0xFF43BA16=Moss had recently gained public attention as a star of the Liberty City nightclub scene. He was often sited with minor celebrities too drunk to know better at Algonquin hotspot Masionette 9. It was even rumored that Moss had hooked the biggest whale in the Liberty City Scene - nightclub baron Tony Prince. Mr. Prince would not comment on his friend's untimely death. The LCPD are looking for a group of men wearing tight black leather in connection to the slaying.
-
+0xFF43BA16=作为自由城夜店的明星，Moss最近备受关注。据说他经常在Algonquin最著名的9号豪宅中与一群烂醉如泥的十八线明星谈人生聊理想。甚至有传言声称Moss钓到了自由城最大的鱼——夜店大亨Tony Prince。Prince先生对他朋友的早逝不予置评。LCPD正在寻找一群穿紧身皮衣的人，他们与这起谋杀有密切关系。

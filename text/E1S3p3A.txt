@@ -3,13 +3,13 @@
 0x02C2B478=100090010090100
 
 ;0x0675732E=~z~Oh, can you give him a big fuck off from me when you got him?
-0x0675732E=~z~Oh, can you give him a big fuck off from me when you got him?
+0x0675732E=~z~噢，见着他的时候能替我问候句「去你妈的」吗？
 
 ;0x0738FD39=~z~I'm doing okay. You are down one good friend to the horrors of gangland violence.
-0x0738FD39=~z~I'm doing okay. You are down one good friend to the horrors of gangland violence.
+0x0738FD39=~z~我很好。但你的一位好友因恐怖的黑社会暴力遇害了。
 
 ;0x0766FD9D=~z~Appreciate the tip, but I think I'll stick to terrorism, the economy and the environment.
-0x0766FD9D=~z~Appreciate the tip, but I think I'll stick to terrorism, the economy and the environment.
+0x0766FD9D=~z~感谢你的主意，但我还是会坚持恐怖主义、经济和环境的议题。
 
 ;0x0B8C8B35=E1S3p3_DE
 0x0B8C8B35=E1S3p3_DE
@@ -21,7 +21,7 @@
 0x16323926=E1S3p3_AA
 
 ;0x1C02A6D4=~z~Much more fashionable and voter friendly.
-0x1C02A6D4=~z~Much more fashionable and voter friendly.
+0x1C02A6D4=~z~更加符合时代，更加好赚选票。
 
 ;0x1DB57F16=SFX_PAUSE_270
 0x1DB57F16=SFX_PAUSE_270
@@ -30,10 +30,10 @@
 0x27A72DDE=E1S3p3_DA
 
 ;0x2D048C03=~z~But, I've been working twelve hour days on a six month unpaid internship...
-0x2D048C03=~z~But, I've been working twelve hour days on a six month unpaid internship...
+0x2D048C03=~z~但是，我每天工作12小时的无薪实习已经持续半年了...
 
 ;0x304A3F18=~z~If you really want to get ahead, young lady.
-0x304A3F18=~z~If you really want to get ahead, young lady.
+0x304A3F18=~z~如果你真的想出人头地的话，小姐。
 
 ;0x392D57A3=E1S3p3_DN
 0x392D57A3=E1S3p3_DN
@@ -45,7 +45,7 @@
 0x3B05B43A=E1S3p3_AE
 
 ;0x3E2A2E4E=~z~You're not used to the hard work...
-0x3E2A2E4E=~z~You're not used to the hard work...
+0x3E2A2E4E=~z~你们不习惯努力工作...
 
 ;0x45D7077D=SFX_PAUSE_250
 0x45D7077D=SFX_PAUSE_250
@@ -57,16 +57,16 @@
 0x480E6D94=E1S3p3_DB
 
 ;0x4C7FCAF9=~z~... that's the problem with your generation. You expect everything to come to you at once.
-0x4C7FCAF9=~z~... that's the problem with your generation. You expect everything to come to you at once.
+0x4C7FCAF9=~z~...这就是你们这代人的问题。你们总是希望立刻得到回报。
 
 ;0x4CBF7802=~z~I must be doing something right.
-0x4CBF7802=~z~I must be doing something right.
+0x4CBF7802=~z~我做的一定是正确的事。
 
 ;0x4DFC4081=100090010100090100090010090100090100
 0x4DFC4081=100090010100090100090010090100090100
 
 ;0x4FB385C5=~z~First it's family, now it's friends. You're not a good guy to get close to, Stubbs.
-0x4FB385C5=~z~First it's family, now it's friends. You're not a good guy to get close to, Stubbs.
+0x4FB385C5=~z~之前是亲人，现在又是朋友。你不是什么值得交往的好人，Stubbs。
 
 ;0x5526EBF4=E1S3p3_AB
 0x5526EBF4=E1S3p3_AB
@@ -78,13 +78,13 @@
 0x5C597901=E1S3p3_AD
 
 ;0x5D4D17FD=~z~Typical.
-0x5D4D17FD=~z~Typical.
+0x5D4D17FD=~z~真典型。
 
 ;0x5DDE9908=SFX_PAUSE_200
 0x5DDE9908=SFX_PAUSE_200
 
 ;0x62622347=~z~Really?
-0x62622347=~z~Really?
+0x62622347=~z~真的吗？
 
 ;0x629C020E=SFX_PAUSE_240
 0x629C020E=SFX_PAUSE_240
@@ -96,7 +96,7 @@
 0x653B0BE0=E1S3p3_CB
 
 ;0x6D583BC1=~z~Leave it in the moth balls, Congressman. Your old friend's funeral may not be for some time.
-0x6D583BC1=~z~Leave it in the moth balls, Congressman. Your old friend's funeral may not be for some time.
+0x6D583BC1=~z~还是挂在衣柜里吧，议员先生。你老朋友的葬礼可能还得过段时间。
 
 ;0x6ED23FA8=SFX_PAUSE_270
 0x6ED23FA8=SFX_PAUSE_270
@@ -108,19 +108,19 @@
 0x77DFD845=SFX_PAUSE_250
 
 ;0x78204EC3=~z~Book us a room at the Majestic. I'll show you what hard work really is.
-0x78204EC3=~z~Book us a room at the Majestic. I'll show you what hard work really is.
+0x78204EC3=~z~给我们在Majestic酒店开个房。我会告诉你什么是真正的努力工作。
 
 ;0x7A484310=E1S3p3_AG
 0x7A484310=E1S3p3_AG
 
 ;0x8015E13C=~z~There you are, Johnny. Should I break out the lucky black suit?
-0x8015E13C=~z~There you are, Johnny. Should I break out the lucky black suit?
+0x8015E13C=~z~好了，Johnny。我需要拿出那套黑色的幸运西装吗？
 
 ;0x81DC6B76=E1S3p3_CD
 0x81DC6B76=E1S3p3_CD
 
 ;0x858CE99C=~z~I've got some extra curricular work you could do.
-0x858CE99C=~z~I've got some extra curricular work you could do.
+0x858CE99C=~z~我这儿还有你能做的课外作业。
 
 ;0x872650DA=E1S3p3_AC
 0x872650DA=E1S3p3_AC
@@ -135,7 +135,7 @@
 0x96C4A773=SFX_PAUSE_640
 
 ;0x97EF163B=~z~Ha ha. I sure will, sport. Old bastard's just got to shut up for a second first.
-0x97EF163B=~z~Ha ha. I sure will, sport. Old bastard's just got to shut up for a second first.
+0x97EF163B=~z~哈哈。我保证会的，哥们。老混蛋得先闭一会嘴了。
 
 ;0x98BC0A35=100090010090010090100090100
 0x98BC0A35=100090010090010090100090100
@@ -150,10 +150,10 @@
 0xA42A877A=E1S3p3_CA
 
 ;0xA9012F64=~z~Umm. I'm going to have to think about this.
-0xA9012F64=~z~Umm. I'm going to have to think about this.
+0xA9012F64=~z~唔...这我得考虑考虑。
 
 ;0xAC5E0AA0=~z~But I write your speeches, Mr. Congressman.
-0xAC5E0AA0=~z~But I write your speeches, Mr. Congressman.
+0xAC5E0AA0=~z~但你的演讲稿是我写的，议员先生。
 
 ;0xAD5D3EBF=SFX_PAUSE_250
 0xAD5D3EBF=SFX_PAUSE_250
@@ -168,7 +168,7 @@
 0xAEEC422E=SFX_PAUSE_400
 
 ;0xB0FCC88E=~z~Johnny, hi, I'm in a meeting with the mayor.
-0xB0FCC88E=~z~Johnny, hi, I'm in a meeting with the mayor.
+0xB0FCC88E=~z~Johnny，嗨，我正在和市长开会。
 
 ;0xB2E2608E=E1S3p3_DF
 0xB2E2608E=E1S3p3_DF
@@ -177,7 +177,7 @@
 0xBD514A10=E1S3p3_BA
 
 ;0xBF005C8E=~z~And don't use my credit card.
-0xBF005C8E=~z~And don't use my credit card.
+0xBF005C8E=~z~不许用我的信用卡开。
 
 ;0xC04C45D1=SFX_PAUSE_670
 0xC04C45D1=SFX_PAUSE_670
@@ -186,10 +186,10 @@
 0xC4417DB4=E1S3p3_DD
 
 ;0xC73DC05F=~z~You're given trophies for tying your shoes. You need to be weaned.
-0xC73DC05F=~z~You're given trophies for tying your shoes. You need to be weaned.
+0xC73DC05F=~z~你会因为系鞋带得到奖励。你需要摆脱依靠。
 
 ;0xCC43259D=~z~Personal relationships are one thing, but I always honor a business agreement.
-0xCC43259D=~z~Personal relationships are one thing, but I always honor a business agreement.
+0xCC43259D=~z~私下交情是一回事，但正式协议我还是遵守的。
 
 ;0xCC970FCB=E1S3p3_DI
 0xCC970FCB=E1S3p3_DI
@@ -201,7 +201,7 @@
 0xD7440A70=E1S3p3_CE
 
 ;0xDB0F9736=~z~Now that is awkward. Thanks for the heads up, sport.
-0xDB0F9736=~z~Now that is awkward. Thanks for the heads up, sport.
+0xDB0F9736=~z~那就不好办了。谢谢你提醒我，哥们。
 
 ;0xDB4BB3B8=E1S3p3_DH
 0xDB4BB3B8=E1S3p3_DH
@@ -210,10 +210,10 @@
 0xE1F48BA7=E1S3p3_AF
 
 ;0xE2A3340E=~z~Klebitz. How are we doing?
-0xE2A3340E=~z~Klebitz. How are we doing?
+0xE2A3340E=~z~Klebitz，我们还好吗？
 
 ;0xE30934E2=~z~I'd make it a campaign issue if I were you.
-0xE30934E2=~z~I'd make it a campaign issue if I were you.
+0xE30934E2=~z~如果我是你，我会把它作为竞选议题。
 
 ;0xE95E28F5=E1S3p3_BB
 0xE95E28F5=E1S3p3_BB
@@ -231,13 +231,13 @@
 0xEFD172AE=120120210090120120090210090210090120090120090210120120090210090120
 
 ;0xF5A61D2F=~z~You kids are rewarded for mediocrity.
-0xF5A61D2F=~z~You kids are rewarded for mediocrity.
+0xF5A61D2F=~z~你们这些孩子因为平庸得到奖励。
 
 ;0xF726FB64=~z~Yes Mr. Mayor, huge proponent of change. Always have been!
-0xF726FB64=~z~Yes Mr. Mayor, huge proponent of change. Always have been!
+0xF726FB64=~z~是的，市长先生，变革的坚定支持者。向来如此！
 
 ;0xFC565EF0=~z~Listen, I need you to deal with an old friend of mine. He's meeting an intern at the Superstar Café in Lancaster.
-0xFC565EF0=~z~Listen, I need you to deal with an old friend of mine. He's meeting an intern at the Superstar Café in Lancaster.
+0xFC565EF0=~z~听着，我需要你去解决我的一个老朋友。他正在Lancaster的Superstar Café见一个实习生。
 
 ;0xFFAC45F6=SFX_PAUSE_290
 0xFFAC45F6=SFX_PAUSE_290
