@@ -1,0 +1,58 @@
+﻿[JIM5]
+;0x0BABC85A=Go to ~b~Jim.~s~
+0x0BABC85A=去找~b~Jim。~s~
+
+;0x13A8BCE5=~r~Jim is dead.
+0x13A8BCE5=~r~Jim死了。
+
+;0x1DFA6CF7=Get on your ~b~bike~s~ and drive to the meet.
+0x1DFA6CF7=骑上你的~b~摩托车~s~去会面地点。
+
+;0x39F18976=~r~Jim's bike was wrecked.
+0x39F18976=~r~Jim的摩托被摧毁了。
+
+;0x46A3A2DA=~r~Terry is dead.
+0x46A3A2DA=~r~Terry死了。
+
+;0x484A430E=Meet Brian at the ~y~docks.~s~
+0x484A430E=在~y~码头~s~和Brian会面。
+
+;0x5E9E52CF=~r~Your bike was wrecked.
+0x5E9E52CF=~r~你的摩托被摧毁了。
+
+;0x6BB409E1=Lose the cops.
+0x6BB409E1=甩掉警察。
+
+;0x7047F622=~r~Brian's faction got away.
+0x7047F622=~r~Brian的党派逃走了。
+
+;0x7EA1AFBC=Wait for ~b~Jim.~s~
+0x7EA1AFBC=等~b~Jim。~s~
+
+;0x95E5C159=~r~Clay is dead.
+0x95E5C159=~r~Clay死了。
+
+;0x9E433C21=Get back on your ~b~bike.~s~
+0x9E433C21=回到你的~b~摩托车。~s~
+
+;0xA1067485=~r~Brian's faction~s~ are getting away.
+0xA1067485=~r~Brian的党派~s~正准备逃走。
+
+;0xA83365F4=~r~You abandoned your bike.
+0xA83365F4=~r~你丢弃了你的摩托车。
+
+;0xB093923B=Take out ~r~Brian's faction.~s~
+0xB093923B=干掉~r~Brian的党派。~s~
+
+;0xD5085B24=Chase ~r~Brian's faction~s~ and take them down.
+0xD5085B24=追上~r~Brian的党派~s~并干掉他们。
+
+;0xE3A2F859=Get on your ~b~bike~s~ and follow Jim to the meet.
+0xE3A2F859=骑上你的~b~摩托车~s~跟着Jim去会面地点。
+
+;0xEAE506CD=Follow ~b~Jim~s~ to the meet at the docks.
+0xEAE506CD=跟着~b~Jim~s~去码头的会面地点。
+
+;0xFA26A550=Job Complete.
+0xFA26A550=任务完成。
+
