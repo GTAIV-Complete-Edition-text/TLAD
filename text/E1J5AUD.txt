@@ -3,10 +3,10 @@
 0x0067B01C=~z~Brian想和谈？
 
 ;0x08D96E53=~z~I told them to go fuck themselves. I may be an asshole but I won't talk about my brothers.
-0x08D96E53=~z~我叫他们滚蛋。我也许是个傻逼，但我不会去谈论我的兄弟。
+0x08D96E53=~z~我叫他们滚蛋。我也许不是好人，但我不会出卖兄弟。
 
 ;0x0979B4AC=~z~Maybe you should do the talking, man. I don't know if I can trust myself.
-0x0979B4AC=~z~也许你该去跟他谈。我不知道我能否信得过自己。
+0x0979B4AC=~z~还是你去跟他交涉吧，兄弟。我有点信不过自己。
 
 ;0x0982B8A7=~z~We don't need numbers, man. We need brothers.
 0x0982B8A7=~z~我们需要的不是人数，是兄弟。
@@ -18,7 +18,7 @@
 0x0CA98E72=100090010090010090100090010090100090010
 
 ;0x0CE79661=~z~"You're dumber than I thought, you're dumber than I thought."
-0x0CE79661=~z~“你比我想的还要蠢，你比我想的还要蠢。”
+0x0CE79661=~z~「你比我想的还要蠢，你比我想的还要蠢。」
 
 ;0x0D8F9978=100
 0x0D8F9978=100
@@ -27,22 +27,22 @@
 0x0F654883=~z~燃起来了。
 
 ;0x0FA56725=~z~These guys start a fight, they gotta finish it. Let's chase 'em down.
-0x0FA56725=~z~这些家伙挑起了斗争，他们得了结了才行。我们去追上他们。
+0x0FA56725=~z~谁挑起的斗争，就得由谁了结。追上他们。
 
 ;0x0FEF8322=~z~You backstabbing fucks.
-0x0FEF8322=~z~你们这群卑劣之徒。
+0x0FEF8322=~z~一群无耻的叛徒。
 
 ;0x10994C9A=~z~We never wanted you in the first place.
 0x10994C9A=~z~我们从没想让你当老大。
 
 ;0x10C5EAE4=~z~You're the one taking a nap.
-0x10C5EAE4=~z~你才是该玩完的那个。
+0x10C5EAE4=~z~你才是要拉闸的那个。
 
 ;0x10E333F7=100090010
 0x10E333F7=100090010
 
 ;0x110C47BA=~z~And that's what we got left. You, me, Angus, Terry, Clay - brothers.
-0x110C47BA=~z~我们也只剩下这些人了。你，我，Angus，Terry，Clay - 都是兄弟。
+0x110C47BA=~z~也正是我们现在拥有的。你，我，Angus，Terry，Clay——都是兄弟。
 
 ;0x1159FD53=100
 0x1159FD53=100
@@ -57,19 +57,19 @@
 0x14DFE845=SFX_PAUSE_100
 
 ;0x15378DBA=~z~Brothers for life, my ass.
-0x15378DBA=~z~终生兄弟，我的后盾。
+0x15378DBA=~z~生死兄弟，我呸。
 
 ;0x1585E855=~z~When this shit calms down, you should come round and see the kid.
-0x1585E855=~z~当这鸟事搞定之后，你也应该来看看孩子。
+0x1585E855=~z~等事情都解决了，你也应该来看看我家孩子。
 
 ;0x16F920F9=~z~Keep an eye out for the little prick.
-0x16F920F9=~z~留意下这个小混蛋。
+0x16F920F9=~z~防着点这个小混蛋。
 
 ;0x187B492E=E1J5_YA
 0x187B492E=E1J5_YA
 
 ;0x1949F6E3=~z~Shoot the barrels. Send The Lost MC to Hell.
-0x1949F6E3=~z~射击油桶。送他们下地狱。
+0x1949F6E3=~z~打油桶啊。送失落帮下地狱。
 
 ;0x1AFE6164=~z~You're out, brothers.
 0x1AFE6164=~z~你们完了，伙计。
@@ -90,7 +90,7 @@
 0x1EB6A46D=E1J5_A_EE
 
 ;0x1F8EF3D0=~z~Let's take these assholes out, John boy.
-0x1F8EF3D0=~z~干掉这群傻逼吧，John。
+0x1F8EF3D0=~z~干死这群傻逼，Johnny仔。
 
 ;0x210BE3D0=~z~Looking forward to seeing Brian?
 0x210BE3D0=~z~期待见到Brian吗？
@@ -99,16 +99,16 @@
 0x217A645D=100
 
 ;0x23BFC419=~z~You're so predictable, Johnny Little-dick-o-witz.
-0x23BFC419=~z~你可真有先见之明，Johnny你个混蛋。
+0x23BFC419=~z~你的心思真好猜，Johnny 傻逼儿子。
 
 ;0x24632337=~z~I always thought Brian was a double crossing little shit.
-0x24632337=~z~我一直认为Brian是个黑吃黑的小人。
+0x24632337=~z~我就知道Brian是个两面三刀的叛徒。
 
 ;0x27B848E3=390
 0x27B848E3=390
 
 ;0x2959292F=~z~These are tough times. How's Jackie feel about what's going down?
-0x2959292F=~z~这是艰难的时刻。Jackie对这事怎么看？
+0x2959292F=~z~帮会不太平啊。Jackie对现在的情况怎么看？
 
 ;0x2B2A28FF=100
 0x2B2A28FF=100
@@ -120,43 +120,43 @@
 0x2CD58367=~z~烧得漂亮吧？
 
 ;0x2D205C65=~z~What are you doing? Get in cover!
-0x2D205C65=~z~你搞毛呢？赶紧找掩护！
+0x2D205C65=~z~你搞毛呢？快找掩护！
 
 ;0x2EC0319D=~z~Let's do this you Judas Assholes!
-0x2EC0319D=~z~来啊，你们这群犹太猪。
+0x2EC0319D=~z~来啊，叛徒犹大！
 
 ;0x303FA885=092
 0x303FA885=092
 
 ;0x30428BF4=~z~Watch the perimeter, man. They're coming over the wall.
-0x30428BF4=~z~留意周围，伙计。他们正翻墙过来。
+0x30428BF4=~z~留意周围，兄弟。有人翻墙过来了。
 
 ;0x318A5FA6=~z~No, nuh-uh.
-0x318A5FA6=~z~不，才不是。
+0x318A5FA6=~z~不，错了。
 
 ;0x31A4A092=~z~Yeah, I'd like that.
 0x31A4A092=~z~好的，我很乐意。
 
 ;0x3223A5C1=~z~Another van coming.
-0x3223A5C1=~z~另一辆车来了。
+0x3223A5C1=~z~又是一车人。
 
 ;0x329F6123=~z~He sneaked away as soon as the fighing kicked off. Usual pussy move for that prick.
-0x329F6123=~z~一开战他就偷偷逃走了。那个傻逼的惯用技俩。
+0x329F6123=~z~一开战他就偷偷逃走了。那个怂逼的惯用技俩。
 
 ;0x32BF94CF=~z~Hey, here comes the big man.
 0x32BF94CF=~z~嘿，大人物来了。
 
 ;0x34FD1B2F=~z~Clubhouse ain't exactly gonna be crowded after this.
-0x34FD1B2F=~z~会所在这之后不会变得热闹了。
+0x34FD1B2F=~z~以后会所就没那么热闹了。
 
 ;0x38F70F30=E1J5_IA
 0x38F70F30=E1J5_IA
 
 ;0x3ADB7248=~z~An he don't give a shit about the brothers.
-0x3ADB7248=~z~他根本不在乎弟兄们。
+0x3ADB7248=~z~他根本不在乎弟兄死活。
 
 ;0x3FC981B7=~z~You trying to get killed? Find some cover, Johnny.
-0x3FC981B7=~z~你找死吗？赶紧找掩护，Johnny。
+0x3FC981B7=~z~你在找死吗？赶紧找掩护，Johnny。
 
 ;0x4014CA04=E1J5_BC
 0x4014CA04=E1J5_BC
@@ -171,7 +171,7 @@
 0x42A4BD98=190
 
 ;0x43796A3D=~z~Part time fucks.
-0x43796A3D=~z~说再见吧，你们这群混蛋。
+0x43796A3D=~z~半吊子的傻逼。
 
 ;0x43A198FB=E1J5_XA
 0x43A198FB=E1J5_XA
@@ -189,13 +189,13 @@
 0x479B5C4E=E1J5_FA
 
 ;0x4870C216=~z~Crowded with R.I.P. plaques maybe.
-0x4870C216=~z~可能会堆满R.I.P.纪念匾。
+0x4870C216=~z~纪念堂的墙上会很热闹的。
 
 ;0x48BECDC8=E1J5_CA
 0x48BECDC8=E1J5_CA
 
 ;0x4958DC94=~z~Where you running to, Brian?
-0x4958DC94=~z~你要往哪跑，Brian？
+0x4958DC94=~z~你要往哪逃，Brian？
 
 ;0x4A0DC8D1=~z~Get these traitorous bastards.
 0x4A0DC8D1=~z~干掉这群傻逼叛徒。
@@ -207,7 +207,7 @@
 0x4BACD4EA=E1J5_MB
 
 ;0x4C56E362=~z~We're meant to be your brothers.
-0x4C56E362=~z~我们注定要成为兄弟。
+0x4C56E362=~z~我们本该成为兄弟的。
 
 ;0x4C6DB258=SFX_PAUSE_230
 0x4C6DB258=SFX_PAUSE_230
@@ -219,7 +219,7 @@
 0x4D5BB9A6=100
 
 ;0x4DAAE4B1=~z~Yeah, and your babysitter, Billy's on the inside now.
-0x4DAAE4B1=~z~没错，你的保姆Billy，现在还在蹲局子呢。
+0x4DAAE4B1=~z~没错，你的保姆Billy现在还在蹲号子呢。
 
 ;0x4FA7CE9F=~z~Gentlemen.
 0x4FA7CE9F=~z~先生们。
@@ -228,13 +228,13 @@
 0x5002E17F=~z~更多傻逼来了，小心点。
 
 ;0x503A1053=~z~He'll turn up soon enough.
-0x503A1053=~z~他很快会出现的。
+0x503A1053=~z~很快他就会出现吧。
 
 ;0x571B7819=~z~Fucking Brian, you bitch.
-0x571B7819=~z~妈的Brian，你个畜生。
+0x571B7819=~z~傻逼Brian，你个畜生。
 
 ;0x58530726=~z~None of us do, James. Don't worry about that.
-0x58530726=~z~不会的，James。别担心。
+0x58530726=~z~我们也不想，James。你尽管放心。
 
 ;0x590F98DF=SFX_PAUSE_100
 0x590F98DF=SFX_PAUSE_100
@@ -246,16 +246,16 @@
 0x59E7BFE7=100
 
 ;0x59F1E333=~z~What's happening Johnny?
-0x59F1E333=~z~怎么了，Johnny？
+0x59F1E333=~z~你好吗，Johnny？
 
 ;0x5A4E7E8B=~z~Brian, you little fuck, stay here and fight.
-0x5A4E7E8B=~z~Brian，你个小畜生，有种给老子站出来啊。
+0x5A4E7E8B=~z~Brian，你个小畜生，有种站出来啊。
 
 ;0x5A6FF92E=~z~Those barrels explode good, Johnny.
-0x5A6FF92E=~z~那些油桶用来炸他们不错，Johnny。
+0x5A6FF92E=~z~打油桶炸死他们，Johnny。
 
 ;0x5A8FFCF9=~z~Johnny boy, get your bike. These fools are trying to get away.
-0x5A8FFCF9=~z~Johnny老弟，骑上你的摩托。这些蠢货想逃。
+0x5A8FFCF9=~z~Johnny仔，快上车。这些蠢货想逃。
 
 ;0x5B27114C=E1J5_QA
 0x5B27114C=E1J5_QA
@@ -270,10 +270,10 @@
 0x5CD6F0E1=E1J5_LB
 
 ;0x5CEA7918=~z~Man, I had no idea Brian was this popular. Who the fuck are these punks?
-0x5CEA7918=~z~老兄，我都不知道Brian这么受欢迎。这些傻逼是谁？
+0x5CEA7918=~z~天哪，我都不知道Brian这么受欢迎。哪来这么多傻逼？
 
 ;0x5D2497A3=~z~Pin it, man. We can't lose 'em.
-0x5D2497A3=~z~加速，兄弟。我们不能跟丢他们。
+0x5D2497A3=~z~加速，兄弟。不能放过他们。
 
 ;0x5DCDA4BE=E1J5_A_EB
 0x5DCDA4BE=E1J5_A_EB
@@ -291,7 +291,7 @@
 0x654103F5=E1J5_LA
 
 ;0x65A20CBD=~z~Watch the van.
-0x65A20CBD=~z~注意厢型车。
+0x65A20CBD=~z~注意面包车。
 
 ;0x6600B836=100090010090100090100
 0x6600B836=100090010090100090100
@@ -318,7 +318,7 @@
 0x6EDC8F83=100
 
 ;0x6F3D1DBD=~z~Assholes on bikes, watch it John.
-0x6F3D1DBD=~z~骑着摩托的傻逼来了，小心点，John。
+0x6F3D1DBD=~z~傻逼外卖，小心点，John。
 
 ;0x7109374B=SFX_PAUSE_320
 0x7109374B=SFX_PAUSE_320
@@ -345,25 +345,25 @@
 0x766BCA31=~z~加速啊，Johnny。快。
 
 ;0x76D43860=~z~You're a dead man, Brian.
-0x76D43860=~z~你完蛋了，Brian。
+0x76D43860=~z~你死定了，Brian。
 
 ;0x7718B42E=490
 0x7718B42E=490
 
 ;0x78783033=~z~Cavalry incoming, man.
-0x78783033=~z~车手来了。
+0x78783033=~z~骑兵来了，兄弟。
 
 ;0x7A2B0CB6=E1J5_DA
 0x7A2B0CB6=E1J5_DA
 
 ;0x7E0E1DDB=~z~Hey man, last thing I want is to talk to that snivelling little shit bag.
-0x7E0E1DDB=~z~嘿，我才不想和那个爱哭鼻子的小混蛋说话。
+0x7E0E1DDB=~z~喂，兄弟，我才不想和那个爱哭鼻子的小混蛋说话。
 
 ;0x7EDD3F18=100
 0x7EDD3F18=100
 
 ;0x7EDEC20B=~z~Explode those suckers, Johnny boy. The barrels.
-0x7EDEC20B=~z~炸飞那群混蛋，Johnny。用油桶。
+0x7EDEC20B=~z~炸飞那群混蛋，Johnny。打油桶。
 
 ;0x804C43B2=E1J5_BB
 0x804C43B2=E1J5_BB
@@ -372,7 +372,7 @@
 0x80845528=~z~耶。耶。
 
 ;0x81035C7A=~z~Interesting because I thought he was actually an ass kissing double crossing little shit.
-0x81035C7A=~z~有意思，因为我认为他是一个不折不扣的黑吃黑废物。
+0x81035C7A=~z~有意思，因为我觉得他是个两面三刀的舔狗叛徒。
 
 ;0x82E7FA70=E1J5_SA
 0x82E7FA70=E1J5_SA
@@ -393,7 +393,7 @@
 0x88F7F7DE=SFX_PAUSE_180
 
 ;0x8BCAC2FF=~z~They're coming over the wall, man.
-0x8BCAC2FF=~z~他们正翻墙过来。
+0x8BCAC2FF=~z~有人翻墙过来了，兄弟。
 
 ;0x8CD37026=~z~She just doesn't want to see the kid grow up without a father.
 0x8CD37026=~z~她只是不想看到孩子失去父亲。
@@ -402,25 +402,25 @@
 0x8EC02840=E1J5_DC
 
 ;0x9109DE20=~z~Too bad, fucko.
-0x9109DE20=~z~糟透了，傻逼。
+0x9109DE20=~z~真可怜，傻逼。
 
 ;0x9199F753=~z~Whoop! Whoop!
-0x9199F753=~z~噢喔！噢喔！
+0x9199F753=~z~喔！喔！
 
 ;0x9371F19B=~z~You're gonna pay for this, traitors.
-0x9371F19B=~z~你们这群叛徒该付出代价了。
+0x9371F19B=~z~你们这群叛徒会付出代价的。
 
 ;0x94A4ED97=~z~Blow up the oil drums.
-0x94A4ED97=~z~炸开油桶。
+0x94A4ED97=~z~打爆油桶。
 
 ;0x9550D139=~z~Don't apologize, Johnny. Brian's the one with something to be sorry for. Another time.
-0x9550D139=~z~别道歉，Johnny。Brian才是有事情需要道歉的人。下次再说吧。
+0x9550D139=~z~别道歉，Johnny。Brian才是需要道歉的人。下次再说吧。
 
 ;0x97D4A2B2=~z~This is where he said he'd be.
 0x97D4A2B2=~z~这儿就是他说的地点。
 
 ;0x9B114912=~z~Dammit, Brian's brought in some fucking ringers.
-0x9B114912=~z~草，Brian带来了一些冒牌货。
+0x9B114912=~z~操，Brian这样的蠢货真多。
 
 ;0x9B399C12=E1J5_A_EF
 0x9B399C12=E1J5_A_EF
@@ -429,13 +429,13 @@
 0x9BC50F89=100
 
 ;0x9D546612=~z~Look out! Check that wall, Johnny.
-0x9D546612=~z~小心！留意那堵墙，Johnny。
+0x9D546612=~z~小心！注意墙那边，Johnny。
 
 ;0x9DAFAB2D=E1J5_A_EA
 0x9DAFAB2D=E1J5_A_EA
 
 ;0x9DFF6B41=~z~That's what I'd thought you'd say.
-0x9DFF6B41=~z~我就知道你会这么说。
+0x9DFF6B41=~z~就知道你会这么说。
 
 ;0xA4C67DB1=SFX_PAUSE_200
 0xA4C67DB1=SFX_PAUSE_200
@@ -447,7 +447,7 @@
 0xA4F8255B=SFX_PAUSE_100
 
 ;0xA784AC62=~z~Hit the throttle, man. We gotta catch them.
-0xA784AC62=~z~踩油门，兄弟。我们得追上他们。
+0xA784AC62=~z~踩油门，兄弟。必须追上他们。
 
 ;0xA9818E6C=SFX_PAUSE_170
 0xA9818E6C=SFX_PAUSE_170
@@ -480,10 +480,10 @@
 0xB4A0D623=SFX_PAUSE_070
 
 ;0xB67B3650=~z~Not your call, Jew boy.
-0xB67B3650=~z~你可做不了主，犹太小子。
+0xB67B3650=~z~你胡说，犹太崽。
 
 ;0xB6C50079=~z~Looks like Brian's got more buddies in this van.
-0xB6C50079=~z~看来Brian的人更多了。
+0xB6C50079=~z~看来又是一车Brian的人啊。
 
 ;0xB7930AF1=SFX_PAUSE_160
 0xB7930AF1=SFX_PAUSE_160
@@ -492,7 +492,7 @@
 0xB8411625=~z~你说得对。
 
 ;0xB936A98A=~z~Watch out, Johnny. There's another van load coming.
-0xB936A98A=~z~小心，Johnny。另一辆厢型车来了。
+0xB936A98A=~z~小心，Johnny。又来了一车敌人。
 
 ;0xB9DEC75C=E1J5_A_FA
 0xB9DEC75C=E1J5_A_FA
@@ -504,10 +504,11 @@
 0xBD83172D=010090100090010
 
 ;0xBE73284B=~z~Here we go.
-0xBE73284B=~z~开干。
+0xBE73284B=~z~开干，清洗叛徒。
+;配音多半句"Deal with traitors"
 
 ;0xBE8EC7D4=~z~If Billy wasn't inside I'd kill him myself.
-0xBE8EC7D4=~z~如果Billy没进监狱，我会亲手解决掉他。
+0xBE8EC7D4=~z~要是Billy没进去，我亲手杀了他。
 
 ;0xBECA7FCF=~z~Johnny man, get in cover!
 0xBECA7FCF=~z~Johnny老兄，快找掩护！
@@ -522,7 +523,7 @@
 0xBF5400E2=~z~找掩体，Johnny！
 
 ;0xBFF06FBA=~z~Yeah. Maybe. See you soon, brother.
-0xBFF06FBA=~z~是啊。应该吧。待会见，兄弟。
+0xBFF06FBA=~z~是啊。应该吧。待会儿见，兄弟。
 
 ;0xC10BB50B=E1J5_EA
 0xC10BB50B=E1J5_EA
@@ -531,7 +532,7 @@
 0xC1127F62=100090010
 
 ;0xC355D005=~z~Get the fuck out of town.
-0xC355D005=~z~滚出这座城吧。
+0xC355D005=~z~滚出这座城市。
 
 ;0xC38CA571=E1J5_JA
 0xC38CA571=E1J5_JA
@@ -546,10 +547,10 @@
 0xC78B491F=E1J5_CB
 
 ;0xC8F2A4D4=~z~Shit, Brian's got some more fools coming in the van.
-0xC8F2A4D4=~z~靠，Brian的更多蠢货人手开着车来了。
+0xC8F2A4D4=~z~靠，Brian的更多蠢货打手开着车来了。
 
 ;0xC9794A0F=~z~We got another van full of these pricks coming, man.
-0xC9794A0F=~z~另一辆载满这些傻逼的车来了。
+0xC9794A0F=~z~又来了一辆装满傻逼的车，兄弟。
 
 ;0xCD14F474=E1J5_A_GB
 0xCD14F474=E1J5_A_GB
@@ -558,7 +559,7 @@
 0xCE2AE6DF=E1J5_A_IA
 
 ;0xCFE1FC65=~z~I got another one of those calls from the cops or the feds or whoever.
-0xCFE1FC65=~z~我又接到了条子或联邦政府的电话。
+0xCFE1FC65=~z~我又接到了条子还是FIB的电话。
 
 ;0xD009A24D=~z~You're going to need to find some cover, Johnny.
 0xD009A24D=~z~你得找个掩体，Johnny。
@@ -567,7 +568,7 @@
 0xD06A3585=E1J5_A_AA
 
 ;0xD1FC208B=~z~Billy is a one way S.O.B.
-0xD1FC208B=~z~Billy就是个傻逼
+0xD1FC208B=~z~Billy就是个臭傻逼。
 
 ;0xD233F856=~z~Yeee haw!
 0xD233F856=~z~耶吼！
@@ -579,13 +580,13 @@
 0xD795200F=SFX_PAUSE_100
 
 ;0xD7C212F4=~z~Don't I know it, man. But what choice do we got? It's them or us!
-0xD7C212F4=~z~我知道。但是我们还有选择的余地吗？不是他们死就是我们亡！
+0xD7C212F4=~z~我也恶心啊，兄弟。但也没得选了，水火不容啊！
 
 ;0xD81A6751=~z~Eyes open, Johnny. There's another van of 'em on it's way.
 0xD81A6751=~z~注意点，Johnny。另一辆他们的车来了。
 
 ;0xD84E563F=~z~Shit, I wish we'd pinned down Brian. That little weasel.
-0xD84E563F=~z~草，真希望我们杀掉Brian了。那个狡猾的小人。
+0xD84E563F=~z~操，就是没杀掉Brian。那个狡猾的小人。
 
 ;0xD8ACA4C8=E1J5_RA
 0xD8ACA4C8=E1J5_RA
@@ -597,16 +598,16 @@
 0xDA238B98=E1J5_NA
 
 ;0xDB08FF6B=~z~So it's bedtime for you motherfucker.
-0xDB08FF6B=~z~所以你他妈没戏唱了。
+0xDB08FF6B=~z~所以你该滚去睡觉了，傻逼儿子。
 
 ;0xDBA0809A=~z~What a baby.
-0xDBA0809A=~z~多么幼稚。
+0xDBA0809A=~z~真是巨婴。
 
 ;0xDE590366=SFX_PAUSE_190
 0xDE590366=SFX_PAUSE_190
 
 ;0xE0949E89=~z~Twist the wick, my brother. These guys aren't getting away.
-0xE0949E89=~z~加速啊，兄弟。这些家伙正准备开溜。
+0xE0949E89=~z~加速啊，兄弟。这些家伙别想逃走。
 
 ;0xE0D2762B=E1J5_OA
 0xE0D2762B=E1J5_OA
@@ -615,7 +616,7 @@
 0xE41B1F0A=012
 
 ;0xE435A50C=~z~What'd you say to 'em?
-0xE435A50C=~z~你跟他们说了什么？
+0xE435A50C=~z~你跟他们说什么了？
 
 ;0xE5359848=E1J5_PA
 0xE5359848=E1J5_PA
@@ -624,10 +625,10 @@
 0xE544F9D7=~z~嘿，有什么打算？
 
 ;0xE60B95FB=~z~This is all on you, Brian.
-0xE60B95FB=~z~这都是你自找的，Brian。
+0xE60B95FB=~z~都是你的错，Brian。
 
 ;0xE61D779F=~z~So long, assholes.
-0xE61D779F=~z~永别了，傻逼们。
+0xE61D779F=~z~永别了，傻逼。
 
 ;0xE64CA2CA=SFX_PAUSE_240
 0xE64CA2CA=SFX_PAUSE_240
@@ -636,7 +637,7 @@
 0xE65D494D=~z~你以为Billy会为你两肋插刀？你比我想的还要蠢。
 
 ;0xE77B1346=~z~Shoot the drums. The drums.
-0xE77B1346=~z~射击油桶。油桶。
+0xE77B1346=~z~打油桶。油桶。
 
 ;0xE82C7F04=E1J5_EC
 0xE82C7F04=E1J5_EC
@@ -648,34 +649,34 @@
 0xEB394DDC=~z~操。
 
 ;0xEC50207B=~z~Come on, man. We can't let these pricks get away.
-0xEC50207B=~z~快点，老兄。我们不能让这些混蛋跑了。
+0xEC50207B=~z~快点，老兄。不能让这些混蛋跑了。
 
 ;0xEE8A3A74=~z~Faster, Johnny.
-0xEE8A3A74=~z~快一点，Johnny。
+0xEE8A3A74=~z~快点，Johnny。
 
 ;0xF0E70860=~z~Those damn traitorous bastards got away from us, Jim. I'm sorry.
-0xF0E70860=~z~那些背信弃义的混蛋们逃走了，Jim。我很抱歉。
+0xF0E70860=~z~那些背信弃义的混蛋逃掉了，Jim。我很抱歉。
 
 ;0xF1281703=~z~Fucking Brian. Get these guys, Johnny.
 0xF1281703=~z~去他妈的Brian。干掉这些家伙，Johnny。
 
 ;0xF1A2C691=~z~You're out of the club, assholes.
-0xF1A2C691=~z~你们这群傻逼不再属于失落帮俱乐部了。
+0xF1A2C691=~z~除你会籍，傻逼。
 
 ;0xF2187F14=E1J5_ZA
 0xF2187F14=E1J5_ZA
 
 ;0xF3C93176=~z~The Lost is fucked because of you, Brian.
-0xF3C93176=~z~都是因为你，Brian，失落帮才被搞得一团糟。
+0xF3C93176=~z~失落帮被你搞得一团糟，Brian。
 
 ;0xF56B6240=~z~I'm sucking leather here, man.
 0xF56B6240=~z~我在这吸皮革。
 
 ;0xF670E974=~z~Here comes Tweedle Dum and Tweedle fucking Dumber.
-0xF670E974=~z~混蛋和他的小跟班来了。
+0xF670E974=~z~笨逼熊大跟笨逼熊二来了。
 
 ;0xF71297DE=~z~Lost MC goin' up in flames, so sad.
-0xF71297DE=~z~失落帮被火烧了，真悲伤。
+0xF71297DE=~z~失落帮付之一炬，真悲伤。
 
 ;0xF7829E52=~z~We spoke to that fat fuck Brian. He wants to sit down, call a truce.
 0xF7829E52=~z~我们和那个死胖子Brian谈过了。他想要坐下来，和谈。
@@ -687,5 +688,5 @@
 0xFA45465A=SFX_PAUSE_050
 
 ;0xFA61D833=~z~Feels so fucking wrong to take out brothers.
-0xFA61D833=~z~杀掉兄弟的感觉真他娘的不好。
+0xFA61D833=~z~手足相残真他妈恶心。
 

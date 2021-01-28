@@ -3,7 +3,7 @@
 0x187F2044=干掉~r~Brian。
 
 ;0x19148E94=~r~Your bike was wrecked.
-0x19148E94=~r~你的摩托车报废了。
+0x19148E94=~r~你的摩托车坏了。
 
 ;0x2BFFB155=Brian is protected in his safehouse.
 0x2BFFB155=Brian藏在他的安全屋里。
@@ -12,35 +12,35 @@
 0x7E468995=Brian死了。
 
 ;0x8970A276=Get clear of the house.
-0x8970A276=离开房子。
+0x8970A276=离开安全屋。
 
 ;0x8DCA0498=~s~When locked-on while equipped with a pistol, you can perform an execution on certain characters.
-0x8DCA0498=~s~当用手枪瞄准时，你可以对特定角色进行处决。
+0x8DCA0498=~s~装备手枪时，你可以对特定角色实施处决。
 
 ;0xA6E5236F=~s~If you launch a grenade through a window into the house, the occupants will flee.
-0xA6E5236F=~s~如果你通过窗口向房子里扔手雷，房子里的人就会逃走。
+0xA6E5236F=~s~如果你通过窗口向房子里发射榴弹，房子里的人就会逃走。
 
 ;0xA8BB73F5=Terry and Clay will cover the rear exit of the house.
-0xA8BB73F5=Terry和Clay会掩护房子的后门。
+0xA8BB73F5=Terry和Clay会盯住房子的后门。
 
 ;0xAB590E53=Get on your ~b~bike.
 0xAB590E53=骑上~b~摩托车。
 
 ;0xB2190A8B=~r~You abandoned your bike.
-0xB2190A8B=~r~你丢弃了你的摩托车。
+0xB2190A8B=~r~你抛弃了你的摩托。
 
 ;0xB7C11A4C=~s~Lose the cops.
-0xB7C11A4C=~s~甩掉警察。
+0xB7C11A4C=~s~甩掉条子。
 
 ;0xD07A5DD8=Find a way into the house.
-0xD07A5DD8=找到一条进入房子的路。
+0xD07A5DD8=设法进入房子。
 
 ;0xDDB8F855=~r~Brian~s~ is trying to escape out the back entrance.
-0xDDB8F855=~r~Brian~s~正准备从后门逃走。
+0xDDB8F855=~r~Brian~s~想从后门逃走。
 
 ;0xE3952D69=~r~Brian got away.
-0xE3952D69=~r~Brian跑掉了。
+0xE3952D69=~r~Brian逃走了。
 
 ;0xF5232729=Go to Brian's ~y~safehouse.
-0xF5232729=去Brian的~y~安全屋。
+0xF5232729=前往Brian的~y~安全屋。
 
