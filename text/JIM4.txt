@@ -1,37 +1,37 @@
 ﻿[JIM4]
 ;0x120B1C31=Use the pipe bombs to destroy another ~r~van.~s~
-0x120B1C31=Use the pipe bombs to destroy another ~r~van.~s~
+0x120B1C31=使用土制炸弹炸毁另一辆~r~面包车。~s~
 
 ;0x1B052E21=One of the ~r~A.O.D. vans~s~ is nearby.
-0x1B052E21=One of the ~r~A.O.D. vans~s~ is nearby.
+0x1B052E21=其中一辆~r~死亡天使面包车~s~就在附近。
 
 ;0x1FBC2DFD=~s~You can throw pipe bombs from vehicles by pressing ~INPUT_VEH_ATTACK~.
-0x1FBC2DFD=~s~You can throw pipe bombs from vehicles by pressing ~INPUT_VEH_ATTACK~.
+0x1FBC2DFD=~s~你可以在载具上按~INPUT_VEH_ATTACK~投掷土制炸弹。
 
 ;0x244D40B5=The ~r~Angels of Death~s~ have spotted you, don't let them escape.
-0x244D40B5=The ~r~Angels of Death~s~ have spotted you, don't let them escape.
+0x244D40B5=~r~死亡天使~s~发现你了，别让他们逃走。
 
 ;0x2AC7CDA6=Get on your ~b~bike.~s~
-0x2AC7CDA6=Get on your ~b~bike.~s~
+0x2AC7CDA6=骑上你的~b~摩托。~s~
 
 ;0x333FE46C=~s~Press ~INPUT_VEH_NEXT_WEAPON~ to change your drive-by weapon.
-0x333FE46C=~s~Press ~INPUT_VEH_NEXT_WEAPON~ to change your drive-by weapon.
+0x333FE46C=~s~按~INPUT_VEH_NEXT_WEAPON~切换在载具上所用的武器。
 
 ;0x3F80F718=Use the pipe bombs to blow up the Angel of Death ~r~vans.~s~
-0x3F80F718=Use the pipe bombs to blow up the Angel of Death ~r~vans.~s~
+0x3F80F718=用土制炸弹炸毁死亡天使的~r~面包车。~s~
 
 ;0x4394BB3F=Vans set to attack.
-0x4394BB3F=Vans set to attack.
+0x4394BB3F=面包车准备攻击。
 
 ;0x440D769F=~s~The longer you hold down ~INPUT_VEH_ATTACK~ the shorter the fuse will become.
-0x440D769F=~s~The longer you hold down ~INPUT_VEH_ATTACK~ the shorter the fuse will become.
+0x440D769F=~s~~INPUT_VEH_ATTACK~按得越久，引爆时间就越短。
 
 ;0x522812D8=~s~Press ~INPUT_VEH_HEADLIGHT~ to change your drive-by weapon.
-0x522812D8=~s~Press ~INPUT_VEH_HEADLIGHT~ to change your drive-by weapon.
+0x522812D8=~s~按~INPUT_VEH_HEADLIGHT~切换在载具上所用的武器。
 
 ;0x812D7A74=That van won't cause anymore trouble, get back on your ~b~bike.~s~
-0x812D7A74=That van won't cause anymore trouble, get back on your ~b~bike.~s~
+0x812D7A74=现在那辆面包车不足为患了，回到你的~b~摩托~s~上。
 
 ;0xFED9C20F=~r~Your bike was wrecked.~s~
-0xFED9C20F=~r~Your bike was wrecked.~s~
+0xFED9C20F=~r~你的摩托坏了。~s~
 
