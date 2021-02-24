@@ -1,15 +1,15 @@
-﻿[RPi1AUD]
+[RPi1AUD]
 ;0x00B76DB4=~z~You ain't getting away from here, Brian.
-0x00B76DB4=~z~You ain't getting away from here, Brian.
+0x00B76DB4=~z~你别想活着出去，Brian。
 
 ;0x062825E7=~z~Man, it wasn't like that.
-0x062825E7=~z~Man, it wasn't like that.
+0x062825E7=~z~兄弟，不是这样的。
 
 ;0x06C4ED57=~z~Come on, man. Don't be like that.
-0x06C4ED57=~z~Come on, man. Don't be like that.
+0x06C4ED57=~z~拜托，兄弟，你别这样。
 
 ;0x06DC8E7D=~z~Just wait here a second, would you, Johnny?
-0x06DC8E7D=~z~Just wait here a second, would you, Johnny?
+0x06DC8E7D=~z~在这等一会儿，好吗，Johnny？
 
 ;0x0CED7840=100090010
 0x0CED7840=100090010
@@ -21,16 +21,16 @@
 0x113BD540=RPi1_OA
 
 ;0x138C259F=~z~Heh heh heh. You didn't expect this one, did you?
-0x138C259F=~z~Heh heh heh. You didn't expect this one, did you?
+0x138C259F=~z~嘿嘿嘿嘿，这你没想到吧？
 
 ;0x13EE28A0=~z~Uh, can you wait here a minute, man?
-0x13EE28A0=~z~Uh, can you wait here a minute, man?
+0x13EE28A0=~z~呃，你能在这儿等会儿吗，伙计？
 
 ;0x161FA9E0=SFX_PAUSE_420
 0x161FA9E0=SFX_PAUSE_420
 
 ;0x17499AD8=~z~You little fucking shit. Fuck you, Brian.
-0x17499AD8=~z~You little fucking shit. Fuck you, Brian.
+0x17499AD8=~z~你个崽种。操你妈的，Brian。
 
 ;0x1D1AA5DE=SFX_PAUSE_480
 0x1D1AA5DE=SFX_PAUSE_480
@@ -39,16 +39,16 @@
 0x1D95699C=SFX_PAUSE_570
 
 ;0x1F1AD918=~z~I can help you save the club, man. Seriously.
-0x1F1AD918=~z~I can help you save the club, man. Seriously.
+0x1F1AD918=~z~我能帮你拯救帮会，兄弟。真的。
 
 ;0x266BE65E=~z~Uh...you were my brother, Brian, but you fucked shit up.
-0x266BE65E=~z~Uh...you were my brother, Brian, but you fucked shit up.
+0x266BE65E=~z~噢...以前我拿你当兄弟，Brian，最后被你辜负了。
 
 ;0x27524529=~z~This don't feel right to me, man. Now get the fuck out of here.
-0x27524529=~z~This don't feel right to me, man. Now get the fuck out of here.
+0x27524529=~z~我感觉不太对，伙计。现在就给老子滚。
 
 ;0x283B7B61=~z~Look, I'm with Johnny f-ing Klebitz. Umm, we're coming to you, huh.
-0x283B7B61=~z~Look, I'm with Johnny f-ing Klebitz. Umm, we're coming to you, huh.
+0x283B7B61=~z~听着，我和丫的Johnny Klebitz在一块。我们来找你了，哈。
 
 ;0x28B69304=100
 0x28B69304=100
@@ -60,16 +60,16 @@
 0x2DED62A3=RPi1_JA
 
 ;0x303F7A15=~z~Seriously. Billy, he fucked up.
-0x303F7A15=~z~Seriously. Billy, he fucked up.
+0x303F7A15=~z~真的，Billy，是他辜负了你。
 
 ;0x316A7DB7=~z~Fuck you Brian.
-0x316A7DB7=~z~Fuck you Brian.
+0x316A7DB7=~z~去你妈的，Brian。
 
 ;0x32061EA6=RPi1_FB
 0x32061EA6=RPi1_FB
 
 ;0x330D54C0=~z~Johnny Klebitz.
-0x330D54C0=~z~Johnny Klebitz.
+0x330D54C0=~z~Johnny Klebitz。
 
 ;0x333CAFC5=RPi1_EA
 0x333CAFC5=RPi1_EA
@@ -78,16 +78,16 @@
 0x33482DB0=RPi1_EB
 
 ;0x3A8AFBA9=~z~Uh, can you wait here a minute, man?
-0x3A8AFBA9=~z~Uh, can you wait here a minute, man?
+0x3A8AFBA9=~z~呃，伙计，你能在这儿等会儿吗？
 
 ;0x3DBADB42=~z~Johnny! Johnny K.
-0x3DBADB42=~z~Johnny! Johnny K.
+0x3DBADB42=~z~Johnny！Johnny K。
 
 ;0x3F59A949=~z~Heh heh heh, yeah, yeah, that's right. Listen I've, ummm...
-0x3F59A949=~z~Heh heh heh, yeah, yeah, that's right. Listen I've, ummm...
+0x3F59A949=~z~呵呵呵，对对，没错。听着，那个...
 
 ;0x41C99E91=~z~Everything got out of control, seriously.
-0x41C99E91=~z~Everything got out of control, seriously.
+0x41C99E91=~z~当时局面完全失控了，真的。
 
 ;0x42F7578B=RPi1_PA
 0x42F7578B=RPi1_PA
@@ -96,28 +96,28 @@
 0x4685BF9D=SFX_PAUSE_450
 
 ;0x491C7E7D=~z~You're dead, Brian.
-0x491C7E7D=~z~You're dead, Brian.
+0x491C7E7D=~z~你完了，Brian。
 
 ;0x4AA3B115=~z~Where you taking me now, boy?
-0x4AA3B115=~z~Where you taking me now, boy?
+0x4AA3B115=~z~你要带我去哪儿，小子？
 
 ;0x4F6E7EA9=~z~Hey I thought I told you to stay out of town?
-0x4F6E7EA9=~z~Hey I thought I told you to stay out of town?
+0x4F6E7EA9=~z~喂，我记得我是叫你离开这儿吧？
 
 ;0x504CEB37=100090100
 0x504CEB37=100090100
 
 ;0x509F3C3C=~z~Yeah, killing your friends.
-0x509F3C3C=~z~Yeah, killing your friends.
+0x509F3C3C=~z~是是是，奉命杀了朋友。
 
 ;0x542DB423=~z~Stay behind me. Don't overtake, Johnny. Don't get ahead of yourself.
-0x542DB423=~z~Stay behind me. Don't overtake, Johnny. Don't get ahead of yourself.
+0x542DB423=~z~跟在我后面，别超上来，Johnny。可别太激动了。
 
 ;0x55311907=~z~Yeah. We're coming to you.
-0x55311907=~z~Yeah. We're coming to you.
+0x55311907=~z~对，我们来找你了。
 
 ;0x5BD06236=~z~Hey, it's, it's Brian.
-0x5BD06236=~z~Hey, it's, it's Brian.
+0x5BD06236=~z~喂，我是Brian。
 
 ;0x630D2E66=RPi1_MA
 0x630D2E66=RPi1_MA
@@ -129,25 +129,25 @@
 0x683C00C7=RPi1_GC
 
 ;0x6A7D6E90=~z~That was fair? Just part of the game?
-0x6A7D6E90=~z~That was fair? Just part of the game?
+0x6A7D6E90=~z~这就合理了？都是理所当然了？
 
 ;0x6D1EF53B=~z~You're my family.
-0x6D1EF53B=~z~You're my family.
+0x6D1EF53B=~z~你是我的家人啊。
 
 ;0x6EAF9006=SFX_PAUSE_490
 0x6EAF9006=SFX_PAUSE_490
 
 ;0x73949128=~z~Johnny's a fucking Judas.
-0x73949128=~z~Johnny's a fucking Judas.
+0x73949128=~z~Johnny就是个叛徒。
 
 ;0x73FC64FC=RPi1_NB
 0x73FC64FC=RPi1_NB
 
 ;0x7449D65D=~z~I should be Chapter President.
-0x7449D65D=~z~I should be Chapter President.
+0x7449D65D=~z~我本该是分会会长的。
 
 ;0x76F908EF=~z~Billy... he controlled me. I'm so ashamed.
-0x76F908EF=~z~Billy... he controlled me. I'm so ashamed.
+0x76F908EF=~z~Billy...他蛊惑了我，我很羞愧。
 
 ;0x7739A2AB=RPi1_CC
 0x7739A2AB=RPi1_CC
@@ -159,10 +159,10 @@
 0x79F58464=RPi1_FC
 
 ;0x80E11D8F=~z~This feels weird, dude.
-0x80E11D8F=~z~This feels weird, dude.
+0x80E11D8F=~z~感觉不太对，伙计。
 
 ;0x84F769BE=~z~We were all under a lot of pressure.
-0x84F769BE=~z~We were all under a lot of pressure.
+0x84F769BE=~z~当时大家都有压力。
 
 ;0x85EA4709=RPi1_KA
 0x85EA4709=RPi1_KA
@@ -177,25 +177,25 @@
 0x89A22255=SFX_PAUSE_360
 
 ;0x89CAAE92=~z~You gotta come with me. I got to show you something.
-0x89CAAE92=~z~You gotta come with me. I got to show you something.
+0x89CAAE92=~z~你一定要跟我来，我有东西要给你看。
 
 ;0x8A9698B4=RPi1_NA
 0x8A9698B4=RPi1_NA
 
 ;0x8F5AC8B4=~z~You're a dick.
-0x8F5AC8B4=~z~You're a dick.
+0x8F5AC8B4=~z~我叛你妈。
 
 ;0x9300A08C=~z~Then there's a big bad Johnny Klebitz. Heh heh heh.
-0x9300A08C=~z~Then there's a big bad Johnny Klebitz. Heh heh heh.
+0x9300A08C=~z~大坏蛋Johnny Klebitz来了。嘿嘿嘿。
 
 ;0x96A50D19=~z~And listen, I made some bad decisions.
-0x96A50D19=~z~And listen, I made some bad decisions.
+0x96A50D19=~z~你听我说，之前我的确犯错了。
 
 ;0x97C49D52=~z~You were always a Judas, Johnny.
-0x97C49D52=~z~You were always a Judas, Johnny.
+0x97C49D52=~z~你一直是个叛徒，Johnny。
 
 ;0x9C51D470=~z~You're still a snivelling little shit, man.
-0x9C51D470=~z~You're still a snivelling little shit, man.
+0x9C51D470=~z~你还是个软弱无能的小杂种，伙计。
 
 ;0x9CC729E6=RPi1_DA
 0x9CC729E6=RPi1_DA
@@ -207,37 +207,37 @@
 0xA3CD7B73=RPi1_FA
 
 ;0xA42E174E=~z~What you been doing with yourself then, Brian? Hiding under some rock?
-0xA42E174E=~z~What you been doing with yourself then, Brian? Hiding under some rock?
+0xA42E174E=~z~之前你滚哪儿去了，Brian？隐居深山？
 
 ;0xA53B383F=~z~Billy was good to you, man.
-0xA53B383F=~z~Billy was good to you, man.
+0xA53B383F=~z~Billy待你不薄，伙计。
 
 ;0xA5F6DDC5=RPi1_DB
 0xA5F6DDC5=RPi1_DB
 
 ;0xA648678D=~z~I gotta come clean. Come with me, please...
-0xA648678D=~z~I gotta come clean. Come with me, please...
+0xA648678D=~z~我必须说出真相。求求你跟我来吧...
 
 ;0xA70059C7=~z~Come on, Johnny. Follow me. Follow me.
-0xA70059C7=~z~Come on, Johnny. Follow me. Follow me.
+0xA70059C7=~z~来吧，Johnny。跟我来，跟我来。
 
 ;0xA7D9CDE2=SFX_PAUSE_340
 0xA7D9CDE2=SFX_PAUSE_340
 
 ;0xA9BD9424=~z~I've been waiting to see you for a long time, Johnny. Ever since,
-0xA9BD9424=~z~I've been waiting to see you for a long time, Johnny. Ever since,
+0xA9BD9424=~z~我想见你很久了，Johnny。自从，
 
 ;0xABAE8810=SFX_PAUSE_330
 0xABAE8810=SFX_PAUSE_330
 
 ;0xABC43757=~z~But seriously, Johnny, you're the man.
-0xABC43757=~z~But seriously, Johnny, you're the man.
+0xABC43757=~z~不过说真的，Johnny，你成功了！
 
 ;0xACA18429=RPi1_GA
 0xACA18429=RPi1_GA
 
 ;0xAD27761B=~z~I hope I don't regret not killing you, Brian.
-0xAD27761B=~z~I hope I don't regret not killing you, Brian.
+0xAD27761B=~z~希望我不后悔放过你，Brian。
 
 ;0xAEE64853=RPi1_MB
 0xAEE64853=RPi1_MB
@@ -246,22 +246,22 @@
 0xB0B112C8=SFX_PAUSE_360
 
 ;0xB0B2A206=~z~That's nice, dude. I'm real touched.
-0xB0B2A206=~z~That's nice, dude. I'm real touched.
+0xB0B2A206=~z~可以，兄弟。我很感动。
 
 ;0xB1B4FCFE=~z~But me... I was being a good soldier. Following my leader.
-0xB1B4FCFE=~z~But me... I was being a good soldier. Following my leader.
+0xB1B4FCFE=~z~可我...我是个好士兵。跟着老大走。
 
 ;0xB3BDD3C6=~z~That's the last insult, motherfucker.
-0xB3BDD3C6=~z~That's the last insult, motherfucker.
+0xB3BDD3C6=~z~这是最后一次问候了，崽种。
 
 ;0xB5C68781=~z~I don't know how Billy put up with you, man.
-0xB5C68781=~z~I don't know how Billy put up with you, man.
+0xB5C68781=~z~真搞不懂Billy是怎么忍你的，伙计。
 
 ;0xB8C0FD48=~z~See if you can keep up, huh Johnny? Don't get lost.
-0xB8C0FD48=~z~See if you can keep up, huh Johnny? Don't get lost.
+0xB8C0FD48=~z~你还跟得上我吗，哈，Johnny？别跟丢了。
 
 ;0xBAFF7487=~z~Fuck you, Klebitz-o-witz.
-0xBAFF7487=~z~Fuck you, Klebitz-o-witz.
+0xBAFF7487=~z~去你妈的，Klebitz-o-witz。
 
 ;0xBB692669=RPi1_CA
 0xBB692669=RPi1_CA
@@ -279,31 +279,31 @@
 0xBFA29C66=100
 
 ;0xBFC1191A=~z~Come on, man. That ain't fair. That ain't fair.
-0xBFC1191A=~z~Come on, man. That ain't fair. That ain't fair.
+0xBFC1191A=~z~得了吧，兄弟。这不合理，这不合理。
 
 ;0xC415570C=~z~You sound kinda creepy, there, Brian. No, I don't mean to make fun. I really don't.
-0xC415570C=~z~You sound kinda creepy, there, Brian. No, I don't mean to make fun. I really don't.
+0xC415570C=~z~这话有点吓人啊，Brian。不，我没拿你开涮，真没有。
 
 ;0xC7F7FC3A=~z~I hope you die scared, Brian. You little bitch.
-0xC7F7FC3A=~z~I hope you die scared, Brian. You little bitch.
+0xC7F7FC3A=~z~祝你在恐惧中死去，Brian。你个崽种。
 
 ;0xC96FAE6B=~z~You best be legit, Brian.
-0xC96FAE6B=~z~You best be legit, Brian.
+0xC96FAE6B=~z~你最好规矩点，Brian。
 
 ;0xCCEC34BC=~z~Then I'll leave town.
-0xCCEC34BC=~z~Then I'll leave town.
+0xCCEC34BC=~z~然后我会永远离开。
 
 ;0xCEE48A0F=~z~Brian, you mother fucking little piece of shit. Die!
-0xCEE48A0F=~z~Brian, you mother fucking little piece of shit. Die!
+0xCEE48A0F=~z~Brian，你个狗娘养的臭傻逼。死吧！
 
 ;0xD09080EF=~z~I did. I left. I was a ghost. Seriously Johnny.
-0xD09080EF=~z~I did. I left. I was a ghost. Seriously Johnny.
+0xD09080EF=~z~是的，我走了，直接消失了。真的Johnny。
 
 ;0xD13E6DB2=RPi1_LA
 0xD13E6DB2=RPi1_LA
 
 ;0xD1FFBD97=~z~Really?
-0xD1FFBD97=~z~Really?
+0xD1FFBD97=~z~是吗？
 
 ;0xD32BE84E=RPi1_BA
 0xD32BE84E=RPi1_BA
@@ -315,10 +315,10 @@
 0xD53328AC=RPi1_GD
 
 ;0xD7386F19=~z~ever since you paid me that little visit.
-0xD7386F19=~z~ever since you paid me that little visit.
+0xD7386F19=~z~自从你上次的家访以后。
 
 ;0xD7D8C2AD=~z~Okay... but if you're fucking with me,
-0xD7D8C2AD=~z~Okay... but if you're fucking with me,
+0xD7D8C2AD=~z~行...要是你他妈的敢搞我。
 
 ;0xD8497F9F=102090102090012090102
 0xD8497F9F=102090102090012090102
@@ -327,22 +327,22 @@
 0xDA9B0BE3=RPi1_EC
 
 ;0xDB66D065=~z~But all the people that were killed, and all the shit we've been through,
-0xDB66D065=~z~But all the people that were killed, and all the shit we've been through,
+0xDB66D065=~z~那那些为此而死的弟兄、血雨腥风的内战，
 
 ;0xDB8385F8=~z~Yeah, I've been you know, hanging with some dudes. I miss Billy, you know.
-0xDB8385F8=~z~Yeah, I've been you know, hanging with some dudes. I miss Billy, you know.
+0xDB8385F8=~z~我其实跟着几个哥们混着。我还挺想Billy的。
 
 ;0xDBC5B215=~z~That's Johnny K, thinks he's President of the Alderney chapter. Most us think he's First Lady
-0xDBC5B215=~z~That's Johnny K, thinks he's President of the Alderney chapter. Most us think he's First Lady
+0xDBC5B215=~z~欢迎Johnny K，自封的Alderney分会会长。我们当他是会长夫人。
 
 ;0xDD76F948=RPi1_HA
 0xDD76F948=RPi1_HA
 
 ;0xDEAF7DFF=~z~Yeah. Nice one. Johnny K.
-0xDEAF7DFF=~z~Yeah. Nice one. Johnny K.
+0xDEAF7DFF=~z~是啊，还可以。Johnny K。
 
 ;0xDF98B454=~z~Brother. Brother, Brother, Brother, Brother it's, ah, it's ah, Brian.
-0xDF98B454=~z~Brother. Brother, Brother, Brother, Brother it's, ah, it's ah, Brian.
+0xDF98B454=~z~兄弟，兄弟兄弟兄弟兄弟，我是，呃，我是Brian。
 
 ;0xE260F9E5=SFX_PAUSE_190
 0xE260F9E5=SFX_PAUSE_190
@@ -354,47 +354,47 @@
 0xE36E9758=102
 
 ;0xE3D92780=~z~You were a ghost for like five minutes man.
-0xE3D92780=~z~You were a ghost for like five minutes man.
+0xE3D92780=~z~那你搁这儿大变活人呢，老兄。
 
 ;0xE5E79630=012090102090102090012
 0xE5E79630=012090102090102090012
 
 ;0xE8625189=~z~Stay here for a second, buddy. Don't go nowhere.
-0xE8625189=~z~Stay here for a second, buddy. Don't go nowhere.
+0xE8625189=~z~稍微等一会儿，伙计，哪儿也别去。
 
 ;0xE93F4D08=~z~Looky who I got with me - Johnny K, my old pal.
-0xE93F4D08=~z~Looky who I got with me - Johnny K, my old pal.
+0xE93F4D08=~z~看看我带谁来了—— Johnny K，我的老伙计。
 
 ;0xE9A9664E=~z~I'm gonna put a bullet right through your fucking skull Brian.
-0xE9A9664E=~z~I'm gonna put a bullet right through your fucking skull Brian.
+0xE9A9664E=~z~我就一枪打爆你的脑壳，Brian。
 
 ;0xEA808AD0=102
 0xEA808AD0=102
 
 ;0xEB234B69=~z~Yeah. I got Johnny K from Alderney with me. We're coming to you.
-0xEB234B69=~z~Yeah. I got Johnny K from Alderney with me. We're coming to you.
+0xEB234B69=~z~对。我带着Johnny K从Alderney过来了。待会就来你那儿。
 
 ;0xEB8F7202=~z~Get the fuck out of my sight.
-0xEB8F7202=~z~Get the fuck out of my sight.
+0xEB8F7202=~z~马上从我面前滚开。
 
 ;0xEDA874E8=~z~and the fact you and Billy are rats.
-0xEDA874E8=~z~and the fact you and Billy are rats.
+0xEDA874E8=~z~还有你和Billy是内鬼的事实，
 
 ;0xF4C68324=~z~Fuck you Brian.
-0xF4C68324=~z~Fuck you Brian.
+0xF4C68324=~z~操你妈，Brian。
 
 ;0xF51349F4=~z~I told you to go permanently.
-0xF51349F4=~z~I told you to go permanently.
+0xF51349F4=~z~我是让你永远滚蛋。
 
 ;0xF7940F61=092
 0xF7940F61=092
 
 ;0xFE2D6B05=~z~Hey, hey, you'd never guess who I bumped into.
-0xFE2D6B05=~z~Hey, hey, you'd never guess who I bumped into.
+0xFE2D6B05=~z~喂，喂，你肯定猜不到我遇见谁了。
 
 ;0xFFF48110=100090100090100
 0xFFF48110=100090100090100
 
 ;0xFFF94EE3=~z~Hiding under a rock? That's funny, JK, really funny.
-0xFFF94EE3=~z~Hiding under a rock? That's funny, JK, really funny.
+0xFFF94EE3=~z~隐居深山？有意思，JK，真有意思。
 
