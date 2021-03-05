@@ -1,6 +1,6 @@
 ﻿[MALC2AU]
 ;0x00BA8ACB=~z~But that there race was pure skill. So long, buddy.
-0x00BA8ACB=~z~但是这比赛靠的是我的真正技术。回见，老兄。
+0x00BA8ACB=~z~但是赛车只看你的车技。回见，伙计。
 
 ;0x00D357D2=MALC2_IA
 0x00D357D2=MALC2_IA
@@ -12,16 +12,16 @@
 0x0432EF72=MALC2_CB
 
 ;0x05021247=~z~You been fiddlin' with that rice burner, Malcolm?
-0x05021247=~z~你一直在捣鼓那个电饭锅，Malcolm？
+0x05021247=~z~还在折腾你那电饭锅呢，Malcolm？
 
 ;0x08A92288=~z~I'm taking this American machine right here across the finish first.
-0x08A92288=~z~我要骑着这台美式机器先冲过终点了。
+0x08A92288=~z~我会骑着这台美式机车闪电冲线的。
 
 ;0x0BD7D27A=~z~See if you can keep up with an Uptown Rider.
-0x0BD7D27A=~z~看看你能不能跟得上一个Uptown Rider的成员。
+0x0BD7D27A=~z~看你能不能跟上上城骑士。
 
 ;0x0DEAB9FB=~z~Pretend like you're in the Liberty City Swingers, man. Knock 'em the fuck out.
-0x0DEAB9FB=~z~假装你是Liberty City Swingers棒球队的一员，伙计。把他们都他妈干掉。
+0x0DEAB9FB=~z~想象自己是自由城浪人队的一员，兄弟。用力打飞他们。
 
 ;0x139CA135=SFX_PAUSE_270
 0x139CA135=SFX_PAUSE_270
@@ -30,10 +30,10 @@
 0x1826938D=MALC2_CD
 
 ;0x185C7780=~z~Sorry, dude, I just couldn't help myself
-0x185C7780=~z~不好意思老兄，我只是控制不住我自己
+0x185C7780=~z~抱歉，老兄，我就是管不住手啊。
 
 ;0x1C15D651=~z~Take this shit, yo. Smash a mother fucker good if you have to.
-0x1C15D651=~z~哟，拿上这玩意。如果有必要的话，好好揍个傻逼一顿。
+0x1C15D651=~z~拿上这玩意吧。需要了就直接给一棍子。
 
 ;0x1F5134F4=MALC2_DA
 0x1F5134F4=MALC2_DA
@@ -45,22 +45,22 @@
 0x21E866B1=100090010090010
 
 ;0x296B70FC=~z~Here's a bat, Johnny. Knock em outta the park, man.
-0x296B70FC=~z~这是根棒球棒，Johnny。把他们从这一片赶跑，伙计。
+0x296B70FC=~z~棒球棍拿好，Johnny。打个他们落花流水，兄弟。
 
 ;0x299EDB80=~z~I'd like to see you beat me on a real bike. Later on.
 0x299EDB80=~z~我想看你骑真正的摩托打败我。回见。
 
 ;0x2A0B7A69=~z~What? You need to be easy, funny man.
-0x2A0B7A69=~z~什么？你需要放轻松，有趣的家伙。
+0x2A0B7A69=~z~啥？差不多得了，小丑哥。
 
 ;0x2A69FE03=SFX_PAUSE_280
 0x2A69FE03=SFX_PAUSE_280
 
 ;0x2B50E7D7=~z~Second's the most you can hope for, man.
-0x2B50E7D7=~z~你最多也就能指望个第二了，伙计。
+0x2B50E7D7=~z~你最多也就能拿个第二了，伙计。
 
 ;0x30F8F764=~z~There's some serious cats on the other side of town looking for a race.
-0x30F8F764=~z~在镇子那一边有一些挺厉害的家伙在找人比赛呢。
+0x30F8F764=~z~在城市另一头有几个猛男在找人比赛呢。
 
 ;0x344071D6=~z~Peace out.
 0x344071D6=~z~走了。
@@ -69,7 +69,7 @@
 0x36DC8307=~z~所以咋样？你来吗？
 
 ;0x376A1526=~z~It's all good. How'd them problems you were having work out?
-0x376A1526=~z~一切都挺好。你有什么问题要解决的吗？
+0x376A1526=~z~都挺好的。之前你那些问题都解决了没？
 
 ;0x387A166B=MALC2_IC
 0x387A166B=MALC2_IC
@@ -78,25 +78,25 @@
 0x3AD69870=MALC2_IB
 
 ;0x3B417F2B=~z~Hey yo, this is one of them races like DeSean got himself shot in before.
-0x3B417F2B=~z~嘿，这是一场像DeSean之前中枪一样的比赛。
+0x3B417F2B=~z~嘿，这场赛车和DeSean之前中枪的那场差不多。
 
 ;0x3C3D7156=MALC2_GB
 0x3C3D7156=MALC2_GB
 
 ;0x411B2888=~z~About the same as your bike.
-0x411B2888=~z~大概和你的车一样。
+0x411B2888=~z~和你的车况差不多吧。
 
 ;0x4607B54C=100090010090010010090100
 0x4607B54C=100090010090010010090100
 
 ;0x4D1FAF8D=~z~We gonna be scrappin' all the way.
-0x4D1FAF8D=~z~我们一路都会打架。
+0x4D1FAF8D=~z~一路上都要打过去。
 
 ;0x4F18F2F7=~z~We're at the starting block, boy. Come on.
-0x4F18F2F7=~z~我们在起点了，伙计。加油。
+0x4F18F2F7=~z~我们在起点了，小子。加油。
 
 ;0x5298CB83=~z~What up, Johnny boy?
-0x5298CB83=~z~最近怎么样，Johnny伙计？
+0x5298CB83=~z~最近好吗，Johnny仔？
 
 ;0x52FF7787=100
 0x52FF7787=100
@@ -108,7 +108,7 @@
 0x595D13D5=MALC2_CC
 
 ;0x608F5253=~z~What? Shit I'm all over this.
-0x608F5253=~z~什么？操，我都搞定了。
+0x608F5253=~z~啥？操，我怎么不信呢。
 
 ;0x64666F1E=~z~Hey Malc.
 0x64666F1E=~z~嘿，Malc。
@@ -120,19 +120,19 @@
 0x68926672=~z~好啊，加我一个。
 
 ;0x6C55904E=~z~Shit, looks like you and me got played, Johnny.
-0x6C55904E=~z~妈的，看起来好像咱俩都被耍了，Johnny。
+0x6C55904E=~z~妈的，看来咱俩都被耍了，Johnny。
 
 ;0x727DEE50=~z~I was lucky to be born after the invention of penicillin and the internal combustion engine.
-0x727DEE50=~z~我很幸运出生在青霉素和内燃机发明之后。
+0x727DEE50=~z~出生在青霉素和内燃机发明之后也是我运气好。
 
 ;0x72A4EDF5=~z~Yo, you just keep yours in your pants as well. I know how itchy that finger gets.
-0x72A4EDF5=~z~哟，保证你那玩意还在裤裆里就行了。我知道你的手指有多忍不住。
+0x72A4EDF5=~z~哟，你还是把枪藏裤兜里吧。我知道你管不住手。
 
 ;0x7442BBE3=SFX_PAUSE_260
 0x7442BBE3=SFX_PAUSE_260
 
 ;0x782585BC=~z~Man, shit.
-0x782585BC=~z~操，伙计。
+0x782585BC=~z~操，兄弟。
 
 ;0x7FE3ED2A=MALC2_AA
 0x7FE3ED2A=MALC2_AA
@@ -141,7 +141,7 @@
 0x80B286D2=MALC2_HB
 
 ;0x81F2951D=~z~So, Malc, I got a feeling you're not gonna win this race.
-0x81F2951D=~z~所以，Malc，我感觉这场比赛你赢不了。
+0x81F2951D=~z~Malc，我感觉这场比赛你赢不了。
 
 ;0x8288A9B7=MALC2_JB
 0x8288A9B7=MALC2_JB
@@ -150,10 +150,10 @@
 0x8426837B=MALC2_GC
 
 ;0x85D82121=~z~But you won't be if this hot import breaks down before we get there.
-0x85D82121=~z~但是如果这种激情在咱到那之前就消失了，你就参加不成了。
+0x85D82121=~z~就怕你这进口车没到起点就坏了，直接退赛。
 
 ;0x8885B764=~z~-Oh yeah.~n~-No doubt.
-0x8885B764=~z~-哦行啊。~n~-没问题。
+0x8885B764=~z~－行啊。~n~－果然。
 
 ;0x8D78A13E=SFX_PAUSE_290
 0x8D78A13E=SFX_PAUSE_290
@@ -171,25 +171,25 @@
 0x98A62E8E=100090010090010
 
 ;0x995DC808=~z~And this ain't no pussy ass polite race either.
-0x995DC808=~z~而且这也不是什么讲那些娘们礼貌的比赛。
+0x995DC808=~z~而且还是不讲礼数的狂野飙车。
 
 ;0x9D228F41=~z~This is where it starts. Let's go.
-0x9D228F41=~z~这就是它的起点了。咱走吧。
+0x9D228F41=~z~这就是起点线了。开始吧。
 
 ;0xA5390218=~z~Me, I'm at peace with the result. I'll see you soon.
-0xA5390218=~z~我，我感觉比赛结果没啥的。回头见。
+0xA5390218=~z~我的话，就对这个结果无感了。回头见。
 
 ;0xAA0E0EE8=~z~Keep up with me now, Johnny.
-0xAA0E0EE8=~z~现在跟上我，Johnny。
+0xAA0E0EE8=~z~现在跟我来，Johnny。
 
 ;0xAAF26736=MALC2_GA
 0xAAF26736=MALC2_GA
 
 ;0xAB572BAA=~z~And here we be. You ready?
-0xAB572BAA=~z~我们到了。你准备好了吗？
+0xAB572BAA=~z~我们到了。准备好了吗？
 
 ;0xAD35A144=~z~Man, I told you not to get your gun out.
-0xAD35A144=~z~伙计，我告诉你别把枪拿出来。
+0xAD35A144=~z~伙计，我都说了不要掏枪。
 
 ;0xAF5FD9BF=100
 0xAF5FD9BF=100
@@ -219,7 +219,7 @@
 0xC3146BBE=MALC2_CA
 
 ;0xC40208B4=~z~Hey yo, Johnny, remember, don't shoot anyone till the race is over, aight?
-0xC40208B4=~z~嘿，Johnny，记住，不要开枪打任何人直到比赛结束，好吗？
+0xC40208B4=~z~嘿，Johnny。记住，比赛结束前别对任何人开枪，好吗？
 
 ;0xC540A202=SFX_PAUSE_490
 0xC540A202=SFX_PAUSE_490
@@ -228,13 +228,13 @@
 0xC6C7ECC9=SFX_PAUSE_360
 
 ;0xC79349F2=~z~Alright. Stick with me, boy.
-0xC79349F2=~z~好啊。跟紧我，伙计。
+0xC79349F2=~z~好了。跟紧我，小子。
 
 ;0xC9839C5A=~z~Aight, aight. Everybody get lucky once and a while.
-0xC9839C5A=~z~不错，不错。谁都有运气好的时候。
+0xC9839C5A=~z~好了，好了。谁都有运气好的时候。
 
 ;0xC9B0CB07=~z~You got a serious competitive streak in you, Malcolm.
-0xC9B0CB07=~z~你有很强的竞争意识，Malcolm。
+0xC9B0CB07=~z~你有的胜负心真强啊，Malcolm。
 
 ;0xCC73AD1B=100090010090010
 0xCC73AD1B=100090010090010
@@ -246,10 +246,10 @@
 0xD215B6D4=SFX_PAUSE_430
 
 ;0xD5C5AC3B=~z~Remember guns ain't appropriate here, Johnny. Keep that shit to yourself.
-0xD5C5AC3B=~z~记住枪出现在这不合适，Johnny。把你那鸡巴玩意收好。
+0xD5C5AC3B=~z~记住，赛车不欢迎枪支，Johnny。把你的枪收好。
 
 ;0xD62134EC=~z~Here's hopin' no one pulls a piece on us this time round.
-0xD62134EC=~z~我希望这次不会有人把我们当猴耍。
+0xD62134EC=~z~希望这次不会有人对我们开枪吧。
 
 ;0xDA4396B4=SFX_PAUSE_300
 0xDA4396B4=SFX_PAUSE_300
@@ -258,7 +258,7 @@
 0xDF0DE07C=MALC2_JA
 
 ;0xE77F4FAE=~z~Remember not to shoot nobody. But you ain't gotta be all friendly up in this bitch.
-0xE77F4FAE=~z~记住不要向任何人开枪。但你在这比赛里没必要那么友好。
+0xE77F4FAE=~z~不要向任何人开枪。但也别和气到束手束脚的。
 
 ;0xE802E5CC=010090100090010090010
 0xE802E5CC=010090100090010090010
@@ -267,16 +267,16 @@
 0xE819D6A7=SFX_PAUSE_420
 
 ;0xE8F8DB44=~z~I was lucky to be born in the U-S of A, dude.
-0xE8F8DB44=~z~出生在美利坚合众国我感到真幸运，老哥。
+0xE8F8DB44=~z~出生在美国是我运气好，老兄。
 
 ;0xED5B2BD8=100090010090100
 0xED5B2BD8=100090010090100
 
 ;0xEE8E8370=~z~Ah man shit, you think you got monster nuts.
-0xEE8E8370=~z~操，伙计，你以为你吃了熊心豹子胆了。
+0xEE8E8370=~z~啊，兄弟。操，你的胆子有够肥啊。
 
 ;0xF2B36DAA=~z~Well, well, well, if my little baby here didn't burn your antiquated ass Johnny boy.
-0xF2B36DAA=~z~好吧好吧好吧，如果我的小宝贝没把你的老古董屁股烧着了，Johnny伙计。
+0xF2B36DAA=~z~好好好，都怪我的小宝贝，烫着了你的古董屁股，Johnny仔。
 
 ;0xF511E3EC=MALC2_EA
 0xF511E3EC=MALC2_EA
@@ -285,11 +285,11 @@
 0xF56CB38D=MALC2_HA
 
 ;0xF5A9321A=~z~Haven't liked bats since I got kicked outta little league. Later on.
-0xF5A9321A=~z~自从我被踢出少年棒球联合会后我就再也不喜欢球棒了。回见。
+0xF5A9321A=~z~被少棒联盟除籍以后，我就不想碰球棒了。回见。
 
 ;0xFFE10C3E=SFX_PAUSE_290
 0xFFE10C3E=SFX_PAUSE_290
 
 ;0xFFE5261D=~z~You know what? Pull 'em out, roll with me right now.
-0xFFE5261D=~z~那现在就把它们使出来，跟我去转转吧。你懂不？
+0xFFE5261D=~z~这么着吧，胆不能白长，跟我一起上吧。
 
