@@ -1,27 +1,27 @@
 ﻿[E1FCJ4A]
 ;0x0546FC8D=~z~I'm gonna need a Micro-SMG.
-0x0546FC8D=~z~I'm gonna need a Micro-SMG.
+0x0546FC8D=~z~我需要一把微型冲锋枪。
 
 ;0x058F06D2=~z~I'm going to need a grenade launcher.
-0x058F06D2=~z~I'm going to need a grenade launcher.
+0x058F06D2=~z~我需要一把榴弹发射器。
 
 ;0x0838F385=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_UZIAA
 0x0838F385=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_UZIAA
 
 ;0x105E2D69=~z~Sure, Johnny. I'll leave you one at the clubhouse.
-0x105E2D69=~z~Sure, Johnny. I'll leave you one at the clubhouse.
+0x105E2D69=~z~没问题，Johnny。我会在俱乐部给你留一把。
 
 ;0x10F201CE=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_RPGAA
 0x10F201CE=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_RPGAA
 
 ;0x130436F0=~z~I need your help, get me a shotgun.
-0x130436F0=~z~I need your help, get me a shotgun.
+0x130436F0=~z~我需要你的帮助，帮我带一把霰弹枪。
 
 ;0x137EA2B1=~z~Can you pick me up a grenade launcher.
-0x137EA2B1=~z~Can you pick me up a grenade launcher.
+0x137EA2B1=~z~捎给我把榴弹发射器吧。
 
 ;0x169C9F38=~z~Can you pick me up a Micro-SMG?
-0x169C9F38=~z~Can you pick me up a Micro-SMG?
+0x169C9F38=~z~能帮我带把微型冲锋枪吗？
 
 ;0x17AA0F80=E1FCJ4_ACT_CALL_REQ_SPEC_NOA
 0x17AA0F80=E1FCJ4_ACT_CALL_REQ_SPEC_NOA
@@ -30,16 +30,16 @@
 0x1BE1C587=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_PISTOLA
 
 ;0x1C25E724=~z~Jim, I need a sawn-off shotgun.
-0x1C25E724=~z~Jim, I need a sawn-off shotgun.
+0x1C25E724=~z~Jim，我需要一把短管霰弹枪。
 
 ;0x1F23EFEC=~z~Call me if you ever need to get your hands on a gun - I'll see what I can do and stash it at the Clubhouse.
-0x1F23EFEC=~z~Call me if you ever need to get your hands on a gun - I'll see what I can do and stash it at the Clubhouse.
+0x1F23EFEC=~z~如果你需要枪就给我打电话——我会想办法把它藏在俱乐部会所。
 
 ;0x2C321664=E1FCJ4_ACT_E1J_GETCALL_SPEC_THANKSA
 0x2C321664=E1FCJ4_ACT_E1J_GETCALL_SPEC_THANKSA
 
 ;0x2CC30862=~z~I need your help man, get me a sawn-off shotgun.
-0x2CC30862=~z~I need your help man, get me a sawn-off shotgun.
+0x2CC30862=~z~我需要你的帮助 兄弟，给我把短管霰弹枪。
 
 ;0x2D39BAF4=010
 0x2D39BAF4=010
@@ -69,28 +69,28 @@
 0x54B7F3A2=010
 
 ;0x5686232D=~z~Can you pick me up some grenades.
-0x5686232D=~z~Can you pick me up some grenades.
+0x5686232D=~z~带给我几个手榴弹吧。
 
 ;0x629165EC=010
 0x629165EC=010
 
 ;0x63DF8C24=~z~Jim, I need an SMG.
-0x63DF8C24=~z~Jim, I need an SMG.
+0x63DF8C24=~z~Jim，我需要把冲锋枪。
 
 ;0x64C4FB31=~z~Johnny, my brother, you've been a good friend. Listen, I know you're busy.
-0x64C4FB31=~z~Johnny, my brother, you've been a good friend. Listen, I know you're busy.
+0x64C4FB31=~z~Johnny，我的兄弟，你一直是我的好伙计。听着，我知道你很忙。
 
 ;0x650480EF=~z~I need your help. Get me a carbine rifle.
-0x650480EF=~z~I need your help. Get me a carbine rifle.
+0x650480EF=~z~我需要你的帮助。帮我带把卡宾步枪。
 
 ;0x6553C0C8=~z~I'm going to need grenades, man.
-0x6553C0C8=~z~I'm going to need grenades, man.
+0x6553C0C8=~z~我需要点手榴弹，伙计。
 
 ;0x670EC480=~z~Brother, I need a sniper rifle.
-0x670EC480=~z~Brother, I need a sniper rifle.
+0x670EC480=~z~兄弟，我需要把狙击步枪。
 
 ;0x6740084E=~z~Johnny, my contact can't get one so quickly. Give it time
-0x6740084E=~z~Johnny, my contact can't get one so quickly. Give it time
+0x6740084E=~z~Johnny，我的联络人不可能拿货这么快。给他点时间
 
 ;0x6824C610=010
 0x6824C610=010
@@ -99,16 +99,16 @@
 0x6E8627EA=E1FCJ4_ACT_GETCALL_SPECA
 
 ;0x6EA39F1C=~z~I'm gonna need a combat shotgun.
-0x6EA39F1C=~z~I'm gonna need a combat shotgun.
+0x6EA39F1C=~z~我需要一把战斗霰弹枪。
 
 ;0x716E0B03=~z~Brother I need an assault shotgun.
-0x716E0B03=~z~Brother I need an assault shotgun.
+0x716E0B03=~z~兄弟 我需要一把突击霰弹枪。
 
 ;0x71CAC4A4=E1FCJ4_ACT_CALL_REQ_SPEC_YESA
 0x71CAC4A4=E1FCJ4_ACT_CALL_REQ_SPEC_YESA
 
 ;0x721A2899=~z~Hey Jim, can you get me an SMG?
-0x721A2899=~z~Hey Jim, can you get me an SMG?
+0x721A2899=~z~嘿Jim，能给我带把冲锋枪吗？
 
 ;0x73DFA9D5=010
 0x73DFA9D5=010
@@ -117,34 +117,34 @@
 0x75A2FEB7=010
 
 ;0x761125F0=~z~Can't get one so soon, Johnny.
-0x761125F0=~z~Can't get one so soon, Johnny.
+0x761125F0=~z~不能这么快就弄到一个，Johnny。
 
 ;0x76C62472=~z~Hey Jim, can you get me a carbine rifle?
-0x76C62472=~z~Hey Jim, can you get me a carbine rifle?
+0x76C62472=~z~嘿Jim，能帮我带把卡宾步枪吗？
 
 ;0x7CF93BC3=~z~Can you pick me up a combat shotgun?
-0x7CF93BC3=~z~Can you pick me up a combat shotgun?
+0x7CF93BC3=~z~能帮我带把战斗霰弹枪吗？
 
 ;0x80D6EC27=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_SHOTGUNAA
 0x80D6EC27=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_SHOTGUNAA
 
 ;0x850569D3=~z~Get me a semi-automatic 9mm.
-0x850569D3=~z~Get me a semi-automatic 9mm.
+0x850569D3=~z~帮我拿把9毫米半自动手枪。
 
 ;0x87514870=~z~Is my name Ammunation? Give it some time, man.
-0x87514870=~z~Is my name Ammunation? Give it some time, man.
+0x87514870=~z~我叫武装国度吗？给我点时间，伙计。
 
 ;0x897639A9=~z~James, I need you to procure me an assualt rifle.
-0x897639A9=~z~James, I need you to procure me an assualt rifle.
+0x897639A9=~z~James，我需要你帮我搞把突击步枪。
 
 ;0x8A55D8BD=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_SAWNOFFA
 0x8A55D8BD=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_SAWNOFFA
 
 ;0x8F3E4539=~z~Get me an assualt rifle.
-0x8F3E4539=~z~Get me an assualt rifle.
+0x8F3E4539=~z~帮我拿把突击步枪。
 
 ;0x906CBC50=~z~James, I need you to procure me some molotovs.
-0x906CBC50=~z~James, I need you to procure me some molotovs.
+0x906CBC50=~z~James，我需要你帮我搞点燃烧瓶。
 
 ;0x923D7F30=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_AK47AA
 0x923D7F30=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_AK47AA
@@ -153,19 +153,19 @@
 0x9328ED56=100
 
 ;0x960E65EA=~z~Not so soon after the last gun, amigo. Give me some time.
-0x960E65EA=~z~Not so soon after the last gun, amigo. Give me some time.
+0x960E65EA=~z~不能这么快就又弄把武器，朋友。给我点时间。
 
 ;0x9B6DD628=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_GLAUNCHAA
 0x9B6DD628=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_GLAUNCHAA
 
 ;0x9E8C8EA4=~z~Thanks Jim. You know I appreciate that, man.
-0x9E8C8EA4=~z~Thanks Jim. You know I appreciate that, man.
+0x9E8C8EA4=~z~谢谢你Jim。你知道我很感激，伙计。
 
 ;0xA0B12C33=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_MP5AA
 0xA0B12C33=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_MP5AA
 
 ;0xA1F67E8B=~z~I need pipe bombs.
-0xA1F67E8B=~z~I need pipe bombs.
+0xA1F67E8B=~z~我需要点土制炸弹。
 
 ;0xA2D05599=010
 0xA2D05599=010
@@ -186,7 +186,7 @@
 0xB35DB932=100100
 
 ;0xB945D25B=~z~Hey Jim can you get me a semi-automatic 9mm.?
-0xB945D25B=~z~Hey Jim can you get me a semi-automatic 9mm.?
+0xB945D25B=~z~嘿Jim，能带给我把9毫米半自动手枪吗？
 
 ;0xBBBA4B83=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_MOLOTOVSA
 0xBBBA4B83=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_MOLOTOVSA
@@ -195,7 +195,7 @@
 0xBD325696=010
 
 ;0xBD713B9A=~z~Jim, I need an advanced sniper rifle.
-0xBD713B9A=~z~Jim, I need an advanced sniper rifle.
+0xBD713B9A=~z~Jim，我需要把高级狙击步枪。
 
 ;0xBD8DAA8A=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_M4AA
 0xBD8DAA8A=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_M4AA
@@ -204,19 +204,19 @@
 0xBDD0BCD4=010
 
 ;0xBFE4F62F=~z~I need a sniper rifle.
-0xBFE4F62F=~z~I need a sniper rifle.
+0xBFE4F62F=~z~我需要一把狙击步枪。
 
 ;0xC347D9BE=~z~I need a rocket launcher.
-0xC347D9BE=~z~I need a rocket launcher.
+0xC347D9BE=~z~我需要一把火箭炮。
 
 ;0xC54BC535=~z~Brother, I need pipe bombs.
-0xC54BC535=~z~Brother, I need pipe bombs.
+0xC54BC535=~z~哥们，我需要点土制炸弹。
 
 ;0xC6691980=~z~I'll stash one at the clubhouse.
-0xC6691980=~z~I'll stash one at the clubhouse.
+0xC6691980=~z~我会在俱乐部会所藏一把。
 
 ;0xCF3ADF2D=~z~Hey Jim can you get me an advanced sniper rifle?
-0xCF3ADF2D=~z~Hey Jim can you get me an advanced sniper rifle?
+0xCF3ADF2D=~z~嘿Jim，能帮我带把高级狙击步枪吗？
 
 ;0xD12A8400=100
 0xD12A8400=100
@@ -228,13 +228,13 @@
 0xD8FE7E85=010
 
 ;0xD9F7C09D=~z~I'll leave one locked and loaded at the clubhouse.
-0xD9F7C09D=~z~I'll leave one locked and loaded at the clubhouse.
+0xD9F7C09D=~z~我会在俱乐部会所留一把上膛上锁的。
 
 ;0xDE69E4F5=~z~James, I need you to procure me an assault shotgun.
-0xDE69E4F5=~z~James, I need you to procure me an assault shotgun.
+0xDE69E4F5=~z~James，我需要你带给我把突击霰弹枪。
 
 ;0xE237DFE5=~z~Get me some molotovs.
-0xE237DFE5=~z~Get me some molotovs.
+0xE237DFE5=~z~给我带点燃烧瓶。
 
 ;0xE4854246=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_BARETTAAA
 0xE4854246=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_BARETTAAA
@@ -246,20 +246,20 @@
 0xE7B81CB2=E1FCJ4_ACT_E1J_CALL_REQ_SPEC_ASS_SHOTA
 
 ;0xE8517202=~z~Get me a 9mm pistol.
-0xE8517202=~z~Get me a 9mm pistol.
+0xE8517202=~z~给我带把9毫米手枪。
 
 ;0xEACAB69E=010
 0xEACAB69E=010
 
 ;0xF510BD4B=~z~Brother, I need a rocket launcher.
-0xF510BD4B=~z~Brother, I need a rocket launcher.
+0xF510BD4B=~z~兄弟，我需要把火箭炮。
 
 ;0xF6DBFA65=~z~No problem. It'll be at the clubhouse.
-0xF6DBFA65=~z~No problem. It'll be at the clubhouse.
+0xF6DBFA65=~z~没问题。它会被放在俱乐部会所里。
 
 ;0xF7CD807F=~z~Jim, I need a shotgun.
-0xF7CD807F=~z~Jim, I need a shotgun.
+0xF7CD807F=~z~Jim，我需要把霰弹枪。
 
 ;0xFF1B9F96=~z~Hey Jim, can you get me a 9mm pistol?
-0xFF1B9F96=~z~Hey Jim, can you get me a 9mm pistol?
+0xFF1B9F96=~z~嘿Jim，能帮我带把9毫米手枪吗？
 
