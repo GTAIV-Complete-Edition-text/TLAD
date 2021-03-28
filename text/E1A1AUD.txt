@@ -1,45 +1,45 @@
 ﻿[E1A1AUD]
 ;0x009A0850=~z~You sure have got a lot of friends, Ash. Wait while I take care of 'em.
-0x009A0850=~z~You sure have got a lot of friends, Ash. Wait while I take care of 'em.
+0x009A0850=~z~你的朋友可真多啊，Ash。等我解决他们。
 
 ;0x0292BBE4=~z~There you are.
-0x0292BBE4=~z~There you are.
+0x0292BBE4=~z~你来啦。
 
 ;0x046B8A31=E1A1_HC
 0x046B8A31=E1A1_HC
 
 ;0x054F28FB=~z~Hold tight.
-0x054F28FB=~z~Hold tight.
+0x054F28FB=~z~坚持住。
 
 ;0x05917405=100
 0x05917405=100
 
 ;0x060C4452=~z~Yeah, everything in my life's fucking fantastic.
-0x060C4452=~z~Yeah, everything in my life's fucking fantastic.
+0x060C4452=~z~对，我生活中的一切都好到爆炸。
 
 ;0x06588DBB=~z~I remember when you used to mess around at my place,
-0x06588DBB=~z~I remember when you used to mess around at my place,
+0x06588DBB=~z~我还记得你在我家乱搞的场景，
 
 ;0x0699157F=~z~You ain't good for me, sugar. That's all I know.
-0x0699157F=~z~You ain't good for me, sugar. That's all I know.
+0x0699157F=~z~你对我影响不好，甜心。我只知道这个。
 
 ;0x06C12DDB=~z~Johnny, Johnny, they're gonna hurt me bad.
-0x06C12DDB=~z~Johnny, Johnny, they're gonna hurt me bad.
+0x06C12DDB=~z~Johnny，Johnny，他们要虐待我了。
 
 ;0x07804487=SFX_PAUSE_230
 0x07804487=SFX_PAUSE_230
 
 ;0x0A34B6F5=~z~Just look for the strung-out tweekers. Please. Come on, baby.
-0x0A34B6F5=~z~Just look for the strung-out tweekers. Please. Come on, baby.
+0x0A34B6F5=~z~哪儿有瘾君子就往哪儿走。拜托了，快点，宝贝。
 
 ;0x0A478F06=~z~He's crazy, Johnny. The ice has really screwed up his shit.
-0x0A478F06=~z~He's crazy, Johnny. The ice has really screwed up his shit.
+0x0A478F06=~z~他疯了，Johnny。冰毒让他失去理智了。
 
 ;0x0D8BCE46=E1A1_GA
 0x0D8BCE46=E1A1_GA
 
 ;0x0D8FD0ED=~z~Not the Billy that made me want to lead this life in the first place.
-0x0D8FD0ED=~z~Not the Billy that made me want to lead this life in the first place.
+0x0D8FD0ED=~z~不是那个让我决定加入失落帮的Billy。
 
 ;0x0E131748=100
 0x0E131748=100
@@ -48,7 +48,7 @@
 0x0ED9212C=E1A1_HB
 
 ;0x0F2E8919=~z~Not now, honey. I ain't feelin' so good.
-0x0F2E8919=~z~Not now, honey. I ain't feelin' so good.
+0x0F2E8919=~z~现在别，甜心。我感觉不舒服。
 
 ;0x0F78133A=SFX_PAUSE_440
 0x0F78133A=SFX_PAUSE_440
@@ -57,13 +57,13 @@
 0x0FD25DDB=SFX_PAUSE_350
 
 ;0x1026AB12=~z~Enough of that.
-0x1026AB12=~z~Enough of that.
+0x1026AB12=~z~已经够了。
 
 ;0x108E55DB=E1A1_NG
 0x108E55DB=E1A1_NG
 
 ;0x12563E33=~z~I guess it was dumb of me to think this would be any different.
-0x12563E33=~z~I guess it was dumb of me to think this would be any different.
+0x12563E33=~z~这种时候还觉得你的生活会不一样确实很蠢。
 
 ;0x151B3986=E1A1_JA
 0x151B3986=E1A1_JA
@@ -87,7 +87,7 @@
 0x176CF00E=E1A1_LA
 
 ;0x1A81C138=~z~Filthy, filthy, fucking whore.
-0x1A81C138=~z~Filthy, filthy, fucking whore.
+0x1A81C138=~z~肮脏下作的臭婆娘。
 
 ;0x1B6CC99A=E1A1_WD
 0x1B6CC99A=E1A1_WD
@@ -96,22 +96,22 @@
 0x1C879F20=E1A1_NN
 
 ;0x1CEB5361=~z~Thanks for saving me again.
-0x1CEB5361=~z~Thanks for saving me again.
+0x1CEB5361=~z~谢谢你又救了我一次。
 
 ;0x1F4BB912=~z~I thought you and Tina weren't friends no more.
-0x1F4BB912=~z~I thought you and Tina weren't friends no more.
+0x1F4BB912=~z~你不是早就跟Tina断绝来往了吗。
 
 ;0x1FAB74C9=E1A1_GB
 0x1FAB74C9=E1A1_GB
 
 ;0x2007C72B=~z~Hold on baby, let me handle this.
-0x2007C72B=~z~Hold on baby, let me handle this.
+0x2007C72B=~z~撑住，宝贝，我来解决他们。
 
 ;0x204DAB40=E1A1_NL
 0x204DAB40=E1A1_NL
 
 ;0x24182B8B=~z~That's enough now, sugar.
-0x24182B8B=~z~That's enough now, sugar.
+0x24182B8B=~z~这就够了，甜心。
 
 ;0x251A0595=SFX_PAUSE_310
 0x251A0595=SFX_PAUSE_310
@@ -123,28 +123,28 @@
 0x28D2859F=E1A1_VL
 
 ;0x2992DF1A=~z~Take me home man, I'm crashing hard.
-0x2992DF1A=~z~Take me home man, I'm crashing hard.
+0x2992DF1A=~z~带我回家，老兄，我受不了了。
 
 ;0x2A680BEE=SFX_PAUSE_390
 0x2A680BEE=SFX_PAUSE_390
 
 ;0x2AA54006=~z~I did, Johnny boy. I did.
-0x2AA54006=~z~I did, Johnny boy. I did.
+0x2AA54006=~z~是戒了，Johnny仔。戒掉了。
 
 ;0x2AAF1DB8=200
 0x2AAF1DB8=200
 
 ;0x2B4250FB=~z~I'm on my way, baby. You still in this fix?
-0x2B4250FB=~z~I'm on my way, baby. You still in this fix?
+0x2B4250FB=~z~我在路上了，宝贝。你还没逃出来吗？
 
 ;0x2B461305=~z~My boyfriends gonna splatter your brains across this place!
-0x2B461305=~z~My boyfriends gonna splatter your brains across this place!
+0x2B461305=~z~我那些男朋友会让你们脑浆涂地的！
 
 ;0x2C56A932=E1A1_VE
 0x2C56A932=E1A1_VE
 
 ;0x2CA96587=~z~Oh man, oh man, oh man.
-0x2CA96587=~z~Oh man, oh man, oh man.
+0x2CA96587=~z~我去，我去，我去。
 
 ;0x2E4599C0=SFX_PAUSE_200
 0x2E4599C0=SFX_PAUSE_200
@@ -153,40 +153,40 @@
 0x2ECA1A86=E1A1_WF
 
 ;0x2F29F7DE=~z~I love you, Johnny.
-0x2F29F7DE=~z~I love you, Johnny.
+0x2F29F7DE=~z~我爱你，Johnny。
 
 ;0x303576B1=~z~And you are ridiculous.
-0x303576B1=~z~And you are ridiculous.
+0x303576B1=~z~而你很可笑。
 
 ;0x30740EE9=100
 0x30740EE9=100
 
 ;0x307ADAA4=~z~I'm here Ashley, don't worry.
-0x307ADAA4=~z~I'm here Ashley, don't worry.
+0x307ADAA4=~z~我来了，Ashley，不要怕。
 
 ;0x31787F53=SFX_PAUSE_370
 0x31787F53=SFX_PAUSE_370
 
 ;0x32343C4D=~z~God, Ashley. Sometimes I wish I didn't care about you.
-0x32343C4D=~z~God, Ashley. Sometimes I wish I didn't care about you.
+0x32343C4D=~z~天哪，Ashley。有时我真希望自己不在乎你。
 
 ;0x3316EDB6=~z~Hit me.
-0x3316EDB6=~z~Hit me.
+0x3316EDB6=~z~打我。
 
 ;0x375B3FF5=~z~Shit, Johnny. I don't know. It had a red door. Hurry up, I'm crashing hard.
-0x375B3FF5=~z~Shit, Johnny. I don't know. It had a red door. Hurry up, I'm crashing hard.
+0x375B3FF5=~z~妈的，Johnny，我不知道。红门的公寓。快点，我受不了了。
 
 ;0x378638BF=SFX_PAUSE_420
 0x378638BF=SFX_PAUSE_420
 
 ;0x385FDB77=~z~I never lied to you.
-0x385FDB77=~z~I never lied to you.
+0x385FDB77=~z~我从来不骗你。
 
 ;0x38BC7282=~z~Come 'ere.
-0x38BC7282=~z~Come 'ere.
+0x38BC7282=~z~来吧。
 
 ;0x38F0FCA6=~z~Hit me or something. Teach me I'm wrong.
-0x38F0FCA6=~z~Hit me or something. Teach me I'm wrong.
+0x38F0FCA6=~z~比如说打我一顿。让我知错。
 
 ;0x3A22082C=SFX_PAUSE_190
 0x3A22082C=SFX_PAUSE_190
@@ -195,7 +195,7 @@
 0x3AC766F3=E1A1_NM
 
 ;0x3B08E0C9=~z~Come on, baby. That's crap and you know it.
-0x3B08E0C9=~z~Come on, baby. That's crap and you know it.
+0x3B08E0C9=~z~拜托，宝贝。吸毒不好，你知道的。
 
 ;0x3B1418E0=E1A1_WC
 0x3B1418E0=E1A1_WC
@@ -210,19 +210,19 @@
 0x3CD8EF63=E1A1_NF
 
 ;0x3F61348F=~z~Don't you know? Haven't you two been seeing anything of each other?
-0x3F61348F=~z~Don't you know? Haven't you two been seeing anything of each other?
+0x3F61348F=~z~你不知道吗？你们两个还没见过面吗？
 
 ;0x40EF6C9A=~z~I promise.
-0x40EF6C9A=~z~I promise.
+0x40EF6C9A=~z~我保证。
 
 ;0x41903F99=~z~I'm not paying you a fucking cent.
-0x41903F99=~z~I'm not paying you a fucking cent.
+0x41903F99=~z~我不会给你们一分钱。
 
 ;0x42367E1B=~z~John boy's here for you, baby.
-0x42367E1B=~z~John boy's here for you, baby.
+0x42367E1B=~z~阿强来救你了，宝贝。
 
 ;0x43398207=~z~You alright?
-0x43398207=~z~You alright?
+0x43398207=~z~你还好吗？
 
 ;0x4430C528=012
 0x4430C528=012
@@ -237,19 +237,19 @@
 0x47EE2D22=E1A1_VH
 
 ;0x49B2C82E=~z~You're funny, Johnny. You care about everyone else when they're fine. And you end up tying yourself in a knot.
-0x49B2C82E=~z~You're funny, Johnny. You care about everyone else when they're fine. And you end up tying yourself in a knot.
+0x49B2C82E=~z~你真好笑，Johnny。别人没事你还一直关心他们，结果搞得自己一团乱麻。
 
 ;0x4A871617=~z~What's wrong?
-0x4A871617=~z~What's wrong?
+0x4A871617=~z~怎么了？
 
 ;0x4AA6E68C=~z~I'm close. Which apartment are you in?
-0x4AA6E68C=~z~I'm close. Which apartment are you in?
+0x4AA6E68C=~z~在附近，你在哪一间公寓？
 
 ;0x4B5AA2ED=~z~Bitch, bitch, bitch, bitch, bitch.
-0x4B5AA2ED=~z~Bitch, bitch, bitch, bitch, bitch.
+0x4B5AA2ED=~z~贱人，贱人，贱人，贱人，贱人。
 
 ;0x4BE81F54=~z~Teach me, baby. It's the only way I'll learn. Make me hurt.
-0x4BE81F54=~z~Teach me, baby. It's the only way I'll learn. Make me hurt.
+0x4BE81F54=~z~教训我，宝贝。不教训我学不乖。让我受伤。
 
 ;0x4C04CC77=SFX_PAUSE_210
 0x4C04CC77=SFX_PAUSE_210
@@ -258,16 +258,16 @@
 0x4C74E981=SFX_PAUSE_470
 
 ;0x4CF03295=~z~Home, sweet home.
-0x4CF03295=~z~Home, sweet home.
+0x4CF03295=~z~到家了。
 
 ;0x4D365CC0=E1A1_KA
 0x4D365CC0=E1A1_KA
 
 ;0x4EDABE15=~z~Can't you hear us? These freaks are partying real hard, man. Please.
-0x4EDABE15=~z~Can't you hear us? These freaks are partying real hard, man. Please.
+0x4EDABE15=~z~你听不见吗？这些疯子闹得动静很大，老兄。拜托了。
 
 ;0x541312E1=~z~Nice place you got here, sugar.
-0x541312E1=~z~Nice place you got here, sugar.
+0x541312E1=~z~你这屋子不错，甜心。
 
 ;0x55D7F402=E1A1_GC
 0x55D7F402=E1A1_GC
@@ -285,28 +285,28 @@
 0x5C03E9C1=E1A1_VM
 
 ;0x5D0CF0CB=~z~Get me out of here, baby.
-0x5D0CF0CB=~z~Get me out of here, baby.
+0x5D0CF0CB=~z~救我出去，宝贝。
 
 ;0x5D603BC9=~z~I don't want to hang out here.
-0x5D603BC9=~z~I don't want to hang out here.
+0x5D603BC9=~z~我不想在这儿久留。
 
 ;0x62F6D0C5=~z~Sure, sure. Do you expect me to stay clean when you're not there to look after me?
-0x62F6D0C5=~z~Sure, sure. Do you expect me to stay clean when you're not there to look after me?
+0x62F6D0C5=~z~确实，确实。没你照顾我，你还指望我洁身自好吗？
 
 ;0x63F53E4D=100090010090100
 0x63F53E4D=100090010090100
 
 ;0x6413FDF4=~z~No... yeah. He's around, isn't he?
-0x6413FDF4=~z~No... yeah. He's around, isn't he?
+0x6413FDF4=~z~没有...对。他回来了，对吧？
 
 ;0x65F6E573=~z~I'm sorry. I know I ain't much,
-0x65F6E573=~z~I'm sorry. I know I ain't much,
+0x65F6E573=~z~对不起。我知道我不算什么，
 
 ;0x660C8442=SFX_PAUSE_180
 0x660C8442=SFX_PAUSE_180
 
 ;0x676E5B14=~z~M - m - motherfucker.
-0x676E5B14=~z~M - m - motherfucker.
+0x676E5B14=~z~M...m...妈个逼的。
 
 ;0x682CF343=E1A1_VG
 0x682CF343=E1A1_VG
@@ -318,13 +318,13 @@
 0x6A01892A=SFX_PAUSE_160
 
 ;0x6F21DF4C=~z~Can we go?
-0x6F21DF4C=~z~Can we go?
+0x6F21DF4C=~z~能走了吗？
 
 ;0x735A3CA5=010
 0x735A3CA5=010
 
 ;0x74066F27=~z~Stay cool, Ash. Let Daddy take care of this.
-0x74066F27=~z~Stay cool, Ash. Let Daddy take care of this.
+0x74066F27=~z~冷静，Ash。爸爸会解决的。
 
 ;0x743F87CE=SFX_PAUSE_200
 0x743F87CE=SFX_PAUSE_200
@@ -333,19 +333,19 @@
 0x74CC07E7=E1A1_WA
 
 ;0x75701FB0=~z~Fuck you, Ashley. I ain't changed. I stuck to the code I set myself.
-0x75701FB0=~z~Fuck you, Ashley. I ain't changed. I stuck to the code I set myself.
+0x75701FB0=~z~操你妈，Ashley。我没变。我坚守自己定下的原则。
 
 ;0x75E0567B=~z~I thought you'd said you stopped smoking that stuff?
-0x75E0567B=~z~I thought you'd said you stopped smoking that stuff?
+0x75E0567B=~z~之前你不是说戒掉那玩意了吗？
 
 ;0x78C0FDB9=~z~You set us up, bitch.
-0x78C0FDB9=~z~You set us up, bitch.
+0x78C0FDB9=~z~你敢耍我们，贱人。
 
 ;0x7B0E3270=E1A1_IB
 0x7B0E3270=E1A1_IB
 
 ;0x7B8DF195=~z~I can't talk about this now. Lecture me all you like later on, but right now, I need help. Please, sugar.
-0x7B8DF195=~z~I can't talk about this now. Lecture me all you like later on, but right now, I need help. Please, sugar.
+0x7B8DF195=~z~那个现在没法细说。之后你爱怎么问怎么问，但现在快来救我。拜托了，甜心。
 
 ;0x7B94FA3D=SFX_PAUSE_450
 0x7B94FA3D=SFX_PAUSE_450
@@ -360,19 +360,19 @@
 0x7F79390A=E1A1_IA
 
 ;0x8019516C=~z~You here, Johnny?
-0x8019516C=~z~You here, Johnny?
+0x8019516C=~z~你在吗，Johnny？
 
 ;0x804716CF=~z~You, me and that little habit of yours.
-0x804716CF=~z~You, me and that little habit of yours.
+0x804716CF=~z~你、我，还有你的小毒瘾。
 
 ;0x80AD1ADF=~z~We can... we can live better than this.
-0x80AD1ADF=~z~We can... we can live better than this.
+0x80AD1ADF=~z~我们...我们可以过得比现在好。
 
 ;0x818CD184=E1A1_NK
 0x818CD184=E1A1_NK
 
 ;0x81E14042=~z~Ahhhhhhh!
-0x81E14042=~z~Ahhhhhhh!
+0x81E14042=~z~啊啊啊啊啊！
 
 ;0x83522E29=SFX_PAUSE_620
 0x83522E29=SFX_PAUSE_620
@@ -381,7 +381,7 @@
 0x854BC74F=E1A1_VD
 
 ;0x864EC16D=~z~You try and live by what makes sense, take your own path and it burns you out.
-0x864EC16D=~z~You try and live by what makes sense, take your own path and it burns you out.
+0x864EC16D=~z~尽力遵循常理生活，走自己的路，直到燃尽自己。
 
 ;0x87A4B0F8=SFX_PAUSE_200
 0x87A4B0F8=SFX_PAUSE_200
@@ -390,22 +390,22 @@
 0x88A443D9=SFX_PAUSE_310
 
 ;0x893B4866=~z~So, Billy's back. How's things?
-0x893B4866=~z~So, Billy's back. How's things?
+0x893B4866=~z~那，Billy回来了。近况如何？
 
 ;0x8BF49CBC=SFX_PAUSE_200
 0x8BF49CBC=SFX_PAUSE_200
 
 ;0x8EB1754A=~z~Oh, baby. You don't mean that, do you? You're all I've got.
-0x8EB1754A=~z~Oh, baby. You don't mean that, do you? You're all I've got.
+0x8EB1754A=~z~噢，宝贝。你开玩笑的，对吧？你是我的全部了。
 
 ;0x8FEA9B68=~z~How long you been up? Two days? Three?
-0x8FEA9B68=~z~How long you been up? Two days? Three?
+0x8FEA9B68=~z~你来这儿多久了？两天？三天？
 
 ;0x90419A30=~z~I've come for you, baby. Don't worry no more.
-0x90419A30=~z~I've come for you, baby. Don't worry no more.
+0x90419A30=~z~我来救你了，宝贝。已经没什么好怕的了。
 
 ;0x926EBE62=~z~Hey, you know what? We're better than this.
-0x926EBE62=~z~Hey, you know what? We're better than this.
+0x926EBE62=~z~嘿，你知道吗？我们可以更好。
 
 ;0x9506E04A=E1A1_VK
 0x9506E04A=E1A1_VK
@@ -417,25 +417,25 @@
 0x965D512E=100090010090100
 
 ;0x96BB2E7E=~z~You sure know how to get yourself into trouble, don't ya baby?
-0x96BB2E7E=~z~You sure know how to get yourself into trouble, don't ya baby?
+0x96BB2E7E=~z~你可真懂怎么让自己陷入困境啊，宝贝。
 
 ;0x97A76996=E1A1_VC
 0x97A76996=E1A1_VC
 
 ;0x99AF6FDE=~z~This is so not fucking cool.
-0x99AF6FDE=~z~This is so not fucking cool.
+0x99AF6FDE=~z~这他妈可不好玩。
 
 ;0x9B1E0E23=~z~Well, you lost me to it.
-0x9B1E0E23=~z~Well, you lost me to it.
+0x9B1E0E23=~z~但你因为它失去了我。
 
 ;0x9C6E4007=SFX_PAUSE_350
 0x9C6E4007=SFX_PAUSE_350
 
 ;0x9D01D388=~z~Yeah, yeah.
-0x9D01D388=~z~Yeah, yeah.
+0x9D01D388=~z~好，好。
 
 ;0x9E9D44C5=~z~Give me a break, sweetheart. I used to fucking love you.
-0x9E9D44C5=~z~Give me a break, sweetheart. I used to fucking love you.
+0x9E9D44C5=~z~饶了我吧，甜心。我曾经爱过你。
 
 ;0xA01EE1BE=SFX_PAUSE_800
 0xA01EE1BE=SFX_PAUSE_800
@@ -450,10 +450,10 @@
 0xA79C1996=E1A1_OA
 
 ;0xA9A88A11=~z~Johnny, boy. I knew you'd come for me.
-0xA9A88A11=~z~Johnny, boy. I knew you'd come for me.
+0xA9A88A11=~z~Johnny仔，我就知道你会救我的。
 
 ;0xAB405213=~z~I'm with you now, Johnny boy. How could I not be?
-0xAB405213=~z~I'm with you now, Johnny boy. How could I not be?
+0xAB405213=~z~现在有你在，Johnny仔。怎么会不好呢？
 
 ;0xAD53EFC6=E1A1_WE
 0xAD53EFC6=E1A1_WE
@@ -471,7 +471,7 @@
 0xB3394353=100090010090100
 
 ;0xB42B24D5=~z~Help me! Help me!
-0xB42B24D5=~z~Help me! Help me!
+0xB42B24D5=~z~救命啊！救命啊！
 
 ;0xB4E9A3DB=SFX_PAUSE_520
 0xB4E9A3DB=SFX_PAUSE_520
@@ -480,31 +480,31 @@
 0xB5EE68F4=SFX_PAUSE_520
 
 ;0xB75E0848=~z~If you say so.
-0xB75E0848=~z~If you say so.
+0xB75E0848=~z~你说是就是吧。
 
 ;0xB8B46B15=~z~Baby, baby I'm here.
-0xB8B46B15=~z~Baby, baby I'm here.
+0xB8B46B15=~z~宝贝，宝贝我来了。
 
 ;0xB9492952=~z~My baby's here.
-0xB9492952=~z~My baby's here.
+0xB9492952=~z~我的宝贝来了。
 
 ;0xBA02750C=~z~And you sure know how to get me out, Johnny.
-0xBA02750C=~z~And you sure know how to get me out, Johnny.
+0xBA02750C=~z~你也很懂怎么救我，Johnny。
 
 ;0xBAAE75CB=SFX_PAUSE_250
 0xBAAE75CB=SFX_PAUSE_250
 
 ;0xBB000D22=~z~Either I'm trippin' or we're fucked. Look out, baby.
-0xBB000D22=~z~Either I'm trippin' or we're fucked. Look out, baby.
+0xBB000D22=~z~如果不是幻觉的话，我们就麻烦了。当心，宝贝。
 
 ;0xBBD5AC7A=~z~Oh, man, Johnny. You keep talking about how people have changed.
-0xBBD5AC7A=~z~Oh, man, Johnny. You keep talking about how people have changed.
+0xBBD5AC7A=~z~噢，天哪，Johnny。你又在讲别人都变了了。
 
 ;0xBE77B19E=SFX_PAUSE_370
 0xBE77B19E=SFX_PAUSE_370
 
 ;0xBFEE2EB2=~z~You alright?
-0xBFEE2EB2=~z~You alright?
+0xBFEE2EB2=~z~你还好吗？
 
 ;0xC1BF8971=E1A1_NC
 0xC1BF8971=E1A1_NC
@@ -513,16 +513,16 @@
 0xC5E18BF6=SFX_PAUSE_170
 
 ;0xC935A991=~z~Fuck, oh fuck, oh fuck! More of 'em, Johnny K!
-0xC935A991=~z~Fuck, oh fuck, oh fuck! More of 'em, Johnny K!
+0xC935A991=~z~操，我操，我操！又是一群人，Johnny K！
 
 ;0xC93EA99F=~z~Johnny, Johnny, there's more of them!
-0xC93EA99F=~z~Johnny, Johnny, there's more of them!
+0xC93EA99F=~z~Johnny，Johnny，又来了一群人！
 
 ;0xC983AC93=~z~but I'm all yours. You do know that, baby, don't you?
-0xC983AC93=~z~but I'm all yours. You do know that, baby, don't you?
+0xC983AC93=~z~但我是你的人。这你总知道，宝贝，没错吧？
 
 ;0xCA978EDB=~z~Ash babe, your white knight is here.
-0xCA978EDB=~z~Ash babe, your white knight is here.
+0xCA978EDB=~z~Ash宝贝，你的白衣骑士来了。
 
 ;0xCBD49700=SFX_PAUSE_640
 0xCBD49700=SFX_PAUSE_640
@@ -531,64 +531,64 @@
 0xCF43B757=E1A1_VJ
 
 ;0xD00654DB=~z~Don't you think maybe you're the one who's different?
-0xD00654DB=~z~Don't you think maybe you're the one who's different?
+0xD00654DB=~z~你就没想过可能你才是变了的人吗？
 
 ;0xD15C1D30=~z~Johnny, what's happening?
-0xD15C1D30=~z~Johnny, what's happening?
+0xD15C1D30=~z~Johnny，怎么了？
 
 ;0xD260BB05=~z~Take that bike. We'll ride off into the sunset, you and me.
-0xD260BB05=~z~Take that bike. We'll ride off into the sunset, you and me.
+0xD260BB05=~z~骑上摩托，你我二人一起奔向夕阳。
 
 ;0xD351C924=~z~I need more information, Ash.
-0xD351C924=~z~I need more information, Ash.
+0xD351C924=~z~信息不够用啊，Ash。
 
 ;0xD3CD9250=~z~I never lied to you when I was sober.
-0xD3CD9250=~z~I never lied to you when I was sober.
+0xD3CD9250=~z~我清醒的时候从来不骗你。
 
 ;0xD421C1CF=~z~Yeah, well let's hope so.
-0xD421C1CF=~z~Yeah, well let's hope so.
+0xD421C1CF=~z~是啊，希望如此吧。
 
 ;0xD4D4A355=~z~These guys can't hurt you no more, baby.
-0xD4D4A355=~z~These guys can't hurt you no more, baby.
+0xD4D4A355=~z~这些人再也伤害不了你了，宝贝。
 
 ;0xD5CE6163=E1A1_VA
 0xD5CE6163=E1A1_VA
 
 ;0xD5ED03C0=~z~I told you. I'm not friends with Tina no more. I ain't gonna lose me to meth..
-0xD5ED03C0=~z~I told you. I'm not friends with Tina no more. I ain't gonna lose me to meth..
+0xD5ED03C0=~z~我都说了，我现在没跟Tina来往了。我不会迷失在冰毒里了...
 
 ;0xD6A3380C=~z~Okay, I'm bad, baby. I'm bad. I know it. You should teach me a lesson.
-0xD6A3380C=~z~Okay, I'm bad, baby. I'm bad. I know it. You should teach me a lesson.
+0xD6A3380C=~z~好啦，我不好，宝贝。我不好，我知道了。你要教训教训我。
 
 ;0xD786B168=SFX_PAUSE_190
 0xD786B168=SFX_PAUSE_190
 
 ;0xD78AB69F=~z~You're making yourself hurt already, you fucking idiot.
-0xD78AB69F=~z~You're making yourself hurt already, you fucking idiot.
+0xD78AB69F=~z~你已经在伤害自己了，你这白痴。
 
 ;0xD8F42D7A=~z~It ain't good for you, you know that.
-0xD8F42D7A=~z~It ain't good for you, you know that.
+0xD8F42D7A=~z~吸毒对你不好，你也知道。
 
 ;0xD9F2252F=E1A1_RA
 0xD9F2252F=E1A1_RA
 
 ;0xDD1EDA97=~z~Don't worry, Ash. I'm coming. I just need some help finding it.
-0xDD1EDA97=~z~Don't worry, Ash. I'm coming. I just need some help finding it.
+0xDD1EDA97=~z~别害怕，Ash。我来了。只是还需要点线索。
 
 ;0xDE174BBD=E1A1_NA
 0xDE174BBD=E1A1_NA
 
 ;0xDE547927=~z~Fuck! Will somebody fucking help me!
-0xDE547927=~z~Fuck! Will somebody fucking help me!
+0xDE547927=~z~操！就没人来救我吗！
 
 ;0xDEC03730=~z~Ash babe, where are ya?
-0xDEC03730=~z~Ash babe, where are ya?
+0xDEC03730=~z~Ash宝贝，你在哪儿？
 
 ;0xDF7875B0=~z~Baby, baby. You came.
-0xDF7875B0=~z~Baby, baby. You came.
+0xDF7875B0=~z~宝贝，宝贝，你来了。
 
 ;0xE322C750=~z~I don't wanna hang here neither.
-0xE322C750=~z~I don't wanna hang here neither.
+0xE322C750=~z~我也不想留在这里。
 
 ;0xE32CDD19=E1A1_VI
 0xE32CDD19=E1A1_VI
@@ -603,7 +603,7 @@
 0xE47CE3E9=E1A1_VO
 
 ;0xE49E5F80=~z~Say the word, honey.
-0xE49E5F80=~z~Say the word, honey.
+0xE49E5F80=~z~等你一句话，甜心。
 
 ;0xE59E537E=E1A1_NB
 0xE59E537E=E1A1_NB
@@ -615,16 +615,16 @@
 0xE83B3540=SFX_PAUSE_490
 
 ;0xEAA3BFFC=~z~Well, my whole life's falling to shit, sweetheart.
-0xEAA3BFFC=~z~Well, my whole life's falling to shit, sweetheart.
+0xEAA3BFFC=~z~好吧，我的人生正在滑向深渊，甜心。
 
 ;0xEAE30B94=~z~Something's around. Not the Billy I knew.
-0xEAE30B94=~z~Something's around. Not the Billy I knew.
+0xEAE30B94=~z~确实回来了，但不是我认识的Billy。
 
 ;0xEE1B727A=~z~You're my habit, Johnny.
-0xEE1B727A=~z~You're my habit, Johnny.
+0xEE1B727A=~z~你就是我的毒品，Johnny。
 
 ;0xEEC3800F=~z~I can't wait much longer, sugar.
-0xEEC3800F=~z~I can't wait much longer, sugar.
+0xEEC3800F=~z~我要等不下去了，甜心。
 
 ;0xEF9ACC36=SFX_PAUSE_180
 0xEF9ACC36=SFX_PAUSE_180
@@ -636,25 +636,25 @@
 0xF26E6A97=E1A1_HA
 
 ;0xF2F01C9F=~z~I'm scared, Johnny.
-0xF2F01C9F=~z~I'm scared, Johnny.
+0xF2F01C9F=~z~我好害怕，Johnny。
 
 ;0xF326F113=~z~Maybe if you answered your calls... fuck. Whatever.
-0xF326F113=~z~Maybe if you answered your calls... fuck. Whatever.
+0xF326F113=~z~要是你接了电话的话...去，算了。
 
 ;0xF38072F6=~z~that don't happen any more either.
-0xF38072F6=~z~that don't happen any more either.
+0xF38072F6=~z~后来再没发生过。
 
 ;0xF3D7972A=E1A1_VN
 0xF3D7972A=E1A1_VN
 
 ;0xF3E8E8DC=~z~Then again, I'm not the one messing up my head on a week long ice binge.
-0xF3E8E8DC=~z~Then again, I'm not the one messing up my head on a week long ice binge.
+0xF3E8E8DC=~z~再说，溜了一个礼拜冰搞坏脑子的人又不是我。
 
 ;0xF457E441=~z~Who's counting?
-0xF457E441=~z~Who's counting?
+0xF457E441=~z~谁会数啊？
 
 ;0xF4A24CA0=~z~That hurts real good, Johnny.
-0xF4A24CA0=~z~That hurts real good, Johnny.
+0xF4A24CA0=~z~实在很痛苦，Johnny。
 
 ;0xF4AD96EE=E1A1_NJ
 0xF4AD96EE=E1A1_NJ
@@ -672,26 +672,26 @@
 0xF815239D=SFX_PAUSE_550
 
 ;0xF96CCABF=~z~Me and the crystal, of course.
-0xF96CCABF=~z~Me and the crystal, of course.
+0xF96CCABF=~z~你还有冰毒，对吧。
 
 ;0xF9BB7B00=~z~You're too sweet for words, Johnny boy. You think I'm sweet, too?
-0xF9BB7B00=~z~You're too sweet for words, Johnny boy. You think I'm sweet, too?
+0xF9BB7B00=~z~你的好我无以言表，Johnny仔。那你觉得我好吗？
 
 ;0xFB532BC9=SFX_PAUSE_370
 0xFB532BC9=SFX_PAUSE_370
 
 ;0xFE170863=~z~Click, tick, tock, click. Ahhh.
-0xFE170863=~z~Click, tick, tock, click. Ahhh.
+0xFE170863=~z~滴滴答滴。啊。
 
 ;0xFE5F28D5=100090010090100090010090100090010
 0xFE5F28D5=100090010090100090010090100090010
 
 ;0xFE70603C=~z~Gentle, baby. I'm only little.
-0xFE70603C=~z~Gentle, baby. I'm only little.
+0xFE70603C=~z~温柔点，宝贝。我还小。
 
 ;0xFF44BBB8=E1A1_NP
 0xFF44BBB8=E1A1_NP
 
 ;0xFFCB7942=~z~It's over, Ashley. I'm here.
-0xFFCB7942=~z~It's over, Ashley. I'm here.
+0xFFCB7942=~z~都结束了，Ashley。我来了。
 
