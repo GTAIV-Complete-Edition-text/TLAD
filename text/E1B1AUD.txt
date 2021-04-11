@@ -108,7 +108,7 @@
 0x121214EE=~z~我知道，老兄...相信我。
 
 ;0x12B2E767=~z~Get a mortgage, 401(k). Then fold that over into an IRA and a CD.
-0x12B2E767=~z~弄个公司退休金贷款，再去弄个个人退休保险和定存账户。
+0x12B2E767=~z~弄个企业年金，再搞个养老保险和定存账户。
 
 ;0x134A2430=E1B1_A_DAB
 0x134A2430=E1B1_A_DAB
@@ -180,7 +180,7 @@
 0x1A587436=~z~这生意提供了他的律师费。
 
 ;0x1B7475BD=~z~You forgotten your place, soldier? Stay behind the ride captain.
-0x1B7475BD=~z~你忘了自己的位置吗，士兵？别超过行车长。
+0x1B7475BD=~z~忘记自己的位置了，士兵？待在行车长后面。
 
 ;0x1B793654=SFX_PAUSE_040
 0x1B793654=SFX_PAUSE_040
@@ -516,7 +516,7 @@
 0x47C5EEAA=E1B1_A_DY
 
 ;0x47D3F694=~z~Long as you run the chapter right we can all handle it.
-0x47D3F694=~z~只要你管分部不出事，我们就能接受。
+0x47D3F694=~z~只要你管分会不出事，我们就能接受。
 
 ;0x48081463=E1B1_BI
 0x48081463=E1B1_BI
@@ -756,7 +756,7 @@
 0x648C9DA5=~z~你是老大不代表你是对的。
 
 ;0x64D0AD5C=~z~He gives you trouble, he'll have to start worrying about the whole chapter.
-0x64D0AD5C=~z~他敢惹你，就是就是跟我们整个分部过不去。
+0x64D0AD5C=~z~他敢惹你，就是就是跟我们整个分会过不去。
 
 ;0x65091DA6=~z~It used to be all you need to worry about was waking up with was some bruises.
 0x65091DA6=~z~以前这种事也就挨一顿揍昏过去。
@@ -930,7 +930,7 @@
 0x7A60464E=~z~多谢。
 
 ;0x7BDC3B48=~z~and not just putting them in our arms or up our noses.
-0x7BDC3B48=~z~分部的运行真的是一帆风顺。
+0x7BDC3B48=~z~分会的运行真的是一帆风顺。
 
 ;0x7D48132C=SFX_PAUSE_560
 0x7D48132C=SFX_PAUSE_560
