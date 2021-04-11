@@ -1,6 +1,6 @@
 ﻿[E1APAUD]
 ;0x0925B3B3=~z~ANSWER PHONE: I'm not available just now.
-0x0925B3B3=~z~ANSWER PHONE: I'm not available just now.
+0x0925B3B3=~z~自动应答：暂时没空捏。
 
 ;0x1AD0A3F5=100
 0x1AD0A3F5=100
@@ -18,7 +18,7 @@
 0x49E11B31=100
 
 ;0x4A62CE0A=~z~I'm on the computer. Email me instead.
-0x4A62CE0A=~z~I'm on the computer. Email me instead.
+0x4A62CE0A=~z~我在上网，给我发邮件吧。
 
 ;0x5646D06D=E1AP_BA
 0x5646D06D=E1AP_BA
@@ -30,8 +30,8 @@
 0x99E332AB=E1AP_CA
 
 ;0xBF30E6C4=~z~ANSWER PHONE: Phone later.
-0xBF30E6C4=~z~ANSWER PHONE: Phone later.
+0xBF30E6C4=~z~自动应答：请稍后再拨。
 
 ;0xDD9477C1=~z~ANSWER PHONE: I don't want to talk to you just now.
-0xDD9477C1=~z~ANSWER PHONE: I don't want to talk to you just now.
+0xDD9477C1=~z~自动应答：暂时不想接你电话捏。
 
