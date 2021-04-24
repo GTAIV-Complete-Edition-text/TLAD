@@ -3,31 +3,31 @@
 0x0008B732=E1FCC_ACT_CALL_DARTS_YESA
 
 ;0x00751693=~z~Too bad, brother. On the flipside.
-0x00751693=~z~Too bad, brother. On the flipside.
+0x00751693=~z~某种意义上，太糟了，兄弟。
 
 ;0x00D34EE3=100
 0x00D34EE3=100
 
 ;0x02BB0503=~z~Clay, man.
-0x02BB0503=~z~Clay, man.
+0x02BB0503=~z~Clay，哥们。
 
 ;0x034E4ECA=~z~How about some air hockey?
-0x034E4ECA=~z~How about some air hockey?
+0x034E4ECA=~z~打两把桌上冰球如何？
 
 ;0x05AA50BB=~z~I'll school you on the hockey table brother. Swing by.
-0x05AA50BB=~z~I'll school you on the hockey table brother. Swing by.
+0x05AA50BB=~z~我会在球桌上教你做人的。过来吧。
 
 ;0x0651F0AF=~z~Well shit, Johnny K. I was thinking you'd forgotten your brothers.
-0x0651F0AF=~z~Well shit, Johnny K. I was thinking you'd forgotten your brothers.
+0x0651F0AF=~z~啊，妈的，Johnny K，我都快以为你把弟兄们给忘了了。
 
 ;0x076CDDB0=~z~I feel like dropping the hammer in a race, dude. What do you think?
-0x076CDDB0=~z~I feel like dropping the hammer in a race, dude. What do you think?
+0x076CDDB0=~z~我想去比赛里拉满油门了，老兄。你想来吗？
 
 ;0x0922E11C=~z~How about we enter a contest of speed?
-0x0922E11C=~z~How about we enter a contest of speed?
+0x0922E11C=~z~一起去赛车如何？
 
 ;0x0A632A6F=~z~Disappointing, dude. Later.
-0x0A632A6F=~z~Disappointing, dude. Later.
+0x0A632A6F=~z~真遗憾，老兄。再见。
 
 ;0x0B667FCF=010
 0x0B667FCF=010
@@ -36,10 +36,10 @@
 0x0D33A001=E1FCC_ACT_CALL_GANGWAR_YESA
 
 ;0x0DABDE9E=~z~Of course, man. Later on.
-0x0DABDE9E=~z~Of course, man. Later on.
+0x0DABDE9E=~z~那当然，哥们。再见了。
 
 ;0x0E8252E5=~z~I'm thinking we throw some darts, man.
-0x0E8252E5=~z~I'm thinking we throw some darts, man.
+0x0E8252E5=~z~想不想一起去玩飞镖，哥们？
 
 ;0x0FF7C960=E1FCC_ACT_E1C_CALL_DRINKA
 0x0FF7C960=E1FCC_ACT_E1C_CALL_DRINKA
@@ -54,106 +54,106 @@
 0x15A8159E=E1FCC_ACT_E1C_CALL_HANGOUTA
 
 ;0x188D9460=~z~This is pussy time, man. Call me after eleven. She'll be worn out after then.
-0x188D9460=~z~This is pussy time, man. Call me after eleven. She'll be worn out after then.
+0x188D9460=~z~现在是操逼时间，哥们。十一点后再找我，那会儿她就没力气了。
 
 ;0x19D8ACA3=~z~I wanna go see a show, man. You feel like coming along?
-0x19D8ACA3=~z~I wanna go see a show, man. You feel like coming along?
+0x19D8ACA3=~z~我想去看演出，哥们。你想一起来吗？
 
 ;0x1BE07D27=~z~Alright, dude. Air hockey it is. Come meet me.
-0x1BE07D27=~z~Alright, dude. Air hockey it is. Come meet me.
+0x1BE07D27=~z~好，老兄。桌上冰球是吧。过来找我。
 
 ;0x1D1C65E1=E1FCC_ACT_E1C_CALL_DARTSA
 0x1D1C65E1=E1FCC_ACT_E1C_CALL_DARTSA
 
 ;0x208207FE=~z~How's your conscience? Feel like attending church with me?
-0x208207FE=~z~How's your conscience? Feel like attending church with me?
+0x208207FE=~z~想念家人了吗？要不要来帮里会所看看？
 
 ;0x21A42EF6=E1FCC_ACT_E1C_CALL_EATA
 0x21A42EF6=E1FCC_ACT_E1C_CALL_EATA
 
 ;0x2567CA5C=~z~Yo man.
-0x2567CA5C=~z~Yo man.
+0x2567CA5C=~z~哟，哥们。
 
 ;0x25823121=~z~See you soon.
-0x25823121=~z~See you soon.
+0x25823121=~z~再见。
 
 ;0x27914814=~z~You wanna join me at a show?
-0x27914814=~z~You wanna join me at a show?
+0x27914814=~z~想不想一起来看演出？
 
 ;0x287D2495=~z~Come meet me then. I'm ready to dominate your ass on the pool table.
-0x287D2495=~z~Come meet me then. I'm ready to dominate your ass on the pool table.
+0x287D2495=~z~你过来找我吧。我必会在球桌上吊打你。
 
 ;0x2A8A5EA5=~z~Sorry, man. Another time.
-0x2A8A5EA5=~z~Sorry, man. Another time.
+0x2A8A5EA5=~z~抱歉啊，哥们。改天吧。
 
 ;0x2B233D30=~z~How bout we go break some heads?
-0x2B233D30=~z~How bout we go break some heads?
+0x2B233D30=~z~咱们去给某人开开瓢咋样？
 
 ;0x2CCFC003=~z~I'll round up the boys. Come by within the next couple of hours, man.
-0x2CCFC003=~z~I'll round up the boys. Come by within the next couple of hours, man.
+0x2CCFC003=~z~我去叫人。过两个小时集合吧，哥们。
 
 ;0x2D067371=~z~As long as you don't cry when I beat you, I'm in. Stop by soon.
-0x2D067371=~z~As long as you don't cry when I beat you, I'm in. Stop by soon.
+0x2D067371=~z~只要你输的时侯别哭哭啼啼，我就来。尽快过来。
 
 ;0x2DD64296=~z~I'm in the mood to kick the shit outta someone. How about it?
-0x2DD64296=~z~I'm in the mood to kick the shit outta someone. How about it?
+0x2DD64296=~z~我现在正想找人干一架，你来不来？
 
 ;0x2E96ABF7=~z~You wanna throw it down in a race?
-0x2E96ABF7=~z~You wanna throw it down in a race?
+0x2E96ABF7=~z~你想不想来赛车？
 
 ;0x30B52864=~z~Wanna hang at the house, man?
-0x30B52864=~z~Wanna hang at the house, man?
+0x30B52864=~z~想不想来帮里会所聚聚，哥们？
 
 ;0x31F69A02=~z~You know a man like me don't normally have to pay to see that shit, but, I'm down...
-0x31F69A02=~z~You know a man like me don't normally have to pay to see that shit, but, I'm down...
+0x31F69A02=~z~你知道像我这种人一般不会掏钱看这种玩意。但是来都来了...
 
 ;0x320C781D=010
 0x320C781D=010
 
 ;0x34547239=~z~Grass and pussy are about the only thing I can think of right now. I'll pass.
-0x34547239=~z~Grass and pussy are about the only thing I can think of right now. I'll pass.
+0x34547239=~z~我现在满脑子都是哈草跟日逼。不来。
 
 ;0x34FD6987=~z~Brother Clay.
-0x34FD6987=~z~Brother Clay.
+0x34FD6987=~z~Clay老弟。
 
 ;0x3645657C=~z~I need to laugh, man. Wanna go see a show?
-0x3645657C=~z~I need to laugh, man. Wanna go see a show?
+0x3645657C=~z~我得笑笑了，哥们。想不想去看演出？
 
 ;0x3B36D4DE=010
 0x3B36D4DE=010
 
 ;0x3CD12FB2=~z~You wanna play darts?
-0x3CD12FB2=~z~You wanna play darts?
+0x3CD12FB2=~z~你想玩飞镖吗？
 
 ;0x3FB601EC=~z~How bout we shoot some pool?
-0x3FB601EC=~z~How bout we shoot some pool?
+0x3FB601EC=~z~要不要去打会儿台球？
 
 ;0x42795130=100
 0x42795130=100
 
 ;0x44FDC7D9=~z~If you're paying, I'm eating, man. Come by in the next couple.
-0x44FDC7D9=~z~If you're paying, I'm eating, man. Come by in the next couple.
+0x44FDC7D9=~z~你请我我就来，哥们。几个小时这样过来吧。
 
 ;0x454CDE34=~z~Pool? Okay. Okay. Swing by, man.
-0x454CDE34=~z~Pool? Okay. Okay. Swing by, man.
+0x454CDE34=~z~台球？好，好。过来吧，哥们。
 
 ;0x48E35E0F=E1FCC_ACT_E1C_CALL_STRIPA
 0x48E35E0F=E1FCC_ACT_E1C_CALL_STRIPA
 
 ;0x49F245FB=~z~Alright, okay. Let's hit up The Lost MC HQ, Johnny.
-0x49F245FB=~z~Alright, okay. Let's hit up The Lost MC HQ, Johnny.
+0x49F245FB=~z~好的，好的。咱们在会所见面，Johnny。
 
 ;0x49F25C11=~z~Why don't we go play some air hockey?
-0x49F25C11=~z~Why don't we go play some air hockey?
+0x49F25C11=~z~要不要一起去打桌上冰球？
 
 ;0x4A8BCB27=~z~How about we go play darts?
-0x4A8BCB27=~z~How about we go play darts?
+0x4A8BCB27=~z~要不要去玩飞镖？
 
 ;0x4BE49755=~z~Clay, dude.
-0x4BE49755=~z~Clay, dude.
+0x4BE49755=~z~Clay，老兄。
 
 ;0x4DD051B5=~z~Alright, brother. I just hope the girls are ready for this.
-0x4DD051B5=~z~Alright, brother. I just hope the girls are ready for this.
+0x4DD051B5=~z~好的，兄弟。我就希望妹子们都准备好了。
 
 ;0x4E2F32E8=E1FCC_ACT_E1C_CALL_GANGWARA
 0x4E2F32E8=E1FCC_ACT_E1C_CALL_GANGWARA
@@ -165,46 +165,46 @@
 0x4F2F9D44=010
 
 ;0x52432706=~z~Pool?
-0x52432706=~z~Pool?
+0x52432706=~z~台球？
 
 ;0x52B26342=~z~Okay, man. I'll eat with you.
-0x52B26342=~z~Okay, man. I'll eat with you.
+0x52B26342=~z~好的，哥们。跟你吃饭去。
 
 ;0x54B156D7=~z~Wanna get some food?
-0x54B156D7=~z~Wanna get some food?
+0x54B156D7=~z~想吃点啥吗？
 
 ;0x54D07876=~z~You wanna enter a race?
-0x54D07876=~z~You wanna enter a race?
+0x54D07876=~z~想来赛车吗？
 
 ;0x56247342=~z~How bout we kick loose at the house?
-0x56247342=~z~How bout we kick loose at the house?
+0x56247342=~z~去帮里会所嗨一下咋样？
 
 ;0x585CE6C9=~z~Let's play some darts.
-0x585CE6C9=~z~Let's play some darts.
+0x585CE6C9=~z~一起玩飞镖吧。
 
 ;0x59161B03=100
 0x59161B03=100
 
 ;0x594F322A=~z~Hey dude.
-0x594F322A=~z~Hey dude.
+0x594F322A=~z~嘿，老兄。
 
 ;0x5A1949DE=~z~Alright, dude. Catch you later.
-0x5A1949DE=~z~Alright, dude. Catch you later.
+0x5A1949DE=~z~好的，老兄。再说吧。
 
 ;0x5A259AAE=~z~I could dispense a beatin' or two. Come by and get us, man.
-0x5A259AAE=~z~I could dispense a beatin' or two. Come by and get us, man.
+0x5A259AAE=~z~出去干一架也挺好的。过来找我们吧，哥们。
 
 ;0x5AA77FB3=E1FCC_ACT_CALL_SHOW_YESA
 0x5AA77FB3=E1FCC_ACT_CALL_SHOW_YESA
 
 ;0x5AA79B67=~z~Be with you soon, brother.
-0x5AA79B67=~z~Be with you soon, brother.
+0x5AA79B67=~z~马上过来，兄弟。
 
 ;0x5B936D3B=~z~That no touching rule sure gets me down, Johnny. But I'll come.
-0x5B936D3B=~z~That no touching rule sure gets me down, Johnny. But I'll come.
+0x5B936D3B=~z~这不能摸的规矩真的让人难受，Johnny。但我还是会来的。
 
 ;0x5D29807E=~z~Okay, man. As long as you stop me from going whoring afterwards. You know what drink does to me.
-0x5D29807E=~z~Okay, man. As long as you stop me from going whoring afterwards. You know what drink does to me.
+0x5D29807E=~z~好的，哥们。只要你过后拦着点，别让我去操逼就行。你知道喝多了我会干啥的。
 
 ;0x5F6186D2=100
 0x5F6186D2=100
@@ -213,94 +213,94 @@
 0x67901CA6=E1FCC_ACT_E1C_CALL_AIRHOCKA
 
 ;0x6869B6EB=~z~I'll come by then, brother.
-0x6869B6EB=~z~I'll come by then, brother.
+0x6869B6EB=~z~我这就过来，兄弟。
 
 ;0x68ECCE50=~z~I'm high as hell, man. A show might be fun. Come get me.
-0x68ECCE50=~z~I'm high as hell, man. A show might be fun. Come get me.
+0x68ECCE50=~z~我正在兴头上呢，哥们。看场演出也不错。来找我吧。
 
 ;0x69D3C0CC=E1FCC_ACT_CALL_POOL_YESA
 0x69D3C0CC=E1FCC_ACT_CALL_POOL_YESA
 
 ;0x6A4C1275=~z~I ain't gonna make a brother sit down to eat by himself. Come by, man.
-0x6A4C1275=~z~I ain't gonna make a brother sit down to eat by himself. Come by, man.
+0x6A4C1275=~z~我可不会让兄弟自己去吃饭。过来吧，哥们。
 
 ;0x6BCCED45=~z~Shit, bro. Okay.
-0x6BCCED45=~z~Shit, bro. Okay.
+0x6BCCED45=~z~妈的，兄弟。好吧。
 
 ;0x6C583EB4=~z~Wait for me then.
-0x6C583EB4=~z~Wait for me then.
+0x6C583EB4=~z~我这就来。
 
 ;0x6C893F75=~z~You read my mind, Johnny. We'll wait for you.
-0x6C893F75=~z~You read my mind, Johnny. We'll wait for you.
+0x6C893F75=~z~你太懂我了，Johnny。咱们等你哈。
 
 ;0x6C956680=010
 0x6C956680=010
 
 ;0x70335FF2=~z~Mr. Clay Simons.
-0x70335FF2=~z~Mr. Clay Simons.
+0x70335FF2=~z~Clay Simons先生。
 
 ;0x709A933F=~z~Johnny K. I will see you at the house.
-0x709A933F=~z~Johnny K. I will see you at the house.
+0x709A933F=~z~Johnny K。我在会所见你。
 
 ;0x76A4438F=010
 0x76A4438F=010
 
 ;0x770A6A8B=~z~Alright, I can take some time off the women to see a brother. A show it is. Come by.
-0x770A6A8B=~z~Alright, I can take some time off the women to see a brother. A show it is. Come by.
+0x770A6A8B=~z~好的，偶尔不找娘们陪陪兄弟也不错。看演出是吧，过来吧。
 
 ;0x77C8ACEB=010
 0x77C8ACEB=010
 
 ;0x78D62F89=~z~Let's fucking eat, man. Come by in the next couple of hours.
-0x78D62F89=~z~Let's fucking eat, man. Come by in the next couple of hours.
+0x78D62F89=~z~吃他妈的，哥们。几个小时这样过来吧。
 
 ;0x7B42A88F=~z~I could kill some time at the house, Johnny.
-0x7B42A88F=~z~I could kill some time at the house, Johnny.
+0x7B42A88F=~z~我可以去会所消磨点时间，Johnny。
 
 ;0x7D348418=~z~I got a date with some army buddies, man. Sorry.
-0x7D348418=~z~I got a date with some army buddies, man. Sorry.
+0x7D348418=~z~我约了老战友聚会，哥们。不好意思。
 
 ;0x7DAC020E=E1FCC_ACT_CALL_ASLEEPA
 0x7DAC020E=E1FCC_ACT_CALL_ASLEEPA
 
 ;0x7E22FBD1=~z~Clay, what's up?
-0x7E22FBD1=~z~Clay, what's up?
+0x7E22FBD1=~z~Clay，你好吗？
 
 ;0x8120E8E6=E1FCC_ACT_E1C_CALL_REJECTEDA
 0x8120E8E6=E1FCC_ACT_E1C_CALL_REJECTEDA
 
 ;0x83191CDC=~z~I figured a man like you might wanna get shit canned. Yeah?
-0x83191CDC=~z~I figured a man like you might wanna get shit canned. Yeah?
+0x83191CDC=~z~我寻思你这种人是想把某些废物解决掉的，对吧？
 
 ;0x83E9EC15=E1FCC_ACT_E1C_CALL_SORRY_WOKE_UPA
 0x83E9EC15=E1FCC_ACT_E1C_CALL_SORRY_WOKE_UPA
 
 ;0x87B5B435=~z~Alright, brother. We'll play darts. See you in the next two.
-0x87B5B435=~z~Alright, brother. We'll play darts. See you in the next two.
+0x87B5B435=~z~好的，兄弟。一起玩飞镖吧。两小时后见。
 
 ;0x87D3F60A=~z~Well, Johnny. I do like an ass whippin'. Come and get us
-0x87D3F60A=~z~Well, Johnny. I do like an ass whippin'. Come and get us
+0x87D3F60A=~z~好啊，Johnny。我是想去干一架。过来找我们吧。
 
 ;0x8AA79EE2=~z~No can do, brother. I got to detail my bike, man.
-0x8AA79EE2=~z~No can do, brother. I got to detail my bike, man.
+0x8AA79EE2=~z~来不了，兄弟。我得去洗车了，哥们。
 
 ;0x8FE356FB=E1FCC_ACT_E1C_CALL_ACCEPTEDA
 0x8FE356FB=E1FCC_ACT_E1C_CALL_ACCEPTEDA
 
 ;0x907F7484=~z~Alright. Pool it is. Meet me in the next couple of hours.
-0x907F7484=~z~Alright. Pool it is. Meet me in the next couple of hours.
+0x907F7484=~z~好的，台球是吧。过两个钟头来找我吧。
 
 ;0x90CBB841=~z~I'm gonna go get drunk. You in?
-0x90CBB841=~z~I'm gonna go get drunk. You in?
+0x90CBB841=~z~我要去喝酒。你来吗？
 
 ;0x90D1DD98=100
 0x90D1DD98=100
 
 ;0x91CBB304=~z~Let's go watch a woman climb up on a pole.
-0x91CBB304=~z~Let's go watch a woman climb up on a pole.
+0x91CBB304=~z~咱们去看妹子爬钢管吧。
 
 ;0x989DC7E5=~z~Let's go get fucking drunk.
-0x989DC7E5=~z~Let's go get fucking drunk.
+0x989DC7E5=~z~咱们他妈的喝酒去。
 
 ;0x9AC440FD=E1FCC_ACT_CALL_HANGOUT_YESA
 0x9AC440FD=E1FCC_ACT_CALL_HANGOUT_YESA
@@ -312,61 +312,61 @@
 0x9DFB825D=E1FCC_ACT_ANSWER_PHONEA
 
 ;0xA17C28FB=~z~I'll be with you shortly.
-0xA17C28FB=~z~I'll be with you shortly.
+0xA17C28FB=~z~我马上过来。
 
 ;0xA1BB6F24=E1FCC_ACT_CALL_ACTIVITY_NOA
 0xA1BB6F24=E1FCC_ACT_CALL_ACTIVITY_NOA
 
 ;0xA2E077CA=~z~Well, shit. Wouldn't be no point being in this gang if I didn't hang at the house time to time. See you there.
-0xA2E077CA=~z~Well, shit. Wouldn't be no point being in this gang if I didn't hang at the house time to time. See you there.
+0xA2E077CA=~z~好吧，妈的。咱们不常来会所聚聚的话，加入这个帮有啥意义。到那见。
 
 ;0xA408D50C=010
 0xA408D50C=010
 
 ;0xA409AB5E=~z~Shit. You know I ain't with it until 11am, man. Call me then.
-0xA409AB5E=~z~Shit. You know I ain't with it until 11am, man. Call me then.
+0xA409AB5E=~z~妈的。你知道我十一点之前是不会来的，哥们。晚点再找我。
 
 ;0xA44357F3=~z~Let's go watch some round things spin around a woman.
-0xA44357F3=~z~Let's go watch some round things spin around a woman.
+0xA44357F3=~z~咱们去看妹子跳钢管舞吧。
 
 ;0xA64B692A=E1FCC_ACT_E1C_CALL_SHOWA
 0xA64B692A=E1FCC_ACT_E1C_CALL_SHOWA
 
 ;0xA6874C99=~z~Big Clay - yo.
-0xA6874C99=~z~Big Clay - yo.
+0xA6874C99=~z~Clay大哥，哟。
 
 ;0xA89CB755=~z~Man, I'd forgotten that me and you used to shoot the shit together...
-0xA89CB755=~z~Man, I'd forgotten that me and you used to shoot the shit together...
+0xA89CB755=~z~哥们，我都忘了我们以前经常这样闲聊了...
 
 ;0xAB30D8E0=~z~You wanna shoot some pool?
-0xAB30D8E0=~z~You wanna shoot some pool?
+0xAB30D8E0=~z~你想打台球吗？
 
 ;0xAC9A2AC9=100
 0xAC9A2AC9=100
 
 ;0xAD3DC092=~z~Gimme a minute and I'll be there.
-0xAD3DC092=~z~Gimme a minute and I'll be there.
+0xAD3DC092=~z~你先等会儿，我马上到。
 
 ;0xAD6CC1C9=~z~I ain't acted on my violent impulses recently enough for my liking. What about you?
-0xAD6CC1C9=~z~I ain't acted on my violent impulses recently enough for my liking. What about you?
+0xAD6CC1C9=~z~我最近没什么机会发泄暴力。你呢？
 
 ;0xB028DCCB=~z~Okay, okay, okay man, okay. I'm gonna hit the bong in preparation. Come pick me up.
-0xB028DCCB=~z~Okay, okay, okay man, okay. I'm gonna hit the bong in preparation. Come pick me up.
+0xB028DCCB=~z~好了，好了，好了哥们，好了。我收拾收拾就来。过来接我吧。
 
 ;0xB0CB4799=~z~In a bit then, man.
-0xB0CB4799=~z~In a bit then, man.
+0xB0CB4799=~z~一会儿见，哥们。
 
 ;0xB152FA86=E1FCC_ACT_E1C_CALL_GREETA
 0xB152FA86=E1FCC_ACT_E1C_CALL_GREETA
 
 ;0xB1BBA88F=~z~Sure. I can play air hockey with you. See you in the next two.
-0xB1BBA88F=~z~Sure. I can play air hockey with you. See you in the next two.
+0xB1BBA88F=~z~可以。我来陪你打冰球。两小时后见。
 
 ;0xB3238B10=~z~Yeah, come by and we'll play some darts, Johnny.
-0xB3238B10=~z~Yeah, come by and we'll play some darts, Johnny.
+0xB3238B10=~z~好啊，过来咱们一起玩飞镖吧，Johnny。
 
 ;0xB456AED7=~z~Hell yes. We're gonna get drunk and rip this town to shit, brother. Come pick us up.
-0xB456AED7=~z~Hell yes. We're gonna get drunk and rip this town to shit, brother. Come pick us up.
+0xB456AED7=~z~太他妈对了。咱们喝上几杯，把这城市搞个天翻地覆，兄弟。过来接咱。
 
 ;0xB466C90C=E1FCC_ACT_CALL_VERYIRATEA
 0xB466C90C=E1FCC_ACT_CALL_VERYIRATEA
@@ -378,52 +378,52 @@
 0xB8D18F1E=E1FCC_ACT_CALL_EAT_YESA
 
 ;0xB9351FE1=~z~I'm hungry, dude. How 'bout eating?
-0xB9351FE1=~z~I'm hungry, dude. How 'bout eating?
+0xB9351FE1=~z~我饿了，老兄。吃饭吗？
 
 ;0xBA7101A3=100
 0xBA7101A3=100
 
 ;0xBCE87C4F=~z~You wanna play pool?
-0xBCE87C4F=~z~You wanna play pool?
+0xBCE87C4F=~z~你想打台球吗？
 
 ;0xBDB6F416=100
 0xBDB6F416=100
 
 ;0xBE00E204=~z~Okay brother. See you soon.
-0xBE00E204=~z~Okay brother. See you soon.
+0xBE00E204=~z~好的，兄弟。一会儿见。
 
 ;0xBE4A0865=~z~This is Clay's phone. Leave your details.
-0xBE4A0865=~z~This is Clay's phone. Leave your details.
+0xBE4A0865=~z~这是Clay的电话。请留言。
 
 ;0xBE77AC4C=100
 0xBE77AC4C=100
 
 ;0xBF3A6564=~z~I'm in one of those needin' to kick the shit outta someone moods, man. You?
-0xBF3A6564=~z~I'm in one of those needin' to kick the shit outta someone moods, man. You?
+0xBF3A6564=~z~我现在很想找个人收拾一顿，哥们。你呢？
 
 ;0xBF9D2139=100
 0xBF9D2139=100
 
 ;0xBFFD898D=~z~I got a real freak lined up. I'll pass.
-0xBFFD898D=~z~I got a real freak lined up. I'll pass.
+0xBFFD898D=~z~我被一个怪人缠上了。来不了。
 
 ;0xC1509C07=~z~You know I'm the big dog rider in our club. Come by soon, man.
-0xC1509C07=~z~You know I'm the big dog rider in our club. Come by soon, man.
+0xC1509C07=~z~你知道在咱们帮里，我骑车最牛逼。快过来，哥们。
 
 ;0xC15338E1=~z~Well, Johnny. I figure it's been a while since you've been wanting to kick it.
-0xC15338E1=~z~Well, Johnny. I figure it's been a while since you've been wanting to kick it.
+0xC15338E1=~z~呃，Johnny。我发现你好久没打电话约我出去了。
 
 ;0xC192A7EE=~z~Darts? Okay. Come by, man.
-0xC192A7EE=~z~Darts? Okay. Come by, man.
+0xC192A7EE=~z~飞镖？好，过来吧，哥们。
 
 ;0xC1FB4A20=~z~Drunk, drunk, drunk it is, brother. Come get us.
-0xC1FB4A20=~z~Drunk, drunk, drunk it is, brother. Come get us.
+0xC1FB4A20=~z~喝酒，喝酒，喝酒是吧。来接咱们吧。
 
 ;0xC264896B=010
 0xC264896B=010
 
 ;0xC6F606DF=~z~How about we go see a show?
-0xC6F606DF=~z~How about we go see a show?
+0xC6F606DF=~z~一起去看演出怎么样？
 
 ;0xC9AC8CA8=E1FCC_ACT_CALL_STRIP_YESA
 0xC9AC8CA8=E1FCC_ACT_CALL_STRIP_YESA
@@ -438,52 +438,52 @@
 0xCF12BD00=100
 
 ;0xCF855545=~z~It's sure been a while since you wanted to hang, brother. But...
-0xCF855545=~z~It's sure been a while since you wanted to hang, brother. But...
+0xCF855545=~z~上次你约我出来是很久以前了吧，兄弟。但...
 
 ;0xCFEF2970=~z~A nasty little lady would be real disappointed if I accepted that offer. Sorry.
-0xCFEF2970=~z~A nasty little lady would be real disappointed if I accepted that offer. Sorry.
+0xCFEF2970=~z~要是答应了你，我这儿的小婊子会很失望的。抱歉。
 
 ;0xD0C167AC=~z~Fuck yeah. Let's get our drink on.
-0xD0C167AC=~z~Fuck yeah. Let's get our drink on.
+0xD0C167AC=~z~太好了。咱们去喝酒。
 
 ;0xD4C3D6FE=~z~How about we eat?
-0xD4C3D6FE=~z~How about we eat?
+0xD4C3D6FE=~z~吃饭怎么样？
 
 ;0xD4E195DD=E1FCC_ACT_CALL_RACE_YESA
 0xD4E195DD=E1FCC_ACT_CALL_RACE_YESA
 
 ;0xD74C47FE=~z~I know I can beat your ass at least. I'm game. Come get me.
-0xD74C47FE=~z~I know I can beat your ass at least. I'm game. Come get me.
+0xD74C47FE=~z~至少我还能虐你。我来，过来找我。
 
 ;0xD88E1528=~z~Johnny K. I didn't think you wanted to hang with your brothers.
-0xD88E1528=~z~Johnny K. I didn't think you wanted to hang with your brothers.
+0xD88E1528=~z~Johnny K，没想到你还愿意找弟兄们出来啊。
 
 ;0xD8C57D14=100
 0xD8C57D14=100
 
 ;0xD9EE4348=~z~Let's go check out some titties.
-0xD9EE4348=~z~Let's go check out some titties.
+0xD9EE4348=~z~咱们看奶子去。
 
 ;0xDA7A316D=~z~Alright, brother. Me and the boys'll join your - your lonely ass for a show. See you soon.
-0xDA7A316D=~z~Alright, brother. Me and the boys'll join your - your lonely ass for a show. See you soon.
+0xDA7A316D=~z~好吧，兄弟。我跟兄弟们来陪你了，陪你这寂寞的傻逼去看演出。一会见。
 
 ;0xDECE8137=E1FCC_ACT_CALL_LIKELOWA
 0xDECE8137=E1FCC_ACT_CALL_LIKELOWA
 
 ;0xDFD387D5=~z~Let's go find an air hockey table.
-0xDFD387D5=~z~Let's go find an air hockey table.
+0xDFD387D5=~z~咱们去打桌上冰球吧。
 
 ;0xE1C0CD13=~z~Hate to put pussy before a brother, but that's how I do, man. Sorry.
-0xE1C0CD13=~z~Hate to put pussy before a brother, but that's how I do, man. Sorry.
+0xE1C0CD13=~z~我也不想重娘们轻兄弟，但我就这么个人，哥们。对不起。
 
 ;0xE20BC2F2=100
 0xE20BC2F2=100
 
 ;0xE2777265=~z~I need to strap on the feed bag, man. You wanna join?
-0xE2777265=~z~I need to strap on the feed bag, man. You wanna join?
+0xE2777265=~z~开饭了，哥们，你要来吗？
 
 ;0xE5386F39=~z~Sure, brother. Stop by in the next two and we'll play darts.
-0xE5386F39=~z~Sure, brother. Stop by in the next two and we'll play darts.
+0xE5386F39=~z~当然了，兄弟。两小时内过来，然后玩飞镖去吧。
 
 ;0xE6B4E4C9=100
 0xE6B4E4C9=100
@@ -495,38 +495,38 @@
 0xE8255C65=010
 
 ;0xE86517C5=~z~Let's go hang at the house, man.
-0xE86517C5=~z~Let's go hang at the house, man.
+0xE86517C5=~z~咱们会所见，哥们。
 
 ;0xE8828252=E1FCC_ACT_CALL_DRINK_YESA
 0xE8828252=E1FCC_ACT_CALL_DRINK_YESA
 
 ;0xEB7EE08F=~z~Shit, I can't. Got to hit the boneyard for some parts.
-0xEB7EE08F=~z~Shit, I can't. Got to hit the boneyard for some parts.
+0xEB7EE08F=~z~妈的，来不了啊。我得去废车场拿点零件。
 
 ;0xECC6F036=~z~Wanna hit the bourbon with me?
-0xECC6F036=~z~Wanna hit the bourbon with me?
+0xECC6F036=~z~想跟我喝杯波旁威士忌吗？
 
 ;0xEE0591F1=~z~That's just the thing a gentleman like myself enjoys doin'. Come by, man.
-0xEE0591F1=~z~That's just the thing a gentleman like myself enjoys doin'. Come by, man.
+0xEE0591F1=~z~我这样的绅士就喜欢来这个。过来吧，哥们。
 
 ;0xEF0FE882=100
 0xEF0FE882=100
 
 ;0xF1A7AB7D=~z~Wanna play air hockey?
-0xF1A7AB7D=~z~Wanna play air hockey?
+0xF1A7AB7D=~z~想打桌上冰球吗？
 
 ;0xF4334ECD=~z~Fuck. I was thinking it was just business, business, business with you, Johnny.
-0xF4334ECD=~z~Fuck. I was thinking it was just business, business, business with you, Johnny.
+0xF4334ECD=~z~操。我还以为你每天都是生意生意生意呢，Johnny，
 
 ;0xF63A4010=~z~Come on down, man. I'll play pool with you.
-0xF63A4010=~z~Come on down, man. I'll play pool with you.
+0xF63A4010=~z~过来吧，哥们。我跟你打台球去。
 
 ;0xF684B088=~z~Shit, dude. Sorry.
-0xF684B088=~z~Shit, dude. Sorry.
+0xF684B088=~z~妈的，老兄。对不起了。
 
 ;0xF7E93DC7=E1FCC_ACT_E1C_CALL_RACEA
 0xF7E93DC7=E1FCC_ACT_E1C_CALL_RACEA
 
 ;0xF82389AC=~z~Mount up, baby. Come by and get me.
-0xF82389AC=~z~Mount up, baby. Come by and get me.
+0xF82389AC=~z~上马，宝贝。过来找我吧。
 

@@ -1,87 +1,87 @@
 ﻿[E1R3AUD]
 ;0x008BEF32=~z~You mafia fucks are a joke.
-0x008BEF32=~z~You mafia fucks are a joke.
+0x008BEF32=~z~什么狗屁黑手党。
 
 ;0x03D72FA9=~z~I fucked Ashley, my friend, and now I'm going to fuck you.
-0x03D72FA9=~z~I fucked Ashley, my friend, and now I'm going to fuck you.
+0x03D72FA9=~z~我干了Ashley，我的朋友，现在就要来干你了。
 
 ;0x03DC2FB7=~z~Fuck off, Ray!
-0x03DC2FB7=~z~Fuck off, Ray!
+0x03DC2FB7=~z~滚你妈的，Ray！
 
 ;0x05BA320B=~z~That's funny.
-0x05BA320B=~z~That's funny.
+0x05BA320B=~z~好好笑哦。
 
 ;0x070B6E75=~z~Of course he has, baby. Thanks for the heads up.
-0x070B6E75=~z~Of course he has, baby. Thanks for the heads up.
+0x070B6E75=~z~不愧是他啊，宝贝。多谢你提醒。
 
 ;0x074764BF=E1R3_OA
 0x074764BF=E1R3_OA
 
 ;0x07E8C758=~z~Johnny, man. Get behind something.
-0x07E8C758=~z~Johnny, man. Get behind something.
+0x07E8C758=~z~Johnny，哥们，找个掩体。
 
 ;0x0809E3CB=E1R3_XA
 0x0809E3CB=E1R3_XA
 
 ;0x087544E4=~z~Shit, I'd call me. Then I'd lead those suckers over to, uhh, Keneckie Avenue maybe.
-0x087544E4=~z~Shit, I'd call me. Then I'd lead those suckers over to, uhh, Keneckie Avenue maybe.
+0x087544E4=~z~妈的，我会找我支援。再把这些混蛋引到... Keneckie大道吧。
 
 ;0x08AB8D7A=~z~We'll see.
-0x08AB8D7A=~z~We'll see.
+0x08AB8D7A=~z~我试试。
 
 ;0x09B6A4A3=~z~Sorry, your friends died before you got here.
-0x09B6A4A3=~z~Sorry, your friends died before you got here.
+0x09B6A4A3=~z~抱歉，你们的朋友早就归西了。
 
 ;0x0BBE67C7=~z~The guido population's about to take another hit.
-0x0BBE67C7=~z~The guido population's about to take another hit.
+0x0BBE67C7=~z~意大利人口又要暴跌了。
 
 ;0x0C4BE57E=E1R3_EA
 0x0C4BE57E=E1R3_EA
 
 ;0x0EA88B67=~z~You're muscle for a fucking slimeball.
-0x0EA88B67=~z~You're muscle for a fucking slimeball.
+0x0EA88B67=~z~你们在给一个混蛋当炮灰。
 
 ;0x0F4605DB=~z~Here we go, bitches.
-0x0F4605DB=~z~Here we go, bitches.
+0x0F4605DB=~z~开场了，贱逼。
 
 ;0x1131685E=092
 0x1131685E=092
 
 ;0x126E3BC0=~z~Thanks, guys.
-0x126E3BC0=~z~Thanks, guys.
+0x126E3BC0=~z~谢了，伙计们。
 
 ;0x13319BD2=~z~It's my fault I'm a fucking moron.
-0x13319BD2=~z~It's my fault I'm a fucking moron.
+0x13319BD2=~z~全都怪我，怪我太傻逼。
 
 ;0x137F0A10=~z~Get up the side while you can, dude.
-0x137F0A10=~z~Get up the side while you can, dude.
+0x137F0A10=~z~趁着能上来赶紧上来吧，老哥。
 
 ;0x14315061=~z~Go ahead.
-0x14315061=~z~Go ahead.
+0x14315061=~z~继续。
 
 ;0x15E2634B=~z~Get behind cover, Johnny.
-0x15E2634B=~z~Get behind cover, Johnny.
+0x15E2634B=~z~找个掩体，Johnny。
 
 ;0x177EA46C=~z~It ain't your fault.
-0x177EA46C=~z~It ain't your fault.
+0x177EA46C=~z~不是你的错。
 
 ;0x183F7B59=E1R3_EB
 0x183F7B59=E1R3_EB
 
 ;0x18A943D2=~z~Ray, you asshole.
-0x18A943D2=~z~Ray, you asshole.
+0x18A943D2=~z~Ray，你个混蛋。
 
 ;0x19B54E66=~z~Come on, man. The ladder's a waitin'.
-0x19B54E66=~z~Come on, man. The ladder's a waitin'.
+0x19B54E66=~z~快点吧，哥们。梯子架好了等你呢。
 
 ;0x19CA2FB7=~z~Maybe.
-0x19CA2FB7=~z~Maybe.
+0x19CA2FB7=~z~也许吧。
 
 ;0x1B945DBF=~z~A bull shitter.
-0x1B945DBF=~z~A bull shitter.
+0x1B945DBF=~z~骗骗子。
 
 ;0x1C51A6B9=~z~Chew on these meatballs, you Italian pricks.
-0x1C51A6B9=~z~Chew on these meatballs, you Italian pricks.
+0x1C51A6B9=~z~吃枪子吧，意大利贱人。
 
 ;0x1CD55877=E1R3_RA
 0x1CD55877=E1R3_RA
@@ -90,10 +90,10 @@
 0x1CE488D6=E1R3_TA
 
 ;0x1CEFCB15=~z~You fucking guidos just keep coming.
-0x1CEFCB15=~z~You fucking guidos just keep coming.
+0x1CEFCB15=~z~傻逼意大利佬接着来啊。
 
 ;0x1DACF82A=~z~We ain't losing Johnny to no assholes like you.
-0x1DACF82A=~z~We ain't losing Johnny to no assholes like you.
+0x1DACF82A=~z~你们这些混蛋不可能夺走Johnny的性命。
 
 ;0x1DEEA213=SFX_PAUSE_430
 0x1DEEA213=SFX_PAUSE_430
@@ -105,97 +105,97 @@
 0x2032BAE9=300
 
 ;0x20EDA301=~z~Where're your friends, Johnny? I can't see 'em from way up here.
-0x20EDA301=~z~Where're your friends, Johnny? I can't see 'em from way up here.
+0x20EDA301=~z~你的朋友呢，Johnny？我在上面怎么没看见呢。
 
 ;0x20F29555=SFX_PAUSE_310
 0x20F29555=SFX_PAUSE_310
 
 ;0x21C179B3=~z~Well, the troops better get behind their leader then.
-0x21C179B3=~z~Well, the troops better get behind their leader then.
+0x21C179B3=~z~好吧，我们这就想法子支援大哥。
 
 ;0x224E27AE=~z~Yo. We in a hurry dude. Get up the side here.
-0x224E27AE=~z~Yo. We in a hurry dude. Get up the side here.
+0x224E27AE=~z~哟，咱们赶时间，老兄。快点上来吧。
 
 ;0x2307BC52=~z~See it's Billy.
-0x2307BC52=~z~See it's Billy.
+0x2307BC52=~z~懂吗，是Billy。
 
 ;0x239F3347=030090300
 0x239F3347=030090300
 
 ;0x244144A5=~z~I love you, Johnny K.
-0x244144A5=~z~I love you, Johnny K.
+0x244144A5=~z~我爱你，Johnny K。
 
 ;0x263034AA=E1R3_CA
 0x263034AA=E1R3_CA
 
 ;0x2647F48E=~z~Drop the fucking gun, goon.
-0x2647F48E=~z~Drop the fucking gun, goon.
+0x2647F48E=~z~你他妈把枪放下，傻逼。
 
 ;0x27617AFA=~z~What's going on?
-0x27617AFA=~z~What's going on?
+0x27617AFA=~z~你怎么样？
 
 ;0x2786E18D=~z~Fucking Ray Boccino.
-0x2786E18D=~z~Fucking Ray Boccino.
+0x2786E18D=~z~傻逼Ray Boccino。
 
 ;0x29963A7B=~z~Welcome to the party, motherfuckers.
-0x29963A7B=~z~Welcome to the party, motherfuckers.
+0x29963A7B=~z~欢迎参加派对，操蛋玩意。
 
 ;0x2A23425C=~z~You think you're tough guys. Come on!
-0x2A23425C=~z~You think you're tough guys. Come on!
+0x2A23425C=~z~你以为你们很牛逼？来啊！
 
 ;0x2AB33C7C=E1R3_LB
 0x2AB33C7C=E1R3_LB
 
 ;0x2B8F377C=~z~Meet me outside the house, okay? I'll be there if I'm still walking.
-0x2B8F377C=~z~Meet me outside the house, okay? I'll be there if I'm still walking.
+0x2B8F377C=~z~我们会所见，好吗？还活着的话我会来找你的。
 
 ;0x2DC8D1D4=~z~It's Billy.
-0x2DC8D1D4=~z~It's Billy.
+0x2DC8D1D4=~z~在于Billy。
 
 ;0x2DFF8FD5=~z~Okay, I'm going.
-0x2DFF8FD5=~z~Okay, I'm going.
+0x2DFF8FD5=~z~好好，我走。
 
 ;0x2F5DD6B7=~z~No problemo, amigo. See you at the casa.
-0x2F5DD6B7=~z~No problemo, amigo. See you at the casa.
+0x2F5DD6B7=~z~没问题，朋友。咱们会所见。
 
 ;0x2F828597=~z~I don't know what you're talking about.
-0x2F828597=~z~I don't know what you're talking about.
+0x2F828597=~z~不知道你在说什么。
 
 ;0x30A187D9=~z~What are you fucking deaf? Where's my fucking stuff?
-0x30A187D9=~z~What are you fucking deaf? Where's my fucking stuff?
+0x30A187D9=~z~你他妈耳朵聋了？老子的东西呢？
 
 ;0x30FF80C8=090
 0x30FF80C8=090
 
 ;0x31900F57=~z~Me and Ray neither, sugar.
-0x31900F57=~z~Me and Ray neither, sugar.
+0x31900F57=~z~我和Ray也不是，甜心。
 
 ;0x332F4784=~z~Eye's up! Lost MC forever, Johnny. Brothers for life.
-0x332F4784=~z~Eye's up! Lost MC forever, Johnny. Brothers for life.
+0x332F4784=~z~在上面！失落帮万岁，Johnny。生死兄弟情。
 
 ;0x3470B6BF=SFX_PAUSE_450
 0x3470B6BF=SFX_PAUSE_450
 
 ;0x3562E6E8=~z~Go on and get out of here.
-0x3562E6E8=~z~Go on and get out of here.
+0x3562E6E8=~z~起来吧，赶紧滚蛋。
 
 ;0x394CE0AF=~z~Ray! Your guys are a bunch of pussies.
-0x394CE0AF=~z~Ray! Your guys are a bunch of pussies.
+0x394CE0AF=~z~Ray！你的人都是些臭逼！
 
 ;0x3AAC95C7=E1R3_DC
 0x3AAC95C7=E1R3_DC
 
 ;0x3B69CA20=~z~I told you not to get too fucking clever.
-0x3B69CA20=~z~I told you not to get too fucking clever.
+0x3B69CA20=~z~我告诉过你别耍小聪明的。
 
 ;0x3D74217A=~z~Where's my stuff?
-0x3D74217A=~z~Where's my stuff?
+0x3D74217A=~z~老子东西呢？
 
 ;0x3E472324=~z~Fuck you.
-0x3E472324=~z~Fuck you.
+0x3E472324=~z~操你妈的。
 
 ;0x3E9FB522=~z~Jim can handle himself. You know that.
-0x3E9FB522=~z~Jim can handle himself. You know that.
+0x3E9FB522=~z~Jim能扛得住，你也知道。
 
 ;0x42332784=SFX_PAUSE_310
 0x42332784=SFX_PAUSE_310
@@ -204,28 +204,28 @@
 0x43D06616=E1R3_CD
 
 ;0x44AC6A7E=~z~Up here, man. Look at him - scared to death of a couple of hitmen.
-0x44AC6A7E=~z~Up here, man. Look at him - scared to death of a couple of hitmen.
+0x44AC6A7E=~z~这边，哥们。看看他，几个杀手就吓成这样。
 
 ;0x4A1D0A80=~z~But Johnny, Ray ain't the problem.
-0x4A1D0A80=~z~But Johnny, Ray ain't the problem.
+0x4A1D0A80=~z~但是Johnny，Ray不是问题所在。
 
 ;0x4B13A8A6=~z~You better hope they kill me, Raymond.
-0x4B13A8A6=~z~You better hope they kill me, Raymond.
+0x4B13A8A6=~z~你最好希望他们能杀掉我，Raymond。
 
 ;0x4BAF1B66=E1R3_NA
 0x4BAF1B66=E1R3_NA
 
 ;0x4BCCCB6F=~z~Gentlemen.
-0x4BCCCB6F=~z~Gentlemen.
+0x4BCCCB6F=~z~先生们。
 
 ;0x4C3D0DCC=~z~I don't got you. Crystal gone and got you babe.
-0x4C3D0DCC=~z~I don't got you. Crystal gone and got you babe.
+0x4C3D0DCC=~z~我拥有不了你。你已经被冰毒俘获了，宝贝。
 
 ;0x4D28C688=~z~For everything. He told me everything.
-0x4D28C688=~z~For everything. He told me everything.
+0x4D28C688=~z~什么都对不起。他都告诉我了。
 
 ;0x4DC2FBE3=~z~I'll wait, baby.
-0x4DC2FBE3=~z~I'll wait, baby.
+0x4DC2FBE3=~z~我等你，宝贝。
 
 ;0x4EB7E2AB=E1R3_QB
 0x4EB7E2AB=E1R3_QB
@@ -234,13 +234,13 @@
 0x4FD90487=E1R3_LA
 
 ;0x50E1B2F8=~z~Ray ain't gonna have many friends left after this.
-0x50E1B2F8=~z~Ray ain't gonna have many friends left after this.
+0x50E1B2F8=~z~这票之后，Ray的朋友就很少了。
 
 ;0x52F3D9C1=~z~Nah.
-0x52F3D9C1=~z~Nah.
+0x52F3D9C1=~z~没。
 
 ;0x53F64E82=~z~Who do you think you're bullshitting?
-0x53F64E82=~z~Who do you think you're bullshitting?
+0x53F64E82=~z~你他妈搁这儿骗谁呢？
 
 ;0x53FAC367=E1R3_KA
 0x53FAC367=E1R3_KA
@@ -249,31 +249,31 @@
 0x563DD7F0=E1R3_MB
 
 ;0x59E7A921=~z~You got me.
-0x59E7A921=~z~You got me.
+0x59E7A921=~z~你还有我。
 
 ;0x5AD4CC8C=~z~Let's do this.
-0x5AD4CC8C=~z~Let's do this.
+0x5AD4CC8C=~z~开干吧。
 
 ;0x5BE4AE0F=~z~Why bother? I'd be better off dead.
-0x5BE4AE0F=~z~Why bother? I'd be better off dead.
+0x5BE4AE0F=~z~何苦呢？我巴不得去死。
 
 ;0x5DFD6FD0=~z~That's right.
-0x5DFD6FD0=~z~That's right.
+0x5DFD6FD0=~z~这就对了。
 
 ;0x6046ECC4=~z~Me and Ray ain't friends no more.
-0x6046ECC4=~z~Me and Ray ain't friends no more.
+0x6046ECC4=~z~我和Ray不再是朋友了。
 
 ;0x61C4EA1F=~z~I don't know.
-0x61C4EA1F=~z~I don't know.
+0x61C4EA1F=~z~不知道。
 
 ;0x62021754=~z~What's your problem?
-0x62021754=~z~What's your problem?
+0x62021754=~z~你想怎样？
 
 ;0x63B5FB64=~z~Then I'd hope to hell my friends was waiting for me.
-0x63B5FB64=~z~Then I'd hope to hell my friends was waiting for me.
+0x63B5FB64=~z~然后期待我的朋友都在那里等我。
 
 ;0x64BA7D4E=~z~Anything yet?
-0x64BA7D4E=~z~Anything yet?
+0x64BA7D4E=~z~开口了吗？
 
 ;0x64C06B33=030090300
 0x64C06B33=030090300
@@ -282,13 +282,13 @@
 0x6636A982=SFX_PAUSE_450
 
 ;0x66CCC3DF=~z~Are you telling me that a backstabbing mob guy who wants to kill me ain't the problem?
-0x66CCC3DF=~z~Are you telling me that a backstabbing mob guy who wants to kill me ain't the problem?
+0x66CCC3DF=~z~你想跟我说，这个背刺我的黑手党不是问题所在？
 
 ;0x66D4C2FB=~z~Yeah and I'm an idiot believing in your bullshit all this time.
-0x66D4C2FB=~z~Yeah and I'm an idiot believing in your bullshit all this time.
+0x66D4C2FB=~z~是啊，我是傻逼，每次都信你的鬼话。
 
 ;0x670981E8=~z~Fucking hell! Stop that shit, asshole.
-0x670981E8=~z~Fucking hell! Stop that shit, asshole.
+0x670981E8=~z~操你妈的！别折腾了，混蛋。
 
 ;0x6BEE2236=092
 0x6BEE2236=092
@@ -300,16 +300,16 @@
 0x6E65AEA0=SFX_PAUSE_320
 
 ;0x6E7A90CE=~z~Where's my fucking stuff?
-0x6E7A90CE=~z~Where's my fucking stuff?
+0x6E7A90CE=~z~老子的东西呢？
 
 ;0x6F81CEAD=~z~I bet Billy wouldn't have made you do shit like this.
-0x6F81CEAD=~z~I bet Billy wouldn't have made you do shit like this.
+0x6F81CEAD=~z~我打赌Billy不会让你们干这些破事。
 
 ;0x70F00F51=~z~Go ahead, run like a couple of girls.
-0x70F00F51=~z~Go ahead, run like a couple of girls.
+0x70F00F51=~z~出去像娘们儿一样逃跑吧。
 
 ;0x71260A45=~z~Back the fuck up, back up.
-0x71260A45=~z~Back the fuck up, back up.
+0x71260A45=~z~你他妈退后，退后。
 
 ;0x7342B312=090
 0x7342B312=090
@@ -321,37 +321,37 @@
 0x780AD722=SFX_PAUSE_370
 
 ;0x78876754=~z~What are you talking about?
-0x78876754=~z~What are you talking about?
+0x78876754=~z~你在说什么呢？
 
 ;0x78BADF8A=~z~Time to fucking die, guidos.
-0x78BADF8A=~z~Time to fucking die, guidos.
+0x78BADF8A=~z~都他妈去死吧，意大利佬。
 
 ;0x78E099BE=~z~Go ahead, go ahead!
-0x78E099BE=~z~Go ahead, go ahead!
+0x78E099BE=~z~你走吧，你走吧！
 
 ;0x78FA32C6=~z~Man, I don't know how many brothers we're gonna have left to have a meeting with.
-0x78FA32C6=~z~Man, I don't know how many brothers we're gonna have left to have a meeting with.
+0x78FA32C6=~z~哥们，都不知道下次集会还剩多少弟兄了。
 
 ;0x793B45BA=~z~Start walking...
-0x793B45BA=~z~Start walking...
+0x793B45BA=~z~给我走...
 
 ;0x79842B91=092
 0x79842B91=092
 
 ;0x799326FB=~z~What the fuck is going on here?
-0x799326FB=~z~What the fuck is going on here?
+0x799326FB=~z~这里他妈是在干嘛？
 
 ;0x7B0EA24F=~z~For which bit?
-0x7B0EA24F=~z~For which bit?
+0x7B0EA24F=~z~为什么？
 
 ;0x7B4E0B7A=E1R3_JA
 0x7B4E0B7A=E1R3_JA
 
 ;0x7C8AEE67=~z~Johnny. I'm gonna quit.
-0x7C8AEE67=~z~Johnny. I'm gonna quit.
+0x7C8AEE67=~z~Johnny，我会戒掉的。
 
 ;0x7D10616E=~z~It's time to party, kids.
-0x7D10616E=~z~It's time to party, kids.
+0x7D10616E=~z~该嗨起来了，小崽子。
 
 ;0x7EA591E0=300
 0x7EA591E0=300
@@ -360,16 +360,16 @@
 0x7FF138C8=020090200
 
 ;0x80363445=~z~Burn him again.
-0x80363445=~z~Burn him again.
+0x80363445=~z~接着烫他。
 
 ;0x815DDF74=092
 0x815DDF74=092
 
 ;0x8313824C=~z~Ray... it turns out that Billy was trying to poison him against you,
-0x8313824C=~z~Ray... it turns out that Billy was trying to poison him against you,
+0x8313824C=~z~Ray...实际上是Billy诱骗他来对付你。
 
 ;0x847FDC4F=~z~Hey.
-0x847FDC4F=~z~Hey.
+0x847FDC4F=~z~嘿。
 
 ;0x850DC3BB=320090230
 0x850DC3BB=320090230
@@ -378,82 +378,82 @@
 0x85CAE027=E1R3_UA
 
 ;0x86917B37=~z~How much is Ray paying you to kill me?
-0x86917B37=~z~How much is Ray paying you to kill me?
+0x86917B37=~z~杀我Ray给了你们多少钱？
 
 ;0x869CA745=~z~Yo, Clay. Remind me why we're always helping Johnny out of trouble.
-0x869CA745=~z~Yo, Clay. Remind me why we're always helping Johnny out of trouble.
+0x869CA745=~z~哟，Clay。告诉我为啥咱们老给Johnny擦屁股。
 
 ;0x89D81C76=E1R3_HA
 0x89D81C76=E1R3_HA
 
 ;0x8D12C796=~z~Go ahead I got guys on every corner. Where are you gonna go?
-0x8D12C796=~z~Go ahead I got guys on every corner. Where are you gonna go?
+0x8D12C796=~z~滚吧，我的人到处都是。你们跑得掉？
 
 ;0x8D63DB9D=~z~|You better thank us two at the next meeting, Johnny.
-0x8D63DB9D=~z~|You better thank us two at the next meeting, Johnny.
+0x8D63DB9D=~z~下次集会你可得好好感谢咱俩，Johnny。
 
 ;0x8DFD81FB=290
 0x8DFD81FB=290
 
 ;0x8F4993E4=~z~Angus is crippled, Billy gone insane, now Jim's dead.
-0x8F4993E4=~z~Angus is crippled, Billy gone insane, now Jim's dead.
+0x8F4993E4=~z~Angus腿断了，Billy发疯了，现在Jim也死了。
 
 ;0x9038F3C1=~z~How you doin' tough guy?
-0x9038F3C1=~z~How you doin' tough guy?
+0x9038F3C1=~z~你好吗，大块头？
 
 ;0x9104984E=~z~Anyhow, he... he told me you wouldn't get hurt...
-0x9104984E=~z~Anyhow, he... he told me you wouldn't get hurt...
+0x9104984E=~z~要不是他说你不会出事，
 
 ;0x91CC3DB0=~z~Cause he's the boss, Terry. And 'cause no one else in the gang is dumb enough to get in the trouble he does.
-0x91CC3DB0=~z~Cause he's the boss, Terry. And 'cause no one else in the gang is dumb enough to get in the trouble he does.
+0x91CC3DB0=~z~因为他是大哥，Terry。帮里也不会有谁傻得像他一样天天摊上事。
 
 ;0x924D9444=~z~Billy would be getting himself a drink, and trying to screw my woman. Not fighting alongside me.
-0x924D9444=~z~Billy would be getting himself a drink, and trying to screw my woman. Not fighting alongside me.
+0x924D9444=~z~Billy会给自己满上一杯，然后来抢我的女人，不会跟我并肩作战的。
 
 ;0x925304B9=200
 0x925304B9=200
 
 ;0x9497FC73=~z~downstairs...
-0x9497FC73=~z~downstairs...
+0x9497FC73=~z~下楼...
 
 ;0x97B682B0=~z~What?
-0x97B682B0=~z~What?
+0x97B682B0=~z~啥？
 
 ;0x9A0BE813=~z~Clay, man. What would you do if you had an unknown number of mobster hitmen on your tail?
-0x9A0BE813=~z~Clay, man. What would you do if you had an unknown number of mobster hitmen on your tail?
+0x9A0BE813=~z~Clay，哥们。要是你被数量不明的黑帮杀手追杀，你会咋办？
 
 ;0x9AFD636B=~z~Billy was right about both of yous. Back-stabbing fools.
-0x9AFD636B=~z~Billy was right about both of yous. Back-stabbing fools.
+0x9AFD636B=~z~Billy对你俩的评价没错。傻逼叛徒。
 
 ;0x9B9FC739=~z~Bring it, you pussies.
-0x9B9FC739=~z~Bring it, you pussies.
+0x9B9FC739=~z~放马过来，贱逼。
 
 ;0x9C16DEBE=~z~Hopefully you ain't so stupid.
-0x9C16DEBE=~z~Hopefully you ain't so stupid.
+0x9C16DEBE=~z~希望你没那么蠢。
 
 ;0x9C1AF510=~z~That's a Lost MC chapter head you fuckin' with, grease ball.
-0x9C1AF510=~z~That's a Lost MC chapter head you fuckin' with, grease ball.
+0x9C1AF510=~z~你们盯上的可是失落帮的老大，意大利佬。
 
 ;0x9D6172A8=~z~Fuck me, man. I hope Jim ain't in trouble.
-0x9D6172A8=~z~Fuck me, man. I hope Jim ain't in trouble.
+0x9D6172A8=~z~我操，哥们。希望Jim没事。
 
 ;0x9E9170FB=~z~You see genius over here would rather get crème-brûléed before he dies.
-0x9E9170FB=~z~You see genius over here would rather get crème-brûléed before he dies.
+0x9E9170FB=~z~你眼前的这个睿智宁愿变成肉酱也不开口。
 
 ;0xA2141617=~z~These hitmen aren't so tough, Johnny.
-0xA2141617=~z~These hitmen aren't so tough, Johnny.
+0xA2141617=~z~这帮杀手不难对付，Johnny。
 
 ;0xA3563CF1=~z~I'm going to go to rehab, straighten myself out.
-0xA3563CF1=~z~I'm going to go to rehab, straighten myself out.
+0xA3563CF1=~z~我要去戒毒所了，重新做人。
 
 ;0xA470CA70=300090030
 0xA470CA70=300090030
 
 ;0xA516BF7E=~z~Fuck this!
-0xA516BF7E=~z~Fuck this!
+0xA516BF7E=~z~真操蛋！
 
 ;0xA6FE213F=~z~Aww... you gotta be kidding.
-0xA6FE213F=~z~Aww... you gotta be kidding.
+0xA6FE213F=~z~啊...你在开玩笑吧。
 
 ;0xA88AEDDE=SFX_PAUSE_460
 0xA88AEDDE=SFX_PAUSE_460
@@ -462,25 +462,25 @@
 0xAA5464D6=E1R3_FA
 
 ;0xAAC381C4=~z~Jim... he ain't...
-0xAAC381C4=~z~Jim... he ain't...
+0xAAC381C4=~z~Jim...他没...
 
 ;0xACC5568F=~z~You're speaking a foreign language to me now lady.
-0xACC5568F=~z~You're speaking a foreign language to me now lady.
+0xACC5568F=~z~你这句话我可听不懂，女士。
 
 ;0xAD66EAC7=~z~Come on, you guido pussies.
-0xAD66EAC7=~z~Come on, you guido pussies.
+0xAD66EAC7=~z~来啊，意大利贱逼。
 
 ;0xADB251A9=~z~Yeah, well why shouldn't I kill you?
-0xADB251A9=~z~Yeah, well why shouldn't I kill you?
+0xADB251A9=~z~是吗，给我个不杀你的理由。
 
 ;0xAE983D84=SFX_PAUSE_570
 0xAE983D84=SFX_PAUSE_570
 
 ;0xAEDF0456=~z~You're going to have to cut that shit out Ray. It's not fucking cool.
-0xAEDF0456=~z~You're going to have to cut that shit out Ray. It's not fucking cool.
+0xAEDF0456=~z~你丫差不多得了，Ray。这样没意思的。
 
 ;0xB23A6099=~z~and now apparently Billy's going states...
-0xB23A6099=~z~and now apparently Billy's going states...
+0xB23A6099=~z~但是既然现在Billy进局子了...
 
 ;0xB34D0F16=200090020
 0xB34D0F16=200090020
@@ -495,37 +495,37 @@
 0xB4F5ACF5=E1R3_QA
 
 ;0xB65C07AD=~z~Climb on up the ladder, dude.
-0xB65C07AD=~z~Climb on up the ladder, dude.
+0xB65C07AD=~z~从梯子爬上来，老哥。
 
 ;0xB69E3D79=E1R3_YA
 0xB69E3D79=E1R3_YA
 
 ;0xB7A59CBF=~z~I gotta go talk to Ashley.
-0xB7A59CBF=~z~I gotta go talk to Ashley.
+0xB7A59CBF=~z~我要去找Ashley。
 
 ;0xB8B5196A=~z~No.
-0xB8B5196A=~z~No.
+0xB8B5196A=~z~不。
 
 ;0xBD662709=~z~Oh no, oh man.
-0xBD662709=~z~Oh no, oh man.
+0xBD662709=~z~哦不，哦天哪。
 
 ;0xBD713114=~z~Come over to Keneckie Ave. and we'll see if those greaseballs can handle The Lost MC.
-0xBD713114=~z~Come over to Keneckie Ave. and we'll see if those greaseballs can handle The Lost MC.
+0xBD713114=~z~你来Keneckie大道吧，看看这帮意大利佬打不打得过失落帮。
 
 ;0xBD8FCD0E=~z~You're getting lazy Johnny.
-0xBD8FCD0E=~z~You're getting lazy Johnny.
+0xBD8FCD0E=~z~你个懒狗，Johnny。
 
 ;0xBF72F52A=~z~I wouldn't have done it otherwise.
-0xBF72F52A=~z~I wouldn't have done it otherwise.
+0xBF72F52A=~z~我是不会答应他的。
 
 ;0xBF987481=~z~I guess that's what they call payback.
-0xBF987481=~z~I guess that's what they call payback.
+0xBF987481=~z~大概这就是所谓的报应吧。
 
 ;0xBF9E38DF=E1R3_NB
 0xBF9E38DF=E1R3_NB
 
 ;0xC0B938FE=~z~Johnny, you standing there for a reason? Get in cover.
-0xC0B938FE=~z~Johnny, you standing there for a reason? Get in cover.
+0xC0B938FE=~z~Johnny，你站那干啥呢？躲起来啊。
 
 ;0xC0D75C01=300
 0xC0D75C01=300
@@ -540,100 +540,100 @@
 0xC285209E=E1R3_DA
 
 ;0xC5573822=~z~I'll see you later.
-0xC5573822=~z~I'll see you later.
+0xC5573822=~z~我们走着瞧。
 
 ;0xC7347C84=~z~Ray Boccino's nobody, you shitheads.
-0xC7347C84=~z~Ray Boccino's nobody, you shitheads.
+0xC7347C84=~z~Ray Boccino是个鸡巴，一帮傻逼。
 
 ;0xC7962A21=~z~What you waiting for? Get on up that ladder.
-0xC7962A21=~z~What you waiting for? Get on up that ladder.
+0xC7962A21=~z~你等啥呢？上梯子啊。
 
 ;0xCA79EAE8=E1R3_VA
 0xCA79EAE8=E1R3_VA
 
 ;0xCAE0BDC1=~z~I'll cut him.
-0xCAE0BDC1=~z~I'll cut him.
+0xCAE0BDC1=~z~那我抹他脖子。
 
 ;0xCB7968E1=~z~You mean you couldn't handle these guys by yourself, Jonathan?
-0xCB7968E1=~z~You mean you couldn't handle these guys by yourself, Jonathan?
+0xCB7968E1=~z~你觉得自己一个人打不过他们吗，Johnathan？
 
 ;0xCE2132DE=092
 0xCE2132DE=092
 
 ;0xCEE819F4=~z~I'm sorry.
-0xCEE819F4=~z~I'm sorry.
+0xCEE819F4=~z~对不起。
 
 ;0xD170732C=~z~You boys better be more dangerous than the last lot.
-0xD170732C=~z~You boys better be more dangerous than the last lot.
+0xD170732C=~z~你们最好比上一批人下手狠点。
 
 ;0xD3CF9F98=~z~Mucho gusto, my brothers. I got to call on Ashley.
-0xD3CF9F98=~z~Mucho gusto, my brothers. I got to call on Ashley.
+0xD3CF9F98=~z~谢了，兄弟们。我得给Ashley打个电话。
 
 ;0xD5EB19F1=~z~The Lost MC know more about family than you Italian cocksuckers.
-0xD5EB19F1=~z~The Lost MC know more about family than you Italian cocksuckers.
+0xD5EB19F1=~z~失落帮比你们意大利混蛋更明白手足情深。
 
 ;0xD7727F0E=E1R3_OB
 0xD7727F0E=E1R3_OB
 
 ;0xD7EA1077=~z~Hot damn, baby girl. Your friend Ray ain't so friendly.
-0xD7EA1077=~z~Hot damn, baby girl. Your friend Ray ain't so friendly.
+0xD7EA1077=~z~他妈的，宝贝。你朋友Ray好像不太友好啊。
 
 ;0xD8FBDE34=~z~Johnny, I got some bad news.
-0xD8FBDE34=~z~Johnny, I got some bad news.
+0xD8FBDE34=~z~Johnny，我有个坏消息。
 
 ;0xDA283154=~z~Now get the fuck out of here.
-0xDA283154=~z~Now get the fuck out of here.
+0xDA283154=~z~赶紧给我滚吧。
 
 ;0xDB8D6179=SFX_PAUSE_310
 0xDB8D6179=SFX_PAUSE_310
 
 ;0xDFC9E793=~z~No.
-0xDFC9E793=~z~No.
+0xDFC9E793=~z~不。
 
 ;0xE182DFA1=E1R3_SA
 0xE182DFA1=E1R3_SA
 
 ;0xE192BF49=~z~he's gonna... he's gonna blame you.
-0xE192BF49=~z~he's gonna... he's gonna blame you.
+0xE192BF49=~z~他就会...他就会指控你。
 
 ;0xE244F1FD=~z~I'm gonna go get the fucking brothers.
-0xE244F1FD=~z~I'm gonna go get the fucking brothers.
+0xE244F1FD=~z~我回去叫点弟兄。
 
 ;0xE4788797=010090100090010090010090100
 0xE4788797=010090100090010090010090100
 
 ;0xE7EE860E=~z~Terry. I've had some intelligence that suggests some mafia hitmen types might be after yours truly.
-0xE7EE860E=~z~Terry. I've had some intelligence that suggests some mafia hitmen types might be after yours truly.
+0xE7EE860E=~z~Terry，我收到了消息，有人派黑道杀手追杀我。
 
 ;0xE80C0B02=E1R3_MA
 0xE80C0B02=E1R3_MA
 
 ;0xEAF7D213=~z~You gotta get someone to help you. Maybe that Congressman?
-0xEAF7D213=~z~You gotta get someone to help you. Maybe that Congressman?
+0xEAF7D213=~z~你得找人帮你。比如那位议员？
 
 ;0xEC42AA08=E1R3_EC
 0xEC42AA08=E1R3_EC
 
 ;0xED7E97CE=~z~Were expecting us, were you?
-0xED7E97CE=~z~Were expecting us, were you?
+0xED7E97CE=~z~我们都靠得住，对吧？
 
 ;0xEE4139D3=~z~Remind me what you did to piss off these mobsters, Johnny.
-0xEE4139D3=~z~Remind me what you did to piss off these mobsters, Johnny.
+0xEE4139D3=~z~告诉我，你是咋惹上这群黑帮的，Johnny。
 
 ;0xEEE23B21=~z~You best ask Jim about that.
-0xEEE23B21=~z~You best ask Jim about that.
+0xEEE23B21=~z~这你还是去问Jim吧。
 
 ;0xEF62C0E1=010090100090100
 0xEF62C0E1=010090100090100
 
 ;0xF004431B=~z~Shit. Get on up the side quick.
-0xF004431B=~z~Shit. Get on up the side quick.
+0xF004431B=~z~妈的。赶紧爬上来。
 
 ;0xF05288A4=~z~Where's my fucking stuff?
-0xF05288A4=~z~Where's my fucking stuff?
+0xF05288A4=~z~老子的东西呢？
 
 ;0xF2CBDAEB=~z~Not Jim...
-0xF2CBDAEB=~z~Not Jim...
+0xF2CBDAEB=~z~偏偏是Jim...
 
 ;0xF320C278=E1R3_CC
 0xF320C278=E1R3_CC
@@ -642,7 +642,7 @@
 0xF4E6BE5A=E1R3_PB
 
 ;0xF50E3A67=~z~More of you, eh? Come on.
-0xF50E3A67=~z~More of you, eh? Come on.
+0xF50E3A67=~z~还有吗，嗯？来啊！
 
 ;0xF5BF4311=E1R3_CE
 0xF5BF4311=E1R3_CE
@@ -654,22 +654,22 @@
 0xF6CDBF9F=E1R3_WA
 
 ;0xF883C455=~z~Well, look who it is.
-0xF883C455=~z~Well, look who it is.
+0xF883C455=~z~好啊，瞧瞧谁来了。
 
 ;0xF8D49DE1=~z~I'm sorry.
-0xF8D49DE1=~z~I'm sorry.
+0xF8D49DE1=~z~对不起。
 
 ;0xFA6B4723=E1R3_PA
 0xFA6B4723=E1R3_PA
 
 ;0xFB55574D=~z~Johnny K you're alright. I'm sorry, sweets. I think Ray sent some guys after you.
-0xFB55574D=~z~Johnny K you're alright. I'm sorry, sweets. I think Ray sent some guys after you.
+0xFB55574D=~z~Johnny K，你还好吗？对不起，甜心。我想Ray已经派人追杀你了。
 
 ;0xFC1D745E=~z~Well what now?
-0xFC1D745E=~z~Well what now?
+0xFC1D745E=~z~那怎么办？
 
 ;0xFEB4144C=~z~I knew being head of this chapter would have its plus points.
-0xFEB4144C=~z~I knew being head of this chapter would have its plus points.
+0xFEB4144C=~z~就知道当上分会会长是有好处的。
 
 ;0xFF7C4329=SFX_PAUSE_400
 0xFF7C4329=SFX_PAUSE_400
