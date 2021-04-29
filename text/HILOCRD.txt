@@ -108,7 +108,7 @@
 0x7763A10A=黑桃A~n~(A最小)
 
 ;0x7AEDBD19=~a~~n~Wrong!~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
-0x7AEDBD19=~a~~n~错误！~n~按~INPUT_FRONTEND_ACCEPT~来继续。~n~按~INPUT_PICKUP~离开游戏。
+0x7AEDBD19=~a~~n~错误！~n~按~INPUT_FRONTEND_ACCEPT~继续。~n~按~INPUT_PICKUP~离开游戏。
 
 ;0x7B130723=5 of Hearts~n~
 0x7B130723=红桃5~n~
@@ -117,7 +117,7 @@
 0x7D105242=大！
 
 ;0x7EE65A34=~a~~n~Correct!~n~Press ~INPUT_MOUSE_LMB~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.
-0x7EE65A34=~a~~n~正确！~n~按~INPUT_MOUSE_LMB~来继续。~n~按~INPUT_PICKUP~离开游戏。
+0x7EE65A34=~a~~n~正确！~n~按~INPUT_MOUSE_LMB~继续。~n~按~INPUT_PICKUP~离开游戏。
 
 ;0x8305A787=Jack of Clubs~n~
 0x8305A787=梅花J~n~

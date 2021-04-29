@@ -15,10 +15,10 @@
 0x1A890D24=~s~离开这一带。
 
 ;0x213F661A=~r~Jim's bike was wrecked.
-0x213F661A=~r~Jim的摩托被毁了。
+0x213F661A=~r~Jim的摩托坏了。
 
 ;0x21A6F373=~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of zoom.
-0x21A6F373=~s~瞄准时按~PAD_RSTICK_NONE~切换缩放倍率。
+0x21A6F373=~s~瞄准时用~PAD_RSTICK_NONE~切换缩放倍率。
 
 ;0x245BC61C=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ when aiming to switch between differing levels of zoom.
 0x245BC61C=~s~瞄准时用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~切换缩放倍率。
@@ -90,13 +90,13 @@
 0xC3E9DFEB=你把~b~Jim~s~落下了，回去找他。
 
 ;0xD247C834=~r~Your bike was wrecked.
-0xD247C834=~r~你的摩托被毁了。
+0xD247C834=~r~你的摩托坏了。
 
 ;0xD6E6C12E=~r~Matthews~s~ is calling for backup.
 0xD6E6C12E=~r~Matthews~s~正在呼叫支援。
 
 ;0xDAC64F94=~r~You wrecked your bike.
-0xDAC64F94=~r~你摧毁了你的摩托。
+0xDAC64F94=~r~你弄坏了你的摩托。
 
 ;0xDFAEACE7=Wait for ~b~Jim~s~ to catch up.
 0xDFAEACE7=等待~b~Jim~s~赶上。

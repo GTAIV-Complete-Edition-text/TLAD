@@ -246,7 +246,7 @@
 0x835B061C=100
 
 ;0x8365D69B=~z~Yeah, let's go argue with some lap dancers over the touching rule. I'll wait here for you.
-0x8365D69B=~z~好啊，一起去找几个舞娘唠唠不准上手的规矩吧。我在这等你。
+0x8365D69B=~z~好啊，一起去找几个舞娘聊聊不准上手的规矩吧。我在这等你。
 
 ;0x851727F5=~z~Fuck Johnny, sure, we can hang out. But, shit, brother, you've gotta keep in touch. I thought you were dead or something.
 0x851727F5=~z~傻逼Johnny，出来玩当然可以。但是，妈的，兄弟啊，没事常联系好吗。我差点以为你已经死了。

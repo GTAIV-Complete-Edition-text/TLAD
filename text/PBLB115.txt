@@ -6,7 +6,7 @@
 0x3D1E0116=好战政客们的贪婪和腐败已让我们的经济千疮百孔。Air Sol公司去年在高管奖金上浪费了五亿美元，经营企业的人就不该这么有钱，本报职员都赞成加税。但当大企业开始连我们的身体机能都不放过时，我们就该表明立场了。联合抵制航空公司，改坐公共汽车，白宫门口游行，衣服印上口号，多吃豆芽菜。你的消费选择至关重要。权力依然在人民手中，真的。
 
 ;0x40ED8B55=Just as workers were getting their work-life balance back,corporations are crushing resistance,forcing employees to stay at their constraining cubicles,not surf the internet for seventy five percent of the day,and show up on time. Another casualty this week as Sandra McColland collapsed while at work. Many therapists and holistic specialists believe an open attendance policy,lack of management hierarchy,and daily breaks to catch up on literature about celebrities creates a happy and fruitful workplace.
-0x40ED8B55=一如工人们想夺回他们工作与生活的平衡，企业也在进行反抗。他们逼迫职工呆在工位上，让他们一天有75%的时间不能网上冲浪，还要求他们每天准时出勤。本周还有一个噩耗，Sandra McColland在工作时崩溃。许多治疗师和调养专家认为一个快乐而又高效的工作环境需要以下条件：包容的出勤考核，缺失的管理体系，用于阅读名人八卦的每日休息时间。
+0x40ED8B55=一如工人们想夺回他们工作与生活的平衡，企业也在进行反抗。他们逼迫职工呆在工位上，让他们一天有75%的时间不能网上冲浪，还要求他们每天准时出勤。本周还有一个噩耗，Sandra McColland在工作时昏倒。许多治疗师和调养专家认为一个快乐而又高效的工作环境需要以下条件：包容的出勤考核，缺失的管理体系，用于阅读名人八卦的每日休息时间。
 
 ;0x56A93D22=Mile high madness.
 0x56A93D22=高空上的疯狂

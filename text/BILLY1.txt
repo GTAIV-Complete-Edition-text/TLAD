@@ -132,7 +132,7 @@
 0xD0C3BB4B=若你失去了你的座驾，给Clay打个电话就能得到备用摩托。
 
 ;0xD6944C5D=~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake. ~n~Press ~PAD_A~ for alternative handbrake (Standard controls).
-0xD6944C5D=~s~按~INPUT_VEH_HANDBRAKE~使用手刹。~n~按~PAD_A~也是手刹(标准控制模式下)。
+0xD6944C5D=~s~按~INPUT_VEH_HANDBRAKE~使用手刹。~n~按~PAD_A~也是手刹(标准键位下)。
 
 ;0xD8E05CA5=A Lost Motorcycle Club badge will appear behind Billy when cruising in a gang.
 0xD8E05CA5=车队行进时，Billy车后会出现失落摩托帮的会徽。

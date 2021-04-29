@@ -1,9 +1,9 @@
 ﻿[STUBBS4]
 ;0x075FD38A=~r~Your brother's bike was wrecked.~s~
-0x075FD38A=~r~你弟兄的摩托车坏了。~s~
+0x075FD38A=~r~你弟兄的摩托坏了。~s~
 
 ;0x14D0F46D=~s~You need heavy artillery weapons to blow up the prison doors.~s~
-0x14D0F46D=~s~你需要用火炮类的武器炸开监狱大门。~s~
+0x14D0F46D=~s~你需要用火炮类武器炸开监狱大门。~s~
 
 ;0x377AF31B=~s~Fight your way through the ~r~guards.~s~
 0x377AF31B=~s~杀出一条血路，突破~r~警卫~s~的封锁。
@@ -27,13 +27,13 @@
 0x720EA4D0=~s~远离大门。~s~
 
 ;0x7F5E8A87=Get back to Terry and Clay and get on your ~b~bike.~s~
-0x7F5E8A87=回去找Terry和Clay，骑上你的~b~摩托车。~s~
+0x7F5E8A87=回去找Terry和Clay，骑上你的~b~摩托。~s~
 
 ;0x8223C73A=Lead The Lost back to the ~y~clubhouse.~s~
-0x8223C73A=带领失落余部返回~y~俱乐部。~s~
+0x8223C73A=带领失落余部返回~y~会所。~s~
 
 ;0x8C3139D7=~s~Get back on your ~b~Bike.~s~
-0x8C3139D7=~s~回到你的~b~摩托车~s~上。~s~
+0x8C3139D7=~s~回到你的~b~摩托~s~上。~s~
 
 ;0x949C7406=~s~Speak to Terry to get free weapons.~s~
 0x949C7406=~s~与Terry交谈以获取免费武器。~s~
@@ -42,7 +42,7 @@
 0x9F817FB5=~s~仅授权人员进入。立刻离开此处。~s~
 
 ;0xA4D0FECD=Get back to ~b~Terry and Clay.~s~
-0xA4D0FECD=回去找~b~Terry和Clay。~s~
+0xA4D0FECD=回去找~b~Terry~s~和~b~Clay。~s~
 
 ;0xA8AC1624=~r~The Lost biker is dead.~s~
 0xA8AC1624=~r~失落帮成员死了。~s~
@@ -69,7 +69,7 @@
 0xBE58417C=~r~Terry死了。~s~
 
 ;0xC943D57D=Get out of the prison and lose the cops.
-0xC943D57D=离开监狱，甩掉警察。
+0xC943D57D=离开监狱，甩掉条子。
 
 ;0xDB727BB0=~r~Clay's bike was wrecked.~s~
 0xDB727BB0=~r~Clay的摩托车坏了。~s~
@@ -78,7 +78,7 @@
 0xDBCEFA93=~r~Billy被关回去了。~s~
 
 ;0xE15AA0B1=~s~Follow~b~ Terry and Clay~s~ out of the prison.
-0xE15AA0B1=~s~跟着~b~Terry和Clay~s~离开监狱。
+0xE15AA0B1=~s~跟着~b~Terry~s~和~b~Clay~s~离开监狱。
 
 ;0xE47F8DCA=~r~You attacked the Lost bikers.~s~
 0xE47F8DCA=~r~你攻击了失落帮成员。~s~
@@ -87,7 +87,7 @@
 0xE693F95D=~s~用手枪瞄准某些目标时，你可以对其实施处决。~s~
 
 ;0xEB104099=Lose the cops.
-0xEB104099=甩掉警察。
+0xEB104099=甩掉条子。
 
 ;0xF07B6ACC=~s~Execute ~r~Billy.~s~
 0xF07B6ACC=~s~处决~r~Billy。~s~
@@ -96,5 +96,5 @@
 0xF1C62857=~r~你惊动了警卫，暴露了自己的身份。~s~
 
 ;0xFC79BDC2=~r~Your bike was wrecked.~r~
-0xFC79BDC2=~r~你的摩托车坏了。~r~
+0xFC79BDC2=~r~你的摩托坏了。~r~
 

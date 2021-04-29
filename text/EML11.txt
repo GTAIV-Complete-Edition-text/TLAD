@@ -70,3 +70,4 @@
 
 ;0xFD065195=Thanks for your input Mikey. I miss you, man. I think about you, but I made different choices to you. Doesn't seem like either of our choices panned out so good. We both get shot at. And both of us are fighting other people's battles. Look after yourself. John
 0xFD065195=感谢你的建议，Mikey。我也想你，老哥。我有想过你的情况，但我做了与你不同的选择。不过我们的选择好像都没什么好结果。枪子你挨我也挨，到头来都是为别人而战。你也保重。John
+

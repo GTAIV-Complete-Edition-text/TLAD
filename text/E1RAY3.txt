@@ -1,12 +1,12 @@
 ﻿[E1RAY3]
 ;0x182870CB=Lose the cops.
-0x182870CB=甩掉警察。
+0x182870CB=甩掉条子。
 
 ;0x1E24AA57=~s~Take out ~r~Ray's hitmen.~s~
 0x1E24AA57=~s~干掉~r~Ray的杀手。~s~
 
 ;0x4B188930=Terry and Clay have set up an ambush. If you can get to them, they can help you.
-0x4B188930=Terry和Clay已经设下埋伏。如果你能找到他们，他们就能帮助你。
+0x4B188930=Terry和Clay已经设下埋伏。如果你能找到他们，就能得到帮助。
 
 ;0x97A3F61F=~s~Go and meet ~y~Ashley.~s~
 0x97A3F61F=~s~去找~y~Ashley。~s~

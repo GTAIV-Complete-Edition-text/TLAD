@@ -33,7 +33,7 @@
 0x14BD08D1=E1FCC4_ACT_E1C_CALL_REQ_SPEC_ZOMBIEA
 
 ;0x159783E9=~z~Anything for the Chapter President, man.
-0x159783E9=~z~分会会长说啥就是啥，哥们。
+0x159783E9=~z~一切听分会会长指挥，哥们。
 
 ;0x187B55C6=010
 0x187B55C6=010
