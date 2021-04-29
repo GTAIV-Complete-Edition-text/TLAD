@@ -1,27 +1,27 @@
 ﻿[E1FCT2A]
 ;0x00DE9FD4=~z~Hey Johnny, wanna get loaded and hit on some college chicks?
-0x00DE9FD4=~z~Hey Johnny, wanna get loaded and hit on some college chicks?
+0x00DE9FD4=~z~嘿，Johnny，想不想喝够以后去泡个学生妹？
 
 ;0x0241A853=~z~You're talking my language, Terry. I'll be over in the next hour or two.
-0x0241A853=~z~You're talking my language, Terry. I'll be over in the next hour or two.
+0x0241A853=~z~你很懂我啊，Terry。我过两小时就到。
 
 ;0x0318F571=E1FCT2_ACT_GETCALL_SHOWA
 0x0318F571=E1FCT2_ACT_GETCALL_SHOWA
 
 ;0x037882D3=~z~Hey Johnny. What are you up to? Do you wanna grab something to eat?
-0x037882D3=~z~Hey Johnny. What are you up to? Do you wanna grab something to eat?
+0x037882D3=~z~嘿，Johnny。在干啥呢？想去吃点东西吗？
 
 ;0x08899466=010
 0x08899466=010
 
 ;0x091C5921=~z~Sure, I guess. You've gotta do what you've gotta do.
-0x091C5921=~z~Sure, I guess. You've gotta do what you've gotta do.
+0x091C5921=~z~那行吧。你也有自己的事情要忙。
 
 ;0x0B5ED05E=E1FCT2_ACT_E1T_CALL_GANGWAR_CANCELA
 0x0B5ED05E=E1FCT2_ACT_E1T_CALL_GANGWAR_CANCELA
 
 ;0x0B7C91B2=~z~Hey Johnny, it's Terry.
-0x0B7C91B2=~z~Hey Johnny, it's Terry.
+0x0B7C91B2=~z~嘿，Johnny，我是Terry。
 
 ;0x0C1D4F40=E1FCT2_ACT_GETCALL_POOLA
 0x0C1D4F40=E1FCT2_ACT_GETCALL_POOLA
@@ -33,7 +33,7 @@
 0x0CC13364=E1FCT2_ACT_GETCALL_RACEA
 
 ;0x0CC18381=~z~It's Terry. Listen, man, I'm thinking of going to a show. Do you want to come?
-0x0CC18381=~z~It's Terry. Listen, man, I'm thinking of going to a show. Do you want to come?
+0x0CC18381=~z~我是Terry。听着，哥们，我正想去看场演出。你想来吗？
 
 ;0x0CEFA430=010
 0x0CEFA430=010
@@ -45,55 +45,55 @@
 0x0EC84A41=E1FCT2_ACT_E1T_GETCALL_DARTS_YESA
 
 ;0x11A0DCEC=~z~I never thought I'd say this but... no... I can't right now. I've got some other shit I've gotta deal with.
-0x11A0DCEC=~z~I never thought I'd say this but... no... I can't right now. I've got some other shit I've gotta deal with.
+0x11A0DCEC=~z~我也不想这样，但...不行...现在不行。我还有别的事要忙。
 
 ;0x11F0B3BE=~z~It's Terry. Do you wanna shoot some pool?
-0x11F0B3BE=~z~It's Terry. Do you wanna shoot some pool?
+0x11F0B3BE=~z~我是Terry。你想打台球吗？
 
 ;0x12740FA9=~z~You're a born salesman, Terry. Count me in. I'll pick you in the next two hours.
-0x12740FA9=~z~You're a born salesman, Terry. Count me in. I'll pick you in the next two hours.
+0x12740FA9=~z~真会推销啊，Terry。算我一个。过两个小时我来接你。
 
 ;0x129B0A61=~z~Hey Johnny, are you doing anything? Do you want to go watch a show?
-0x129B0A61=~z~Hey Johnny, are you doing anything? Do you want to go watch a show?
+0x129B0A61=~z~嘿，Johnny，在忙吗？你想去看演出吗？
 
 ;0x12CC0625=~z~Yeah, I got some free time. I'll come over now.
-0x12CC0625=~z~Yeah, I got some free time. I'll come over now.
+0x12CC0625=~z~好，我有空。这就过来。
 
 ;0x13541231=~z~Kickass, man. I'm in.
-0x13541231=~z~Kickass, man. I'm in.
+0x13541231=~z~太爽了，哥们。我来了。
 
 ;0x138B4B01=E1FCT2_ACT_E1T_GETCALL_AIRHOCK_YESA
 0x138B4B01=E1FCT2_ACT_E1T_GETCALL_AIRHOCK_YESA
 
 ;0x13A1D72C=~z~Why doesn't that surprise me?! You're so full of shit, Johnny.
-0x13A1D72C=~z~Why doesn't that surprise me?! You're so full of shit, Johnny.
+0x13A1D72C=~z~这可太合理了！你就是个崽种，Johnny。
 
 ;0x1491009B=E1FCT2_ACT_E1T_GETCALL_DARTS_NOA
 0x1491009B=E1FCT2_ACT_E1T_GETCALL_DARTS_NOA
 
 ;0x1526262E=~z~It's Terry. Listen, man, I'm just heading out to get some food. Do you wanna join?
-0x1526262E=~z~It's Terry. Listen, man, I'm just heading out to get some food. Do you wanna join?
+0x1526262E=~z~我是Terry。听着，哥们，我现在要去吃点东西。你一起吗？
 
 ;0x16DFB544=010
 0x16DFB544=010
 
 ;0x189DABBC=~z~Sorry man. Another time. Other shit to deal with right now.
-0x189DABBC=~z~Sorry man. Another time. Other shit to deal with right now.
+0x189DABBC=~z~不好意思，哥们。改天吧。眼下我有事要忙。
 
 ;0x1B0C90C5=~z~Listen, I'm not gonna be able to meet you at the clubhouse. Last minute change of plan. I'll explain later.
-0x1B0C90C5=~z~Listen, I'm not gonna be able to meet you at the clubhouse. Last minute change of plan. I'll explain later.
+0x1B0C90C5=~z~听着，我们没法在会所小聚了，计划赶不上变化。晚点再跟你解释。
 
 ;0x1B71FDCC=~z~Yeah, yeah. Whatever, man. Another time.
-0x1B71FDCC=~z~Yeah, yeah. Whatever, man. Another time.
+0x1B71FDCC=~z~好，好。无所谓，哥们。那改天吧。
 
 ;0x1CD5D3D6=E1FCT2_ACT_E1T_CALL_AIRHOCK_CANCELA
 0x1CD5D3D6=E1FCT2_ACT_E1T_CALL_AIRHOCK_CANCELA
 
 ;0x1CD8254D=~z~You're on.
-0x1CD8254D=~z~You're on.
+0x1CD8254D=~z~你来啦。
 
 ;0x1D75B4AB=~z~Terry, I'm not gonna be able to make it. You'll have to drink by yourself, bro, like you usually do.
-0x1D75B4AB=~z~Terry, I'm not gonna be able to make it. You'll have to drink by yourself, bro, like you usually do.
+0x1D75B4AB=~z~Terry，这回我来不了啦。你自个喝去吧，兄弟，跟平时一样。
 
 ;0x1E87942E=100
 0x1E87942E=100
@@ -102,37 +102,37 @@
 0x20C302F3=E1FCT2_ACT_GETCALL_DARTS_FIRSTA
 
 ;0x227654C9=~z~Hey Johnny, are you down for a game of pool?
-0x227654C9=~z~Hey Johnny, are you down for a game of pool?
+0x227654C9=~z~嘿，Johnny，你来打台球吗？
 
 ;0x242D276F=E1FCT2_ACT_E1T_GETCALL_RACE_NOA
 0x242D276F=E1FCT2_ACT_E1T_GETCALL_RACE_NOA
 
 ;0x24C66255=~z~Listen bro. Sorry, I'm not gonna be able to make it.
-0x24C66255=~z~Listen bro. Sorry, I'm not gonna be able to make it.
+0x24C66255=~z~听着兄弟，很抱歉，我现在来不了。
 
 ;0x24E28D3C=~z~Terry. I'm not gonna be able to play darts, man. I've got some urgent business to attend to.
-0x24E28D3C=~z~Terry. I'm not gonna be able to play darts, man. I've got some urgent business to attend to.
+0x24E28D3C=~z~Terry，我不来玩飞镖了，哥们。我突然有急事要忙。
 
 ;0x24F243C7=~z~Yeah, why not. Darts is my game, brother. I'll pick you up in the next hour or two.
-0x24F243C7=~z~Yeah, why not. Darts is my game, brother. I'll pick you up in the next hour or two.
+0x24F243C7=~z~好啊，何不呢。我最爱飞镖了，兄弟。过两小时我过来接你。
 
 ;0x24F58D03=010
 0x24F58D03=010
 
 ;0x2533FA50=~z~It's not right to fuck with a brother like this, Johnny.
-0x2533FA50=~z~It's not right to fuck with a brother like this, Johnny.
+0x2533FA50=~z~你他妈别对兄弟这样，Johnny。
 
 ;0x25C4CED9=~z~Hey, it's Terry. How do you feel about a pair of nipples bouncing on either side of your nose?
-0x25C4CED9=~z~Hey, it's Terry. How do you feel about a pair of nipples bouncing on either side of your nose?
+0x25C4CED9=~z~嘿，我是Terry。你想体验鼻子被一对奶子夹住的感觉吗？
 
 ;0x25F4C66A=~z~I'm not in the mood right now, Terry. Maybe another time.
-0x25F4C66A=~z~I'm not in the mood right now, Terry. Maybe another time.
+0x25F4C66A=~z~我现在没心情，Terry。改天再说吧。
 
 ;0x26C1DFC0=E1FCT2_ACT_GETCALL_POOL_FIRSTA
 0x26C1DFC0=E1FCT2_ACT_GETCALL_POOL_FIRSTA
 
 ;0x28777644=~z~Er, ok, Terry. I suppose I could have a quick game. I'll pick you up in the next hour or two.
-0x28777644=~z~Er, ok, Terry. I suppose I could have a quick game. I'll pick you up in the next hour or two.
+0x28777644=~z~呃，好，Terry。我应该能来打上几局。过两个小时我过来接你
 
 ;0x28958B98=010
 0x28958B98=010
@@ -141,7 +141,7 @@
 0x28DF02B2=E1FCT2_ACT_CALL_CANCELLED_HILIKEA
 
 ;0x29E03F49=~z~Okay, man. You're on.
-0x29E03F49=~z~Okay, man. You're on.
+0x29E03F49=~z~好嘞，哥们。你来啦。
 
 ;0x2B7180F2=010
 0x2B7180F2=010
@@ -174,22 +174,22 @@
 0x3CB533CE=100
 
 ;0x3D4FB4D9=~z~Nothing much going on, man, so why not. I'll come over and pick you up.
-0x3D4FB4D9=~z~Nothing much going on, man, so why not. I'll come over and pick you up.
+0x3D4FB4D9=~z~也没啥要忙，哥们，这能不来？一会儿我过来接你。
 
 ;0x3E31D2E0=E1FCT2_ACT_E1T_CALL_DARTS_CANCELA
 0x3E31D2E0=E1FCT2_ACT_E1T_CALL_DARTS_CANCELA
 
 ;0x3EF63597=~z~Hey, it's Terry. I'm heading over the clubhouse if you wanna come?
-0x3EF63597=~z~Hey, it's Terry. I'm heading over the clubhouse if you wanna come?
+0x3EF63597=~z~嘿，我是Terry。我现在要去帮会会所，你来不来？
 
 ;0x3EF6CFFA=100
 0x3EF6CFFA=100
 
 ;0x3EFF2F5C=~z~You thought right, my man. Can you wait for me there? I can be there in an hour, maybe two.
-0x3EFF2F5C=~z~You thought right, my man. Can you wait for me there? I can be there in an hour, maybe two.
+0x3EFF2F5C=~z~想法不错，哥们。你能等我吗？我过一两个小时就到。
 
 ;0x3F1469B1=~z~I'm yours for the night, baby.
-0x3F1469B1=~z~I'm yours for the night, baby.
+0x3F1469B1=~z~今晚我是你的人，宝贝。
 
 ;0x411618D1=010
 0x411618D1=010
@@ -213,37 +213,37 @@
 0x4586A0A8=E1FCT2_ACT_GETCALL_AIRHOCKA
 
 ;0x474AC814=~z~Hey Johnny, it's Terry. Do you wanna meet up? Play some darts or something?
-0x474AC814=~z~Hey Johnny, it's Terry. Do you wanna meet up? Play some darts or something?
+0x474AC814=~z~嘿，Johnny，我是Terry。要不要聚一聚？玩会儿飞镖啥的？
 
 ;0x4A06A282=~z~I was sold as soon as you said whisky, man. Wait there. I'll come pick you up.
-0x4A06A282=~z~I was sold as soon as you said whisky, man. Wait there. I'll come pick you up.
+0x4A06A282=~z~一说到威士忌，我就心动了。等着，我过来接你。
 
 ;0x4A6C36D6=010
 0x4A6C36D6=010
 
 ;0x4BF85C1F=~z~That's creepy, Terry. Sounds like you're asking me on a date. Anyway I can't right now. Maybe another time.
-0x4BF85C1F=~z~That's creepy, Terry. Sounds like you're asking me on a date. Anyway I can't right now. Maybe another time.
+0x4BF85C1F=~z~有点吓人，Terry。我怎么觉得你这约会怪怪的。不过我现在来不了，改天吧。
 
 ;0x4C8A9F90=~z~It's a tempting offer, my man, but I can't right now. Give Fantasia my regards.
-0x4C8A9F90=~z~It's a tempting offer, my man, but I can't right now. Give Fantasia my regards.
+0x4C8A9F90=~z~想法是不错，哥们，但我现在没空。替我向Fantasia问好。
 
 ;0x4CB3D112=~z~What's going on, Johnny? Do you wanna hang at the clubhouse for a while?
-0x4CB3D112=~z~What's going on, Johnny? Do you wanna hang at the clubhouse for a while?
+0x4CB3D112=~z~在干啥呢，Johnny？想不想去帮里的俱乐部玩会儿？
 
 ;0x4DDE3032=010
 0x4DDE3032=010
 
 ;0x4E9888D1=~z~I'm in.
-0x4E9888D1=~z~I'm in.
+0x4E9888D1=~z~我来了。
 
 ;0x4FE8D7B6=E1FCT2_ACT_GETCALL_CLUBHOUSEA
 0x4FE8D7B6=E1FCT2_ACT_GETCALL_CLUBHOUSEA
 
 ;0x501E4C5C=~z~Brother, those Deadbeats just aren't getting the message. It's about time we took the war to them.
-0x501E4C5C=~z~Brother, those Deadbeats just aren't getting the message. It's about time we took the war to them.
+0x501E4C5C=~z~兄弟，这帮死妈天使还不知道错呢。该跟他们干一架了。
 
 ;0x50C282CC=~z~Sorry, bro. I'm too busy right now. I'll catch you later.
-0x50C282CC=~z~Sorry, bro. I'm too busy right now. I'll catch you later.
+0x50C282CC=~z~不好意思兄弟，我现在太忙了。晚点再找你。
 
 ;0x513C9DAB=100
 0x513C9DAB=100
@@ -252,13 +252,13 @@
 0x529C0100=E1FCT2_ACT_E1T_GETCALL_HANGOUT_YESA
 
 ;0x52C13E12=~z~Terry, I'm gonna have to give the pool a miss, man. Sorry.
-0x52C13E12=~z~Terry, I'm gonna have to give the pool a miss, man. Sorry.
+0x52C13E12=~z~Terry，一会儿没法陪你打台球了，哥们。抱歉。
 
 ;0x531969A9=~z~Listen man. I know it's late notice but I'm gonna have to bail on the darts.
-0x531969A9=~z~Listen man. I know it's late notice but I'm gonna have to bail on the darts.
+0x531969A9=~z~听着哥们，我知道现在告诉你迟了，但说好的玩飞镖我来不了了。
 
 ;0x5386AA5C=~z~Hey Johnny. What d'ya think about spending some of our hard-earned money on some adult entertainment?
-0x5386AA5C=~z~Hey Johnny. What d'ya think about spending some of our hard-earned money on some adult entertainment?
+0x5386AA5C=~z~嘿，Johnny。咱们拿血汗钱去玩点大人玩的咋样？
 
 ;0x540450BE=E1FCT2_ACT_GETCALL_ACCEPTEDA
 0x540450BE=E1FCT2_ACT_GETCALL_ACCEPTEDA
@@ -267,7 +267,7 @@
 0x55BF99A1=100
 
 ;0x55D549F6=~z~No problem, brother. We can do it another time.
-0x55D549F6=~z~No problem, brother. We can do it another time.
+0x55D549F6=~z~没问题，兄弟。改天再约吧。
 
 ;0x55E9D528=010
 0x55E9D528=010
@@ -276,13 +276,13 @@
 0x578C35C8=E1FCT2_ACT_GETCALL_GANGWAR_FIRSTA
 
 ;0x57DC9C00=~z~Hey man. It's Terry. Have you eaten? Wanna grab some food?
-0x57DC9C00=~z~Hey man. It's Terry. Have you eaten? Wanna grab some food?
+0x57DC9C00=~z~嘿哥们，我是Terry。你吃了没？想不想去吃点？
 
 ;0x5B47C995=~z~OK, Klebitz. There's a race happening. Are you in?
-0x5B47C995=~z~OK, Klebitz. There's a race happening. Are you in?
+0x5B47C995=~z~喂，Klebitz，现在有场赛车。你来吗？
 
 ;0x5C1250B4=~z~Listen man, something's come up. I'll have to hustle you some other time.
-0x5C1250B4=~z~Listen man, something's come up. I'll have to hustle you some other time.
+0x5C1250B4=~z~听着，哥们，我突然有事，只能改天再陪你打台球了。
 
 ;0x5C4E76F5=E1FCT2_ACT_E1T_GETCALL_EAT_NOA
 0x5C4E76F5=E1FCT2_ACT_E1T_GETCALL_EAT_NOA
@@ -297,19 +297,19 @@
 0x605508DF=E1FCT2_ACT_E1T_GETCALL_STRIP_YESA
 
 ;0x614560A0=~z~Hey man. Where are you? I vote we get stuck into a session. What d'ya say?
-0x614560A0=~z~Hey man. Where are you? I vote we get stuck into a session. What d'ya say?
+0x614560A0=~z~嘿哥们。你在哪呢？我觉得可以去酒吧听听音乐。你怎么说？
 
 ;0x65CF4130=010
 0x65CF4130=010
 
 ;0x663238AB=~z~Hey Johnny. Are you hungry? Wanna get something to eat?
-0x663238AB=~z~Hey Johnny. Are you hungry? Wanna get something to eat?
+0x663238AB=~z~嘿，Johnny。你饿吗？想吃点啥不？
 
 ;0x668CEBF7=E1FCT2_ACT_E1T_GETCALL_AIRHOCK_NOA
 0x668CEBF7=E1FCT2_ACT_E1T_GETCALL_AIRHOCK_NOA
 
 ;0x670CAF60=~z~Man I can't face that whole scene right now. Maybe another time.
-0x670CAF60=~z~Man I can't face that whole scene right now. Maybe another time.
+0x670CAF60=~z~哥们，我现在忙不开身了。改天再说吧。
 
 ;0x67C2A319=E1FCJ2_AA
 0x67C2A319=E1FCJ2_AA
@@ -318,10 +318,10 @@
 0x69C4965E=100
 
 ;0x6B1541CA=~z~Let's do it.
-0x6B1541CA=~z~Let's do it.
+0x6B1541CA=~z~嗨起来。
 
 ;0x6C330CF2=~z~Hey Johnny, what's going on? Do you wanna go fuck with some Deadbeats?
-0x6C330CF2=~z~Hey Johnny, what's going on? Do you wanna go fuck with some Deadbeats?
+0x6C330CF2=~z~嘿，Johnny。在干嘛呢？想不想跟死妈天使干一架？
 
 ;0x6D473E27=E1FCT2_ACT_E1T_CALL_STRIP_CANCELA
 0x6D473E27=E1FCT2_ACT_E1T_CALL_STRIP_CANCELA
@@ -330,10 +330,10 @@
 0x6F912189=010
 
 ;0x6FB7592D=~z~I'm sorry, man, I'm gonna have to cancel on you. Something came up. Believe me, I'd rather be getting loaded.
-0x6FB7592D=~z~I'm sorry, man, I'm gonna have to cancel on you. Something came up. Believe me, I'd rather be getting loaded.
+0x6FB7592D=~z~真不好意思，哥们。突然有事，我得爽约了。真的，我也想来喝酒啊。
 
 ;0x6FD91B1C=~z~Do you wanna go play some darts?
-0x6FD91B1C=~z~Do you wanna go play some darts?
+0x6FD91B1C=~z~你想玩飞镖吗？
 
 ;0x70E91F2A=100
 0x70E91F2A=100
@@ -342,70 +342,70 @@
 0x7166B0E2=100
 
 ;0x7313D0EB=~z~That's an offer I can not refuse. Wait for me there, man. I'll drop by and pick you up.
-0x7313D0EB=~z~That's an offer I can not refuse. Wait for me there, man. I'll drop by and pick you up.
+0x7313D0EB=~z~这我怎么可能拒绝。等着我，哥们。一会儿我过来接你。
 
 ;0x7463C614=E1FCT2_ACT_GETCALL_EAT_FIRSTA
 0x7463C614=E1FCT2_ACT_GETCALL_EAT_FIRSTA
 
 ;0x7545F900=~z~I'm always thirsty, bro. I'll come over and pick you up. Give me an hour or two.
-0x7545F900=~z~I'm always thirsty, bro. I'll come over and pick you up. Give me an hour or two.
+0x7545F900=~z~我一直都口渴，兄弟。待会儿我过来接你。等我一两小时。
 
 ;0x767B27B7=~z~There's too much going on right now. It don't feel right. Let's wait a while.
-0x767B27B7=~z~There's too much going on right now. It don't feel right. Let's wait a while.
+0x767B27B7=~z~现在事情太多了，不是时候。再等等吧。
 
 ;0x776EEFC0=010
 0x776EEFC0=010
 
 ;0x78395BFE=~z~You got a date, cocksucker.
-0x78395BFE=~z~You got a date, cocksucker.
+0x78395BFE=~z~你有约了，混蛋玩意。
 
 ;0x788FF19A=010
 0x788FF19A=010
 
 ;0x796F54AC=~z~That's a good idea, bro. I'm fucking famished. Wait there for me and I'll be over as soon as I can.
-0x796F54AC=~z~That's a good idea, bro. I'm fucking famished. Wait there for me and I'll be over as soon as I can.
+0x796F54AC=~z~想法不错啊，兄弟。我都要饿死了。等我啊，我马上过来。
 
 ;0x7BBBB118=~z~I'd love to, man, but I've gotta try to keep my head straight right now. Another time.
-0x7BBBB118=~z~I'd love to, man, but I've gotta try to keep my head straight right now. Another time.
+0x7BBBB118=~z~我也想啊，但我现在必须得保持清醒呢。改天吧。
 
 ;0x7D59977C=010
 0x7D59977C=010
 
 ;0x7EF88207=~z~Nice one, Johnny. See you soon.
-0x7EF88207=~z~Nice one, Johnny. See you soon.
+0x7EF88207=~z~很好，Johnny。一会儿见。
 
 ;0x7FBFB05C=E1FCT2_ACT_E1T_CALL_SHOW_CANCELA
 0x7FBFB05C=E1FCT2_ACT_E1T_CALL_SHOW_CANCELA
 
 ;0x80A6BCB7=~z~Are you busy? Feel like a game of darts?
-0x80A6BCB7=~z~Are you busy? Feel like a game of darts?
+0x80A6BCB7=~z~你忙吗？想不想玩把飞镖？
 
 ;0x811E7CF4=~z~Hey brother, it's me.
-0x811E7CF4=~z~Hey brother, it's me.
+0x811E7CF4=~z~嘿，兄弟，是我。
 
 ;0x81256DEA=~z~Looking forward to it, man.
-0x81256DEA=~z~Looking forward to it, man.
+0x81256DEA=~z~正等着呢，哥们。
 
 ;0x82A632A3=E1FCT2_ACT_E1T_GETCALL_GANGWAR_NOA
 0x82A632A3=E1FCT2_ACT_E1T_GETCALL_GANGWAR_NOA
 
 ;0x830D8C95=~z~Sorry man. I got tits of another kind to deal with right now. Another time for sure.
-0x830D8C95=~z~Sorry man. I got tits of another kind to deal with right now. Another time for sure.
+0x830D8C95=~z~抱歉了，哥们。我现在还得处理另一种奶子。下次一定。
 
 ;0x83A32B60=~z~Hey man, I can't make that race. Some unexpected shit has just landed on my plate.
-0x83A32B60=~z~Hey man, I can't make that race. Some unexpected shit has just landed on my plate.
+0x83A32B60=~z~嘿，哥们，我没法来赛车了。莫名其妙的就又多了一堆屁事。
 
 ;0x8416EB56=E1FCT2_ACT_GETCALL_STRIP_FIRSTA
 0x8416EB56=E1FCT2_ACT_GETCALL_STRIP_FIRSTA
 
 ;0x84C4E434=~z~Hey Terry, I'm not gonna be able to make it to the clubhouse.
-0x84C4E434=~z~Hey Terry, I'm not gonna be able to make it to the clubhouse.
+0x84C4E434=~z~嘿，Terry，我来不了会所了。
 
 ;0x84D677D5=~z~It's Terry. Listen, are you feeling thirsty? I reckon there's a few shots of whiskey with our names on them.
-0x84D677D5=~z~It's Terry. Listen, are you feeling thirsty? I reckon there's a few shots of whiskey with our names on them.
+0x84D677D5=~z~我是Terry。我说，你渴不渴？我记得我们还有几瓶威士忌没喝。
 
 ;0x877712FC=~z~I'll wait here. See you later.
-0x877712FC=~z~I'll wait here. See you later.
+0x877712FC=~z~我等着你。一会儿见。
 
 ;0x8AF0A966=E1FCT2_ACT_GETCALL_SHOW_FIRSTA
 0x8AF0A966=E1FCT2_ACT_GETCALL_SHOW_FIRSTA
@@ -417,19 +417,19 @@
 0x8BE39B75=100
 
 ;0x8C2D2758=~z~Johnny, where have you been? You need to check in, man. You've got a lot of enemies out there.
-0x8C2D2758=~z~Johnny, where have you been? You need to check in, man. You've got a lot of enemies out there.
+0x8C2D2758=~z~Johnny，你上哪去了？没事联系联系，哥们。你敌人老多了。
 
 ;0x8D0DAD20=~z~Right, cancel all your plans. We've got some racing to do.
-0x8D0DAD20=~z~Right, cancel all your plans. We've got some racing to do.
+0x8D0DAD20=~z~好了，取消你那些安排吧。现在该去飙车了。
 
 ;0x8DA46868=E1FCT2_ACT_GETCALL_DARTSA
 0x8DA46868=E1FCT2_ACT_GETCALL_DARTSA
 
 ;0x8E3BA3EA=~z~No thanks, man. I know the places you like to eat and I can't afford to spend a week on the can right now.
-0x8E3BA3EA=~z~No thanks, man. I know the places you like to eat and I can't afford to spend a week on the can right now.
+0x8E3BA3EA=~z~不用了，哥们。我知道你吃饭消费高，现在我都快吃不起罐头了。
 
 ;0x8F67507B=~z~A race? Too fucking right. I'm in, man. I'll be there as soon as I can.
-0x8F67507B=~z~A race? Too fucking right. I'm in, man. I'll be there as soon as I can.
+0x8F67507B=~z~飙车？太他妈爽了。我来了，哥们。我马上就到。
 
 ;0x90BCC91C=100
 0x90BCC91C=100
@@ -447,40 +447,40 @@
 0x93150206=E1FCT2_ACT_GETCALL_AIRHOCK_FIRSTA
 
 ;0x9341B84B=~z~This doesn't feel right, Terry. I'm backing out of this one.
-0x9341B84B=~z~This doesn't feel right, Terry. I'm backing out of this one.
+0x9341B84B=~z~感觉不太对劲，Terry。这次我先撤了。
 
 ;0x939C8F10=~z~Johnny, it's Terry. I'm gonna hang out at the clubhouse for a while, if you're interested?
-0x939C8F10=~z~Johnny, it's Terry. I'm gonna hang out at the clubhouse for a while, if you're interested?
+0x939C8F10=~z~Johnny，我是Terry。我要去帮里的俱乐部转转，你有兴趣来吗？
 
 ;0x99288CE2=~z~Hey Johnny, what's going on? Do you wanna go hang out, play some air hockey?
-0x99288CE2=~z~Hey Johnny, what's going on? Do you wanna go hang out, play some air hockey?
+0x99288CE2=~z~嘿，Johnny，你在干嘛？想不想一起出去打几局桌上冰球？
 
 ;0x9B3BDDA4=100
 0x9B3BDDA4=100
 
 ;0x9DE81C5F=~z~Sure, I'm always keen to extend my unbeaten run. I'll come pick you up.
-0x9DE81C5F=~z~Sure, I'm always keen to extend my unbeaten run. I'll come pick you up.
+0x9DE81C5F=~z~当然了，我向来乐意刷新自己的连胜记录。我来接你了。
 
 ;0x9DFF4AFC=~z~Hey, it's Terry. Have you forgotten how to use your phone? I can't watch your back if I don't know where you are.
-0x9DFF4AFC=~z~Hey, it's Terry. Have you forgotten how to use your phone? I can't watch your back if I don't know where you are.
+0x9DFF4AFC=~z~嘿，我是Terry。你是不是忘记电话咋用了？不知道你在哪儿的话，我就没法支援你了。
 
 ;0x9F528E1D=010
 0x9F528E1D=010
 
 ;0x9FD6471F=~z~I can't at the moment, Terry. Maybe later.
-0x9FD6471F=~z~I can't at the moment, Terry. Maybe later.
+0x9FD6471F=~z~现在不行啊，Terry。以后再说。
 
 ;0xA0AAB177=E1FCT2_ACT_GETCALL_GREETA
 0xA0AAB177=E1FCT2_ACT_GETCALL_GREETA
 
 ;0xA16B335B=~z~I've bruised enough egos for one day. Another time.
-0xA16B335B=~z~I've bruised enough egos for one day. Another time.
+0xA16B335B=~z~我今天丢脸丢够了，改天再约吧。
 
 ;0xA1ABDD57=E1FCT2_ACT_E1T_GETCALL_CLUBHOUSE_NOA
 0xA1ABDD57=E1FCT2_ACT_E1T_GETCALL_CLUBHOUSE_NOA
 
 ;0xA30BD7DF=~z~Hey Terry. Something else has come up. The Deadbeats can wait.
-0xA30BD7DF=~z~Hey Terry. Something else has come up. The Deadbeats can wait.
+0xA30BD7DF=~z~嘿，Terry。我突然有急事。先把死妈天使晾着吧。
 
 ;0xA32DE143=E1FCT2_ACT_GETCALL_EATA
 0xA32DE143=E1FCT2_ACT_GETCALL_EATA
@@ -507,7 +507,7 @@
 0xAABEFC42=100
 
 ;0xAD02DE1B=~z~Great. See you later.
-0xAD02DE1B=~z~Great. See you later.
+0xAD02DE1B=~z~好嘞，一会儿见。
 
 ;0xAD0BD775=100
 0xAD0BD775=100
@@ -519,49 +519,49 @@
 0xB35D46AE=E1FCT2_ACT_E1T_GETCALL_STRIP_NOA
 
 ;0xB3BCD7FE=~z~I'll give someone else a chance this time. There's other shit I gotta do right now.
-0xB3BCD7FE=~z~I'll give someone else a chance this time. There's other shit I gotta do right now.
+0xB3BCD7FE=~z~这回我把冠军拱手相让。我还有其他事情要忙。
 
 ;0xB534B883=010
 0xB534B883=010
 
 ;0xB81B13FF=~z~Best idea I've heard all day. Stay there and I'll pick you up.
-0xB81B13FF=~z~Best idea I've heard all day. Stay there and I'll pick you up.
+0xB81B13FF=~z~今天就你这个主意最好。等着啊，我来接你。
 
 ;0xB8AB3AC3=~z~I can't right now, man. I've got too much shit on my plate.
-0xB8AB3AC3=~z~I can't right now, man. I've got too much shit on my plate.
+0xB8AB3AC3=~z~现在不行，哥们。我手头的事太多了。
 
 ;0xBA5512F4=~z~Don't worry about it, man. Plenty more opportunities.
-0xBA5512F4=~z~Don't worry about it, man. Plenty more opportunities.
+0xBA5512F4=~z~没关系，哥们。以后有的是机会。
 
 ;0xBA668915=100
 0xBA668915=100
 
 ;0xBE2B45C3=~z~I'm tied up right now, bro. Hit me up another time.
-0xBE2B45C3=~z~I'm tied up right now, bro. Hit me up another time.
+0xBE2B45C3=~z~现在忙得要死，兄弟。改天再叫我。
 
 ;0xC0536273=~z~Why not. A man can't live on pussy alone. I'll pass by and pick you up.
-0xC0536273=~z~Why not. A man can't live on pussy alone. I'll pass by and pick you up.
+0xC0536273=~z~何不呢。娘们又填不饱肚子。待会儿我来接你。
 
 ;0xC14EB2A2=~z~OK, give me a call when you're free.
-0xC14EB2A2=~z~OK, give me a call when you're free.
+0xC14EB2A2=~z~好的，有空电话联系啊。
 
 ;0xC27C9DC3=~z~Terry, we'll have to do battle on the air hockey table another time. Something's come up, man.
-0xC27C9DC3=~z~Terry, we'll have to do battle on the air hockey table another time. Something's come up, man.
+0xC27C9DC3=~z~Terry，桌上冰球的事我们得放一放了。突然有事，哥们。
 
 ;0xC3C78249=~z~What's going on, Johnny? It's Terry.
-0xC3C78249=~z~What's going on, Johnny? It's Terry.
+0xC3C78249=~z~你好吗，Johnny？我是Terry。
 
 ;0xC5674689=100
 0xC5674689=100
 
 ;0xC5FEF623=~z~Listen man. I'm kinda having second thoughts about this whole show idea. Let's do it another time.
-0xC5FEF623=~z~Listen man. I'm kinda having second thoughts about this whole show idea. Let's do it another time.
+0xC5FEF623=~z~听着哥们。我重新考虑了下看演出的事，咱们还是改天再约吧。
 
 ;0xC6967CCD=~z~Hey, it's Terry. I don't know if you remember me but we used to be brothers at one point. Why the fuck haven't you called, man?
-0xC6967CCD=~z~Hey, it's Terry. I don't know if you remember me but we used to be brothers at one point. Why the fuck haven't you called, man?
+0xC6967CCD=~z~嘿，我是Terry。不知道你还记不记得我，但我们以前当过兄弟。你他妈怎么不找我，哥们？
 
 ;0xC801CAD3=~z~Now's not the time, Terry. Hang tight, brother. We'll get those motherfuckers soon.
-0xC801CAD3=~z~Now's not the time, Terry. Hang tight, brother. We'll get those motherfuckers soon.
+0xC801CAD3=~z~现在不是时候，Terry。再等等，兄弟。以后再干这帮混蛋。
 
 ;0xCA5F2D75=E1FCT2_ACT_GETCALL_GANGWARA
 0xCA5F2D75=E1FCT2_ACT_GETCALL_GANGWARA
@@ -570,7 +570,7 @@
 0xCB84F0E8=E1FCT2_ACT_E1T_GETCALL_RACE_YESA
 
 ;0xCC34A00D=~z~Have you got plans? Do you wanna play some air hockey?
-0xCC34A00D=~z~Have you got plans? Do you wanna play some air hockey?
+0xCC34A00D=~z~你有安排吗？想不想打几把桌上冰球？
 
 ;0xCE12188F=E1FCT2_ACT_GETCALL_DRINK_FIRSTA
 0xCE12188F=E1FCT2_ACT_GETCALL_DRINK_FIRSTA
@@ -582,10 +582,10 @@
 0xD03FB8A3=E1FCT2_ACT_GETCALL_REJECTEDA
 
 ;0xD2689EB5=~z~Sure man. I'll sling a few arrows with you. Wait there - I'll come pick you up.
-0xD2689EB5=~z~Sure man. I'll sling a few arrows with you. Wait there - I'll come pick you up.
+0xD2689EB5=~z~可以的，哥们。我就陪你投几镖吧。你等着，我来接你。
 
 ;0xD30E5621=~z~Yeah, it doesn't have to be right now. If you're bored later, give me a call.
-0xD30E5621=~z~Yeah, it doesn't have to be right now. If you're bored later, give me a call.
+0xD30E5621=~z~行吧，也不是非得现在约。以后要是无聊了，打电话找我。
 
 ;0xD33A1DC2=010
 0xD33A1DC2=010
@@ -597,49 +597,49 @@
 0xD3B5C586=100
 
 ;0xD41E84D5=~z~Hey, it's Terry. Listen I've got a plan. It involves tits, thongs and over-priced alcohol. Are you interested?
-0xD41E84D5=~z~Hey, it's Terry. Listen I've got a plan. It involves tits, thongs and over-priced alcohol. Are you interested?
+0xD41E84D5=~z~嘿，我是Terry。听着，我有个计划。关系到奶子，丁字裤，名酒的。你有兴趣吗？
 
 ;0xD46B187A=~z~Johnny, you'd better have a very good reason for this wall of fucking silence you've been putting up.
-0xD46B187A=~z~Johnny, you'd better have a very good reason for this wall of fucking silence you've been putting up.
+0xD46B187A=~z~Johnny，你最好找个好借口，解释下你他妈为啥冷落咱们。
 
 ;0xD5A3950A=~z~Hey Johnny, have you got time to go to a show?
-0xD5A3950A=~z~Hey Johnny, have you got time to go to a show?
+0xD5A3950A=~z~嘿，Johnny，有空来看演出吗？
 
 ;0xD5BE2D9E=E1FCT2_ACT_E1T_GETCALL_POOL_YESA
 0xD5BE2D9E=E1FCT2_ACT_E1T_GETCALL_POOL_YESA
 
 ;0xD5E64FE5=~z~I'm not gonna be able to make it, Terry. We'll have to race another time.
-0xD5E64FE5=~z~I'm not gonna be able to make it, Terry. We'll have to race another time.
+0xD5E64FE5=~z~这次我来不了了，Terry。赛车还是改天再约吧。
 
 ;0xD641D7AD=010
 0xD641D7AD=010
 
 ;0xD6A6D967=~z~We've gotta do something about these AOD bitches, man. I say we hit back, right now.
-0xD6A6D967=~z~We've gotta do something about these AOD bitches, man. I say we hit back, right now.
+0xD6A6D967=~z~咱得给死妈天使点颜色看看了，哥们。我们该反击了，就现在。
 
 ;0xD875DA57=~z~Hey Terry. I can't meet you right now, man. The meal's gonna have to wait.
-0xD875DA57=~z~Hey Terry. I can't meet you right now, man. The meal's gonna have to wait.
+0xD875DA57=~z~嘿，Terry。我现在没法来找你了，哥们。吃饭的事得缓缓了。
 
 ;0xDA1EAEF7=~z~Johnny. This is Terry.
-0xDA1EAEF7=~z~Johnny. This is Terry.
+0xDA1EAEF7=~z~Johnny，我是Terry。
 
 ;0xDAD5FA71=E1FCT2_ACT_E1T_GETCALL_GANGWAR_YESA
 0xDAD5FA71=E1FCT2_ACT_E1T_GETCALL_GANGWAR_YESA
 
 ;0xDB197560=~z~What, like theatre shit? No way, dude. If I wanted to see men in spandex kissing, I'd watch pro wrestling.
-0xDB197560=~z~What, like theatre shit? No way, dude. If I wanted to see men in spandex kissing, I'd watch pro wrestling.
+0xDB197560=~z~啥，剧院演出吗？老子不去，哥们。要看爷们穿着紧身衣卿卿我我，我还不如看职业摔跤。
 
 ;0xDB42F4E0=~z~Yeah, I could do with some chilling out. Give me an hour or two and I'll meet you there.
-0xDB42F4E0=~z~Yeah, I could do with some chilling out. Give me an hour or two and I'll meet you there.
+0xDB42F4E0=~z~可以，我是该放松放松了。等我两个小时，我们会所见。
 
 ;0xDC3F5340=E1FCT2_ACT_E1T_CALL_POOL_CANCELA
 0xDC3F5340=E1FCT2_ACT_E1T_CALL_POOL_CANCELA
 
 ;0xDE36E5D9=~z~Sorry man, I'm gonna have to take a rain check on the food.
-0xDE36E5D9=~z~Sorry man, I'm gonna have to take a rain check on the food.
+0xDE36E5D9=~z~不好意思哥们，我们只能改天再一起下馆子了。
 
 ;0xDF7FD153=~z~Sorry man - you'll have to fly solo on this one. There's some other shit I need to deal with.
-0xDF7FD153=~z~Sorry man - you'll have to fly solo on this one. There's some other shit I need to deal with.
+0xDF7FD153=~z~对不起哥们，这次你得自己单飞了。我突然有事要忙。
 
 ;0xDFF4314A=E1FCT2_ACT_E1T_CALL_HANGOUT_CANCELA
 0xDFF4314A=E1FCT2_ACT_E1T_CALL_HANGOUT_CANCELA
@@ -648,28 +648,28 @@
 0xE0A44EA2=100
 
 ;0xE0C645A1=~z~Sounds good, brother. See you soon.
-0xE0C645A1=~z~Sounds good, brother. See you soon.
+0xE0C645A1=~z~还可以，兄弟。一会儿见。
 
 ;0xE325CDEF=~z~What are you up to? Have you got time for a game of air hockey?
-0xE325CDEF=~z~What are you up to? Have you got time for a game of air hockey?
+0xE325CDEF=~z~在干嘛呢？有空打两局桌上冰球吗？
 
 ;0xE5760946=~z~Definitely - that sounds good. I'll meet you there as soon as I can.
-0xE5760946=~z~Definitely - that sounds good. I'll meet you there as soon as I can.
+0xE5760946=~z~当然了，这主意好。我会尽快过来的。
 
 ;0xE6259149=100
 0xE6259149=100
 
 ;0xE79A7F39=~z~No problem. Give me a call when you've got time to hang out.
-0xE79A7F39=~z~No problem. Give me a call when you've got time to hang out.
+0xE79A7F39=~z~没问题。等你有空再打电话找我吧。
 
 ;0xE9351197=~z~Right now, I couldn't think of anything worse. Give me a call later.
-0xE9351197=~z~Right now, I couldn't think of anything worse. Give me a call later.
+0xE9351197=~z~现在的话，这实在是个坏主意。之后再找我吧。
 
 ;0xEF28F3A3=E1FCT2_ACT_E1T_GETCALL_POOL_NOA
 0xEF28F3A3=E1FCT2_ACT_E1T_GETCALL_POOL_NOA
 
 ;0xF12D74AE=~z~I'm gonna have to give the strip club a miss, man. Something urgent's come up. Even more urgent than tits.
-0xF12D74AE=~z~I'm gonna have to give the strip club a miss, man. Something urgent's come up. Even more urgent than tits.
+0xF12D74AE=~z~我来不了脱衣舞俱乐部了，哥们。有要紧事要办，比玩奶子还要紧。
 
 ;0xF1639526=100
 0xF1639526=100
@@ -678,25 +678,25 @@
 0xF18A1663=E1FCT2_ACT_E1T_GETCALL_SHOW_YESA
 
 ;0xF20D4E3F=~z~Some shit just slammed into the fan, bro. I'm not gonna be able to make it to the show.
-0xF20D4E3F=~z~Some shit just slammed into the fan, bro. I'm not gonna be able to make it to the show.
+0xF20D4E3F=~z~突然遇上个大麻烦，兄弟。我没法来看演出了。
 
 ;0xF2E2A000=~z~I didn't have you pegged as a cultural dude, Terry. Yeah, I'll go to a show. Give me an hour or two.
-0xF2E2A000=~z~I didn't have you pegged as a cultural dude, Terry. Yeah, I'll go to a show. Give me an hour or two.
+0xF2E2A000=~z~没想到你还是个文化人啊，Terry。好，我来看演出。等我两个小时。
 
 ;0xF6CC92EF=~z~Air hockey? Not quite what I was expecting but, sure, why not...I'll swing by and pick you up.
-0xF6CC92EF=~z~Air hockey? Not quite what I was expecting but, sure, why not...I'll swing by and pick you up.
+0xF6CC92EF=~z~桌上冰球？这让我有点意外，不过也行吧...我一会儿过来接你。
 
 ;0xF7E46C2B=010
 0xF7E46C2B=010
 
 ;0xF87EADED=~z~Hey, it's Terry. Do you wanna go shoot some pool?
-0xF87EADED=~z~Hey, it's Terry. Do you wanna go shoot some pool?
+0xF87EADED=~z~嘿，我是Terry。你想打台球吗？
 
 ;0xF940A289=~z~Sure thing, Johnny, call me when you've got some free time.
-0xF940A289=~z~Sure thing, Johnny, call me when you've got some free time.
+0xF940A289=~z~好吧，Johnny。有空了记得找我。
 
 ;0xFA2D388A=~z~Sorry, Terry, air hockey's pretty far down my priority list right now. Maybe some other time.
-0xFA2D388A=~z~Sorry, Terry, air hockey's pretty far down my priority list right now. Maybe some other time.
+0xFA2D388A=~z~不好意思，Terry。我现在不太想打冰球。改天再说吧。
 
 ;0xFB58649A=E1FCT2_ACT_CALL_CANCELLED_LOLIKEA
 0xFB58649A=E1FCT2_ACT_CALL_CANCELLED_LOLIKEA
