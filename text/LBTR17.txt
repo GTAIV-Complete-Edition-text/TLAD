@@ -39,4 +39,4 @@
 0xFE0C01BA=Mary Jane让我胖得像头肥猪！
 
 ;0xFF43BA16=Moss had recently gained public attention as a star of the Liberty City nightclub scene. He was often sited with minor celebrities too drunk to know better at Algonquin hotspot Masionette 9. It was even rumored that Moss had hooked the biggest whale in the Liberty City Scene - nightclub baron Tony Prince. Mr. Prince would not comment on his friend's untimely death. The LCPD are looking for a group of men wearing tight black leather in connection to the slaying.
-0xFF43BA16=作为自由城夜店的明星，Moss最近备受关注。据说他经常在Algonquin最著名的9号豪宅中与一群烂醉如泥的十八线明星谈人生聊理想。甚至有传言声称Moss钓到了自由城最大的鱼——夜店大亨Tony Prince。Prince先生对他朋友的早逝不予置评。LCPD正在寻找一群穿紧身皮衣的人，他们与这起谋杀有密切关系。
+0xFF43BA16=作为自由城的夜店明星，Moss最近备受关注。据说他经常在Algonquin最著名的9号豪宅中与一群烂醉如泥的十八线明星谈人生聊理想。甚至有传言声称Moss钓到了自由城最大的鱼——夜店大亨Tony Prince。Prince先生对他朋友的早逝不予置评。LCPD正在寻找一群穿紧身皮衣的人，他们与这起谋杀有密切关系。

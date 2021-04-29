@@ -1,4 +1,4 @@
-[RPi1AUD]
+﻿[RPi1AUD]
 ;0x00B76DB4=~z~You ain't getting away from here, Brian.
 0x00B76DB4=~z~你别想活着出去，Brian。
 

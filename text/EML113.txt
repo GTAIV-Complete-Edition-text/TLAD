@@ -106,3 +106,4 @@
 
 ;0xFFF4240D=He is still the same - a little fat boy who makes things up and whom everybody loves. it has been interesting in this country. Like home, only with food and more anxiety. Your loving son.
 0xFFF4240D=他还是那个样子-一个终日编造故事的并且人人都爱的小胖孩子。这个国家的事情一直很有意思。像家里一样，只有吃的和更多的焦虑。爱你的儿子。
+

@@ -534,7 +534,7 @@
 0xEF6B4EFA=~z~是这样。
 
 ;0xEFF765E3=~z~Now you're talking my language
-0xEFF765E3=~z~这就是我们的说话方式了。
+0xEFF765E3=~z~这话我同意。
 
 ;0xF008EF26=~z~My helicopter's waiting at the Alderney City Heliport.
 0xF008EF26=~z~我的直升机在Alderney市的停机坪等我。

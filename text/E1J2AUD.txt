@@ -267,7 +267,7 @@
 0x320C29CB=102090010
 
 ;0x327D1079=~z~You chose the wrong boys to put the squeeze on.
-0x327D1079=~z~你们压榨错人了。
+0x327D1079=~z~你们敲诈错人了。
 
 ;0x33363570=~z~Come on, man. Get on!
 0x33363570=~z~快点，老兄。骑上车！

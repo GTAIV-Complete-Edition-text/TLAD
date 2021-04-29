@@ -9,7 +9,7 @@
 0x72BA0C00=与其他~b~失落帮成员~s~会合。
 
 ;0x733C54AE=Get on your ~b~bike.
-0x733C54AE=骑上你的~b~摩托车。
+0x733C54AE=骑上你的~b~摩托。
 
 ;0x7E9066D1=Take out ~r~Tony's bodyguards.
 0x7E9066D1=干掉~r~Tony的保镖。
@@ -30,10 +30,10 @@
 0xA3A8A946=~r~你的帮派损失惨重。
 
 ;0xAF4E4099=~r~Your bike was wrecked.
-0xAF4E4099=~r~你的摩托车被毁了。
+0xAF4E4099=~r~你的摩托坏了。
 
 ;0xB157C4A4=~r~You abandoned your bike.
-0xB157C4A4=~r~你抛弃了你的摩托车。
+0xB157C4A4=~r~你抛弃了你的摩托。
 
 ;0xB8EB41ED=Stash the remaining diamonds in the other ~g~trash bag.
 0xB8EB41ED=将余下钻石藏到另一~g~垃圾袋~s~中。
@@ -48,5 +48,5 @@
 0xC6D13048=赶上其他的~b~失落帮成员。
 
 ;0xF4B068CC=Lose the cops.
-0xF4B068CC=甩掉警察。
+0xF4B068CC=甩掉条子。
 

@@ -9,25 +9,25 @@
 0x42602465=你的伪装足以骗过警卫。前往~y~跑道。~s~
 
 ;0x5096C0D2=The target is dead and you are locked inside the airport. Get to the ~y~opened gate.~s~
-0x5096C0D2=目标已经死亡，你现在被困机场。前往~y~打开的门。~s~
+0x5096C0D2=目标已死亡，你现在被困机场。前往~y~打开的大门。~s~
 
 ;0x66BAED1A=The chopper is landing. Find a way to take out the ~r~target.~s~
-0x66BAED1A=直升机正在降落。设法解决~r~目标。~s~
+0x66BAED1A=直升机正在降落。设法解决~r~目标。
 
 ;0x74C68939=The convoy is on the move. Take out the ~r~target.~s~
-0x74C68939=车队正在行进。解决~r~目标。~s~
+0x74C68939=车队正在行进。解决~r~目标。
 
 ;0x86274768=You can buy weapons, armor and ammo at the gun shops.
-0x86274768=你可以在枪店买到武器、防弹衣和弹药。
+0x86274768=你可以在枪店购买武器、子弹和防弹衣。
 
 ;0xB7B87A4F=The target is dead. Lose the cops.
-0xB7B87A4F=目标已死亡。甩掉警察。
+0xB7B87A4F=目标已死亡。甩掉条子。
 
 ;0xBD2D64B8=The ~r~target~s~ is fleeing. Don't let him get away.
-0xBD2D64B8=~r~目标~s~正在逃跑。别让他跑了。
+0xBD2D64B8=~r~目标~s~正在逃跑，别让他跑了。
 
 ;0xC80659C7=Lose the cops.
-0xC80659C7=甩掉警察。
+0xC80659C7=甩掉条子。
 
 ;0xCF587A4A=You now have the luggage porter clothes and can obtain access into the airport. Take out the ~r~target.~s~
 0xCF587A4A=你获得了行李搬运工的衣服，能够进入机场了。解决~r~目标。~s~
@@ -36,5 +36,5 @@
 0xE076E611=~r~目标逃走了。~s~
 
 ;0xF4F70994=Get to the ~y~airport runway~s~ by ~1~:~1~.
-0xF4F70994=在~1~:~1~前前往~y~机场跑道。~s~
+0xF4F70994=在~1~:~1~之前到达~y~机场跑道。
 

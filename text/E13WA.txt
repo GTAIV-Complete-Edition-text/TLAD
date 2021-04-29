@@ -314,6 +314,7 @@
 
 ;0xA303B917=~z~Shit, yeah. We could, like, open a theme park.
 0xA303B917=~z~操，好啊。我们，可以，开一个主题公园。
+
 ;0xA3157689=E13W_BG
 0xA3157689=E13W_BG
 
@@ -490,7 +491,7 @@
 0xE52213BF=E13W_DB
 
 ;0xE5820CE1=~z~I know, but...
-0xE5820CE1=~z~我知道，但是......
+0xE5820CE1=~z~我知道，但是...
 
 ;0xE5A014D6=~z~Yup.
 0xE5A014D6=~z~Yup.
@@ -529,7 +530,7 @@
 0xECBF8918=~z~你不能怪她。如果我丈夫和Johnny这样的蠢驴在一起的话我会急死的。
 
 ;0xED829803=~z~Jim - how's the wife?
-0xED829803=~z~Jim- 你老婆怎样？
+0xED829803=~z~Jim，你老婆怎样？
 
 ;0xEF825C4D=E13W_BA
 0xEF825C4D=E13W_BA

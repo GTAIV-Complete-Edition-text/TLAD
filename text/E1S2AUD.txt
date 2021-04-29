@@ -519,7 +519,7 @@
 0x99969024=~z~太猛了。
 
 ;0x9A82DFA3=~z~Do me a favor and don't fucking eat me, back there.
-0x9A82DFA3=~z~帮兄弟个忙，别上来口我，后面的。
+0x9A82DFA3=~z~帮兄弟个忙，别把我吃了，后面的。
 
 ;0x9CEA53D8=~z~Too much red tape, yadda yadda yadda...
 0x9CEA53D8=~z~手续太多了，折腾来折腾去的...
@@ -798,7 +798,7 @@
 0xFA2A9460=SFX_PAUSE_550
 
 ;0xFBDBCCCD=~z~My greed was of a... more corporeal nature.
-0xFBDBCCCD=~z~但我的贪欲...更多的是一种本能。
+0xFBDBCCCD=~z~但我的暴食...更多的是一种本能。
 
 ;0xFC0203C4=E1S2_NC
 0xFC0203C4=E1S2_NC

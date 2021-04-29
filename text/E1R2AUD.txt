@@ -276,7 +276,7 @@
 0x52B28F41=SFX_PAUSE_210
 
 ;0x53440118=~z~Terry, man, I could sure do with some help. Stuff went bad at the Libertonian.
-0x53440118=~z~Terry哥们，我很要有人帮忙。自由城博物馆出了状况。
+0x53440118=~z~Terry哥们，我很需要有人帮忙。自由城博物馆出了状况。
 
 ;0x53AAC698=~z~Can you boys wait here while I get our money?
 0x53AAC698=~z~我拿钱的时候你们能等在这儿吗？
@@ -384,7 +384,7 @@
 0x7017D94F=SFX_PAUSE_380
 
 ;0x7043A712=~z~Awww, man. You mean I got to sit here with Terry. Shit.
-0x7043A712=~z~啊，哥们。那我只能和Terry坐在这里。妈的。真无聊。
+0x7043A712=~z~啊，哥们。那我只能和Terry坐着发呆。妈的。真无聊。
 
 ;0x725445A2=~z~Raymundo.
 0x725445A2=~z~Raymundo。
