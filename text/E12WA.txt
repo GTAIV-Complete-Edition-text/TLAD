@@ -3,19 +3,19 @@
 0x001E5607=SFX_PAUSE_570
 
 ;0x003C4CD6=~z~You know what they say about guys who spend time in South East Asia, man.
-0x003C4CD6=~z~You know what they say about guys who spend time in South East Asia, man.
+0x003C4CD6=~z~你知道他们怎么说那帮去过东南亚的人吗，哥们。
 
 ;0x00596672=SFX_PAUSE_270
 0x00596672=SFX_PAUSE_270
 
 ;0x00A3F629=~z~And I will never bullshit you.
-0x00A3F629=~z~And I will never bullshit you.
+0x00A3F629=~z~也不会糊弄你。
 
 ;0x015803FE=E12W_A_EF
 0x015803FE=E12W_A_EF
 
 ;0x0271470D=~z~You are old.
-0x0271470D=~z~You are old.
+0x0271470D=~z~你本来就老。
 
 ;0x02AE69DA=SFX_PAUSE_450
 0x02AE69DA=SFX_PAUSE_450
@@ -24,7 +24,7 @@
 0x03DD6938=SFX_PAUSE_350
 
 ;0x04B30EE0=~z~Yeah she's moved in with her folks.
-0x04B30EE0=~z~Yeah she's moved in with her folks.
+0x04B30EE0=~z~她搬去和家人一起住了。
 
 ;0x04F0F01D=SFX_PAUSE_340
 0x04F0F01D=SFX_PAUSE_340
@@ -36,10 +36,10 @@
 0x058D5534=E12W_KB
 
 ;0x05B1C084=~z~Get out there, man. There's hardbellies all over this city looking for a man with your gifts.
-0x05B1C084=~z~Get out there, man. There's hardbellies all over this city looking for a man with your gifts.
+0x05B1C084=~z~走吧，哥们。城里还有兄弟们帮你找那个挖墙脚的人呢。
 
 ;0x06C591BB=~z~Man, I need this Club. Lost MC!
-0x06C591BB=~z~Man, I need this Club. Lost MC!
+0x06C591BB=~z~哥们，我离不开这个帮了。失落帮！
 
 ;0x073E7598=E12W_ZF
 0x073E7598=E12W_ZF
@@ -54,7 +54,7 @@
 0x086895D4=SFX_PAUSE_360
 
 ;0x0872ED77=~z~Yeah? I thought we fucked up that country to all hell.
-0x0872ED77=~z~Yeah? I thought we fucked up that country to all hell.
+0x0872ED77=~z~是吗？我还以为咱们把那国家变成了一片地狱。
 
 ;0x08D44135=E12W_UE
 0x08D44135=E12W_UE
@@ -63,22 +63,22 @@
 0x094B11FF=SFX_PAUSE_400
 
 ;0x0994880A=~z~You're my brother. I got your back.
-0x0994880A=~z~You're my brother. I got your back.
+0x0994880A=~z~你是我兄弟。我挺你。
 
 ;0x09FF454D=~z~I got a gift, man. I'm blessed.
-0x09FF454D=~z~I got a gift, man. I'm blessed.
+0x09FF454D=~z~我有天赋，哥们。我运气很好的。
 
 ;0x0A05CD13=~z~The craziness, man. You're getting old. You can get out of this shit.
-0x0A05CD13=~z~The craziness, man. You're getting old. You can get out of this shit.
+0x0A05CD13=~z~打打杀杀啊，哥们。你老了，可以退了。
 
 ;0x0A067C33=E12W_JA
 0x0A067C33=E12W_JA
 
 ;0x0A086714=~z~Yes indeed!
-0x0A086714=~z~Yes indeed!
+0x0A086714=~z~必须干他！
 
 ;0x0AC1773A=~z~How's the old lady, man?
-0x0AC1773A=~z~How's the old lady, man?
+0x0AC1773A=~z~女朋友怎么样，哥们？
 
 ;0x0B151392=E12W_NH
 0x0B151392=E12W_NH
@@ -96,7 +96,7 @@
 0x0CCB9F19=E12W_BA
 
 ;0x0CD51138=~z~Other way round, amigo.
-0x0CD51138=~z~Other way round, amigo.
+0x0CD51138=~z~罩你的人是我，朋友。
 
 ;0x0D954BA4=E12W_A_CG
 0x0D954BA4=E12W_A_CG
@@ -105,16 +105,16 @@
 0x0DE0AB03=E12W_YF
 
 ;0x0E949200=~z~People actually want to kill you out there.
-0x0E949200=~z~People actually want to kill you out there.
+0x0E949200=~z~那里是真的有人想杀你。
 
 ;0x0EFB97D1=~z~Yeah. Always did.
-0x0EFB97D1=~z~Yeah. Always did.
+0x0EFB97D1=~z~是。一直是。
 
 ;0x0F246FCF=E12W_OC
 0x0F246FCF=E12W_OC
 
 ;0x0F3447F4=~z~You coming onto me?
-0x0F3447F4=~z~You coming onto me?
+0x0F3447F4=~z~你们会跟我混吗？
 
 ;0x0F77480E=E12W_YE
 0x0F77480E=E12W_YE
@@ -129,22 +129,22 @@
 0x11BC9947=E12W_JC
 
 ;0x12150C64=~z~If we do get sent down, I'm hoping it's together.
-0x12150C64=~z~If we do get sent down, I'm hoping it's together.
+0x12150C64=~z~要是我们真的被抓进去的话，希望还能在一起。
 
 ;0x12154B9E=E12W_IF
 0x12154B9E=E12W_IF
 
 ;0x12A2B94C=~z~They can take everything, but you're still a fucking man, Terry. You got that.
-0x12A2B94C=~z~They can take everything, but you're still a fucking man, Terry. You got that.
+0x12A2B94C=~z~他们是能把一切都夺走，但你还他妈是个男人，Terry。你要明白这点。
 
 ;0x12EBD0FC=SFX_PAUSE_570
 0x12EBD0FC=SFX_PAUSE_570
 
 ;0x136CD9E9=~z~Herpes ain't a gift, man. It's a disease. You should keep that shit to yourself.
-0x136CD9E9=~z~Herpes ain't a gift, man. It's a disease. You should keep that shit to yourself.
+0x136CD9E9=~z~疱疹可不是天赋，哥们。这可是病啊。你可别传染给别人。
 
 ;0x1456F4C5=~z~Feels good, don't it?
-0x1456F4C5=~z~Feels good, don't it?
+0x1456F4C5=~z~感觉好点了吧？
 
 ;0x145A9FF6=E12W_SA
 0x145A9FF6=E12W_SA
@@ -153,7 +153,7 @@
 0x14A35186=SFX_PAUSE_240
 
 ;0x14B1BC45=~z~Same thing man, they all trying to fuck you.
-0x14B1BC45=~z~Same thing man, they all trying to fuck you.
+0x14B1BC45=~z~都一回事，哥们，他们都寻思着怎么操你。
 
 ;0x14E6F8DB=SFX_PAUSE_200
 0x14E6F8DB=SFX_PAUSE_200
@@ -162,7 +162,7 @@
 0x14ED014F=SFX_PAUSE_430
 
 ;0x150E3AA3=~z~Johnny! I'm drowning here, man. I dunno.
-0x150E3AA3=~z~Johnny! I'm drowning here, man. I dunno.
+0x150E3AA3=~z~ohnny！我要被拖垮了，哥们。真不知道该咋办。
 
 ;0x15415C1C=SFX_PAUSE_490
 0x15415C1C=SFX_PAUSE_490
@@ -171,7 +171,7 @@
 0x159DB182=E12W_TA
 
 ;0x16209443=~z~Shit, can we reach out to women as well? Don't think I could do without pussy for fifteen to twenty.
-0x16209443=~z~Shit, can we reach out to women as well? Don't think I could do without pussy for fifteen to twenty.
+0x16209443=~z~妈的，那女人也算在内吗？别以为没有女人我可以蹲得了十五、二十年的监狱。
 
 ;0x16270214=SFX_PAUSE_430
 0x16270214=SFX_PAUSE_430
@@ -180,7 +180,7 @@
 0x163411D2=SFX_PAUSE_380
 
 ;0x164AA2FE=~z~Yeah, well, you ain't got alimony to worry about. Nothing simple about that.
-0x164AA2FE=~z~Yeah, well, you ain't got alimony to worry about. Nothing simple about that.
+0x164AA2FE=~z~啊这，你又不用操心赡养费的事情。这可一点都不简单。
 
 ;0x168755D6=E12W_AF
 0x168755D6=E12W_AF
@@ -189,43 +189,43 @@
 0x1697F750=E12W_QD
 
 ;0x1720B7EF=~z~Don't laugh about it, man. I'm hurtin'.
-0x1720B7EF=~z~Don't laugh about it, man. I'm hurtin'.
+0x1720B7EF=~z~别笑话我了，哥们。太伤了。
 
 ;0x17D733CD=E12W_TB
 0x17D733CD=E12W_TB
 
 ;0x17DEA485=~z~Yeah, man.
-0x17DEA485=~z~Yeah, man.
+0x17DEA485=~z~投了，哥们。
 
 ;0x17F9A3CE=E12W_NF
 0x17F9A3CE=E12W_NF
 
 ;0x1858809B=~z~Maybe.
-0x1858809B=~z~Maybe.
+0x1858809B=~z~也许吧。
 
 ;0x18C16A6D=E12W_HK
 0x18C16A6D=E12W_HK
 
 ;0x18FD7169=~z~Like the country isn't run by five guys behind the scenes.
-0x18FD7169=~z~Like the country isn't run by five guys behind the scenes.
+0x18FD7169=~z~好像这国家不是幕后那几个人操纵似的。
 
 ;0x190B5502=~z~Where were we, Terrence.
-0x190B5502=~z~Where were we, Terrence.
+0x190B5502=~z~咱们在哪呢，Terrence？
 
 ;0x1912DDE0=~z~A different rash for every port.
-0x1912DDE0=~z~A different rash for every port.
+0x1912DDE0=~z~每去一个地方，就染上不一样的病。
 
 ;0x195184FD=E12W_A_CH
 0x195184FD=E12W_A_CH
 
 ;0x197C32C7=~z~Clay, man. You getting itchy feet? How long you been Stateside for?
-0x197C32C7=~z~Clay, man. You getting itchy feet? How long you been Stateside for?
+0x197C32C7=~z~Clay，哥们。想去旅游吗？你在美国待多久了？
 
 ;0x197D761F=~z~Oh, they pay me, brother. They all pay for what I got.
-0x197D761F=~z~Oh, they pay me, brother. They all pay for what I got.
+0x197D761F=~z~噢，是她们倒贴我，兄弟。物有所值。
 
 ;0x19D1EC6D=~z~Okay brother.
-0x19D1EC6D=~z~Okay brother.
+0x19D1EC6D=~z~你说，兄弟。
 
 ;0x1A0C9CF0=E12W_EH
 0x1A0C9CF0=E12W_EH
@@ -252,16 +252,16 @@
 0x1CC5DDB5=SFX_PAUSE_380
 
 ;0x1CC6961E=~z~Not in the war, dumb ass. I was attached to the embassy.
-0x1CC6961E=~z~Not in the war, dumb ass. I was attached to the embassy.
+0x1CC6961E=~z~不是在战场，傻逼。我是在大使馆的。
 
 ;0x1D090D15=~z~Alright, man. Then I will rephrase it. The fucking pricks running this country, man.
-0x1D090D15=~z~Alright, man. Then I will rephrase it. The fucking pricks running this country, man.
+0x1D090D15=~z~好吧，哥们。那我换个说法。当官的真操蛋，哥们。
 
 ;0x1D428955=SFX_PAUSE_350
 0x1D428955=SFX_PAUSE_350
 
 ;0x1D9F4BF5=~z~Fuck, man. I thought the outlaw life would save me from that shit.
-0x1D9F4BF5=~z~Fuck, man. I thought the outlaw life would save me from that shit.
+0x1D9F4BF5=~z~操了，哥们。希望无法无天的生活可以救我于水深火热之中。
 
 ;0x1E0A0E99=SFX_PAUSE_310
 0x1E0A0E99=SFX_PAUSE_310
@@ -282,7 +282,7 @@
 0x22530ECC=E12W_ED
 
 ;0x23259919=~z~Then what are they buying?
-0x23259919=~z~Then what are they buying?
+0x23259919=~z~那他们买什么？
 
 ;0x2376BE24=SFX_PAUSE_290
 0x2376BE24=SFX_PAUSE_290
@@ -291,7 +291,7 @@
 0x2422962A=E12W_FB
 
 ;0x242C0A82=~z~Very funny... sometimes, I find myself thinking what the fuck happened to my country?
-0x242C0A82=~z~Very funny... sometimes, I find myself thinking what the fuck happened to my country?
+0x242C0A82=~z~说起来还挺搞笑…有时候，我在想我的国家怎么了？
 
 ;0x24E07461=300090030090300090030090300090300090030090300090030
 0x24E07461=300090030090300090030090300090300090030090300090030
@@ -300,13 +300,13 @@
 0x25B11E5C=E12W_EJ
 
 ;0x262E2E13=~z~Sometimes, I think prison would be better.
-0x262E2E13=~z~Sometimes, I think prison would be better.
+0x262E2E13=~z~有时我觉得蹲监狱更好。
 
 ;0x26BFB2A9=E12W_GA
 0x26BFB2A9=E12W_GA
 
 ;0x26F5E890=~z~I hope not. Hope he heads out west or something.
-0x26F5E890=~z~I hope not. Hope he heads out west or something.
+0x26F5E890=~z~别啊。去西部吧，或者干点别的。
 
 ;0x270630A1=SFX_PAUSE_200
 0x270630A1=SFX_PAUSE_200
@@ -324,7 +324,7 @@
 0x2974A2D9=E12W_TG
 
 ;0x2A1C45A6=~z~That why you enlisted?
-0x2A1C45A6=~z~That why you enlisted?
+0x2A1C45A6=~z~那你为啥参军入伍呢？
 
 ;0x2A690226=E12W_UB
 0x2A690226=E12W_UB
@@ -336,7 +336,7 @@
 0x2B44617B=E12W_DG
 
 ;0x2B7AD0CF=~z~You thought you'd be an army man?
-0x2B7AD0CF=~z~You thought you'd be an army man?
+0x2B7AD0CF=~z~你觉得你是个军人吗？
 
 ;0x2C37C0E9=E12W_LE
 0x2C37C0E9=E12W_LE
@@ -348,7 +348,7 @@
 0x2CEEC3E3=E12W_SG
 
 ;0x2CF3BEE9=~z~...He was cool - real cool.
-0x2CF3BEE9=~z~...He was cool - real cool.
+0x2CF3BEE9=~z~…他好牛逼啊，真的牛逼。
 
 ;0x2D02AAAF=E12W_EA
 0x2D02AAAF=E12W_EA
@@ -357,16 +357,16 @@
 0x2D3164B0=E12W_A_FC
 
 ;0x2DFE2EFF=~z~Fuck 'em all, my brother.
-0x2DFE2EFF=~z~Fuck 'em all, my brother.
+0x2DFE2EFF=~z~操他妈的，兄弟。
 
 ;0x2E464455=~z~Billy was cool back then, weren't he?
-0x2E464455=~z~Billy was cool back then, weren't he?
+0x2E464455=~z~Billy那时候不是很牛逼吗？
 
 ;0x2F6F97E6=~z~You retiring me? Gonna take me 'round the back and shoot me like a lame horse?
-0x2F6F97E6=~z~You retiring me? Gonna take me 'round the back and shoot me like a lame horse?
+0x2F6F97E6=~z~你叫我退休？那就像枪毙跛脚的马一样，给我后脑勺来一枪吧。
 
 ;0x2F78D3B9=~z~Who for?
-0x2F78D3B9=~z~Who for?
+0x2F78D3B9=~z~投给谁了？
 
 ;0x2F90D03A=E12W_PF
 0x2F90D03A=E12W_PF
@@ -384,10 +384,10 @@
 0x3199EF3C=SFX_PAUSE_410
 
 ;0x31D8AFC8=~z~Sure.
-0x31D8AFC8=~z~Sure.
+0x31D8AFC8=~z~对。
 
 ;0x31F3AFFA=~z~Just like the old days, huh brother?
-0x31F3AFFA=~z~Just like the old days, huh brother?
+0x31F3AFFA=~z~就像以前那样吧，兄弟？
 
 ;0x3214A2EA=SFX_PAUSE_160
 0x3214A2EA=SFX_PAUSE_160
@@ -396,13 +396,13 @@
 0x322362AD=SFX_PAUSE_400
 
 ;0x32946ED6=~z~You got left for a Deadbeat?
-0x32946ED6=~z~You got left for a Deadbeat?
+0x32946ED6=~z~你被死妈天使的人害了？
 
 ;0x3363DB9E=~z~I dunno, seems like a lot of people in Liberty City wanna kill me, man.
-0x3363DB9E=~z~I dunno, seems like a lot of people in Liberty City wanna kill me, man.
+0x3363DB9E=~z~我搞不懂了。看来自由城有好多人想杀了我。
 
 ;0x33CA11E1=~z~You back with us, dude? What were we saying? Oh yeah...
-0x33CA11E1=~z~You back with us, dude? What were we saying? Oh yeah...
+0x33CA11E1=~z~你跟得上咱们吗，老哥？刚才讲到哪了？噢，对…
 
 ;0x33D7AB07=E12W_QE
 0x33D7AB07=E12W_QE
@@ -411,7 +411,7 @@
 0x340CE70D=020090200090020090200090020090200
 
 ;0x341CDFC7=~z~Shit, no wonder I spend most my time carrying your ass.
-0x341CDFC7=~z~Shit, no wonder I spend most my time carrying your ass.
+0x341CDFC7=~z~他妈的，怪不得我总是在罩你。
 
 ;0x345F9575=E12W_A_DF
 0x345F9575=E12W_A_DF
@@ -426,10 +426,10 @@
 0x348B0F19=SFX_PAUSE_190
 
 ;0x34B99C3D=~z~Alright, then. In that case, I guess things couldn't get any worse than they are right now.
-0x34B99C3D=~z~Alright, then. In that case, I guess things couldn't get any worse than they are right now.
+0x34B99C3D=~z~那，好吧。这么看来，事情还没那么糟。
 
 ;0x34DFFDF6=~z~Then they threaten to repossess my bike...
-0x34DFFDF6=~z~Then they threaten to repossess my bike...
+0x34DFFDF6=~z~其次，他们还威胁说要召回我的摩托车…
 
 ;0x350A73FA=SFX_PAUSE_410
 0x350A73FA=SFX_PAUSE_410
@@ -441,13 +441,13 @@
 0x35326006=E12W_A_ED
 
 ;0x35CADC49=~z~Thanks brother.
-0x35CADC49=~z~Thanks brother.
+0x35CADC49=~z~谢了，兄弟。
 
 ;0x369ADAF3=E12W_MA
 0x369ADAF3=E12W_MA
 
 ;0x36CB7E1D=~z~That's life in twenty first century America, my brother. We woke up in a nightmare.
-0x36CB7E1D=~z~That's life in twenty first century America, my brother. We woke up in a nightmare.
+0x36CB7E1D=~z~这就是二十一世纪的美国，好兄弟。我们一醒来就是在噩梦中。
 
 ;0x36F6E3C4=E12W_AC
 0x36F6E3C4=E12W_AC
@@ -462,10 +462,10 @@
 0x383525D5=E12W_YD
 
 ;0x397F0DA6=~z~Insane.
-0x397F0DA6=~z~Insane.
+0x397F0DA6=~z~老样子。
 
 ;0x39D187A5=~z~I'd like to see 'em try and repossess my balls, man. That'll be the day.
-0x39D187A5=~z~I'd like to see 'em try and repossess my balls, man. That'll be the day.
+0x39D187A5=~z~我寻思哪天他们连牛子都要召回，哥们。会有这么一天的。
 
 ;0x3A2A0249=SFX_PAUSE_380
 0x3A2A0249=SFX_PAUSE_380
@@ -477,13 +477,13 @@
 0x3B01F520=SFX_PAUSE_470
 
 ;0x3B3C0025=~z~Man, I liked her. Going off with that fucking Deadbeat. Shit!
-0x3B3C0025=~z~Man, I liked her. Going off with that fucking Deadbeat. Shit!
+0x3B3C0025=~z~哥们，我喜欢她。可是她跟死妈天使的人私奔了。他妈的！
 
 ;0x3B9FB5E9=SFX_PAUSE_500
 0x3B9FB5E9=SFX_PAUSE_500
 
 ;0x3D01170D=~z~Dude, you're in The Lost. You're just looking out for your brothers.
-0x3D01170D=~z~Dude, you're in The Lost. You're just looking out for your brothers.
+0x3D01170D=~z~老哥，你是失落帮的人。你只是为了照应兄弟罢了。
 
 ;0x3D22077C=SFX_PAUSE_380
 0x3D22077C=SFX_PAUSE_380
@@ -501,7 +501,7 @@
 0x3E5FAA06=SFX_PAUSE_300
 
 ;0x3EABE91B=~z~Crazy Colin's now a man of God.
-0x3EABE91B=~z~Crazy Colin's now a man of God.
+0x3EABE91B=~z~Colin这疯子现在信上帝了？
 
 ;0x3EB08979=E12W_KD
 0x3EB08979=E12W_KD
@@ -513,7 +513,7 @@
 0x3F8F0707=SFX_PAUSE_250
 
 ;0x3FDB4FA0=~z~I guess it's a good thing shit's so fucked up then.
-0x3FDB4FA0=~z~I guess it's a good thing shit's so fucked up then.
+0x3FDB4FA0=~z~还好他妈的这一切终究是结束了。
 
 ;0x3FED4189=E12W_ZD
 0x3FED4189=E12W_ZD
@@ -531,10 +531,10 @@
 0x41555426=E12W_MF
 
 ;0x4194F488=~z~Yes, Jesus. Batshit fucking crazy he is, whole family has gone into hiding.
-0x4194F488=~z~Yes, Jesus. Batshit fucking crazy he is, whole family has gone into hiding.
+0x4194F488=~z~真行啊。更他妈牛逼的是他全家都隐居了。
 
 ;0x419A5FC5=~z~You old, Clay. But you ain't that old.
-0x419A5FC5=~z~You old, Clay. But you ain't that old.
+0x419A5FC5=~z~你老了，Clay。但还没有那么老。
 
 ;0x41C3F87E=SFX_PAUSE_260
 0x41C3F87E=SFX_PAUSE_260
@@ -597,7 +597,7 @@
 0x47BD7D50=SFX_PAUSE_270
 
 ;0x47D8D1DB=~z~What you mean?
-0x47D8D1DB=~z~What you mean?
+0x47D8D1DB=~z~啥意思？
 
 ;0x48288FFC=E12W_LI
 0x48288FFC=E12W_LI
@@ -606,10 +606,10 @@
 0x4829FC12=030090300090030090300090030090300090030090300
 
 ;0x496877D2=~z~That shit catches up with you, man.
-0x496877D2=~z~That shit catches up with you, man.
+0x496877D2=~z~这废物要赶上你了，哥们。
 
 ;0x49F8D28C=~z~Yeah, me too.
-0x49F8D28C=~z~Yeah, me too.
+0x49F8D28C=~z~对啊，我也是这么想的。
 
 ;0x4AF11984=SFX_PAUSE_450
 0x4AF11984=SFX_PAUSE_450
@@ -624,7 +624,7 @@
 0x4B4B07FF=E12W_HE
 
 ;0x4BD09E07=~z~Might do her some good getting shit from her parents after all the crap she gave you.
-0x4BD09E07=~z~Might do her some good getting shit from her parents after all the crap she gave you.
+0x4BD09E07=~z~谁叫她乱来，现在轮到她爹妈教训她了。
 
 ;0x4C3B6BFC=SFX_PAUSE_540
 0x4C3B6BFC=SFX_PAUSE_540
@@ -636,19 +636,19 @@
 0x4D8B45EF=SFX_PAUSE_300
 
 ;0x4DCB156B=~z~Always thought I'd be an army man.
-0x4DCB156B=~z~Always thought I'd be an army man.
+0x4DCB156B=~z~你就把我当作是军人吧。
 
 ;0x4DCCE005=SFX_PAUSE_300
 0x4DCCE005=SFX_PAUSE_300
 
 ;0x4E9E0EA9=~z~Well, I swore to my daddy I'd never be a cop.
-0x4E9E0EA9=~z~Well, I swore to my daddy I'd never be a cop.
+0x4E9E0EA9=~z~呃，我跟我爸发誓过我不会当警察。
 
 ;0x4ECF111F=E12W_JD
 0x4ECF111F=E12W_JD
 
 ;0x4EFC92DD=~z~Johnny, man.
-0x4EFC92DD=~z~Johnny, man.
+0x4EFC92DD=~z~Johnny，哥们。
 
 ;0x4F36A5EE=E12W_A_GB
 0x4F36A5EE=E12W_A_GB
@@ -660,49 +660,49 @@
 0x4FF8CC3D=SFX_PAUSE_400
 
 ;0x50420C4F=~z~So my brother showed up.
-0x50420C4F=~z~So my brother showed up.
+0x50420C4F=~z~兄弟们来啦。
 
 ;0x50E53F41=~z~I don't need your pity man. And she ain't worth your pity, not no more.
-0x50E53F41=~z~I don't need your pity man. And she ain't worth your pity, not no more.
+0x50E53F41=~z~不用你可怜，哥们。她一点也不配。
 
 ;0x5165CEFF=~z~I can see how that pisses you off, man. Fuck it all, I guess.
-0x5165CEFF=~z~I can see how that pisses you off, man. Fuck it all, I guess.
+0x5165CEFF=~z~我知道你有被气到，哥们。滚他丫的。
 
 ;0x52FB5EFD=~z~I mean, you got a wife and kid. You got responsibilities.
-0x52FB5EFD=~z~I mean, you got a wife and kid. You got responsibilities.
+0x52FB5EFD=~z~我的意思是，你有老婆，还有孩子。你要负起责任。
 
 ;0x530B5EDF=~z~I know man.
-0x530B5EDF=~z~I know man.
+0x530B5EDF=~z~我懂，哥们。
 
 ;0x537A3776=~z~I'm on a fucking treadmill, man. Feel I'm running and if I stop everything goes to shit.
-0x537A3776=~z~I'm on a fucking treadmill, man. Feel I'm running and if I stop everything goes to shit.
+0x537A3776=~z~我感觉自己他妈的像在一台跑步机上，哥们，一直跑啊跑。要是停下来的话，就要出事了。
 
 ;0x53C4FA54=010
 0x53C4FA54=010
 
 ;0x5427D1DA=~z~Clay, man, you get the respect. Got to admire a man who served his country and saw some action overseas.
-0x5427D1DA=~z~Clay, man, you get the respect. Got to admire a man who served his country and saw some action overseas.
+0x5427D1DA=~z~Clay，哥们，我敬重你。我佩服一个出征海外，为国效力的人。
 
 ;0x5486D3F4=SFX_PAUSE_170
 0x5486D3F4=SFX_PAUSE_170
 
 ;0x561E7895=~z~But, man, it's the whole culture. The vibe.
-0x561E7895=~z~But, man, it's the whole culture. The vibe.
+0x561E7895=~z~但是哥们，整个文化就是这种感觉。
 
 ;0x56480254=SFX_PAUSE_310
 0x56480254=SFX_PAUSE_310
 
 ;0x565C10CE=~z~Yes, Clayton.
-0x565C10CE=~z~Yes, Clayton.
+0x565C10CE=~z~对，Clayton。
 
 ;0x5667F9D5=SFX_PAUSE_260
 0x5667F9D5=SFX_PAUSE_260
 
 ;0x5756D8FA=~z~You okay Jim? Anyway, as we were saying.
-0x5756D8FA=~z~You okay Jim? Anyway, as we were saying.
+0x5756D8FA=~z~你还好吗，Jim？好吧，我也就随便问问。
 
 ;0x579AFB92=~z~No, man. It's all still there. Still going strong.
-0x579AFB92=~z~No, man. It's all still there. Still going strong.
+0x579AFB92=~z~不，哥们。它还都好好的。还厉害的得呢。
 
 ;0x58123D2E=SFX_PAUSE_600
 0x58123D2E=SFX_PAUSE_600
@@ -714,7 +714,7 @@
 0x5876200D=E12W_LB
 
 ;0x58C428FF=~z~What were we conversing upon, Clayton...
-0x58C428FF=~z~What were we conversing upon, Clayton...
+0x58C428FF=~z~我们聊到什么话题了，Clayton…
 
 ;0x58FC1EB1=SFX_PAUSE_360
 0x58FC1EB1=SFX_PAUSE_360
@@ -726,13 +726,13 @@
 0x5954E608=SFX_PAUSE_360
 
 ;0x595FA92B=~z~Know what the American dream is? The house, the car, the family - that bullshit.
-0x595FA92B=~z~Know what the American dream is? The house, the car, the family - that bullshit.
+0x595FA92B=~z~知道美国梦是什么吗？房子、汽车、家庭？都你妈扯淡。
 
 ;0x5985816D=320090230090320090230320230090320090230
 0x5985816D=320090230090320090230320230090320090230
 
 ;0x59F0B95A=~z~It was mine, man. I fucking paid those mortgage payments.
-0x59F0B95A=~z~It was mine, man. I fucking paid those mortgage payments.
+0x59F0B95A=~z~那是我的，哥们。房贷他妈的是老子还的。
 
 ;0x5A87F637=E12W_WA
 0x5A87F637=E12W_WA
@@ -741,10 +741,10 @@
 0x5A9AB676=200090020090200090020090200090020090200
 
 ;0x5B6E9375=~z~That's easy - Vietnam.
-0x5B6E9375=~z~That's easy - Vietnam.
+0x5B6E9375=~z~很明显嘛，越南。
 
 ;0x5BAFAE8F=~z~Got any new grievances today, Terrence?
-0x5BAFAE8F=~z~Got any new grievances today, Terrence?
+0x5BAFAE8F=~z~今日份的不满是啥，Terrence？
 
 ;0x5BE58419=E12W_ZA
 0x5BE58419=E12W_ZA
@@ -753,7 +753,7 @@
 0x5BFF8CEC=E12W_OD
 
 ;0x5C0299BB=~z~You don't mean that. She loves you.
-0x5C0299BB=~z~You don't mean that. She loves you.
+0x5C0299BB=~z~别这么想。她还爱着你。
 
 ;0x5DA2A641=SFX_PAUSE_200
 0x5DA2A641=SFX_PAUSE_200
@@ -762,7 +762,7 @@
 0x5E00BB77=E12W_TD
 
 ;0x5E1B90A1=~z~That ain't like you.
-0x5E1B90A1=~z~That ain't like you.
+0x5E1B90A1=~z~你平时可不是这样子的。
 
 ;0x5E516DD7=SFX_PAUSE_310
 0x5E516DD7=SFX_PAUSE_310
@@ -771,7 +771,7 @@
 0x5E93B68E=E12W_A_DE
 
 ;0x60EAF317=~z~I don't think so, man. Wouldn't be fair.
-0x60EAF317=~z~I don't think so, man. Wouldn't be fair.
+0x60EAF317=~z~我不这么觉得，哥们。这不公平。
 
 ;0x628B6EEE=SFX_PAUSE_380
 0x628B6EEE=SFX_PAUSE_380
@@ -783,16 +783,16 @@
 0x633A3399=SFX_PAUSE_390
 
 ;0x635DCAF2=~z~Lost MC, man.
-0x635DCAF2=~z~Lost MC, man.
+0x635DCAF2=~z~失落帮万岁，哥们。
 
 ;0x639B2C37=~z~It sure seems to.
-0x639B2C37=~z~It sure seems to.
+0x639B2C37=~z~好像是哦。
 
 ;0x64B78CD7=E12W_BE
 0x64B78CD7=E12W_BE
 
 ;0x64DFB18F=~z~He could smoke more 'n anyone. Drink more n' anyone. Ride harder...
-0x64DFB18F=~z~He could smoke more 'n anyone. Drink more n' anyone. Ride harder...
+0x64DFB18F=~z~他抽得比别人多，喝得比别人猛，骑更帅的车…
 
 ;0x65656F37=SFX_PAUSE_500
 0x65656F37=SFX_PAUSE_500
@@ -810,7 +810,7 @@
 0x66DD5714=010090100090010090100090010090100090010090100090010090100
 
 ;0x676B553C=~z~Sure, man. Little comfort.
-0x676B553C=~z~Sure, man. Little comfort.
+0x676B553C=~z~对，哥们。这么看来感觉舒服些了。
 
 ;0x680F3791=SFX_PAUSE_360
 0x680F3791=SFX_PAUSE_360
@@ -819,7 +819,7 @@
 0x680F6061=E12W_A_DC
 
 ;0x6872C188=~z~Man, I'm sorry.
-0x6872C188=~z~Man, I'm sorry.
+0x6872C188=~z~哥们，对不起。
 
 ;0x690DDBEE=SFX_PAUSE_220
 0x690DDBEE=SFX_PAUSE_220
@@ -831,25 +831,25 @@
 0x693E2D2B=SFX_PAUSE_310
 
 ;0x6973F05E=~z~I know, brother. But life is hard, man. Take happiness where you can find it.
-0x6973F05E=~z~I know, brother. But life is hard, man. Take happiness where you can find it.
+0x6973F05E=~z~好吧，兄弟。但是日子已经够苦的了，哥们。找点乐子吧。
 
 ;0x699DF875=~z~You think those supremacist motherfuckers wouldn't go for my Jewish ass day and night?
-0x699DF875=~z~You think those supremacist motherfuckers wouldn't go for my Jewish ass day and night?
+0x699DF875=~z~你认为那些种族主义者不会天天追着我这犹太佬？
 
 ;0x69A57D97=~z~You're getting too slow as well as too old, buddy. Anyway.
-0x69A57D97=~z~You're getting too slow as well as too old, buddy. Anyway.
+0x69A57D97=~z~不管怎么说，你反应迟钝了，你老了，伙计。
 
 ;0x6A128058=~z~Fuck it all, man. Live true.
-0x6A128058=~z~Fuck it all, man. Live true.
+0x6A128058=~z~滚他丫的，哥们。好好活着吧。
 
 ;0x6A3A1D58=~z~Oh yes indeed.
-0x6A3A1D58=~z~Oh yes indeed.
+0x6A3A1D58=~z~那必须的啊。
 
 ;0x6A57641D=E12W_UF
 0x6A57641D=E12W_UF
 
 ;0x6A76D91C=~z~I love you brothers. The heartache... the pain, man. It's good to have you boys. You're constant.
-0x6A76D91C=~z~I love you brothers. The heartache... the pain, man. It's good to have you boys. You're constant.
+0x6A76D91C=~z~我爱你，兄弟。爱到心痛…有兄弟们在这真好。你们一直在。
 
 ;0x6AA67B86=E12W_KH
 0x6AA67B86=E12W_KH
@@ -873,7 +873,7 @@
 0x6C960526=E12W_IH
 
 ;0x6CC7F696=~z~How's Ashley?
-0x6CC7F696=~z~How's Ashley?
+0x6CC7F696=~z~Ashley最近怎么样？
 
 ;0x6CD8DB3F=E12W_TC
 0x6CD8DB3F=E12W_TC
@@ -885,7 +885,7 @@
 0x6D9E559A=E12W_AA
 
 ;0x6DB82E3D=~z~I don't fucking know... seriously fucking weird coffee by the look of things.
-0x6DB82E3D=~z~I don't fucking know... seriously fucking weird coffee by the look of things.
+0x6DB82E3D=~z~我他妈也不知道…买些看起来奇奇怪怪的咖啡吧。
 
 ;0x6DDDDB87=E12W_GF
 0x6DDDDB87=E12W_GF
@@ -897,7 +897,7 @@
 0x6E07C78C=E12W_MB
 
 ;0x6E23D11D=~z~Maybe they do.
-0x6E23D11D=~z~Maybe they do.
+0x6E23D11D=~z~也许是吧。
 
 ;0x705168F7=E12W_SJ
 0x705168F7=E12W_SJ
@@ -909,7 +909,7 @@
 0x71376850=SFX_PAUSE_300
 
 ;0x71412ECC=~z~You must have a whole lot of spare food stamps then. Good for you.
-0x71412ECC=~z~You must have a whole lot of spare food stamps then. Good for you.
+0x71412ECC=~z~那你肯定有很多备胎啊。牛逼啊你。
 
 ;0x7215AE25=E12W_A_AG
 0x7215AE25=E12W_A_AG
@@ -918,28 +918,28 @@
 0x72577CFE=E12W_GG
 
 ;0x7281315E=~z~It wasn't just that. I mean I love the women out there.
-0x7281315E=~z~It wasn't just that. I mean I love the women out there.
+0x7281315E=~z~何止是那样。我是说我喜欢那的女人。
 
 ;0x72D15700=~z~Colin the ex man of God, new man of heroin relapse.
-0x72D15700=~z~Colin the ex man of God, new man of heroin relapse.
+0x72D15700=~z~他以前是信的。现在他又信回海洛因了。
 
 ;0x72F14C78=E12W_EE
 0x72F14C78=E12W_EE
 
 ;0x73815BE6=~z~Yes, James?
-0x73815BE6=~z~Yes, James?
+0x73815BE6=~z~嗯，James？
 
 ;0x7391BA31=~z~Don't say nothing about this country, Terry. I fought for this country. My friends died for this country.
-0x7391BA31=~z~Don't say nothing about this country, Terry. I fought for this country. My friends died for this country.
+0x7391BA31=~z~国家没有错，Terry。我为国而战，我的朋友为国捐躯。
 
 ;0x73AE24FE=SFX_PAUSE_360
 0x73AE24FE=SFX_PAUSE_360
 
 ;0x73D6CFAE=~z~We can start an all inclusive prison gang. Crossing lines. Reachin' out to every creed and color?
-0x73D6CFAE=~z~We can start an all inclusive prison gang. Crossing lines. Reachin' out to every creed and color?
+0x73D6CFAE=~z~我们可以建立起一个包罗万象的帮派。大家都可以是多元化的，每一种信仰和肤色都包括在内吗？
 
 ;0x73F0CBF7=~z~Terrence?
-0x73F0CBF7=~z~Terrence?
+0x73F0CBF7=~z~Terrence？
 
 ;0x744D5093=E12W_GD
 0x744D5093=E12W_GD
@@ -954,13 +954,13 @@
 0x766455A1=SFX_PAUSE_260
 
 ;0x77047381=~z~Is the old lady alright?
-0x77047381=~z~Is the old lady alright?
+0x77047381=~z~那老婆还好吗？
 
 ;0x771B3314=E12W_RD
 0x771B3314=E12W_RD
 
 ;0x778550C0=~z~In her own way, sure. Only problem is, she's a psycho.
-0x778550C0=~z~In her own way, sure. Only problem is, she's a psycho.
+0x778550C0=~z~在她看来，是这样的。但问题是，她是个疯子。
 
 ;0x778FCDF7=310090130090310090130090310090130090310
 0x778FCDF7=310090130090310090130090310090130090310
@@ -972,13 +972,13 @@
 0x77D6FB7E=E12W_A_GG
 
 ;0x78B25316=~z~You mean, she's a woman.
-0x78B25316=~z~You mean, she's a woman.
+0x78B25316=~z~你的意思是，她还算是个女人。
 
 ;0x78D2CCD9=E12W_FD
 0x78D2CCD9=E12W_FD
 
 ;0x794A8F9B=~z~I don't know. But not good, I imagine.
-0x794A8F9B=~z~I don't know. But not good, I imagine.
+0x794A8F9B=~z~不知道，但我寻思应该不咋样。
 
 ;0x799A2BAF=SFX_PAUSE_290
 0x799A2BAF=SFX_PAUSE_290
@@ -990,13 +990,13 @@
 0x7A79CF61=E12W_ZC
 
 ;0x7AC5FF38=~z~Who?
-0x7AC5FF38=~z~Who?
+0x7AC5FF38=~z~骂谁呢？
 
 ;0x7ADD34C8=SFX_PAUSE_360
 0x7ADD34C8=SFX_PAUSE_360
 
 ;0x7AFEEC69=~z~I strictly pay with cash, Terry. Keeps things simple.
-0x7AFEEC69=~z~I strictly pay with cash, Terry. Keeps things simple.
+0x7AFEEC69=~z~我只用现金支付，Terry。别搞得那么复杂。
 
 ;0x7B4AF8B6=E12W_BC
 0x7B4AF8B6=E12W_BC
@@ -1005,7 +1005,7 @@
 0x7B4EEC3E=E12W_HC
 
 ;0x7BA74BB8=~z~Nothing, man, I'm cool.
-0x7BA74BB8=~z~Nothing, man, I'm cool.
+0x7BA74BB8=~z~没事，哥们，我很好。
 
 ;0x7C270B3C=E12W_A_DD
 0x7C270B3C=E12W_A_DD
@@ -1014,7 +1014,7 @@
 0x7C47F73B=SFX_PAUSE_190
 
 ;0x7C613984=~z~Johnny, man. You're my brother.
-0x7C613984=~z~Johnny, man. You're my brother.
+0x7C613984=~z~Johnny，哥们。你是我的好兄弟。
 
 ;0x7D205AEA=SFX_PAUSE_290
 0x7D205AEA=SFX_PAUSE_290
@@ -1029,7 +1029,7 @@
 0x7D4E7869=SFX_PAUSE_470
 
 ;0x7D83F45C=~z~Man, I knew God moved in mysterious ways, but that is fucking perverse.
-0x7D83F45C=~z~Man, I knew God moved in mysterious ways, but that is fucking perverse.
+0x7D83F45C=~z~哥们，上帝行踪神秘我是知道的，但是现在这个样子就你妈离谱。
 
 ;0x7E316E1D=SFX_PAUSE_440
 0x7E316E1D=SFX_PAUSE_440
@@ -1041,7 +1041,7 @@
 0x7E98B06F=E12W_YA
 
 ;0x7ECB5A2E=~z~Clay, dude, where was the best place the army stationed you?
-0x7ECB5A2E=~z~Clay, dude, where was the best place the army stationed you?
+0x7ECB5A2E=~z~Clay，你觉得你驻扎过的地方哪个是最好的？
 
 ;0x7F48C9FA=SFX_PAUSE_270
 0x7F48C9FA=SFX_PAUSE_270
@@ -1062,13 +1062,13 @@
 0x8215E672=100090010090100090010090100090010
 
 ;0x8227A78B=~z~Guess you were wrong.
-0x8227A78B=~z~Guess you were wrong.
+0x8227A78B=~z~你想多了。
 
 ;0x824CA19F=~z~What, man?
-0x824CA19F=~z~What, man?
+0x824CA19F=~z~咋的了，哥们？
 
 ;0x82B2AEEF=~z~Johnny Klebitz! Leading the way. You're a real figure of authority, man.
-0x82B2AEEF=~z~Johnny Klebitz! Leading the way. You're a real figure of authority, man.
+0x82B2AEEF=~z~Johnny Klebitz！带路吧。你是老大，哥们。
 
 ;0x82DBCC7F=SFX_PAUSE_180
 0x82DBCC7F=SFX_PAUSE_180
@@ -1083,19 +1083,19 @@
 0x83EFAE9B=SFX_PAUSE_430
 
 ;0x84546450=~z~Don't worry, man. It's a zen-like place.
-0x84546450=~z~Don't worry, man. It's a zen-like place.
+0x84546450=~z~没事，哥们。这地方挺养生的。
 
 ;0x84DDBAFC=~z~Fair? What are you talking about?
-0x84DDBAFC=~z~Fair? What are you talking about?
+0x84DDBAFC=~z~公平？你这是说啥呢？
 
 ;0x850193B3=~z~Fucking bitch.
-0x850193B3=~z~Fucking bitch.
+0x850193B3=~z~操你妈个死婊子。
 
 ;0x8535EEE0=E12W_ME
 0x8535EEE0=E12W_ME
 
 ;0x857F2808=~z~I know... I know... Shit, growing up in the neighborhood.
-0x857F2808=~z~I know... I know... Shit, growing up in the neighborhood.
+0x857F2808=~z~我知道，我知道…妈的，大家都是一起玩到大的。
 
 ;0x85801EC2=E12W_OF
 0x85801EC2=E12W_OF
@@ -1107,7 +1107,7 @@
 0x860B993B=E12W_A_GF
 
 ;0x8657923F=~z~Yeah, that's her motto as well.
-0x8657923F=~z~Yeah, that's her motto as well.
+0x8657923F=~z~对，这也是她的座右铭。
 
 ;0x8698752A=SFX_PAUSE_300
 0x8698752A=SFX_PAUSE_300
@@ -1119,13 +1119,13 @@
 0x87C0FA9A=SFX_PAUSE_230
 
 ;0x881F634C=~z~This fucking country, man!
-0x881F634C=~z~This fucking country, man!
+0x881F634C=~z~这国家真的操蛋，哥们！
 
 ;0x885284AF=SFX_PAUSE_380
 0x885284AF=SFX_PAUSE_380
 
 ;0x889078F0=~z~He was, man. He sure as shit was.
-0x889078F0=~z~He was, man. He sure as shit was.
+0x889078F0=~z~是啊，哥们。太他妈是了。
 
 ;0x891D0BB0=210090120090210090120090210090120090210090120
 0x891D0BB0=210090120090210090120090210090120090210090120
@@ -1137,13 +1137,13 @@
 0x8A15E3EC=E12W_CA
 
 ;0x8A8EE7EA=~z~I served this place and now look at it, man. Place is a dump.
-0x8A8EE7EA=~z~I served this place and now look at it, man. Place is a dump.
+0x8A8EE7EA=~z~我为这片土地付出了心血，但是现在放眼看去，哥们，这里就是一片垃圾场。
 
 ;0x8BCEDAC4=~z~Same old shit. Dodging bullets when I'm out and whatever Jackie can throw at me when I'm home. You?
-0x8BCEDAC4=~z~Same old shit. Dodging bullets when I'm out and whatever Jackie can throw at me when I'm home. You?
+0x8BCEDAC4=~z~也就那样。出门躲敌人射出的子弹，回家躲Jackie扔来的家具。你呢？
 
 ;0x8C73338D=~z~Unfortunately not. My daddy's scared he's going to come back to the farm.
-0x8C73338D=~z~Unfortunately not. My daddy's scared he's going to come back to the farm.
+0x8C73338D=~z~那倒没有。我爸吓唬他说他要回农场去了。
 
 ;0x8C9A1FCC=SFX_PAUSE_310
 0x8C9A1FCC=SFX_PAUSE_310
@@ -1155,7 +1155,7 @@
 0x8ED208DD=SFX_PAUSE_400
 
 ;0x8F7202F9=~z~Huh?
-0x8F7202F9=~z~Huh?
+0x8F7202F9=~z~啊？
 
 ;0x8F91916F=SFX_PAUSE_330
 0x8F91916F=SFX_PAUSE_330
@@ -1164,55 +1164,55 @@
 0x907164D0=E12W_ZE
 
 ;0x916A115C=~z~I'm responsible for my brothers too, Johnny. You included. This shit don't end good.
-0x916A115C=~z~I'm responsible for my brothers too, Johnny. You included. This shit don't end good.
+0x916A115C=~z~我也要对我兄弟负责，Johnny。包括你。这事不会草草结束的。
 
 ;0x91E340CC=~z~Poor thing. I'm sorry for you two.
-0x91E340CC=~z~Poor thing. I'm sorry for you two.
+0x91E340CC=~z~真是替你俩感到可怜。
 
 ;0x91F29B2C=~z~The rich get richer and the poor die.
-0x91F29B2C=~z~The rich get richer and the poor die.
+0x91F29B2C=~z~富的富死，穷的穷死。
 
 ;0x92600B0A=E12W_A_AE
 0x92600B0A=E12W_A_AE
 
 ;0x926A2A4C=~z~Johnny, man, they took the house.
-0x926A2A4C=~z~Johnny, man, they took the house.
+0x926A2A4C=~z~Johnny，哥们，他们把房子拿走了。
 
 ;0x927C9C48=~z~It's control man. They make you want that shit so they can trap you.
-0x927C9C48=~z~It's control man. They make you want that shit so they can trap you.
+0x927C9C48=~z~这是一场阴谋，哥们。他们想让你感觉自己需要这些玩意，这样才能中下他们的圈套。
 
 ;0x9312139D=SFX_PAUSE_330
 0x9312139D=SFX_PAUSE_330
 
 ;0x93D21ECF=~z~Same old bills biting me in the ass, man.
-0x93D21ECF=~z~Same old bills biting me in the ass, man.
+0x93D21ECF=~z~当然还是老一套了，哥们。
 
 ;0x94E76CF4=E12W_A_BC
 0x94E76CF4=E12W_A_BC
 
 ;0x9548EDB4=~z~How's, ahh, life, Jim?
-0x9548EDB4=~z~How's, ahh, life, Jim?
+0x9548EDB4=~z~最近，呃，怎么样，Jim？
 
 ;0x95671C2B=~z~Jesus.
-0x95671C2B=~z~Jesus.
+0x95671C2B=~z~天哪。
 
 ;0x95E8EB32=~z~Johnny, you know what gets me, man?
-0x95E8EB32=~z~Johnny, you know what gets me, man?
+0x95E8EB32=~z~Johnny，你知道我为啥生气吗？
 
 ;0x96AD29A0=SFX_PAUSE_380
 0x96AD29A0=SFX_PAUSE_380
 
 ;0x9789D209=~z~Shit, Terry, what were we saying?
-0x9789D209=~z~Shit, Terry, what were we saying?
+0x9789D209=~z~妈的，Terry，咱们讲到哪了？
 
 ;0x97EEF09F=~z~I know, man, I know. You ain't turning snitch on us are you?
-0x97EEF09F=~z~I know, man, I know. You ain't turning snitch on us are you?
+0x97EEF09F=~z~我知道，哥们。我知道。你不会是我们之间的内鬼吧？
 
 ;0x97F82FB0=SFX_PAUSE_310
 0x97F82FB0=SFX_PAUSE_310
 
 ;0x98106161=~z~I dunno how you do it, Jim. One woman and she drives you fucking crazy?
-0x98106161=~z~I dunno how you do it, Jim. One woman and she drives you fucking crazy?
+0x98106161=~z~我不知道你会咋办，Jim。一个女人就他妈把你逼疯了？
 
 ;0x9882F353=E12W_RC
 0x9882F353=E12W_RC
@@ -1257,10 +1257,10 @@
 0x9E712C23=SFX_PAUSE_270
 
 ;0x9E83802D=~z~Oh, I'm good. Real good. Found me somethin' fresh. Nice little mattress thrasher.
-0x9E83802D=~z~Oh, I'm good. Real good. Found me somethin' fresh. Nice little mattress thrasher.
+0x9E83802D=~z~噢，我还好啊。好得很。最近找了几个新的妹子约炮，个个都是顶级打桩机。
 
 ;0x9EBFA194=~z~Handicapping.
-0x9EBFA194=~z~Handicapping.
+0x9EBFA194=~z~这是机会均等化赛法。
 
 ;0x9ED6F79B=E12W_YB
 0x9ED6F79B=E12W_YB
@@ -1272,7 +1272,7 @@
 0x9F5C6075=200090020090020090200090200090020090200
 
 ;0x9FA08B56=~z~Rock and roll don't ever end so well, brother.
-0x9FA08B56=~z~Rock and roll don't ever end so well, brother.
+0x9FA08B56=~z~玩大了难收场，兄弟。
 
 ;0xA01404AF=SFX_PAUSE_180
 0xA01404AF=SFX_PAUSE_180
@@ -1287,7 +1287,7 @@
 0xA0EBF4F4=SFX_PAUSE_270
 
 ;0xA0F8A602=~z~Yeah, it's a handicapping system. They put the strongest of us with the weakest. Evens us out.
-0xA0F8A602=~z~Yeah, it's a handicapping system. They put the strongest of us with the weakest. Evens us out.
+0xA0F8A602=~z~根据规定，最牛的要跟最菜的组队，来保证平衡。
 
 ;0xA102AB4D=E12W_GC
 0xA102AB4D=E12W_GC
@@ -1296,7 +1296,7 @@
 0xA128BCD5=SFX_PAUSE_350
 
 ;0xA12D39D4=~z~Lost the train of thought there, didn't we, Clay?
-0xA12D39D4=~z~Lost the train of thought there, didn't we, Clay?
+0xA12D39D4=~z~没思绪了是吗，Clay？
 
 ;0xA1A56404=SFX_PAUSE_570
 0xA1A56404=SFX_PAUSE_570
@@ -1314,13 +1314,13 @@
 0xA26835BD=E12W_AE
 
 ;0xA2C96ACB=~z~You could handle yourself.
-0xA2C96ACB=~z~You could handle yourself.
+0xA2C96ACB=~z~你能管好自己。
 
 ;0xA30B3A22=E12W_A_EE
 0xA30B3A22=E12W_A_EE
 
 ;0xA365B83B=~z~The shit that happened to the kids in my class... I swore to my momma I'd never touch that stuff.
-0xA365B83B=~z~The shit that happened to the kids in my class... I swore to my momma I'd never touch that stuff.
+0xA365B83B=~z~这种事发生在我们班的孩子身上…我跟我妈发誓过了，绝对不会碰这些东西。
 
 ;0xA41C64B5=SFX_PAUSE_310
 0xA41C64B5=SFX_PAUSE_310
@@ -1332,7 +1332,7 @@
 0xA5859736=E12W_KA
 
 ;0xA65BF85C=~z~You know what the best thing about travelling the world is, Johnny?
-0xA65BF85C=~z~You know what the best thing about travelling the world is, Johnny?
+0xA65BF85C=~z~你知道周游世界的时候最好的事情是什么吗，Johnny？
 
 ;0xA6623CB9=SFX_PAUSE_170
 0xA6623CB9=SFX_PAUSE_170
@@ -1341,7 +1341,7 @@
 0xA67DC2F9=010090100090010090100090010090100
 
 ;0xA6F9225B=~z~I'm sorry, dude.
-0xA6F9225B=~z~I'm sorry, dude.
+0xA6F9225B=~z~对不起，老哥。
 
 ;0xA73C70B4=E12W_RF
 0xA73C70B4=E12W_RF
@@ -1359,10 +1359,10 @@
 0xA7CC1E1C=E12W_EB
 
 ;0xA7E69A98=~z~Pretty shit, man. Only way they could get worse is if you or Clay turned snitch.
-0xA7E69A98=~z~Pretty shit, man. Only way they could get worse is if you or Clay turned snitch.
+0xA7E69A98=~z~难受得一批，哥们。要说还有啥能让事情更难受的，那就是你或者Clay变成内鬼。
 
 ;0xA80F9B16=~z~Feds don't need snitches, man. They can pluck conversations outta thin air.
-0xA80F9B16=~z~Feds don't need snitches, man. They can pluck conversations outta thin air.
+0xA80F9B16=~z~条子们可不需要内鬼，哥们。他们用直觉就能知道你在想啥。
 
 ;0xA989D11C=SFX_PAUSE_470
 0xA989D11C=SFX_PAUSE_470
@@ -1374,13 +1374,13 @@
 0xAA02401B=E12W_A_EG
 
 ;0xAA30C289=~z~Ha ha ha. Fuck you, man.
-0xAA30C289=~z~Ha ha ha. Fuck you, man.
+0xAA30C289=~z~哈哈哈，操你妈的，哥们。
 
 ;0xAB54564E=E12W_NC
 0xAB54564E=E12W_NC
 
 ;0xAB66A328=~z~But the women are a part of the culture?
-0xAB66A328=~z~But the women are a part of the culture?
+0xAB66A328=~z~但是女人也是文化中的一部分吗？
 
 ;0xAB78F32F=E12W_IG
 0xAB78F32F=E12W_IG
@@ -1389,64 +1389,64 @@
 0xAB85237E=E12W_EC
 
 ;0xABD85201=~z~I guess that's it.
-0xABD85201=~z~I guess that's it.
+0xABD85201=~z~应该是吧。
 
 ;0xABFF9BEA=SFX_PAUSE_710
 0xABFF9BEA=SFX_PAUSE_710
 
 ;0xAC5AD882=~z~Burger Shot... Cluckin' Bell... stupid people...
-0xAC5AD882=~z~Burger Shot... Cluckin' Bell... stupid people...
+0xAC5AD882=~z~吃得饱汉堡…铛铛钟炸鸡…还有傻逼玩意…
 
 ;0xADBF0537=E12W_IE
 0xADBF0537=E12W_IE
 
 ;0xADC652D3=~z~Then you're working like a dog - breaking your back - and soon there's nothing left.
-0xADC652D3=~z~Then you're working like a dog - breaking your back - and soon there's nothing left.
+0xADC652D3=~z~接着你就像条狗一样打工，累死累活的，不久后你就一无所有。
 
 ;0xADCEA7A1=E12W_HG
 0xADCEA7A1=E12W_HG
 
 ;0xAE52774B=~z~How's your crazy brother, T?
-0xAE52774B=~z~How's your crazy brother, T?
+0xAE52774B=~z~你那疯子兄弟怎样了，T？
 
 ;0xAF04D534=~z~Shit, brother.
-0xAF04D534=~z~Shit, brother.
+0xAF04D534=~z~妈的，兄弟。
 
 ;0xAF307B66=~z~That I'm a drug dealing, murdering gang member.
-0xAF307B66=~z~That I'm a drug dealing, murdering gang member.
+0xAF307B66=~z~我是毒贩，是搞凶杀的黑帮。
 
 ;0xAF90566F=~z~It's a fucking dream and nothing more.
-0xAF90566F=~z~It's a fucking dream and nothing more.
+0xAF90566F=~z~操他妈的美国梦，啥也不是。
 
 ;0xAFB9A87D=SFX_PAUSE_220
 0xAFB9A87D=SFX_PAUSE_220
 
 ;0xAFCFE517=~z~Your ex's house.
-0xAFCFE517=~z~Your ex's house.
+0xAFCFE517=~z~你前任的房子。
 
 ;0xAFFB3ABF=SFX_PAUSE_430
 0xAFFB3ABF=SFX_PAUSE_430
 
 ;0xB02A4DE4=~z~Just keep 'em away from my fucking menorah, man. That's all I ask.
-0xB02A4DE4=~z~Just keep 'em away from my fucking menorah, man. That's all I ask.
+0xB02A4DE4=~z~别他妈来玷污我纯洁的心灵，哥们。求求你了。
 
 ;0xB0554A48=SFX_PAUSE_280
 0xB0554A48=SFX_PAUSE_280
 
 ;0xB0940664=~z~I'm hopin' forever. Don't think I'd like doing a bid.
-0xB0940664=~z~I'm hopin' forever. Don't think I'd like doing a bid.
+0xB0940664=~z~我希望可以一直持续下去。别以为我喜欢蹲监狱。
 
 ;0xB108F505=E12W_A_GA
 0xB108F505=E12W_A_GA
 
 ;0xB1645C9C=~z~Not so much when I realized war was just about getting the fat cats fatter though.
-0xB1645C9C=~z~Not so much when I realized war was just about getting the fat cats fatter though.
+0xB1645C9C=~z~我意识到打仗差不多可以让当官的钱包更鼓之后，就不在意那么多了。
 
 ;0xB1879831=~z~Shit, man, you're right. You're right.
-0xB1879831=~z~Shit, man, you're right. You're right.
+0xB1879831=~z~妈的，哥们，有道理，你说得对。
 
 ;0xB1B4A2D9=~z~Yuppies taking bonuses while workers lose their pensions?
-0xB1B4A2D9=~z~Yuppies taking bonuses while workers lose their pensions?
+0xB1B4A2D9=~z~雅皮士们拿走了工人们的养老金。
 
 ;0xB2318361=E12W_GH
 0xB2318361=E12W_GH
@@ -1455,7 +1455,7 @@
 0xB29D4517=SFX_PAUSE_300
 
 ;0xB2EEDD57=~z~Think we can resume our conversation. That alright with you, Clay?
-0xB2EEDD57=~z~Think we can resume our conversation. That alright with you, Clay?
+0xB2EEDD57=~z~咱接着聊。你还好吧，Clay？
 
 ;0xB32CA90A=E12W_LH
 0xB32CA90A=E12W_LH
@@ -1470,13 +1470,13 @@
 0xB3F26AB5=SFX_PAUSE_400
 
 ;0xB40C5975=~z~So Colin, my brother - rang me the other day.
-0xB40C5975=~z~So Colin, my brother - rang me the other day.
+0xB40C5975=~z~对了。Colin，我兄弟，前几天给我打了个电话。
 
 ;0xB4A9BC23=~z~Place was always a dump brother, difference now is the people ain't buying the bullshit no more.
-0xB4A9BC23=~z~Place was always a dump brother, difference now is the people ain't buying the bullshit no more.
+0xB4A9BC23=~z~这里一直都是垃圾场，兄弟。不同以往的是大家都不买账了。
 
 ;0xB4AD9517=~z~You must have an exotic array of sexually transmitted diseases by now.
-0xB4AD9517=~z~You must have an exotic array of sexually transmitted diseases by now.
+0xB4AD9517=~z~那现在看来你肯定染上了来自全世界的性病。
 
 ;0xB505EF54=300090030090300090030090030090300090030
 0xB505EF54=300090030090300090030090030090300090030
@@ -1491,7 +1491,7 @@
 0xB6455CA9=200090020090200090020090200090020
 
 ;0xB64B0F8B=~z~So, ummm, yeah...
-0xB64B0F8B=~z~So, ummm, yeah...
+0xB64B0F8B=~z~呃，嗯，对…
 
 ;0xB65E517C=SFX_PAUSE_340
 0xB65E517C=SFX_PAUSE_340
@@ -1515,7 +1515,7 @@
 0xB7D66538=E12W_HJ
 
 ;0xB800DBC7=~z~Really? What happened? Everyone still alive?
-0xB800DBC7=~z~Really? What happened? Everyone still alive?
+0xB800DBC7=~z~真的假的？咋的了？大家还喘气吗？
 
 ;0xB8553CE7=E12W_A_AF
 0xB8553CE7=E12W_A_AF
@@ -1539,7 +1539,7 @@
 0xB96D55CE=SFX_PAUSE_340
 
 ;0xB9702BAB=~z~You still ride like a bitch, man.
-0xB9702BAB=~z~You still ride like a bitch, man.
+0xB9702BAB=~z~你骑车像个傻逼似的，哥们。
 
 ;0xB9827AA8=SFX_PAUSE_310
 0xB9827AA8=SFX_PAUSE_310
@@ -1548,19 +1548,19 @@
 0xB99D164D=E12W_PA
 
 ;0xB9CBA6A4=~z~It's my duty to share this with all the females I can.
-0xB9CBA6A4=~z~It's my duty to share this with all the females I can.
+0xB9CBA6A4=~z~我有责任尽我所能与广大女性分享这东西。
 
 ;0xBA266197=SFX_PAUSE_380
 0xBA266197=SFX_PAUSE_380
 
 ;0xBA4A58A9=~z~How come I'm always stuck with you? Seems like wherever I go, you're right there next to me.
-0xBA4A58A9=~z~How come I'm always stuck with you? Seems like wherever I go, you're right there next to me.
+0xBA4A58A9=~z~为啥你总是缠着我？看来不管我到哪，你人也跟到哪是吧。
 
 ;0xBB69208E=SFX_PAUSE_330
 0xBB69208E=SFX_PAUSE_330
 
 ;0xBB93286A=~z~You'll meet someone, Clay. It'll all make sense.
-0xBB93286A=~z~You'll meet someone, Clay. It'll all make sense.
+0xBB93286A=~z~你会遇到更好的，Clay。有情人终成眷属。
 
 ;0xBC84AEB2=E12W_A_BE
 0xBC84AEB2=E12W_A_BE
@@ -1575,7 +1575,7 @@
 0xBD1873F8=E12W_A_EB
 
 ;0xBE2DF2C6=~z~I believe you, brother.
-0xBE2DF2C6=~z~I believe you, brother.
+0xBE2DF2C6=~z~我相信你，兄弟。
 
 ;0xBEA70A6B=E12W_NE
 0xBEA70A6B=E12W_NE
@@ -1605,28 +1605,28 @@
 0xC1826A04=SFX_PAUSE_270
 
 ;0xC2BF463F=~z~Fucking Horse got sentimental right before he turned snitch.
-0xC2BF463F=~z~Fucking Horse got sentimental right before he turned snitch.
+0xC2BF463F=~z~你他妈的变成内鬼之前就开始多疑起来了。
 
 ;0xC2DA48DA=~z~Hey, it don't count if you're paying for it.
-0xC2DA48DA=~z~Hey, it don't count if you're paying for it.
+0xC2DA48DA=~z~嘿，要是得掏腰包的话那可不算数。
 
 ;0xC37DC288=E12W_LG
 0xC37DC288=E12W_LG
 
 ;0xC37E8428=~z~For real, man. Fool found God inside and now he's trying to convert anyone in a ten mile radius.
-0xC37E8428=~z~For real, man. Fool found God inside and now he's trying to convert anyone in a ten mile radius.
+0xC37E8428=~z~真的，哥们。这傻逼在自己内心中发现了上帝，现在他正给方圆十英里内的人传教。
 
 ;0xC402FF3D=E12W_A_CB
 0xC402FF3D=E12W_A_CB
 
 ;0xC48C53E3=~z~Johnny, man, how are things?
-0xC48C53E3=~z~Johnny, man, how are things?
+0xC48C53E3=~z~Johnny，哥们，最近怎样？
 
 ;0xC52AE534=E12W_PD
 0xC52AE534=E12W_PD
 
 ;0xC5EF00B6=~z~Just like this city then.
-0xC5EF00B6=~z~Just like this city then.
+0xC5EF00B6=~z~就像这座城市一样。
 
 ;0xC69377EE=E12W_CE
 0xC69377EE=E12W_CE
@@ -1635,13 +1635,13 @@
 0xC6F23664=E12W_KK
 
 ;0xC7883899=~z~Ha ha. You wish, motherfucker.
-0xC7883899=~z~Ha ha. You wish, motherfucker.
+0xC7883899=~z~哈哈。当然了，操你妈的。
 
 ;0xC854F40C=E12W_A_GE
 0xC854F40C=E12W_A_GE
 
 ;0xC86C6541=~z~I'm feeling the calm of a man whose life can't get any worse.
-0xC86C6541=~z~I'm feeling the calm of a man whose life can't get any worse.
+0xC86C6541=~z~我感受到了生活糟到无可救药的时候，人放弃挣扎的那种感觉。
 
 ;0xC8978786=SFX_PAUSE_280
 0xC8978786=SFX_PAUSE_280
@@ -1653,10 +1653,10 @@
 0xC9961806=E12W_SC
 
 ;0xCAC8C139=~z~Dunno, but I suspect you're gonna tell me it's the women.
-0xCAC8C139=~z~Dunno, but I suspect you're gonna tell me it's the women.
+0xCAC8C139=~z~不知道，但我猜你会说是女人。
 
 ;0xCB018D31=~z~First the mayor takes away our constitutional right to bear arms...
-0xCB018D31=~z~First the mayor takes away our constitutional right to bear arms...
+0xCB018D31=~z~首先，市长剥夺了宪法赋予我们的持枪权…
 
 ;0xCBF74749=SFX_PAUSE_220
 0xCBF74749=SFX_PAUSE_220
@@ -1683,10 +1683,10 @@
 0xCE6B6731=E12W_BD
 
 ;0xCE6E8E3D=~z~Colin the man of God?
-0xCE6E8E3D=~z~Colin the man of God?
+0xCE6E8E3D=~z~Colin现在信上帝了？
 
 ;0xCEA11217=~z~The honey-colored girl. I love America's Next Top Hooker.
-0xCEA11217=~z~The honey-colored girl. I love America's Next Top Hooker.
+0xCEA11217=~z~那个蜂蜜肤色的妹子。我真喜欢「美国新花魁」这节目。
 
 ;0xCFB816EC=SFX_PAUSE_310
 0xCFB816EC=SFX_PAUSE_310
@@ -1695,7 +1695,7 @@
 0xCFBE88F4=SFX_PAUSE_350
 
 ;0xD0094BCE=~z~That I am, my brother.
-0xD0094BCE=~z~That I am, my brother.
+0xD0094BCE=~z~就是这样，好兄弟。
 
 ;0xD01EBE1B=SFX_PAUSE_210
 0xD01EBE1B=SFX_PAUSE_210
@@ -1710,13 +1710,13 @@
 0xD071E04C=SFX_PAUSE_430
 
 ;0xD0B6219C=~z~They got all the American shit you need on base:
-0xD0B6219C=~z~They got all the American shit you need on base:
+0xD0B6219C=~z~在基地里面，本土的东西全都有：
 
 ;0xD0CB51E3=020090200090020090200090020090200090020090200
 0xD0CB51E3=020090200090020090200090020090200090020090200
 
 ;0xD1BBE2E7=~z~The Federal Government monitoring our every move?
-0xD1BBE2E7=~z~The Federal Government monitoring our every move?
+0xD1BBE2E7=~z~联邦政府监视着我们的一举一动。
 
 ;0xD1C38E32=SFX_PAUSE_240
 0xD1C38E32=SFX_PAUSE_240
@@ -1725,22 +1725,22 @@
 0xD21406C6=E12W_JH
 
 ;0xD2B0A531=~z~Dude, being in the army, I don't get how you could stay away from America that long.
-0xD2B0A531=~z~Dude, being in the army, I don't get how you could stay away from America that long.
+0xD2B0A531=~z~老哥，我搞不懂了。入伍以后离开美国那么久，你怎么受得了？
 
 ;0xD39F14CD=~z~Don't put that round, man. I'm clean. I wrap my presents before I put 'em under the tree.
-0xD39F14CD=~z~Don't put that round, man. I'm clean. I wrap my presents before I put 'em under the tree.
+0xD39F14CD=~z~别这样说啊，哥们。我干净得很，做之前都会戴套。
 
 ;0xD3CC0F62=~z~Sure do. Squirrely little bag o' bones that you were.
-0xD3CC0F62=~z~Sure do. Squirrely little bag o' bones that you were.
+0xD3CC0F62=~z~当然了。那会你就是个皮包骨头的奇葩。
 
 ;0xD404450D=~z~I still can't get over it, man.
-0xD404450D=~z~I still can't get over it, man.
+0xD404450D=~z~我还是想不开，哥们。
 
 ;0xD43A8773=320090130090320090130090310090310090130090310
 0xD43A8773=320090130090320090130090310090310090130090310
 
 ;0xD4F2E2B0=~z~Fuck you, old man!
-0xD4F2E2B0=~z~Fuck you, old man!
+0xD4F2E2B0=~z~操你妈个老东西！
 
 ;0xD4FE1B99=E12W_A_AD
 0xD4FE1B99=E12W_A_AD
@@ -1764,7 +1764,7 @@
 0xD80A19E6=E12W_A_EH
 
 ;0xD8215582=~z~I mean, the boys in there wouldn't take too kindly to my associations with men of your pale pigmentation.
-0xD8215582=~z~I mean, the boys in there wouldn't take too kindly to my associations with men of your pale pigmentation.
+0xD8215582=~z~我意思是，里面的人可不喜欢我和你这样的白皮交朋友。
 
 ;0xD837B488=E12W_NA
 0xD837B488=E12W_NA
@@ -1797,13 +1797,13 @@
 0xDB6F40C4=E12W_KE
 
 ;0xDB81F92F=~z~How you doing man?
-0xDB81F92F=~z~How you doing man?
+0xDB81F92F=~z~怎么样，哥们？
 
 ;0xDBAB0F86=E12W_ZB
 0xDBAB0F86=E12W_ZB
 
 ;0xDC460B4F=~z~Man, land of the free became the land of the fucking macchi-fucking-ato.
-0xDC460B4F=~z~Man, land of the free became the land of the fucking macchi-fucking-ato.
+0xDC460B4F=~z~天哪，自由之都变成了玛奇朵之都。
 
 ;0xDC7C0431=SFX_PAUSE_420
 0xDC7C0431=SFX_PAUSE_420
@@ -1812,16 +1812,16 @@
 0xDC9ABD8C=E12W_A_CD
 
 ;0xDCEEDF19=~z~Let's enjoy this, boys - freedom. We ain't dead and we ain't in jail. How long can it last?
-0xDCEEDF19=~z~Let's enjoy this, boys - freedom. We ain't dead and we ain't in jail. How long can it last?
+0xDCEEDF19=~z~享受自由吧，兄弟们。我们还活着，也没进监狱。这样的日子能持续多久？
 
 ;0xDCFDFA15=SFX_PAUSE_190
 0xDCFDFA15=SFX_PAUSE_190
 
 ;0xDD2A2BBF=~z~Ha ha ha. Didn't we all.
-0xDD2A2BBF=~z~Ha ha ha. Didn't we all.
+0xDD2A2BBF=~z~哈哈哈。看来都是放屁。
 
 ;0xDD3DA63C=~z~What the fuck?
-0xDD3DA63C=~z~What the fuck?
+0xDD3DA63C=~z~什么情况？
 
 ;0xDD838916=SFX_PAUSE_350
 0xDD838916=SFX_PAUSE_350
@@ -1842,13 +1842,13 @@
 0xDED9EC50=E12W_YC
 
 ;0xDF06B2EF=~z~I know that, man.
-0xDF06B2EF=~z~I know that, man.
+0xDF06B2EF=~z~我知道，哥们。
 
 ;0xDF5FEF55=SFX_PAUSE_350
 0xDF5FEF55=SFX_PAUSE_350
 
 ;0xDFD601D7=~z~I'm okay, man, feeling old.
-0xDFD601D7=~z~I'm okay, man, feeling old.
+0xDFD601D7=~z~我还好，哥们。就是感觉老了。
 
 ;0xDFE494B4=E12W_MD
 0xDFE494B4=E12W_MD
@@ -1863,13 +1863,13 @@
 0xE1A1CCE3=SFX_PAUSE_280
 
 ;0xE21B0F00=~z~They can tap any phone they wanna. Shit, federal witnesses became obsolete at the turn of the century.
-0xE21B0F00=~z~They can tap any phone they wanna. Shit, federal witnesses became obsolete at the turn of the century.
+0xE21B0F00=~z~他们想监听谁就监听谁。他妈的，都什么年代了，还给条子当证人。
 
 ;0xE4BDC0C5=~z~Amen, ain't that the truth.
-0xE4BDC0C5=~z~Amen, ain't that the truth.
+0xE4BDC0C5=~z~老天，希望这不是真的。
 
 ;0xE4BF4359=~z~That's funny, cause the army still got a bee in their bonnet about homosexuality.
-0xE4BF4359=~z~That's funny, cause the army still got a bee in their bonnet about homosexuality.
+0xE4BF4359=~z~真的搞笑，军队在同性恋这问题上还是搞不清楚。
 
 ;0xE4D4FD34=SFX_PAUSE_260
 0xE4D4FD34=SFX_PAUSE_260
@@ -1878,22 +1878,22 @@
 0xE4F6AE03=SFX_PAUSE_360
 
 ;0xE55FE565=~z~Still banged up?
-0xE55FE565=~z~Still banged up?
+0xE55FE565=~z~还在搞破坏？
 
 ;0xE5BBCBAA=SFX_PAUSE_350
 0xE5BBCBAA=SFX_PAUSE_350
 
 ;0xE5D4DE90=~z~Get this guy away from me. Will one of you have a serious fucking conversation?
-0xE5D4DE90=~z~Get this guy away from me. Will one of you have a serious fucking conversation?
+0xE5D4DE90=~z~来个人把这家伙滚一边去。你们就他妈的不能认真说两句？
 
 ;0xE65F8AEB=E12W_ND
 0xE65F8AEB=E12W_ND
 
 ;0xE6900628=~z~What do ya mean?
-0xE6900628=~z~What do ya mean?
+0xE6900628=~z~啥意思？
 
 ;0xE6C94257=~z~You voting, Terry?
-0xE6C94257=~z~You voting, Terry?
+0xE6C94257=~z~你投票了没，Terry？
 
 ;0xE6FED8C2=E12W_CG
 0xE6FED8C2=E12W_CG
@@ -1911,10 +1911,10 @@
 0xE91030CF=SFX_PAUSE_340
 
 ;0xEA4ECBCB=~z~You lost that right when you got your first felony, man.
-0xEA4ECBCB=~z~You lost that right when you got your first felony, man.
+0xEA4ECBCB=~z~只有在犯了重罪的情况下这项权利才会被剥夺，哥们。
 
 ;0xEA68C9A9=~z~Plus, it ain't like here where the news scares you into thinking people want to kill you.
-0xEA68C9A9=~z~Plus, it ain't like here where the news scares you into thinking people want to kill you.
+0xEA68C9A9=~z~再说了，那里不像这里一样，天天有凶杀新闻，搞得人人自危。
 
 ;0xEAADE13B=SFX_PAUSE_190
 0xEAADE13B=SFX_PAUSE_190
@@ -1929,22 +1929,22 @@
 0xED77E6E5=E12W_SD
 
 ;0xEE3EC180=~z~Bikes and women.
-0xEE3EC180=~z~Bikes and women.
+0xEE3EC180=~z~操更爽的妹。
 
 ;0xEE4A1D58=~z~Yeah, just kidding.
-0xEE4A1D58=~z~Yeah, just kidding.
+0xEE4A1D58=~z~好啦，开玩笑的。
 
 ;0xEE531570=~z~But I gotta tell you something.
-0xEE531570=~z~But I gotta tell you something.
+0xEE531570=~z~但我还是得跟你讲两句。
 
 ;0xEE831DD6=~z~I wouldn't ever do that to you.
-0xEE831DD6=~z~I wouldn't ever do that to you.
+0xEE831DD6=~z~我不会对你干这事的。
 
 ;0xEE861C9B=E12W_QF
 0xEE861C9B=E12W_QF
 
 ;0xEE91EDAB=~z~Shit, is it them payments to your ex wife? The brothers can help.
-0xEE91EDAB=~z~Shit, is it them payments to your ex wife? The brothers can help.
+0xEE91EDAB=~z~妈的，是不是前妻的扶养费那回事？兄弟们可以帮你。
 
 ;0xEEA956AD=E12W_A_CA
 0xEEA956AD=E12W_A_CA
@@ -1956,13 +1956,13 @@
 0xEEEC55F0=E12W_AD
 
 ;0xEEF310F6=~z~Ha ha. Fuck you, man.
-0xEEF310F6=~z~Ha ha. Fuck you, man.
+0xEEF310F6=~z~哈哈。操你妈的，哥们。
 
 ;0xEF315B8D=~z~Shut up.
-0xEF315B8D=~z~Shut up.
+0xEF315B8D=~z~闭嘴吧你。
 
 ;0xEF69553C=~z~Johnny, man, rip up your fucking credit cards.
-0xEF69553C=~z~Johnny, man, rip up your fucking credit cards.
+0xEF69553C=~z~Johnny，哥们，你他妈的把你的信用卡撕了。
 
 ;0xEF76D2FD=SFX_PAUSE_260
 0xEF76D2FD=SFX_PAUSE_260
@@ -1971,7 +1971,7 @@
 0xF05355E6=E12W_IA
 
 ;0xF0938AB3=~z~Only action I care to speak about's the between the sheets kind.
-0xF0938AB3=~z~Only action I care to speak about's the between the sheets kind.
+0xF0938AB3=~z~我只寻思每天能睡得好不好。
 
 ;0xF0DDEB86=SFX_PAUSE_560
 0xF0DDEB86=SFX_PAUSE_560
@@ -1986,13 +1986,13 @@
 0xF2A262A0=E12W_TE
 
 ;0xF2B89E7D=~z~How long's this go on for, Jim?
-0xF2B89E7D=~z~How long's this go on for, Jim?
+0xF2B89E7D=~z~还要搞多久，Jim？
 
 ;0xF31B550E=010090100090010090100090010090100
 0xF31B550E=010090100090010090100090010090100
 
 ;0xF34BDB6C=~z~Much as I like that show, I was talking about politicians not hookers.
-0xF34BDB6C=~z~Much as I like that show, I was talking about politicians not hookers.
+0xF34BDB6C=~z~虽然我也很喜欢这节目，但我指的是政客，不是婊子。
 
 ;0xF4079A63=SFX_PAUSE_210
 0xF4079A63=SFX_PAUSE_210
@@ -2013,7 +2013,7 @@
 0xF5A323EA=SFX_PAUSE_370
 
 ;0xF61F6C0E=~z~Shit, maybe three years. Ever since I was reborn into civilian life.
-0xF61F6C0E=~z~Shit, maybe three years. Ever since I was reborn into civilian life.
+0xF61F6C0E=~z~妈的，从我退伍之后开始算的话，应该有三年了吧。
 
 ;0xF6CC06A3=E12W_KF
 0xF6CC06A3=E12W_KF
@@ -2034,13 +2034,13 @@
 0xF8C2FFFC=SFX_PAUSE_340
 
 ;0xF8F33DFE=~z~In a way. Only problem is now I know how the story's going to end.
-0xF8F33DFE=~z~In a way. Only problem is now I know how the story's going to end.
+0xF8F33DFE=~z~某种程度上好多了。唯一的问题是痛苦结局的记忆挥之不去。
 
 ;0xF9466A0C=E12W_IB
 0xF9466A0C=E12W_IB
 
 ;0xF9A05F01=~z~Not just alive, born anew.
-0xF9A05F01=~z~Not just alive, born anew.
+0xF9A05F01=~z~何止是喘气，整个人都重生了。
 
 ;0xF9A2593F=E12W_JB
 0xF9A2593F=E12W_JB
@@ -2067,7 +2067,7 @@
 0xFC720708=SFX_PAUSE_220
 
 ;0xFC7AC3BF=~z~Really?
-0xFC7AC3BF=~z~Really?
+0xFC7AC3BF=~z~真的吗？
 
 ;0xFCE964AB=E12W_A_AC
 0xFCE964AB=E12W_A_AC
@@ -2079,7 +2079,7 @@
 0xFD3C2C49=E12W_UD
 
 ;0xFD3FB9EE=~z~What gets me is these fucking assholes talking politics like it matters.
-0xFD3FB9EE=~z~What gets me is these fucking assholes talking politics like it matters.
+0xFD3FB9EE=~z~更气的是这帮操蛋玩意还开口闭口谈政治，好像这很重要似的。
 
 ;0xFDA7CB06=SFX_PAUSE_270
 0xFDA7CB06=SFX_PAUSE_270
@@ -2088,13 +2088,13 @@
 0xFDDA2A3D=120090210090120090210090120090210
 
 ;0xFE09E3DD=~z~Jim? You remember when I joined up?
-0xFE09E3DD=~z~Jim? You remember when I joined up?
+0xFE09E3DD=~z~Jim？还记得我加入帮里的时候吗？
 
 ;0xFE136DA9=E12W_LA
 0xFE136DA9=E12W_LA
 
 ;0xFE98D1AD=~z~Terry, what's up?
-0xFE98D1AD=~z~Terry, what's up?
+0xFE98D1AD=~z~Terry，怎么了？
 
 ;0xFF92C6BD=100090010090100090010090100090010090100
 0xFF92C6BD=100090010090100090010090100090010090100

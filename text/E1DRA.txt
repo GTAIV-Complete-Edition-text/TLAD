@@ -9,7 +9,7 @@
 0x01475D2D=SFX_PAUSE_380
 
 ;0x01817C2E=~z~Well, if everyone else's doin' it. Here's a Lost MC for ya.
-0x01817C2E=~z~Well, if everyone else's doin' it. Here's a Lost MC for ya.
+0x01817C2E=~z~好啊，要是有人敢乱来的话，失落帮就给你点颜色看看。
 
 ;0x01FB7915=~z~~s~
 0x01FB7915=~z~~s~
@@ -27,7 +27,7 @@
 0x02525265=E1DR_OG
 
 ;0x02B269DB=~z~Wasn't drunkenness that got Terrance off. It was good old fashioned witness intimidation.
-0x02B269DB=~z~Wasn't drunkenness that got Terrance off. It was good old fashioned witness intimidation.
+0x02B269DB=~z~救下Terrance的不是酗酒，而是老一套的证人恐吓。
 
 ;0x02E2F7A4=SFX_PAUSE_210
 0x02E2F7A4=SFX_PAUSE_210
@@ -39,10 +39,10 @@
 0x0302D4E9=E1DR_FH
 
 ;0x031FBA2F=~z~Yeah? Shit. I could throw you a lady.
-0x031FBA2F=~z~Yeah? Shit. I could throw you a lady.
+0x031FBA2F=~z~是嘛？妈的。那我可以给你整一个。
 
 ;0x055E03E7=~z~Lost MC. Fucking Lost Motorcycle Club, man.
-0x055E03E7=~z~Lost MC. Fucking Lost Motorcycle Club, man.
+0x055E03E7=~z~失落帮。失落帮牛逼，哥们。
 
 ;0x076DC23B=SFX_PAUSE_430
 0x076DC23B=SFX_PAUSE_430
@@ -57,25 +57,25 @@
 0x07FE5EC9=SFX_PAUSE_360
 
 ;0x08B7EC9C=~z~Sure - what the happened?
-0x08B7EC9C=~z~Sure - what the happened?
+0x08B7EC9C=~z~有的。你猜然后呢？
 
 ;0x0AAE61C3=E1DR_ID
 0x0AAE61C3=E1DR_ID
 
 ;0x0B3615EF=~z~Ha ha ha. I can't guarantee that.
-0x0B3615EF=~z~Ha ha ha. I can't guarantee that.
+0x0B3615EF=~z~哈哈哈。我可不敢担保。
 
 ;0x0B3DF006=~z~I'm sure.
-0x0B3DF006=~z~I'm sure.
+0x0B3DF006=~z~真的。
 
 ;0x0B518E68=~z~Oh yeah?
-0x0B518E68=~z~Oh yeah?
+0x0B518E68=~z~哦，是嘛？
 
 ;0x0DA6A4BF=~z~Yeah, well... Who fucking cares. Billy ain't here.
-0x0DA6A4BF=~z~Yeah, well... Who fucking cares. Billy ain't here.
+0x0DA6A4BF=~z~啊，呃…谁他妈在乎啊。Billy又不在这。
 
 ;0x0DDDE85B=~z~Billy ain't here, Clay.
-0x0DDDE85B=~z~Billy ain't here, Clay.
+0x0DDDE85B=~z~Billy不在这，Clay。
 
 ;0x0EF3602B=E1DR_MD
 0x0EF3602B=E1DR_MD
@@ -84,16 +84,16 @@
 0x0FA15934=300090030090300300090030090300030090300090030
 
 ;0x103515CC=~z~It's a pity none of the women in this city are drunk enough.
-0x103515CC=~z~It's a pity none of the women in this city are drunk enough.
+0x103515CC=~z~真可惜这城里没一个女的是能喝的。
 
 ;0x1158CCD8=E1DR_AB
 0x1158CCD8=E1DR_AB
 
 ;0x11E6F54C=~z~I'm sorry brother, I'm just a little drunk.
-0x11E6F54C=~z~I'm sorry brother, I'm just a little drunk.
+0x11E6F54C=~z~不好意思，兄弟。我喝得也有点上头了。
 
 ;0x12C97B2A=~z~Ha fucking ha. I open my heart up to you brother and you crack a joke. Fuck you man.
-0x12C97B2A=~z~Ha fucking ha. I open my heart up to you brother and you crack a joke. Fuck you man.
+0x12C97B2A=~z~哈哈他妈个逼的。兄弟，我跟你说心里话，你跟我讲笑话。操你妈的。
 
 ;0x13BF6C86=SFX_PAUSE_260
 0x13BF6C86=SFX_PAUSE_260
@@ -120,13 +120,13 @@
 0x18323467=SFX_PAUSE_350
 
 ;0x18DF83C6=~z~Lost MC for motherfucking life!
-0x18DF83C6=~z~Lost MC for motherfucking life!
+0x18DF83C6=~z~此生只混失落帮！
 
 ;0x19DF186B=E1DR_JB
 0x19DF186B=E1DR_JB
 
 ;0x1A2EF1FE=~z~It still means something, Johnny. It does.
-0x1A2EF1FE=~z~It still means something, Johnny. It does.
+0x1A2EF1FE=~z~这还是有点东西的，Johnny。确实。
 
 ;0x1B0207FC=E1DR_MC
 0x1B0207FC=E1DR_MC
@@ -135,16 +135,16 @@
 0x1BC3DAFE=E1DR_AA
 
 ;0x1C1DB000=~z~Making orders at Burger Shot? Now, them's some orders I can handle.
-0x1C1DB000=~z~Making orders at Burger Shot? Now, them's some orders I can handle.
+0x1C1DB000=~z~去汉堡店点吃点喝？这样的话，倒是可以。
 
 ;0x1C44EA69=~z~That's real deep, brother.
-0x1C44EA69=~z~That's real deep, brother.
+0x1C44EA69=~z~真是发人深省，兄弟。
 
 ;0x1C6D35CF=~z~It is good for me. When I'm drunk, women find me irresistible.
-0x1C6D35CF=~z~It is good for me. When I'm drunk, women find me irresistible.
+0x1C6D35CF=~z~我当然开心了。我喝多的时候，妹子们就顶不住要来找我了。
 
 ;0x1CA3ED37=~z~Pussy situation? Don't think I got one.
-0x1CA3ED37=~z~Pussy situation? Don't think I got one.
+0x1CA3ED37=~z~小妹在哪？别指望我这有妹子。
 
 ;0x1E0B1C60=E1DR_GB
 0x1E0B1C60=E1DR_GB
@@ -153,13 +153,13 @@
 0x22A58E19=E1DR_IB
 
 ;0x23A7D5B3=~z~Dudes. You're the fucking greatest. You're - you're my brothers.
-0x23A7D5B3=~z~Dudes. You're the fucking greatest. You're - you're my brothers.
+0x23A7D5B3=~z~老哥们真他妈牛逼啊。你们都是我的好兄弟。
 
 ;0x23A80321=SFX_PAUSE_250
 0x23A80321=SFX_PAUSE_250
 
 ;0x2438B1F1=~z~I bet it ain't.
-0x2438B1F1=~z~I bet it ain't.
+0x2438B1F1=~z~绝对不是。
 
 ;0x253DD9DE=E1DR_CF
 0x253DD9DE=E1DR_CF
@@ -174,28 +174,28 @@
 0x25E71E5B=E1DR_RB
 
 ;0x267AA573=~z~Ha, ha! The brotherhood brings us together.
-0x267AA573=~z~Ha, ha! The brotherhood brings us together.
+0x267AA573=~z~哈哈！兄弟情让我们团聚于此。
 
 ;0x27E92D90=~z~Just look after 'em. You know, if something...
-0x27E92D90=~z~Just look after 'em. You know, if something...
+0x27E92D90=~z~照顾好就对了。你懂的，要是出了啥事…
 
 ;0x28D8CADC=~z~Lost MC! Lost M fucking C. Yeah!
-0x28D8CADC=~z~Lost MC! Lost M fucking C. Yeah!
+0x28D8CADC=~z~失落帮！失落帮他妈的牛逼！耶！
 
 ;0x28F6A756=SFX_PAUSE_400
 0x28F6A756=SFX_PAUSE_400
 
 ;0x290B8FCB=~z~This country is so fucked up. Republicans. Democrats. It's crazy.
-0x290B8FCB=~z~This country is so fucked up. Republicans. Democrats. It's crazy.
+0x290B8FCB=~z~这国家完了。共和党，民主党，都疯了。
 
 ;0x2919CA8B=SFX_PAUSE_210
 0x2919CA8B=SFX_PAUSE_210
 
 ;0x2A27E178=~z~Johnny Klebitz!
-0x2A27E178=~z~Johnny Klebitz!
+0x2A27E178=~z~Johnny Klebitz！
 
 ;0x2ACFB8F5=~z~How you boys doing?
-0x2ACFB8F5=~z~How you boys doing?
+0x2ACFB8F5=~z~兄弟们怎么样？
 
 ;0x2B0706C3=E1DR_RF
 0x2B0706C3=E1DR_RF
@@ -204,34 +204,34 @@
 0x2DC36E29=SFX_PAUSE_310
 
 ;0x2ED41187=~z~Real sweet of you, brother, but I'm cool. I kinda swore off women for a while.
-0x2ED41187=~z~Real sweet of you, brother, but I'm cool. I kinda swore off women for a while.
+0x2ED41187=~z~你真好，兄弟。但是不用了。我这段时间戒色。
 
 ;0x3028001A=300090030090300030090300090030
 0x3028001A=300090030090300030090300090030
 
 ;0x329D2DA4=~z~Good for you, man
-0x329D2DA4=~z~Good for you, man
+0x329D2DA4=~z~你开心就好，哥们。
 
 ;0x32A3B1F6=SFX_OVERLAP_680
 0x32A3B1F6=SFX_OVERLAP_680
 
 ;0x33014132=~z~You know, I used to really love this fucking country.
-0x33014132=~z~You know, I used to really love this fucking country.
+0x33014132=~z~你知道吗，我以前真他妈热爱这个国家。
 
 ;0x357467E1=~z~It's the truth man.
-0x357467E1=~z~It's the truth man.
+0x357467E1=~z~真的啊，哥们。
 
 ;0x3705635B=E1DR_PF
 0x3705635B=E1DR_PF
 
 ;0x370C938E=~z~I'm sober enough, man.
-0x370C938E=~z~I'm sober enough, man.
+0x370C938E=~z~我很清醒啊，哥们。
 
 ;0x371147A8=~z~That is if I don't pass out first.
-0x371147A8=~z~That is if I don't pass out first.
+0x371147A8=~z~我要是不先醉倒的话就会那样。
 
 ;0x3730551C=~z~I'm hella drunk.
-0x3730551C=~z~I'm hella drunk.
+0x3730551C=~z~我不行了。
 
 ;0x37637B05=SFX_PAUSE_280
 0x37637B05=SFX_PAUSE_280
@@ -243,16 +243,16 @@
 0x387A3E12=E1DR_BA
 
 ;0x38C1A362=~z~I know.
-0x38C1A362=~z~I know.
+0x38C1A362=~z~我知道。
 
 ;0x39014A48=~z~It fucking does, man. Brothers for life.
-0x39014A48=~z~It fucking does, man. Brothers for life.
+0x39014A48=~z~说得太他妈对了，哥们。生死好兄弟。
 
 ;0x39B418D9=~z~Yeah, you needs to sober up.
-0x39B418D9=~z~Yeah, you needs to sober up.
+0x39B418D9=~z~确实，你需要清醒一下。
 
 ;0x3A1C029B=~z~And you're my brother, man.
-0x3A1C029B=~z~And you're my brother, man.
+0x3A1C029B=~z~你也是我的好兄弟，哥们。
 
 ;0x3AB24CCA=E1DR_LI
 0x3AB24CCA=E1DR_LI
@@ -264,10 +264,10 @@
 0x3AC7723F=SFX_PAUSE_280
 
 ;0x3AF129D1=~z~Johnny, man? What's your pussy situation?
-0x3AF129D1=~z~Johnny, man? What's your pussy situation?
+0x3AF129D1=~z~Johnny，哥们？你的小妹都在哪呢？
 
 ;0x3B894919=~z~We got brothers, man. Fuck the numbers, we got brothers.
-0x3B894919=~z~We got brothers, man. Fuck the numbers, we got brothers.
+0x3B894919=~z~有哥几个就够了，哥们。多少不重要，有你们就好。
 
 ;0x3C430817=SFX_PAUSE_310
 0x3C430817=SFX_PAUSE_310
@@ -282,13 +282,13 @@
 0x3F64EB33=E1DR_FE
 
 ;0x3F82BCB5=~z~I hope so.
-0x3F82BCB5=~z~I hope so.
+0x3F82BCB5=~z~希望如此吧。
 
 ;0x3F9FFC34=~z~Good for you brother. Good for you
-0x3F9FFC34=~z~Good for you brother. Good for you
+0x3F9FFC34=~z~你开心就好，兄弟。你开心就好。
 
 ;0x40FB2767=~z~You don't get it. I got needs.
-0x40FB2767=~z~You don't get it. I got needs.
+0x40FB2767=~z~你不懂。我是有需求的。
 
 ;0x41EADE73=SFX_PAUSE_150
 0x41EADE73=SFX_PAUSE_150
@@ -300,22 +300,22 @@
 0x44BC9676=SFX_PAUSE_270
 
 ;0x44D5E229=~z~A man with sexually transmitted diseases that ain't been heard of in the West.
-0x44D5E229=~z~A man with sexually transmitted diseases that ain't been heard of in the West.
+0x44D5E229=~z~是在西方闻所未闻的性病患者吧。
 
 ;0x464848F0=SFX_PAUSE_270
 0x464848F0=SFX_PAUSE_270
 
 ;0x48D77B2E=~z~I still love her man. I still love her!
-0x48D77B2E=~z~I still love her man. I still love her!
+0x48D77B2E=~z~我还爱她，哥们。我还爱她！
 
 ;0x48DEA020=~z~Yup?
-0x48DEA020=~z~Yup?
+0x48DEA020=~z~嗯？
 
 ;0x49415036=~z~That's why we got The Lost MC. It's the one thing that makes sense.
-0x49415036=~z~That's why we got The Lost MC. It's the one thing that makes sense.
+0x49415036=~z~这就是为啥失落帮会存在了。我们的存在是有意义的。
 
 ;0x49D0477F=~z~They'd be disappointed at first. But, like, eventually... they'd get used to you.
-0x49D0477F=~z~They'd be disappointed at first. But, like, eventually... they'd get used to you.
+0x49D0477F=~z~一开始她们是会有点失望。但是，呃，到头来…她们会习惯你的。
 
 ;0x4B28A1FF=E1DR_AE
 0x4B28A1FF=E1DR_AE
@@ -333,16 +333,16 @@
 0x4D166959=SFX_PAUSE_210
 
 ;0x4D9E04BB=~z~No one's watching us, brother.
-0x4D9E04BB=~z~No one's watching us, brother.
+0x4D9E04BB=~z~没人在看着咱们啊，兄弟。
 
 ;0x4F585ACC=~z~Good for you.
-0x4F585ACC=~z~Good for you.
+0x4F585ACC=~z~那真好。
 
 ;0x4F84749F=~z~Maybe I should have done something - I don't know, different with my life. Gone clean.
-0x4F84749F=~z~Maybe I should have done something - I don't know, different with my life. Gone clean.
+0x4F84749F=~z~也许我应该干点别的。我也不太懂，反正就是跟当下不太一样的。干净点的。
 
 ;0x4FD30929=~z~Man, I'm so drunk. I think someone's watching us.
-0x4FD30929=~z~Man, I'm so drunk. I think someone's watching us.
+0x4FD30929=~z~哥们，我不行了。我寻思有人在看着咱们。
 
 ;0x4FDD8C50=SFX_PAUSE_260
 0x4FDD8C50=SFX_PAUSE_260
@@ -375,7 +375,7 @@
 0x583D1527=E1DR_FA
 
 ;0x58992E2A=~z~I can only imagine.
-0x58992E2A=~z~I can only imagine.
+0x58992E2A=~z~我可没见过。
 
 ;0x59AF40F4=E1DR_AD
 0x59AF40F4=E1DR_AD
@@ -390,7 +390,7 @@
 0x5B4E7A99=E1DR_HB
 
 ;0x5C399F2A=~z~Good thing I'm sober. Sober as a fuckin' judge.
-0x5C399F2A=~z~Good thing I'm sober. Sober as a fuckin' judge.
+0x5C399F2A=~z~还好我醒过来了。像法官一样清醒。
 
 ;0x5D7E46B8=E1DR_GF
 0x5D7E46B8=E1DR_GF
@@ -411,19 +411,19 @@
 0x645BFFF5=E1DR_DD
 
 ;0x64ADC123=~z~Yo. I ain't built to make the orders, just to follow them. Done that my whole career.
-0x64ADC123=~z~Yo. I ain't built to make the orders, just to follow them. Done that my whole career.
+0x64ADC123=~z~哟。点兵点将我可不会，我只会听从安排。这辈子都是这样。
 
 ;0x6710CDA7=~z~But you're hoping I'll lead you to some hookers or something, right?
-0x6710CDA7=~z~But you're hoping I'll lead you to some hookers or something, right?
+0x6710CDA7=~z~但是你就寻思着我带你去操逼啥的，对吧？
 
 ;0x67164E48=E1DR_EE
 0x67164E48=E1DR_EE
 
 ;0x693C5BA2=~z~What're we talking about?
-0x693C5BA2=~z~What're we talking about?
+0x693C5BA2=~z~咱们都在聊啥呢？
 
 ;0x69839EBF=~z~Just say you will.
-0x69839EBF=~z~Just say you will.
+0x69839EBF=~z~快说你会的。
 
 ;0x69C1C467=SFX_PAUSE_280
 0x69C1C467=SFX_PAUSE_280
@@ -435,7 +435,7 @@
 0x6AABDF09=E1DR_QB
 
 ;0x6B769F56=~z~Probably drinking Logger Lite.
-0x6B769F56=~z~Probably drinking Logger Lite.
+0x6B769F56=~z~你是边喝边尿的吧。
 
 ;0x6BBA58C0=E1DR_EB
 0x6BBA58C0=E1DR_EB
@@ -471,7 +471,7 @@
 0x71683BEF=E1DR_OF
 
 ;0x71CECD1C=~z~I bet it's my ex wife.
-0x71CECD1C=~z~I bet it's my ex wife.
+0x71CECD1C=~z~绝对是我前妻。
 
 ;0x730A777E=E1DR_FD
 0x730A777E=E1DR_FD
@@ -480,7 +480,7 @@
 0x73F6F3CF=E1DR_QA
 
 ;0x74A968D8=~z~Johnny, man, I'd follow you. I'd follow you anywhere.
-0x74A968D8=~z~Johnny, man, I'd follow you. I'd follow you anywhere.
+0x74A968D8=~z~Johnny，哥们，我就跟你混。你去哪我就去哪。
 
 ;0x74DDBCCE=SFX_PAUSE_550
 0x74DDBCCE=SFX_PAUSE_550
@@ -504,7 +504,7 @@
 0x7B367E7A=E1DR_AF
 
 ;0x7C2AD384=~z~I'm wasted, man
-0x7C2AD384=~z~I'm wasted, man
+0x7C2AD384=~z~我不行了，哥们。
 
 ;0x7D01C090=E1DR_IF
 0x7D01C090=E1DR_IF
@@ -534,49 +534,49 @@
 0x82A4BACB=SFX_PAUSE_400
 
 ;0x844CDE2F=~z~Sometimes, Johnny, sometimes I wonder.
-0x844CDE2F=~z~Sometimes, Johnny, sometimes I wonder.
+0x844CDE2F=~z~有时候啊，Johnny，有时候我真想…
 
 ;0x857F9965=~z~Yo.
-0x857F9965=~z~Yo.
+0x857F9965=~z~哟。
 
 ;0x85EE97CA=~z~You grew up?
-0x85EE97CA=~z~You grew up?
+0x85EE97CA=~z~你成熟了？
 
 ;0x85F657A4=~z~I will. Now shut up.
-0x85F657A4=~z~I will. Now shut up.
+0x85F657A4=~z~我会。现在打住。
 
 ;0x8686DF0F=~z~Ain't you two some walkin' fucking clichés.
-0x8686DF0F=~z~Ain't you two some walkin' fucking clichés.
+0x8686DF0F=~z~你俩他妈的不是废话连篇的嘛。
 
 ;0x86B9F63C=E1DR_FC
 0x86B9F63C=E1DR_FC
 
 ;0x874A71E9=~z~No, you look fucked up.
-0x874A71E9=~z~No, you look fucked up.
+0x874A71E9=~z~不，你看起来喝废了。
 
 ;0x893C6AD5=SFX_PAUSE_300
 0x893C6AD5=SFX_PAUSE_300
 
 ;0x8ACCC205=~z~You - a confused as shit, sexually repressed, overly sensitive, Jewish maniac.
-0x8ACCC205=~z~You - a confused as shit, sexually repressed, overly sensitive, Jewish maniac.
+0x8ACCC205=~z~你这个糊里糊涂、无欲无求、过分敏感的犹太疯子。
 
 ;0x8C2697D2=~z~I wish you would, but I know you too much of a sensitive motherfucker to do that.
-0x8C2697D2=~z~I wish you would, but I know you too much of a sensitive motherfucker to do that.
+0x8C2697D2=~z~我也想你带我啊，但是我知道你太敏感了，玩不起。
 
 ;0x8F03666F=~z~You know, sometimes I think there must be more to life than boozing, and women and fucking war.
-0x8F03666F=~z~You know, sometimes I think there must be more to life than boozing, and women and fucking war.
+0x8F03666F=~z~你懂的，有时候生活不只是喝酒、泡妞，还他妈有干架。
 
 ;0x9027FA96=SFX_PAUSE_330
 0x9027FA96=SFX_PAUSE_330
 
 ;0x903F03DA=~z~Fuck all of you. Fucking assholes.
-0x903F03DA=~z~Fuck all of you. Fucking assholes.
+0x903F03DA=~z~滚你们妈的。操你妈的逼。
 
 ;0x90688862=090090290090090090290090390390090390
 0x90688862=090090290090090090290090390390090390
 
 ;0x914F5470=~z~And then I try to think what and the only thing I can come up with is bullshit.
-0x914F5470=~z~And then I try to think what and the only thing I can come up with is bullshit.
+0x914F5470=~z~然后我也有思考过，但结果是啥都没悟到。
 
 ;0x91CD7D6C=E1DR_LH
 0x91CD7D6C=E1DR_LH
@@ -585,19 +585,19 @@
 0x92D5793B=SFX_PAUSE_340
 
 ;0x93078CC5=~z~Shit, we gotta look after him
-0x93078CC5=~z~Shit, we gotta look after him
+0x93078CC5=~z~妈的，咱得照顾下他。
 
 ;0x935ED1BC=E1DR_JD
 0x935ED1BC=E1DR_JD
 
 ;0x95CA5814=~z~Got me in one.
-0x95CA5814=~z~Got me in one.
+0x95CA5814=~z~帽子都往我身上扣。
 
 ;0x96148F81=~z~Im sober! Let's have another drink.
-0x96148F81=~z~Im sober! Let's have another drink.
+0x96148F81=~z~我没醉！接着喝。
 
 ;0x972703E3=~z~I don't know about that but you could have at least tried washing.
-0x972703E3=~z~I don't know about that but you could have at least tried washing.
+0x972703E3=~z~我也不是很懂，但至少你可以试下洗把脸。
 
 ;0x97F0FFA8=E1DR_MB
 0x97F0FFA8=E1DR_MB
@@ -609,7 +609,7 @@
 0x99E8BE5A=SFX_PAUSE_330
 
 ;0x9A884372=~z~Dudes? Dudes?
-0x9A884372=~z~Dudes? Dudes?
+0x9A884372=~z~老哥们？老哥们？
 
 ;0x9B3E15B0=SFX_PAUSE_330
 0x9B3E15B0=SFX_PAUSE_330
@@ -618,13 +618,13 @@
 0x9CA39C9E=SFX_PAUSE_260
 
 ;0x9E2C20D0=~z~Yee haw!
-0x9E2C20D0=~z~Yee haw!
+0x9E2C20D0=~z~呀呼！
 
 ;0x9EC13B69=SFX_PAUSE_290
 0x9EC13B69=SFX_PAUSE_290
 
 ;0x9F5F9C77=~z~Johnny, man.
-0x9F5F9C77=~z~Johnny, man.
+0x9F5F9C77=~z~Johnny，哥们。
 
 ;0x9F781428=SFX_PAUSE_280
 0x9F781428=SFX_PAUSE_280
@@ -636,16 +636,16 @@
 0x9FBF1CDB=E1DR_FI
 
 ;0xA0A9A809=~z~Shit, I'm drunk as the judge who threw that last case of yours outta court.
-0xA0A9A809=~z~Shit, I'm drunk as the judge who threw that last case of yours outta court.
+0xA0A9A809=~z~妈的，我醉得像那个把你的卷宗甩出庭外的法官一样。
 
 ;0xA0AE18EC=SFX_PAUSE_100
 0xA0AE18EC=SFX_PAUSE_100
 
 ;0xA12E0AC8=~z~Man I am d-runk
-0xA12E0AC8=~z~Man I am d-runk
+0xA12E0AC8=~z~哥们，我醉…了。
 
 ;0xA17EEF69=~z~That's cool. It brings us together.
-0xA17EEF69=~z~That's cool. It brings us together.
+0xA17EEF69=~z~可以了。咱们不都在这呢嘛。
 
 ;0xA1BF8D81=200090020090200090020090200090020
 0xA1BF8D81=200090020090200090020090200090020
@@ -660,10 +660,10 @@
 0xA37F17B6=SFX_OVERLAP_4920
 
 ;0xA38343FD=~z~Man I am drunk as fuck
-0xA38343FD=~z~Man I am drunk as fuck
+0xA38343FD=~z~天啊，我醉得像个傻逼。
 
 ;0xA42A6DCC=~z~How 'bout Johnny here? He's pretty enough.
-0xA42A6DCC=~z~How 'bout Johnny here? He's pretty enough.
+0xA42A6DCC=~z~Johnny在这，你看如何？有他就够了。
 
 ;0xA5C77C11=SFX_PAUSE_800
 0xA5C77C11=SFX_PAUSE_800
@@ -672,16 +672,16 @@
 0xA72F193B=E1DR_CE
 
 ;0xA7C1A90F=~z~Fuck you.
-0xA7C1A90F=~z~Fuck you.
+0xA7C1A90F=~z~滚你妈的。
 
 ;0xA7C39525=SFX_PAUSE_260
 0xA7C39525=SFX_PAUSE_260
 
 ;0xA88FC11A=~z~What, man?
-0xA88FC11A=~z~What, man?
+0xA88FC11A=~z~啥？哥们？
 
 ;0xAA733842=~z~But that may just be the age.
-0xAA733842=~z~But that may just be the age.
+0xAA733842=~z~但那只是年龄问题啊。
 
 ;0xAC1E3ABB=E1DR_JC
 0xAC1E3ABB=E1DR_JC
@@ -693,7 +693,7 @@
 0xAD5332EA=E1DR_LA
 
 ;0xAF17D5F6=~z~I ain't gonna challenge your position, man.
-0xAF17D5F6=~z~I ain't gonna challenge your position, man.
+0xAF17D5F6=~z~我可不敢挑战你的地位，哥们。
 
 ;0xAF9ECA41=E1DR_DE
 0xAF9ECA41=E1DR_DE
@@ -705,7 +705,7 @@
 0xB15FEC3F=E1DR_KA
 
 ;0xB180BE2F=~z~You did?
-0xB180BE2F=~z~You did?
+0xB180BE2F=~z~有吗？
 
 ;0xB1DEA32C=SFX_PAUSE_460
 0xB1DEA32C=SFX_PAUSE_460
@@ -714,7 +714,7 @@
 0xB24D4726=SFX_PAUSE_410
 
 ;0xB39CB3D6=~z~Billy, man, Billy, I don't get it.
-0xB39CB3D6=~z~Billy, man, Billy, I don't get it.
+0xB39CB3D6=~z~Billy，哥们，Billy，我不知道。
 
 ;0xB411DA69=E1DR_DH
 0xB411DA69=E1DR_DH
@@ -759,7 +759,7 @@
 0xBD706F13=SFX_PAUSE_270
 
 ;0xBD70FA66=~z~Sensitive like a kick in the balls.
-0xBD70FA66=~z~Sensitive like a kick in the balls.
+0xBD70FA66=~z~敏感得像给你牛子来一脚那样。
 
 ;0xBDAABFA5=SFX_PAUSE_350
 0xBDAABFA5=SFX_PAUSE_350
@@ -777,7 +777,7 @@
 0xC0163313=E1DR_RD
 
 ;0xC059F87A=~z~I didn't mean it like that. I think you'd do good.
-0xC059F87A=~z~I didn't mean it like that. I think you'd do good.
+0xC059F87A=~z~我不是那意思。我觉得你干得挺好的。
 
 ;0xC0D77192=SFX_PAUSE_230
 0xC0D77192=SFX_PAUSE_230
@@ -795,19 +795,19 @@
 0xC267B466=SFX_PAUSE_230
 
 ;0xC2EE6934=~z~You don't look sober, old man.
-0xC2EE6934=~z~You don't look sober, old man.
+0xC2EE6934=~z~你看起来喝多了，老太公。
 
 ;0xC3DA3F5F=E1DR_IA
 0xC3DA3F5F=E1DR_IA
 
 ;0xC3E8D03D=~z~I'm sober as can be, brother.
-0xC3E8D03D=~z~I'm sober as can be, brother.
+0xC3E8D03D=~z~我尽量清醒了，哥们。
 
 ;0xC6C84CC3=SFX_PAUSE_420
 0xC6C84CC3=SFX_PAUSE_420
 
 ;0xC705DAA8=~z~What about Billy then?
-0xC705DAA8=~z~What about Billy then?
+0xC705DAA8=~z~那你说Billy干啥？
 
 ;0xC937981D=SFX_PAUSE_210
 0xC937981D=SFX_PAUSE_210
@@ -834,7 +834,7 @@
 0xCE31A046=E1DR_JH
 
 ;0xCF8FFCDF=~z~Look after 'em, man
-0xCF8FFCDF=~z~Look after 'em, man
+0xCF8FFCDF=~z~照顾好他们。
 
 ;0xCFB6325F=E1DR_KE
 0xCFB6325F=E1DR_KE
@@ -843,16 +843,16 @@
 0xD1C25A81=E1DR_OC
 
 ;0xD257D11A=~z~This club, man. It's fucking cool.
-0xD257D11A=~z~This club, man. It's fucking cool.
+0xD257D11A=~z~这酒吧，哥们，真他妈牛啊。
 
 ;0xD4E02EBF=E1DR_KC
 0xD4E02EBF=E1DR_KC
 
 ;0xD51F87FE=~z~What do you mean?
-0xD51F87FE=~z~What do you mean?
+0xD51F87FE=~z~啥意思？
 
 ;0xD5A82474=~z~I love you, brothers. I fucking love you.
-0xD5A82474=~z~I love you, brothers. I fucking love you.
+0xD5A82474=~z~我爱你，好兄弟。我真他妈爱你。
 
 ;0xD6370785=SFX_PAUSE_350
 0xD6370785=SFX_PAUSE_350
@@ -861,16 +861,16 @@
 0xD6820388=E1DR_NF
 
 ;0xD6BA089D=~z~Me too, Terry
-0xD6BA089D=~z~Me too, Terry
+0xD6BA089D=~z~我也是，Terry。
 
 ;0xD7D75525=~z~I need a woman. Arghh.
-0xD7D75525=~z~I need a woman. Arghh.
+0xD7D75525=~z~我要女人。啊啊啊。
 
 ;0xD81208A3=~z~And me - a man of the world, a gifted lover, a man with discipline and charm.
-0xD81208A3=~z~And me - a man of the world, a gifted lover, a man with discipline and charm.
+0xD81208A3=~z~而我，是世界第一的男人，是情场高手，是个律己又有魅力的男人。
 
 ;0xDA07292D=~z~Cold, man.
-0xDA07292D=~z~Cold, man.
+0xDA07292D=~z~这笑话太冷了，哥们。
 
 ;0xDA54A34F=E1DR_PG
 0xDA54A34F=E1DR_PG
@@ -891,7 +891,7 @@
 0xDDD27E71=E1DR_LE
 
 ;0xDE54B5D5=~z~Oh yeah, Lost MC.
-0xDE54B5D5=~z~Oh yeah, Lost MC.
+0xDE54B5D5=~z~噢耶，失落帮。
 
 ;0xDF2D0D3E=SFX_PAUSE_280
 0xDF2D0D3E=SFX_PAUSE_280
@@ -927,13 +927,13 @@
 0xE2D5F769=E1DR_JE
 
 ;0xE4AFA716=~z~I'm here, man.
-0xE4AFA716=~z~I'm here, man.
+0xE4AFA716=~z~在这呢，哥们。
 
 ;0xE63CB0EC=~z~~s~
 0xE63CB0EC=~z~~s~
 
 ;0xE77F4E82=~z~Look, all I'm hoping is if I follow you I ain't gonna end up naked under the turnpike.
-0xE77F4E82=~z~Look, all I'm hoping is if I follow you I ain't gonna end up naked under the turnpike.
+0xE77F4E82=~z~听着，我只希望跟你混不至于衣不蔽体地死在高速公路下。
 
 ;0xE82C5760=E1DR_QC
 0xE82C5760=E1DR_QC
@@ -942,7 +942,7 @@
 0xE85350A4=E1DR_QF
 
 ;0xE958DEA1=~z~Sure did... I think I might puke...
-0xE958DEA1=~z~Sure did... I think I might puke...
+0xE958DEA1=~z~对…先让我吐一下…
 
 ;0xE9734141=SFX_PAUSE_280
 0xE9734141=SFX_PAUSE_280
@@ -954,7 +954,7 @@
 0xEA102D0F=E1DR_BD
 
 ;0xEA502140=~z~Shit, I know that. We was drinking not smoking peyote, you dumb motherfucker.
-0xEA502140=~z~Shit, I know that. We was drinking not smoking peyote, you dumb motherfucker.
+0xEA502140=~z~妈的，我知道。我们在喝酒，又不是在嗑药。你妈个傻逼。
 
 ;0xEAE15F32=E1DR_CA
 0xEAE15F32=E1DR_CA
@@ -969,7 +969,7 @@
 0xEC7C8F01=E1DR_LG
 
 ;0xED0B5010=~z~Clay, man, Clay. You ever thought about being, like, chapter president?
-0xED0B5010=~z~Clay, man, Clay. You ever thought about being, like, chapter president?
+0xED0B5010=~z~Clay，哥们，Clay。你有想过当上，呃，分会主席吗？
 
 ;0xED36281D=200090020090200090020090200090020090200
 0xED36281D=200090020090200090020090200090020090200
@@ -978,10 +978,10 @@
 0xEE3661B4=E1DR_QD
 
 ;0xEE7C3290=~z~Wonder what brother?
-0xEE7C3290=~z~Wonder what brother?
+0xEE7C3290=~z~真想干啥，兄弟？
 
 ;0xEE9E89B3=~z~Used to be a lot cooler.
-0xEE9E89B3=~z~Used to be a lot cooler.
+0xEE9E89B3=~z~以前更牛逼。
 
 ;0xEF4855C9=E1DR_DF
 0xEF4855C9=E1DR_DF
@@ -990,16 +990,16 @@
 0xEF4E64BB=SFX_PAUSE_230
 
 ;0xF17634F4=~z~Lost forever. Forever Lost.
-0xF17634F4=~z~Lost forever. Forever Lost.
+0xF17634F4=~z~失落帮万岁，万岁失落帮。
 
 ;0xF1D5C971=SFX_PAUSE_290
 0xF1D5C971=SFX_PAUSE_290
 
 ;0xF20053FA=~z~You were being serious?
-0xF20053FA=~z~You were being serious?
+0xF20053FA=~z~你认真的？
 
 ;0xF204BD90=~z~How bout we drop the sentiment and find us some pussy?
-0xF204BD90=~z~How bout we drop the sentiment and find us some pussy?
+0xF204BD90=~z~我看咱们别在这煽情了，去找几个婊子爽爽好吗？
 
 ;0xF22E9FCA=E1DR_RH
 0xF22E9FCA=E1DR_RH
@@ -1014,10 +1014,10 @@
 0xF55BD5C2=E1DR_FB
 
 ;0xF593CF9A=~z~Ha, ha will drink to that.
-0xF593CF9A=~z~Ha, ha will drink to that.
+0xF593CF9A=~z~哈，他会喝成那样的。
 
 ;0xF5DD295B=~z~It used to, maybe.
-0xF5DD295B=~z~It used to, maybe.
+0xF5DD295B=~z~以前可能是吧。
 
 ;0xF657EF6E=E1DR_KB
 0xF657EF6E=E1DR_KB
@@ -1029,16 +1029,16 @@
 0xF815EB9D=SFX_PAUSE_300
 
 ;0xF8334E25=~z~Shut the fuck up. I told you not to drink that whisky.
-0xF8334E25=~z~Shut the fuck up. I told you not to drink that whisky.
+0xF8334E25=~z~快他妈闭嘴。都说了别喝那杯威士忌的。
 
 ;0xF8A64354=~z~These colors don't run, man.
-0xF8A64354=~z~These colors don't run, man.
+0xF8A64354=~z~这些颜色不太对劲啊，哥们。
 
 ;0xF8DC616E=E1DR_JA
 0xF8DC616E=E1DR_JA
 
 ;0xFA6A5B89=~z~Same old story - getting this cocksucker outta trouble.
-0xFA6A5B89=~z~Same old story - getting this cocksucker outta trouble.
+0xFA6A5B89=~z~又来这套，帮这屌毛解决麻烦。
 
 ;0xFAFE3C6C=E1DR_LF
 0xFAFE3C6C=E1DR_LF
@@ -1056,7 +1056,7 @@
 0xFDB95D74=E1DR_GC
 
 ;0xFE1648C8=~z~Don't get it, is all. What you guys' thing about him is?
-0xFE1648C8=~z~Don't get it, is all. What you guys' thing about him is?
+0xFE1648C8=~z~都说了，不知道。你们几个关于他有啥想说的？
 
 ;0xFE20AF38=E1DR_BE
 0xFE20AF38=E1DR_BE
