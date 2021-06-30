@@ -18,7 +18,7 @@
 0x69697274=~r~你损坏了政客的车。
 
 ;0x6A858B3D=~s~Lose the cops.
-0x6A858B3D=~s~甩掉警察。
+0x6A858B3D=~s~甩掉条子。
 
 ;0x70293EFB=~s~The politician must be in the photo.
 0x70293EFB=~s~政客必须入镜。
@@ -54,7 +54,7 @@
 0xBEE5C8A9=~s~那不是那个政治家。
 
 ;0xC40CA4E7=~s~Lose the cops before you go near the hookers.
-0xC40CA4E7=~s~接近妓女之前甩掉警察。
+0xC40CA4E7=~s~接近妓女之前甩掉条子。
 
 ;0xDD6B8A78=~s~Go to the ~y~alley~s~ near the red light district.
 0xDD6B8A78=~s~前往红灯区附近的~y~小巷。

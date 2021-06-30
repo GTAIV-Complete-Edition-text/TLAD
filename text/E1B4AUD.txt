@@ -165,7 +165,7 @@
 0x22B9DA05=~z~你们有我们想要的东西，死妈天使。
 
 ;0x22F6B272=~z~That's got to be the last nail in our chapter's casket, don't it?
-0x22F6B272=~z~这就是压死我们分部的最后一根稻草了吧？
+0x22F6B272=~z~这就是压死我们分会的最后一根稻草了吧？
 
 ;0x22FA599C=~z~Do me a favor- help keep this degenerate out of jail, alright,
 0x22FA599C=~z~帮我个忙，先别让这烂人进去，好吧？
@@ -393,7 +393,7 @@
 0x5282DAF8=E1B4_B_EA
 
 ;0x5318717E=~z~Here come the cherry tops.
-0x5318717E=~z~红果果来啦。
+0x5318717E=~z~差佬来啦。
 
 ;0x536DA71C=~z~Hot damn. Hot damn.
 0x536DA71C=~z~妈个逼，妈个逼。
@@ -630,7 +630,7 @@
 0x82F2D1F8=~z~干掉楼梯上的死妈天使。
 
 ;0x83141C8B=~z~is gonna come after our chapter.
-0x83141C8B=~z~都会跟我们分部为敌的。
+0x83141C8B=~z~都会跟我们分会为敌的。
 
 ;0x839B56B9=~z~I'd be nothing but embarrassed to have you kissing my ass all day, Brian.
 0x839B56B9=~z~你跟在我后面溜须拍马只会让我难堪，Brian。
@@ -843,7 +843,7 @@
 0xABE027E9=~z~死亡天使摩托帮会干死你们的。
 
 ;0xAC16C4B8=~z~Our chapter was all I had, Jim. I'll see you round.
-0xAC16C4B8=~z~我只有我们的分部，Jim。我们之后见。
+0xAC16C4B8=~z~我只有我们的分会，Jim。我们之后见。
 
 ;0xAC776063=E1B4_A_SA
 0xAC776063=E1B4_A_SA
@@ -864,7 +864,7 @@
 0xB1508CD0=SFX_PAUSE_250
 
 ;0xB1ACBD79=~z~Shit, man. Today weren't a good day for our chapter.
-0xB1ACBD79=~z~妈的，伙计。今天是我们分部的大凶之日啊。
+0xB1ACBD79=~z~妈的，伙计。今天是我们分会的大凶之日啊。
 
 ;0xB1FCDF6E=690
 0xB1FCDF6E=690
@@ -1200,7 +1200,7 @@
 0xF28ADCE3=~z~这次是要爽一爽装个逼，还是大家一起赚钱？
 
 ;0xF3AA71DD=~z~I think you got me confused with Brian. He's the one who's permanently suckered onto your ass.
-0xF3AA71DD=~z~你把我跟Brian搞错了吧。他才是整天跟你屁股后面跑的那个。
+0xF3AA71DD=~z~你把我跟Brian搞错了吧。他才是你的跟屁虫。
 
 ;0xF3AC8BB5=~z~Toys, my boy - toys.
 0xF3AC8BB5=~z~玩具，好孩子。是玩具。

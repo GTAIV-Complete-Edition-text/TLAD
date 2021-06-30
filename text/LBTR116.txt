@@ -9,7 +9,7 @@
 0x29FC702D=安保部门对此事不予置评，但他们要求获得更多资金、拥有更好的健身房和更多假期，并将机场近期出现的时间归咎于工作压力。一名机场安保人员告诉本报：「整天找别人麻烦真的很累人，有时我们甚至要连续工作一个小时。也难怪毒品走私频频得手，枪击惨案多次发生了。」
 
 ;0x2AEA8674=Hermaphrodite Island cancelled
-0x2AEA8674=《两性岛》停播
+0x2AEA8674=《双性岛》停播
 
 ;0x38EF9A61=Carnage at the airport.
 0x38EF9A61=机场大屠杀
@@ -21,7 +21,7 @@
 0x51F8402C=成千上万的安保人员正忙于为相貌讨厌的老太太做毒品检查，此时却有一场屠杀在移民中爆发，而这场屠杀并不是墨西哥人想要偷渡入境所致。
 
 ;0x65216DD4=It appears that it takes more than a boatload of booze and a smorgasbord of tiny reproductive organs to have a hit series these days. It was billed as: 'One island full of genetic disasters' but CNT's primetime show, Hermaphrodite Island, has been cancelled after just one season following disastrous viewing figures. The producers tried everything from Bikini Tuesdays to Absinthe Thursdays to Jockstrap Fridays but, apart from a confusing fumble between Dave and Ken in the mud pit, passion failed to ignite between the contestants and angry reality TV fans began switching off in their droves. Phoebe, the star of the show, says her calendar will be out in time for Christmas and will excite both men and women.
-0x65216DD4=看来现在想要制作热门节目需要的不仅是一船酒水和一大票生殖器。以「充斥着灾难般基因的岛屿」为宣传标语的CNT电视台的黄金时段节目《两性岛》仅仅拍摄了一季，就因惨不忍睹的收视率被迫腰斩。制片人拿出了百般花样：比基尼周二，苦艾酒周四，三角裤周五。但除了Dave和Ken在泥坑中的混乱争球之外，参赛者之间没能擦出任何激情火花，愤怒的真人秀粉丝也纷纷换台。该节目的红人Phoebe表示，她的写真日历会在圣诞节推出，男人和女人都能从中找到亮点。
+0x65216DD4=现在看来，爆款节目需要的不仅是一船酒水和一大票生殖器。以「充斥着灾难般基因的岛屿」为宣传标语的 CNT 电视台的黄金时段节目《双性岛》仅仅拍摄了一季，就因惨不忍睹的收视率被迫腰斩。制片人拿出了百般花样：比基尼周二，苦艾酒周四，三角裤周五。但除了 Dave 和 Ken 在泥坑中的混乱争球之外，参赛者之间没能擦出任何激情火花，愤怒的真人秀粉丝也纷纷换台。该节目的红人 Phoebe 表示，她的写真日历会在圣诞节推出，男人和女人都能从中找到亮点。
 
 ;0x7CE03002=No treasures on this island
 0x7CE03002=这座岛上没有宝藏
@@ -39,10 +39,10 @@
 0xB98B1949=乘客终于感受到一丝经济危机。
 
 ;0xBF933A91=Air Travel officially stinks.
-0xBF933A91=航空旅行散发恶臭。
+0xBF933A91=航空旅行散发恶臭
 
 ;0xC2D71394=Now they're charging for everything. Tiny, germ-infested pillow? $10. Glass of warm water? $5. In-flight magazine full of old toenails and dried vomit? $4. Stale bag of party mix? $6. The final insult is the $3 to take a dump in a restroom the size of a coffin Air Sol began charging. A new range of adult protective underwear called Flypers has been selling out in airports across the country. We used to have the most envied airline industry in the world. Now we sit in our filth for five hours. Like foreigners.
-0xC2D71394=现在航班上的一切都要收费。细菌遍布的小枕头？ $10。一杯热水？ $5。满是脚趾甲和干呕吐物的舱内杂志？ $4。快过期的小零食？ $6。最令人气愤的是，得花$3才能到棺材大小的卫生间里上一次厕所。一种名为「飞人」的成人纸尿裤正在全国各大机场热销。我们曾经有过世界上最成功的航空业。现在我们只能在脏兮兮的机舱里熬过5小时，就像外国人一样。
+0xC2D71394=现在航班上的一切都要收费。细菌遍布的小枕头？十块。一杯热水？五块。满是脚趾甲和干呕吐物的舱内杂志？四块。快过期的小零食？六块。最令人气愤的是，得花三块才能到棺材大小的卫生间里上一次厕所。一种名为「飞人」的成人纸尿裤正在全国各大机场热销。我们曾经有过世界上最成功的航空业。现在我们只能在脏兮兮的机舱里熬过5小时，就像外国人一样。
 
 ;0xD0222E2A=Remember the good old days of air travel? Getting served endless miniature bottles of cheap vodka by statuesque blondes in low-cut tops and short skirts? Flying used to be considered the height of luxury. Now you have to print off your own ticket, check in your own bags and submit yourself to humiliating security checks before being herded like cattle onto a filthy plane to sit for 2 hours on the runway because an undertrained stoner in air traffic control hit ESC by mistake.
 0xD0222E2A=还记得航空旅行的辉煌曾经吗？低胸短裙的金发美女不断为你续上廉价伏特加？坐飞机曾被认为是一种奢侈的体验。现在你得自己打印机票，自己托运行李，还被迫接受耻辱的安检，然后才能像牲口一样被赶上肮脏的飞机，再在机舱里坐上两个小时等待起飞，仅仅因为一个训练不足的瘾君子在空管室手滑按下了ESC键。

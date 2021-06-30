@@ -18,7 +18,7 @@
 0x07251CF4=~z~你会直接开走我的，把我晾在路上。回见，老兄。
 
 ;0x0893E876=~z~Billy, man. Shit! The Lost ain't much without the chapter President. What're we gonna do?
-0x0893E876=~z~Billy，伙计。妈的！分会会长挂了，失落摩托就要完了。我们该怎么办？
+0x0893E876=~z~Billy，伙计。妈的！分会会长挂了，失落帮要完了。我们该怎么办？
 
 ;0x093C5901=~z~I'm sorry. You enjoy your little party.
 0x093C5901=~z~真对不起。您接着乐呵您的吧。
@@ -126,7 +126,7 @@
 0x33C426F2=~z~你不等等我吗，死妈天使？
 
 ;0x33F0E2E2=~z~Welcome to the twenty first century, fuck heads.
-0x33F0E2E2=~z~欢迎来到二十一世纪，儍屌们。
+0x33F0E2E2=~z~欢迎来到二十一世纪，傻屌们。
 
 ;0x357737F1=E1B2_XA
 0x357737F1=E1B2_XA
@@ -135,7 +135,7 @@
 0x37E7F8C6=~z~呜，现代社会的幼稚爱情啊。
 
 ;0x386C9F31=~z~Hey, what the fuck?
-0x386C9F31=~z~嘿，你干嘛？
+0x386C9F31=~z~喂，你干嘛？
 
 ;0x38CE778E=E1B2_UB
 0x38CE778E=E1B2_UB
@@ -165,7 +165,7 @@
 0x464258AB=SFX_PAUSE_080
 
 ;0x46F0D88B=~z~Thanks for making room on the pussy pad for me.
-0x46F0D88B=~z~多谢你把婆娘座留出来。
+0x46F0D88B=~z~多谢你把后座留出来。
 
 ;0x48BF70CA=090
 0x48BF70CA=090

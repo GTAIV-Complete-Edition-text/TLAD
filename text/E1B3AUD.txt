@@ -30,7 +30,7 @@
 0x061A7CA8=~z~没有。
 
 ;0x06B52916=~z~We got Deadbeats to screw up. Come on.
-0x06B52916=~z~出门要干死妈天使。跟上。
+0x06B52916=~z~出门去干死妈天使。跟上。
 
 ;0x08304764=~z~You really are angels now.
 0x08304764=~z~你们现在真成天使了。
@@ -117,7 +117,7 @@
 0x1F09F780=190
 
 ;0x1F3B533E=~z~Lost MC! Lost MC!
-0x1F3B533E=~z~失落摩托！失落摩托！
+0x1F3B533E=~z~失落帮！失落帮！
 
 ;0x1F4AA59B=SFX_PAUSE_090
 0x1F4AA59B=SFX_PAUSE_090
@@ -280,7 +280,7 @@
 0x45F22026=192
 
 ;0x463E071E=~z~Don't need help from you, Brian.
-0x463E071E=~z~才不用你帮，Brian。
+0x463E071E=~z~用不着你帮，Brian。
 
 ;0x4677B7F0=~z~Brothers,
 0x4677B7F0=~z~兄弟们，
@@ -331,7 +331,7 @@
 0x4FC055AF=~z~干掉那群死妈天使，Billy。
 
 ;0x506D0D6B=~z~This one's for my brothers.
-0x506D0D6B=~z~这一枪是为我兄弟的。
+0x506D0D6B=~z~这一枪是为弟兄们打的。
 
 ;0x51A7D678=290
 0x51A7D678=290
@@ -361,7 +361,7 @@
 0x57D7BC88=~z~他们人更多了，Billy。
 
 ;0x5B8ED438=~z~You're outta line, John boy. Stick behind me.
-0x5B8ED438=~z~你越界了，阿强。呆在我后面。
+0x5B8ED438=~z~你太快了，阿强。待在我后面。
 
 ;0x5BC1EE86=~z~Now you're a proper deadbeat.
 0x5BC1EE86=~z~现在你们是真死啦。
@@ -565,7 +565,7 @@
 0x80AF6B9B=~z~虽然我很想揍你一顿，Brian。但我永远都不能和兄弟作对。
 
 ;0x826B2FDA=~z~Chill out.
-0x826B2FDA=~z~放轻松。
+0x826B2FDA=~z~冷静。
 
 ;0x82F7910D=SFX_PAUSE_190
 0x82F7910D=SFX_PAUSE_190
@@ -592,7 +592,7 @@
 0x8AD31E8D=E1B3_GA
 
 ;0x8B52B3BF=~z~You forgotten your place, soldier? Stay behind the ride captain.
-0x8B52B3BF=~z~忘记自己的位置了，士兵？呆在行车长后面。
+0x8B52B3BF=~z~忘记自己的位置了，士兵？待在行车长后面。
 
 ;0x8BD98CD8=~z~You must be an American, man - you understand hypocrisy so damn well.
 0x8BD98CD8=~z~绝逼是纯种美国人啊，伙计，你太了解什么叫作虚伪了。
@@ -814,7 +814,7 @@
 0xC05E6B7E=~z~我把车停哪儿了？
 
 ;0xC0675501=~z~God forgives. The Lost don't.
-0xC0675501=~z~上帝能宽恕，失落摩托不能。
+0xC0675501=~z~上帝能宽恕，失落帮不能。
 
 ;0xC08A7185=~z~And through this life, through this brotherhood,
 0xC08A7185=~z~而在这里生活，跟着兄弟们，
@@ -1088,7 +1088,7 @@
 0xF872ABF2=E1B3_A_DA
 
 ;0xF9206154=~z~And right now I think he's tripping his face off...
-0xF9206154=~z~现在他应该要放飞自我了……
+0xF9206154=~z~现在他应该要放飞自我了...
 
 ;0xF9A714E0=100090010010
 0xF9A714E0=100090010010

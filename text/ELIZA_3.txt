@@ -6,7 +6,7 @@
 0x04C5C9DF=~s~按~INPUT_ATTACK~投掷土制炸弹。
 
 ;0x067377D4=~s~Get on your ~b~bike.~s~
-0x067377D4=~s~骑上你的~b~摩托车。~s~
+0x067377D4=~s~骑上你的~b~摩托。~s~
 
 ;0x0DF93620=~s~We got shit up ahead too, Johnny!
 0x0DF93620=~s~前面也有麻烦，Johnny！
@@ -21,7 +21,7 @@
 0x1A60C1F8=~s~干掉DeSean后面的条子，Johnny！
 
 ;0x1B21BE75=~r~Your bike was wrecked.
-0x1B21BE75=~r~你的摩托被摧毁了。
+0x1B21BE75=~r~你的摩托坏了。
 
 ;0x2C266583=~s~Fuck this! Johnny use these grenades!
 0x2C266583=~s~操蛋！Johnny，用这些手雷！
@@ -39,7 +39,7 @@
 0x579A3C6E=~s~妈的太险了！
 
 ;0x6BD533B8=~s~To quickly reload release ~INPUT_AIM~ and then press it again.
-0x6BD533B8=~s~松开~INPUT_AIM~后再按下它以快速装弹。
+0x6BD533B8=~s~连按~INPUT_AIM~可以加快装弹速度。
 
 ;0x6DBF64D4=~s~Head for the tunnel, we need to shake this fuckin' bird!
 0x6DBF64D4=~s~去隧道，我们得甩掉这该死的直升机！

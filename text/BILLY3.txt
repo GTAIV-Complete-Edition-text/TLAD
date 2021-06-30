@@ -1,43 +1,43 @@
 ﻿[BILLY3]
 ;0x068BF85B=~s~At any time during a job press ~PAD_DPAD_DOWN~ to view how battle hardened the Lost gang members with you are.
-0x068BF85B=~s~At any time during a job press ~PAD_DPAD_DOWN~ to view how battle hardened the Lost gang members with you are.
+0x068BF85B=~s~任务期间，你随时可以按~PAD_DPAD_DOWN~查看你战友的战斗力。
 
 ;0x097AE7AD=Get on your ~b~bike.
-0x097AE7AD=Get on your ~b~bike.
+0x097AE7AD=骑上你的~b~摩托。
 
 ;0x2727C0A8=Take out the ~r~Angels of Death.
-0x2727C0A8=Take out the ~r~Angels of Death.
+0x2727C0A8=干掉~r~死亡天使成员。
 
 ;0x29C0009A=~r~Brian is dead.
-0x29C0009A=~r~Brian is dead.
+0x29C0009A=~r~Brian死了。
 
 ;0x3B039783=~s~At any time during a job press ~INPUT_FRONTEND_SHOWSCORE~ to view how battle hardened the Lost gang members with you are.
-0x3B039783=~s~At any time during a job press ~INPUT_FRONTEND_SHOWSCORE~ to view how battle hardened the Lost gang members with you are.
+0x3B039783=~s~任务期间，你随时可以按~INPUT_FRONTEND_SHOWSCORE~查看你战友的战斗力。
 
 ;0x3EABAF1B=~r~Brian's bike was wrecked.
-0x3EABAF1B=~r~Brian's bike was wrecked.
+0x3EABAF1B=~r~Brian的摩托坏了。
 
 ;0x4A1C883B=~r~You abandoned your bike.
-0x4A1C883B=~r~You abandoned your bike.
+0x4A1C883B=~r~你抛弃了你的摩托。
 
 ;0x5B821F38=Get back to the ~y~clubhouse.
-0x5B821F38=Get back to the ~y~clubhouse.
+0x5B821F38=返回~y~会所。
 
 ;0x65B38730=~r~Billy's bike was wrecked.
-0x65B38730=~r~Billy's bike was wrecked.
+0x65B38730=~r~Billy的摩托坏了。
 
 ;0x81AE87D1=Go with ~b~Billy.
-0x81AE87D1=Go with ~b~Billy.
+0x81AE87D1=跟随~b~Billy。
 
 ;0x8570F0A6=Get to the ~y~fight.
-0x8570F0A6=Get to the ~y~fight.
+0x8570F0A6=加入~y~战斗。
 
 ;0xC8261F80=~r~Your bike was wrecked.
-0xC8261F80=~r~Your bike was wrecked.
+0xC8261F80=~r~你的摩托坏了。
 
 ;0xEF8AA857=Go and meet ~b~Billy.
-0xEF8AA857=Go and meet ~b~Billy.
+0xEF8AA857=去找~b~Billy。
 
 ;0xF6674DE9=~r~Billy is dead.
-0xF6674DE9=~r~Billy is dead.
+0xF6674DE9=~r~Billy死了。
 

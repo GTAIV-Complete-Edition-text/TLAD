@@ -816,7 +816,7 @@
 0xBFAC0552=E1J1_FJ
 
 ;0xC00DC605=~z~Well, you could save me and Jim's hides from some angry Deadbeats. We need your help.
-0xC00DC605=~z~你可以从暴怒的死妈天使手里保护和Jim。我们需要你的帮助。
+0xC00DC605=~z~你可以从暴怒的死妈天使手里保护我和Jim。我们需要你的帮助。
 
 ;0xC19D7E16=~z~~x~
 0xC19D7E16=~z~~x~
@@ -981,7 +981,7 @@
 0xF47366B2=E1J1_A_GA
 
 ;0xF47CF41B=~z~Or standing round kicking tires and asking what the fucks gone wrong with the chapter.
-0xF47CF41B=~z~也好过他一边脚踢车轮一边咆哮分部出了问题。
+0xF47CF41B=~z~也好过他一边脚踢车轮一边咆哮分会出了问题。
 
 ;0xF63F4672=010090100010
 0xF63F4672=010090100010
