@@ -1,6 +1,6 @@
 ﻿[E1J3AUD]
 ;0x00C845BD=~z~Assholes don't know how much it's worth. They're screwing it up on the beach at Firefly.
-0x00C845BD=~z~Assholes don't know how much it's worth. They're screwing it up on the beach at Firefly.
+0x00C845BD=~z~一群不识货的臭傻逼。他们在 Firefly 的海滩上瞎搞。
 
 ;0x08514BAE=100
 0x08514BAE=100
@@ -9,22 +9,22 @@
 0x08675C0B=E1J3_C_NA
 
 ;0x0AA578D1=~z~Fuck it, we're on.
-0x0AA578D1=~z~Fuck it, we're on.
+0x0AA578D1=~z~得了，出发了。
 
 ;0x0ABB326A=~z~If I could use my legs, I'd jump for joy Johnny boy. Later on, Brother.
-0x0ABB326A=~z~If I could use my legs, I'd jump for joy Johnny boy. Later on, Brother.
+0x0ABB326A=~z~要不是我腿瘸了，我就高兴得跳起来了，Johnny。待会见，兄弟。
 
 ;0x0EDED05F=E1J3_C_GA
 0x0EDED05F=E1J3_C_GA
 
 ;0x0FE4DCB5=~z~Hey, Angus. Know any bikes that need to be liberated from their owners?
-0x0FE4DCB5=~z~Hey, Angus. Know any bikes that need to be liberated from their owners?
+0x0FE4DCB5=~z~嘿，Angus。有没有需要脱离车主魔爪的摩托？
 
 ;0x11253A2D=~z~The bike's right there for you, brother. No problem.
-0x11253A2D=~z~The bike's right there for you, brother. No problem.
+0x11253A2D=~z~你要的摩托已经备好了，兄弟。没问题。
 
 ;0x11524D0E=~z~ I'm glad we got you to do the acquiring.
-0x11524D0E=~z~ I'm glad we got you to do the acquiring.
+0x11524D0E=~z~很高兴你能来帮忙进货。
 
 ;0x143DC1EA=E1J3_B_RD
 0x143DC1EA=E1J3_B_RD
@@ -33,13 +33,13 @@
 0x14B8A971=010
 
 ;0x15B7888D=~z~Hellfury delivered, my brother.
-0x15B7888D=~z~Hellfury delivered, my brother.
+0x15B7888D=~z~Hellfury 已送达，兄弟。
 
 ;0x171591B1=~z~Good as done.
-0x171591B1=~z~Good as done.
+0x171591B1=~z~这就去弄。
 
 ;0x18FE4A53=~z~Your man's gonna get some bad news, Angus. Tell him for me, will you?
-0x18FE4A53=~z~Your man's gonna get some bad news, Angus. Tell him for me, will you?
+0x18FE4A53=~z~有一个坏消息要跟你老板说，Angus。替我转告他好吗？
 
 ;0x1CC59B7F=010
 0x1CC59B7F=010
@@ -48,7 +48,7 @@
 0x1D32FF3F=100
 
 ;0x1E967A18=~z~Angus, I got a feeling there might be a bike you're looking for.
-0x1E967A18=~z~Angus, I got a feeling there might be a bike you're looking for.
+0x1E967A18=~z~Angus，你是不是又看上了哪辆摩托啊？
 
 ;0x206FEE79=E1J3_B_WA
 0x206FEE79=E1J3_B_WA
@@ -57,22 +57,22 @@
 0x2252DF34=010
 
 ;0x2372DEC8=~z~Bike's outside the house where you wanted it, man.
-0x2372DEC8=~z~Bike's outside the house where you wanted it, man.
+0x2372DEC8=~z~摩托按你说的停在会所外面了，兄弟。
 
 ;0x24168518=~z~Tell me where I can find a bike and it's yours, Angus.
-0x24168518=~z~Tell me where I can find a bike and it's yours, Angus.
+0x24168518=~z~告诉我车在哪里，我帮你弄来，Angus。
 
 ;0x24E931FE=~z~Don't worry about it. Stay safe.
-0x24E931FE=~z~Don't worry about it. Stay safe.
+0x24E931FE=~z~别担心。保重。
 
 ;0x2B8C321C=E1J3_C_IA
 0x2B8C321C=E1J3_C_IA
 
 ;0x2C3EBC03=~z~It's yours.
-0x2C3EBC03=~z~It's yours.
+0x2C3EBC03=~z~马上到手。
 
 ;0x2D78426D=~z~ You and your man have now got yourselves a PCJ, man.
-0x2D78426D=~z~ You and your man have now got yourselves a PCJ, man.
+0x2D78426D=~z~你和你老板要的 PCJ 已经拿到了。
 
 ;0x3061180C=092
 0x3061180C=092
@@ -84,7 +84,7 @@
 0x339E0284=E1J3_B_RB
 
 ;0x363618CB=~z~Fuck if I can pronounce it, but a Ha-ha-coochie-koo is now in your possession, Angus.
-0x363618CB=~z~Fuck if I can pronounce it, but a Ha-ha-coochie-koo is now in your possession, Angus.
+0x363618CB=~z~这名儿真念不来，那辆哈哈库奇库现在是你的了，Angus。
 
 ;0x381DC9BE=E1J3_B_MA
 0x381DC9BE=E1J3_B_MA
@@ -93,7 +93,7 @@
 0x3878C4EB=E1J3_C_OB
 
 ;0x39375A9A=~z~All cool, Johnny. Later on.
-0x39375A9A=~z~All cool, Johnny. Later on.
+0x39375A9A=~z~没事，Johnny。回见。
 
 ;0x3A0558C2=100090100
 0x3A0558C2=100090100
@@ -105,28 +105,28 @@
 0x3F86E90D=E1J3_C_AA
 
 ;0x40823F6B=~z~Shit man, you could have told me I'd be driving a dirt bike. Anyways, I got that Sanchez for you.
-0x40823F6B=~z~Shit man, you could have told me I'd be driving a dirt bike. Anyways, I got that Sanchez for you.
+0x40823F6B=~z~妈的，你早点说这次是山地车啊。总之，我拿到 Sanchez 了。
 
 ;0x40BACF9E=~z~Guy's riding it round Chinatown.
-0x40BACF9E=~z~Guy's riding it round Chinatown.
+0x40BACF9E=~z~车主在唐人街兜风。
 
 ;0x40DC8606=E1J3_B_NA
 0x40DC8606=E1J3_B_NA
 
 ;0x41AC3229=~z~You ain't perfect, Johnny. None of us are. Don't worry about it.
-0x41AC3229=~z~You ain't perfect, Johnny. None of us are. Don't worry about it.
+0x41AC3229=~z~人无完人，Johnny。我们都一样。别担心。
 
 ;0x4340EA07=~z~Heading there now.
-0x4340EA07=~z~Heading there now.
+0x4340EA07=~z~我出发了。
 
 ;0x436B1F2C=~z~Angus, man, I'm sorry but shit got fucked up and I couldn't get that bike.
-0x436B1F2C=~z~Angus, man, I'm sorry but shit got fucked up and I couldn't get that bike.
+0x436B1F2C=~z~Angus，兄弟，很抱歉事情搞砸了，我没弄到车。
 
 ;0x454BB973=~z~I'm here for the bike, not your life, so be cool.
-0x454BB973=~z~I'm here for the bike, not your life, so be cool.
+0x454BB973=~z~我要的是车，不是你的命，老实点。
 
 ;0x484CF8C5=~z~No problem. See you, man.
-0x484CF8C5=~z~No problem. See you, man.
+0x484CF8C5=~z~没问题。再见，老兄。
 
 ;0x4E2332AE=010
 0x4E2332AE=010
@@ -144,31 +144,31 @@
 0x50C92769=100
 
 ;0x50CE9710=~z~Some Deadbeats left it outside that liquor store on Dillon Street.
-0x50CE9710=~z~Some Deadbeats left it outside that liquor store on Dillon Street.
+0x50CE9710=~z~几个死妈天使把车停在 Dillon 街的酒水商店门外。
 
 ;0x532A278D=E1J3_B_SA
 0x532A278D=E1J3_B_SA
 
 ;0x54D4239A=~z~Brother, Man, something's come up. I can't get the bike for you. Another time.
-0x54D4239A=~z~Brother, Man, something's come up. I can't get the bike for you. Another time.
+0x54D4239A=~z~兄弟，出了点意外。我没法替你弄车了。下次再说吧。
 
 ;0x56653A4C=100
 0x56653A4C=100
 
 ;0x5681E9EE=~z~There's too many assholes in this city on bikes, my man. Which one can I deprive of his ride?
-0x5681E9EE=~z~There's too many assholes in this city on bikes, my man. Which one can I deprive of his ride?
+0x5681E9EE=~z~这座城骑摩托车的傻逼太多了，老兄。我该抢哪个人的车？
 
 ;0x56F5C5CD=~z~Hey, your contact better still want that bike 'cause I got it for him.
-0x56F5C5CD=~z~Hey, your contact better still want that bike 'cause I got it for him.
+0x56F5C5CD=~z~嘿，你的上家最好不要跑单，因为我已经得手了。
 
 ;0x5813CD26=~z~I'm cracking open a celebratory Piswasser already. Too cool, brother man.
-0x5813CD26=~z~I'm cracking open a celebratory Piswasser already. Too cool, brother man.
+0x5813CD26=~z~我已经开好尿汤啤庆祝了。干得漂亮，好兄弟。
 
 ;0x5EE6D276=E1J3_B_XA
 0x5EE6D276=E1J3_B_XA
 
 ;0x603258BA=~z~Too bad, brother, but that guy won't be getting his hands on that bike today.
-0x603258BA=~z~Too bad, brother, but that guy won't be getting his hands on that bike today.
+0x603258BA=~z~太糟了，兄弟，但你老板今天见不到车了。
 
 ;0x609164FC=E1J3_B_RG
 0x609164FC=E1J3_B_RG
@@ -177,13 +177,13 @@
 0x6143E7D4=100
 
 ;0x62AE4580=~z~One Wolfsbane ready and waiting for you, my brother.
-0x62AE4580=~z~One Wolfsbane ready and waiting for you, my brother.
+0x62AE4580=~z~这辆 Wolfsbane 等着你呢，好兄弟。
 
 ;0x65F18B36=E1J3_C_EA
 0x65F18B36=E1J3_C_EA
 
 ;0x6630FB32=~z~Fuck it, man. It ain't like that was the only bike in the city.
-0x6630FB32=~z~Fuck it, man. It ain't like that was the only bike in the city.
+0x6630FB32=~z~操他妈的。反正城里多的是摩托车。
 
 ;0x66E0A82E=100
 0x66E0A82E=100
@@ -195,7 +195,7 @@
 0x67AAE44A=010
 
 ;0x6868E8B3=~z~The bike's all parked up and waiting, man.
-0x6868E8B3=~z~The bike's all parked up and waiting, man.
+0x6868E8B3=~z~车已经搞定了，老兄。
 
 ;0x68BE8BEC=E1J3_B_RH
 0x68BE8BEC=E1J3_B_RH
@@ -210,7 +210,7 @@
 0x6C657996=E1J3_B_TA
 
 ;0x6CDE96A7=~z~Brother man, tell me where I can find a bike and I'll bring it right to you.
-0x6CDE96A7=~z~Brother man, tell me where I can find a bike and I'll bring it right to you.
+0x6CDE96A7=~z~好兄弟，告诉我哪里能找到摩托车，我会给你搞到手。
 
 ;0x6DCC5319=010
 0x6DCC5319=010
@@ -222,7 +222,7 @@
 0x721C9F46=010
 
 ;0x7299A250=~z~How 'bout that, man? I happened to come across a Nightblade right where you said.
-0x7299A250=~z~How 'bout that, man? I happened to come across a Nightblade right where you said.
+0x7299A250=~z~怎么样，兄弟？我碰巧在你说的地方看到一辆 Nightblade。
 
 ;0x73936C09=092090092
 0x73936C09=092090092
@@ -231,7 +231,7 @@
 0x73B1086B=E1J3_B_RC
 
 ;0x74E898A5=~z~Cool, Johnny, cool. I'll let the man know what went down.
-0x74E898A5=~z~Cool, Johnny, cool. I'll let the man know what went down.
+0x74E898A5=~z~没事，Johnny，没事的。我会跟他说明情况的。
 
 ;0x77147CD7=E1J3_B_PA
 0x77147CD7=E1J3_B_PA
@@ -240,19 +240,19 @@
 0x792E9473=010
 
 ;0x7A431184=~z~Brother man, we're going to get paid. Don't get too fucked up.
-0x7A431184=~z~Brother man, we're going to get paid. Don't get too fucked up.
+0x7A431184=~z~兄弟，我们会拿到报酬的。心态要好。
 
 ;0x7A7C0CD9=~z~Bike's outside of the clubhouse, now all you need to do is get it out the country, Angus.
-0x7A7C0CD9=~z~Bike's outside of the clubhouse, now all you need to do is get it out the country, Angus.
+0x7A7C0CD9=~z~车已经在会所外面了，接下来只需要出口国外了，Angus。
 
 ;0x7AA9323C=~z~Shit, Angus, I'm in the bike stealing mood. Where am I gonna be able to find one?
-0x7AA9323C=~z~Shit, Angus, I'm in the bike stealing mood. Where am I gonna be able to find one?
+0x7AA9323C=~z~妈的，Angus，我想偷摩托车了。你说去哪儿偷一辆好？
 
 ;0x7B17D194=~z~All good.
-0x7B17D194=~z~All good.
+0x7B17D194=~z~了解。
 
 ;0x7B40B4F7=~z~We've got one for you, old friend. Just try to save me the hassle and deliver it this time.
-0x7B40B4F7=~z~We've got one for you, old friend. Just try to save me the hassle and deliver it this time.
+0x7B40B4F7=~z~之前也找过你了，老朋友。这次就让我省点心，把车弄到手吧。
 
 ;0x7D0CE754=010
 0x7D0CE754=010
@@ -261,19 +261,19 @@
 0x7E96EDB8=E1J3_B_ZA
 
 ;0x7F59DB18=~z~Angus, man. She's parked up outside the House.
-0x7F59DB18=~z~Angus, man. She's parked up outside the House.
+0x7F59DB18=~z~Angus，兄弟。车在会所外面了。
 
 ;0x8033B968=092
 0x8033B968=092
 
 ;0x827B7EE8=~z~Hey Angus, hate to do this to a brother, but I can't go get you that bike. Sorry.
-0x827B7EE8=~z~Hey Angus, hate to do this to a brother, but I can't go get you that bike. Sorry.
+0x827B7EE8=~z~嘿，Angus，虽然不想这样，但我不能你搞到那辆摩托了。抱歉。
 
 ;0x863688C1=SFX_PAUSE_120
 0x863688C1=SFX_PAUSE_120
 
 ;0x87446BBB=~z~I hate to split up a pair of lovebirds, but there's a couple taking it for a spin round Middle Park.
-0x87446BBB=~z~I hate to split up a pair of lovebirds, but there's a couple taking it for a spin round Middle Park.
+0x87446BBB=~z~我讨厌棒打鸳鸯，但是有对情侣正骑着它在中央公园兜风。
 
 ;0x87E03FB4=100
 0x87E03FB4=100
@@ -285,25 +285,25 @@
 0x8852207D=010
 
 ;0x8865CF41=~z~I've got something, Johnny. Please, for me, can you make sure it gets here?
-0x8865CF41=~z~I've got something, Johnny. Please, for me, can you make sure it gets here?
+0x8865CF41=~z~是有目标，Johnny。给兄弟个面子，这次能保证弄到手吗？
 
 ;0x88BCC52C=~z~What's up?
-0x88BCC52C=~z~What's up?
+0x88BCC52C=~z~怎么了？
 
 ;0x898441DC=~z~That's cool, Brother. The man will just have to wait.
-0x898441DC=~z~That's cool, Brother. The man will just have to wait.
+0x898441DC=~z~没事的，兄弟。就让老板多等会儿吧。
 
 ;0x8B3E7845=~z~There's an Angel motorcycle ready for export, man. That was my end of the deal.
-0x8B3E7845=~z~There's an Angel motorcycle ready for export, man. That was my end of the deal.
+0x8B3E7845=~z~这辆 Angel 摩托已经准备好出口了。我这边完成了。
 
 ;0x8CCCFD1A=~z~Cool.
-0x8CCCFD1A=~z~Cool.
+0x8CCCFD1A=~z~好。
 
 ;0x90D2D55C=~z~Hey.
-0x90D2D55C=~z~Hey.
+0x90D2D55C=~z~嘿。
 
 ;0x9134BE36=~z~That bike ain't AOD property no more.
-0x9134BE36=~z~That bike ain't AOD property no more.
+0x9134BE36=~z~那辆摩托不再属于死妈天使了。
 
 ;0x9179E509=100
 0x9179E509=100
@@ -312,16 +312,16 @@
 0x9314C915=E1J3_B_RI
 
 ;0x94122572=~z~Got the NRG 900, man. Do what you will.
-0x94122572=~z~Got the NRG 900, man. Do what you will.
+0x94122572=~z~搞到那辆 NRG 900 了。交给你了。
 
 ;0x953F8381=E1J3_B_UA
 0x953F8381=E1J3_B_UA
 
 ;0x97506253=~z~Hey, man.
-0x97506253=~z~Hey, man.
+0x97506253=~z~嘿，兄弟。
 
 ;0x99F1979A=~z~Your paper route's over, man. Get off the bike.
-0x99F1979A=~z~Your paper route's over, man. Get off the bike.
+0x99F1979A=~z~你的送报工作该下班了，老兄。快滚下来。
 
 ;0x9C318B29=E1J3_B_RE
 0x9C318B29=E1J3_B_RE
@@ -330,16 +330,16 @@
 0x9CDBD2E0=100
 
 ;0x9ECEDA9B=~z~Man, oh, man, that's what I wanted to hear. Stay safe.
-0x9ECEDA9B=~z~Man, oh, man, that's what I wanted to hear. Stay safe.
+0x9ECEDA9B=~z~兄弟啊，兄弟，就知道你靠得住。保重。
 
 ;0xA201E490=~z~Big group of Deadbeats are taking it for a run down the old Alderney freeway.
-0xA201E490=~z~Big group of Deadbeats are taking it for a run down the old Alderney freeway.
+0xA201E490=~z~一大群死妈天使正骑着车在 Alderney 的高速上兜风。
 
 ;0xA32440B6=~z~You got your Daemon, man. Put a stamp on it and ship that mother.
-0xA32440B6=~z~You got your Daemon, man. Put a stamp on it and ship that mother.
+0xA32440B6=~z~Daemon 到手了，兄弟。贴好邮票以后就装箱发货吧。
 
 ;0xA5339C07=~z~Stop jacking up my new ride, fuckhole.
-0xA5339C07=~z~Stop jacking up my new ride, fuckhole.
+0xA5339C07=~z~别拿千斤顶顶我的新车了，傻逼。
 
 ;0xA9429139=E1J3_B_OA
 0xA9429139=E1J3_B_OA
@@ -348,61 +348,61 @@
 0xAA51CE03=E1J3_B_QA
 
 ;0xAB7FF8C7=~z~It's in that multi-storey car park in Purgatory.
-0xAB7FF8C7=~z~It's in that multi-storey car park in Purgatory.
+0xAB7FF8C7=~z~车在 Purgatory 的立体停车场里。
 
 ;0xAC74F5E7=~z~You always were the most reliable brother, Johnny. Too cool.
-0xAC74F5E7=~z~You always were the most reliable brother, Johnny. Too cool.
+0xAC74F5E7=~z~你一直都是最可靠的兄弟，Johnny。太棒了。
 
 ;0xAF85B0AB=~z~Hey, asshole, you're fucking up my new bike!
-0xAF85B0AB=~z~Hey, asshole, you're fucking up my new bike!
+0xAF85B0AB=~z~喂，傻逼，别乱搞老子的新车！
 
 ;0xB02443D0=~z~Let's get this done.
-0xB02443D0=~z~Let's get this done.
+0xB02443D0=~z~保证完成任务。
 
 ;0xB22E8CC5=~z~They got it outside that showroom on Percell in Westdyke.
-0xB22E8CC5=~z~They got it outside that showroom on Percell in Westdyke.
+0xB22E8CC5=~z~车子在 Westdyke 区 Percell 路的展厅门口。
 
 ;0xB3B41B1E=~z~Why hello.
-0xB3B41B1E=~z~Why hello.
+0xB3B41B1E=~z~你好啊。
 
 ;0xB4B4014C=~z~The bike's there, man. The bike's fucking there.
-0xB4B4014C=~z~The bike's there, man. The bike's fucking there.
+0xB4B4014C=~z~摩托有了，兄弟。要的摩托有了。
 
 ;0xB6B698F0=E1J3_C_FA
 0xB6B698F0=E1J3_C_FA
 
 ;0xB6BE184A=~z~There's a guy detailing it like he knows it's for sale or something. Outside the tattoo guy in Alderney City.
-0xB6BE184A=~z~There's a guy detailing it like he knows it's for sale or something. Outside the tattoo guy in Alderney City.
+0xB6BE184A=~z~车主正在洗车，这不正好要把他的车卖了吗。车在 Alderney City 的纹身店外面。
 
 ;0xB7230B33=~z~Looks like I'll be able to afford that hardware I was after. You did good, my brother.
-0xB7230B33=~z~Looks like I'll be able to afford that hardware I was after. You did good, my brother.
+0xB7230B33=~z~看来我能买一直想要的大件了。干得漂亮，好兄弟。
 
 ;0xB75C9391=E1J3_C_CA
 0xB75C9391=E1J3_C_CA
 
 ;0xB77F0AF2=~z~Hey, Deadbeats, I like your bike.
-0xB77F0AF2=~z~Hey, Deadbeats, I like your bike.
+0xB77F0AF2=~z~喂，死妈天使，你的车我要了。
 
 ;0xB91C30B1=~z~We got one, man. This guy gets mad when they're not delivered, but fuck him, man, you're my brother.
-0xB91C30B1=~z~We got one, man. This guy gets mad when they're not delivered, but fuck him, man, you're my brother.
+0xB91C30B1=~z~上次就找过你，兄弟。老板没拿到车气得暴跳如雷。但是去他妈的，你才是我兄弟。
 
 ;0xBD807A91=~z~Smoochy time's over, guys. Give up the ride.
-0xBD807A91=~z~Smoochy time's over, guys. Give up the ride.
+0xBD807A91=~z~甜蜜时光结束了，各位。交出摩托。
 
 ;0xC218F61B=~z~Johnny, man. We haven't been able to source any. It's only a matter of time though so call back.
-0xC218F61B=~z~Johnny, man. We haven't been able to source any. It's only a matter of time though so call back.
+0xC218F61B=~z~Johnny兄弟，暂时没有看中的车。但早晚会找到目标的，有空再聊。
 
 ;0xC22AE80C=~z~I ordered a bike, shithead. Give it up.
-0xC22AE80C=~z~I ordered a bike, shithead. Give it up.
+0xC22AE80C=~z~这辆摩托我要了，傻蛋。放弃吧。
 
 ;0xC3E124AF=~z~I'll pass on the good news, Johnny. Later on.
-0xC3E124AF=~z~I'll pass on the good news, Johnny. Later on.
+0xC3E124AF=~z~我会转达这个好消息的，Johnny。再见。
 
 ;0xC5797C4D=~z~That last one's in the container heading east and we've lined up another.
-0xC5797C4D=~z~That last one's in the container heading east and we've lined up another.
+0xC5797C4D=~z~上次的车已经装箱去往远东了。这是新的目标。
 
 ;0xC5E26F4C=~z~Let's do this.
-0xC5E26F4C=~z~Let's do this.
+0xC5E26F4C=~z~动手吧。
 
 ;0xC6E7742D=E1J3_C_MA
 0xC6E7742D=E1J3_C_MA
@@ -414,10 +414,10 @@
 0xC7FF8D78=E1J3_C_BA
 
 ;0xC9C4AF7D=~z~I might take that bike off your hands, Deadbeats.
-0xC9C4AF7D=~z~I might take that bike off your hands, Deadbeats.
+0xC9C4AF7D=~z~你们手里的那辆摩托我要了，死妈天使。
 
 ;0xCAD5D424=~z~Well, you didn't get the last one, but who cares, right? There's another one lined up for you.
-0xCAD5D424=~z~Well, you didn't get the last one, but who cares, right? There's another one lined up for you.
+0xCAD5D424=~z~上次你就失手了，但也没关系。新的目标已经给你安排好了。
 
 ;0xCAF17956=E1J3_C_OA
 0xCAF17956=E1J3_C_OA
@@ -426,91 +426,91 @@
 0xCC0A1252=E1J3_C_DA
 
 ;0xD0F4D0C7=~z~I'm taking a bike. Don't be a jackass.
-0xD0F4D0C7=~z~I'm taking a bike. Don't be a jackass.
+0xD0F4D0C7=~z~我只要车。别犯傻。
 
 ;0xD1AF9548=~z~There's nothing available right now, Johnny. Call back soon and we'll see if we can find one.
-0xD1AF9548=~z~There's nothing available right now, Johnny. Call back soon and we'll see if we can find one.
+0xD1AF9548=~z~现在什么活都没有，Johnny。过会儿再来问问有没有目标吧。
 
 ;0xD3F51948=~z~The guy's happy with the last one and he's hungry for another, man.
-0xD3F51948=~z~The guy's happy with the last one and he's hungry for another, man.
+0xD3F51948=~z~老板对上次的车很满意，急着要下一辆呢，兄弟。
 
 ;0xD3F5B91E=~z~Some Deadbeats are taking it over the East Borough Bridge.
-0xD3F5B91E=~z~Some Deadbeats are taking it over the East Borough Bridge.
+0xD3F5B91E=~z~一些死妈天使正骑着它通过 East Borough 大桥。
 
 ;0xD4199D13=E1J3_B_RJ
 0xD4199D13=E1J3_B_RJ
 
 ;0xD4495C48=~z~Yo, brother.
-0xD4495C48=~z~Yo, brother.
+0xD4495C48=~z~哟，兄弟。
 
 ;0xD7872F06=~z~It's outside the Triangle Club in Bohan. Just bring it back to the House, OK?
-0xD7872F06=~z~It's outside the Triangle Club in Bohan. Just bring it back to the House, OK?
+0xD7872F06=~z~车在 Bohan 的 Triangle 俱乐部外面。到手了就送回会所，懂了吗？
 
 ;0xD942A57E=100
 0xD942A57E=100
 
 ;0xDA139C50=~z~That's cool, brother. Look after yourself.
-0xDA139C50=~z~That's cool, brother. Look after yourself.
+0xDA139C50=~z~好的，兄弟。你多保重。
 
 ;0xDAC326E4=~z~After delivering like you did before, this dude is happy to be in business with us, man.
-0xDAC326E4=~z~After delivering like you did before, this dude is happy to be in business with us, man.
+0xDAC326E4=~z~上次你完美交差，现在老板很乐意跟我们合作，兄弟。
 
 ;0xDC8D2213=010
 0xDC8D2213=010
 
 ;0xDD9F34CA=~z~Hey man, I can't do that delivery anymore. Hope that's okay?
-0xDD9F34CA=~z~Hey man, I can't do that delivery anymore. Hope that's okay?
+0xDD9F34CA=~z~嘿，兄弟，我现在没法弄车了。没问题吧？
 
 ;0xDDC4AD72=~z~Nothing right now, man. Sorry. Call back, okay?
-0xDDC4AD72=~z~Nothing right now, man. Sorry. Call back, okay?
+0xDDC4AD72=~z~什么活都没有，兄弟。抱歉。以后再问，好吗？
 
 ;0xE0424034=~z~Get a fucking room, kids.
-0xE0424034=~z~Get a fucking room, kids.
+0xE0424034=~z~去开房吧，小屁孩。
 
 ;0xE1305C6B=100
 0xE1305C6B=100
 
 ;0xE1AA6051=~z~Nice one, brother. We got ourselves a payday.
-0xE1AA6051=~z~Nice one, brother. We got ourselves a payday.
+0xE1AA6051=~z~干得漂亮，兄弟。我们赚大发了。
 
 ;0xE20E27A3=~z~Rock and roll.
-0xE20E27A3=~z~Rock and roll.
+0xE20E27A3=~z~动手吧。
 
 ;0xE320188F=SFX_PAUSE_600
 0xE320188F=SFX_PAUSE_600
 
 ;0xE4EFFD95=~z~Brother.
-0xE4EFFD95=~z~Brother.
+0xE4EFFD95=~z~兄弟。
 
 ;0xE56FE2FC=100
 0xE56FE2FC=100
 
 ;0xE7E8495C=~z~Angus, dude, I gotta postpone getting that bike. Hope that's cool?
-0xE7E8495C=~z~Angus, dude, I gotta postpone getting that bike. Hope that's cool?
+0xE7E8495C=~z~Angus兄弟，车子我得晚点去弄了。没关系吧？
 
 ;0xE889C271=~z~How about that? You just keep knocking 'em out. And you know what? We got another bike lined up.
-0xE889C271=~z~How about that? You just keep knocking 'em out. And you know what? We got another bike lined up.
+0xE889C271=~z~这么说吧，你继续保持就行了。你猜怎么着？又有新订单了。
 
 ;0xEBD58B60=~z~If it ain't my true brother.
-0xEBD58B60=~z~If it ain't my true brother.
+0xEBD58B60=~z~这不是我的好兄弟嘛。
 
 ;0xEC0649F5=~z~How about that, man. We haven't been able to find what we need. Call again soon and they'll be one.
-0xEC0649F5=~z~How about that, man. We haven't been able to find what we need. Call again soon and they'll be one.
+0xEC0649F5=~z~这么说吧，兄弟。我们还没找到目标。过段时间应该就有了。
 
 ;0xEC310160=100
 0xEC310160=100
 
 ;0xED178499=~z~Johnny boy. This import export guy - he's got a long shopping list.
-0xED178499=~z~Johnny boy. This import export guy - he's got a long shopping list.
+0xED178499=~z~Johnny仔。这位进出口商的采购清单还挺长的。
 
 ;0xED6117AE=~z~Angus, brother. If you were going to export a bike to Japan, where might I be able to find it?
-0xED6117AE=~z~Angus, brother. If you were going to export a bike to Japan, where might I be able to find it?
+0xED6117AE=~z~Angus, 兄弟。假如你要出口一辆摩托车到日本，我得上哪去找车？
 
 ;0xF09CC0DE=100
 0xF09CC0DE=100
 
 ;0xF6688528=~z~Hey dude, your man isn't going to get his ride. Let him down easy.
-0xF6688528=~z~Hey dude, your man isn't going to get his ride. Let him down easy.
+0xF6688528=~z~嘿，哥们。你老板拿不到摩托车了。让他放宽心吧。
 
 ;0xF8A52EF9=010
 0xF8A52EF9=010
@@ -522,7 +522,7 @@
 0xF9367BC8=E1J3_B_RF
 
 ;0xFA97D8B6=~z~On it.
-0xFA97D8B6=~z~On it.
+0xFA97D8B6=~z~收到。
 
 ;0xFAB3262C=E1J3_C_KA
 0xFAB3262C=E1J3_C_KA
@@ -531,17 +531,17 @@
 0xFAC6E122=100
 
 ;0xFDBF1365=~z~Alright, man. Your dude's got his bike.
-0xFDBF1365=~z~Alright, man. Your dude's got his bike.
+0xFDBF1365=~z~好了，兄弟。你的人已经拿到车了。
 
 ;0xFE36E44A=010
 0xFE36E44A=010
 
 ;0xFE94B0DE=~z~Jonathan?
-0xFE94B0DE=~z~Jonathan?
+0xFE94B0DE=~z~Jonnathan？
 
 ;0xFEA2C2F4=092
 0xFEA2C2F4=092
 
 ;0xFFD81793=~z~Angus, man, you and your contact are now the proud owners of a second hand bike.
-0xFFD81793=~z~Angus, man, you and your contact are now the proud owners of a second hand bike.
+0xFFD81793=~z~Angus，兄弟，你和你的上家现在是二手车的荣誉车主了。
 
