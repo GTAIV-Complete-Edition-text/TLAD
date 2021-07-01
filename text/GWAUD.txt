@@ -1,6 +1,6 @@
 ﻿[GWAUD]
 ;0x005BF749=~z~Alright, man. Let's hit 'em hard. Get some of the brothers.
-0x005BF749=~z~Alright, man. Let's hit 'em hard. Get some of the brothers.
+0x005BF749=~z~好了，兄弟。干他们一发大的。多叫几个弟兄。
 
 ;0x02598377=100
 0x02598377=100
@@ -9,16 +9,16 @@
 0x02D1D5D4=100
 
 ;0x03B950EB=~z~I got intel on them transporting a vehicle across Algonquin.
-0x03B950EB=~z~I got intel on them transporting a vehicle across Algonquin.
+0x03B950EB=~z~内部消息，他们正在护送车辆穿过 Algonquin。
 
 ;0x03CBC03C=~z~Hey, Johnny, time to teach them motherfuckers who runs this town.
-0x03CBC03C=~z~Hey, Johnny, time to teach them motherfuckers who runs this town.
+0x03CBC03C=~z~嘿，Johnny，该告诉那帮狗逼玩意谁才是真正的老大了。
 
 ;0x07117DCB=~z~Far as I know, they're still cruising in Bohan somewhere.
-0x07117DCB=~z~Far as I know, they're still cruising in Bohan somewhere.
+0x07117DCB=~z~据我所知，他们还在 Bohan 某地巡游。
 
 ;0x0721B9C3=~z~They're in Broker transporting a vehicle.
-0x0721B9C3=~z~They're in Broker transporting a vehicle.
+0x0721B9C3=~z~他们在 Broker 护送车辆。
 
 ;0x078608C7=100
 0x078608C7=100
@@ -30,31 +30,31 @@
 0x082D8244=100
 
 ;0x0913468A=~z~Let's put these fuckers out of business.
-0x0913468A=~z~Let's put these fuckers out of business.
+0x0913468A=~z~让这帮傻卵灰飞烟灭。
 
 ;0x094684D3=~z~Let's get outta here.
-0x094684D3=~z~Let's get outta here.
+0x094684D3=~z~赶紧撤吧。
 
 ;0x0B164C6E=E1FCJ2_ACT_ARRIVE_GANG_GW_ALG_CA
 0x0B164C6E=E1FCJ2_ACT_ARRIVE_GANG_GW_ALG_CA
 
 ;0x0B3E691C=~z~They're moving some vehicle in Alderney.
-0x0B3E691C=~z~They're moving some vehicle in Alderney.
+0x0B3E691C=~z~他们在 Alderney 运送货物。
 
 ;0x0BF3D2B9=~z~They're hanging in Broker, last I heard.
-0x0BF3D2B9=~z~They're hanging in Broker, last I heard.
+0x0BF3D2B9=~z~就我所知，他们现在在 Broker。
 
 ;0x0E08771B=~z~I think they're hanging out in Alderney.
-0x0E08771B=~z~I think they're hanging out in Alderney.
+0x0E08771B=~z~我觉得他们现在在 Alderney。
 
 ;0x0E9F9C3C=~z~They're escorting a vehicle across Algonquin.
-0x0E9F9C3C=~z~They're escorting a vehicle across Algonquin.
+0x0E9F9C3C=~z~他们在护送车辆穿越 Algonquin。
 
 ;0x0F4C6E57=~z~They're in Bohan moving some vehicle.
-0x0F4C6E57=~z~They're in Bohan moving some vehicle.
+0x0F4C6E57=~z~他们在 Bohan 运送货物。
 
 ;0x1000827D=~z~My brothers - let's roll.
-0x1000827D=~z~My brothers - let's roll.
+0x1000827D=~z~好兄弟们，开干吧。
 
 ;0x10CD8032=100
 0x10CD8032=100
@@ -63,10 +63,10 @@
 0x10F02E82=200
 
 ;0x129A9BC6=~z~Go round up some brothers, man.
-0x129A9BC6=~z~Go round up some brothers, man.
+0x129A9BC6=~z~多叫几个弟兄，哥们。
 
 ;0x14E1196E=~z~Last I heard they was cruising around Bohan.
-0x14E1196E=~z~Last I heard they was cruising around Bohan.
+0x14E1196E=~z~最后听说他们是在 Bohan 附近巡游。
 
 ;0x15E644E2=100
 0x15E644E2=100
@@ -81,37 +81,37 @@
 0x188BFF78=300
 
 ;0x199064F2=~z~They be cruising round Bohan.
-0x199064F2=~z~They be cruising round Bohan.
+0x199064F2=~z~他们正在 Bohan 巡游。
 
 ;0x19B8355A=E1FCT3_ACT_ARRIVE_GANG_GW_ALG_FA
 0x19B8355A=E1FCT3_ACT_ARRIVE_GANG_GW_ALG_FA
 
 ;0x1A1E7DB5=~z~They're taking a vehicle across the great borough of Algonquin I heard.
-0x1A1E7DB5=~z~They're taking a vehicle across the great borough of Algonquin I heard.
+0x1A1E7DB5=~z~听说他们正在护送车辆通过 Algonquin 的大桥。
 
 ;0x1ABDCE71=~z~Okay, brother. Let's you and me sniff out these ganja smoking dopes.
-0x1ABDCE71=~z~Okay, brother. Let's you and me sniff out these ganja smoking dopes.
+0x1ABDCE71=~z~好了，兄弟。我们一起去收拾那些抽大麻的毒贩吧。
 
 ;0x1B026210=090
 0x1B026210=090
 
 ;0x1D8D67BD=~z~You ready, man? Come on.
-0x1D8D67BD=~z~You ready, man? Come on.
+0x1D8D67BD=~z~准备好了吗，兄弟？走吧。
 
 ;0x1EB6DAFD=E1FCJ2_ACT_ARRIVE_GANG_GW_ALD_CA
 0x1EB6DAFD=E1FCJ2_ACT_ARRIVE_GANG_GW_ALD_CA
 
 ;0x1F9903BF=~z~I've heard they're transporting a vehicle across the lovely borough of Bohan.
-0x1F9903BF=~z~I've heard they're transporting a vehicle across the lovely borough of Bohan.
+0x1F9903BF=~z~听说他们在护送车辆通过 Bohan 的大桥。
 
 ;0x222C14B0=~z~They're escorting a vehicle across Alderney.
-0x222C14B0=~z~They're escorting a vehicle across Alderney.
+0x222C14B0=~z~他们在护送车辆穿越 Alderney。
 
 ;0x22B628C4=~z~They been spotted hanging out in Algonquin.
-0x22B628C4=~z~They been spotted hanging out in Algonquin.
+0x22B628C4=~z~有人目击他们在 Algonquin 出没。
 
 ;0x23A0AE9A=~z~Get the vehicles boys.
-0x23A0AE9A=~z~Get the vehicles boys.
+0x23A0AE9A=~z~逼停他们，弟兄们。
 
 ;0x25783FF3=200
 0x25783FF3=200
@@ -123,10 +123,10 @@
 0x285B1057=E1FCJ2_ACT_ARRIVE_GANG_GW_BOH_CA
 
 ;0x28C1B6A8=~z~Fuck yeah boys. Good to see your ugly faces.
-0x28C1B6A8=~z~Fuck yeah boys. Good to see your ugly faces.
+0x28C1B6A8=~z~好耶，兄弟们。很高兴见到你们的丑脸。
 
 ;0x28EB6ACC=~z~Alright, man. We got to track down these dreadlocked pricks.
-0x28EB6ACC=~z~Alright, man. We got to track down these dreadlocked pricks.
+0x28EB6ACC=~z~好了，兄弟。我们去追猎那帮牙买加混蛋吧。
 
 ;0x298864BA=090
 0x298864BA=090
@@ -138,16 +138,16 @@
 0x2BEF3554=100
 
 ;0x2C50288E=~z~They're hanging out in Algonquin, last I heard.
-0x2C50288E=~z~They're hanging out in Algonquin, last I heard.
+0x2C50288E=~z~就我所知，他们现在在 Algonquin。
 
 ;0x2CE9C12C=~z~Stop that fucking vehicle.
-0x2CE9C12C=~z~Stop that fucking vehicle.
+0x2CE9C12C=~z~把车拦住。
 
 ;0x2D9F4D84=~z~Come on, boys, let's get outta here.
-0x2D9F4D84=~z~Come on, boys, let's get outta here.
+0x2D9F4D84=~z~走了，兄弟们，该撤退了。
 
 ;0x2DAD2147=~z~They're doin' a little escort work. Moving a vehicle in Broker.
-0x2DAD2147=~z~They're doin' a little escort work. Moving a vehicle in Broker.
+0x2DAD2147=~z~他们现在在护送车子通过 Broker。
 
 ;0x2E9D13B6=E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_GW_RUSA
 0x2E9D13B6=E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_GW_RUSA
@@ -156,13 +156,13 @@
 0x2F7430E4=E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ITAA
 
 ;0x2FEAB02D=~z~They're doin' a little escort work. Moving a vehicle in Alderney.
-0x2FEAB02D=~z~They're doin' a little escort work. Moving a vehicle in Alderney.
+0x2FEAB02D=~z~他们现在在护送车子通过 Alderney。
 
 ;0x3021A4D0=~z~The been sighted escorting a vehicle across Bohan.
-0x3021A4D0=~z~The been sighted escorting a vehicle across Bohan.
+0x3021A4D0=~z~有人目击他们护送车辆通过 Bohan。
 
 ;0x30C57A11=~z~I think they're hanging out in Alderney.
-0x30C57A11=~z~I think they're hanging out in Alderney.
+0x30C57A11=~z~他们好像在 Alderney 出没。
 
 ;0x31C1E609=100
 0x31C1E609=100
@@ -174,73 +174,73 @@
 0x3201F7FA=200
 
 ;0x328645C5=~z~They're in Broker moving some vehicle.
-0x328645C5=~z~They're in Broker moving some vehicle.
+0x328645C5=~z~他们在 Broker 运送货物。
 
 ;0x32E93FAA=~z~They're hanging in Broker.
-0x32E93FAA=~z~They're hanging in Broker.
+0x32E93FAA=~z~他们现在在 Broker。
 
 ;0x34754B66=~z~Boys - let's roll.
-0x34754B66=~z~Boys - let's roll.
+0x34754B66=~z~弟兄们，开干吧。
 
 ;0x3590E1B2=~z~Lost MC, man. Round up the wrecking crew.
-0x3590E1B2=~z~Lost MC, man. Round up the wrecking crew.
+0x3590E1B2=~z~失落帮，兄弟们。把弟兄们都叫上。
 
 ;0x35B0451D=~z~Hey, Johnny, let's go find those lunatics and educate them.
-0x35B0451D=~z~Hey, Johnny, let's go find those lunatics and educate them.
+0x35B0451D=~z~嘿，Johnny，一起去教训教训那帮疯子吧。
 
 ;0x35DF2842=~z~They're cruising somewhere in Broker.
-0x35DF2842=~z~They're cruising somewhere in Broker.
+0x35DF2842=~z~他们在 Broker 的某处巡游。
 
 ;0x36C5EA96=200
 0x36C5EA96=200
 
 ;0x38771855=~z~They should be moving a vehicle in Algonquin right now.
-0x38771855=~z~They should be moving a vehicle in Algonquin right now.
+0x38771855=~z~他们应该在 Algonquin 运送货物。
 
 ;0x3930BCC4=E1FCC3_ACT_ARRIVE_GANG_GW_ALG_FA
 0x3930BCC4=E1FCC3_ACT_ARRIVE_GANG_GW_ALG_FA
 
 ;0x3E46CC7B=~z~Brothers are still hanging in Algonquin, as far as I know.
-0x3E46CC7B=~z~Brothers are still hanging in Algonquin, as far as I know.
+0x3E46CC7B=~z~据我所知，兄弟们还在 Algonquin。
 
 ;0x3EB4084B=E1FCJ2_ACT_ARRIVE_GANG_GW_BRO_FA
 0x3EB4084B=E1FCJ2_ACT_ARRIVE_GANG_GW_BRO_FA
 
 ;0x3F1F5A5F=~z~You ready, Johnny? Let's send the AOD a message they ain't never gonna forget.
-0x3F1F5A5F=~z~You ready, Johnny? Let's send the AOD a message they ain't never gonna forget.
+0x3F1F5A5F=~z~准备好了吗，Johnny？给死亡天使传达无法磨灭的消息吧。
 
 ;0x3F6A30B1=~z~They're in Bohan, just cruising and shit.
-0x3F6A30B1=~z~They're in Bohan, just cruising and shit.
+0x3F6A30B1=~z~他们在 Bohan，四处巡游。
 
 ;0x401E99A9=~z~Whoo. Let's stop for a pizza when we're done.
-0x401E99A9=~z~Whoo. Let's stop for a pizza when we're done.
+0x401E99A9=~z~呼，完事之后去吃个披萨吧。
 
 ;0x41611B84=E1FCT3_ACT_ARRIVE_GANG_GW_ALD_VA
 0x41611B84=E1FCT3_ACT_ARRIVE_GANG_GW_ALD_VA
 
 ;0x4342DE36=~z~They're somewhere in Algonquin.
-0x4342DE36=~z~They're somewhere in Algonquin.
+0x4342DE36=~z~他们在 Algonquin 的某处。
 
 ;0x452832F2=200
 0x452832F2=200
 
 ;0x4546ED09=~z~Let's go, boys.
-0x4546ED09=~z~Let's go, boys.
+0x4546ED09=~z~出发了，弟兄们。
 
 ;0x457A2460=~z~These dago motherfuckers are gonna know about The Lost MC when we're done.
-0x457A2460=~z~These dago motherfuckers are gonna know about The Lost MC when we're done.
+0x457A2460=~z~马上这帮意大利佬就要记住失落帮的大名了。
 
 ;0x4775E8B6=~z~Far as I know it, they're still cruising in Alderney somewhere.
-0x4775E8B6=~z~Far as I know it, they're still cruising in Alderney somewhere.
+0x4775E8B6=~z~据我所知，他们还在 Alderney 的哪里巡游。
 
 ;0x49F77746=~z~I heard they're over in Algonquin, hanging out.
-0x49F77746=~z~I heard they're over in Algonquin, hanging out.
+0x49F77746=~z~听说他们在 Algonquin 出没。
 
 ;0x4C8079B9=~z~Apparently they're moving a vehicle across Broker.
-0x4C8079B9=~z~Apparently they're moving a vehicle across Broker.
+0x4C8079B9=~z~显然他们正在跨越 Broker 运货。
 
 ;0x4D0BD037=~z~Let's go find the Deadbeats, my friend.
-0x4D0BD037=~z~Let's go find the Deadbeats, my friend.
+0x4D0BD037=~z~去狩猎死妈天使吧，朋友。
 
 ;0x4E61AC56=200
 0x4E61AC56=200
@@ -249,7 +249,7 @@
 0x4F02A4EA=300
 
 ;0x4F1F836B=~z~Brothers for life, Lost forever. Let's fuckin' do it.
-0x4F1F836B=~z~Brothers for life, Lost forever. Let's fuckin' do it.
+0x4F1F836B=~z~生死兄弟情，失落帮万岁。开干吧。
 
 ;0x507DBA21=E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ALBA
 0x507DBA21=E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ALBA
@@ -258,7 +258,7 @@
 0x50DF4D07=E1FCJ2_ACT_ARRIVE_GANG_GW_ALG_VA
 
 ;0x51F4162D=~z~Boys, let's get outta here.
-0x51F4162D=~z~Boys, let's get outta here.
+0x51F4162D=~z~兄弟们，该撤退了。
 
 ;0x52D04C8D=200
 0x52D04C8D=200
@@ -270,37 +270,37 @@
 0x56CDFFA1=E1FCJ3_ACT_E1_GW_KILLED_GANGA
 
 ;0x58E3DD46=~z~Word is they're doing some vehicle transport operation in Broker.
-0x58E3DD46=~z~Word is they're doing some vehicle transport operation in Broker.
+0x58E3DD46=~z~听说他们在 Broker 运送某些货物。
 
 ;0x5AB0AEDA=~z~I think they're hanging out in Bohan.
-0x5AB0AEDA=~z~I think they're hanging out in Bohan.
+0x5AB0AEDA=~z~我觉得他们现在在 Bohan。
 
 ;0x5B2352C4=E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_GW_AODA
 0x5B2352C4=E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_GW_AODA
 
 ;0x5B44B61E=~z~The guys are in Broker right now.
-0x5B44B61E=~z~The guys are in Broker right now.
+0x5B44B61E=~z~他们现在在 Broker。
 
 ;0x5B4CECB9=~z~Angels of Death, prepare to meet your maker!
-0x5B4CECB9=~z~Angels of Death, prepare to meet your maker!
+0x5B4CECB9=~z~死亡天使，滚去见你们的造物主吧！
 
 ;0x5B85294F=~z~Let's get lost, boys.
-0x5B85294F=~z~Let's get lost, boys.
+0x5B85294F=~z~我们撤吧，兄弟们。
 
 ;0x5B861334=~z~Right, man. It's time we paid the Angels of Death a visit.
-0x5B861334=~z~Right, man. It's time we paid the Angels of Death a visit.
+0x5B861334=~z~好了，兄弟。是时候拜访死亡天使了。
 
 ;0x5BBB9D23=300
 0x5BBB9D23=300
 
 ;0x5BC5259E=~z~I heard they're escorting a vehicle through the mean streets of Alderney.
-0x5BC5259E=~z~I heard they're escorting a vehicle through the mean streets of Alderney.
+0x5BC5259E=~z~听说他们在护送车辆通过 Alderney 的大街小巷。
 
 ;0x5CBE7600=~z~I think they are in Broker someplace.
-0x5CBE7600=~z~I think they are in Broker someplace.
+0x5CBE7600=~z~我觉得他们在 Broker 的某处。
 
 ;0x5D0F1C70=~z~Okay, man, let's find these tracksuit-wearing motherfuckers.
-0x5D0F1C70=~z~Okay, man, let's find these tracksuit-wearing motherfuckers.
+0x5D0F1C70=~z~好了，兄弟，去会会这些穿运动服的混蛋吧。
 
 ;0x5DEEA26A=100
 0x5DEEA26A=100
@@ -312,7 +312,7 @@
 0x627C8806=200
 
 ;0x630CAB4E=~z~I think they're in Broker hanging out.
-0x630CAB4E=~z~I think they're in Broker hanging out.
+0x630CAB4E=~z~我觉得他们现在在 Broker。
 
 ;0x6590E343=E1FCC3_ACT_ARRIVE_GANG_GW_BOH_VA
 0x6590E343=E1FCC3_ACT_ARRIVE_GANG_GW_BOH_VA
@@ -321,49 +321,49 @@
 0x6648F848=E1FCJ3_AA
 
 ;0x67107583=~z~They're in Algonquin moving a vehicle at the moment.
-0x67107583=~z~They're in Algonquin moving a vehicle at the moment.
+0x67107583=~z~他们现在在 Algonquin 运送车辆。
 
 ;0x673E2630=~z~They're cruising around Algonquin.
-0x673E2630=~z~They're cruising around Algonquin.
+0x673E2630=~z~他们在 Algonquin 周边巡游。
 
 ;0x68824A7D=~z~They're in Bohan, hanging out.
-0x68824A7D=~z~They're in Bohan, hanging out.
+0x68824A7D=~z~他们现在在 Bohan。
 
 ;0x68A5339C=~z~We got some tracksuit-wearing motherfuckers to beat on, man. Let's go.
-0x68A5339C=~z~We got some tracksuit-wearing motherfuckers to beat on, man. Let's go.
+0x68A5339C=~z~这次的目标是一帮穿运动服的混蛋，兄弟。走吧。
 
 ;0x68D4556B=~z~You speak Russian? Me neither, Johnny. Let's hope these hoods understand an ass beating.
-0x68D4556B=~z~You speak Russian? Me neither, Johnny. Let's hope these hoods understand an ass beating.
+0x68D4556B=~z~会讲俄语吗？我不会，Johnny。只能用拳头跟他们说话了。
 
 ;0x697ED6AC=300
 0x697ED6AC=300
 
 ;0x6A08C225=~z~Word is they're taking a vehicle through Alderney.
-0x6A08C225=~z~Word is they're taking a vehicle through Alderney.
+0x6A08C225=~z~听说他们在护送车辆通过 Alderney
 
 ;0x6A8E57E7=~z~Let's find ourselves some mobsters.
-0x6A8E57E7=~z~Let's find ourselves some mobsters.
+0x6A8E57E7=~z~今天就找几个黑帮玩吧。
 
 ;0x6D38249F=E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ALBA
 0x6D38249F=E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ALBA
 
 ;0x6DC1B7AB=~z~Let's do this, Johnny. Those Deadbeats ain't gonna know what hit 'em.
-0x6DC1B7AB=~z~Let's do this, Johnny. Those Deadbeats ain't gonna know what hit 'em.
+0x6DC1B7AB=~z~动手吧， Johnny。死妈天使不会知道自己是怎么死的。
 
 ;0x6DDEDB5A=~z~Last I heard they was cruising in Broker.
-0x6DDEDB5A=~z~Last I heard they was cruising in Broker.
+0x6DDEDB5A=~z~最后一次听说他们是在 Broker 巡游。
 
 ;0x6F014C8D=E1FCC3_ACT_ARRIVE_GANG_GW_BRO_VA
 0x6F014C8D=E1FCC3_ACT_ARRIVE_GANG_GW_BRO_VA
 
 ;0x75021AB0=~z~They're on the move in Alderney.
-0x75021AB0=~z~They're on the move in Alderney.
+0x75021AB0=~z~他们现在在 Alderney 活动。
 
 ;0x774636F5=092
 0x774636F5=092
 
 ;0x776334B2=~z~They're escorting a vehicle across Broker.
-0x776334B2=~z~They're escorting a vehicle across Broker.
+0x776334B2=~z~他们在护送车辆穿越 Broker。
 
 ;0x78A3495F=E1FCJ2_ACT_ARRIVE_GANG_GW_ALD_VA
 0x78A3495F=E1FCJ2_ACT_ARRIVE_GANG_GW_ALD_VA
@@ -372,10 +372,10 @@
 0x79FF2B75=200
 
 ;0x7A335992=~z~Okay, assholes. Good to fuckin' see ya.
-0x7A335992=~z~Okay, assholes. Good to fuckin' see ya.
+0x7A335992=~z~好了，混蛋们。见到你们真好。
 
 ;0x7B2AD8D0=~z~Okay, boys. Let's roll.
-0x7B2AD8D0=~z~Okay, boys. Let's roll.
+0x7B2AD8D0=~z~好了，兄弟们。走吧。
 
 ;0x7BB6D967=300
 0x7BB6D967=300
@@ -387,7 +387,7 @@
 0x7D78E241=100
 
 ;0x7E0EB5CB=~z~Let's go teach those Jamaican gang bangers some respect.
-0x7E0EB5CB=~z~Let's go teach those Jamaican gang bangers some respect.
+0x7E0EB5CB=~z~一起去教那帮牙买加佬什么叫做尊重吧。
 
 ;0x7E9A35FF=E1FCT3_ACT_ARRIVE_GANG_GW_BOH_FA
 0x7E9A35FF=E1FCT3_ACT_ARRIVE_GANG_GW_BOH_FA
@@ -396,34 +396,34 @@
 0x7F909DC3=200
 
 ;0x805018F7=~z~They're in Broker - on the move.
-0x805018F7=~z~They're in Broker - on the move.
+0x805018F7=~z~他们现在在 Broker 活动。
 
 ;0x81A2F58A=~z~Okay, time to make ourselves scarce, boys.
-0x81A2F58A=~z~Okay, time to make ourselves scarce, boys.
+0x81A2F58A=~z~好了，今天就到这儿了，兄弟们。
 
 ;0x8368077C=300
 0x8368077C=300
 
 ;0x8420E218=~z~They're kicking tires in Broker.
-0x8420E218=~z~They're kicking tires in Broker.
+0x8420E218=~z~他们在 Broker 臊皮。
 
 ;0x84289D44=~z~You ready man? Let's get going.
-0x84289D44=~z~You ready man? Let's get going.
+0x84289D44=~z~准备好了吗？我们出发吧。
 
 ;0x845D68FC=~z~Let's hit up these A.O.D. motherfuckers, man.
-0x845D68FC=~z~Let's hit up these A.O.D. motherfuckers, man.
+0x845D68FC=~z~一起去干翻这帮死妈天使的混帐吧，兄弟。
 
 ;0x85620E86=~z~Let's show 'em how we fight in the USA.
-0x85620E86=~z~Let's show 'em how we fight in the USA.
+0x85620E86=~z~让他们瞧瞧美国人是怎么干架的。
 
 ;0x864568B2=~z~OK, Johnny. Let's go get those Deadbeat bastards.
-0x864568B2=~z~OK, Johnny. Let's go get those Deadbeat bastards.
+0x864568B2=~z~好了，Johnny。一起去干翻那帮死妈天使吧。
 
 ;0x86C7BE3B=~z~They're cruising around Alderney.
-0x86C7BE3B=~z~They're cruising around Alderney.
+0x86C7BE3B=~z~他们在 Alderney 周边巡游。
 
 ;0x8768C87F=~z~JK, let's go find those lunatics and educate them.
-0x8768C87F=~z~JK, let's go find those lunatics and educate them.
+0x8768C87F=~z~JK，一起去教训教训那帮疯子吧。
 
 ;0x886DF56D=E1FCJ3_ACT_ARRIVE_BIKE_NOT_LATE_GW_JAMA
 0x886DF56D=E1FCJ3_ACT_ARRIVE_BIKE_NOT_LATE_GW_JAMA
@@ -432,13 +432,13 @@
 0x8936B309=E1FCJ2_ACT_ARRIVE_GANG_GW_BOH_FA
 
 ;0x898016CE=~z~They're cruising in Algonquin.
-0x898016CE=~z~They're cruising in Algonquin.
+0x898016CE=~z~他们在 Algonquin 巡游。
 
 ;0x8C827B7F=~z~Let's roll, boys.
-0x8C827B7F=~z~Let's roll, boys.
+0x8C827B7F=~z~出发了，兄弟们。
 
 ;0x8D59FFDF=~z~Alright there, brothers. Let's go.
-0x8D59FFDF=~z~Alright there, brothers. Let's go.
+0x8D59FFDF=~z~好了，兄弟们。出发吧。
 
 ;0x8DD84D55=100
 0x8DD84D55=100
@@ -447,25 +447,25 @@
 0x8F5C2E29=100
 
 ;0x90FC0472=~z~Brothers, let's do this.
-0x90FC0472=~z~Brothers, let's do this.
+0x90FC0472=~z~弟兄们，开干吧。
 
 ;0x9204A8FA=200
 0x9204A8FA=200
 
 ;0x927439DB=~z~OK, man. Let's do this thing.
-0x927439DB=~z~OK, man. Let's do this thing.
+0x927439DB=~z~好了，哥们。准备开干吧。
 
 ;0x95C9BB96=~z~They're in Algonquin hanging out.
-0x95C9BB96=~z~They're in Algonquin hanging out.
+0x95C9BB96=~z~他们在 Algonquin 出没。
 
 ;0x979632EE=~z~Okay, so these assholes come from Russian.
-0x979632EE=~z~Okay, so these assholes come from Russian.
+0x979632EE=~z~好了，这次的目标是俄国来的。
 
 ;0x9994936A=~z~We got Deadbeat ass to kick, man. Come on.
-0x9994936A=~z~We got Deadbeat ass to kick, man. Come on.
+0x9994936A=~z~该去教训死妈天使了。走吧。
 
 ;0x9AB93940=~z~I head they were on the move in Algonquin.
-0x9AB93940=~z~I head they were on the move in Algonquin.
+0x9AB93940=~z~听说他们之前在 Algonquin 活动。
 
 ;0x9B8C867E=300
 0x9B8C867E=300
@@ -474,7 +474,7 @@
 0x9F245287=E1FCC3_ACT_ARRIVE_GANG_GW_ALD_CA
 
 ;0xA0CC28F3=~z~Take out their vehicles boys.
-0xA0CC28F3=~z~Take out their vehicles boys.
+0xA0CC28F3=~z~拿下他们的车子，弟兄们。
 
 ;0xA1DFEB10=E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_GW_RUSA
 0xA1DFEB10=E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_GW_RUSA
@@ -495,13 +495,13 @@
 0xA7629C6C=E1FCT3_ACT_ARRIVE_GANG_GW_BRO_VA
 
 ;0xA77F5F01=~z~I think they're hanging out in Algonquin.
-0xA77F5F01=~z~I think they're hanging out in Algonquin.
+0xA77F5F01=~z~我觉得他们现在在 Algonquin。
 
 ;0xA7AB9472=200
 0xA7AB9472=200
 
 ;0xA8321945=~z~They're hanging in Bohan.
-0xA8321945=~z~They're hanging in Bohan.
+0xA8321945=~z~他们现在在 Bohan。
 
 ;0xA8C7C447=E1FCJ2_ACT_ARRIVE_GANG_GW_ALD_FA
 0xA8C7C447=E1FCJ2_ACT_ARRIVE_GANG_GW_ALD_FA
@@ -510,13 +510,13 @@
 0xA95D8D17=E1FCT3_ACT_ARRIVE_GANG_GW_ALD_CA
 
 ;0xAA090EE5=~z~Brothers are still hanging in Broker, as far as I know.
-0xAA090EE5=~z~Brothers are still hanging in Broker, as far as I know.
+0xAA090EE5=~z~兄弟们还在 Broker，据我所知。
 
 ;0xAD41A271=~z~They're somewhere in Alderney.
-0xAD41A271=~z~They're somewhere in Alderney.
+0xAD41A271=~z~他们在 Alderney 的某处。
 
 ;0xAE3A52E3=~z~Some of the brothers will want to join in on this ass kicking. Round 'em up.
-0xAE3A52E3=~z~Some of the brothers will want to join in on this ass kicking. Round 'em up.
+0xAE3A52E3=~z~有些兄弟想跟我们一起臊皮。带上他们吧。
 
 ;0xAE650370=E1FCT3_ACT_ARRIVE_GANG_GW_BOH_VA
 0xAE650370=E1FCT3_ACT_ARRIVE_GANG_GW_BOH_VA
@@ -528,13 +528,13 @@
 0xB13DF08D=092
 
 ;0xB36B9B38=~z~Fuck these assholes.
-0xB36B9B38=~z~Fuck these assholes.
+0xB36B9B38=~z~死吧傻逼。
 
 ;0xB43263AA=E1FCC3_ACT_ARRIVE_GANG_GW_BRO_FA
 0xB43263AA=E1FCC3_ACT_ARRIVE_GANG_GW_BRO_FA
 
 ;0xB4C6AA68=~z~You ready, man? Come on.
-0xB4C6AA68=~z~You ready, man? Come on.
+0xB4C6AA68=~z~准备好了吗，兄弟？走吧。
 
 ;0xB864B8E5=E1FCT3_ACT_ARRIVE_GANG_GW_ALG_VA
 0xB864B8E5=E1FCT3_ACT_ARRIVE_GANG_GW_ALG_VA
@@ -549,13 +549,13 @@
 0xBAEA7D3A=300
 
 ;0xBC9445A1=~z~Hey man. Let's get going.
-0xBC9445A1=~z~Hey man. Let's get going.
+0xBC9445A1=~z~嘿，兄弟。我们出发吧。
 
 ;0xBD0E5A5D=~z~The Angels of Death won't know what hit 'em, men. Let's do this!
-0xBD0E5A5D=~z~The Angels of Death won't know what hit 'em, men. Let's do this!
+0xBD0E5A5D=~z~死亡天使不会知道自己是怎么死的，兄弟们。开干吧！
 
 ;0xBE6224F2=~z~They're on our doorstep - Alderney, man.
-0xBE6224F2=~z~They're on our doorstep - Alderney, man.
+0xBE6224F2=~z~他们就在我们的领地—— Alderney，兄弟。
 
 ;0xBF899D9F=300
 0xBF899D9F=300
@@ -564,43 +564,43 @@
 0xBF958E51=300
 
 ;0xBFF347D4=~z~They're cruising around Alderney.
-0xBFF347D4=~z~They're cruising around Alderney.
+0xBFF347D4=~z~他们在 Alderney 周边巡游。
 
 ;0xC07C938D=300
 0xC07C938D=300
 
 ;0xC08841EB=~z~Hey Johnny. Let's go remind those mobsters that it ain't the 1970s anymore.
-0xC08841EB=~z~Hey Johnny. Let's go remind those mobsters that it ain't the 1970s anymore.
+0xC08841EB=~z~嘿， Johnny。一起去告诉他们现在不是70年代吧。
 
 ;0xC1D1A9DD=300
 0xC1D1A9DD=300
 
 ;0xC2F9C395=~z~Last I heard they was cruising in Algonquin.
-0xC2F9C395=~z~Last I heard they was cruising in Algonquin.
+0xC2F9C395=~z~最后一次听说他们是在 Algonquin。
 
 ;0xC3061E94=~z~They're in Alderney hanging out.
-0xC3061E94=~z~They're in Alderney hanging out.
+0xC3061E94=~z~他们现在在 Alderney。
 
 ;0xC31A46D6=300
 0xC31A46D6=300
 
 ;0xC83EF5B9=~z~They're hanging out in Broker.
-0xC83EF5B9=~z~They're hanging out in Broker.
+0xC83EF5B9=~z~他们现在在 Broker。
 
 ;0xC9E9E04C=~z~OK, Johnny. Let's go get those bastards!
-0xC9E9E04C=~z~OK, Johnny. Let's go get those bastards!
+0xC9E9E04C=~z~好了， Johnny。一起去教训那帮混蛋吧！
 
 ;0xCA15C884=~z~Fuck these bitches.
-0xCA15C884=~z~Fuck these bitches.
+0xCA15C884=~z~一群臭傻逼。
 
 ;0xCA3ABC69=~z~They're cruising around Bohan.
-0xCA3ABC69=~z~They're cruising around Bohan.
+0xCA3ABC69=~z~他们在 Bohan 周边巡游。
 
 ;0xCB9D4D62=100
 0xCB9D4D62=100
 
 ;0xCBCF0E30=~z~Let's show 'em how we do it in the Lost MC. Go get some brothers.
-0xCBCF0E30=~z~Let's show 'em how we do it in the Lost MC. Go get some brothers.
+0xCBCF0E30=~z~让他们见识下失落帮的风范吧。叫几个弟兄来。
 
 ;0xCC79BD99=100
 0xCC79BD99=100
@@ -609,13 +609,13 @@
 0xCD08BB08=100
 
 ;0xCD8E0042=~z~Lost MC. Let's do it.
-0xCD8E0042=~z~Lost MC. Let's do it.
+0xCD8E0042=~z~失落帮。动手吧。
 
 ;0xCEE15223=~z~Let's end these assholes.
-0xCEE15223=~z~Let's end these assholes.
+0xCEE15223=~z~送这些混蛋上路。
 
 ;0xD0C549B8=~z~I had intel that they're hanging in our very own Alderney.
-0xD0C549B8=~z~I had intel that they're hanging in our very own Alderney.
+0xD0C549B8=~z~内部消息，他们现在在我们 Alderney 的地盘。
 
 ;0xD1676C3B=E1FCJ3_ACT_ARRIVE_BIKE_NOT_LATE_GW_RUSA
 0xD1676C3B=E1FCJ3_ACT_ARRIVE_BIKE_NOT_LATE_GW_RUSA
@@ -627,19 +627,19 @@
 0xD20497AB=E1FCC3_ACT_ARRIVE_GANG_GW_ALD_FA
 
 ;0xD2465130=~z~Let's go get those bastards!
-0xD2465130=~z~Let's go get those bastards!
+0xD2465130=~z~给他们点颜色看看！
 
 ;0xD368AC14=300
 0xD368AC14=300
 
 ;0xD3E23EED=~z~They're doin' a little escort work. Moving a vehicle in Bohan.
-0xD3E23EED=~z~They're doin' a little escort work. Moving a vehicle in Bohan.
+0xD3E23EED=~z~他们现在在护送车辆通过 Bohan。
 
 ;0xD452F3EF=100
 0xD452F3EF=100
 
 ;0xD58F7ADE=~z~Apparently they're moving a vehicle across Bohan.
-0xD58F7ADE=~z~Apparently they're moving a vehicle across Bohan.
+0xD58F7ADE=~z~显然他们正在跨越 Bohan 运货。
 
 ;0xD5CC5266=E1FCT3_ACT_ARRIVE_GANG_GW_BRO_FA
 0xD5CC5266=E1FCT3_ACT_ARRIVE_GANG_GW_BRO_FA
@@ -654,34 +654,34 @@
 0xD9F3708F=E1FCJ3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ITAA
 
 ;0xDA13AAB9=~z~We need numbers for this. Go get some of the boys.
-0xDA13AAB9=~z~We need numbers for this. Go get some of the boys.
+0xDA13AAB9=~z~这次得多找点人。叫几个弟兄来。
 
 ;0xDAC0908C=~z~They're in Alderney, hanging out.
-0xDAC0908C=~z~They're in Alderney, hanging out.
+0xDAC0908C=~z~他们现在在 Alderney。
 
 ;0xDC6BE0CB=~z~They're somewhere in Bohan.
-0xDC6BE0CB=~z~They're somewhere in Bohan.
+0xDC6BE0CB=~z~他们在 Bohan 的某处。
 
 ;0xDD46AB25=E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ITAA
 0xDD46AB25=E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ITAA
 
 ;0xDDEEF483=~z~Hi Johnny. Let's go find those lunatics and educate them.
-0xDDEEF483=~z~Hi Johnny. Let's go find those lunatics and educate them.
+0xDDEEF483=~z~嗨，Johnny。一起去教训教训那帮疯子吧。
 
 ;0xDE7216C0=~z~They're cruising around Alderney.
-0xDE7216C0=~z~They're cruising around Alderney.
+0xDE7216C0=~z~他们在 Alderney 周边巡游。
 
 ;0xDF57986D=~z~Time to put those Russian gangbangers in their place.
-0xDF57986D=~z~Time to put those Russian gangbangers in their place.
+0xDF57986D=~z~该让那帮俄国佬认清自己的地位了。
 
 ;0xDFB9A499=~z~Okay, brothers.
-0xDFB9A499=~z~Okay, brothers.
+0xDFB9A499=~z~好了，兄弟们。
 
 ;0xE058F50A=~z~Let's roll on these motherfuckers.
-0xE058F50A=~z~Let's roll on these motherfuckers.
+0xE058F50A=~z~干翻这帮不长眼的。
 
 ;0xE2A779AF=~z~Come on, boys.
-0xE2A779AF=~z~Come on, boys.
+0xE2A779AF=~z~干他丫的，小的们。
 
 ;0xE2F7DD18=~z~They're in Bohan moving a vehicle at the moment.
 0xE2F7DD18=~z~They're in Bohan moving a vehicle at the moment.
@@ -693,7 +693,7 @@
 0xE78BA228=E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_GW_JAMA
 
 ;0xE7D0D26E=~z~Let's go deal with those mobsters.
-0xE7D0D26E=~z~Let's go deal with those mobsters.
+0xE7D0D26E=~z~我们去会会那些黑道。
 
 ;0xE873A9D1=090
 0xE873A9D1=090
@@ -702,16 +702,16 @@
 0xE9325171=100
 
 ;0xE980891E=~z~Jonathan, let's roll on these Deadbeat assholes.
-0xE980891E=~z~Jonathan, let's roll on these Deadbeat assholes.
+0xE980891E=~z~Jonathan，一起去干烂这帮死妈天使的混蛋。
 
 ;0xE9DB502F=E1FCC3_ACT_ARRIVE_GANG_GW_BRO_CA
 0xE9DB502F=E1FCC3_ACT_ARRIVE_GANG_GW_BRO_CA
 
 ;0xEB13F7E9=~z~They're hanging out in Bohan.
-0xEB13F7E9=~z~They're hanging out in Bohan.
+0xEB13F7E9=~z~他们现在在 Bohan。
 
 ;0xED13F27D=~z~Shit, I think they're moving round Broker.
-0xED13F27D=~z~Shit, I think they're moving round Broker.
+0xED13F27D=~z~妈的，我想他们在 Broker 附近出没。
 
 ;0xEEB12B78=092
 0xEEB12B78=092
@@ -720,10 +720,10 @@
 0xEF87A746=E1FCJ3_BA
 
 ;0xF0A1C18B=~z~Let's go find these Deadbeats, man.
-0xF0A1C18B=~z~Let's go find these Deadbeats, man.
+0xF0A1C18B=~z~去会会死妈天使吧，兄弟。
 
 ;0xF0A22A28=~z~They're in Bohan.
-0xF0A22A28=~z~They're in Bohan.
+0xF0A22A28=~z~他们现在在 Bohan。
 
 ;0xF1210583=E1FCT3_ACT_ARRIVE_GANG_GW_BRO_CA
 0xF1210583=E1FCT3_ACT_ARRIVE_GANG_GW_BRO_CA
@@ -732,7 +732,7 @@
 0xF129551D=E1FCT3_ACT_ARRIVE_GANG_GW_ALD_FA
 
 ;0xF1A36228=~z~They're moving some vehicle in Algonquin.
-0xF1A36228=~z~They're moving some vehicle in Algonquin.
+0xF1A36228=~z~他们在 Algonquin 运送货物。
 
 ;0xF1AD7A38=300
 0xF1AD7A38=300
@@ -744,19 +744,19 @@
 0xF4DB158E=300
 
 ;0xF7BAA592=~z~Let's go find these Deadbeats, my friend.
-0xF7BAA592=~z~Let's go find these Deadbeats, my friend.
+0xF7BAA592=~z~我们去找死妈天使吧，朋友。
 
 ;0xF7F032ED=E1FCJ2_ACT_ARRIVE_GANG_GW_BOH_VA
 0xF7F032ED=E1FCJ2_ACT_ARRIVE_GANG_GW_BOH_VA
 
 ;0xF82042E0=~z~They're escorting a vehicle across Alderney.
-0xF82042E0=~z~They're escorting a vehicle across Alderney.
+0xF82042E0=~z~他们在护送车辆穿越 Alderney。
 
 ;0xF82C921A=~z~They're in Bohan hanging out.
-0xF82C921A=~z~They're in Bohan hanging out.
+0xF82C921A=~z~他们在 Bohan 活动。
 
 ;0xF8B82F11=~z~The guys are in Algonquin, right now.
-0xF8B82F11=~z~The guys are in Algonquin, right now.
+0xF8B82F11=~z~那些人现在在 Algonquin。
 
 ;0xF95811EF=E1FCC3_ACT_ARRIVE_GANG_GW_BOH_FA
 0xF95811EF=E1FCC3_ACT_ARRIVE_GANG_GW_BOH_FA
