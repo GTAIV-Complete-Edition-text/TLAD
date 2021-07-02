@@ -1,12 +1,12 @@
 ﻿[E1BEA]
 ;0x01820742=~z~Don't fuck with the van, dude.
-0x01820742=~z~Don't fuck with the van, dude.
+0x01820742=~z~别乱搞车子，老哥。
 
 ;0x02AB646F=~z~Looky, looky here.
-0x02AB646F=~z~Looky, looky here.
+0x02AB646F=~z~瞧一瞧，看一看。
 
 ;0x04327BC6=~z~Fuck. What is the hold up?
-0x04327BC6=~z~Fuck. What is the hold up?
+0x04327BC6=~z~操，磨蹭啥呢？
 
 ;0x062675CA=090
 0x062675CA=090
@@ -18,49 +18,49 @@
 0x0A276275=E1BE_A_BA
 
 ;0x0B0EA259=~z~Remember the days when you didn't have to suck down half the periodic table with your tobacco?
-0x0B0EA259=~z~Remember the days when you didn't have to suck down half the periodic table with your tobacco?
+0x0B0EA259=~z~还记得当年不用一口烟下去就是一张元素周期表的日子吗？
 
 ;0x0CAED6B6=~z~These clothes are chafing me.
-0x0CAED6B6=~z~These clothes are chafing me.
+0x0CAED6B6=~z~这身衣服硌得我难受。
 
 ;0x0F86F72F=~z~Fuck me, man. I'm just trying to survive here.
-0x0F86F72F=~z~Fuck me, man. I'm just trying to survive here.
+0x0F86F72F=~z~我操，哥们。我就想讨口饭吃。
 
 ;0x0FB13B55=E1BE_A_KA
 0x0FB13B55=E1BE_A_KA
 
 ;0x10316F39=~z~I'm rolling outta here, Johnny. Call me.
-0x10316F39=~z~I'm rolling outta here, Johnny. Call me.
+0x10316F39=~z~我要走了，Johnny。电话聊。
 
 ;0x10F20104=~z~Feast your eyes on this.
-0x10F20104=~z~Feast your eyes on this.
+0x10F20104=~z~来大饱眼福吧。
 
 ;0x117FC498=~z~I reckon I'm better equipped here than our boys overseas. Fucking disgrace.
-0x117FC498=~z~I reckon I'm better equipped here than our boys overseas. Fucking disgrace.
+0x117FC498=~z~咱们的装备比海外打仗的大兵还好。真他妈丢脸。
 
 ;0x138B0930=E1BE_VA
 0x138B0930=E1BE_VA
 
 ;0x13EB0DCA=~z~The fucking Road Captain to the rescue!
-0x13EB0DCA=~z~The fucking Road Captain to the rescue!
+0x13EB0DCA=~z~行车长就是靠得住啊！
 
 ;0x1469FDA1=~z~I can ride solo here on in. Thank you.
-0x1469FDA1=~z~I can ride solo here on in. Thank you.
+0x1469FDA1=~z~我自己能打得过。谢了。
 
 ;0x17186E3D=~z~We're gonna hold this position.
-0x17186E3D=~z~We're gonna hold this position.
+0x17186E3D=~z~咱们守住这个位置。
 
 ;0x171BAE2D=~z~So long, Johnny. Time for me and Clay made tracks.
-0x171BAE2D=~z~So long, Johnny. Time for me and Clay made tracks.
+0x171BAE2D=~z~再见了，Johnny。我和Clay该走了。
 
 ;0x19D84539=~z~If our mommas could see us now.
-0x19D84539=~z~If our mommas could see us now.
+0x19D84539=~z~可惜咱们的老妈现在能不见我们。
 
 ;0x21A1A937=~z~It better work! Ha ha ha. Thanks, Clay.
-0x21A1A937=~z~It better work! Ha ha ha. Thanks, Clay.
+0x21A1A937=~z~希望没坏！哈哈。谢了，Clay。
 
 ;0x234A52AE=~z~Clay, T.
-0x234A52AE=~z~Clay, T.
+0x234A52AE=~z~Clay，T。
 
 ;0x23C1AFB7=100
 0x23C1AFB7=100
@@ -69,91 +69,91 @@
 0x242B4EA6=E1BE_B_BA
 
 ;0x254E483C=~z~Hey, man. I'm outta here. Later.
-0x254E483C=~z~Hey, man. I'm outta here. Later.
+0x254E483C=~z~嘿，哥们。我走了。再见。
 
 ;0x2705CC3B=~z~Man, Terry, that shit is fucked up
-0x2705CC3B=~z~Man, Terry, that shit is fucked up
+0x2705CC3B=~z~天啊，Terry，全他妈完了。
 
 ;0x271D7081=E1BE_A_MA
 0x271D7081=E1BE_A_MA
 
 ;0x274F0BE6=~z~This sure beats my other plans.
-0x274F0BE6=~z~This sure beats my other plans.
+0x274F0BE6=~z~这可是头等大事。
 
 ;0x27CE693B=E1BE_A_EA
 0x27CE693B=E1BE_A_EA
 
 ;0x295492B5=~z~We're holding down here, man.
-0x295492B5=~z~We're holding down here, man.
+0x295492B5=~z~把这里守住，哥们。
 
 ;0x2BA93E04=100
 0x2BA93E04=100
 
 ;0x2BCFAC6C=~z~You're starting to cramp my style. Thanks for the help.
-0x2BCFAC6C=~z~You're starting to cramp my style. Thanks for the help.
+0x2BCFAC6C=~z~感谢你们帮忙，但是你们影响我发挥了。
 
 ;0x2F51DCCF=~z~Oh, man. Terry!
-0x2F51DCCF=~z~Oh, man. Terry!
+0x2F51DCCF=~z~噢，天啊。Terry！
 
 ;0x31D523ED=200
 0x31D523ED=200
 
 ;0x3355B575=~z~I've got to bid you adieu, my brother. Later on.
-0x3355B575=~z~I've got to bid you adieu, my brother. Later on.
+0x3355B575=~z~再见了，好兄弟。再见。
 
 ;0x3403F505=~z~Ahh, Clay, shit. We'll get these fuckers for you.
-0x3403F505=~z~Ahh, Clay, shit. We'll get these fuckers for you.
+0x3403F505=~z~啊，Clay，妈的。兄弟们替你报仇。
 
 ;0x3504F623=~z~Boys
-0x3504F623=~z~Boys
+0x3504F623=~z~伙计们。
 
 ;0x355868E0=~z~Terry, man. Shit
-0x355868E0=~z~Terry, man. Shit
+0x355868E0=~z~Terry，天啊。妈的。
 
 ;0x35E53524=~z~Hold this position, okay?
-0x35E53524=~z~Hold this position, okay?
+0x35E53524=~z~守住这个位置，好吗？
 
 ;0x3684CED5=~z~Terrence, man?
-0x3684CED5=~z~Terrence, man?
+0x3684CED5=~z~Terrence，哥们？
 
 ;0x37A3ECE7=~z~Yo, man. I got to go. Have fun.
-0x37A3ECE7=~z~Yo, man. I got to go. Have fun.
+0x37A3ECE7=~z~哟，哥们。我要走了。祝你玩得开心。
 
 ;0x3876FD29=~z~My ex fucking hated it when I smoked.
-0x3876FD29=~z~My ex fucking hated it when I smoked.
+0x3876FD29=~z~我前妻贼他妈讨厌我抽烟。
 
 ;0x3CAE022B=E1BE_B_CA
 0x3CAE022B=E1BE_B_CA
 
 ;0x3CDC1B58=~z~I got enough shit here to get me some serious time.
-0x3CDC1B58=~z~I got enough shit here to get me some serious time.
+0x3CDC1B58=~z~逼事一大堆，我太难了。
 
 ;0x3D3E646D=~z~That a light cigarette, you pussy?
-0x3D3E646D=~z~That a light cigarette, you pussy?
+0x3D3E646D=~z~这是淡烟。你是娘炮吗？
 
 ;0x3D4278B0=~z~I always worried about Terry, man.
-0x3D4278B0=~z~I always worried about Terry, man.
+0x3D4278B0=~z~我一直很担心 Terry，哥们。
 
 ;0x3ED509C3=~z~Gentlemen
-0x3ED509C3=~z~Gentlemen
+0x3ED509C3=~z~先生们。
 
 ;0x3F09647B=~z~See ya, Terrence.
-0x3F09647B=~z~See ya, Terrence.
+0x3F09647B=~z~再见了，Terrence。
 
 ;0x3F98D756=~z~I can't give you a freebie, I got alimony to pay.
-0x3F98D756=~z~I can't give you a freebie, I got alimony to pay.
+0x3F98D756=~z~你可不能白嫖。我还要掏扶养费呢。
 
 ;0x3FFED21A=~z~You're not getting cash for these weapons, man. Blame Billy.
-0x3FFED21A=~z~You're not getting cash for these weapons, man. Blame Billy.
+0x3FFED21A=~z~这批家伙你回不了本了，哥们。都怪Billy。
 
 ;0x4203C321=~z~All good, brother?
-0x4203C321=~z~All good, brother?
+0x4203C321=~z~你还好吗，兄弟？
 
 ;0x444E6A68=~z~Where were we, Terrence?
-0x444E6A68=~z~Where were we, Terrence?
+0x444E6A68=~z~接着聊吧，Terrence？
 
 ;0x44AA398E=~z~You're a prize jerkoff, man.
-0x44AA398E=~z~You're a prize jerkoff, man.
+0x44AA398E=~z~你这屌毛缺德到家了，哥们。
 
 ;0x44DEDB33=200
 0x44DEDB33=200
@@ -162,58 +162,58 @@
 0x4554C42A=020
 
 ;0x4593D9F1=~z~I'm outta here, man. So long.
-0x4593D9F1=~z~I'm outta here, man. So long.
+0x4593D9F1=~z~我走了，哥们。再见。
 
 ;0x46B791AC=~z~Shit, man! Don't fuck up the van for the other brothers.
-0x46B791AC=~z~Shit, man! Don't fuck up the van for the other brothers.
+0x46B791AC=~z~妈的，哥们！别把兄弟们的车搞坏了。
 
 ;0x47BA4CBC=~z~What's goin' on?
-0x47BA4CBC=~z~What's goin' on?
+0x47BA4CBC=~z~出什么事了？
 
 ;0x496B8B04=~z~I getting outta here. Shit.
-0x496B8B04=~z~I getting outta here. Shit.
+0x496B8B04=~z~我走了，妈的。
 
 ;0x49A7984C=~z~You should smoke a cigar, Terry - much more becoming for a man.
-0x49A7984C=~z~You should smoke a cigar, Terry - much more becoming for a man.
+0x49A7984C=~z~抽几支烟吧，Terry。这样才像爷们。
 
 ;0x4AA5FF40=~z~Shit, Terrence. You have to smoke that now?
-0x4AA5FF40=~z~Shit, Terrence. You have to smoke that now?
+0x4AA5FF40=~z~妈的，Terrence。你非得现在抽？
 
 ;0x4BE878A2=100
 0x4BE878A2=100
 
 ;0x4C75E729=~z~You called and I came. Your bike, Johnny.
-0x4C75E729=~z~You called and I came. Your bike, Johnny.
+0x4C75E729=~z~随叫随到。你的摩托，Johnny。
 
 ;0x4DA3ED64=~z~You're gonna have to comp these weapons. They're needed.
-0x4DA3ED64=~z~You're gonna have to comp these weapons. They're needed.
+0x4DA3ED64=~z~这些武器就别收钱了，征用了。
 
 ;0x509AAD4E=~z~Terry, Clay.
-0x509AAD4E=~z~Terry, Clay.
+0x509AAD4E=~z~Terry，Clay。
 
 ;0x50B2984F=090
 0x50B2984F=090
 
 ;0x51B0218F=~z~Man, poor Terry
-0x51B0218F=~z~Man, poor Terry
+0x51B0218F=~z~天啊，Terry真惨。
 
 ;0x51C21108=E1BE_A_QA
 0x51C21108=E1BE_A_QA
 
 ;0x5296F45E=~z~Yo, I'll wait here.
-0x5296F45E=~z~Yo, I'll wait here.
+0x5296F45E=~z~哟，我在这儿等着。
 
 ;0x531987FE=~z~Ummm, Terry dude?
-0x531987FE=~z~Ummm, Terry dude?
+0x531987FE=~z~呃，Terry，老哥？
 
 ;0x55B3E8AF=~z~Okay then... where we at?
-0x55B3E8AF=~z~Okay then... where we at?
+0x55B3E8AF=~z~那好吧...接着聊？
 
 ;0x56A424D8=~z~Oh yeah. Here we are.
-0x56A424D8=~z~Oh yeah. Here we are.
+0x56A424D8=~z~哦耶，拿去吧。
 
 ;0x57257C84=~z~Jonathan, I got your bike. Don't go and total it.
-0x57257C84=~z~Jonathan, I got your bike. Don't go and total it.
+0x57257C84=~z~Jonathan，你的车。别糟蹋了。
 
 ;0x57A1B7D2=E1BE_B_DA
 0x57A1B7D2=E1BE_B_DA
@@ -225,19 +225,19 @@
 0x58B69FE3=E1BE_A_FA
 
 ;0x59FFC018=~z~My loyal brothers
-0x59FFC018=~z~My loyal brothers
+0x59FFC018=~z~好兄弟们。
 
 ;0x5B6D1D56=~z~Bye, my brother.
-0x5B6D1D56=~z~Bye, my brother.
+0x5B6D1D56=~z~好兄弟，再见。
 
 ;0x5BDDC14C=~z~You alright boys.
-0x5BDDC14C=~z~You alright boys.
+0x5BDDC14C=~z~还好吧，兄弟们。
 
 ;0x5BDE2FE9=~z~I'm gone, dude. Later.
-0x5BDE2FE9=~z~I'm gone, dude. Later.
+0x5BDE2FE9=~z~我走了，老哥。再见。
 
 ;0x5CC1F89D=~z~So Clay, where were we?
-0x5CC1F89D=~z~So Clay, where were we?
+0x5CC1F89D=~z~那，Clay，接着聊吧？
 
 ;0x5CFC890E=E1BE_A_AA
 0x5CFC890E=E1BE_A_AA
@@ -246,85 +246,85 @@
 0x5E04A751=E1BE_A_OA
 
 ;0x609D8AE0=~z~Will you wait here, okay?
-0x609D8AE0=~z~Will you wait here, okay?
+0x609D8AE0=~z~你在这等会，好吗？
 
 ;0x644D9D5F=~z~Thank you for your assistance. I can take it from here.
-0x644D9D5F=~z~Thank you for your assistance. I can take it from here.
+0x644D9D5F=~z~多谢兄弟们帮忙。我自己能行。
 
 ;0x645FC04F=~z~This will do nicely.
-0x645FC04F=~z~This will do nicely.
+0x645FC04F=~z~这家伙就不错。
 
 ;0x65191798=~z~You're a good man, Terry.
-0x65191798=~z~You're a good man, Terry.
+0x65191798=~z~给力啊，Terry。
 
 ;0x657C1931=~z~Your wheels, sir. Here they are.
-0x657C1931=~z~Your wheels, sir. Here they are.
+0x657C1931=~z~你的车，先生。骑吧。
 
 ;0x66183AD4=E1BE_A_RA
 0x66183AD4=E1BE_A_RA
 
 ;0x672B7E90=~z~Don't treat me like an asshole.
-0x672B7E90=~z~Don't treat me like an asshole.
+0x672B7E90=~z~别把我当王八。
 
 ;0x68638810=~z~So boys, what were we saying?
-0x68638810=~z~So boys, what were we saying?
+0x68638810=~z~那兄弟们，聊到哪儿了来着？
 
 ;0x692FC5DF=~z~Shit, the hell are we waiting for?
-0x692FC5DF=~z~Shit, the hell are we waiting for?
+0x692FC5DF=~z~妈的，咱们在磨蹭啥呢？
 
 ;0x69478074=~z~There you are, Johnny.
-0x69478074=~z~There you are, Johnny.
+0x69478074=~z~你来啦，Johnny。
 
 ;0x6A781409=~z~What were you saying, Clay?
-0x6A781409=~z~What were you saying, Clay?
+0x6A781409=~z~说到哪儿了来着，Clay？
 
 ;0x6BBE6395=~z~Brothers
-0x6BBE6395=~z~Brothers
+0x6BBE6395=~z~兄弟们。
 
 ;0x6C37BEEB=~z~Later, Terry.
-0x6C37BEEB=~z~Later, Terry.
+0x6C37BEEB=~z~再见，Terry。
 
 ;0x6E08543D=~z~So long, Johnny. You fucking douche.
-0x6E08543D=~z~So long, Johnny. You fucking douche.
+0x6E08543D=~z~再见了。Johnny。你妈个逼的。
 
 ;0x6EDADB58=~z~I'm going, John. Look after yourself.
-0x6EDADB58=~z~I'm going, John. Look after yourself.
+0x6EDADB58=~z~我走了，John。照顾好自己。
 
 ;0x6F36C1E6=E1BE_WA
 0x6F36C1E6=E1BE_WA
 
 ;0x6F7E95AF=~z~Hey man, this is us.
-0x6F7E95AF=~z~Hey man, this is us.
+0x6F7E95AF=~z~嘿，哥们，我们走了。
 
 ;0x7244347A=200
 0x7244347A=200
 
 ;0x725033D4=~z~I'll be right here, man.
-0x725033D4=~z~I'll be right here, man.
+0x725033D4=~z~我就在这里，哥们。
 
 ;0x72566700=290
 0x72566700=290
 
 ;0x73BB35AF=~z~Yo, Johnny. Your bike, sir.
-0x73BB35AF=~z~Yo, Johnny. Your bike, sir.
+0x73BB35AF=~z~哟，Johnny。你的摩托，先生。
 
 ;0x747EED3A=~z~You fucking asshole. That's club property.
-0x747EED3A=~z~You fucking asshole. That's club property.
+0x747EED3A=~z~你妈个逼的。这是帮里的财产啊。
 
 ;0x75F2D261=~z~May the road be tranquil, my brother.
-0x75F2D261=~z~May the road be tranquil, my brother.
+0x75F2D261=~z~一路顺风，好兄弟。
 
 ;0x76EC84A1=~z~Terry, man, fuck. I need you and Clay's help right now.
-0x76EC84A1=~z~Terry, man, fuck. I need you and Clay's help right now.
+0x76EC84A1=~z~Terry，哥们，操了。我需要你和Clay现在来帮我。
 
 ;0x77E1DC2B=E1BE_A_PA
 0x77E1DC2B=E1BE_A_PA
 
 ;0x78ECA212=~z~Ha ha ha. Funny shit.
-0x78ECA212=~z~Ha ha ha. Funny shit.
+0x78ECA212=~z~哈哈哈。真搞笑。
 
 ;0x792F203F=~z~Fuck me, Johnny. Good to see ya.
-0x792F203F=~z~Fuck me, Johnny. Good to see ya.
+0x792F203F=~z~我操，Johnny。见到你真好。
 
 ;0x797124B6=E1S4_A_GA
 0x797124B6=E1S4_A_GA
@@ -333,34 +333,34 @@
 0x79FDAF10=190
 
 ;0x7A678885=~z~Go have fun with that, Johnny.
-0x7A678885=~z~Go have fun with that, Johnny.
+0x7A678885=~z~嗨起来吧，Johnny。
 
 ;0x7AB2F4B5=~z~Clayton, can you get down here and fucking help me.
-0x7AB2F4B5=~z~Clayton, can you get down here and fucking help me.
+0x7AB2F4B5=~z~Clayton，你他妈能来支援我吗？
 
 ;0x7D403132=~z~Let's get out of here, Terry. Later on, man.
-0x7D403132=~z~Let's get out of here, Terry. Later on, man.
+0x7D403132=~z~快走吧，Terry。再见了，哥们。
 
 ;0x7F9254E9=E1BE_A_CA
 0x7F9254E9=E1BE_A_CA
 
 ;0x80084E49=~z~Johnny! The Road Captain has arrived.
-0x80084E49=~z~Johnny! The Road Captain has arrived.
+0x80084E49=~z~Johnny！行车长到了。
 
 ;0x80B8753C=010
 0x80B8753C=010
 
 ;0x84C58E87=~z~You got any haze, Terry? I could do some of that.
-0x84C58E87=~z~You got any haze, Terry? I could do some of that.
+0x84C58E87=~z~有烟吗，Terry？来几根。
 
 ;0x877C1B14=~z~Clayton, Terrence, que pasa?
-0x877C1B14=~z~Clayton, Terrence, que pasa?
+0x877C1B14=~z~Clayton，Terrence，还好吗？
 
 ;0x88B877EC=~z~Safe travels, man.
-0x88B877EC=~z~Safe travels, man.
+0x88B877EC=~z~一路平安，哥们。
 
 ;0x8932A92D=~z~Terry, dude. I need some help pronto.
-0x8932A92D=~z~Terry, dude. I need some help pronto.
+0x8932A92D=~z~Terry，老哥。我现在需要支援。
 
 ;0x89895805=100
 0x89895805=100
@@ -369,25 +369,25 @@
 0x8C44F7AE=E1BE_UA
 
 ;0x8DC3496B=~z~Thanks for showing, Johnny.
-0x8DC3496B=~z~Thanks for showing, Johnny.
+0x8DC3496B=~z~你总算来了，Johnny。
 
 ;0x8DDDCBF4=~z~Shit, man, you asked for a favor.
-0x8DDDCBF4=~z~Shit, man, you asked for a favor.
+0x8DDDCBF4=~z~妈的，哥们，是你叫我来帮忙的。
 
 ;0x8E986C64=~z~I'm gonna wait here.
-0x8E986C64=~z~I'm gonna wait here.
+0x8E986C64=~z~我在这等着。
 
 ;0x8F9DE894=~z~Yo, can you wait here?
-0x8F9DE894=~z~Yo, can you wait here?
+0x8F9DE894=~z~哟，能不能在这等会？
 
 ;0x8FB29718=~z~Rock and roll.
-0x8FB29718=~z~Rock and roll.
+0x8FB29718=~z~嗨起来吧。
 
 ;0x8FEA4167=~z~The Feds would love to catch me with this haul, man.
-0x8FEA4167=~z~The Feds would love to catch me with this haul, man.
+0x8FEA4167=~z~被条子人赃俱获就要笑嘻了，哥们。
 
 ;0x9011B3D9=~z~Later on, my brother.
-0x9011B3D9=~z~Later on, my brother.
+0x9011B3D9=~z~再见了，好兄弟。
 
 ;0x914539E7=E1BE_A_GA
 0x914539E7=E1BE_A_GA
@@ -396,10 +396,10 @@
 0x916E1753=010
 
 ;0x93C0DE33=~z~Were splitting, man. See ya.
-0x93C0DE33=~z~Were splitting, man. See ya.
+0x93C0DE33=~z~先走一步了，哥们。再见。
 
 ;0x99BFC05F=~z~Shit, Clay's down.
-0x99BFC05F=~z~Shit, Clay's down.
+0x99BFC05F=~z~妈的，Clay倒了。
 
 ;0x9AD38B1C=090
 0x9AD38B1C=090
@@ -411,49 +411,49 @@
 0x9C5E8905=E1BE_ZA
 
 ;0x9C5ECC73=~z~Don't cause too much trouble, John boy.
-0x9C5ECC73=~z~Don't cause too much trouble, John boy.
+0x9C5ECC73=~z~搞事情别整过火了，阿强。
 
 ;0x9E5D9D41=012
 0x9E5D9D41=012
 
 ;0x9E96EB12=~z~Jonathan. Greetings.
-0x9E96EB12=~z~Jonathan. Greetings.
+0x9E96EB12=~z~Jonathan，你好啊。
 
 ;0x9F886F49=~z~I thought I was doing you a good turn, dude.
-0x9F886F49=~z~I thought I was doing you a good turn, dude.
+0x9F886F49=~z~我寻思我也没干坏事啊，老哥。
 
 ;0x9FFCB4A8=E1BE_A_VA
 0x9FFCB4A8=E1BE_A_VA
 
 ;0xA13BE40A=~z~The founding fathers weren't thinkin' of this haul when they wrote the Second Amendment.
-0xA13BE40A=~z~The founding fathers weren't thinkin' of this haul when they wrote the Second Amendment.
+0xA13BE40A=~z~开国元勋撰写第二修正案时肯定想不到武器黑市吧。
 
 ;0xA1BC1B9B=~z~I can't go giving out freebies, not with the debt collectors on my ass.
-0xA1BC1B9B=~z~I can't go giving out freebies, not with the debt collectors on my ass.
+0xA1BC1B9B=~z~你可不能白嫖。我还被人追着屁股讨债呢。
 
 ;0xA1C52978=~z~Hey, thanks, Clay.
-0xA1C52978=~z~Hey, thanks, Clay.
+0xA1C52978=~z~嘿，谢了，Clay。
 
 ;0xA20CA90E=100
 0xA20CA90E=100
 
 ;0xA213C376=~z~Bad shit's going down, Clay. I need your help right now.
-0xA213C376=~z~Bad shit's going down, Clay. I need your help right now.
+0xA213C376=~z~出事了，Clay。我现在需要支援。
 
 ;0xA229C99E=190
 0xA229C99E=190
 
 ;0xA319D24F=~z~Boys, how are you both?
-0xA319D24F=~z~Boys, how are you both?
+0xA319D24F=~z~兄弟们，最近怎么样？
 
 ;0xA402543E=~z~Nothing says America like guns and cigarettes.
-0xA402543E=~z~Nothing says America like guns and cigarettes.
+0xA402543E=~z~枪支和香烟可是美国最好的象征。
 
 ;0xA717D32B=~z~Shit, I forgot my cigars, man.
-0xA717D32B=~z~Shit, I forgot my cigars, man.
+0xA717D32B=~z~妈的，出门忘带烟了，哥们。
 
 ;0xA7BFC7AB=~z~I'm getting outta here, dude.
-0xA7BFC7AB=~z~I'm getting outta here, dude.
+0xA7BFC7AB=~z~我要走了，老哥。
 
 ;0xA7DB0FCB=100
 0xA7DB0FCB=100
@@ -468,19 +468,19 @@
 0xA8F83DD1=090
 
 ;0xA8FC51F0=~z~Clay, man, we should split. Later Johnny.
-0xA8FC51F0=~z~Clay, man, we should split. Later Johnny.
+0xA8FC51F0=~z~Clay，哥们。咱要走了。Johnny，再见。
 
 ;0xAB092AD5=~z~I think this is a job for one man, now. Later.
-0xAB092AD5=~z~I think this is a job for one man, now. Later.
+0xAB092AD5=~z~接下来我一个人就能应付。再见了。
 
 ;0xAC256C00=~z~Enjoy it, brother.
-0xAC256C00=~z~Enjoy it, brother.
+0xAC256C00=~z~享受去吧，好兄弟。
 
 ;0xACA64F6B=E1BE_A_WA
 0xACA64F6B=E1BE_A_WA
 
 ;0xADCAF25D=~z~T, I'm fucked man. Come help me.
-0xADCAF25D=~z~T, I'm fucked man. Come help me.
+0xADCAF25D=~z~T，我完了，哥们。过来救我。
 
 ;0xAF017413=E1BE_A_JA
 0xAF017413=E1BE_A_JA
@@ -489,19 +489,19 @@
 0xB1303CE0=E1BE_YA
 
 ;0xB3279D9B=~z~Sorry, boys...
-0xB3279D9B=~z~Sorry, boys...
+0xB3279D9B=~z~抱歉，兄弟们...
 
 ;0xB369F0C5=E1BE_B_AA
 0xB369F0C5=E1BE_B_AA
 
 ;0xB3BE66CB=~z~Clay, I'm fucked. Can you get to me?
-0xB3BE66CB=~z~Clay, I'm fucked. Can you get to me?
+0xB3BE66CB=~z~Clay，我完了。你能过来吗？
 
 ;0xB5B27780=~z~Terry, Clay, good to see you
-0xB5B27780=~z~Terry, Clay, good to see you
+0xB5B27780=~z~Terry，Clay，见到你们真好。
 
 ;0xB63578A4=~z~The right to smoke should be written in the Consti-fucking-tution, man. Screw the liberals.
-0xB63578A4=~z~The right to smoke should be written in the Consti-fucking-tution, man. Screw the liberals.
+0xB63578A4=~z~吸烟权就他妈该写入宪法，哥们。自由派死一边去吧。
 
 ;0xB74045A3=010
 0xB74045A3=010
@@ -510,34 +510,34 @@
 0xB7D77D24=E1BE_A_ZA
 
 ;0xB928FF31=~z~Fuck, Clay took one.
-0xB928FF31=~z~Fuck, Clay took one.
+0xB928FF31=~z~操，Clay被打中了。
 
 ;0xB94DEAC7=~z~Thanks for nothing, man.
-0xB94DEAC7=~z~Thanks for nothing, man.
+0xB94DEAC7=~z~谢谢您啊，哥们。
 
 ;0xBCC2B0D1=~z~Sorry boys, where were we?
-0xBCC2B0D1=~z~Sorry boys, where were we?
+0xBCC2B0D1=~z~不好意思，兄弟们，接着聊吧？
 
 ;0xBD527A9C=~z~Johnny, I think it's time me and Clay got outta here. Later.
-0xBD527A9C=~z~Johnny, I think it's time me and Clay got outta here. Later.
+0xBD527A9C=~z~Johnny，我和Clay该走了。再见。
 
 ;0xBE3B607A=100
 0xBE3B607A=100
 
 ;0xBE548988=~z~Clay. Shit. This is one fucked up life we're livin'.
-0xBE548988=~z~Clay. Shit. This is one fucked up life we're livin'.
+0xBE548988=~z~Clay。妈的。这他妈啥跟啥啊。
 
 ;0xC0082DF8=~z~Shit, Johnny. I'm freezing my ass off here.
-0xC0082DF8=~z~Shit, Johnny. I'm freezing my ass off here.
+0xC0082DF8=~z~妈的，Johnny。我屁股要冻掉了。
 
 ;0xC0BC4EF1=~z~Terry, man, you're cool.
-0xC0BC4EF1=~z~Terry, man, you're cool.
+0xC0BC4EF1=~z~Terry，哥们，你真牛啊。
 
 ;0xC0EDF96A=~z~Okay, this will do the trick.
-0xC0EDF96A=~z~Okay, this will do the trick.
+0xC0EDF96A=~z~好嘞。这东西好用。
 
 ;0xC6B12117=~z~Johnny, man. I hope that SOB you're after deserves it.
-0xC6B12117=~z~Johnny, man. I hope that SOB you're after deserves it.
+0xC6B12117=~z~Johnny，哥们。希望你要去找麻烦的人是真的欠揍。 
 
 ;0xC8F87650=E1BE_XA
 0xC8F87650=E1BE_XA
@@ -546,40 +546,40 @@
 0xC9275416=100
 
 ;0xCB7B00E8=~z~That smells like shit. Fork out some cash for good tobacco next time.
-0xCB7B00E8=~z~That smells like shit. Fork out some cash for good tobacco next time.
+0xCB7B00E8=~z~闻着跟屎一样。下次出点血买包好烟吧。
 
 ;0xCBD59BEA=~z~Dude, why you fucking with the van.
-0xCBD59BEA=~z~Dude, why you fucking with the van.
+0xCBD59BEA=~z~老哥，你乱搞车子干啥。
 
 ;0xCC54D39B=200
 0xCC54D39B=200
 
 ;0xCC88985F=~z~Clay, get off you ass and come help me. Shit's fucked.
-0xCC88985F=~z~Clay, get off you ass and come help me. Shit's fucked.
+0xCC88985F=~z~Clay，赶紧过来救我。出大事了。
 
 ;0xCD0E3BAE=~z~Catching a look at this arsenal's gonna put a smile on your face, man.
-0xCD0E3BAE=~z~Catching a look at this arsenal's gonna put a smile on your face, man.
+0xCD0E3BAE=~z~看见军火库能让你喜笑颜开，哥们。
 
 ;0xCD986D4F=~z~We ain't paying for this stuff, Terry. It's being used for the Club.
-0xCD986D4F=~z~We ain't paying for this stuff, Terry. It's being used for the Club.
+0xCD986D4F=~z~这批货就不给钱了，Terry。失落帮征用了。
 
 ;0xCDD6FC3F=290
 0xCDD6FC3F=290
 
 ;0xCDE0B28C=~z~Terrence. Get down here and help me quick.
-0xCDE0B28C=~z~Terrence. Get down here and help me quick.
+0xCDE0B28C=~z~Terrence。快点过来救我。
 
 ;0xCE12E99E=~z~Thanks for your assistance, my brother.
-0xCE12E99E=~z~Thanks for your assistance, my brother.
+0xCE12E99E=~z~谢谢你的帮助，好兄弟。
 
 ;0xCED4D8D8=100
 0xCED4D8D8=100
 
 ;0xCF7B2BD5=~z~Clay, brother, I'm sorry.
-0xCF7B2BD5=~z~Clay, brother, I'm sorry.
+0xCF7B2BD5=~z~Clay，兄弟，对不起。
 
 ;0xD171346C=~z~I appreciate this assistance.
-0xD171346C=~z~I appreciate this assistance.
+0xD171346C=~z~多谢你们来支援。
 
 ;0xD3175D00=010
 0xD3175D00=010
@@ -588,118 +588,118 @@
 0xD34B2E47=E1BE_A_XA
 
 ;0xD4FF9D61=~z~Ummm, remind me why I got outta bed, will you?
-0xD4FF9D61=~z~Ummm, remind me why I got outta bed, will you?
+0xD4FF9D61=~z~呃，给我一个出门支援你的理由，好吗？
 
 ;0xD70F0D3B=~z~Taa da.
-0xD70F0D3B=~z~Taa da.
+0xD70F0D3B=~z~看看吧。
 
 ;0xD7D143D2=E1BE_A_DA
 0xD7D143D2=E1BE_A_DA
 
 ;0xDB5D4844=~z~OK, enough of this tire kicking...
-0xDB5D4844=~z~OK, enough of this tire kicking...
+0xDB5D4844=~z~好了，差不多到点了...
 
 ;0xDC143C67=~z~Jesus, Johnny. The van.
-0xDC143C67=~z~Jesus, Johnny. The van.
+0xDC143C67=~z~天哪，Johnny，别碰车子。
 
 ;0xDC3105DE=~z~Terrence, you never cease to amaze.
-0xDC3105DE=~z~Terrence, you never cease to amaze.
+0xDC3105DE=~z~Terrence，你总是让人惊喜。
 
 ;0xDD73C720=~z~Fucking doctors ain't gonna stop me smoking...
-0xDD73C720=~z~Fucking doctors ain't gonna stop me smoking...
+0xDD73C720=~z~医生别他妈想拦着我抽烟...
 
 ;0xDF9E5607=~z~Brother. I need some help right fucking now.
-0xDF9E5607=~z~Brother. I need some help right fucking now.
+0xDF9E5607=~z~好兄弟，老子现在急需支援。
 
 ;0xDFBDB2DD=~z~So... um.... What the fuck?
-0xDFBDB2DD=~z~So... um.... What the fuck?
+0xDFBDB2DD=~z~那...呃...搞毛啊？
 
 ;0xE03A3FC2=~z~Where are you, man? I'm in a whole world of shit.
-0xE03A3FC2=~z~Where are you, man? I'm in a whole world of shit.
+0xE03A3FC2=~z~你在哪呢，哥们？我现在有大麻烦。
 
 ;0xE2241916=~z~I can lone wolf it from here. I'll see you soon.
-0xE2241916=~z~I can lone wolf it from here. I'll see you soon.
+0xE2241916=~z~我自己应付得了。再见了。
 
 ;0xE6A58E84=E1BE_A_TA
 0xE6A58E84=E1BE_A_TA
 
 ;0xE76FADF8=~z~Check her out.
-0xE76FADF8=~z~Check her out.
+0xE76FADF8=~z~看看吧。
 
 ;0xE838EE99=E1BE_A_IA
 0xE838EE99=E1BE_A_IA
 
 ;0xE85828D2=~z~Shit, you're strapped. I can't help you man.
-0xE85828D2=~z~Shit, you're strapped. I can't help you man.
+0xE85828D2=~z~妈的，你没钱，我很难帮你啊。
 
 ;0xE97B4658=~z~I don't keeping stationary, man.
-0xE97B4658=~z~I don't keeping stationary, man.
+0xE97B4658=~z~我不想傻愣着，哥们。
 
 ;0xE99CA0B5=~z~Brothers for life, Terry.
-0xE99CA0B5=~z~Brothers for life, Terry.
+0xE99CA0B5=~z~生死兄弟情，Terry。
 
 ;0xEA7A3AE1=~z~Much appreciated, Clayton.
-0xEA7A3AE1=~z~Much appreciated, Clayton.
+0xEA7A3AE1=~z~多谢了，Clayton。
 
 ;0xED7187AC=100
 0xED7187AC=100
 
 ;0xEDC5ED15=~z~How about this?
-0xEDC5ED15=~z~How about this?
+0xEDC5ED15=~z~这样如何？
 
 ;0xEE432C92=012
 0xEE432C92=012
 
 ;0xEF8CEB52=~z~Shit, I love a smoke.
-0xEF8CEB52=~z~Shit, I love a smoke.
+0xEF8CEB52=~z~妈的，我太爱抽烟了。
 
 ;0xF007C5FC=~z~You're doing a good job, Road Captain.
-0xF007C5FC=~z~You're doing a good job, Road Captain.
+0xF007C5FC=~z~干得不错，行车长。
 
 ;0xF0186D0F=~z~Clay, dude, shit.
-0xF0186D0F=~z~Clay, dude, shit.
+0xF0186D0F=~z~Clay，老哥。妈的。
 
 ;0xF0D3B243=090
 0xF0D3B243=090
 
 ;0xF11A1F8D=~z~Well... Well... Well.
-0xF11A1F8D=~z~Well... Well... Well.
+0xF11A1F8D=~z~好了...好了...好了。
 
 ;0xF13ED57F=E1BE_A_NA
 0xF13ED57F=E1BE_A_NA
 
 ;0xF1FEA40A=~z~Okay, dude, we'll keep steady right here.
-0xF1FEA40A=~z~Okay, dude, we'll keep steady right here.
+0xF1FEA40A=~z~好的，老哥。咱们就守住这里。
 
 ;0xF252BAC4=092
 0xF252BAC4=092
 
 ;0xF39AC64E=~z~Here she is.
-0xF39AC64E=~z~Here she is.
+0xF39AC64E=~z~都在这呢。
 
 ;0xF4ADB133=210
 0xF4ADB133=210
 
 ;0xF4BEE7AA=~z~Terry, man. Poor fucker's fallen.
-0xF4BEE7AA=~z~Terry, man. Poor fucker's fallen.
+0xF4BEE7AA=~z~Terry啊。这衰仔完了。
 
 ;0xF7AD00E3=~z~Just some brothers having a good time.
-0xF7AD00E3=~z~Just some brothers having a good time.
+0xF7AD00E3=~z~几个兄弟一起嗨就完了。
 
 ;0xF831CF62=020
 0xF831CF62=020
 
 ;0xF8A0C60F=~z~I think I got all the help I needed. See you.
-0xF8A0C60F=~z~I think I got all the help I needed. See you.
+0xF8A0C60F=~z~确实不用麻烦你们了。再见。
 
 ;0xF98C6ACE=~z~Sweet.
-0xF98C6ACE=~z~Sweet.
+0xF98C6ACE=~z~真不错。
 
 ;0xF9F2B63E=E1BE_A_SA
 0xF9F2B63E=E1BE_A_SA
 
 ;0xFD995354=~z~I got overheads, man.
-0xFD995354=~z~I got overheads, man.
+0xFD995354=~z~我还要吃饭呢，哥们。
 
 ;0xFDC86FEC=190
 0xFDC86FEC=190
