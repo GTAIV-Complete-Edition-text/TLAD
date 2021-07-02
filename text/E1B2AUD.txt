@@ -186,7 +186,7 @@
 0x50F5B2B7=~z~明智的Johnny K。来Grummer路找我们，兄弟。
 
 ;0x574BF52F=~z~you think it's okay to gatecrash my party, Deadbeat motherfucker.
-0x574BF52F=~z~休的你们敢来砸老子场子了，崽种死妈天使。
+0x574BF52F=~z~休得你们敢来砸老子场子了，崽种死妈天使。
 
 ;0x581D8FE4=~z~- What the fuck do they want? ~n~- Let's fuck 'em up.
 0x581D8FE4=~z~－他们是想怎样？~n~－干他就完事了。
@@ -558,10 +558,10 @@
 0xF40474CB=E1B2_CA
 
 ;0xF47679BA=~z~Johnny, man, you let those Deadbeats tell their buddies a war's on?
-0xF47679BA=~z~Johnny，伙计，你让那些死妈天使们告诉他们的同伴要开战了？
+0xF47679BA=~z~Johnny，伙计，你让那些死妈天使告诉他们的同伴要开战了？
 
 ;0xF5BCD751=~z~Shit. Jason. You motherfuckers!
-0xF5BCD751=~z~我去，Jason。你他妈可别挂了！
+0xF5BCD751=~z~我去，Jason。这群畜生！
 
 ;0xF63AF569=~z~That's beautiful.
 0xF63AF569=~z~太美好了。

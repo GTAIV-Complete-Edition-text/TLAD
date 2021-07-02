@@ -90,7 +90,7 @@
 0x0EE02F1C=~z~欢迎回归，Bill。我们跟着你走。
 
 ;0x0F32F203=~z~You're out of line, Johnny. You're out of line.
-0x0F32F203=~z~你骑太快了，Johnny。骑得太快了。
+0x0F32F203=~z~你不行啊，Johnny。不太行啊。
 
 ;0x10067166=E1B1_A_MA
 0x10067166=E1B1_A_MA
@@ -366,7 +366,7 @@
 0x384A3299=~z~我们工作顺利，兄弟，但现在该学聪明点了。
 
 ;0x385FB875=~z~Maybe. Let's just say I'm not gonna share today's events with Jackie and the kid.
-0x385FB875=~z~也许吧。反正今天的事我是不打算跟Jackie和孩子说了。
+0x385FB875=~z~也许吧。反正今天的事我是不打算告诉Jackie和孩子了。
 
 ;0x38E19A2F=~z~Watch the fucking bike, asshole.
 0x38E19A2F=~z~别打老子的车，混蛋。
@@ -639,7 +639,7 @@
 0x588C498B=~z~我对他们的脸没兴趣。只有你才会对他们有感情，J，我没有。
 
 ;0x591D4F84=~z~To sell it for crack right, eh?
-0x591D4F84=~z~卖了换钱买毒品？对吧？
+0x591D4F84=~z~换钱买毒品？对吧？
 
 ;0x596F779C=~z~Forgotten how to ride while I was in rehab, did you?
 0x596F779C=~z~我进戒毒所以后你就不会骑车了是吧？
@@ -1257,7 +1257,7 @@
 0xA6EA5F03=E1B1_VN
 
 ;0xA7423F48=~z~I mean we, meaning all of us, would love some hole.
-0xA7423F48=~z~不是，我们，我们所有人，都想来点娘们。
+0xA7423F48=~z~不是。我们，我们所有人，都想来点娘们。
 
 ;0xA95B2BA1=SFX_OVERLAP_3570
 0xA95B2BA1=SFX_OVERLAP_3570

@@ -930,7 +930,7 @@
 0xBC6DA722=~z~是这样没错。对不起，这些榴弹不足以实现你的战争目的，Billy。再见。
 
 ;0xBE593616=~z~Shit. That's gotta hurt.
-0xBE593616=~z~妈的，威力很大啊。
+0xBE593616=~z~妈的，威力真大啊。
 
 ;0xBEDCB8A0=090
 0xBEDCB8A0=090

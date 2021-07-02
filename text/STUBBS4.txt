@@ -72,7 +72,7 @@
 0xC943D57D=离开监狱，甩掉条子。
 
 ;0xDB727BB0=~r~Clay's bike was wrecked.~s~
-0xDB727BB0=~r~Clay的摩托车坏了。~s~
+0xDB727BB0=~r~Clay的摩托坏了。~s~
 
 ;0xDBCEFA93=~r~Billy has been put on lockdown.~s~
 0xDBCEFA93=~r~Billy被关回去了。~s~

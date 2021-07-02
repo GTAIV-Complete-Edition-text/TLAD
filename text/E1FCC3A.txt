@@ -165,7 +165,7 @@
 0x25FFFEED=~z~不好意思，哥们。我现在来不了这个。
 
 ;0x26A6268E=~z~Brother. Why you so late. Let's hit this shit man.
-0x26A6268E=~z~兄弟，你咋那么迟啊。咱们开始吧，哥们。
+0x26A6268E=~z~兄弟，你咋那么迟啊。咱们出发吧，哥们。
 
 ;0x283293DF=100
 0x283293DF=100
@@ -465,7 +465,7 @@
 0x738B0D26=~z~妈的，比起在台球桌上打台球，我有的是更好的主意。
 
 ;0x748559E6=~z~Johnny K, my man. Let's hit this shit.
-0x748559E6=~z~Johnny K，好哥们，咱们开始吧。
+0x748559E6=~z~Johnny K，好哥们，咱们出发吧。
 
 ;0x74C53D14=E1FCC3_ACT_ARRIVE_STRIP_DRUNKA
 0x74C53D14=E1FCC3_ACT_ARRIVE_STRIP_DRUNKA
@@ -573,7 +573,7 @@
 0x8EFFA070=E1FCC3_ACT_DARTS_LEAVE_DRAWA
 
 ;0x8FFB10D1=~z~Johnny K! Lost MC, baby. Let's do this.
-0x8FFB10D1=~z~Johnny K！失落帮万岁，宝贝。咱们开始吧。
+0x8FFB10D1=~z~Johnny K！失落帮万岁，宝贝。咱们出发吧。
 
 ;0x904C8F51=100
 0x904C8F51=100

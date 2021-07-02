@@ -72,7 +72,7 @@
 0x1EFAFD3E=~z~我过来了。
 
 ;0x2507E7D4=~z~The elusive Johnny Klebitz. A rare fucking honor. Sure, I'm free. Come pick me up.
-0x2507E7D4=~z~是行踪诡秘的Johnny Klebitz啊。真他妈是稀客。可以的，我有空。来接我吧。
+0x2507E7D4=~z~是行踪诡秘的Johnny Klebitz啊。真他妈是稀客。可以的，我有空。来找我吧。
 
 ;0x26D37CAD=100
 0x26D37CAD=100
@@ -135,13 +135,13 @@
 0x5001AD3C=~z~现在忙疯了，Johnny。改天再说吧。
 
 ;0x51F379C1=~z~Do you want to see a show? We don't need tell the boys.
-0x51F379C1=~z~你想去看演出吗？咱别跟兄弟们说。
+0x51F379C1=~z~你想去看演出吗？别跟兄弟们说。
 
 ;0x52AB33A2=~z~Terry.
 0x52AB33A2=~z~Terry。
 
 ;0x534F30E0=~z~Air hockey? Sure. Why not? Look, can you pick me up in the next two hours?
-0x534F30E0=~z~桌上冰球？好啊，何不呢？听着，你能在两小时内来接我吗？
+0x534F30E0=~z~桌上冰球？好啊，何不呢？听着，你能在两小时内来找我吗？
 
 ;0x5376AB60=010
 0x5376AB60=010
@@ -159,7 +159,7 @@
 0x552B38C6=~z~Terry，我是Johnny。
 
 ;0x555A1071=~z~Is the sky fucking blue? Of course, man. Come pick me up.
-0x555A1071=~z~这他妈还用问？当然来啊，哥们。过来接我吧。
+0x555A1071=~z~这他妈还用问？当然来啊，哥们。过来找我吧。
 
 ;0x56A7032E=E1FCT_ACT_CALL_GANGWAR_YESA
 0x56A7032E=E1FCT_ACT_CALL_GANGWAR_YESA
@@ -168,7 +168,7 @@
 0x5792E8F8=~z~你说了算，哥们。以后我再找你。
 
 ;0x5799B8D0=~z~Show could mean anything coming from you but, fuck, yeah, I'm in. Come pick me up.
-0x5799B8D0=~z~你嘴里的演出我都摸不准意思。操，好吧，我来。过来接我吧。
+0x5799B8D0=~z~你嘴里的演出我都摸不准意思。操，好吧，我来。过来找我吧。
 
 ;0x59020B40=~z~Yeah, why not?
 0x59020B40=~z~好啊，何不呢？
@@ -228,7 +228,7 @@
 0x77EB83D4=~z~你想去吃顿饭吗？就算你是个瘦猴也得吃东西。
 
 ;0x77ECFA1B=~z~Yeah, why not? Nothing going on for the next couple of hours. Come pick me up.
-0x77ECFA1B=~z~好啊，何不呢？待会儿我也没啥事。来接我吧。
+0x77ECFA1B=~z~好啊，何不呢？待会儿我也没啥事。来找我吧。
 
 ;0x7A664A92=~z~I need some mindless entertainment of a non-sexual kind. You wanna go see a show?
 0x7A664A92=~z~我想找点与性无关的无脑乐子。你想去看演出吗？
@@ -285,7 +285,7 @@
 0x8EAB3F49=010
 
 ;0x8EFA9CAE=~z~You must be a glutton for punishment, man. Let's do it. Come pick me up.
-0x8EFA9CAE=~z~你就这么爱自讨苦吃吗，哥们。那来吧，过来接我。
+0x8EFA9CAE=~z~你就这么爱自讨苦吃吗，哥们。那来吧，过来找我。
 
 ;0x8FED92B1=E1FCT_ACT_CALL_POOL_YESA
 0x8FED92B1=E1FCT_ACT_CALL_POOL_YESA
@@ -294,7 +294,7 @@
 0x925730D3=~z~我是Terry。请留言，我会打回来的。
 
 ;0x9284AEA9=~z~Sure, it's about time I did something other than get wasted. Pick me up in the next two hours.
-0x9284AEA9=~z~好啊，我差不多也该干点扑街以外的事了。过两个小时来接我吧。
+0x9284AEA9=~z~好啊，我差不多也该干点扑街以外的事了。过两个小时来找我吧。
 
 ;0x940AE25A=~z~What are you doing? You wanna play darts?
 0x940AE25A=~z~在干啥呢？想玩飞镖吗？
@@ -303,7 +303,7 @@
 0x94C501C1=~z~在干啥呢？要不要一起去喝个痛快？
 
 ;0x9533FA37=~z~No, no, that's degrading to women...of course, man. Come pick me up.
-0x9533FA37=~z~不，不，那是对女人的侮辱...开玩笑，哥们。来接我吧。
+0x9533FA37=~z~不，不，那是对女人的侮辱...开玩笑，哥们。来找我吧。
 
 ;0x9A7AB062=100
 0x9A7AB062=100
@@ -327,10 +327,10 @@
 0x9D4B64C9=100
 
 ;0xA37945AB=~z~Yeah, I think I can free up a window in my schedule for an ass-kicking. Swing by and pick me up now.
-0xA37945AB=~z~好啊，我应该可以留时间出来嗨一下。现在过来接我吧。
+0xA37945AB=~z~好啊，我应该可以留时间出来嗨一下。现在过来找我吧。
 
 ;0xA4E09990=~z~All my plans have just been cancelled. Pick me up as soon as you can.
-0xA4E09990=~z~我把所有事情都推掉了。赶紧来接我吧。
+0xA4E09990=~z~我把所有事情都推掉了。赶紧来找我吧。
 
 ;0xA52CDE56=~z~I'm gonna grab some food. Do you wanna come?
 0xA52CDE56=~z~我要去吃点东西。你想来吗？
@@ -357,7 +357,7 @@
 0xAAFA20F5=100
 
 ;0xAAFEA77C=~z~Why not; I need something to line the stomach. Swing by and pick me up.
-0xAAFEA77C=~z~怎么不来，我要找点东西填填肚子。你过来接我吧。
+0xAAFEA77C=~z~怎么不来，我要找点东西填填肚子。你过来找我吧。
 
 ;0xAD1BB242=~z~I'm thinking of getting a few strong ones in me. Take the edge off. You wanna join me?
 0xAD1BB242=~z~我正想喝几杯烈酒，放松放松。你一起来吗？
@@ -366,7 +366,7 @@
 0xAD59128A=~z~你忙吗？想不想打台球？
 
 ;0xADF96592=~z~OK, but I'm not holding your hand. Pick me up in the next couple of hours.
-0xADF96592=~z~可以，但别想让我牵你的手。过两个小时来接我吧。
+0xADF96592=~z~可以，但别想让我牵你的手。过两个小时来找我吧。
 
 ;0xAEE8CB5D=~z~It's always a pleasure to wipe the smile off your face. Meet me as soon as you can.
 0xAEE8CB5D=~z~我很乐意让你露出一副死妈脸。赶紧过来找我。
@@ -417,13 +417,13 @@
 0xCE46EC18=E1FCT_ACT_CALL_AIRHOCK_YESA
 
 ;0xCED66F2B=~z~Sure thing, brother. I can't even remember the last time I ate. Come get me.
-0xCED66F2B=~z~可以的，兄弟。我都不记得上次吃饭是哪天了。来接我吧。
+0xCED66F2B=~z~可以的，兄弟。我都不记得上次吃饭是哪天了。来找我吧。
 
 ;0xD0E7DC13=~z~Listen, why don't we go for a game of darts?
 0xD0E7DC13=~z~听着，要不要一起去玩会儿飞镖？
 
 ;0xD157086D=~z~Hair of the dog is just what the doctor ordered. Come and get me.
-0xD157086D=~z~医生说了，以毒攻毒可以解酒。来接我吧。
+0xD157086D=~z~医生说了，以毒攻毒可以解酒。来找我吧。
 
 ;0xD1FCDBD1=~z~Why don't we go and play some pool somewhere?
 0xD1FCDBD1=~z~要么我们一起去打个台球吧？
@@ -450,7 +450,7 @@
 0xDBD4F1ED=~z~我觉得是时候再在飞镖上虐你一次了。你怎么说？
 
 ;0xDCB30AE0=~z~So long as there's red meat involved, yeah I'm in. Come get me.
-0xDCB30AE0=~z~只要是有红肉吃，我就来。过来接我吧。
+0xDCB30AE0=~z~只要是有红肉吃，我就来。过来找我吧。
 
 ;0xDE48B9C5=~z~OK, take it easy. You work on that right forearm of yours and we'll speak later.
 0xDE48B9C5=~z~好吧，淡定点。你接着练你的麒麟臂吧，有空再聊。
@@ -465,7 +465,7 @@
 0xE268AA41=~z~太好了。那你抓紧时间过来，其它我会安排的。
 
 ;0xE380ACC0=~z~What do you think?! Get over here and pick me up.
-0xE380ACC0=~z~你说呢？！赶紧过来接我吧。
+0xE380ACC0=~z~你说呢？！赶紧过来找我吧。
 
 ;0xE39134AD=~z~I could beat you on a pushbike, Klebitz. Get over here and I'll show you how it's done.
 0xE39134AD=~z~我踩单车都能赢得了你，Klebitz。过来我给你看看这是啥操作。

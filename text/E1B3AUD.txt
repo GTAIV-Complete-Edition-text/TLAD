@@ -207,7 +207,7 @@
 0x353B278B=090
 
 ;0x35FED8D0=~z~Johnny - look at this guy -
-0x35FED8D0=~z~Johnny，看看这家伙，
+0x35FED8D0=~z~Johnny，看看这家伙。
 
 ;0x3672D1D4=~z~say, Dave, are you a bi-sexual?
 0x3672D1D4=~z~我说，Dave，你该不会是个双性恋吧？

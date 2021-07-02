@@ -9,7 +9,7 @@
 0x0EB7C2C3=~r~Jason死了。
 
 ;0x175A1653=Johnny will need the bike to ride in convoy with the other Lost bikers.
-0x175A1653=只有骑在摩托上，Johnny才能在失落帮车队中骑行。
+0x175A1653=只有骑在摩托上， Johnny才能在失落帮车队中骑行。
 
 ;0x1C4DE7B8=~s~Use ~PAD_DPAD_LEFTRIGHT~ to cycle between radio stations when in a vehicle.
 0x1C4DE7B8=~s~用~PAD_DPAD_LEFTRIGHT~可在车上切换电台。
@@ -42,7 +42,7 @@
 0x3FEA5BC0=下车。
 
 ;0x4A137BC5=This is Johnny's Hexer. It's the only one of its kind in Liberty City.~n~A modern classic chopper with a 2032cc twin cam engine and 6 speed transmission with a final chain drive.
-0x4A137BC5=这是Johnny的Hexer，在自由城独一无二。~n~它是一台现代复古摩托，搭载2032cc的双凸轮发动机与6速变速箱，采用链条传动。
+0x4A137BC5=这是 Johnny 的 Hexer，在自由城独一无二。~n~它是一台现代复古摩托，搭载 2032cc 的双凸轮发动机与六速变速箱，采用链条传动。
 
 ;0x50C83B56=You can arm wrestle with your brothers.
 0x50C83B56=你可以和兄弟们掰手腕。
@@ -78,13 +78,13 @@
 0x84A8AFFF=回到你的~b~摩托~s~上。
 
 ;0x869D3820=Enter and stay on the badge to hold the gang formation. This will increase your health and repair your bike.
-0x869D3820=在会徽内骑行以保持队形，这将增加你的生命值和护甲，并修复你的摩托。
+0x869D3820=在会徽内骑行以保持队形，这将增加你的生命值和护甲，修复你的摩托。
 
 ;0x8B27256D=When leading a group of bikers, stay close to them to hear them talk.
 0x8B27256D=带领车队时，接近队友才能听见他们的对话。
 
 ;0x95B1453F=Terry will deliver guns to your location.
-0x95B1453F=Terry会将武器送至你的所在地。
+0x95B1453F=Terry 会将武器送至你的所在地。
 
 ;0xA288E155=Press ~INPUT_ENTER~ to enter or exit a vehicle.
 0xA288E155=按~INPUT_ENTER~上下车。
@@ -129,7 +129,7 @@
 0xCFE0A0E6=带领车队时，按住~INPUT_VEH_CIN_CAM~切换至车队视角。
 
 ;0xD0C3BB4B=If you lose your ride, a phone call to Clay will get you an alternative bike.
-0xD0C3BB4B=若你失去了你的座驾，给Clay打个电话就能得到备用摩托。
+0xD0C3BB4B=若你失去了你的座驾，给 Clay 打个电话就能得到备用摩托。
 
 ;0xD6944C5D=~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake. ~n~Press ~PAD_A~ for alternative handbrake (Standard controls).
 0xD6944C5D=~s~按~INPUT_VEH_HANDBRAKE~使用手刹。~n~按~PAD_A~也是手刹(标准键位下)。
@@ -147,7 +147,7 @@
 0xDD64F15D=~r~失落帮有成员死了。
 
 ;0xDFB25928=And pay your respects to fallen comrades.
-0xDFB25928=或向牺牲的战友表示敬意。
+0xDFB25928=亦可悼念牺牲的战友。
 
 ;0xEC687294=Sleeping on the bed will save the game and advance time by six hours.
 0xEC687294=上床睡觉会保存游戏进度，并将时间推进6个小时。

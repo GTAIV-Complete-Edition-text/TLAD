@@ -12,7 +12,7 @@
 0xA4260F7F=~r~律师逃走了。~s~
 
 ;0xB22EAB90=Go and speak with the ~r~lawyer.~s~
-0xB22EAB90=与~r~律师~s~进行交谈。
+0xB22EAB90=去和~r~律师~s~聊聊。
 
 ;0xBE68C404=~r~The lawyer's car was wrecked.~s~
 0xBE68C404=~r~律师的车被毁了。~s~
