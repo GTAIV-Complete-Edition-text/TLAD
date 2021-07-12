@@ -1893,7 +1893,7 @@
 0x8AE97E31=再见黑警
 
 ;0x19191A92=I Want One Of Those
-0x19191A92=I Want One Of Those
+0x19191A92=给我也整一个
 
 ;0x451C7AED=Hit The Pipe
 0x451C7AED=这个劲儿大

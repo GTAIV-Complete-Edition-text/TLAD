@@ -3,7 +3,7 @@
 0x187F2044=干掉~r~Brian。
 
 ;0x19148E94=~r~Your bike was wrecked.
-0x19148E94=~r~你的摩托车坏了。
+0x19148E94=~r~你的摩托坏了。
 
 ;0x2BFFB155=Brian is protected in his safehouse.
 0x2BFFB155=Brian藏在他的安全屋里。

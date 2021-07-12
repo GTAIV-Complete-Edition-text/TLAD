@@ -465,7 +465,7 @@
 0xD9EE4348=~z~咱们看奶子去。
 
 ;0xDA7A316D=~z~Alright, brother. Me and the boys'll join your - your lonely ass for a show. See you soon.
-0xDA7A316D=~z~好吧，兄弟。我跟兄弟们来陪你了，陪你这寂寞的傻逼去看演出。一会见。
+0xDA7A316D=~z~好的，兄弟。我跟兄弟们来陪你了，陪你这寂寞的傻逼去看演出。一会见。
 
 ;0xDECE8137=E1FCC_ACT_CALL_LIKELOWA
 0xDECE8137=E1FCC_ACT_CALL_LIKELOWA

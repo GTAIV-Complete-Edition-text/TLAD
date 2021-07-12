@@ -594,7 +594,7 @@
 0xB5F74303=~z~肚脐眼穿环又不性感。
 
 ;0xB6263B65=~z~I didn't have the kids with me, but I was in that mode,
-0xB6263B65=~z~没有带娃一起，但还是带娃模式，
+0xB6263B65=~z~没有带娃一起，但还是带娃模式。
 
 ;0xB67EC3A6=~z~And you'll just say things that have never been said in human history.
 0xB67EC3A6=~z~你就会说一些正常人绝对不会说的话。
@@ -618,7 +618,7 @@
 0xBF677EDD=~z~Split Sides喜剧俱乐部，欢迎Frankie Boyle！
 
 ;0xC0C75663=~z~It was the only time he ever told me he loved me.
-0xC0C75663=~z~那次是他唯一一次说他爱我。
+0xC0C75663=~z~那是他唯一一次说他爱我。
 
 ;0xC2C77958=~z~I suppose, maybe someone without a dog?
 0xC2C77958=~z~没养狗的人捡屎？
