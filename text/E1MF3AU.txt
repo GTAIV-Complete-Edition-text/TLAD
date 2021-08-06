@@ -373,7 +373,7 @@
 0x5AF1B619=891891
 
 ;0x5B47AE67=~z~What a fantastic idea, James. I'll see you at yours.
-0x5B47AE67=~z~这主意好啊，James。我们你家见。
+0x5B47AE67=~z~这主意好啊，James。我们你那儿见。
 
 ;0x5B8547FE=~z~if you aren't gonna come to the house and sit down with your brothers.
 0x5B8547FE=~z~我们就谈不成事，更没法成什么事！

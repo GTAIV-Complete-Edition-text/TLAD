@@ -636,7 +636,7 @@
 0x60C89360=~z~房顶上的家伙死了。没事了。
 
 ;0x6158A6BE=~z~This gang is fucked all to hell right now, but I'll love you brothers until I die.
-0x6158A6BE=~z~虽然眼下帮派已经一团糟了，但我会爱你们几个兄弟一辈子的。
+0x6158A6BE=~z~虽然现在帮派彻底完了，但我会爱你们几个兄弟一辈子的。
 
 ;0x61A24FF5=~z~You want a cigar?
 0x61A24FF5=~z~抽雪茄吗？

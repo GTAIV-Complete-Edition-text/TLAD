@@ -90,7 +90,7 @@
 0x2BA93E04=100
 
 ;0x2BCFAC6C=~z~You're starting to cramp my style. Thanks for the help.
-0x2BCFAC6C=~z~感谢你们帮忙，但是你们影响我发挥了。
+0x2BCFAC6C=~z~感谢帮忙，但你们影响我发挥了。
 
 ;0x2F51DCCF=~z~Oh, man. Terry!
 0x2F51DCCF=~z~噢，天啊。Terry！
@@ -249,7 +249,7 @@
 0x609D8AE0=~z~你在这等会，好吗？
 
 ;0x644D9D5F=~z~Thank you for your assistance. I can take it from here.
-0x644D9D5F=~z~多谢兄弟们帮忙。我自己能行。
+0x644D9D5F=~z~多谢兄弟们帮忙。接下来我自己能行。
 
 ;0x645FC04F=~z~This will do nicely.
 0x645FC04F=~z~这家伙就不错。

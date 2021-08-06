@@ -456,7 +456,7 @@
 0xA9E0601C=E1J5_KB
 
 ;0xAD9F974B=~z~So long, you back-stabbing Judas prick.
-0xAD9F974B=~z~再见了，你这个暗箭伤人的叛徒。
+0xAD9F974B=~z~再见了，你这两面三刀的叛徒。
 
 ;0xAF53DB3B=~z~Billy was always good to you and you ratted him out.
 0xAF53DB3B=~z~Billy待你不薄，而你却出卖了他。

@@ -63,7 +63,7 @@
 0xBE26B9D2=~r~Isaac死了。
 
 ;0xC2D5432F=~r~Niko has been injured.
-0xC2D5432F=~r~Niko受伤了。
+0xC2D5432F=~r~你攻击了Niko。
 
 ;0xC38AF64E=~s~Lose Isaac's crew.
 0xC38AF64E=~s~甩掉Isaac的人。

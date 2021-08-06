@@ -828,7 +828,7 @@
 0xC352F237=E1J1_EA
 
 ;0xC383493D=~z~Man, we're only meant to stand up on the Chapter leader's say so, but who gives a fuck? We'll be there.
-0xC383493D=~z~兄弟，原则上只有分会会长才能这么做，不过去他妈的吧。我们马上就到。
+0xC383493D=~z~兄弟，原则上只有会长才能叫我们支援，不过去他妈的。我们马上就到。
 
 ;0xC3E185EE=~z~Come to the House if you want a real fight, pussies!
 0xC3E185EE=~z~有种来我们的地盘干架啊，杂碎们！

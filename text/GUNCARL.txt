@@ -204,7 +204,7 @@
 0xCA35F208=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取燃烧弹。
 
 ;0xCB53834D=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~8 x Assault Shotgun rounds
-0xCB53834D=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~8 x 突击步枪子弹
+0xCB53834D=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~8 x 突击霰弹枪子弹
 
 ;0xCC690E3E=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~Not enough cash.
 0xCC690E3E=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~r~现金不足。

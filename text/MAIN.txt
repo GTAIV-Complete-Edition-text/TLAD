@@ -495,7 +495,7 @@
 0xA6C0E2C7=你想和谁玩飞镖？~n~按~PAD_A~和Jim玩。~n~按~PAD_B~和Terry玩。~n~按~INPUT_PICKUP~退出。
 
 ;0x4ED2289F=Who do you want to play darts with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
-0x4ED2289F=你想和谁玩飞镖？~n~按~INPUT_FRONTEND_MINIGAME_1~和Jim玩。~n~按~INPUT_FRONTEND_MINIGAME_2~和Terry玩。~n~Press ~INPUT_PICKUP~ to exit.
+0x4ED2289F=你想和谁玩飞镖？~n~按~INPUT_FRONTEND_MINIGAME_1~和Jim玩。~n~按~INPUT_FRONTEND_MINIGAME_2~和Terry玩。~n~按~INPUT_PICKUP~退出。
 
 ;0x75650010=Who do you want to play darts with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
 0x75650010=你想和谁玩飞镖？~n~按~PAD_A~和Jim玩。~n~按~PAD_B~和Clay玩。~n~按~INPUT_PICKUP~退出。
@@ -753,16 +753,16 @@
 0xAD367EBB=此生二轮
 
 ;0xB97DD21B=You have ~1~ second to return to a bike.
-0xB97DD21B=在 ~1~ 秒内回到摩托上。
+0xB97DD21B=在~1~秒内回到摩托上。
 
 ;0xCCD9EE2F=You have ~1~ second to return to your ~b~bike.
-0xCCD9EE2F=在 ~1~ 秒内回到你的摩托上。
+0xCCD9EE2F=在~1~秒内回到你的~b~摩托~s~上。
 
 ;0xAD2797A5=You have ~1~ seconds to return to a bike.
-0xAD2797A5=在 ~1~ 秒内回到摩托上。
+0xAD2797A5=在~1~秒内回到摩托上。
 
 ;0xEDB13B26=You have ~1~ seconds to return to your ~b~bike.
-0xEDB13B26=在 ~1~ 秒内回到你的摩托上。
+0xEDB13B26=在~1~秒内回到你的~b~摩托~s~上。
 
 ;0x5331FFC2=THIS LABEL NEEDS TO BE HERE !!!
 0x5331FFC2=THIS LABEL NEEDS TO BE HERE !!!
@@ -1860,7 +1860,7 @@
 0xFAD1336A=现在你可以呼叫 Jim，让他在会所的掰手腕室为你准备一把满载弹药的武器，也可以找 Clay 给你准备一辆新车，亦可向 Terry 低价购买武器以及弹药。
 
 ;0xAD0EBC11=The autosave pause menu option is used by The Lost and Damned. It is currently switched off. Switch it on again to re-enable autosaving for The Lost and Damned.
-0xAD0EBC11=暂停菜单种的自动存档选项由失落与诅咒使用。目前已被关闭。开启后可以启用失落与诅咒的自动存档功能。
+0xAD0EBC11=暂停菜单中的自动存档选项由失落与诅咒使用。目前已被关闭。开启后可以启用失落与诅咒的自动存档功能。
 
 ;0x47B4959B=You can't race if you don't have a bike.
 0x47B4959B=你没有摩托，无法进行赛车。
