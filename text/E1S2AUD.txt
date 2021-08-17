@@ -786,7 +786,7 @@
 0xF6FA25BB=E1S2_MB
 
 ;0xF7CA20F6=~z~Those coveralls chafing you? Well you must be used to wearing Perseus suits and shit.
-0xF7CA20F6=~z~这身囚服是不是硌得难受？你们肯定只穿得惯彭风次品的垃圾西装。
+0xF7CA20F6=~z~这身囚服是不是硌得难受？你们肯定只穿得惯神之子的垃圾西装。
 
 ;0xF7FD2854=SFX_PAUSE_120
 0xF7FD2854=SFX_PAUSE_120
