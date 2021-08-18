@@ -9,10 +9,10 @@
 0x457EAB6E=夜店男孩死于非命
 
 ;0x46F69B0A=Mysterious murder of good-time guy
-0x46F69B0A=针对夜店男孩的神秘谋杀
+0x46F69B0A=针对夜店男孩的离奇谋杀
 
 ;0x48328A92=Sweatshops in LC?
-0x48328A92=自由城竟然有血汗工厂?
+0x48328A92=自由城竟有血汗工厂？
 
 ;0x532A61E2=Evan Moss, 24, was found murdered in Broker. When, at the age of sixteen, he won the Teen Iron Weightlifting Competition in Arizona, no one could have predicted this violent end. Tragically, his life took a turn for the worse. After positive drug tests, the loss of his weight supplement sponsorship deal, and alleged involvement in a male escort business he hit rock bottom.
 0x532A61E2=24岁的Evan Moss死于一场在Broker发生的谋杀。他曾在16岁时赢得了亚利桑那州青少年举重比赛的冠军，在那个时候，没有人能预料到他会有这样的结局。可悲的是，他的生活每况愈下。药检阳性、增重药不再找他代言、被怀疑涉嫌男妓生意，最终他陷入了人生低谷。
@@ -21,7 +21,7 @@
 0x5A65D778=法庭上的甜点
 
 ;0x5BE13656=A Los Santos man, who was prescribed medical marijuana for his glaucoma, has filed a lawsuit against his doctor and Cluckin Bell after ballooning from 180 to 350 pounds in less than six months. Phil Rosenburg, who can now back-roll a perfect blunt with just one hand, claims that he was not adequately informed of the side effects of his new medication. Rosenburg's attorney told Weazel News that his client now regularly devours a stuffed Pollo Toto Frito, a jar of mayonnaise, three pizzas and a plate of chocolate brownies covered in ranch sauce. He's lost his wallet seventeen times in the last month, developed an obsession with iconic bands of the 1970s and has started expressing increasingly left-wing political views. This is a landmark case and, if Rosenburg is awarded damages, predatory law firms are gearing up to get a class action suit against God, who created weed in the first place.
-0x5BE13656=洛圣都一男子在服用了医生为治疗他的青光眼所开的医用大麻后，在不到六个月时间内体重从180磅激增到了350磅。在经历了这一切后，他对他的医生和铛铛钟正式提起诉讼。这位名叫Phil Rosenburg的男子现在只用一只手就可以轻松地卷好完美的大麻烟。他声称医生在开药的时候并没有完全告诉他这次新换的药方的副作用。Rosenburg的律师跟Weazel新闻透露说，他的这位患者现在经常狼吞虎咽地吃掉填酱的意式烤面包卷、一整罐蛋黄酱、三个披萨还有一碟子淋满了田园沙拉酱的巧克力布朗尼。仅仅是在过去的1个月里，这位患者就丢了17次钱包，迷上了上世纪70年代的偶像乐队的同时政治立场越发左倾。这一诉讼在法律史上具有里程碑的意义。若是Rosenburg起诉成功得到损失费，虎视眈眈的众多律师事务所会向上帝提起集体诉讼，因为大麻是由上帝创造出来的。
+0x5BE13656=洛圣都一男子在服用了医生为治疗他的青光眼所开的医用大麻后，在不到六个月时间内体重从180磅激增到了350磅。在经历了这一切后，他对他的医生和铛铛钟正式提起诉讼。这位名叫Phil Rosenburg的男子现在只用一只手就可以轻松地卷好完美的大麻烟。他声称医生在开药时并未向其阐明新药方的副作用。Rosenburg的律师跟Weazel新闻透露说，他的这位患者现在经常狼吞虎咽地吃掉填酱的意式烤面包卷、一整罐蛋黄酱、三个披萨还有一碟子淋满了田园沙拉酱的巧克力布朗尼。仅仅是在过去的1个月里，这位患者就丢了17次钱包，在迷上了上世纪70年代的偶像乐队的同时，他的政治立场也越发左倾。这一诉讼在法律史上具有里程碑的意义。若是Rosenburg起诉成功得到损失费，虎视眈眈的众多律师事务所会向上帝提起集体诉讼，因为大麻是由上帝创造出来的。
 
 ;0x77FE78D1=Staff Writer
 0x77FE78D1=特约记者
@@ -33,7 +33,7 @@
 0x8DA006A1=Tony J Smith
 
 ;0xC62845F1=Closing time for one clubber
-0xC62845F1=某夜店红人的歇业时间
+0xC62845F1=夜店红人的歇业时间
 
 ;0xFE0C01BA=Mary Jane made me fat!
 0xFE0C01BA=Mary Jane让我胖得像头肥猪！
