@@ -891,7 +891,7 @@
 0x846E53E5=E1S4_B_PA
 
 ;0x84A8092F=~z~Yeah, we did. But it's over.
-0x84A8092F=~z~是好过 。但都过去了。
+0x84A8092F=~z~是好过。但都过去了。
 
 ;0x84ABD69F=~z~Oh, man. I'm thinking you're thinking we don't have a choice. We'll come meet you.
 0x84ABD69F=~z~哦哥们，我就知道你觉得咱们没得选。咱们见个面吧。

@@ -339,7 +339,7 @@
 0x60A9DDFA=090
 
 ;0x62E6BDE5=~z~Just make sure my man Nicky walks away with half the bread, buddy. Ciao.
-0x62E6BDE5=~z~记得把一半的钱交给我的人Nicky ，伙计。再见。
+0x62E6BDE5=~z~记得把一半的钱交给我的人Nicky，伙计。再见。
 
 ;0x62EF939A=SFX_PAUSE_090
 0x62EF939A=SFX_PAUSE_090
