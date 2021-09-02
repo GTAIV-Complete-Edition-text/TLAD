@@ -102,7 +102,7 @@
 0xBBD17E69=~r~失落帮有摩托被毁了。
 
 ;0xBC99006F=When riding in a convoy, hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the leader.
-0xBC99006F=车队骑行时，按住~INPUT_VEH_CIN_CAM~将镜头对准领队。
+0xBC99006F=车队骑行时，按~INPUT_VEH_CIN_CAM~将镜头对准领队。
 
 ;0xC16DE043=Follow ~b~Billy.
 0xC16DE043=跟随~b~Billy。
