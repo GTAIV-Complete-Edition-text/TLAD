@@ -2082,7 +2082,7 @@
 0xA7F97A3D=会所娱乐
 
 ;0x30A67723=Heli Ride
-0x30A67723=搭直升机
+0x30A67723=直升机兜风
 
 ;0xFEEF93B6=HiLo Cards
 0xFEEF93B6=猜大小
