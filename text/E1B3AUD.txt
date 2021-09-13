@@ -625,7 +625,7 @@
 0x9177AF29=SFX_PAUSE_150
 
 ;0x91D6A800=~z~Now Jason was, he was just a kid,
-0x91D6A800=~z~Jason他只是，只是个孩子，
+0x91D6A800=~z~Jason他只是，只是个孩子。
 
 ;0x9210890A=~z~would you fuck off for a second - I got to talk to Billy.
 0x9210890A=~z~你能给我消失一会吗，我得和Billy谈谈。
@@ -850,7 +850,7 @@
 0xC7A7BB23=~z~他们怕死你了，Billy。
 
 ;0xC7D9808A=~z~Let's take some scalps, boys.
-0xC7D9808A=~z~开始打猎吧，孩子们。
+0xC7D9808A=~z~狩猎开始了，孩子们。
 
 ;0xC87403C6=SFX_PAUSE_090
 0xC87403C6=SFX_PAUSE_090

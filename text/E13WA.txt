@@ -300,7 +300,7 @@
 0x9ABD7276=~z~太对了。
 
 ;0x9C2FC728=~z~What bullshit are you getting us into next Johnny?
-0x9C2FC728=~z~你还想带我们搞出什么花样，Johnny?
+0x9C2FC728=~z~你还想带我们搞出什么花样，Johnny？
 
 ;0x9D207CAD=120090210090120090010090100090210090020
 0x9D207CAD=120090210090120090010090100090210090020
@@ -438,7 +438,7 @@
 0xD9DC5652=~z~是海军陆战队。
 
 ;0xDB7DB478=~z~Yeah. That one about the fat white trash woman who lived in a trailer.
-0xDB7DB478=~z~对。就像那部住拖车的白皮女胖子。
+0xDB7DB478=~z~对。就像那部住拖车的白皮胖娘们。
 
 ;0xDC3F5A8C=E13W_AC
 0xDC3F5A8C=E13W_AC

@@ -15,7 +15,7 @@
 0x3CF164C0=~r~Malc的摩托被毁了。
 
 ;0x43F24207=Pick up ~b~Malc.
-0x43F24207=接上 ~b~Malc。
+0x43F24207=接上~b~Malc。
 
 ;0x4410CEC6=~r~Roman Bellic is dead.
 0x4410CEC6=~r~Roman Bellic死了。
@@ -66,7 +66,7 @@
 0xBE5ACDD9=留意Roman Bellic。
 
 ;0xC6D91E00=Wait for Roman Bellic to arrive.
-0xC6D91E00=等待Roman Bellic 到场。
+0xC6D91E00=等待Roman Bellic到场。
 
 ;0xD51FBA8D=Go to ~b~Malc~s~ and wait for Roman Bellic to arrive.
 0xD51FBA8D=去找~b~Malc，~s~等待Roman Bellic到场。

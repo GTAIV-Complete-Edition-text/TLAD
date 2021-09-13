@@ -168,7 +168,7 @@
 0x233BA3C2=100090010090100090010090100090100090010090100
 
 ;0x23EB62F8=~z~That Ashley, sure. I just want her to be okay so I ain't leaving her to die, you know.
-0x23EB62F8=~z~是那个Ashley，没错。我只是不想见死不救，让她能留着小命而已。
+0x23EB62F8=~z~是那个Ashley，没错。我只是不想见死不救，让她能保住小命而已。
 
 ;0x2432C90E=SFX_PAUSE_320
 0x2432C90E=SFX_PAUSE_320
@@ -534,7 +534,7 @@
 0x8C7338F8=SFX_PAUSE_500
 
 ;0x8CD08D76=~z~You're a good man, Johnny. Things should have worked out better for ya.
-0x8CD08D76=~z~你是个好人，Johnn。你的日子不该是现在这样的。
+0x8CD08D76=~z~你是个好人，Johnny。你的日子不该是现在这样的。
 
 ;0x8CD46C1A=100090010090100090010090100090010090010090100090010
 0x8CD46C1A=100090010090100090010090100090010090010090100090010

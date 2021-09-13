@@ -273,7 +273,7 @@
 0xA246ACAF=500
 
 ;0xA2AD3F08=~z~Yeah. Explosives.
-0xA2AD3F08=~z~是的。是炸弹。
+0xA2AD3F08=~z~是的，是炸弹。
 
 ;0xA3A395D1=~z~I'll give you mature shit, Malc.
 0xA3A395D1=~z~那你还不听老人言，Malc。

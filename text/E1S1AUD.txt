@@ -456,7 +456,7 @@
 0xEE268C26=~z~谢谢。
 
 ;0xEF417788=~z~Make it spectacular.
-0xEF417788=~z~来场盛大送行，
+0xEF417788=~z~来场盛大送行。
 
 ;0xF1AA9343=~z~Sadly, Stubbs, I'm not going to be able to disappoint you. Your uncle is no longer with us.
 0xF1AA9343=~z~很遗憾，Stubss，没能让你失望。你叔叔与世长辞了。

@@ -123,7 +123,7 @@
 0x26A171A0=~z~现在里面有坏人，先生。请勿靠近。
 
 ;0x27EC410E=~z~Oh, I do like to be beside the sea.
-0x27EC410E=~z~哦，我喜欢在海边，
+0x27EC410E=~z~哦，我喜欢在海边。
 
 ;0x2A66C752=SFX_PAUSE_180
 0x2A66C752=SFX_PAUSE_180
@@ -165,7 +165,7 @@
 0x3789F4D7=E1S2_DA
 
 ;0x38F22491=~z~I doubt those who remember me think it a great idea that I am about to be roaming free again.
-0x38F22491=~z~还记得我的人知道我重获自由多半会被吓死吧。
+0x38F22491=~z~记得我的人知道我重获自由多半会被吓死吧。
 
 ;0x390DF8A5=~z~You crossed the line.
 0x390DF8A5=~z~你越界了。
@@ -234,7 +234,7 @@
 0x4B5005D9=SFX_PAUSE_170
 
 ;0x4BFA0929=~z~Oh, I do like to be beside the seaside.
-0x4BFA0929=~z~哦，我喜欢在海滨，
+0x4BFA0929=~z~哦，我喜欢在海滨。
 
 ;0x4CBC2001=~z~You're in my world now, son.
 0x4CBC2001=~z~你逃不出我的手掌心了，小子。
@@ -294,7 +294,7 @@
 0x5909E7AA=SFX_PAUSE_220
 
 ;0x598487F5=~z~For these fellas it's white collar shenanigans. Caught with their hand in the cookie jar.
-0x598487F5=~z~因为这帮白领手脚不干净，被人逮到现形了。
+0x598487F5=~z~这帮白领手脚不干净，被人逮到现形了。
 
 ;0x5B31F3CC=~z~Your friends are out to sea, Mr. Stubbs. Good luck to them. I think they'll need it.
 0x5B31F3CC=~z~你的朋友都出海了，Stubbs先生。祝他们好运吧，他们会需要的。

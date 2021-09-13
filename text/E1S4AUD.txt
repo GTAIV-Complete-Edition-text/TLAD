@@ -1380,7 +1380,7 @@
 0xDF376470=~z~~s~
 
 ;0xDFB81579=~z~Well here you are, you fork-tongued bastard. I've been looking for you.
-0xDFB81579=~z~找到你了，狼心狗肺的混蛋。我一直在找你啊。
+0xDFB81579=~z~找到你了，狼心狗肺的混蛋。我一直在找你。
 
 ;0xDFBB3F54=~z~it's that fucked up part of people
 0xDFBB3F54=~z~都是人性向恶的那一面，

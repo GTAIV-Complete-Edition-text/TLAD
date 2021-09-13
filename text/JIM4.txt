@@ -6,7 +6,7 @@
 0x1B052E21=其中一辆~r~死亡天使面包车~s~就在附近。
 
 ;0x1FBC2DFD=~s~You can throw pipe bombs from vehicles by pressing ~INPUT_VEH_ATTACK~.
-0x1FBC2DFD=~s~你可以在载具上按~INPUT_VEH_ATTACK~投掷土制炸弹。
+0x1FBC2DFD=~s~在载具上按~INPUT_VEH_ATTACK~投掷土制炸弹。
 
 ;0x244D40B5=The ~r~Angels of Death~s~ have spotted you, don't let them escape.
 0x244D40B5=~r~死亡天使~s~发现你了，别让他们逃走。

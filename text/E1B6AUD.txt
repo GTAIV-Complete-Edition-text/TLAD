@@ -516,7 +516,7 @@
 0x50B60519=~z~两个傻逼玩意。
 
 ;0x512D840B=~z~Bill, yeah, he's fucked now. Thanks to you. I'm around the corner.
-0x512D840B=~z~Bill，对，他现在完了。多亏了你啊。我就在路口那儿。
+0x512D840B=~z~Bill，对，他现在完了，多亏了你啊。我就在路口那儿。
 
 ;0x51A72CC7=SFX_PAUSE_190
 0x51A72CC7=SFX_PAUSE_190
@@ -978,7 +978,7 @@
 0x8F0C7851=~z~别把这事当儿戏，Billy！
 
 ;0x8F7A557B=~z~You're not as big as those days when you hit the 'roids either, William.
-0x8F7A557B=~z~你的块头也没有以前打类固醇那会儿大了，William。
+0x8F7A557B=~z~你的块头也不如打类固醇那会儿大了，William。
 
 ;0x8F97BC05=E1B6_SB
 0x8F97BC05=E1B6_SB
@@ -1437,7 +1437,7 @@
 0xDC9FFFAA=~z~我证明你妈呢，我也没去哪里告发。
 
 ;0xDD499ED2=~z~The Deadbeats told them we got it and they want it back.
-0xDD499ED2=~z~死妈天使跟他们说H在我们手里，中国人现在想要回去。
+0xDD499ED2=~z~死妈天使跟他们说货在我们手里，中国人现在想要回去。
 
 ;0xDD8328B8=E1B6_A_KE
 0xDD8328B8=E1B6_A_KE

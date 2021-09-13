@@ -57,7 +57,7 @@
 0x0F57C00F=E1R2_JB
 
 ;0x10A64728=~z~I wouldn't want this Niko Bellic coming for me. Guy is deranged.
-0x10A64728=~z~我可不想被Niko Belic这家伙追杀。这人疯了。
+0x10A64728=~z~我可不想被Niko Belic这家伙追杀。这人太猛了。
 
 ;0x11EC21DC=E1R2_HB
 0x11EC21DC=E1R2_HB

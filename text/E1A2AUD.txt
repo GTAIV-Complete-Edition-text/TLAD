@@ -1791,7 +1791,7 @@
 0xED1B9A58=~z~妈的，Johnny。哟，我先走了。
 
 ;0xEE02782A=~z~The ice got you into this mess.
-0xEE02782A=~z~是冰害了你的。
+0xEE02782A=~z~是冰害了你。
 
 ;0xEE438253=~z~And that we'd find something like that real insulting.
 0xEE438253=~z~贿赂简直就是对我们的侮辱。

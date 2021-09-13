@@ -909,7 +909,7 @@
 0xE394F713=~z~我们不能做得太过。至少现在不行。
 
 ;0xE495A7D7=~z~... I.A.D. and the Sarge taking turns to screw me like it's my fucking quinceañera.
-0xE495A7D7=~z~...IAD(内务部)和警长轮番折磨我，搞得跟给我办成人礼一样。
+0xE495A7D7=~z~...内务部和警长轮番折磨我，搞得跟给我办成人礼一样。
 
 ;0xE615D66F=012
 0xE615D66F=012

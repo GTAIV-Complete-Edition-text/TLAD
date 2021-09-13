@@ -12,7 +12,7 @@
 0x021F42C0=~z~还是说你在里面演改过自新，
 
 ;0x0235205C=~z~It feels like knocking heads is a full time job
-0x0235205C=~z~感觉现在争吵已经成了家常便饭了，
+0x0235205C=~z~感觉现在争吵已经成了家常便饭了。
 
 ;0x025B157E=~z~The Lost ain't nobody. Fuck yuz.
 0x025B157E=~z~失落帮算个屁。操你妈的。
@@ -798,7 +798,7 @@
 0x68802B3A=~z~我们只要车子。
 
 ;0x688EA2AB=~z~- Motherfucking Angels of Death.~n~- That's all I know... please!
-0x688EA2AB=~z~－死亡天使个傻逼玩意。~n~－我只知道这些...拜托！
+0x688EA2AB=~z~－狗日的死亡天使。~n~－我只知道这些...拜托！
 
 ;0x689157B5=E1B1_BM
 0x689157B5=E1B1_BM

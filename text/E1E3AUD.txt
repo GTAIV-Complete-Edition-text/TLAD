@@ -678,7 +678,7 @@
 0xA33BD958=~z~谢谢你把后座让出来。
 
 ;0xA345CAF6=~z~Things couldn't get much worse here, you know. You know these is tough times.
-0xA345CAF6=~z~这已经是糟糕透顶了，好吧。日子真是难过啊。
+0xA345CAF6=~z~这已经是糟糕透顶了，日子真是难过啊。
 
 ;0xA3A832C8=~z~Cops straight ahead.
 0xA3A832C8=~z~条子在前面。

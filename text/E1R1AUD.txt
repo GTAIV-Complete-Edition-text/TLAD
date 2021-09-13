@@ -63,7 +63,7 @@
 0x13F596CB=~z~先让我跟Ray谈谈吧。
 
 ;0x14AD9A7B=~z~Bought by wise guys, from wise guys, for wise guys.
-0x14AD9A7B=~z~黑帮卖的，黑帮买的，送黑帮的。
+0x14AD9A7B=~z~黑帮卖的，黑帮买的，黑帮收的。
 
 ;0x160B30FA=~z~Buy your own diamonds.
 0x160B30FA=~z~想要你自己买去。

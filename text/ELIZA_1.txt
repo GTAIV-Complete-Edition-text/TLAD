@@ -48,7 +48,7 @@
 0xB03B8C15=~r~你抛弃了货车。~s~
 
 ;0xC07A1F68=Go to the ~y~toll booths~s~ and wait for the convoy.
-0xC07A1F68=去~y~收费站~s~等待车队到来。
+0xC07A1F68=去~y~收费站~s~等待车队经过。
 
 ;0xC39F49C3=Get on the ~b~bike.~s~
 0xC39F49C3=骑上~b~摩托。~s~

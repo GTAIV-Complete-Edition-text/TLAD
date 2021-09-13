@@ -100,7 +100,7 @@
 0x0FA31A3A=SFX_PAUSE_330
 
 ;0x0FC7CC3A=~z~You know how it is can't trust nothing these days. Can't trust the price of gas,
-0x0FC7CC3A=~z~你也知道的，现在啥都信不过啊。油价信不过，
+0x0FC7CC3A=~z~你也懂的，现在啥都信不过啊。油价信不过，
 
 ;0x0FDAD1EE=SFX_PAUSE_400
 0x0FDAD1EE=SFX_PAUSE_400
@@ -616,7 +616,7 @@
 0x5C7E3462=100
 
 ;0x5C7F4C3A=~z~Malc, man, you look good in that booth. You should think about a second career.
-0x5C7F4C3A=~z~Malc，老兄，你管收费站还挺像样的。有没有考虑过转行。
+0x5C7F4C3A=~z~Malc，老兄，你管收费站还挺像样的。有没有考虑过转行？
 
 ;0x5D0E9BD2=~z~You trying to get shot, Johnny?
 0x5D0E9BD2=~z~你找死吗，Johnny？
@@ -1123,7 +1123,7 @@
 0xAB36E142=SFX_PAUSE_380
 
 ;0xABCF7327=~z~Keep it moving, okay?
-0xABCF7327=~z~别停下来，好吗？
+0xABCF7327=~z~不要停留，好吗？
 
 ;0xABE3EA2E=E1E1_XA
 0xABE3EA2E=E1E1_XA
