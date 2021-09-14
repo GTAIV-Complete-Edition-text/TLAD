@@ -1626,7 +1626,7 @@
 0xC0BEF3BF=按住~INPUT_SPRINT~奔跑。连按~INPUT_SPRINT~冲刺。
 
 ;0x37ECBB45=Use ~INPUT_SPRINT~ to sprint.
-0x37ECBB45=用~INPUT_SPRINT~冲刺。
+0x37ECBB45=按住~INPUT_SPRINT~冲刺。
 
 ;0x7603AFF3=Press ~INPUT_DUCK~ to crouch, this will make your aim more accurate.
 0x7603AFF3=按~INPUT_DUCK~蹲下，蹲下时瞄准精度更高。
