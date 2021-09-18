@@ -993,7 +993,7 @@
 0x8F31F87E=~z~可以的，哥们。咱们去看看你说的是啥东西吧。
 
 ;0x8F3347D0=~z~So, ummm, Stubbs. Billy's in a maximum security institution, how am I meant to do this?
-0x8F3347D0=~z~那，呃，Stubbs。Billy可是在一个守卫森严的地方啊，我该咋办？
+0x8F3347D0=~z~那，呃，Stubbs。Billy可是在守卫森严的监狱啊，我该咋办？
 
 ;0x8F512B56=~z~I think so. You've certainly seen me naked.
 0x8F512B56=~z~我觉得是。我都对你坦诚相待了。

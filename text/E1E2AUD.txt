@@ -394,7 +394,7 @@
 0x6828AB49=~z~好吧。
 
 ;0x695D97DF=~z~~c~Elizabeta and me? We met in Puerto Rico, on a very hot night.~s~
-0x695D97DF=~z~~c~Elizabeta和我？我们在Puerto Rico邂逅，一个激情火热的夜晚。~s~
+0x695D97DF=~z~~c~Elizabeta和我？我们在波多黎各邂逅，一个激情火热的夜晚。~s~
 
 ;0x6A27915F=E1E2_UA
 0x6A27915F=E1E2_UA

@@ -723,7 +723,7 @@
 0xE15E616A=~z~今年年纪最大的产妇。
 
 ;0xE262B75F=~z~And they're not always true, are they?
-0xE262B75F=~z~但它们未必是真的，对吧？
+0xE262B75F=~z~但这些未必是真的，对吧？
 
 ;0xE29B4544=~z~Hey, shut it pal.
 0xE29B4544=~z~喂，闭嘴吧您。

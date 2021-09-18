@@ -72,7 +72,7 @@
 0x359BE4A2=~z~我说，我很久没去找他了。
 
 ;0x35E58C07=~z~Bad news is he's dead and they might just hire another one.
-0x35E58C07=~z~坏消息是他死了，对方估计会再找一个。
+0x35E58C07=~z~坏消息是他死了，对方估计会找新律师。
 
 ;0x393016EA=100090010090100090010090100
 0x393016EA=100090010090100090010090100
@@ -258,7 +258,7 @@
 0xBC12284E=~z~还会给我一笔报酬？
 
 ;0xBEB93736=~z~You better have a good lawyer, pal.
-0xBEB93736=~z~你最好有一个好律师，朋友。
+0xBEB93736=~z~你最好找一个好律师，朋友。
 
 ;0xC3558017=~z~Friend of Billy's, huh? Well good luck with that.
 0xC3558017=~z~Billy的朋友啊？祝你好运。

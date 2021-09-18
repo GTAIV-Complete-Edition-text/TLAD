@@ -327,7 +327,7 @@
 0x5D75A3C6=~z~你妈的老子的钱呢，John？我等不及了。
 
 ;0x5F5939D9=~z~Isaac - look at them.
-0x5F5939D9=~z~Isaac，看看它们。
+0x5F5939D9=~z~Isaac，你看看。
 
 ;0x5F7C9C2A=E1R2_A_EA
 0x5F7C9C2A=E1R2_A_EA

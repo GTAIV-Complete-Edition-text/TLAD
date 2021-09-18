@@ -360,7 +360,7 @@
 0x76CF5DAD=~z~听着，我有个生意上的小问题要你解决。
 
 ;0x76DCEA62=~z~Tony, they're gorgeous.
-0x76DCEA62=~z~Tony，它们真漂亮啊。
+0x76DCEA62=~z~Tony，太漂亮了吧。
 
 ;0x7740B167=~z~Brothers, go after those two. Terry! Clay! We're getting the rocks.
 0x7740B167=~z~兄弟们，去追那两个人。Terry！Clay！咱们去追钻石。
