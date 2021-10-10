@@ -87,7 +87,7 @@
 0x2BD6BA3A=E1B5_KB
 
 ;0x2E4E7B50=~z~Well, I got to go pick up the stuff so, uh, I'll see you there.
-0x2E4E7B50=~z~行，我先回去拿趟货，所以，呃，到地方见。
+0x2E4E7B50=~z~行，我先回去拿趟货，所以...到地方见。
 
 ;0x313E3D9D=~z~Surround yourself with cocaine and the assholes soon follow.
 0x313E3D9D=~z~坐拥大批可卡因，混蛋们就会靠过来...

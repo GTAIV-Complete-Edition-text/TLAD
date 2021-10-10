@@ -57,7 +57,7 @@
 0xB46D61C3=~r~你损坏了失落帮的载具。~s~
 
 ;0xB698E5C2=~s~Make your way to the ~y~prison yard.~s~
-0xB698E5C2=~s~前往~y~监狱场地。~s~
+0xB698E5C2=~s~前往~y~监狱空地。~s~
 
 ;0xB931B72F=~r~You abandoned Terry and Clay.~s~
 0xB931B72F=~r~你抛弃了Terry和Clay。~s~

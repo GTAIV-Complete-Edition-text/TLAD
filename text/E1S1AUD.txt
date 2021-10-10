@@ -348,7 +348,7 @@
 0xB14EC5A0=~z~您有预约吗？
 
 ;0xB16EABAB=~z~He'll land and travel in a car convoy to the Civic Citadel.
-0xB16EABAB=~z~他落地了就会跟着车队去Civic Citadel。
+0xB16EABAB=~z~他落地了就会跟着车队去市政厅。
 
 ;0xB19B98E1=~z~A blackmailer with a conscience, beautiful.
 0xB19B98E1=~z~盗亦有道，好极了。

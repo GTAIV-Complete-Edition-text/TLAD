@@ -39,7 +39,7 @@
 0x0689A7F5=SFX_PAUSE_260
 
 ;0x06D91FCB=~z~there's definitely an undeniable twinge of homosexuality in this fine country's correctional system.
-0x06D91FCB=~z~同性恋的氛围肯定遍布了这个国家的监狱系统。
+0x06D91FCB=~z~同性恋的氛围真是遍布于这个国家的监狱系统。
 
 ;0x07295058=~z~ I'm gonna run right out and buy a condo.
 0x07295058=~z~我这就跑出去买套公寓。
@@ -264,7 +264,7 @@
 0x29749052=~z~我再问一次，
 
 ;0x29E102E7=~z~You really gone soft, haven't you Johnny? You know, you could do with a stretch in the joint, might harden you up.
-0x29E102E7=~z~我看你真的变软弱了吧，Johnny？知道吗，你可以考虑去蹲个号子，可能能让你强硬些。
+0x29E102E7=~z~怎么这么软弱了，Johnny？知道吗，你可以去蹲个号子，说不定能更强硬些。
 
 ;0x2B2023DA=392
 0x2B2023DA=392
@@ -327,10 +327,10 @@
 0x3268FEEE=SFX_PAUSE_280
 
 ;0x330DC9D7=~z~Tell him that. Then we'll see how psycho he is.
-0x330DC9D7=~z~就这么告诉他。到时候就能知道他有多疯了。
+0x330DC9D7=~z~放话给他，看看他老爹到底有多疯。
 
 ;0x338B2DDB=~z~Brothers aren't meant to be this close, Johnny. But we're gonna have to be until I get my bike back.
-0x338B2DDB=~z~是兄弟也不带贴这么紧的，Johnny。但没拿回我的车前只能这样凑合了。
+0x338B2DDB=~z~是兄弟也不带贴这么紧的，Johnny。但拿回车子前只能这样凑合了。
 
 ;0x352E4BEC=SFX_PAUSE_90
 0x352E4BEC=SFX_PAUSE_90
@@ -378,7 +378,7 @@
 0x391735D7=~z~这就是首领的工作啊，Clay，不论是摩托帮会长还是美国总统。
 
 ;0x3976C0FE=~z~Yeah, sure. I got a lot on my plate. I only just got out and look at the state of shit around here.
-0x3976C0FE=~z~好，知道了。我手头事很多。我才刚出狱，结果这边就成了这鬼样。
+0x3976C0FE=~z~好，知道了。我手头事很多。我才刚出狱，结果帮会就成了这鬼样。
 
 ;0x397D5C2C=E1B1_ZC
 0x397D5C2C=E1B1_ZC
@@ -411,7 +411,7 @@
 0x3CCE3D53=~z~欢迎回来，兄弟。
 
 ;0x3D69BC14=~z~I know what he can't do, Billy. He does too. Just go and fucking see him, alright?
-0x3D69BC14=~z~我知道他做不了的事，Billy。他自己也知道。你他妈有空去看他一趟，好吗？
+0x3D69BC14=~z~我知道他做不了什么，Billy。他自己也知道。你他妈有空去看他一趟，好吗？
 
 ;0x3DCC5021=~z~But Johnny, you need to quit your bitching and moaning.
 0x3DCC5021=~z~不过Johnny，麻烦你别犯贱别叫唤了。
@@ -447,7 +447,7 @@
 0x3F581B3C=E1B1_A_DT
 
 ;0x3F81422F=~z~Yeah and your shit means a lot, man. C'mon.
-0x3F81422F=~z~对，你跟你的屎很重要，兄弟。走吧。
+0x3F81422F=~z~对，你的屎很重要，兄弟。走吧。
 
 ;0x3F9495E2=SFX_PAUSE_500
 0x3F9495E2=SFX_PAUSE_500
@@ -756,7 +756,7 @@
 0x648C9DA5=~z~你是老大不代表你是对的。
 
 ;0x64D0AD5C=~z~He gives you trouble, he'll have to start worrying about the whole chapter.
-0x64D0AD5C=~z~他敢惹你，就是就是跟我们整个分会过不去。
+0x64D0AD5C=~z~他敢惹你，就是跟我们整个分会过不去。
 
 ;0x65091DA6=~z~It used to be all you need to worry about was waking up with was some bruises.
 0x65091DA6=~z~以前这种事也就挨一顿揍昏过去。
@@ -789,7 +789,7 @@
 0x679EF419=E1B1_BC
 
 ;0x6851C28C=~z~everybody gets to do business and make money without looking over their shoulders too much.
-0x6851C28C=~z~大家井水不犯河水，赚钱的时候也不用担心自己会随时没命。
+0x6851C28C=~z~大家井水不犯河水，赚钱的时候也不会有性命之忧。
 
 ;0x6873C090=~z~Poor fuck. I don't think he's got any nose left.
 0x6873C090=~z~倒霉蛋。我看他的鼻子是没了。
@@ -831,7 +831,7 @@
 0x6C55C37C=E1B1_A_CD
 
 ;0x6CF93D76=~z~I'll run it the way it needs to be run. Same as the three guys before me did.
-0x6CF93D76=~z~该怎么管理我就怎么管理。之前的三任会长是这么做的。
+0x6CF93D76=~z~该怎么管理我就怎么管理。之前的三任会长是这么做的，
 
 ;0x6CFC6ECB=~z~I ain't attached to no drugs, man. They're attached to me, clingy bastards.
 0x6CFC6ECB=~z~不是我离不开毒品，是毒品不放过我，这黏人鬼。
@@ -975,7 +975,7 @@
 0x801ADD9E=E1B1_ZB
 
 ;0x80241267=~z~Don't question me. Sometimes you gotta look out for yourself, Billy.
-0x80241267=~z~别怪罪我。有时候还是得你自己保护自己，Billy。
+0x80241267=~z~别怪罪我。有时候还是得自己保护自己，Billy。
 
 ;0x80466447=~z~Yeah, I been fucking this Russian broad in Broker. Gets her psycho daddy real mad.
 0x80466447=~z~嗯，我最近在Broker搞一个俄国婆娘，她的疯子老爹都气炸了。
@@ -1011,7 +1011,7 @@
 0x86057CB2=E1B1_YB
 
 ;0x8773AD09=~z~You just don't get it, do you? This is what it's about. This. Not that money shit.
-0x8773AD09=~z~你就是不明白是吧？尊重就是最重要的。尊重，不是钱的事。
+0x8773AD09=~z~你就是不明白是吧？尊重才是最重要的。尊重，不是钱的事。
 
 ;0x87C2766C=~z~Religion, Billy. Religion. I gave up with faith.
 0x87C2766C=~z~是宗教，Billy。宗教。信仰我早放弃了。
@@ -1038,7 +1038,7 @@
 0x8961EBE6=SFX_PAUSE_240
 
 ;0x8989ABB5=~z~You and Angus built that bike for me.
-0x8989ABB5=~z~我那辆车是你和Angus的心血啊。
+0x8989ABB5=~z~我的车是你和Angus的心血啊。
 
 ;0x89DC2871=SFX_PAUSE_230
 0x89DC2871=SFX_PAUSE_230
@@ -1071,7 +1071,7 @@
 0x8C96F776=SFX_PAUSE_250
 
 ;0x8CB1B201=~z~That's gotta stand for something.
-0x8CB1B201=~z~它是有特殊意义的。
+0x8CB1B201=~z~它有特殊的意义。
 
 ;0x8CB1CB35=402090042090402
 0x8CB1CB35=402090042090402
@@ -1116,10 +1116,10 @@
 0x91B3F661=~z~说这辆车消失了都不为过。
 
 ;0x929A14E0=~z~There any more side trips you want to make on the way to the Deadbeats?
-0x929A14E0=~z~你还想去其他死妈天使的地方拐一拐吗？
+0x929A14E0=~z~去死妈天使的地盘之前还要去哪儿拐一拐吗？
 
 ;0x92B87384=~z~He may be stuck in a chair, but he's still a member of The Lost.
-0x92B87384=~z~他确实只能坐轮椅，但他还是失落帮的一员。
+0x92B87384=~z~他确实只能坐轮椅，但依然是失落帮的一员。
 
 ;0x932863C8=~z~Are you deaf? Give me that whisky.
 0x932863C8=~z~你是聋子吗？把酒拿过来。
@@ -1353,7 +1353,7 @@
 0xB2FBD319=~z~回基地吧，弟兄们。希望酒窖里还有酒。
 
 ;0xB327FEB5=~z~I've been putting up with rehab skanks getting sex therapy for the last few months. I need something real.
-0xB327FEB5=~z~这几个月我只能找戒毒所的公交车做性治疗。我需要实战。
+0xB327FEB5=~z~这几个月都只能找戒毒所的公交车做性治疗。我需要实战。
 
 ;0xB3E526A0=~z~Stay in formation, Johnny. Get behind me.
 0xB3E526A0=~z~保持队形，Johnny。别超过我。
@@ -1383,7 +1383,7 @@
 0xB67D3025=~z~算了，Johnny，去把他的车子拿来吧。算了。
 
 ;0xB6CDDD47=~z~Shit, you know best, Bill, you're the leader. You make these decisions,
-0xB6CDDD47=~z~妈的，你自己清楚，Bill，最大的是你，都是你的决定。
+0xB6CDDD47=~z~妈的，你自己清楚，Bill。你才是老大，
 
 ;0xB71F4E55=~z~You know, John boy, it was kinda hard. Harder than you'd think.
 0xB71F4E55=~z~其实吧，阿强，里面不好过。比你想的苦。
@@ -1416,19 +1416,19 @@
 0xB9EA3857=~z~你太紧张了，Johnny。肯定是替我代管分会的时候压力太大了吧。
 
 ;0xB9EA4767=~z~That's not gonna go back to normal. Angus lost his legs for life.
-0xB9EA4767=~z~那是不可能恢复正常的，跟Angus断掉的腿一样。
+0xB9EA4767=~z~那是不可能恢复的，跟Angus断掉的腿一样。
 
 ;0xBA02B4F0=~z~Listen, Billy, they were pissed and they had a reason.
 0xBA02B4F0=~z~听着，Billy，他们跟我们的矛盾是有原因的。
 
 ;0xBA3037EB=~z~With a nose the size of yours there wouldn't be much blow left for the other brothers anyway, John boy.
-0xBA3037EB=~z~不过有你这么个大鼻子在，你吸一口弟兄们基本就没得吸了，阿强。
+0xBA3037EB=~z~不过有这么个大鼻子在，你吸一口弟兄们就没得吸了，阿强。
 
 ;0xBB3BFE6D=E1B1_BL
 0xBB3BFE6D=E1B1_BL
 
 ;0xBBB60831=~z~This bike's ours fair and square.
-0xBBB60831=~z~这辆车明明就归我们了。
+0xBBB60831=~z~这辆车现在是我们的。
 
 ;0xBC2E1EDD=~z~Everything I do is about The Lost. I don't exist without my brothers - without you.
 0xBC2E1EDD=~z~我所做的一切都是为了失落帮。没有兄弟，没有你，就不会有我。
@@ -1479,7 +1479,7 @@
 0xC0D594EF=E1B1_JJ
 
 ;0xC1097FD1=~z~You know, I've been here since I got out of juvie.
-0xC1097FD1=~z~你也知道，出了少管所以后我就在失落帮了。
+0xC1097FD1=~z~你也知道，出了少管所之后我就在失落帮了。
 
 ;0xC14F1CFE=SFX_PAUSE_280
 0xC14F1CFE=SFX_PAUSE_280
@@ -1512,7 +1512,7 @@
 0xC4F2641D=~z~放弃吧。
 
 ;0xC4FF79AA=~z~I'll just taxi you around on your little welcome back tour.
-0xC4FF79AA=~z~我只是在你的回归欢迎会上当个车夫。
+0xC4FF79AA=~z~都是你的决定。我只是在你的回归欢迎会上当个车夫。
 
 ;0xC5129F2E=~z~And you know what? Peace and prosperity be damned.
 0xC5129F2E=~z~你知道吗？去他妈的和平与繁荣。
@@ -1758,7 +1758,7 @@
 0xE6C85E55=~z~我操，Joe Jon要暴跳如雷了。
 
 ;0xE729FD7A=~z~You didn't have to do that. He told you who had the bike.
-0xE729FD7A=~z~你没必要做那么狠的，他都告诉你车在哪儿了。
+0xE729FD7A=~z~没必要那么狠的，他都告诉你车在哪儿了。
 
 ;0xE731E07D=~z~No wonder you keep getting caught then, Billy. You can't stay away from it.
 0xE731E07D=~z~难怪你经常进去，Billy。你是搞基搞上瘾了。
@@ -1830,7 +1830,7 @@
 0xF2F83972=SFX_PAUSE_220
 
 ;0xF35327F4=~z~That guy, he's an exceptional human being, an example to us all.
-0xF35327F4=~z~那家伙，他是一个杰出的人类，是我们的榜样。
+0xF35327F4=~z~那家伙，他是杰出的人类，是我们的榜样。
 
 ;0xF35AAFF3=SFX_PAUSE_430
 0xF35AAFF3=SFX_PAUSE_430
@@ -1875,7 +1875,7 @@
 0xF79EAEC3=~z~能有什么生意，
 
 ;0xF7C48385=~z~This'll teach you to screw with The Lost.
-0xF7C48385=~z~让你们尝尝招惹失落帮的后果。
+0xF7C48385=~z~这就是招惹失落帮的后果。
 
 ;0xF84788F7=~z~Who's been hanging round the house? The usual mattress cover?
 0xF84788F7=~z~会所最近有谁来过？还是那几个人？

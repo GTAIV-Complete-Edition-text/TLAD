@@ -282,7 +282,7 @@
 0x7C378A51=SFX_PAUSE_200
 
 ;0x7D21D6DE=~z~Eat my shit.
-0x7D21D6DE=~z~吔屎啦。
+0x7D21D6DE=~z~吃屎吧。
 
 ;0x7E0C104E=SFX_PAUSE_350
 0x7E0C104E=SFX_PAUSE_350
@@ -459,7 +459,7 @@
 0xC8BCA014=E1B2_LA
 
 ;0xC8FCA2C7=~z~No, I stopped 'em. We don't need more brothers dyin' over this.
-0xC8FCA2C7=~z~不，我阻止了他们。我们不能让更多兄弟为此牺牲了。
+0xC8FCA2C7=~z~不，被我阻止了。不能让更多兄弟为此牺牲了。
 
 ;0xC96211A1=~z~think you can come to my party and gatecrash?
 0xC96211A1=~z~还敢来老子地盘撒野？

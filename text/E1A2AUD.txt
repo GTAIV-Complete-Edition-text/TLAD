@@ -381,7 +381,7 @@
 0x2FE6910A=120
 
 ;0x308D773D=~z~I'll take you through the bright lights of Star Junction, past the glamorous shops of Middle Park West,
-0x308D773D=~z~我会带你们穿越Star Junction的灯火辉煌，看遍中央公园西的十里洋场，
+0x308D773D=~z~我会带你们穿越Star Junction的灯火辉煌，看遍中央公园西的繁荣市场，
 
 ;0x30F377CE=SFX_PAUSE_380
 0x30F377CE=SFX_PAUSE_380

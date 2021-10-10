@@ -315,7 +315,7 @@
 0x334ACC5E=~z~好了，兄弟们，那让我们最后去一次教堂吧。
 
 ;0x337EEE3A=~z~Let's go. We gotta find Billy.
-0x337EEE3A=~z~走吧，我们要找到Billy。
+0x337EEE3A=~z~走吧，必须得找到Billy。
 
 ;0x33FFBF77=100090100090100
 0x33FFBF77=100090100090100
@@ -933,7 +933,7 @@
 0x87748303=~z~要是你从我身上学到了啥的话，我希望是如何应对一场危机。
 
 ;0x880AB930=~z~why you doing this?
-0x880AB930=~z~你为啥要这么做？
+0x880AB930=~z~你这么做的原因是？
 
 ;0x8844CCFD=E1S4_JA
 0x8844CCFD=E1S4_JA
@@ -1083,7 +1083,7 @@
 0x9CC9274E=~z~来人去一下正门。洗衣房的货车看起来很可疑。
 
 ;0x9D226B13=~z~Yes. Well you've got a bit of a problem there sport.
-0x9D226B13=~z~对。这里才是你的麻烦所在，哥们。
+0x9D226B13=~z~对。这才是你的麻烦所在，哥们。
 
 ;0x9D65580E=~z~Let's go back to the house. There's one more thing we gotta do.
 0x9D65580E=~z~回俱乐部去吧。这是咱得做的最后一件事了。
@@ -1308,7 +1308,7 @@
 0xD11067E8=E1S4_YA
 
 ;0xD1A04942=~z~Come on!
-0xD1A04942=~z~来吧！
+0xD1A04942=~z~动手啊！
 
 ;0xD1EA6640=E1S4_A_VA
 0xD1EA6640=E1S4_A_VA

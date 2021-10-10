@@ -318,7 +318,7 @@
 0xC5465916=~z~嘿，哟，这谁？
 
 ;0xC595912B=~z~Kiss my ass, Deadbeats!
-0xC595912B=~z~吔屎啦，死妈天使！
+0xC595912B=~z~吃屎吧，死妈天使！
 
 ;0xC764AD02=~z~So what do you say...
 0xC764AD02=~z~所以你怎么说...

@@ -471,7 +471,7 @@
 0x712E4A59=~z~真当自己很牛是吧？
 
 ;0x7197D0D4=~z~My fucking bike man!
-0x7197D0D4=~z~车车，我的车车！
+0x7197D0D4=~z~老子的车啊！
 
 ;0x72C38CBB=E1E3_A_BA
 0x72C38CBB=E1E3_A_BA
