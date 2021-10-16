@@ -153,7 +153,7 @@
 0x12745C31=E1A2_WA
 
 ;0x1278EDEB=~z~Sure, sure she ain't. Thats why you running all over town trying to snatch a fool up, huh? Please.
-0x1278EDEB=~z~对，当然不是。所以你才要大老远地去绑架一个傻逼？别吧。
+0x1278EDEB=~z~对，当然不是。所以才要大老远地去绑架一个傻逼？别吧。
 
 ;0x13412028=E1A2_LA
 0x13412028=E1A2_LA
@@ -237,7 +237,7 @@
 0x1C93E72B=~z~快跑啊，Roman。快点啊！
 
 ;0x1C961DA1=~z~We ain't kidnapping nobody because of my mamma, Johnny. It's your lady friend getting us to do this. Think on that, son.
-0x1C961DA1=~z~我们不是因为我妈才来绑架别人的，Johnny。是因为你的女性朋友才会这样的。动动脑子，小子。
+0x1C961DA1=~z~我们不是因为我妈才来绑架别人的，Johnny。~n~是因为你的女性朋友才会这样的。动动脑子，小子。
 
 ;0x1DD64622=E1A2_EA
 0x1DD64622=E1A2_EA
@@ -327,7 +327,7 @@
 0x288AC1EB=~z~他很乐意用染着淋病的大鸡巴对你狂暴轰入。
 
 ;0x292A1616=~z~Yeah, that's what I said. Maybe Italian or Rome or some shit.
-0x292A1616=~z~对，就是这个意思。也可能是意大利或者罗马那边的。
+0x292A1616=~z~对，就是这个意思。~n~也可能是意大利或者罗马那边的。
 
 ;0x29750CF7=~z~I got a leash on him now, don't worry 'bout a thing.
 0x29750CF7=~z~现在我把他拴上了，不用担心。
@@ -381,7 +381,7 @@
 0x2FE6910A=120
 
 ;0x308D773D=~z~I'll take you through the bright lights of Star Junction, past the glamorous shops of Middle Park West,
-0x308D773D=~z~我会带你们穿越Star Junction的灯火辉煌，看遍中央公园西的繁荣市场，
+0x308D773D=~z~我会带你们穿越Star Junction的灯火辉煌，看遍中央公园西的繁荣市场。
 
 ;0x30F377CE=SFX_PAUSE_380
 0x30F377CE=SFX_PAUSE_380
@@ -573,10 +573,10 @@
 0x4D10B05E=E1A2_EG
 
 ;0x4D6BB73C=~z~Hey now listen, I do mean motherfucker in the most literal sense. Serious incest motherfucker.
-0x4D6BB73C=~z~你听好了，这个「日妈」可是字面意思的日妈。日了自己的亲妈。
+0x4D6BB73C=~z~你听好了，这个「日妈」可是~n~字面意思的日妈。日了自己的亲妈。
 
 ;0x4D9DC00D=~z~Ummm.... ahhhh... I... Mr. Bellic is very busy man. An important and busy man.
-0x4D9DC00D=~z~呃...啊...我...Bellic先生是个大忙人。是一位重要的大忙人。
+0x4D9DC00D=~z~呃...啊...我...Bellic先生是个大忙人。~n~是一位重要的大忙人。
 
 ;0x4DF89663=~z~Rusty oil dripping American junk.
 0x4DF89663=~z~生锈漏油的美国破烂。
@@ -594,7 +594,7 @@
 0x4ECED7AA=~z~他没机会再跑一次了。相信我。
 
 ;0x4EE0A94E=~z~The Lost aren't like those Deadbeats. Take a look at my brothers, man.
-0x4EE0A94E=~z~失落帮可跟死妈天使不一样。瞧瞧我那些弟兄，伙计。
+0x4EE0A94E=~z~失落帮可跟死妈天使不一样。~n~瞧瞧我那些弟兄，伙计。
 
 ;0x4FEFF144=~z~If he only knew how close he came though. Thanks, Malc.
 0x4FEFF144=~z~可惜他不知道自己离危险有多近。谢了，Malc。
@@ -720,7 +720,7 @@
 0x63AF084D=~z~好了，你赢了。该投降就投降。
 
 ;0x63B75832=~z~It's easy. You grab him and deliver him to warehouse, off Lompoc in Bohan Industrial.
-0x63B75832=~z~很简单。绑架他，然后送到 Bohan 工业区 Lompoc 大道那里的仓库。
+0x63B75832=~z~很简单。绑架他，然后送到Bohan工业区Lompoc大道那里的仓库。
 
 ;0x63E043B4=E1A2_ZE
 0x63E043B4=E1A2_ZE
@@ -834,7 +834,7 @@
 0x7260489D=~z~要是有一盒甜甜圈，你肯定会自己进来。快点，胖子。
 
 ;0x727E7DC8=~z~Yeah, this biker dude is twisted as all hell, man. By the way how many guys you killed, son?
-0x727E7DC8=~z~没错，这位飞车党可是坏得一批，伙计。问一下，你杀了多少人了，小子？
+0x727E7DC8=~z~没错，这位飞车党可是坏得一批，伙计。~n~问一下，你杀了多少人了，小子？
 
 ;0x72A35FB8=~z~Anyway, we gonna go grab somebody.
 0x72A35FB8=~z~总之，我们要去绑架别人。
@@ -1164,7 +1164,7 @@
 0x9E2A4D17=~z~不难选吧，还活在60年代的你都能选对。
 
 ;0x9E594FEC=~z~Worked with this other guy, he could handle himself. Maybe this guy will be the same.
-0x9E594FEC=~z~之前跟我合作的人，他就很能打。这家伙估计也有两下子。
+0x9E594FEC=~z~之前跟我合作的人，他就很能打。~n~这家伙估计也有两下子。
 
 ;0x9E843259=~z~Thank you, sir. Thank you.
 0x9E843259=~z~谢谢你，先生。谢谢你。
@@ -1194,7 +1194,7 @@
 0xA0A8E1AB=100
 
 ;0xA0EF9DC4=~z~they're in need of a Limo'. And I'm told this Bellic guy's the man for that kind of work.
-0xA0EF9DC4=~z~她们需要一辆豪华轿车。别人跟我说这种事得找这位Bellic。
+0xA0EF9DC4=~z~她们需要一辆豪华轿车。~n~别人跟我说这种事得找这位Bellic。
 
 ;0xA13E1A22=~z~Where you off to, Johnny boy? We kind of in the middle of something right here, man.
 0xA13E1A22=~z~你要去哪儿，Johnny仔？我们还有事要办呢，哥们。
@@ -1461,7 +1461,7 @@
 0xC12F78E6=SFX_PAUSE_230
 
 ;0xC1648E58=~z~We're more like equal opportunity haters - we hate assholes and fools, wherever they're from.
-0xC1648E58=~z~我们倒不如说是一视同仁——不问出身，都他妈傻逼。
+0xC1648E58=~z~我们倒不如说是一视同仁。~n~不问出身，都他妈傻逼。
 
 ;0xC25E8202=E1A2_A_PB
 0xC25E8202=E1A2_A_PB
@@ -1488,7 +1488,7 @@
 0xC5A16554=E1A2_NA
 
 ;0xC5C1A1C3=~z~you might end the tour with a look at the finest specimen of manhood in the entire metropolitan area.
-0xC5C1A1C3=~z~你们还可以在旅途结束前见识到整个大都会最有男子气概的人。
+0xC5C1A1C3=~z~你们还可以在旅途结束前见识到~n~整个大都会最有男子气概的人。
 
 ;0xC601A8FE=E1A2_EF
 0xC601A8FE=E1A2_EF
@@ -1533,7 +1533,7 @@
 0xCADC2EA1=~z~妈的。
 
 ;0xCBCCB23C=~z~Damn you better not be right. What's wrong with you, man? We was only joshing you. Tell him, Johnny.
-0xCBCCB23C=~z~妈的，希望你说错了。你他妈有病吧，哥们？我们是开玩笑的。告诉他，Johnny。
+0xCBCCB23C=~z~妈的，希望你说错了。你他妈有病吧，哥们？~n~我们是开玩笑的。告诉他，Johnny。
 
 ;0xCC23A108=~z~Oh, it's like that, is it, now? She like your girlfriend or something? Nah, nah, that's cool. I'm feeling that.
 0xCC23A108=~z~噢，我差不多能猜到了。就是你的女友之类的吧？这又没关系的。可以理解。
@@ -1671,7 +1671,7 @@
 0xDB57C074=SFX_PAUSE_250
 
 ;0xDB877FF5=~z~You and your boys might ride, but you don't know nothing about brotherhood.
-0xDB877FF5=~z~你们帮的人确实在骑车，但你们根本就不了解什么是兄弟情谊。
+0xDB877FF5=~z~你们帮的人确实在骑车，但根本就不了解什么是兄弟情谊。
 
 ;0xDBA45842=SFX_PAUSE_250
 0xDBA45842=SFX_PAUSE_250
@@ -1881,7 +1881,7 @@
 0xFEC8C9E6=010010
 
 ;0xFEE31A2C=~z~Just so you know who you dealing with, Mr. Bellic. This is one screwed up dumb redneck motherfucker.
-0xFEE31A2C=~z~先告诉你你面前的人是谁，Bellic先生。这可是一位不好惹的日妈红脖子。
+0xFEE31A2C=~z~先告诉你你面前的人是谁，Bellic先生。~n~这可是一位不好惹的日妈红脖子。
 
 ;0xFF5B3ED7=~z~You, come with me.
 0xFF5B3ED7=~z~你，跟我来。

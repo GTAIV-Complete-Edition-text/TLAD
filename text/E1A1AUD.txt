@@ -531,7 +531,7 @@
 0xCF43B757=E1A1_VJ
 
 ;0xD00654DB=~z~Don't you think maybe you're the one who's different?
-0xD00654DB=~z~你就没想过可能你才是变了的人吗？
+0xD00654DB=~z~就没想过你才是那个变了的人吗？
 
 ;0xD15C1D30=~z~Johnny, what's happening?
 0xD15C1D30=~z~Johnny，怎么了？
@@ -555,10 +555,10 @@
 0xD5CE6163=E1A1_VA
 
 ;0xD5ED03C0=~z~I told you. I'm not friends with Tina no more. I ain't gonna lose me to meth..
-0xD5ED03C0=~z~我都说了，我现在没跟Tina来往了。我不会迷失在冰毒里了...
+0xD5ED03C0=~z~我都说了，我现在没跟Tina来往了。不会迷失在冰毒里了...
 
 ;0xD6A3380C=~z~Okay, I'm bad, baby. I'm bad. I know it. You should teach me a lesson.
-0xD6A3380C=~z~好啦，我不好，宝贝。我不好，我知道了。你要教训教训我。
+0xD6A3380C=~z~好啦，我不好，宝贝。我不好，我知道了。教训我一顿吧。
 
 ;0xD786B168=SFX_PAUSE_190
 0xD786B168=SFX_PAUSE_190

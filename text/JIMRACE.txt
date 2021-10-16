@@ -6,7 +6,7 @@
 0x02D1592B=~r~条子把别的赛车手吓跑了。
 
 ;0x0DEFD172=You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_FRONTEND_RT~ for a right attack.
-0x0DEFD172=你有一根棒球棍，可以用于攻击对手。按~INPUT_VEH_HEADLIGHT~攻击左边，按~INPUT_FRONTEND_RT~攻击右边。
+0x0DEFD172=你可以用棒球棍攻击对手。按~INPUT_VEH_HEADLIGHT~攻击左边，按~INPUT_FRONTEND_RT~攻击右边。
 
 ;0x1133BA00=RACES
 0x1133BA00=赛车
@@ -54,7 +54,7 @@
 0x58973FFA=~r~你输了。
 
 ;0x62A531CC=You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.
-0x62A531CC=你有一根棒球棍，可以用于攻击对手。按~INPUT_MOUSE_LMB~攻击左边，按~INPUT_MOUSE_RMB~攻击右边。
+0x62A531CC=你可以用棒球棍攻击对手。按~INPUT_MOUSE_LMB~攻击左边，按~INPUT_MOUSE_RMB~攻击右边。
 
 ;0x6638785C=3
 0x6638785C=3
@@ -69,7 +69,7 @@
 0x877D6854=按一个键来选择一条东部比赛路线。~n~0: BOHAN_STRIP ~n~1: BOHAN_BEACH ~n~2: BOHAN_STEPS ~n~5: SCHOTTLER_STATION
 
 ;0x8C59EA5D=RACE
-0x8C59EA5D=RACE
+0x8C59EA5D=赛车
 
 ;0x8E08CB2A=Get a bike and go to the start line.
 0x8E08CB2A=找一辆摩托，前往起点线。
@@ -87,13 +87,13 @@
 0x992D6788=按住~INPUT_MOUSE_LMB~向左重击，按住~INPUT_MOUSE_RMB~向右重击。
 
 ;0xB2449A1D=You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_VEH_CIN_CAM~ for a right attack.
-0xB2449A1D=你有一根棒球棍，可以用于攻击对手。按~INPUT_VEH_HEADLIGHT~攻击左边，按~INPUT_VEH_CIN_CAM~攻击右边。 
+0xB2449A1D=你可以用棒球棍攻击对手。按~INPUT_VEH_HEADLIGHT~攻击左边，按~INPUT_VEH_CIN_CAM~攻击右边。 
 
 ;0xB4AA9527=1
 0xB4AA9527=1
 
 ;0xB9354413=LOST...
-0xB9354413=LOST...
+0xB9354413=败北...
 
 ;0xBB3D184A=Get back on the bike.
 0xBB3D184A=回到摩托上。
@@ -114,7 +114,7 @@
 0xC4C9FDC6=前往起跑线。
 
 ;0xC779B23E=You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.
-0xC779B23E=你有一根棒球棍，可以用于攻击对手。按~INPUT_MOUSE_LMB~攻击左边，按~INPUT_MOUSE_RMB~攻击右边。
+0xC779B23E=你可以用棒球棍攻击对手。按~INPUT_MOUSE_LMB~攻击左边，按~INPUT_MOUSE_RMB~攻击右边。
 
 ;0xCA99824B=1st
 0xCA99824B=1st

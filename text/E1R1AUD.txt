@@ -96,7 +96,7 @@
 0x1CC3EFB0=SFX_PAUSE_350
 
 ;0x1EFA5EA2=~z~there'll be an opportunity to rip off the smug guido who gave us the job in the first place.
-0x1EFA5EA2=~z~我们还有机会抢了那个给我们派活的自大意呆佬。
+0x1EFA5EA2=~z~还有机会抢了那个给我们派活的自大意呆佬。
 
 ;0x2181B1EB=~z~-Hey Johnny.~n~-Hey.
 0x2181B1EB=~z~－嘿，Johnny。~n~－嘿。
@@ -267,7 +267,7 @@
 0x5C21591B=E1R1_TA
 
 ;0x5C7C3DFC=~z~We're ripping off some guy with mob connections down by the docks.
-0x5C7C3DFC=~z~咱们要去码头边上，抢劫一伙和黑帮有关系的人。
+0x5C7C3DFC=~z~咱们要去码头，抢劫一伙和黑帮有关系的人。
 
 ;0x5C9ACBE8=~z~Alright, man. I'll let The Lost Brotherhood over there know you're comin'.
 0x5C9ACBE8=~z~好的，哥们。我会跟那边的分会说一声你要来的。

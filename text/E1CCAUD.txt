@@ -81,7 +81,7 @@
 0x1D97538F=~z~「噢，看看他。满面笑容，欢声仍在。」
 
 ;0x20E92FEB=~z~My best mate gave up the same time as me
-0x20E92FEB=~z~我的好兄弟跟我一起戒的酒，
+0x20E92FEB=~z~跟我的好兄弟一起戒的酒，
 
 ;0x23FE9FF0=~z~I mean you'd be frightened that they said no
 0x23FE9FF0=~z~怕被拒绝是肯定的，

@@ -6,7 +6,7 @@
 0x1E24AA57=~s~干掉~r~Ray的杀手。~s~
 
 ;0x4B188930=Terry and Clay have set up an ambush. If you can get to them, they can help you.
-0x4B188930=Terry和Clay已经设下埋伏。如果你能找到他们，就能得到帮助。
+0x4B188930=Terry和Clay已经设下埋伏。只要找到他们，就能得到支援。
 
 ;0x97A3F61F=~s~Go and meet ~y~Ashley.~s~
 0x97A3F61F=~s~去找~y~Ashley。~s~
@@ -18,5 +18,5 @@
 0xDE6F40E8=~r~Ashley死了。
 
 ;0xF4551828=~s~Take out ~r~Ray's hitmen~s~ before they get you.~s~
-0xF4551828=~s~在~r~Ray的杀手~s~杀掉你之前干掉他们。~s~
+0xF4551828=~s~在被~r~Ray的杀手~s~杀掉之前干掉他们。~s~
 

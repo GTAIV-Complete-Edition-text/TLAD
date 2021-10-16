@@ -9,10 +9,10 @@
 0x5374833C=~1~/25
 
 ;0x5F5641DF=~s~Meet up with the Lost ~b~members.
-0x5F5641DF=~s~与Lost~b~成员~s~会合。
+0x5F5641DF=~s~与失落帮~b~成员~s~会合。
 
 ;0x6293DA1C=~r~A member of The Lost has been injured.
-0x6293DA1C=~r~一名Lost成员受伤了。
+0x6293DA1C=~r~失落帮有成员受伤了。
 
 ;0x79C2887D=~r~Jim has been injured.
 0x79C2887D=~r~Jim受伤了。
@@ -21,7 +21,7 @@
 0x7CBF7CB1=~s~找到敌对~r~帮派。
 
 ;0x85B667BF=GANG WAR
-0x85B667BF=GANG WAR
+0x85B667BF=帮派战争
 
 ;0x887CA5F1=~r~A target has escaped.
 0x887CA5F1=~r~目标之一逃走了。
@@ -33,13 +33,13 @@
 0xAE15B87D=~1~
 
 ;0xBD39F3FC=DEFEATED
-0xBD39F3FC=DEFEATED
+0xBD39F3FC=败北
 
 ;0xC75E91EE=~s~Get a bike.
 0xC75E91EE=~s~找一辆摩托车。
 
 ;0xF6F4E771=LOST MC
-0xF6F4E771=LOST MC
+0xF6F4E771=失落帮
 
 ;0xF90D754B=~s~Take out the rival ~r~gang.
 0xF90D754B=~s~干掉敌对~r~帮派。

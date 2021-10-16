@@ -3,7 +3,7 @@
 0x0067B01C=~z~Brian想和谈？
 
 ;0x08D96E53=~z~I told them to go fuck themselves. I may be an asshole but I won't talk about my brothers.
-0x08D96E53=~z~我叫他们滚蛋。我也许不是好人，但我不会出卖兄弟。
+0x08D96E53=~z~我叫他们滚蛋。我也许不是好人，但绝不会出卖兄弟。
 
 ;0x0979B4AC=~z~Maybe you should do the talking, man. I don't know if I can trust myself.
 0x0979B4AC=~z~还是你去跟他交涉吧，兄弟。我有点信不过自己。

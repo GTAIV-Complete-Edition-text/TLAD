@@ -24,7 +24,7 @@
 0x04D97022=~z~现在是全面战争了，Johnny。就像过去一样。
 
 ;0x05478B90=~z~Okay boys, the time for pussy licking and ass kissing is over.
-0x05478B90=~z~好了，孩子们，该拍的马屁都拍完了。
+0x05478B90=~z~好了，小的们，该拍的马屁都拍完了。
 
 ;0x061A7CA8=~z~No.
 0x061A7CA8=~z~没有。
@@ -1067,7 +1067,7 @@
 0xF3202C34=E1B3_ZC
 
 ;0xF48B8D44=~z~Yeah, I need to do some learning. Mind if I practice on you, Brian?
-0xF48B8D44=~z~是啊，我是得好好学着。介意我拿你练习吗，Brian？
+0xF48B8D44=~z~是啊，我是得多学着点。介意我拿你练习吗，Brian？
 
 ;0xF52718B4=~z~Shit. Brian's gone and fucking bought it.
 0xF52718B4=~z~妈的。Brian走了，代价惨痛。
@@ -1079,7 +1079,7 @@
 0xF75933E8=~z~现在从老子面前消失。
 
 ;0xF779F345=~z~he got any piece of hole he wanted,
-0xF779F345=~z~对欲望则照单全收，
+0xF779F345=~z~搞娘们手到擒来。
 
 ;0xF8341166=SFX_PAUSE_300
 0xF8341166=SFX_PAUSE_300

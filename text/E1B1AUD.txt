@@ -699,7 +699,7 @@
 0x5F96DD50=~z~给我一些烈酒，一些毒品，让我骑着机车上路。我只需要这些。偶尔再来点艳遇。
 
 ;0x601F5B9F=~z~And when you do, give me a call and we'll get back to business.
-0x601F5B9F=~z~等你发泄完，给我打个电话，我们回归正事。
+0x601F5B9F=~z~发泄完了，给我打个电话，我们回归正事。
 
 ;0x605AD0D1=SFX_PAUSE_150
 0x605AD0D1=SFX_PAUSE_150
@@ -891,7 +891,7 @@
 0x74164DF4=~z~回去以后我把你眼睛蒙住，然后你就往后倒，相信有兄弟
 
 ;0x74D33C8C=~z~Man, I thought you was dead...
-0x74D33C8C=~z~老兄，我还以为你死了...
+0x74D33C8C=~z~天哪，我还以为你死了...
 
 ;0x74EB58F5=~z~That guy with the bone yard might know where the bike is. He's over on Guantanamo.
 0x74EB58F5=~z~废车场那人可能知道车的下落。他就在Guantanamo大道。
@@ -1011,7 +1011,7 @@
 0x86057CB2=E1B1_YB
 
 ;0x8773AD09=~z~You just don't get it, do you? This is what it's about. This. Not that money shit.
-0x8773AD09=~z~你就是不明白是吧？尊重才是最重要的。尊重，不是钱的事。
+0x8773AD09=~z~你就是不明白是吧？尊重才是最重要的。尊重，与钱无关。
 
 ;0x87C2766C=~z~Religion, Billy. Religion. I gave up with faith.
 0x87C2766C=~z~是宗教，Billy。宗教。信仰我早放弃了。
@@ -1038,7 +1038,7 @@
 0x8961EBE6=SFX_PAUSE_240
 
 ;0x8989ABB5=~z~You and Angus built that bike for me.
-0x8989ABB5=~z~我的车是你和Angus的心血啊。
+0x8989ABB5=~z~那辆车是你和Angus的心血啊。
 
 ;0x89DC2871=SFX_PAUSE_230
 0x89DC2871=SFX_PAUSE_230

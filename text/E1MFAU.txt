@@ -387,7 +387,7 @@
 0x5EA26697=SFX_PAUSE_370
 
 ;0x5F1F31AF=~z~Meet me at your Clubhouse. I drink single malt.
-0x5F1F31AF=~z~来你们会所找我。我喝单一麦芽(威士忌)。
+0x5F1F31AF=~z~来你们会所找我。我喝单一麦芽威士忌。
 
 ;0x5FC2297D=E1MF_FD
 0x5FC2297D=E1MF_FD
@@ -828,7 +828,7 @@
 0xD8A857B2=SFX_PAUSE_350
 
 ;0xD8ACBB52=~z~As long as it ain't gonna get us in the shit with any more dirty cops.
-0xD8ACBB52=~z~只要不会再害我们被臭条子盯上就行。
+0xD8ACBB52=~z~只要不会害我们再被臭条子盯上就行。
 
 ;0xD934EF8F=010090100090010090100090010090100090100
 0xD934EF8F=010090100090010090100090010090100090100
@@ -861,7 +861,7 @@
 0xE1C9686D=SFX_PAUSE_260
 
 ;0xE1D62D77=~z~Fuck you, Johnny. Why you being like that? I just like Billy, that's all.
-0xE1D62D77=~z~操你妈的，Johnny。你怎么会这样？我只是喜欢Billy，仅此而已。
+0xE1D62D77=~z~操你妈的，Johnny。说这种话干嘛？我只是喜欢Billy，仅此而已。
 
 ;0xE1E0FD88=E1MF_DA
 0xE1E0FD88=E1MF_DA

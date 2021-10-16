@@ -108,13 +108,13 @@
 0x19D39753=SFX_PAUSE_300
 
 ;0x1A353C15=~z~Those that're worth having behind you, at least.
-0x1A353C15=~z~至少值得支持你的弟兄是。
+0x1A353C15=~z~至少那些值得信赖的弟兄会支持你。 
 
 ;0x1A42728E=SFX_PAUSE_460
 0x1A42728E=SFX_PAUSE_460
 
 ;0x1AF6A9C4=~z~Well things should be better for a whole heap of people.
-0x1AF6A9C4=~z~很多人的日子都不该如此的。
+0x1AF6A9C4=~z~很多人的人生都不该如此的。
 
 ;0x1B14C7A3=~z~Hey, Angus. You seen much of Billy yet?
 0x1B14C7A3=~z~嘿，Angus。最近有碰到Billy吗？
@@ -534,7 +534,7 @@
 0x8C7338F8=SFX_PAUSE_500
 
 ;0x8CD08D76=~z~You're a good man, Johnny. Things should have worked out better for ya.
-0x8CD08D76=~z~你是个好人，Johnny。你的日子不该是现在这样的。
+0x8CD08D76=~z~你是个好人，Johnny。你的人生不该是现在这样的。
 
 ;0x8CD46C1A=100090010090100090010090100090010090010090100090010
 0x8CD46C1A=100090010090100090010090100090010090010090100090010
@@ -690,7 +690,7 @@
 0xBEB2218A=SFX_PAUSE_290
 
 ;0xBEC20530=~z~Those that ain't gonna stab me in the back. You gonna go see Billy? I don't think I can after what he said.
-0xBEC20530=~z~那些不会背刺我的弟兄是。你去探望Billy吗？他说了那种话，我想我去不了了。
+0xBEC20530=~z~也是那些不会背刺我的弟兄。你去探望Billy吗？他说了那种话，我想我去不了了。
 
 ;0xBF901808=SFX_PAUSE_200
 0xBF901808=SFX_PAUSE_200

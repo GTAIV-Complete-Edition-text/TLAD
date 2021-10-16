@@ -1,6 +1,6 @@
 ﻿[E1E2AUD]
 ;0x006A9DE5=~z~We go now?
-0x006A9DE5=~z~现在我们去？
+0x006A9DE5=~z~能走了吗？
 
 ;0x00752D39=192
 0x00752D39=192
@@ -159,7 +159,7 @@
 0x25B9586C=~z~我带你回 Liz家。明白？
 
 ;0x266A5272=~z~-This is gonna be fun. Come on baby.~n~-Hey yo! Yo!
-0x266A5272=~z~－会很有趣的，来吧宝贝。~n~－嘿哟！哟！
+0x266A5272=~z~－会很有趣的，来吧宝贝。~n~－喂！哟！哟！
 
 ;0x29260BCB=~z~Me no hablo mucho Spanish, lady.
 0x29260BCB=~z~我滴，西班牙语不懂滴干活。
@@ -189,7 +189,7 @@
 0x3137F529=~z~－喂！等等。你是Marta吗？~n~－是！是！
 
 ;0x31C8A8B6=~z~Hombres. Lost MC.
-0x31C8A8B6=~z~人间。失落帮。
+0x31C8A8B6=~z~男人。失落帮。
 
 ;0x32BB7C2D=E1E2_A_CA
 0x32BB7C2D=E1E2_A_CA
@@ -249,7 +249,7 @@
 0x3E1E9C94=~z~招待不周还请原谅，小姑娘。麻烦你躲好。
 
 ;0x3F5AB798=~z~~x~Ah... entiendo.
-0x3F5AB798=~z~~c~啊...理解。
+0x3F5AB798=~z~~c~啊...理解。你假装大男子，其实喜欢同性的兄弟，跟我一样。
 
 ;0x43139A6D=E1E2_A_CB
 0x43139A6D=E1E2_A_CB
@@ -394,7 +394,7 @@
 0x6828AB49=~z~好吧。
 
 ;0x695D97DF=~z~~c~Elizabeta and me? We met in Puerto Rico, on a very hot night.~s~
-0x695D97DF=~z~~c~Elizabeta和我？我们在波多黎各邂逅，一个激情火热的夜晚。~s~
+0x695D97DF=~z~~c~Elizabeta和我？我们在波多黎各邂逅，激情火热的夜晚。~s~
 
 ;0x6A27915F=E1E2_UA
 0x6A27915F=E1E2_UA
@@ -523,7 +523,7 @@
 0x92630271=E1E2_KB
 
 ;0x9414E10B=~z~~c~You pretend to be macho, but you like members of the same sex, as I do. How crazy.~s~
-0x9414E10B=~z~~c~你假装大男子，其实喜欢同性的兄弟，跟我一样。真是狂人。~s~
+0x9414E10B=~z~~c~真是疯狂。~s~
 
 ;0x94666AB1=E1E2_OC
 0x94666AB1=E1E2_OC
@@ -874,7 +874,7 @@
 0xE21A16BD=~z~好了，兄弟们。上工了。
 
 ;0xE243C6C7=~z~Okay, Johnny. My name is Marta.
-0xE243C6C7=~z~好的，Johnny。我名前Marta。
+0xE243C6C7=~z~好的，Johnny。我名字Marta。
 
 ;0xE44FA395=~z~Now you're starting to sound like Billy.
 0xE44FA395=~z~你这话像是Billy会说的。
@@ -913,7 +913,7 @@
 0xEB6F77CC=~z~用不着怕我朋友Johnny。他...他确实有点丑，但他不咬人。
 
 ;0xEC9D1E68=~z~You Liz Torres old friends? You, Liz amigos?
-0xEC9D1E68=~z~你，Liz Torres，老朋友？你，Liz，友达？
+0xEC9D1E68=~z~你，Liz Torres，老朋友？你，Liz，友人？
 
 ;0xEF53B130=~z~Kick some ass, boys. We got to look after the lady.
 0xEF53B130=~z~加把劲，兄弟们。我们要保护好姑娘。

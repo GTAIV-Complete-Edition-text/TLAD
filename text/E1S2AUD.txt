@@ -201,7 +201,7 @@
 0x429B93B8=~z~我才不要回去。
 
 ;0x4317E7B8=~z~A panhead, shovelhead, V-twin?
-0x4317E7B8=~z~Panhead？Shovelhead？V-twin？
+0x4317E7B8=~z~盘头？铲头？V型双缸？
 
 ;0x432A30E7=~z~Get out the fucking way.
 0x432A30E7=~z~别他妈挡路。
@@ -402,7 +402,7 @@
 0x75E3DD71=070
 
 ;0x77BC897D=~z~these gentlemen are in a prison transport bus,
-0x77BC897D=~z~这些人现在在一辆囚车上，
+0x77BC897D=~z~这些人现在在一辆囚车上。
 
 ;0x77DE4CB4=~z~Alright!
 0x77DE4CB4=~z~好了！
@@ -447,7 +447,7 @@
 0x8550B533=~z~被抓进去的话，谁想当我室友？
 
 ;0x8566A4D1=~z~No, all you need to know is that, uh,
-0x8566A4D1=~z~你需要知道的只有，呃，
+0x8566A4D1=~z~你需要知道的只有...
 
 ;0x8597BDD1=E1S2_CA
 0x8597BDD1=E1S2_CA
@@ -471,7 +471,7 @@
 0x889EE9F0=E1S2_SJ
 
 ;0x8917FB9A=~z~Use these keys to get out them shackles, boys.
-0x8917FB9A=~z~用这些钥匙把手铐打开，伙计们。
+0x8917FB9A=~z~用这串钥匙把手铐打开，伙计们。
 
 ;0x8B0BA806=SFX_PAUSE_130
 0x8B0BA806=SFX_PAUSE_130
@@ -600,7 +600,7 @@
 0xB5371DD3=SFX_PAUSE_100
 
 ;0xB5A44033=~z~So, umm, what're you folks in for?
-0xB5A44033=~z~所以，呃，各位是为啥被捕的？
+0xB5A44033=~z~所以...各位是为啥被捕的？
 
 ;0xB815F3FA=E1S2_SD
 0xB815F3FA=E1S2_SD
@@ -741,7 +741,7 @@
 0xE98A26CE=~z~恐怕我不能带你的雅皮士朋友逃出生天了，Stubbs先生。
 
 ;0xEBA9EAA6=~z~Well, I think what I've learned is that there's always a man, dude.
-0xEBA9EAA6=~z~好吧，我的人生感悟是，总有人欠收拾，伙计。
+0xEBA9EAA6=~z~我的人生感悟是，总有人欠收拾，伙计。
 
 ;0xEBC07AEF=E1S2_A_EA
 0xEBC07AEF=E1S2_A_EA

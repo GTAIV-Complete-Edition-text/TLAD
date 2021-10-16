@@ -1,6 +1,6 @@
 ﻿[E1B6AUD]
 ;0x002DE0F3=~z~Jim, I love you man, but since you've hit middle age, you've really lost something...
-0x002DE0F3=~z~Jim，我爱你，兄弟。但自从你进入中年，你就少了点东西...
+0x002DE0F3=~z~Jim，我爱你，兄弟。但自从进入中年，你就少了点东西...
 
 ;0x01511E51=E1B6_A_CB
 0x01511E51=E1B6_A_CB
@@ -450,7 +450,7 @@
 0x45E8E4DC=E1B6_A_DC
 
 ;0x470CF253=~z~Look we have a business opportunity here Johnny.
-0x470CF253=~z~我们现在有个做生意的机会，Johnny。
+0x470CF253=~z~现在有个做生意的机会，Johnny。
 
 ;0x47355051=~z~That's bullshit. If you were looking out for us, where were you when me and Johhny had to fight our way outta there?
 0x47355051=~z~放屁吧你。要是真在暗地保护，我和Johnny杀出重围的时候你在哪里？
@@ -714,7 +714,7 @@
 0x6B450A00=E1B6_A_NA
 
 ;0x6B8868BC=~z~Too right, man. Guy like you shouldn't waste his time with all that shit.
-0x6B8868BC=~z~太对了，兄弟。你这种人就不该在这种事情上浪费时间。
+0x6B8868BC=~z~太对了，兄弟。你这种人就不该在娘们身上浪费时间。
 
 ;0x6BFCB004=E1B6_YA
 0x6BFCB004=E1B6_YA
@@ -894,7 +894,7 @@
 0x82030318=SFX_PAUSE_030
 
 ;0x84085698=~z~When people hear about Billy going down, there's gonna be more pressure on us than ever.
-0x84085698=~z~别人一知道Billy进去了，我们面对的压力还会更大。
+0x84085698=~z~等别人知道Billy进去了，我们面对的压力还会更大。
 
 ;0x856E940F=~z~Sure she did. Probably ran good before you touched her. Get out my face, Brian.
 0x856E940F=~z~当然了，你碰之前估计是好好的。滚蛋吧，Brian。
@@ -1437,7 +1437,7 @@
 0xDC9FFFAA=~z~我证明你妈呢，我也没去哪里告发。
 
 ;0xDD499ED2=~z~The Deadbeats told them we got it and they want it back.
-0xDD499ED2=~z~死妈天使跟他们说货在我们手里，中国人现在想要回去。
+0xDD499ED2=~z~死妈天使说货在我们手里，中国人现在想要回去。
 
 ;0xDD8328B8=E1B6_A_KE
 0xDD8328B8=E1B6_A_KE
@@ -1569,7 +1569,7 @@
 0xEF86CA26=E1B6_A_HA
 
 ;0xF0027F83=~z~We got more important things to think about. Without Billy we got no leader.
-0xF0027F83=~z~我们有更重要的事情要考虑。Billy不在我们就群龙无首了。
+0xF0027F83=~z~还有更重要的事情要考虑。Billy不在我们就群龙无首了。
 
 ;0xF03393E9=~z~This better be cool man.
 0xF03393E9=~z~最好别出事，兄弟。

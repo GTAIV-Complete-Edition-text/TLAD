@@ -27,7 +27,7 @@
 0x4FBC9AF8=~r~你攻击了Malc。
 
 ;0x50AA24EC=Go to ~b~Malc.
-0x50AA24EC=去找 ~b~Malc。
+0x50AA24EC=去找~b~Malc。
 
 ;0x55C90032=~r~Roman Bellic was spooked.
 0x55C90032=~r~Roman Bellic被吓跑了。

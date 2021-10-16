@@ -399,7 +399,7 @@
 0xE423A4D3=E1J4_BA
 
 ;0xE667D341=~z~Yeah, Malc and DeSean are good guys. No bullshit. Apart from the hairdryers they ride.
-0xE667D341=~z~嗯，Macl和DeSean都是好人。不骗你。坏就坏在都爱骑「吹风机」。
+0xE667D341=~z~嗯，Malc和DeSean都是好人。不骗你。坏就坏在都爱骑「吹风机」。
 
 ;0xE9A26D3A=~z~Dude, I got me some new toys that go boom. Put in your ear plugs and come join me.
 0xE9A26D3A=~z~老兄，我搞到些会爆炸的新玩具。戴上你的耳塞跟我来。

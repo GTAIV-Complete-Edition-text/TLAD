@@ -150,7 +150,7 @@
 0x4D7A8DCA=SFX_PAUSE_230
 
 ;0x4EEECDBD=~z~Trust me man, nothing would please me more,
-0x4EEECDBD=~z~相信我，哥们，我是不会得意的，
+0x4EEECDBD=~z~相信我，哥们，我是不会得意的。
 
 ;0x509A5A5A=SFX_PAUSE_360
 0x509A5A5A=SFX_PAUSE_360
@@ -459,7 +459,7 @@
 0xEF417788=~z~来场盛大送行。
 
 ;0xF1AA9343=~z~Sadly, Stubbs, I'm not going to be able to disappoint you. Your uncle is no longer with us.
-0xF1AA9343=~z~很遗憾，Stubss，没能让你失望。你叔叔与世长辞了。
+0xF1AA9343=~z~很遗憾，Stubbs，没能让你失望。你叔叔与世长辞了。
 
 ;0xF2EB8C24=SFX_PAUSE_050
 0xF2EB8C24=SFX_PAUSE_050

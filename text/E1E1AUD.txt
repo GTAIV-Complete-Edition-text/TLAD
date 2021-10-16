@@ -283,7 +283,7 @@
 0x2C849058=~z~谁把货车打炸了，就滚回见习期吧。
 
 ;0x2D12425D=~z~Man, I don't know. What is worth it? Sticking our heads out to steal a truck of blow for a few thousand bucks?
-0x2D12425D=~z~兄弟，我不知道。又有什么是值得的？拿命去偷一车白粉，赚几千块钱值吗？
+0x2D12425D=~z~兄弟，我不知道。又有什么是值得的？~n~拿命去偷一车白粉，赚几千块钱值吗？
 
 ;0x2D4D257D=~z~-Turn around now...~n~-Hey look, I got some change right here.
 0x2D4D257D=~z~－请回吧...~n~－喂，听着，我这儿有零钱。
@@ -337,7 +337,7 @@
 0x329C84B6=SFX_PAUSE_260
 
 ;0x3492A75A=~z~about the merits of good American machinery versus foreign plastic fantastic crap.
-0x3492A75A=~z~美国重机和外国塑料洋垃圾的好坏优劣上吧。
+0x3492A75A=~z~美国重机和塑料洋垃圾的好坏优劣上吧。
 
 ;0x34E1B49A=~z~Thanks guys.
 0x34E1B49A=~z~谢谢你们。
@@ -508,7 +508,7 @@
 0x4E129DA1=100090010090100090010090100
 
 ;0x4E70E5B3=~z~Hell, they going to want even more product when they lose their jobs
-0x4E70E5B3=~z~再说，这工作一丢，需求量不还得噌噌往上涨，
+0x4E70E5B3=~z~再说，工作一丢，需求量不还得噌噌往上涨，
 
 ;0x4F23D34D=190090190090190090190
 0x4F23D34D=190090190090190090190

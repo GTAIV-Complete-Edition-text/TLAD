@@ -186,7 +186,7 @@
 0x5CBCA8C4=100
 
 ;0x5DD296EB=~z~OK, let's race, man.
-0x5DD296EB=~z~好了, 开赛吧老哥。
+0x5DD296EB=~z~好了，开赛吧老哥。
 
 ;0x60ABB992=100
 0x60ABB992=100

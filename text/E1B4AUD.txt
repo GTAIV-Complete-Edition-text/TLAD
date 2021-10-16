@@ -372,7 +372,7 @@
 0x4FBF2A26=020
 
 ;0x50A0811F=~z~No disrespect in beating you, Bill. I'm still your humble servant.
-0x50A0811F=~z~我不是不尊重你，Bill。我还是你卑微的仆人。
+0x50A0811F=~z~比赢了不是不尊重你，Bill。我还是你卑微的仆人。
 
 ;0x50DB2D7B=010
 0x50DB2D7B=010
@@ -708,7 +708,7 @@
 0x93B158B4=~z~你们好啊，混蛋们。
 
 ;0x9430BEC4=~z~You gotta stop reading them shitty internet sites, man,
-0x9430BEC4=~z~你最好少看那些垃圾网站，伙计，
+0x9430BEC4=~z~别看那些垃圾网站了，伙计，
 
 ;0x94A43F0A=E1B4_GA
 0x94A43F0A=E1B4_GA
@@ -840,7 +840,7 @@
 0xAA3BCBD3=E1B4_A_VB
 
 ;0xABE027E9=~z~Angels of Death MC gonna fuck you, boys.
-0xABE027E9=~z~死亡天使摩托帮会干死你们的。
+0xABE027E9=~z~死亡天使会干死你们的。
 
 ;0xAC16C4B8=~z~Our chapter was all I had, Jim. I'll see you round.
 0xAC16C4B8=~z~我只有我们的分会，Jim。我们之后见。
@@ -942,7 +942,7 @@
 0xBF629106=~z~要么我们全速前进吧，会长先生。看看你还行不行？
 
 ;0xC06D8847=~z~Two million in arm candy's as good a payback as I can think of.
-0xC06D8847=~z~唾手可得的两百万可是最好的报酬。
+0xC06D8847=~z~唾手可得的两百万可是最好的弥补。
 
 ;0xC0994658=SFX_PAUSE_130
 0xC0994658=SFX_PAUSE_130

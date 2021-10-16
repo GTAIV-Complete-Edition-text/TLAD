@@ -369,7 +369,7 @@
 0xE9ADA02E=~z~听说你已经给海洛因找到下家了？
 
 ;0xE9D995BF=~z~and any other two bit hustler on the street
-0xE9D995BF=~z~和混道上的哪个流氓无赖
+0xE9D995BF=~z~和道上混的任何流氓无赖
 
 ;0xEC87CB5C=E1B5_ZA
 0xEC87CB5C=E1B5_ZA

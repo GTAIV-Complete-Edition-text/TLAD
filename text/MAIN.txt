@@ -990,7 +990,7 @@
 0x5020E957=Billy
 
 ;0xAF08D5FA=We need your input in a discussion, John. Come to the house.
-0xAF08D5FA=需要你来参加讨论， John。来会所一趟。
+0xAF08D5FA=需要你参加讨论， John。来会所一趟。
 
 ;0xFB446E74=Go see Liz Torres. She might be able to unload some of that shit we found. If it's cool, you can collect from Brian off Inchon Ave.
 0xFB446E74=去找 Liz Torres。她也许能帮我们脱手一些战利品。她肯帮忙的话，你可以去 Inchon 大道找 Brian 拿货。
@@ -1008,7 +1008,7 @@
 0x510E7B5B=你跑哪儿去了，兄弟？
 
 ;0xF4F5C32B=Meet me at Ray's...
-0xF4F5C32B=我在Ray的...
+0xF4F5C32B=我在Ray那...
 
 ;0xE3B720AE=Why didn't you show, man? We had a date.
 0xE3B720AE=你怎么没来，兄弟？我们说好的。
@@ -1638,40 +1638,40 @@
 0x9245A178=~r~You have lost Brian.
 
 ;0x59FB69F6=RACE ALDERNEY BEACH
-0x59FB69F6=RACE ALDERNEY BEACH
+0x59FB69F6=赛车 - ALDERNEY海岸
 
 ;0xD9B2E957=RACE ALDERNEY INDUSTRIAL
-0xD9B2E957=RACE ALDERNEY INDUSTRIAL
+0xD9B2E957=赛车 - ALDERNEY工业园
 
 ;0x8116B8A3=RACE TUDOR DOCKS
-0x8116B8A3=RACE TUDOR DOCKS
+0x8116B8A3=赛车 - TUDOR码头
 
 ;0xAF9386A8=RACE ALDERNEY_CITY
-0xAF9386A8=RACE ALDERNEY_CITY
+0xAF9386A8=赛车 - ALDERNEY市
 
 ;0xEFA29542=RACE ALDERNEY CASINO
-0xEFA29542=RACE ALDERNEY CASINO
+0xEFA29542=赛车 - ALDERNEY赌场
 
 ;0x29F1FAC7=RACE NORTH WEST ALDERNEY
-0x29F1FAC7=RACE NORTH WEST ALDERNEY
+0x29F1FAC7=赛车 - ALDERNEY西北
 
 ;0x3DA1ADC3=RACE HOLLAND
-0x3DA1ADC3=RACE HOLLAND
+0x3DA1ADC3=赛车 - HOLLAND
 
 ;0xB2AA0E7D=RACE PARK CIRCUIT
-0xB2AA0E7D=RACE PARK CIRCUIT
+0xB2AA0E7D=赛车 - 公园环线
 
 ;0x81343BAF=RACE BOHAN STRIP
-0x81343BAF=RACE BOHAN STRIP
+0x81343BAF=赛车 - BOHAN之旅
 
 ;0x4706C769=RACE BOHAN BEACH
-0x4706C769=RACE BOHAN BEACH
+0x4706C769=赛车 - BOHAN海岸
 
 ;0x0A77AA07=RACE BOHAN STEPS
-0x0A77AA07=RACE BOHAN STEPS
+0x0A77AA07=赛车 - BOHAN STEPS
 
 ;0x5D6DCFF2=RACE SCHOTTLER STATION
-0x5D6DCFF2=RACE SCHOTTLER STATION
+0x5D6DCFF2=赛车 - SCHOTTLER STATION
 
 ;0x9DCACDD5=The ~BLIP_114~ icon represents the meeting point for a gang war. Go to that location to meet with other Lost members. In gang wars you will battle with other gangs. There will be various gang wars around the city.
 0x9DCACDD5=~BLIP_114~图标表示帮派战争的集合地点。前往图标所示地点与其他失落帮成员会合，然后与其他帮派进行战斗。城市各处有许多帮派战争。

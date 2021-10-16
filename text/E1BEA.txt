@@ -618,7 +618,7 @@
 0xE03A3FC2=~z~你在哪呢，哥们？我现在有大麻烦。
 
 ;0xE2241916=~z~I can lone wolf it from here. I'll see you soon.
-0xE2241916=~z~我自己应付得了。再见了。
+0xE2241916=~z~剩下的我自己来吧。再见了。
 
 ;0xE6A58E84=E1BE_A_TA
 0xE6A58E84=E1BE_A_TA

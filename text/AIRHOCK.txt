@@ -18,7 +18,7 @@
 0x2E001EF6=用~PAD_LSTICK_ALL~移动推把。~n~向任意方向推动~PAD_RSTICK_ALL~重击。~n~按~PAD_BACK~切换视角。~n~按~INPUT_PICKUP~退出。
 
 ;0x3D31BD59=The first player to score 7 goals wins the game.
-0x3D31BD59=首先打进7球的玩家获胜。
+0x3D31BD59=首先打进7球的一方获胜。
 
 ;0x43ED572F=Use ~PAD_RSTICK_ALL~ to move the mallet. ~n~Press ~INPUT_NEXT_CAMERA~ to change view. ~n~Press ~INPUT_PICKUP~ to quit.
 0x43ED572F=用~PAD_RSTICK_ALL~移动推把。~n~按~INPUT_NEXT_CAMERA~切换视角。~n~按~INPUT_PICKUP~退出。

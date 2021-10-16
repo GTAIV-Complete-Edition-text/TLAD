@@ -637,7 +637,7 @@
 0xA749F5B1=~z~操你妈，狗腿子。对话到此为止。你要是有我犯罪的证据，拿逮捕令来抓我。
 
 ;0xA7BA2D18=~z~Him and The Lost MC. Me and the brothers are tight.
-0xA7BA2D18=~z~失落摩托帮也一样。弟兄们和我绝不告密。
+0xA7BA2D18=~z~失落帮也一样。弟兄们和我绝不告密。
 
 ;0xAA595C55=~z~You flogged that bitch, man. Good win.
 0xAA595C55=~z~被你吊打了啊，兄弟。厉害。
@@ -748,7 +748,7 @@
 0xC6CB2BFE=E1MF3_OD
 
 ;0xC80114C9=~z~A race? Too fucking right. I'm in, man. I'll be there as soon as I can.
-0xC80114C9=~z~赛车？当然有兴趣。我来，兄弟。我一有空就来。
+0xC80114C9=~z~赛车？当然有兴趣。我来，兄弟。有空了就来。
 
 ;0xC8571538=~z~The X! I felt like some tribal rhythm had taken a hold of me.
 0xC8571538=~z~那摇头丸！感觉就像是被哪种部落摇摆附身了。

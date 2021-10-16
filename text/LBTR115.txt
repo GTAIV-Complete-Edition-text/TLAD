@@ -24,7 +24,7 @@
 0x993E67D0=两名遭到调查的警官被谋杀。
 
 ;0xA302CB6B=It's time to wake up and smell the lukewarm, germ-infested airplane coffee. This recession is barely out of the starting block. Buy gold, stay at home and pray that your pension and healthcare policy are worth more than the paper they're written on by the time you reach retirement. The time to panic has arrived.
-0xA302CB6B=是时候清醒过来了，闻闻这杯温热的、充满细菌的机上咖啡吧。经济萧条还只是在相当早期的阶段。购买黄金，待在家里，祈祷退休时你的养老金和医保没有贬值到不如打印纸值钱。现在该开始恐慌了。
+0xA302CB6B=是时候清醒过来了，闻闻这杯温热的、充满细菌的机上咖啡吧。经济萧条尚处于相当早期的阶段。购买黄金，待在家里，祈祷退休时你的养老金和医保没有贬值到不如打印纸值钱。现在该开始恐慌了。
 
 ;0xAC723779=Crooked Cops Get Comeuppance
 0xAC723779=黑警遭报应

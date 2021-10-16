@@ -372,7 +372,7 @@
 0x3A2C810A=~z~咱们是朋友？
 
 ;0x3A30CECE=~z~I'm not gonna ask how you got in here, brother.
-0x3A30CECE=~z~我不会问你怎么进来的，兄弟。
+0x3A30CECE=~z~我不会问你是怎么进来的，兄弟。
 
 ;0x3B0B9DF4=010090010090010
 0x3B0B9DF4=010090010090010
@@ -498,7 +498,7 @@
 0x4C219A0B=SFX_PAUSE_190
 
 ;0x4CAD717F=~z~Terry, man, we got to pay our friend Billy a visit. He's been talking.
-0x4CAD717F=~z~Terry哥们，得去拜访下咱们的朋友Billy了。他在告发。
+0x4CAD717F=~z~Terry，哥们，得去拜访下咱们的朋友Billy了。他在告发。
 
 ;0x4CCABFD8=092
 0x4CCABFD8=092
@@ -1368,7 +1368,7 @@
 0xDD16372C=SFX_PAUSE_180
 
 ;0xDD5E952B=~z~Johnny, man. What the fuck?
-0xDD5E952B=~z~Johnny，哥们。什么鬼？
+0xDD5E952B=~z~Johnny，哥们。搞什么？
 
 ;0xDEC03B0F=E1S4_B_TB
 0xDEC03B0F=E1S4_B_TB
