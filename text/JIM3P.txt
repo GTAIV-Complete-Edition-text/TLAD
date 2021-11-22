@@ -51,7 +51,7 @@
 0xC86F76AB=~r~你已取消差事。~s~
 
 ;0xCD088045=~r~The bike was wrecked.~s~
-0xCD088045=~r~摩托车坏了。~s~
+0xCD088045=~r~目标摩托坏了。~s~
 
 ;0xD6703E64=Ex-Display
 0xD6703E64=展厅赃物
@@ -60,16 +60,16 @@
 0xD6D13F3A=纹身店挽歌
 
 ;0xDAB61B3C=Steal the ~b~bike.~s~
-0xDAB61B3C=偷走~b~摩托车。~s~
+0xDAB61B3C=偷走~b~摩托。~s~
 
 ;0xE083529E=Stripclub Hog
-0xE083529E=脱衣舞俱乐部的公猪
+0xE083529E=脱衣舞俱乐部的肥猪
 
 ;0xE11153A6=Get Off Your High Horse
 0xE11153A6=你给我下来
 
 ;0xE87336B6=Take the bike back to the ~y~clubhouse.~s~
-0xE87336B6=将摩托车送回~y~会所。~s~
+0xE87336B6=将摩托送回~y~会所。~s~
 
 ;0xF2DBF73B=A Ride in the Park
 0xF2DBF73B=公园骑行

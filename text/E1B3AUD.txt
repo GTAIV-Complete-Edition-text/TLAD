@@ -75,7 +75,7 @@
 0x12F8CA1E=~z~不想对你动手。我可不打女人。
 
 ;0x136092E6=~z~You shouldn't fuck with The Lost MC.
-0x136092E6=~z~你们不该招惹失落摩托帮的。
+0x136092E6=~z~你们不该招惹失落帮的。
 
 ;0x13743634=~z~Get in here, boys.
 0x13743634=~z~来这里，兄弟们。
@@ -442,7 +442,7 @@
 0x6747994F=102
 
 ;0x679F7CC4=~z~You Deadbeats think you can fuck with The Lost?
-0x679F7CC4=~z~死妈天使还敢跟失落摩托对着干？
+0x679F7CC4=~z~死妈天使还敢跟失落帮对着干？
 
 ;0x67D3D417=~z~and he was scared of precisely jack shit.
 0x67D3D417=~z~而且永远都无所畏惧。
@@ -541,7 +541,7 @@
 0x7C489850=E1B3_JA
 
 ;0x7C9F47FB=~z~Saddle up, brothers. These fucks are dead.
-0x7C9F47FB=~z~振作起来，兄弟们。这些混蛋都死了。
+0x7C9F47FB=~z~准备上车，兄弟们。这些混蛋都死了。
 
 ;0x7CB3A324=E1B3_IA
 0x7CB3A324=E1B3_IA
@@ -766,7 +766,7 @@
 0xB2898EC4=~z~和Bill在一起他们就惹不起了。哈哈。没人敢招惹Bill。
 
 ;0xB3E18974=~z~Billy, man. So long brother.
-0xB3E18974=~z~Billy，伙计。再见了兄弟。
+0xB3E18974=~z~Billy，天哪。再见了兄弟。
 
 ;0xB489DE40=~z~I'm a complicated individual and I've got serious authority issues.
 0xB489DE40=~z~我是个复杂的人，还有严重的权威情结*。~n~(指脑子反抗权威，身体顺从权威)
@@ -1001,7 +1001,7 @@
 0xE43F38F2=~z~然后找点乐子？
 
 ;0xE461B4ED=~z~This is Lost turf, assholes.
-0xE461B4ED=~z~这里是失落帮的地盘，混蛋们。
+0xE461B4ED=~z~这是我们的地盘，混蛋。
 
 ;0xE4FEB029=E1B3_QC
 0xE4FEB029=E1B3_QC

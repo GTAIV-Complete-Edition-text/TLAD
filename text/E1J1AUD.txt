@@ -1023,7 +1023,7 @@
 0xFE9F9DBA=~z~没人会来报案找这些车的，放我们一马吧。
 
 ;0xFEB2040A=~z~Luck's a perverse thing ain't it? How are Jackie and the kid?
-0xFEB2040A=~z~运气就是这么反复无常不是吗？Jackie和孩子最近好吗？
+0xFEB2040A=~z~运气就是这么反复无常啊。Jackie和孩子最近好吗？
 
 ;0xFF9D2D9D=~z~Get away from these cops, man.
 0xFF9D2D9D=~z~甩掉这些条子。

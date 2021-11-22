@@ -105,7 +105,7 @@
 0x12190ADB=E1B6_A_RB
 
 ;0x1282738A=~z~We got to get through it. Brothers for life, man. Lost forever. I'll see you soon.
-0x1282738A=~z~我们要挺过去。生死兄弟情，哥们。失落帮万岁。我们以后见。
+0x1282738A=~z~我们要挺过去。生死兄弟情，哥们。失落帮万岁。以后见。
 
 ;0x128F86D9=E1B6_ZA
 0x128F86D9=E1B6_ZA
@@ -309,7 +309,7 @@
 0x335BC342=~z~他在罩我们...就是这样。
 
 ;0x3362E175=~z~I had to help myself, man. I mean, I can't be expected to...
-0x3362E175=~z~我得先保护好自己，兄弟。我是说，也不能指望我...
+0x3362E175=~z~我得先保护好自己，兄弟。我是说，总不能指望我...
 
 ;0x350FA9F0=~z~Hey Brian. Johnny's not like that, man.
 0x350FA9F0=~z~喂，Brian。Johnny不是那种人，兄弟。
@@ -669,7 +669,7 @@
 0x64DA2341=~z~想找事吗？啊？我现在可有点疯。
 
 ;0x6543B2AA=~z~Fuck, man. Billy's gonna go away for good with those priors of his.
-0x6543B2AA=~z~操你妈，兄弟。有之前的案底在，Billy这次是回不来了。
+0x6543B2AA=~z~操了，兄弟。有之前的案底在，Billy这次是回不来了。
 
 ;0x663812DC=~z~prove you ain't been speaking to the law.
 0x663812DC=~z~证明你没有在告发啊。
@@ -1011,7 +1011,7 @@
 0x9352FB2F=E1B6_A_DA
 
 ;0x96759E5C=~z~Let's get out of here.
-0x96759E5C=~z~一起逃出这里。
+0x96759E5C=~z~一起逃出去。
 
 ;0x97F807EB=~z~I'd never talk to a pig. But there's a lesson to be learned, alright.
 0x97F807EB=~z~我不可能告密的。但的确要记住他的教训。
@@ -1299,7 +1299,7 @@
 0xC3E8E980=~z~我们来了，你等着。
 
 ;0xC3F1B731=~z~Fine, okay. I'm just hoping my brothers didn't send me into an ambush.
-0xC3F1B731=~z~行，好。我只是希望不是有兄弟送我进埋伏圈。
+0xC3F1B731=~z~行，好。我只是希望不是有兄弟设局陷害我。
 
 ;0xC57C110C=~z~Jim, dude, you ready for this?
 0xC57C110C=~z~Jim，老兄，你准备好了吗？

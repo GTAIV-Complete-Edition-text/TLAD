@@ -282,7 +282,7 @@
 0x5EBC2C9C=~z~原本被称作「痉挛基佬话」。
 
 ;0x5F620DDE=~z~"I wasn't talking to you, mate - I was talking to the cheese".
-0x5F620DDE=~z~「我没在说你，哥们，我在跟奶酪说话。」
+0x5F620DDE=~z~「没跟你说话，哥们，我在跟奶酪说话。」
 
 ;0x60DD4E25=~z~and you don't have to wake anybody up.
 0x60DD4E25=~z~就可以神不知鬼不觉了。
@@ -573,7 +573,7 @@
 0xAE347297=~z~你担心小姑娘越长越大吗？
 
 ;0xAFB3682C=~z~has exactly the same pheromone scent as an orangutan female?
-0xAFB3682C=~z~身上的体位跟母猩猩是一样的。
+0xAFB3682C=~z~身上的味道跟母猩猩是一样的。
 
 ;0xB0267673=~z~you trying to shag an eighteen year old girl
 0xB0267673=~z~你跟十八岁的姑娘打炮

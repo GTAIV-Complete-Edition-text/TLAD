@@ -1401,7 +1401,7 @@
 0xE2172DBC=300090300090300090030300300090300300
 
 ;0xE23A81C6=~z~How many of you assholes are on the take, huh?
-0xE23A81C6=~z~你们有几个人没受过贿啊？
+0xE23A81C6=~z~你们有几个人手脚干净啊？
 
 ;0xE2E5A217=E1S4_CA
 0xE2E5A217=E1S4_CA

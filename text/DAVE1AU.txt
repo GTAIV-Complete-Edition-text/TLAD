@@ -1,6 +1,6 @@
 ﻿[DAVE1AU]
 ;0x033FC042=~z~Put the brakes on your case against Dave Grossman or you'll be one good fucking lawyer, dude.
-0x033FC042=~z~停止你对 Dave Grossman 的诉讼，否则我把你变成好律师，伙计。
+0x033FC042=~z~停止你对Dave Grossman的诉讼，否则我把你变成好律师，伙计。
 
 ;0x05F15B46=SFX_PAUSE_340
 0x05F15B46=SFX_PAUSE_340
@@ -120,7 +120,7 @@
 0x5E3B5A77=~z~失落帮成员的生活不止是开支票和擦摩托。再见。
 
 ;0x5F203DBA=~z~Dave Grossman speaking
-0x5F203DBA=~z~我是 Dave Grossman。
+0x5F203DBA=~z~我是Dave Grossman。
 
 ;0x6F11EA2A=DAVE1_AA
 0x6F11EA2A=DAVE1_AA

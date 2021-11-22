@@ -9,7 +9,7 @@
 0x0549C024=~z~噢，Klebitz，相信我...
 
 ;0x05A3244B=~z~Make it appear as though it's a terrorist act.
-0x05A3244B=~z~装作是一场恐怖袭击。
+0x05A3244B=~z~伪装成一场恐怖袭击。
 
 ;0x0643CF55=E1S1_EB
 0x0643CF55=E1S1_EB

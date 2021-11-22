@@ -78,7 +78,7 @@
 0x16BCA46E=~z~春游结束了。
 
 ;0x17AC5538=~z~This guy's a dangerous motherfucker.
-0x17AC5538=~z~这孙子很危险啊。
+0x17AC5538=~z~这逼太危险了吧。
 
 ;0x1804AA2A=E1R2_CB
 0x1804AA2A=E1R2_CB

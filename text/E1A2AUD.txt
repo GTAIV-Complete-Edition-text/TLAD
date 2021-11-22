@@ -786,7 +786,7 @@
 0x6A3F50D1=SFX_PAUSE_200
 
 ;0x6B0D5EDD=~z~I dunno. I'm doin' this as a favor for a friend.
-0x6B0D5EDD=~z~不知道，我也只是在替朋友帮忙。
+0x6B0D5EDD=~z~不知道，我只是在替朋友帮忙。
 
 ;0x6B1DE37F=~z~~s~
 0x6B1DE37F=~z~~s~
@@ -966,7 +966,7 @@
 0x8281E25B=~z~滚回来！
 
 ;0x82C91298=~z~I told you, I like this gun. I ain't getting no bodies on it. Not today.
-0x82C91298=~z~哟，我说了，我喜欢这枪。暂时不想让它沾血，现在不行。
+0x82C91298=~z~哟，我说了，我喜欢这枪。暂时不想沾上血，现在不行。
 
 ;0x833F8608=SFX_PAUSE_190
 0x833F8608=SFX_PAUSE_190
@@ -1239,7 +1239,7 @@
 0xA68E1170=~z~好的，好的。我堂弟，他有钱。他会给你们钱。
 
 ;0xA71BCDD3=~z~Man, I just got me this nine. I don't wanna go puttin' no bodies on it already.
-0xA71BCDD3=~z~妈的，我这枪新换的，不想这么快就让它沾血。
+0xA71BCDD3=~z~妈的，我这枪新换的，不想这么快就沾上血。
 
 ;0xA8C2C3F5=E1A2_PA
 0xA8C2C3F5=E1A2_PA
@@ -1356,7 +1356,7 @@
 0xB3B4604F=SFX_PAUSE_120
 
 ;0xB4268477=~z~Those Russians have got their guy. You got lucky, but you got to control yourself, Ashley.
-0xB4268477=~z~俄国人已经收到人质了。算你走运，麻烦你管住自己，Ashley。
+0xB4268477=~z~人质交给俄国人了。算你走运，麻烦你管住自己，Ashley。
 
 ;0xB42BC4A0=~z~We're lucky that the fat man can't run. Next time, lock the damn hostage up.
 0xB42BC4A0=~z~幸好胖子跑不了多远。下次，把人质锁好了。
@@ -1740,7 +1740,7 @@
 0xE3EF1419=SFX_PAUSE_120
 
 ;0xE4BD65E1=~z~Malc, tell this gentlemen what my kind of people do to guys who try to buy their way out.
-0xE4BD65E1=~z~Malc，告诉这位先生，我这种人会怎么对待想花钱走后门的人。
+0xE4BD65E1=~z~Malc，告诉这位先生，我会怎么对待想花钱走后门的人。
 
 ;0xE53FC0C2=SFX_PAUSE_290
 0xE53FC0C2=SFX_PAUSE_290

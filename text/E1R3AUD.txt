@@ -306,7 +306,7 @@
 0x6F81CEAD=~z~我打赌Billy不会让你们干这些破事。
 
 ;0x70F00F51=~z~Go ahead, run like a couple of girls.
-0x70F00F51=~z~出去像娘们儿一样逃跑吧。
+0x70F00F51=~z~出去像娘们一样逃跑吧。
 
 ;0x71260A45=~z~Back the fuck up, back up.
 0x71260A45=~z~你他妈退后，退后。

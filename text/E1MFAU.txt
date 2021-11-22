@@ -489,7 +489,7 @@
 0x786C50B1=~z~我今天没心情替二代人上人杀人。
 
 ;0x787BC101=~z~If you're interested in helping me out with this, you can call me and I'll tell you what I need.
-0x787BC101=~z~如果有兴趣帮我的忙，你就打过来找我，我会告诉你要求。
+0x787BC101=~z~如果有兴趣帮我的忙，你就联系我，我会告诉你要求。
 
 ;0x78996A81=~z~Liz Torres needs a hand with something, I told her you'd be down for it.
 0x78996A81=~z~Liz Torres需要一个帮手，我跟她推荐了你。
@@ -759,7 +759,7 @@
 0xC6D25B65=SFX_PAUSE_260
 
 ;0xC7BAD994=~z~I'll call if I feel the need to keep you in the lifestyle to which you're accustomed.
-0xC7BAD994=~z~哪天想帮你维系锦衣玉食的生活方式了，我就打过来找你。
+0xC7BAD994=~z~哪天想帮你维系锦衣玉食的生活方式了，我再联系你。
 
 ;0xC7C249C7=SFX_PAUSE_390
 0xC7C249C7=SFX_PAUSE_390
@@ -828,7 +828,7 @@
 0xD8A857B2=SFX_PAUSE_350
 
 ;0xD8ACBB52=~z~As long as it ain't gonna get us in the shit with any more dirty cops.
-0xD8ACBB52=~z~只要不会害我们再被臭条子盯上就行。
+0xD8ACBB52=~z~别害我们再被臭条子盯上就行。
 
 ;0xD934EF8F=010090100090010090100090010090100090100
 0xD934EF8F=010090100090010090100090010090100090100

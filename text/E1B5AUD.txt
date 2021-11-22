@@ -258,7 +258,7 @@
 0x9E18CE7A=~z~我有一个好消息和一个坏消息。坏消息是我们死了一个弟兄，好消息是死的是Brian。
 
 ;0xA343D284=~z~Well either way it ain't coming back to you, Liz.
-0xA343D284=~z~不管谁是卧底警察都不会追查到你了，Liz。
+0xA343D284=~z~谁是卧底警察都查不到你的，Liz。
 
 ;0xA3A84DC7=~z~Fuck you!
 0xA3A84DC7=~z~操你妈！
@@ -366,7 +366,7 @@
 0xE3BC1C86=E1J6_QE
 
 ;0xE9ADA02E=~z~Listen I also heard you got somebody for that brown?
-0xE9ADA02E=~z~听说你已经给海洛因找到下家了？
+0xE9ADA02E=~z~听说你给海洛因找到下家了？
 
 ;0xE9D995BF=~z~and any other two bit hustler on the street
 0xE9D995BF=~z~和道上混的任何流氓无赖

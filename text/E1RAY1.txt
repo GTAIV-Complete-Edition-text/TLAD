@@ -42,7 +42,7 @@
 0xBE8CC149=前往~y~码头。
 
 ;0xC4755769=Lead your brothers to the ~y~docks.
-0xC4755769=带领你的弟兄前往~y~码头。
+0xC4755769=带领弟兄们前往~y~码头。
 
 ;0xC6D13048=Catch up with the other ~b~Lost gang members.
 0xC6D13048=赶上其他的~b~失落帮成员。

@@ -594,7 +594,7 @@
 0x9A2842F5=~z~皇冠果然很重吧？无论如何，我支持你，兄弟。相信弟兄们都是如此。
 
 ;0x9B5D2BCB=~z~I don't know what's left for her other than that need to fuck up everything around her.
-0x9B5D2BCB=~z~都不知道她脑子里还剩什么，只会把一切搞得一团糟、
+0x9B5D2BCB=~z~都不知道她脑子里还剩什么，只会把一切搞得一团糟。
 
 ;0x9B73D415=SFX_PAUSE_550
 0x9B73D415=SFX_PAUSE_550
@@ -690,7 +690,7 @@
 0xBEB2218A=SFX_PAUSE_290
 
 ;0xBEC20530=~z~Those that ain't gonna stab me in the back. You gonna go see Billy? I don't think I can after what he said.
-0xBEC20530=~z~也是那些不会背刺我的弟兄。你去探望Billy吗？他说了那种话，我想我去不了了。
+0xBEC20530=~z~也是那些不会背刺我的弟兄。你去探望Billy吗？他说了那种话，我可能去不了了。
 
 ;0xBF901808=SFX_PAUSE_200
 0xBF901808=SFX_PAUSE_200

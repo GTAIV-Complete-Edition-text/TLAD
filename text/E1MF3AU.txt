@@ -63,7 +63,7 @@
 0x0E405F13=010090100090010090010090100090100
 
 ;0x0E6437F3=~z~How's your fancy European friend working out?
-0x0E6437F3=~z~你那个东欧朋友还好吗？
+0x0E6437F3=~z~你的东欧朋友还好吗？
 
 ;0x0F4D3DA3=E1MF3_MA
 0x0F4D3DA3=E1MF3_MA
@@ -286,7 +286,7 @@
 0x448E4552=SFX_OVERLAP_5870
 
 ;0x464433A7=~z~Things might be easier for you if you give us some information on your motorcycle club.
-0x464433A7=~z~交出一些你们俱乐部的情报，你的日子会好过很多。
+0x464433A7=~z~告诉我你们摩托帮的情报，你的日子会好过很多。
 
 ;0x46C84CE2=E1MF3_BB
 0x46C84CE2=E1MF3_BB

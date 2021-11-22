@@ -90,7 +90,7 @@
 0x0EE02F1C=~z~欢迎回归，Bill。我们跟着你走。
 
 ;0x0F32F203=~z~You're out of line, Johnny. You're out of line.
-0x0F32F203=~z~你不行啊，Johnny。不太行啊。
+0x0F32F203=~z~别太过分啊，Johnny。别太过分。
 
 ;0x10067166=E1B1_A_MA
 0x10067166=E1B1_A_MA
@@ -246,7 +246,7 @@
 0x26A50BCB=~z~哦，原谅我。
 
 ;0x27B719CD=~z~You're gonna be up all night fucking and getting high. The bike'll wait til morning.
-0x27B719CD=~z~我看你只会翻云覆雨彻夜狂欢，到早上才想起车子的事。
+0x27B719CD=~z~我看你只会翻云覆雨彻夜狂欢，天亮了才想起车子的事。
 
 ;0x284291C6=~z~Yeah.
 0x284291C6=~z~确实。
@@ -453,7 +453,7 @@
 0x3F9495E2=SFX_PAUSE_500
 
 ;0x3FE7912A=~z~Lead the way, Mr. President.
-0x3FE7912A=~z~带队吧，会长先生。
+0x3FE7912A=~z~带队吧，会长大人。
 
 ;0x401A9DC5=E1B1_A_DM
 0x401A9DC5=E1B1_A_DM
@@ -498,7 +498,7 @@
 0x4659264D=E1B1_XA
 
 ;0x46E41C3A=~z~Brothers, I couldn't let you run this errand without me. You might fuck it up.
-0x46E41C3A=~z~弟兄们，这次的活不能光靠你们，可能会搞砸的。
+0x46E41C3A=~z~弟兄们，这次的活不能没我在，可能会搞砸的。
 
 ;0x472A22A4=~z~Easy, John.
 0x472A22A4=~z~放松，John。
@@ -894,7 +894,7 @@
 0x74D33C8C=~z~天哪，我还以为你死了...
 
 ;0x74EB58F5=~z~That guy with the bone yard might know where the bike is. He's over on Guantanamo.
-0x74EB58F5=~z~废车场那人可能知道车的下落。他就在Guantanamo大道。
+0x74EB58F5=~z~废车场那人可能知道车的下落。他在Guantanamo大道。
 
 ;0x7601E489=~z~-Hoo-ha! Line 'em up, motherfuckers! ~n~-Line 'em up, my brother... yes, sir!
 0x7601E489=~z~－呜！快满上，小兔崽子们！~n~－都满上，好兄弟...是，大哥！
@@ -990,7 +990,7 @@
 0x81D0E969=~z~会扶住你。你能做到吗？
 
 ;0x82350225=~z~if men don't follow their leader.
-0x82350225=~z~这个帮派就是死路一条。
+0x82350225=~z~我们帮派就是死路一条。
 
 ;0x82702B62=~z~If you don't get that, then you don't get nothing, John boy. Sad state of affairs.
 0x82702B62=~z~这都不明白的话，你就什么都不会懂了，阿强。真是悲剧。
@@ -1470,7 +1470,7 @@
 0xBF45A6E1=~z~傻逼Johnny。你他妈打哪儿呢。
 
 ;0xBFB053EB=~z~You haven't always got the information, brother. So shut up and behave.
-0xBFB053EB=~z~你也不是每次都知道，兄弟。老实点闭嘴吧。
+0xBFB053EB=~z~你也不是每次都清楚状况，兄弟。老实点闭嘴吧。
 
 ;0xC0BEE708=E1B1_YA
 0xC0BEE708=E1B1_YA
@@ -1722,7 +1722,7 @@
 0xE2E47B22=SFX_PAUSE_120
 
 ;0xE3BE9B1B=~z~Now, Pretty Boy's waking up without a face.
-0xE3BE9B1B=~z~这次，靓仔整个脸都没了。
+0xE3BE9B1B=~z~这次，靓仔整张脸都没了。
 
 ;0xE3C762DA=SFX_PAUSE_220
 0xE3C762DA=SFX_PAUSE_220
@@ -1782,7 +1782,7 @@
 0xEADE5D44=100
 
 ;0xEAF8197A=~z~We took a break from saying "fuck you" to everything and we made some deals that worked out.
-0xEAF8197A=~z~当时我们不再动不动就「操你妈」，而是成功做起了生意。
+0xEAF8197A=~z~当时我们不再动不动就「操你妈」，成功做起了生意。
 
 ;0xEB2620AC=~z~Like when your wife is screwing the neighbor. I'm gonna be up all night tuning her back to normal.
 0xEB2620AC=~z~感觉就像你老婆跟隔壁老王偷情，我得花一晚上才能把她调教好。
@@ -1818,7 +1818,7 @@
 0xF102CE31=E1B1_A_FA
 
 ;0xF11F686F=~z~He should be in here.
-0xF11F686F=~z~他应该在这儿。
+0xF11F686F=~z~应该是这儿了。
 
 ;0xF1FC81C0=SFX_PAUSE_280
 0xF1FC81C0=SFX_PAUSE_280
@@ -1887,7 +1887,7 @@
 0xF967D651=~z~是滚你妈的，敢跟我们对着干就要你好看。
 
 ;0xF977527E=~z~Look at me, manage to avoid prison and I'm still ass to cock with a dude.
-0xF977527E=~z~看看我，就算免了牢狱之灾，还是得顶着个爷们的菊花。
+0xF977527E=~z~看看我，就算免了牢狱之灾，还是得顶着爷们的菊花。
 
 ;0xFAB1F2F6=012090102090012012012090102090012090102090012012090102102090012012090102090012012090102
 0xFAB1F2F6=012090102090012012012090102090012090102090012012090102102090012012090102090012012090102

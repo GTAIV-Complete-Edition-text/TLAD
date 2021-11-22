@@ -300,7 +300,7 @@
 0x452B4137=E1E3_A_LA
 
 ;0x46CE16E5=~z~Come on, let's get out of here!
-0x46CE16E5=~z~快点，一起逃出这里！
+0x46CE16E5=~z~快点，一起逃出去！
 
 ;0x47AD5DD7=~z~Holy shit.
 0x47AD5DD7=~z~妈个逼的。

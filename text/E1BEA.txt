@@ -210,7 +210,7 @@
 0x55B3E8AF=~z~那好吧...接着聊？
 
 ;0x56A424D8=~z~Oh yeah. Here we are.
-0x56A424D8=~z~哦耶，拿去吧。
+0x56A424D8=~z~哦耶，拿来吧。
 
 ;0x57257C84=~z~Jonathan, I got your bike. Don't go and total it.
 0x57257C84=~z~Jonathan，你的车。别糟蹋了。
@@ -252,7 +252,7 @@
 0x644D9D5F=~z~多谢兄弟们帮忙。接下来我自己能行。
 
 ;0x645FC04F=~z~This will do nicely.
-0x645FC04F=~z~这家伙就不错。
+0x645FC04F=~z~这就挺不错的。
 
 ;0x65191798=~z~You're a good man, Terry.
 0x65191798=~z~给力啊，Terry。

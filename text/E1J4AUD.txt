@@ -360,7 +360,7 @@
 0xD0F5C028=~z~干不干？
 
 ;0xD5AF4997=~z~With that it looks like we could take the whole fucking town out of business.
-0xD5AF4997=~z~我看直接拿它干烂整座城市都不是问题。
+0xD5AF4997=~z~我看拿它干烂整座城市都不是问题。
 
 ;0xD7F10ED6=010090100
 0xD7F10ED6=010090100
