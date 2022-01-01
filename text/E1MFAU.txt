@@ -294,7 +294,7 @@
 0x4B495DA5=~z~Billy，兄弟，怎么了？
 
 ;0x4BA6795C=~z~It's nothing like that. Come to Drusilla's in Little Italy.
-0x4BA6795C=~z~不是那样的。来Little Italy的Drusilla's一趟。
+0x4BA6795C=~z~不是那样的。来小意大利的Drusilla's一趟。
 
 ;0x4C09BCB3=SFX_PAUSE_360
 0x4C09BCB3=SFX_PAUSE_360
@@ -936,7 +936,7 @@
 0xF05D004D=E1MF_QC
 
 ;0xF05EA31D=~z~We're over at Drusilla's in Little Italy. Can't wait to see you, baby.
-0xF05EA31D=~z~我们在Little Italy的Drusilla's。期待你的到来，宝贝。
+0xF05EA31D=~z~我们在小意大利的Drusilla's。期待你的到来，宝贝。
 
 ;0xF142BDA7=010090100090010090100090100090010
 0xF142BDA7=010090100090010090100090100090010

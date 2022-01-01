@@ -105,7 +105,7 @@
 0x227B3170=~z~咱们发财的机会来了。
 
 ;0x2470458A=~z~But, err, two million? You had your head in the oven?
-0x2470458A=~z~但是...两百万？你脑子被锅砸了？
+0x2470458A=~z~但是...两百万？你脑子进水了？
 
 ;0x25CBBA77=~z~I need you to do this for me.
 0x25CBBA77=~z~我要你帮我这个忙。
@@ -120,7 +120,7 @@
 0x282070EE=~z~说不定到头来，
 
 ;0x29C57C78=~z~Oh shit, Tony. We're outta here. C'mon, let's go.
-0x29C57C78=~z~妈的，Tony，快跑。快，咱们走。
+0x29C57C78=~z~妈的，Tony，快跑。快，我们走。
 
 ;0x2BCA7C87=E1R1_IF
 0x2BCA7C87=E1R1_IF
@@ -339,7 +339,7 @@
 0x6D111044=E1R1_HB
 
 ;0x6D2208AC=~z~Oh ignore him, he's probably been up all night with some bimbo.
-0x6D2208AC=~z~哦，别理他，他可能是跟哪个蠢妞玩了一宿犯傻了。
+0x6D2208AC=~z~哦，别理他，可能是跟哪个蠢妞玩了一宿犯傻了。
 
 ;0x722F56AD=~z~You go do this job, go get yourself some real money,
 0x722F56AD=~z~帮我干了这票，你就能赚到真金白银，
@@ -693,7 +693,7 @@
 0xF50A1371=~z~你们拦住他俩，我去追钻石！
 
 ;0xF6F0DF06=~z~Right.
-0xF6F0DF06=~z~确实。 
+0xF6F0DF06=~z~确实。
 
 ;0xF72DE0A8=~z~Johnny! Don't get too clever.
 0xF72DE0A8=~z~Johnny！别耍小聪明。

@@ -2328,7 +2328,7 @@
 0x235B6D5A=~z~唐人街。
 
 ;0x3C2D41C6=~z~Little Italy.
-0x3C2D41C6=~z~Little Italy。
+0x3C2D41C6=~z~小意大利。
 
 ;0x1F201AFD=~z~Fishmarket North.
 0x1F201AFD=~z~鱼市北。

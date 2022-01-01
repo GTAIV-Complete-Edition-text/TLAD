@@ -939,7 +939,7 @@
 0xBF235D24=~z~Billy回来了，混蛋们。
 
 ;0xBF629106=~z~How about we inject some speed into proceedings, Mr. President. See if you still got it?
-0xBF629106=~z~要么我们全速前进吧，会长先生。看看你还行不行？
+0xBF629106=~z~要么我们全速前进吧，会长大人。看看你还行不行？
 
 ;0xC06D8847=~z~Two million in arm candy's as good a payback as I can think of.
 0xC06D8847=~z~唾手可得的两百万可是最好的弥补。
