@@ -273,7 +273,7 @@
 0x863688C1=SFX_PAUSE_120
 
 ;0x87446BBB=~z~I hate to split up a pair of lovebirds, but there's a couple taking it for a spin round Middle Park.
-0x87446BBB=~z~我讨厌棒打鸳鸯，但是有对情侣正骑着它在中央公园兜风。
+0x87446BBB=~z~我讨厌棒打鸳鸯，但是有对情侣正骑着它在中心公园兜风。
 
 ;0x87E03FB4=100
 0x87E03FB4=100

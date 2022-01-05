@@ -2376,19 +2376,19 @@
 0x5E2E1AF0=~z~Hatton Gardens。
 
 ;0x19A45645=~z~Middle Park uhh... East.
-0x19A45645=~z~中央公园，呃...东。
+0x19A45645=~z~中心公园，呃...东。
 
 ;0x42958F51=~z~Lancaster.
 0x42958F51=~z~Lancaster。
 
 ;0xFD453C3E=~z~Middle Park.
-0xFD453C3E=~z~中央公园。
+0xFD453C3E=~z~中心公园。
 
 ;0x5E8411EE=~z~Yeah, Varsity Heights.
 0x5E8411EE=~z~对，Varsity Heights。
 
 ;0x94DE678F=~z~Middle Park uhh... West.
-0x94DE678F=~z~中央公园，呃...西。
+0x94DE678F=~z~中心公园，呃...西。
 
 ;0x4F891DBA=~z~North Holland.
 0x4F891DBA=~z~North Holland。
