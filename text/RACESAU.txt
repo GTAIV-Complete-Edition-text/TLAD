@@ -45,7 +45,7 @@
 0x1D3453D9=~z~Broker就是我们的赛道。
 
 ;0x1D619EA1=~z~We're racing from Middle Park.
-0x1D619EA1=~z~我们要去中央公园的起点。
+0x1D619EA1=~z~我们要去中心公园的起点。
 
 ;0x1EB73549=100
 0x1EB73549=100
@@ -186,7 +186,7 @@
 0x5CBCA8C4=100
 
 ;0x5DD296EB=~z~OK, let's race, man.
-0x5DD296EB=~z~好了, 开赛吧老哥。
+0x5DD296EB=~z~好了，开赛吧老哥。
 
 ;0x60ABB992=100
 0x60ABB992=100
@@ -330,10 +330,10 @@
 0x9945DAB6=~z~我们在Bohan狂野飞驰吧。
 
 ;0x99D39787=~z~The race starts at Middle Park.
-0x99D39787=~z~比赛起点在中央公园。
+0x99D39787=~z~比赛起点在中心公园。
 
 ;0x99DF0EB7=~z~We gotta dodge tourists in Middle Park.
-0x99DF0EB7=~z~我们要躲开中央公园的游客。
+0x99DF0EB7=~z~我们要躲开中心公园的游客。
 
 ;0x9CF2F459=100
 0x9CF2F459=100
@@ -396,7 +396,7 @@
 0xC5FD14D4=100
 
 ;0xC70CE912=~z~It's on in Middle Park.
-0xC70CE912=~z~比赛在中央公园。
+0xC70CE912=~z~比赛在中心公园。
 
 ;0xCA9DBCBA=~z~We're racing in Fishmarket.
 0xCA9DBCBA=~z~我们要去鱼市狂飙。

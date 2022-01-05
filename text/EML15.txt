@@ -24,7 +24,7 @@
 0xB7F58EBE=R8dsf
 
 ;0xC8004D48=Ropka88WEssdKq9234HRfinjjiEhd))Hear me roar$>DESIGNER CLOTHES, DERRIERE, PERSEUS, RANCH, YOGARISHMA, FROM $4.99!!!!I will gut you like a pig.$>ELECTRONICS, LATEST MODELS THRIFTEX, PANORAMIC, SCHMIDT & PRISS, $19.99 and up!!!!.I want to cut off your face.$>COSMETICS, PHARAOH, MAX RENDA, FACEON, ALL THIS SEASON, STARTING AT $3.99!!!I kill girls:-)
-0xC8004D48=Ropka88WEssdKq9234HRfinjjiEhd))听我怒吼$>专人设计款, DERRIERE, PERSEUS, RANCH, YOGARISHMA, 只要$4.99!!!!我会把你当猪宰$>电器, 最新型号 THRIFTEX, PANORAMIC, SCHMIDT & PRISS, $19.99起!!!! 我想切掉你的脸。$>化妆品, PHARAOH, MAX RENDA, FACEON, 当季新品, 最低只要$3.99!!!我杀女孩:-)
+0xC8004D48=Ropka88WEssdKq9234HRfinjjiEhd))听我怒吼$>专人设计款, DERRIERE, 神之子, RANCH, YOGARISHMA, 只要$4.99!!!!我会把你当猪宰$>电器, 最新型号 THRIFTEX, PANORAMIC, SCHMIDT & PRISS, $19.99起!!!! 我想切掉你的脸。$>化妆品, PHARAOH, MAX RENDA, FACEON, 当季新品, 最低只要$3.99!!!我杀女孩:-)
 
 ;0xCDA54BEC=Best deals on the internet. Reply for lowest prices guaranteed.
 0xCDA54BEC=全网最划算。回复获取全网最低价。

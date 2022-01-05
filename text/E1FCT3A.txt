@@ -531,7 +531,7 @@
 0x845CD503=100
 
 ;0x84747116=~z~I'd eat at that place every day if I could. They've got the best-tasting cholesterol in town.
-0x84747116=~z~要不是做不到，我天天来这里吃。他家的胆固醇是全市最好吃的。
+0x84747116=~z~可以的话我天天来这儿吃饭。他家的胆固醇是全市最好吃的。
 
 ;0x847E9AE6=~z~I hate ties, man. It's worse than losing.
 0x847E9AE6=~z~我讨厌平局，哥们。比输了还难受。
@@ -786,7 +786,7 @@
 0xC9D26EDC=~z~都不知道为啥我会玩这种傻逼游戏。
 
 ;0xCA12A5F5=~z~This better be good, man. We're cutting into some serious drinking time here.
-0xCA12A5F5=~z~希望演出好看点，哥们。待会儿还得在这儿好好喝上几杯。
+0xCA12A5F5=~z~希望演出好看点，哥们。待会儿还得在这儿喝上几杯。
 
 ;0xCA6B2126=~z~Glad you could make it, Johnny. We're gonna rule this shit.
 0xCA6B2126=~z~真高兴你来了，Johnny。一起尽情放浪吧。

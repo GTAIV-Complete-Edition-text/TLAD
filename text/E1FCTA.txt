@@ -453,7 +453,7 @@
 0xDCB30AE0=~z~只要是有红肉吃，我就来。过来找我吧。
 
 ;0xDE48B9C5=~z~OK, take it easy. You work on that right forearm of yours and we'll speak later.
-0xDE48B9C5=~z~好吧，淡定点。你接着练你的麒麟臂吧，有空再聊。
+0xDE48B9C5=~z~好吧，淡定点。你接着练你的右手吧，有空再聊。
 
 ;0xDF289D89=~z~Listen man. I'm thinking it's about time we had ourselves a race.
 0xDF289D89=~z~听着哥们。我觉得我们差不多该来场赛车了。

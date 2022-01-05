@@ -18,7 +18,7 @@
 0x7F72AC3C=干掉~r~Tony的手下。
 
 ;0x82A65564=Stash the diamonds in the two ~g~trash bags.
-0x82A65564=将钻石藏到两个~g~垃圾袋~s~中。
+0x82A65564=将钻石藏到两袋~g~垃圾~s~中。
 
 ;0x943A15D7=Drive to the front of the pack to lead the biker gang.
 0x943A15D7=骑到队伍前面带领车队。
@@ -36,13 +36,13 @@
 0xB157C4A4=~r~你抛弃了你的摩托。
 
 ;0xB8EB41ED=Stash the remaining diamonds in the other ~g~trash bag.
-0xB8EB41ED=将余下钻石藏到另一~g~垃圾袋~s~中。
+0xB8EB41ED=将余下钻石藏到另一袋~g~垃圾~s~中。
 
 ;0xBE8CC149=Go to the ~y~docks.
 0xBE8CC149=前往~y~码头。
 
 ;0xC4755769=Lead your brothers to the ~y~docks.
-0xC4755769=带领你的弟兄前往~y~码头。
+0xC4755769=带领弟兄们前往~y~码头。
 
 ;0xC6D13048=Catch up with the other ~b~Lost gang members.
 0xC6D13048=赶上其他的~b~失落帮成员。

@@ -81,7 +81,7 @@
 0x1D97538F=~z~「噢，看看他。满面笑容，欢声仍在。」
 
 ;0x20E92FEB=~z~My best mate gave up the same time as me
-0x20E92FEB=~z~我的好兄弟跟我一起戒的酒，
+0x20E92FEB=~z~跟我的好兄弟一起戒的酒，
 
 ;0x23FE9FF0=~z~I mean you'd be frightened that they said no
 0x23FE9FF0=~z~怕被拒绝是肯定的，
@@ -282,7 +282,7 @@
 0x5EBC2C9C=~z~原本被称作「痉挛基佬话」。
 
 ;0x5F620DDE=~z~"I wasn't talking to you, mate - I was talking to the cheese".
-0x5F620DDE=~z~「我没在说你，哥们，我在跟奶酪说话。」
+0x5F620DDE=~z~「没跟你说话，哥们，我在跟奶酪说话。」
 
 ;0x60DD4E25=~z~and you don't have to wake anybody up.
 0x60DD4E25=~z~就可以神不知鬼不觉了。
@@ -573,7 +573,7 @@
 0xAE347297=~z~你担心小姑娘越长越大吗？
 
 ;0xAFB3682C=~z~has exactly the same pheromone scent as an orangutan female?
-0xAFB3682C=~z~身上的体位跟母猩猩是一样的。
+0xAFB3682C=~z~身上的味道跟母猩猩是一样的。
 
 ;0xB0267673=~z~you trying to shag an eighteen year old girl
 0xB0267673=~z~你跟十八岁的姑娘打炮
@@ -723,7 +723,7 @@
 0xE15E616A=~z~今年年纪最大的产妇。
 
 ;0xE262B75F=~z~And they're not always true, are they?
-0xE262B75F=~z~但它们未必是真的，对吧？
+0xE262B75F=~z~但这些未必是真的，对吧？
 
 ;0xE29B4544=~z~Hey, shut it pal.
 0xE29B4544=~z~喂，闭嘴吧您。

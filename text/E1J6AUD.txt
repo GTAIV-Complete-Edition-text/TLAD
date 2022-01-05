@@ -741,7 +741,7 @@
 0xE823DC1C=~z~马上就来，兄弟。我和Terry可以绕到后门去等他。
 
 ;0xE8439FC9=~z~I think that guy makes my skin crawl,
-0xE8439FC9=~z~我被他弄得毛骨悚然，
+0xE8439FC9=~z~我被他弄得毛骨悚然。
 
 ;0xECC9C900=SFX_PAUSE_050
 0xECC9C900=SFX_PAUSE_050

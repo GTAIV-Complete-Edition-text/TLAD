@@ -33,7 +33,7 @@
 0x06675D7B=E1FCC3_ACT_DIFF_DARTS_YESA
 
 ;0x0B4112E1=~z~Just like my momma used to microwave and put on the kitchen table.
-0x0B4112E1=~z~跟我妈弄的一样，微波炉热一热，就上桌了。
+0x0B4112E1=~z~跟我妈弄的一样，微波炉一热就能上桌了。
 
 ;0x0BDCE837=~z~Alright, brother. Let's see how you handle the puck.
 0x0BDCE837=~z~好了，兄弟。让我看看你冰球水平如何。
@@ -327,7 +327,7 @@
 0x4A8B50B3=~z~你知道我打桌球都是直接赌钱的，所以你就应该直接说你想来才对。
 
 ;0x4B58E9C4=~z~It's time to hustle, man.
-0x4B58E9C4=~z~该抓紧了，哥们。
+0x4B58E9C4=~z~打台球了，哥们。
 
 ;0x4D419B62=~z~Perfect aim. I've always been blessed with it, man. One of my many gifts.
 0x4D419B62=~z~精准命中，我的飞镖向来如此，哥们。这就是我的天赋。
@@ -507,7 +507,7 @@
 0x7F7C12E1=100
 
 ;0x810615CF=~z~Alright, brothers. Let's get eating.
-0x810615CF=~z~好啊，兄弟。一起吃一顿吧。
+0x810615CF=~z~好了，兄弟们。一起吃一顿吧。
 
 ;0x8160A7F5=~z~I don't like to stop before it's finished, man. I never walk away without satisfaction.
 0x8160A7F5=~z~我不喜欢打到一半就走，哥们。满意之前我是不会走的。

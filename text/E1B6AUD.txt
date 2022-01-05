@@ -1,6 +1,6 @@
 ﻿[E1B6AUD]
 ;0x002DE0F3=~z~Jim, I love you man, but since you've hit middle age, you've really lost something...
-0x002DE0F3=~z~Jim，我爱你，兄弟。但自从你进入中年，你就少了点东西...
+0x002DE0F3=~z~Jim，我爱你，兄弟。但自从进入中年，你就少了点东西...
 
 ;0x01511E51=E1B6_A_CB
 0x01511E51=E1B6_A_CB
@@ -51,7 +51,7 @@
 0x0A90E5A0=SFX_PAUSE_120
 
 ;0x0BA93177=~z~How'd you find out that H belonged to the Triads?
-0x0BA93177=~z~你怎么知道这批H是三合会的东西？
+0x0BA93177=~z~你怎么知道这批白粉是三合会的？
 
 ;0x0C6FE869=SFX_PAUSE_140
 0x0C6FE869=SFX_PAUSE_140
@@ -105,7 +105,7 @@
 0x12190ADB=E1B6_A_RB
 
 ;0x1282738A=~z~We got to get through it. Brothers for life, man. Lost forever. I'll see you soon.
-0x1282738A=~z~我们要挺过去。生死兄弟情，哥们。失落帮万岁。我们以后见。
+0x1282738A=~z~我们要挺过去。生死兄弟情，哥们。失落帮万岁。以后见。
 
 ;0x128F86D9=E1B6_ZA
 0x128F86D9=E1B6_ZA
@@ -114,7 +114,7 @@
 0x12ADE5EB=E1B6_A_AA
 
 ;0x12C45860=~z~You should take over as Chapter President, Johnny.
-0x12C45860=~z~You should take over as Chapter President, Johnny.
+0x12C45860=~z~就该由你接任分会会长，Johnny。
 
 ;0x12D80DD4=~z~Me too.
 0x12D80DD4=~z~我也是。
@@ -276,7 +276,7 @@
 0x2DC787C9=SFX_PAUSE_110
 
 ;0x2E3940B0=~z~There is - that H we stole - it belonged to the Chinese.
-0x2E3940B0=~z~的确有。我们偷来的H原本是中国人的。
+0x2E3940B0=~z~的确有。我们偷来的白粉原本是中国人的。
 
 ;0x2F4A116B=~z~After that shit Billy was saying, you think we'll still have a chapter?
 0x2F4A116B=~z~Billy能说出那种话，你觉得我们的分部还能维系吗？
@@ -309,7 +309,7 @@
 0x335BC342=~z~他在罩我们...就是这样。
 
 ;0x3362E175=~z~I had to help myself, man. I mean, I can't be expected to...
-0x3362E175=~z~我得先保护好自己，兄弟。我是说，也不能指望我...
+0x3362E175=~z~我得先保护好自己，兄弟。我是说，总不能指望我...
 
 ;0x350FA9F0=~z~Hey Brian. Johnny's not like that, man.
 0x350FA9F0=~z~喂，Brian。Johnny不是那种人，兄弟。
@@ -450,7 +450,7 @@
 0x45E8E4DC=E1B6_A_DC
 
 ;0x470CF253=~z~Look we have a business opportunity here Johnny.
-0x470CF253=~z~我们现在有个做生意的机会，Johnny。
+0x470CF253=~z~现在有个做生意的机会，Johnny。
 
 ;0x47355051=~z~That's bullshit. If you were looking out for us, where were you when me and Johhny had to fight our way outta there?
 0x47355051=~z~放屁吧你。要是真在暗地保护，我和Johnny杀出重围的时候你在哪里？
@@ -516,7 +516,7 @@
 0x50B60519=~z~两个傻逼玩意。
 
 ;0x512D840B=~z~Bill, yeah, he's fucked now. Thanks to you. I'm around the corner.
-0x512D840B=~z~Bill，对，他现在完了。多亏了你啊。我就在路口那儿。
+0x512D840B=~z~Bill，对，他现在完了，多亏了你啊。我就在路口那儿。
 
 ;0x51A72CC7=SFX_PAUSE_190
 0x51A72CC7=SFX_PAUSE_190
@@ -669,7 +669,7 @@
 0x64DA2341=~z~想找事吗？啊？我现在可有点疯。
 
 ;0x6543B2AA=~z~Fuck, man. Billy's gonna go away for good with those priors of his.
-0x6543B2AA=~z~操你妈，兄弟。有之前的案底在，Billy这次是回不来了。
+0x6543B2AA=~z~操了，兄弟。有之前的案底在，Billy这次是回不来了。
 
 ;0x663812DC=~z~prove you ain't been speaking to the law.
 0x663812DC=~z~证明你没有在告发啊。
@@ -714,7 +714,7 @@
 0x6B450A00=E1B6_A_NA
 
 ;0x6B8868BC=~z~Too right, man. Guy like you shouldn't waste his time with all that shit.
-0x6B8868BC=~z~太对了，兄弟。你这种人就不该在这种事情上浪费时间。
+0x6B8868BC=~z~太对了，兄弟。你这种人就不该在娘们身上浪费时间。
 
 ;0x6BFCB004=E1B6_YA
 0x6BFCB004=E1B6_YA
@@ -894,7 +894,7 @@
 0x82030318=SFX_PAUSE_030
 
 ;0x84085698=~z~When people hear about Billy going down, there's gonna be more pressure on us than ever.
-0x84085698=~z~别人一知道Billy进去了，我们面对的压力还会更大。
+0x84085698=~z~等别人知道Billy进去了，我们面对的压力还会更大。
 
 ;0x856E940F=~z~Sure she did. Probably ran good before you touched her. Get out my face, Brian.
 0x856E940F=~z~当然了，你碰之前估计是好好的。滚蛋吧，Brian。
@@ -978,7 +978,7 @@
 0x8F0C7851=~z~别把这事当儿戏，Billy！
 
 ;0x8F7A557B=~z~You're not as big as those days when you hit the 'roids either, William.
-0x8F7A557B=~z~你的块头也没有以前打类固醇那会儿大了，William。
+0x8F7A557B=~z~你的块头也不如打类固醇那会儿大了，William。
 
 ;0x8F97BC05=E1B6_SB
 0x8F97BC05=E1B6_SB
@@ -1011,7 +1011,7 @@
 0x9352FB2F=E1B6_A_DA
 
 ;0x96759E5C=~z~Let's get out of here.
-0x96759E5C=~z~一起逃出这里。
+0x96759E5C=~z~一起逃出去。
 
 ;0x97F807EB=~z~I'd never talk to a pig. But there's a lesson to be learned, alright.
 0x97F807EB=~z~我不可能告密的。但的确要记住他的教训。
@@ -1299,7 +1299,7 @@
 0xC3E8E980=~z~我们来了，你等着。
 
 ;0xC3F1B731=~z~Fine, okay. I'm just hoping my brothers didn't send me into an ambush.
-0xC3F1B731=~z~行，好。我只是希望不是有兄弟送我进埋伏圈。
+0xC3F1B731=~z~行，好。我只是希望不是有兄弟设局陷害我。
 
 ;0xC57C110C=~z~Jim, dude, you ready for this?
 0xC57C110C=~z~Jim，老兄，你准备好了吗？
@@ -1437,7 +1437,7 @@
 0xDC9FFFAA=~z~我证明你妈呢，我也没去哪里告发。
 
 ;0xDD499ED2=~z~The Deadbeats told them we got it and they want it back.
-0xDD499ED2=~z~死妈天使跟他们说H在我们手里，中国人现在想要回去。
+0xDD499ED2=~z~死妈天使说货在我们手里，中国人现在想要回去。
 
 ;0xDD8328B8=E1B6_A_KE
 0xDD8328B8=E1B6_A_KE
@@ -1569,7 +1569,7 @@
 0xEF86CA26=E1B6_A_HA
 
 ;0xF0027F83=~z~We got more important things to think about. Without Billy we got no leader.
-0xF0027F83=~z~我们有更重要的事情要考虑。Billy不在我们就群龙无首了。
+0xF0027F83=~z~还有更重要的事情要考虑。Billy不在我们就群龙无首了。
 
 ;0xF03393E9=~z~This better be cool man.
 0xF03393E9=~z~最好别出事，兄弟。

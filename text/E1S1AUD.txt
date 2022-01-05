@@ -9,7 +9,7 @@
 0x0549C024=~z~噢，Klebitz，相信我...
 
 ;0x05A3244B=~z~Make it appear as though it's a terrorist act.
-0x05A3244B=~z~装作是一场恐怖袭击。
+0x05A3244B=~z~伪装成一场恐怖袭击。
 
 ;0x0643CF55=E1S1_EB
 0x0643CF55=E1S1_EB
@@ -150,7 +150,7 @@
 0x4D7A8DCA=SFX_PAUSE_230
 
 ;0x4EEECDBD=~z~Trust me man, nothing would please me more,
-0x4EEECDBD=~z~相信我，哥们，我是不会得意的，
+0x4EEECDBD=~z~相信我，哥们，我是不会得意的。
 
 ;0x509A5A5A=SFX_PAUSE_360
 0x509A5A5A=SFX_PAUSE_360
@@ -348,7 +348,7 @@
 0xB14EC5A0=~z~您有预约吗？
 
 ;0xB16EABAB=~z~He'll land and travel in a car convoy to the Civic Citadel.
-0xB16EABAB=~z~他落地了就会跟着车队去Civic Citadel。
+0xB16EABAB=~z~他落地了就会跟着车队去市政厅。
 
 ;0xB19B98E1=~z~A blackmailer with a conscience, beautiful.
 0xB19B98E1=~z~盗亦有道，好极了。
@@ -456,10 +456,10 @@
 0xEE268C26=~z~谢谢。
 
 ;0xEF417788=~z~Make it spectacular.
-0xEF417788=~z~来场盛大送行，
+0xEF417788=~z~来场盛大送行。
 
 ;0xF1AA9343=~z~Sadly, Stubbs, I'm not going to be able to disappoint you. Your uncle is no longer with us.
-0xF1AA9343=~z~很遗憾，Stubss，没能让你失望。你叔叔与世长辞了。
+0xF1AA9343=~z~很遗憾，Stubbs，没能让你失望。你叔叔与世长辞了。
 
 ;0xF2EB8C24=SFX_PAUSE_050
 0xF2EB8C24=SFX_PAUSE_050

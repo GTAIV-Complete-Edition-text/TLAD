@@ -45,7 +45,7 @@
 0x9659CD49=他不是一个专业的摔跤手，不过我感觉他似乎是一个狂热的爱好者，还是喜欢和别的男人摔跤。我们见过很多人，但是他们中的绝大多数都没有力量，似乎只是被金钱驱使着去健身。这里的生活真奇怪。Roman的一个朋友喜欢注射鲨鱼睾酮。这些就是我们知道的一种人。
 
 ;0x9DBDBDF7=In America I imagine the people must be bitter. The world used to love the, now they are despised. This President Lawton seems like a foolish man. Have you met him? Roman said that you and him were up for a prestigious award and you had some powerful friends.
-0x9DBDBDF7=在美国，我想人们一定活的很痛苦。这个世界曾经眷恋过他们，现在他们却被鄙视。这位劳顿总统似乎是个愚蠢的人。你见过他吗？Roman说你和他将获得一个有名的奖项，你有一些有权势的朋友。
+0x9DBDBDF7=在美国，我想人们一定活的很痛苦。这个世界曾眷恋过他们，现在他们却被鄙视。这位劳顿总统似乎是个愚蠢的人。你见过他吗？Roman说你和他将获得一个有名的奖项，你有一些有权势的朋友。
 
 ;0x9E243794=The only award Roman will win is fantasist of the year. I hope you are well. Look after yourself. Love, Niko.
 0x9E243794=罗曼将赢得的唯一奖项是年度最佳白日梦奖。希望你身体好。照顾好你自己。爱你的Niko。

@@ -6,7 +6,7 @@
 0x04B5B4D3=夺取~b~囚车。
 
 ;0x16F5D953=Get to the ~b~prison transport bus.
-0x16F5D953=前往~b~囚车所在地。
+0x16F5D953=前往~b~囚车~s~所在地。
 
 ;0x2362F22D=Get the bus to the ~y~drop.
 0x2362F22D=将囚车驶至~y~碰头地点。

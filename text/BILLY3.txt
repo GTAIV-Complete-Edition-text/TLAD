@@ -1,6 +1,6 @@
 ﻿[BILLY3]
 ;0x068BF85B=~s~At any time during a job press ~PAD_DPAD_DOWN~ to view how battle hardened the Lost gang members with you are.
-0x068BF85B=~s~任务期间，你随时可以按~PAD_DPAD_DOWN~查看你战友的战斗力。
+0x068BF85B=~s~任务期间，你随时可以按~PAD_DPAD_DOWN~查看战友的战斗力。
 
 ;0x097AE7AD=Get on your ~b~bike.
 0x097AE7AD=骑上你的~b~摩托。
@@ -12,7 +12,7 @@
 0x29C0009A=~r~Brian死了。
 
 ;0x3B039783=~s~At any time during a job press ~INPUT_FRONTEND_SHOWSCORE~ to view how battle hardened the Lost gang members with you are.
-0x3B039783=~s~任务期间，你随时可以按~INPUT_FRONTEND_SHOWSCORE~查看你战友的战斗力。
+0x3B039783=~s~任务期间，你随时可以按~INPUT_FRONTEND_SHOWSCORE~查看战友的战斗力。
 
 ;0x3EABAF1B=~r~Brian's bike was wrecked.
 0x3EABAF1B=~r~Brian的摩托坏了。

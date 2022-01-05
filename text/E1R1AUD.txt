@@ -63,7 +63,7 @@
 0x13F596CB=~z~先让我跟Ray谈谈吧。
 
 ;0x14AD9A7B=~z~Bought by wise guys, from wise guys, for wise guys.
-0x14AD9A7B=~z~黑帮卖的，黑帮买的，送黑帮的。
+0x14AD9A7B=~z~黑帮卖的，黑帮买的，黑帮收的。
 
 ;0x160B30FA=~z~Buy your own diamonds.
 0x160B30FA=~z~想要你自己买去。
@@ -96,7 +96,7 @@
 0x1CC3EFB0=SFX_PAUSE_350
 
 ;0x1EFA5EA2=~z~there'll be an opportunity to rip off the smug guido who gave us the job in the first place.
-0x1EFA5EA2=~z~我们还有机会抢了那个给我们派活的自大意呆佬。
+0x1EFA5EA2=~z~还有机会抢了那个给我们派活的自大意呆佬。
 
 ;0x2181B1EB=~z~-Hey Johnny.~n~-Hey.
 0x2181B1EB=~z~－嘿，Johnny。~n~－嘿。
@@ -105,7 +105,7 @@
 0x227B3170=~z~咱们发财的机会来了。
 
 ;0x2470458A=~z~But, err, two million? You had your head in the oven?
-0x2470458A=~z~但是...两百万？你脑子被锅砸了？
+0x2470458A=~z~但是...两百万？你脑子进水了？
 
 ;0x25CBBA77=~z~I need you to do this for me.
 0x25CBBA77=~z~我要你帮我这个忙。
@@ -120,7 +120,7 @@
 0x282070EE=~z~说不定到头来，
 
 ;0x29C57C78=~z~Oh shit, Tony. We're outta here. C'mon, let's go.
-0x29C57C78=~z~妈的，Tony，快跑。快，咱们走。
+0x29C57C78=~z~妈的，Tony，快跑。快，我们走。
 
 ;0x2BCA7C87=E1R1_IF
 0x2BCA7C87=E1R1_IF
@@ -267,7 +267,7 @@
 0x5C21591B=E1R1_TA
 
 ;0x5C7C3DFC=~z~We're ripping off some guy with mob connections down by the docks.
-0x5C7C3DFC=~z~咱们要去码头边上，抢劫一伙和黑帮有关系的人。
+0x5C7C3DFC=~z~咱们要去码头，抢劫一伙和黑帮有关系的人。
 
 ;0x5C9ACBE8=~z~Alright, man. I'll let The Lost Brotherhood over there know you're comin'.
 0x5C9ACBE8=~z~好的，哥们。我会跟那边的分会说一声你要来的。
@@ -339,7 +339,7 @@
 0x6D111044=E1R1_HB
 
 ;0x6D2208AC=~z~Oh ignore him, he's probably been up all night with some bimbo.
-0x6D2208AC=~z~哦，别理他，他可能是跟哪个蠢妞玩了一宿犯傻了。
+0x6D2208AC=~z~哦，别理他，可能是跟哪个蠢妞玩了一宿犯傻了。
 
 ;0x722F56AD=~z~You go do this job, go get yourself some real money,
 0x722F56AD=~z~帮我干了这票，你就能赚到真金白银，
@@ -360,7 +360,7 @@
 0x76CF5DAD=~z~听着，我有个生意上的小问题要你解决。
 
 ;0x76DCEA62=~z~Tony, they're gorgeous.
-0x76DCEA62=~z~Tony，它们真漂亮啊。
+0x76DCEA62=~z~Tony，太漂亮了吧。
 
 ;0x7740B167=~z~Brothers, go after those two. Terry! Clay! We're getting the rocks.
 0x7740B167=~z~兄弟们，去追那两个人。Terry！Clay！咱们去追钻石。
@@ -693,7 +693,7 @@
 0xF50A1371=~z~你们拦住他俩，我去追钻石！
 
 ;0xF6F0DF06=~z~Right.
-0xF6F0DF06=~z~确实。 
+0xF6F0DF06=~z~确实。
 
 ;0xF72DE0A8=~z~Johnny! Don't get too clever.
 0xF72DE0A8=~z~Johnny！别耍小聪明。

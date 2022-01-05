@@ -36,7 +36,7 @@
 0x9E433C21=回到你的~b~摩托~s~上。
 
 ;0xA1067485=~r~Brian's faction~s~ are getting away.
-0xA1067485=~r~Brian的同党~s~正准备逃走。
+0xA1067485=~r~Brian的同党~s~就要跑了。
 
 ;0xA83365F4=~r~You abandoned your bike.
 0xA83365F4=~r~你抛弃了你的摩托。

@@ -57,7 +57,7 @@
 0x0F57C00F=E1R2_JB
 
 ;0x10A64728=~z~I wouldn't want this Niko Bellic coming for me. Guy is deranged.
-0x10A64728=~z~我可不想被Niko Belic这家伙追杀。这人疯了。
+0x10A64728=~z~我可不想被Niko Belic这家伙追杀。这人太猛了。
 
 ;0x11EC21DC=E1R2_HB
 0x11EC21DC=E1R2_HB
@@ -78,7 +78,7 @@
 0x16BCA46E=~z~春游结束了。
 
 ;0x17AC5538=~z~This guy's a dangerous motherfucker.
-0x17AC5538=~z~这孙子很危险啊。
+0x17AC5538=~z~这逼太危险了吧。
 
 ;0x1804AA2A=E1R2_CB
 0x1804AA2A=E1R2_CB
@@ -327,7 +327,7 @@
 0x5D75A3C6=~z~你妈的老子的钱呢，John？我等不及了。
 
 ;0x5F5939D9=~z~Isaac - look at them.
-0x5F5939D9=~z~Isaac，看看它们。
+0x5F5939D9=~z~Isaac，你看看。
 
 ;0x5F7C9C2A=E1R2_A_EA
 0x5F7C9C2A=E1R2_A_EA
@@ -339,7 +339,7 @@
 0x60A9DDFA=090
 
 ;0x62E6BDE5=~z~Just make sure my man Nicky walks away with half the bread, buddy. Ciao.
-0x62E6BDE5=~z~记得把一半的钱交给我的人Nicky ，伙计。再见。
+0x62E6BDE5=~z~记得把一半的钱交给我的人Nicky，伙计。再见。
 
 ;0x62EF939A=SFX_PAUSE_090
 0x62EF939A=SFX_PAUSE_090
@@ -541,7 +541,7 @@
 0x9D754E21=E1R2_CE
 
 ;0x9ECB1E8F=~z~Thanks for the advice, Ray. I was thinking the same thing about you and a coffin. You got that diamond money?
-0x9ECB1E8F=~z~谢谢你的建议，Ray。我觉得你和棺材也挺配的。你的钻石变现了没？
+0x9ECB1E8F=~z~谢谢你的建议，Ray。我觉得你和棺材也挺配的。钻石变现了没？
 
 ;0x9FABC0D0=~z~~s~
 0x9FABC0D0=~z~~s~

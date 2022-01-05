@@ -495,7 +495,7 @@
 0xA6C0E2C7=你想和谁玩飞镖？~n~按~PAD_A~和Jim玩。~n~按~PAD_B~和Terry玩。~n~按~INPUT_PICKUP~退出。
 
 ;0x4ED2289F=Who do you want to play darts with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Jim.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Terry.~n~Press ~INPUT_PICKUP~ to exit.
-0x4ED2289F=你想和谁玩飞镖？~n~按~INPUT_FRONTEND_MINIGAME_1~和Jim玩。~n~按~INPUT_FRONTEND_MINIGAME_2~和Terry玩。~n~Press ~INPUT_PICKUP~ to exit.
+0x4ED2289F=你想和谁玩飞镖？~n~按~INPUT_FRONTEND_MINIGAME_1~和Jim玩。~n~按~INPUT_FRONTEND_MINIGAME_2~和Terry玩。~n~按~INPUT_PICKUP~退出。
 
 ;0x75650010=Who do you want to play darts with?~n~Press ~PAD_A~ to play Jim.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
 0x75650010=你想和谁玩飞镖？~n~按~PAD_A~和Jim玩。~n~按~PAD_B~和Clay玩。~n~按~INPUT_PICKUP~退出。
@@ -753,16 +753,16 @@
 0xAD367EBB=此生二轮
 
 ;0xB97DD21B=You have ~1~ second to return to a bike.
-0xB97DD21B=在 ~1~ 秒内回到摩托上。
+0xB97DD21B=在~1~秒内回到摩托上。
 
 ;0xCCD9EE2F=You have ~1~ second to return to your ~b~bike.
-0xCCD9EE2F=在 ~1~ 秒内回到你的摩托上。
+0xCCD9EE2F=在~1~秒内回到你的~b~摩托~s~上。
 
 ;0xAD2797A5=You have ~1~ seconds to return to a bike.
-0xAD2797A5=在 ~1~ 秒内回到摩托上。
+0xAD2797A5=在~1~秒内回到摩托上。
 
 ;0xEDB13B26=You have ~1~ seconds to return to your ~b~bike.
-0xEDB13B26=在 ~1~ 秒内回到你的摩托上。
+0xEDB13B26=在~1~秒内回到你的~b~摩托~s~上。
 
 ;0x5331FFC2=THIS LABEL NEEDS TO BE HERE !!!
 0x5331FFC2=THIS LABEL NEEDS TO BE HERE !!!
@@ -990,7 +990,7 @@
 0x5020E957=Billy
 
 ;0xAF08D5FA=We need your input in a discussion, John. Come to the house.
-0xAF08D5FA=需要你来参加讨论， John。来会所一趟。
+0xAF08D5FA=需要你参加讨论， John。来会所一趟。
 
 ;0xFB446E74=Go see Liz Torres. She might be able to unload some of that shit we found. If it's cool, you can collect from Brian off Inchon Ave.
 0xFB446E74=去找 Liz Torres。她也许能帮我们脱手一些战利品。她肯帮忙的话，你可以去 Inchon 大道找 Brian 拿货。
@@ -1008,7 +1008,7 @@
 0x510E7B5B=你跑哪儿去了，兄弟？
 
 ;0xF4F5C32B=Meet me at Ray's...
-0xF4F5C32B=我在Ray的...
+0xF4F5C32B=我在Ray那...
 
 ;0xE3B720AE=Why didn't you show, man? We had a date.
 0xE3B720AE=你怎么没来，兄弟？我们说好的。
@@ -1401,7 +1401,7 @@
 0x929B077C=下次见， Johnny。
 
 ;0xA07DA221=You were here and then you wre gone. What happened?
-0xA07DA221=你来了，你又走了。什么情况？
+0xA07DA221=你来了又走了。什么情况？
 
 ;0xC211E549=Johnny I heard your Hexer got messed up, call me and ill get it fixed up and will bring it to you.
 0xC211E549=Johnny，听说你的 Hexer 出了点事，给我打个电话，我就能帮你修好送过来。
@@ -1614,7 +1614,7 @@
 0xB6F0A951=~s~按~INPUT_ATTACK~开火。
 
 ;0x55D5E8C2=~s~You can play online with your friends via the multiplayer option on the phone. This allows you to play with other Social Club users.
-0x55D5E8C2=~s~通过手机中的多人游戏选项，你可以与你的朋友在线联机，也可以与其他 Social Club 用户共同游戏。
+0x55D5E8C2=~s~通过手机中的多人游戏选项，你可以与你的朋友在线联机，也可以与其他~s~Social Club用户共同游戏。
 
 ;0xA053AEBD=~s~For a quick online game select the Instant Play option in the phone menu.
 0xA053AEBD=~s~若想快速加入一局多人游戏，请选择手机菜单中的即刻加入。
@@ -1626,7 +1626,7 @@
 0xC0BEF3BF=按住~INPUT_SPRINT~奔跑。连按~INPUT_SPRINT~冲刺。
 
 ;0x37ECBB45=Use ~INPUT_SPRINT~ to sprint.
-0x37ECBB45=用~INPUT_SPRINT~冲刺。
+0x37ECBB45=按住~INPUT_SPRINT~冲刺。
 
 ;0x7603AFF3=Press ~INPUT_DUCK~ to crouch, this will make your aim more accurate.
 0x7603AFF3=按~INPUT_DUCK~蹲下，蹲下时瞄准精度更高。
@@ -1638,40 +1638,40 @@
 0x9245A178=~r~You have lost Brian.
 
 ;0x59FB69F6=RACE ALDERNEY BEACH
-0x59FB69F6=RACE ALDERNEY BEACH
+0x59FB69F6=赛车 - ALDERNEY海岸
 
 ;0xD9B2E957=RACE ALDERNEY INDUSTRIAL
-0xD9B2E957=RACE ALDERNEY INDUSTRIAL
+0xD9B2E957=赛车 - ALDERNEY工业园
 
 ;0x8116B8A3=RACE TUDOR DOCKS
-0x8116B8A3=RACE TUDOR DOCKS
+0x8116B8A3=赛车 - TUDOR码头
 
 ;0xAF9386A8=RACE ALDERNEY_CITY
-0xAF9386A8=RACE ALDERNEY_CITY
+0xAF9386A8=赛车 - ALDERNEY市
 
 ;0xEFA29542=RACE ALDERNEY CASINO
-0xEFA29542=RACE ALDERNEY CASINO
+0xEFA29542=赛车 - ALDERNEY赌场
 
 ;0x29F1FAC7=RACE NORTH WEST ALDERNEY
-0x29F1FAC7=RACE NORTH WEST ALDERNEY
+0x29F1FAC7=赛车 - ALDERNEY西北
 
 ;0x3DA1ADC3=RACE HOLLAND
-0x3DA1ADC3=RACE HOLLAND
+0x3DA1ADC3=赛车 - HOLLAND
 
 ;0xB2AA0E7D=RACE PARK CIRCUIT
-0xB2AA0E7D=RACE PARK CIRCUIT
+0xB2AA0E7D=赛车 - 公园环线
 
 ;0x81343BAF=RACE BOHAN STRIP
-0x81343BAF=RACE BOHAN STRIP
+0x81343BAF=赛车 - BOHAN之旅
 
 ;0x4706C769=RACE BOHAN BEACH
-0x4706C769=RACE BOHAN BEACH
+0x4706C769=赛车 - BOHAN海岸
 
 ;0x0A77AA07=RACE BOHAN STEPS
-0x0A77AA07=RACE BOHAN STEPS
+0x0A77AA07=赛车 - BOHAN阶梯
 
 ;0x5D6DCFF2=RACE SCHOTTLER STATION
-0x5D6DCFF2=RACE SCHOTTLER STATION
+0x5D6DCFF2=赛车 - SCHOTTLER车站
 
 ;0x9DCACDD5=The ~BLIP_114~ icon represents the meeting point for a gang war. Go to that location to meet with other Lost members. In gang wars you will battle with other gangs. There will be various gang wars around the city.
 0x9DCACDD5=~BLIP_114~图标表示帮派战争的集合地点。前往图标所示地点与其他失落帮成员会合，然后与其他帮派进行战斗。城市各处有许多帮派战争。
@@ -1704,94 +1704,94 @@
 0x942C1E5D=1235550160
 
 ;0xBB62AF77=You have arranged to do an activity with Jim. Meet him by going towards the ~BLIP_106~ on the radar.
-0xBB62AF77=你已和 Jim 安排了活动，去小地图上的~BLIP_106~找他。
+0xBB62AF77=你已和~s~Jim安排了活动，去小地图上的~BLIP_106~找他。
 
 ;0x2C721B4B=You can cancel an activity after it has been arranged. Use the option on the phone under Jim's name. He will prefer to be warned than stood up.
-0x2C721B4B=在安排活动后你仍然可以取消它。使用手机中 Jim 下的选项取消。比起被放鸽子，他更乐意事先得到通知。
+0x2C721B4B=在安排活动后你仍然可以取消它。使用手机中~s~Jim下的选项取消。比起被放鸽子，他更乐意事先得到通知。
 
 ;0xF139154D=You can take Jim to any location marked on the radar, or to the location of other activities.
-0xF139154D=你可以带 Jim 去小地图上标记的任何地点，亦可进行未作标识的其他活动。
+0xF139154D=你可以带~s~Jim去小地图上标记的任何地点，亦可进行未标注的其他活动。
 
 ;0x0A5DDE89=You have completed the arranged activity with Jim. Take him home or go on another activity if you have found one. You can go on up to 3 additional activities.
-0x0A5DDE89=你已完成了与 Jim 的预定安排。送他回家或再进行一项其他活动。你最多可以追加三项活动。
+0x0A5DDE89=你已完成了与~s~Jim的预定安排。送他回家或再进行一项其他活动。你最多可以追加三项活动。
 
 ;0x0DD65DF7=You have completed the arranged activity with Jim. You have already taken him on 3 additional activities. Take him home.
-0x0DD65DF7=你已完成了与 Jim 的预定安排。你已追加了三项活动。送他回家。
+0x0DD65DF7=你已完成了与~s~Jim的预定安排。你已追加了三项活动。送他回家。
 
 ;0x68A2E85F=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Jim home. You'll sober up soon.
-0x68A2E85F=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送 Jim 回家。很快你就会清醒了。
+0x68A2E85F=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送~s~Jim回家。很快你就会清醒了。
 
 ;0xEA13D89D=Steer slowly past to attract Jim's attention.
-0xEA13D89D=缓慢驶到 Jim 附近引起他的注意。
+0xEA13D89D=缓慢驶到~s~Jim附近引起他的注意。
 
 ;0x33887A80=Steer slowly past to attract Jim's attention.
-0x33887A80=缓慢驶到 Jim 附近引起他的注意。
+0x33887A80=缓慢驶到~s~Jim附近引起他的注意。
 
 ;0xE37B7CA3=Follow ~b~Jim~s~ into the Clubhouse.
-0xE37B7CA3=跟随 ~b~Jim~s~ 进入会所。
+0xE37B7CA3=跟随~b~Jim~s~进入会所。
 
 ;0xD30FCA8E=Compete with Jim at Arm Wrestling ~BLIP_110~ or Cards ~BLIP_112~ one floor up. Leave the Clubhouse to quit hanging out with Jim.
-0xD30FCA8E=去楼上向 Jim 挑战掰手腕 ~BLIP_110~ 或 纸牌 ~BLIP_112~。离开会所可以结束与 Jim 的约会。
+0xD30FCA8E=去楼上向~s~Jim挑战掰手腕 ~BLIP_110~ 或 纸牌 ~BLIP_112~。离开会所可以结束与~s~Jim的约会。
 
 ;0xF6771AEF=You have arranged to do an activity with Terry. Meet him by going towards the ~BLIP_118~ on the radar.
-0xF6771AEF=你已和 Terry 安排了活动，去小地图上的~BLIP_118~找他。
+0xF6771AEF=你已和~s~Terry安排了活动，去小地图上的~BLIP_118~找他。
 
 ;0x1A3090E8=You can cancel an activity after it has been arranged. Use the option on the phone under Terry's name. He will prefer to be warned than stood up.
-0x1A3090E8=在安排活动后你仍然可以取消它。使用手机中Terry下的选项取消。比起被放鸽子，他更乐意事先得到通知。
+0x1A3090E8=在安排活动后你仍然可以取消它。使用手机中~s~Terry下的选项取消。比起被放鸽子，他更乐意事先得到通知。
 
 ;0xAA0DB5E3=You can take Terry to any location marked on the radar, or to the location of other activities.
-0xAA0DB5E3=你可以带 Terry 去小地图上标记的任何地点，亦可进行未作标识的其他活动。
+0xAA0DB5E3=你可以带~s~Terry去小地图上标记的任何地点，亦可进行未标注的其他活动。
 
 ;0x0339C97D=You have completed the arranged activity with Terry. Take him home or go on another activity if you have found one. You can go on up to 3 additional activities.
-0x0339C97D=你已完成了与 Terry 的预定安排。送他回家或再进行一项其他活动。你最多可以追加三项活动。
+0x0339C97D=你已完成了与~s~Terry的预定安排。送他回家或再进行一项其他活动。你最多可以追加三项活动。
 
 ;0xFD6351AB=You have completed the arranged activity with Terry. You have already taken him on 3 additional activities. Take him home.
-0xFD6351AB=你已完成了与 Terry 的预定安排。你已追加了三项活动。送他回家。
+0xFD6351AB=你已完成了与~s~Terry的预定安排。你已追加了三项活动。送他回家。
 
 ;0x40A483C7=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Terry home. You'll sober up soon.
-0x40A483C7=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送 Terry 回家。很快你就会清醒了。
+0x40A483C7=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送~s~Terry回家。很快你就会清醒了。
 
 ;0x7DF9FCA6=Steer slowly past to attract Terry's attention.
-0x7DF9FCA6=缓慢驶到 Terry 附近引起他的注意。
+0x7DF9FCA6=缓慢驶到~s~Terry附近引起他的注意。
 
 ;0x6496CE1A=Steer slowly past to attract Terry's attention.
-0x6496CE1A=缓慢驶到 Terry 附近引起他的注意。
+0x6496CE1A=缓慢驶到~s~Terry附近引起他的注意。
 
 ;0x00AE27DC=Follow ~b~Terry~s~ into the Clubhouse.
-0x00AE27DC=跟随 ~b~Terry~s~ 进入会所。
+0x00AE27DC=跟随~b~Terry~s~进入会所。
 
 ;0x9423BD07=Compete with Terry at Arm Wrestling ~BLIP_110~ or Cards ~BLIP_112~ one floor up. Leave the Clubhouse to quit hanging out with Terry.
-0x9423BD07=去楼上向 Terry 挑战掰手腕 ~BLIP_110~ 或 纸牌 ~BLIP_112~。离开会所可以结束与 Terry 的约会。
+0x9423BD07=去楼上向~s~Terry挑战掰手腕 ~BLIP_110~ 或 纸牌 ~BLIP_112~。离开会所可以结束与~s~Terry的约会。
 
 ;0xC929CC25=You have arranged to do an activity with Clay. Meet him by going towards the ~BLIP_119~ on the radar.
-0xC929CC25=你已和 Clay 安排了活动，去小地图上的~BLIP_119~找他。
+0xC929CC25=你已和~s~Clay安排了活动，去小地图上的~BLIP_119~找他。
 
 ;0x52DFEBB5=You can cancel an activity after it has been arranged. Use the option on the phone under Clay's name. He will prefer to be warned than stood up.
-0x52DFEBB5=在安排活动后你仍然可以取消它。使用手机中 Clay 下的选项取消。比起被放鸽子，他更乐意事先得到通知。
+0x52DFEBB5=在安排活动后你仍然可以取消它。使用手机中~s~Clay下的选项取消。比起被放鸽子，他更乐意事先得到通知。
 
 ;0x1BD2E790=You can take Clay to any location marked on the radar, or to the location of other activities.
-0x1BD2E790=你可以带 Clay 去小地图上标记的任何地点，亦可进行未作标识的其他活动。
+0x1BD2E790=你可以带~s~Clay去小地图上标记的任何地点，亦可进行未标注的其他活动。
 
 ;0x192185BC=You have completed the arranged activity with Clay. Take him home or go on another activity if you have found one. You can go on up to 3 additional activities.
-0x192185BC=你已完成了与 Clay 的预定安排。送他回家或再进行一项其他活动。你最多可以追加三项活动。
+0x192185BC=你已完成了与~s~Clay的预定安排。送他回家或再进行一项其他活动。你最多可以追加三项活动。
 
 ;0x24B2556E=You have completed the arranged activity with Clay. You have already taken him on 3 additional activities. Take him home.
-0x24B2556E=你已完成了与 Clay 的预定安排。你已追加了三项活动。送他回家。
+0x24B2556E=你已完成了与~s~Clay的预定安排。你已追加了三项活动。送他回家。
 
 ;0x81D4695A=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance and take Clay home. You'll sober up soon.
-0x81D4695A=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送 Clay 回家。很快你就会清醒了。
+0x81D4695A=你醉了。你将视线模糊，行走与驾驶都十分困难。尽量保持平衡，送~s~Clay回家。很快你就会清醒了。
 
 ;0x27871B59=Steer slowly past to attract Clay's attention.
-0x27871B59=缓慢驶到 Clay 附近引起他的注意。
+0x27871B59=缓慢驶到~s~Clay附近引起他的注意。
 
 ;0x5F1C8738=Steer slowly past to attract Clay's attention.
-0x5F1C8738=缓慢驶到 Clay 附近引起他的注意。
+0x5F1C8738=缓慢驶到~s~Clay附近引起他的注意。
 
 ;0x6A08086E=Follow ~b~Clay~s~ into the Clubhouse.
 0x6A08086E=跟随 ~b~Clay~s~ 进入会所。
 
 ;0xD97FD65E=Compete with Clay at Arm Wrestling ~BLIP_110~ or Cards ~BLIP_112~ one floor up. Leave the Clubhouse to quit hanging out with Clay.
-0xD97FD65E=去楼上向 Clay 挑战掰手腕 ~BLIP_110~ 或 纸牌 ~BLIP_112~。离开会所可以结束与 Clay 的约会。
+0xD97FD65E=去楼上向~s~Clay挑战掰手腕 ~BLIP_110~ 或 纸牌 ~BLIP_112~。离开会所可以结束与~s~Clay的约会。
 
 ;0x42EE4319=To quit hanging out at the clubhouse, go outside and walk a short distance away.
 0x42EE4319=离开会所稍微走远一些即可结束会所娱乐。
@@ -1827,16 +1827,16 @@
 0xFB60FC77=你现在是失落摩托帮的会长了。
 
 ;0xC61391DD=You can call for help anytime from Terry or Clay. They will provide backup for you on jobs.
-0xC61391DD=你随时可以呼叫 Terry 或 Clay 请求支援。
+0xC61391DD=你随时可以呼叫~s~Terry或~s~Clay请求支援。
 
 ;0xD77534A0=To ask for their help, call Terry or Clay and select Backup.
-0xD77534A0=需要支援时，呼叫 Terry 或 Clay，选择「支援」。
+0xD77534A0=需要支援时，呼叫~s~Terry或~s~Clay，选择「支援」。
 
 ;0x54582E68=Terry and Clay's stats are displayed just above the radar. For these characters you can see more info on the stats by pressing ~INPUT_PHONE_PUT_AWAY~.
-0x54582E68=Terry 和 Clay 的状态会在小地图上方显示。按下~INPUT_PHONE_PUT_AWAY~可以查看他们的更多信息。
+0x54582E68=Terry和~s~Clay的状态会在小地图上方显示。按下~INPUT_PHONE_PUT_AWAY~可以查看他们的更多信息。
 
 ;0x7394BCDF=Terry and Clay's stats are displayed just above the radar. For these characters you can see more info on the stats by pressing ~INPUT_FRONTEND_SHOWSCORE~.
-0x7394BCDF=Terry 和 Clay 的状态会在小地图上方显示。按下~INPUT_FRONTEND_SHOWSCORE~可以查看他们的更多信息。
+0x7394BCDF=Terry和~s~Clay的状态会在小地图上方显示。按下~INPUT_FRONTEND_SHOWSCORE~可以查看他们的更多信息。
 
 ;0xB6CC48F4=The details displayed above the radar show how fight hardened your Lost gang members are. This is represented by the colored bar next to their names.
 0xB6CC48F4=小地图上方的图表表示此次作战对你战友的强化程度，具体程度以名字旁边的色块表示。
@@ -1848,19 +1848,19 @@
 0x91167DD1=若有人在某次差事中战死，就会由一名新的失落帮成员顶替。
 
 ;0x9FEB1ECE=You can now use Jim's special ability. You can call up Jim and select "Weapons" and he will stash your fully loaded weapon in the Lost Clubhouse.
-0x9FEB1ECE=你现在可以使用 Jim 的特殊能力了。呼叫 Jim 时选择「武器」，他就会为你在失落帮会所准备满载弹药的武器。
+0x9FEB1ECE=你现在可以使用~s~Jim的特殊能力了。呼叫~s~Jim时选择「武器」，他就会为你在失落帮会所准备满载弹药的武器。
 
 ;0x72A45E5E=You can now use Terry's special ability. You can call up Terry and select "Gun Van" he will arrive at a location near you and sell you guns and equipment at discounted prices.
-0x72A45E5E=你现在可以使用 Terry 的特殊能力了。呼叫 Terry 时选择「军火车」，他就会到你附近的某地向你以低价出售武器装备。
+0x72A45E5E=你现在可以使用~s~Terry的特殊能力了。呼叫~s~Terry时选择「军火车」，他就会到你附近的某地向你以低价出售武器装备。
 
 ;0x7E840705=You can now use Clay's special ability. You can call up Clay and select "Bikes" he will drop off the bike of your choice near your location.
-0x7E840705=你现在可以使用 Clay 的特殊能力了。呼叫 Clay 时选择「摩托」，他就会将你选择的摩托送来给你。
+0x7E840705=你现在可以使用~s~Clay的特殊能力了。呼叫~s~Clay时选择「摩托」，他就会将你选择的摩托送来给你。
 
 ;0xFAD1336A=You can now phone Jim to get a fully loaded weapon left in the Clubhouse arm wrestling room, Clay to bring you a bike, or Terry for cheap weapons and ammo.
-0xFAD1336A=现在你可以呼叫 Jim，让他在会所的掰手腕室为你准备一把满载弹药的武器，也可以找 Clay 给你准备一辆新车，亦可向 Terry 低价购买武器以及弹药。
+0xFAD1336A=现在你可以呼叫~s~Jim，让他在会所的掰手腕室为你准备一把满载弹药的武器，也可以找~s~Clay给你准备一辆新车，亦可向~s~Terry低价购买武器以及弹药。
 
 ;0xAD0EBC11=The autosave pause menu option is used by The Lost and Damned. It is currently switched off. Switch it on again to re-enable autosaving for The Lost and Damned.
-0xAD0EBC11=暂停菜单种的自动存档选项由失落与诅咒使用。目前已被关闭。开启后可以启用失落与诅咒的自动存档功能。
+0xAD0EBC11=暂停菜单中的自动存档选项由失落与诅咒使用。目前已被关闭。开启后可以启用失落与诅咒的自动存档功能。
 
 ;0x47B4959B=You can't race if you don't have a bike.
 0x47B4959B=你没有摩托，无法进行赛车。
@@ -2082,7 +2082,7 @@
 0xA7F97A3D=会所娱乐
 
 ;0x30A67723=Heli Ride
-0x30A67723=搭直升机
+0x30A67723=直升机兜风
 
 ;0xFEEF93B6=HiLo Cards
 0xFEEF93B6=猜大小
@@ -2328,7 +2328,7 @@
 0x235B6D5A=~z~唐人街。
 
 ;0x3C2D41C6=~z~Little Italy.
-0x3C2D41C6=~z~Little Italy。
+0x3C2D41C6=~z~小意大利。
 
 ;0x1F201AFD=~z~Fishmarket North.
 0x1F201AFD=~z~鱼市北。
@@ -2376,19 +2376,19 @@
 0x5E2E1AF0=~z~Hatton Gardens。
 
 ;0x19A45645=~z~Middle Park uhh... East.
-0x19A45645=~z~中央公园，呃...东。
+0x19A45645=~z~中心公园，呃...东。
 
 ;0x42958F51=~z~Lancaster.
 0x42958F51=~z~Lancaster。
 
 ;0xFD453C3E=~z~Middle Park.
-0xFD453C3E=~z~中央公园。
+0xFD453C3E=~z~中心公园。
 
 ;0x5E8411EE=~z~Yeah, Varsity Heights.
 0x5E8411EE=~z~对，Varsity Heights。
 
 ;0x94DE678F=~z~Middle Park uhh... West.
-0x94DE678F=~z~中央公园，呃...西。
+0x94DE678F=~z~中心公园，呃...西。
 
 ;0x4F891DBA=~z~North Holland.
 0x4F891DBA=~z~North Holland。

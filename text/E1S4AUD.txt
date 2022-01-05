@@ -315,7 +315,7 @@
 0x334ACC5E=~z~好了，兄弟们，那让我们最后去一次教堂吧。
 
 ;0x337EEE3A=~z~Let's go. We gotta find Billy.
-0x337EEE3A=~z~走吧，我们要找到Billy。
+0x337EEE3A=~z~走吧，必须得找到Billy。
 
 ;0x33FFBF77=100090100090100
 0x33FFBF77=100090100090100
@@ -372,7 +372,7 @@
 0x3A2C810A=~z~咱们是朋友？
 
 ;0x3A30CECE=~z~I'm not gonna ask how you got in here, brother.
-0x3A30CECE=~z~我不会问你怎么进来的，兄弟。
+0x3A30CECE=~z~我不会问你是怎么进来的，兄弟。
 
 ;0x3B0B9DF4=010090010090010
 0x3B0B9DF4=010090010090010
@@ -498,7 +498,7 @@
 0x4C219A0B=SFX_PAUSE_190
 
 ;0x4CAD717F=~z~Terry, man, we got to pay our friend Billy a visit. He's been talking.
-0x4CAD717F=~z~Terry哥们，得去拜访下咱们的朋友Billy了。他在告发。
+0x4CAD717F=~z~Terry，哥们，得去拜访下咱们的朋友Billy了。他在告发。
 
 ;0x4CCABFD8=092
 0x4CCABFD8=092
@@ -636,7 +636,7 @@
 0x60C89360=~z~房顶上的家伙死了。没事了。
 
 ;0x6158A6BE=~z~This gang is fucked all to hell right now, but I'll love you brothers until I die.
-0x6158A6BE=~z~虽然眼下帮派已经一团糟了，但我会爱你们几个兄弟一辈子的。
+0x6158A6BE=~z~虽然现在帮派彻底完了，但我会爱你们几个兄弟一辈子的。
 
 ;0x61A24FF5=~z~You want a cigar?
 0x61A24FF5=~z~抽雪茄吗？
@@ -891,7 +891,7 @@
 0x846E53E5=E1S4_B_PA
 
 ;0x84A8092F=~z~Yeah, we did. But it's over.
-0x84A8092F=~z~是好过 。但都过去了。
+0x84A8092F=~z~是好过。但都过去了。
 
 ;0x84ABD69F=~z~Oh, man. I'm thinking you're thinking we don't have a choice. We'll come meet you.
 0x84ABD69F=~z~哦哥们，我就知道你觉得咱们没得选。咱们见个面吧。
@@ -933,7 +933,7 @@
 0x87748303=~z~要是你从我身上学到了啥的话，我希望是如何应对一场危机。
 
 ;0x880AB930=~z~why you doing this?
-0x880AB930=~z~你为啥要这么做？
+0x880AB930=~z~你这么做的原因是？
 
 ;0x8844CCFD=E1S4_JA
 0x8844CCFD=E1S4_JA
@@ -993,7 +993,7 @@
 0x8F31F87E=~z~可以的，哥们。咱们去看看你说的是啥东西吧。
 
 ;0x8F3347D0=~z~So, ummm, Stubbs. Billy's in a maximum security institution, how am I meant to do this?
-0x8F3347D0=~z~那，呃，Stubbs。Billy可是在一个守卫森严的地方啊，我该咋办？
+0x8F3347D0=~z~那，呃，Stubbs。Billy可是在守卫森严的监狱啊，我该咋办？
 
 ;0x8F512B56=~z~I think so. You've certainly seen me naked.
 0x8F512B56=~z~我觉得是。我都对你坦诚相待了。
@@ -1083,7 +1083,7 @@
 0x9CC9274E=~z~来人去一下正门。洗衣房的货车看起来很可疑。
 
 ;0x9D226B13=~z~Yes. Well you've got a bit of a problem there sport.
-0x9D226B13=~z~对。这里才是你的麻烦所在，哥们。
+0x9D226B13=~z~对。这才是你的麻烦所在，哥们。
 
 ;0x9D65580E=~z~Let's go back to the house. There's one more thing we gotta do.
 0x9D65580E=~z~回俱乐部去吧。这是咱得做的最后一件事了。
@@ -1308,7 +1308,7 @@
 0xD11067E8=E1S4_YA
 
 ;0xD1A04942=~z~Come on!
-0xD1A04942=~z~来吧！
+0xD1A04942=~z~动手啊！
 
 ;0xD1EA6640=E1S4_A_VA
 0xD1EA6640=E1S4_A_VA
@@ -1368,7 +1368,7 @@
 0xDD16372C=SFX_PAUSE_180
 
 ;0xDD5E952B=~z~Johnny, man. What the fuck?
-0xDD5E952B=~z~Johnny，哥们。什么鬼？
+0xDD5E952B=~z~Johnny，哥们。搞什么？
 
 ;0xDEC03B0F=E1S4_B_TB
 0xDEC03B0F=E1S4_B_TB
@@ -1380,7 +1380,7 @@
 0xDF376470=~z~~s~
 
 ;0xDFB81579=~z~Well here you are, you fork-tongued bastard. I've been looking for you.
-0xDFB81579=~z~找到你了，狼心狗肺的混蛋。我一直在找你啊。
+0xDFB81579=~z~找到你了，狼心狗肺的混蛋。我一直在找你。
 
 ;0xDFBB3F54=~z~it's that fucked up part of people
 0xDFBB3F54=~z~都是人性向恶的那一面，
@@ -1401,7 +1401,7 @@
 0xE2172DBC=300090300090300090030300300090300300
 
 ;0xE23A81C6=~z~How many of you assholes are on the take, huh?
-0xE23A81C6=~z~你们有几个人没受过贿啊？
+0xE23A81C6=~z~你们有几个人手脚干净啊？
 
 ;0xE2E5A217=E1S4_CA
 0xE2E5A217=E1S4_CA

@@ -285,7 +285,7 @@
 0x44AF4B61=~z~死妈天使都不知道占有人在诉讼中有优势吗。
 
 ;0x44D3907C=~z~Hey man, Jackie can handle herself but it ain't exactly a family friendly environment at the moment, is it?
-0x44D3907C=~z~我说，Jackie是能照顾好自己，但现在的会所不适合带家人来，懂吧？
+0x44D3907C=~z~我说，Jackie能照顾好自己，但现在的会所不适合带家人来，懂吧？
 
 ;0x454FF7EC=~z~~x~
 0x454FF7EC=~z~~x~
@@ -369,7 +369,7 @@
 0x56BB8AC2=E1J1_GF
 
 ;0x57818B4E=~z~but he's the one who can't ride one no more.
-0x57818B4E=~z~只可惜他再也不能骑上摩托了。
+0x57818B4E=~z~只可惜他再也骑不上摩托了。
 
 ;0x590DCABD=~z~That's right we saw the whole thing you fucking jerk-offs.
 0x590DCABD=~z~没错，我们看得一清二楚，两个傻逼。
@@ -714,7 +714,7 @@
 0xA4BE3736=~z~好了，就这些了。我们离开这儿吧。
 
 ;0xA59F2163=~z~I always get a kick outta sticking it to them pansies.
-0xA59F2163=~z~给那些娘娘腔找麻烦依然能让我快乐。
+0xA59F2163=~z~找那些娘娘腔的麻烦还是那么快乐。
 
 ;0xA74ECCC9=~z~Don't you want to come on to Lost turf, assholes?
 0xA74ECCC9=~z~你们敢来失落摩托帮的地盘吗，傻逼？
@@ -807,7 +807,7 @@
 0xBDE9A7CB=~z~太糟了，好兄弟。我本来想干这群死妈天使一炮的。
 
 ;0xBE02C5C9=~z~We should unload a couple of these bikes. A prospect can handle the truck.
-0xBE02C5C9=~z~我们得把摩托卸下来。卡车会有人处理的。
+0xBE02C5C9=~z~我们得把摩托卸下来。卡车交给新人处理。
 
 ;0xBF7F6CD6=100090010090100
 0xBF7F6CD6=100090010090100
@@ -828,13 +828,13 @@
 0xC352F237=E1J1_EA
 
 ;0xC383493D=~z~Man, we're only meant to stand up on the Chapter leader's say so, but who gives a fuck? We'll be there.
-0xC383493D=~z~兄弟，原则上只有分会会长才能这么做，不过去他妈的吧。我们马上就到。
+0xC383493D=~z~兄弟，原则上只有会长才能叫我们支援，不过去他妈的。我们马上就到。
 
 ;0xC3E185EE=~z~Come to the House if you want a real fight, pussies!
 0xC3E185EE=~z~有种来我们的地盘干架啊，杂碎们！
 
 ;0xC3E46410=~z~Apparently they're gonna go crazy for these bikes in particular.
-0xC3E46410=~z~死亡天使肯定也很重视这批车。
+0xC3E46410=~z~那边的人似乎很喜欢这种摩托。
 
 ;0xC4370E88=E1J1_JA
 0xC4370E88=E1J1_JA
@@ -903,10 +903,10 @@
 0xD93274DB=SFX_PAUSE_070
 
 ;0xDA834D4A=~z~And it better be a big one and while you're at it,
-0xDA834D4A=~z~最好开个好价，你们一边考虑，
+0xDA834D4A=~z~最好开个好价。你们一边考虑，
 
 ;0xDB84CCFF=~z~But I think long and hard about what I'm gonna order at Burger Shot as well,
-0xDB84CCFF=~z~不过我去汉堡店点餐的时候也需要深思熟虑，
+0xDB84CCFF=~z~不过我去汉堡店点餐的时候也需要深思熟虑。
 
 ;0xDCB3B442=~z~~x~
 0xDCB3B442=~z~~x~
@@ -918,7 +918,7 @@
 0xDE676409=~z~我们有支援了，Jim。
 
 ;0xDF9CA5D3=~z~If I wanted to take a bike of mine somewhere, I'd drive it myself.
-0xDF9CA5D3=~z~要是我想出门遛车的话，我会自己骑的。
+0xDF9CA5D3=~z~要是想出门遛车的话，我会自己骑的。
 
 ;0xE1A8C11A=E1J1_KA
 0xE1A8C11A=E1J1_KA
@@ -930,7 +930,7 @@
 0xE44A76F8=~z~条子来了。
 
 ;0xE59515A0=~z~What's going on Jim?
-0xE59515A0=~z~怎么了，Jim？
+0xE59515A0=~z~你还好吗，Jim？
 
 ;0xE64FB111=E1J1_A_IB
 0xE64FB111=E1J1_A_IB
@@ -1023,7 +1023,7 @@
 0xFE9F9DBA=~z~没人会来报案找这些车的，放我们一马吧。
 
 ;0xFEB2040A=~z~Luck's a perverse thing ain't it? How are Jackie and the kid?
-0xFEB2040A=~z~运气就是这么反复无常不是吗？Jackie和孩子最近好吗？
+0xFEB2040A=~z~运气就是这么反复无常啊。Jackie和孩子最近好吗？
 
 ;0xFF9D2D9D=~z~Get away from these cops, man.
 0xFF9D2D9D=~z~甩掉这些条子。

@@ -24,7 +24,7 @@
 0x0809E3CB=E1R3_XA
 
 ;0x087544E4=~z~Shit, I'd call me. Then I'd lead those suckers over to, uhh, Keneckie Avenue maybe.
-0x087544E4=~z~妈的，我会找我支援。再把这些混蛋引到... Keneckie大道吧。
+0x087544E4=~z~妈的，我会找我支援。再把这些混蛋引到...Keneckie大道吧。
 
 ;0x08AB8D7A=~z~We'll see.
 0x08AB8D7A=~z~我试试。
@@ -240,7 +240,7 @@
 0x52F3D9C1=~z~没。
 
 ;0x53F64E82=~z~Who do you think you're bullshitting?
-0x53F64E82=~z~你他妈搁这儿骗谁呢？
+0x53F64E82=~z~你他妈骗谁呢？
 
 ;0x53FAC367=E1R3_KA
 0x53FAC367=E1R3_KA
@@ -306,7 +306,7 @@
 0x6F81CEAD=~z~我打赌Billy不会让你们干这些破事。
 
 ;0x70F00F51=~z~Go ahead, run like a couple of girls.
-0x70F00F51=~z~出去像娘们儿一样逃跑吧。
+0x70F00F51=~z~出去像娘们一样逃跑吧。
 
 ;0x71260A45=~z~Back the fuck up, back up.
 0x71260A45=~z~你他妈退后，退后。
@@ -420,7 +420,7 @@
 0x97B682B0=~z~啥？
 
 ;0x9A0BE813=~z~Clay, man. What would you do if you had an unknown number of mobster hitmen on your tail?
-0x9A0BE813=~z~Clay，哥们。要是你被数量不明的黑帮杀手追杀，你会咋办？
+0x9A0BE813=~z~Clay，哥们。要是被数量不明的黑帮杀手追杀，你会咋办？
 
 ;0x9AFD636B=~z~Billy was right about both of yous. Back-stabbing fools.
 0x9AFD636B=~z~Billy对你俩的评价没错。傻逼叛徒。
@@ -480,7 +480,7 @@
 0xAEDF0456=~z~你丫差不多得了，Ray。这样没意思的。
 
 ;0xB23A6099=~z~and now apparently Billy's going states...
-0xB23A6099=~z~但是既然现在Billy进局子了...
+0xB23A6099=~z~但是既然Billy进局子了...
 
 ;0xB34D0F16=200090020
 0xB34D0F16=200090020

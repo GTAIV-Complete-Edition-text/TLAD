@@ -15,7 +15,7 @@
 0x02FB9D24=SFX_PAUSE_270
 
 ;0x0451AFE7=~z~We got cops coming up the rear.
-0x0451AFE7=~z~条子从后面过来了。
+0x0451AFE7=~z~条子还在我们后面。
 
 ;0x0505F582=~z~Pigs ahead, dude.
 0x0505F582=~z~条子在前面，老兄。
@@ -27,7 +27,7 @@
 0x055EE986=E1E3_AA
 
 ;0x059C3D73=~z~Johnny, I need you to take out the windows of that showroom, aight?
-0x059C3D73=~z~Johnny，我要你把展厅的玻璃打烂，懂?
+0x059C3D73=~z~Johnny，你给我把展厅的玻璃打烂，懂？
 
 ;0x061810B3=E1E3_HA
 0x061810B3=E1E3_HA
@@ -300,7 +300,7 @@
 0x452B4137=E1E3_A_LA
 
 ;0x46CE16E5=~z~Come on, let's get out of here!
-0x46CE16E5=~z~快点，一起逃出这里！
+0x46CE16E5=~z~快点，一起逃出去！
 
 ;0x47AD5DD7=~z~Holy shit.
 0x47AD5DD7=~z~妈个逼的。
@@ -471,7 +471,7 @@
 0x712E4A59=~z~真当自己很牛是吧？
 
 ;0x7197D0D4=~z~My fucking bike man!
-0x7197D0D4=~z~车车，我的车车！
+0x7197D0D4=~z~老子的车啊！
 
 ;0x72C38CBB=E1E3_A_BA
 0x72C38CBB=E1E3_A_BA
@@ -570,7 +570,7 @@
 0x8783F590=E1E3_A_CD
 
 ;0x8862152F=~z~Deal didn't happen. Buyer got smart. Pigs got involved. Our friends're heading back with the product.
-0x8862152F=~z~交易吹了。买家想逃单。条子出现了。我们的朋友带着货回来了。
+0x8862152F=~z~交易吹了。买家想逃单，条子出现了。我们的朋友带着货回来了。
 
 ;0x89812457=E1E3_RA
 0x89812457=E1E3_RA
@@ -615,7 +615,7 @@
 0x9394439F=E1E3_A_FD
 
 ;0x941D09B7=~z~Man, we're surrounded.
-0x941D09B7=~z~兄弟，我们被包围了 。
+0x941D09B7=~z~兄弟，我们被包围了。
 
 ;0x94D31227=090
 0x94D31227=090
@@ -678,7 +678,7 @@
 0xA33BD958=~z~谢谢你把后座让出来。
 
 ;0xA345CAF6=~z~Things couldn't get much worse here, you know. You know these is tough times.
-0xA345CAF6=~z~这已经是糟糕透顶了，好吧。日子真是难过啊。
+0xA345CAF6=~z~这已经是糟糕透顶了，日子真是难过啊。
 
 ;0xA3A832C8=~z~Cops straight ahead.
 0xA3A832C8=~z~条子在前面。

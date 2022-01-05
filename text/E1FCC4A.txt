@@ -183,7 +183,7 @@
 0x74244A95=~z~Clay，哥们。能给我送辆Innovation吗？
 
 ;0x74C164AC=~z~Dude, where you at? Can you get Terry and come and meet me?
-0x74C164AC=~z~老兄，你在哪呢？你能叫上Terry来找我吗？
+0x74C164AC=~z~老兄，你在哪呢？能叫上Terry来找我吗？
 
 ;0x778BB5C5=E1FCC4_ACT_CALL_HOSP_CANCEL_MEDLIKEA
 0x778BB5C5=E1FCC4_ACT_CALL_HOSP_CANCEL_MEDLIKEA

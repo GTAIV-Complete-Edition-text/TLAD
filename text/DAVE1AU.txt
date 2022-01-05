@@ -1,6 +1,6 @@
 ﻿[DAVE1AU]
 ;0x033FC042=~z~Put the brakes on your case against Dave Grossman or you'll be one good fucking lawyer, dude.
-0x033FC042=~z~停止你对 Dave Grossman 的诉讼，否则我把你变成好律师，伙计。
+0x033FC042=~z~停止你对Dave Grossman的诉讼，否则我把你变成好律师，伙计。
 
 ;0x05F15B46=SFX_PAUSE_340
 0x05F15B46=SFX_PAUSE_340
@@ -72,7 +72,7 @@
 0x359BE4A2=~z~我说，我很久没去找他了。
 
 ;0x35E58C07=~z~Bad news is he's dead and they might just hire another one.
-0x35E58C07=~z~坏消息是他死了，对方估计会再找一个。
+0x35E58C07=~z~坏消息是他死了，对方估计会找新律师。
 
 ;0x393016EA=100090010090100090010090100
 0x393016EA=100090010090100090010090100
@@ -120,7 +120,7 @@
 0x5E3B5A77=~z~失落帮成员的生活不止是开支票和擦摩托。再见。
 
 ;0x5F203DBA=~z~Dave Grossman speaking
-0x5F203DBA=~z~我是 Dave Grossman。
+0x5F203DBA=~z~我是Dave Grossman。
 
 ;0x6F11EA2A=DAVE1_AA
 0x6F11EA2A=DAVE1_AA
@@ -258,7 +258,7 @@
 0xBC12284E=~z~还会给我一笔报酬？
 
 ;0xBEB93736=~z~You better have a good lawyer, pal.
-0xBEB93736=~z~你最好有一个好律师，朋友。
+0xBEB93736=~z~你最好找一个好律师，朋友。
 
 ;0xC3558017=~z~Friend of Billy's, huh? Well good luck with that.
 0xC3558017=~z~Billy的朋友啊？祝你好运。

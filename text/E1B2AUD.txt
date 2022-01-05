@@ -18,7 +18,7 @@
 0x07251CF4=~z~你会直接开走我的，把我晾在路上。回见，老兄。
 
 ;0x0893E876=~z~Billy, man. Shit! The Lost ain't much without the chapter President. What're we gonna do?
-0x0893E876=~z~Billy，伙计。妈的！分会会长挂了，失落帮要完了。我们该怎么办？
+0x0893E876=~z~Billy，天哪。妈的！分会会长挂了，失落帮要完了。我们该怎么办？
 
 ;0x093C5901=~z~I'm sorry. You enjoy your little party.
 0x093C5901=~z~真对不起。您接着乐呵您的吧。
@@ -282,7 +282,7 @@
 0x7C378A51=SFX_PAUSE_200
 
 ;0x7D21D6DE=~z~Eat my shit.
-0x7D21D6DE=~z~吔屎啦。
+0x7D21D6DE=~z~吃屎吧。
 
 ;0x7E0C104E=SFX_PAUSE_350
 0x7E0C104E=SFX_PAUSE_350
@@ -444,7 +444,7 @@
 0xC5B41460=~z~准备干了他爹的巨贵伏特加，再到码头下面干她。
 
 ;0xC6266874=~z~And if I get tested, I have a bag of twelve year old's piss right here.
-0xC6266874=~z~如果找我尿检，这儿就有一袋十二年陈尿。
+0xC6266874=~z~如果找我尿检，这儿就有一袋干净的童子尿。
 
 ;0xC7016E01=~z~Greetings.
 0xC7016E01=~z~你来啦。
@@ -459,7 +459,7 @@
 0xC8BCA014=E1B2_LA
 
 ;0xC8FCA2C7=~z~No, I stopped 'em. We don't need more brothers dyin' over this.
-0xC8FCA2C7=~z~不，我阻止了他们。我们不能让更多兄弟为此牺牲了。
+0xC8FCA2C7=~z~不，被我阻止了。不能让更多兄弟为此牺牲了。
 
 ;0xC96211A1=~z~think you can come to my party and gatecrash?
 0xC96211A1=~z~还敢来老子地盘撒野？
@@ -558,7 +558,7 @@
 0xF40474CB=E1B2_CA
 
 ;0xF47679BA=~z~Johnny, man, you let those Deadbeats tell their buddies a war's on?
-0xF47679BA=~z~Johnny，伙计，你让那些死妈天使告诉他们的同伴要开战了？
+0xF47679BA=~z~Johnny，伙计，死妈天使告诉他们的同伴要开战了吗？
 
 ;0xF5BCD751=~z~Shit. Jason. You motherfuckers!
 0xF5BCD751=~z~我去，Jason。这群畜生！

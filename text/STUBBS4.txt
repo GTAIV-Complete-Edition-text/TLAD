@@ -57,7 +57,7 @@
 0xB46D61C3=~r~你损坏了失落帮的载具。~s~
 
 ;0xB698E5C2=~s~Make your way to the ~y~prison yard.~s~
-0xB698E5C2=~s~前往~y~监狱场地。~s~
+0xB698E5C2=~s~前往~y~监狱空地。~s~
 
 ;0xB931B72F=~r~You abandoned Terry and Clay.~s~
 0xB931B72F=~r~你抛弃了Terry和Clay。~s~
@@ -84,7 +84,7 @@
 0xE47F8DCA=~r~你攻击了失落帮成员。~s~
 
 ;0xE693F95D=~s~When locked-on while equipped with a pistol, you can perform an execution on certain characters.~s~
-0xE693F95D=~s~用手枪瞄准某些目标时，你可以对其实施处决。~s~
+0xE693F95D=~s~用手枪瞄准某些角色时，你可以对其实施处决。~s~
 
 ;0xEB104099=Lose the cops.
 0xEB104099=甩掉条子。

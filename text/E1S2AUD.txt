@@ -123,7 +123,7 @@
 0x26A171A0=~z~现在里面有坏人，先生。请勿靠近。
 
 ;0x27EC410E=~z~Oh, I do like to be beside the sea.
-0x27EC410E=~z~哦，我喜欢在海边，
+0x27EC410E=~z~哦，我喜欢在海边。
 
 ;0x2A66C752=SFX_PAUSE_180
 0x2A66C752=SFX_PAUSE_180
@@ -165,7 +165,7 @@
 0x3789F4D7=E1S2_DA
 
 ;0x38F22491=~z~I doubt those who remember me think it a great idea that I am about to be roaming free again.
-0x38F22491=~z~还记得我的人知道我重获自由多半会被吓死吧。
+0x38F22491=~z~记得我的人知道我重获自由多半会被吓死吧。
 
 ;0x390DF8A5=~z~You crossed the line.
 0x390DF8A5=~z~你越界了。
@@ -201,7 +201,7 @@
 0x429B93B8=~z~我才不要回去。
 
 ;0x4317E7B8=~z~A panhead, shovelhead, V-twin?
-0x4317E7B8=~z~Panhead？Shovelhead？V-twin？
+0x4317E7B8=~z~盘头？铲头？V型双缸？
 
 ;0x432A30E7=~z~Get out the fucking way.
 0x432A30E7=~z~别他妈挡路。
@@ -234,7 +234,7 @@
 0x4B5005D9=SFX_PAUSE_170
 
 ;0x4BFA0929=~z~Oh, I do like to be beside the seaside.
-0x4BFA0929=~z~哦，我喜欢在海滨，
+0x4BFA0929=~z~哦，我喜欢在海滨。
 
 ;0x4CBC2001=~z~You're in my world now, son.
 0x4CBC2001=~z~你逃不出我的手掌心了，小子。
@@ -294,7 +294,7 @@
 0x5909E7AA=SFX_PAUSE_220
 
 ;0x598487F5=~z~For these fellas it's white collar shenanigans. Caught with their hand in the cookie jar.
-0x598487F5=~z~因为这帮白领手脚不干净，被人逮到现形了。
+0x598487F5=~z~这帮白领手脚不干净，被人逮到现形了。
 
 ;0x5B31F3CC=~z~Your friends are out to sea, Mr. Stubbs. Good luck to them. I think they'll need it.
 0x5B31F3CC=~z~你的朋友都出海了，Stubbs先生。祝他们好运吧，他们会需要的。
@@ -402,7 +402,7 @@
 0x75E3DD71=070
 
 ;0x77BC897D=~z~these gentlemen are in a prison transport bus,
-0x77BC897D=~z~这些人现在在一辆囚车上，
+0x77BC897D=~z~这些人现在在一辆囚车上。
 
 ;0x77DE4CB4=~z~Alright!
 0x77DE4CB4=~z~好了！
@@ -447,7 +447,7 @@
 0x8550B533=~z~被抓进去的话，谁想当我室友？
 
 ;0x8566A4D1=~z~No, all you need to know is that, uh,
-0x8566A4D1=~z~你需要知道的只有，呃，
+0x8566A4D1=~z~你需要知道的只有...
 
 ;0x8597BDD1=E1S2_CA
 0x8597BDD1=E1S2_CA
@@ -471,7 +471,7 @@
 0x889EE9F0=E1S2_SJ
 
 ;0x8917FB9A=~z~Use these keys to get out them shackles, boys.
-0x8917FB9A=~z~用这些钥匙把手铐打开，伙计们。
+0x8917FB9A=~z~用这串钥匙把手铐打开，伙计们。
 
 ;0x8B0BA806=SFX_PAUSE_130
 0x8B0BA806=SFX_PAUSE_130
@@ -600,7 +600,7 @@
 0xB5371DD3=SFX_PAUSE_100
 
 ;0xB5A44033=~z~So, umm, what're you folks in for?
-0xB5A44033=~z~所以，呃，各位是为啥被捕的？
+0xB5A44033=~z~所以...各位是为啥被捕的？
 
 ;0xB815F3FA=E1S2_SD
 0xB815F3FA=E1S2_SD
@@ -741,7 +741,7 @@
 0xE98A26CE=~z~恐怕我不能带你的雅皮士朋友逃出生天了，Stubbs先生。
 
 ;0xEBA9EAA6=~z~Well, I think what I've learned is that there's always a man, dude.
-0xEBA9EAA6=~z~好吧，我的人生感悟是，总有人欠收拾，伙计。
+0xEBA9EAA6=~z~我的人生感悟是，总有人欠收拾，伙计。
 
 ;0xEBC07AEF=E1S2_A_EA
 0xEBC07AEF=E1S2_A_EA
@@ -786,7 +786,7 @@
 0xF6FA25BB=E1S2_MB
 
 ;0xF7CA20F6=~z~Those coveralls chafing you? Well you must be used to wearing Perseus suits and shit.
-0xF7CA20F6=~z~这身囚服是不是硌得难受？你们肯定只穿得惯Perseus的垃圾西装。
+0xF7CA20F6=~z~这身囚服是不是硌得难受？你们肯定只穿得惯神之子的垃圾西装。
 
 ;0xF7FD2854=SFX_PAUSE_120
 0xF7FD2854=SFX_PAUSE_120

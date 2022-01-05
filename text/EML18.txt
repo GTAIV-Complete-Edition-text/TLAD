@@ -12,7 +12,7 @@
 0x364B6F7F=债务杀手
 
 ;0x59D6D19C=Completely risk free! Clear your debts in less than 30 days! 100% success rate!Are you drowning in debt? Getting harassed by creditors? Struggling to pay your bills on time? Scared to answer the phone? Do you hide every time the doorbell rings?
-0x59D6D19C=绝对零风险！三十天内清除你的债务。100%成功！你正在为你的债务发愁吗？正在被高利贷骚扰吗？还在为还钱而痛苦挣扎吗？接电话时心惊胆战吗？每次门铃想了都会躲起来吗？
+0x59D6D19C=绝对零风险！三十天内清除你的债务。100%成功！你正在为你的债务发愁吗？正在被高利贷骚扰吗？还在为还钱而痛苦挣扎吗？接电话时心惊胆战吗？每次门铃响了都会躲起来吗？
 
 ;0x61AE8B81=Completely risk free!
 0x61AE8B81=绝对零风险！

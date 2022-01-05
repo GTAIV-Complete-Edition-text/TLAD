@@ -405,7 +405,7 @@
 0xBF9D2139=100
 
 ;0xBFFD898D=~z~I got a real freak lined up. I'll pass.
-0xBFFD898D=~z~我被一个怪人缠上了。来不了。
+0xBFFD898D=~z~我被怪人缠上了。来不了。
 
 ;0xC1509C07=~z~You know I'm the big dog rider in our club. Come by soon, man.
 0xC1509C07=~z~你知道在咱们帮里，我骑车最牛逼。快过来，哥们。
