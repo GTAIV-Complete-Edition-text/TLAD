@@ -21,7 +21,7 @@
 0x1D330B7C=6th
 
 ;0x1D66705F=Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_FRONTEND_RT~ for a heavy right attack.
-0x1D66705F=按住~INPUT_VEH_HEADLIGHT~向左重击，按住~INPUT_FRONTEND_RT~向右重击。
+0x1D66705F=长按~INPUT_VEH_HEADLIGHT~向左重击，长按~INPUT_FRONTEND_RT~向右重击。
 
 ;0x21B1848E=10th
 0x21B1848E=10th
@@ -63,7 +63,7 @@
 0x6F68E144=你赢了。
 
 ;0x7C40B88A=Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.
-0x7C40B88A=按住~INPUT_MOUSE_LMB~向左重击，按住~INPUT_MOUSE_RMB~向右重击。
+0x7C40B88A=长按~INPUT_MOUSE_LMB~向左重击，长按~INPUT_MOUSE_RMB~向右重击。
 
 ;0x877D6854=Press a key to choose an East race course.~n~0: BOHAN_STRIP ~n~1: BOHAN_BEACH ~n~2: BOHAN_STEPS ~n~5: SCHOTTLER_STATION
 0x877D6854=按一个键来选择一条东部比赛路线。~n~0: BOHAN_STRIP ~n~1: BOHAN_BEACH ~n~2: BOHAN_STEPS ~n~5: SCHOTTLER_STATION
@@ -84,7 +84,7 @@
 0x967F991D=2nd
 
 ;0x992D6788=Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.
-0x992D6788=按住~INPUT_MOUSE_LMB~向左重击，按住~INPUT_MOUSE_RMB~向右重击。
+0x992D6788=长按~INPUT_MOUSE_LMB~向左重击，长按~INPUT_MOUSE_RMB~向右重击。
 
 ;0xB2449A1D=You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_VEH_CIN_CAM~ for a right attack.
 0xB2449A1D=你可以用棒球棍攻击对手。按~INPUT_VEH_HEADLIGHT~攻击左边，按~INPUT_VEH_CIN_CAM~攻击右边。 
@@ -108,7 +108,7 @@
 0xC045C12B=9th
 
 ;0xC3AE3CF0=Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_VEH_CIN_CAM~ for a heavy right attack.
-0xC3AE3CF0=按住~INPUT_VEH_HEADLIGHT~向左重击，按住~INPUT_VEH_CIN_CAM~向右重击。
+0xC3AE3CF0=长按~INPUT_VEH_HEADLIGHT~向左重击，长按~INPUT_VEH_CIN_CAM~向右重击。
 
 ;0xC4C9FDC6=Go to the start line.
 0xC4C9FDC6=前往起跑线。
