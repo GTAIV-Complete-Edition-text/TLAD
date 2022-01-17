@@ -291,7 +291,7 @@
 0x2CEA98A9=~z~你太快了，阿强。待在我后面。
 
 ;0x2D269A06=~z~Your fucking dog?
-0x2D269A06=~z~你养的狗吗？
+0x2D269A06=~z~你的狗吗？
 
 ;0x2D8789FF=~z~Okay, Johnny boy. I hope you had fun playing leader, but the big man is back. Stay behind me.
 0x2D8789FF=~z~好了，Johnny仔。当领队的感觉是不是很爽，但现在大哥我回来了。不要超过我。
@@ -465,7 +465,7 @@
 0x40D59A12=~z~傻逼书，兄弟。傻逼书。我只要酒，只要娘们。
 
 ;0x40E5C184=~z~What am I?
-0x40E5C184=~z~你当我是什么？
+0x40E5C184=~z~我是啥？
 
 ;0x4182C78A=~z~It was fine.
 0x4182C78A=~z~我没事。

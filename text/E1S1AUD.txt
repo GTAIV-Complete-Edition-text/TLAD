@@ -372,7 +372,7 @@
 0xBB58F79F=~z~好了，我打电话吧。有辆车在临时停车场给你。
 
 ;0xBBC92791=~z~Ah, he was a man of the people, a philanthropist, a pompous windbag and an occasional catamite,
-0xBBC92791=~z~啊，他是人民公仆，是个大善人，是个牛皮大王，有时也是娈童。
+0xBBC92791=~z~啊，他是人民公仆，是个大善人，是个牛皮大王，有时也是个小受。
 
 ;0xBD14EE3F=E1S1_HA
 0xBD14EE3F=E1S1_HA

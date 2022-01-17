@@ -708,7 +708,7 @@
 0xB5836454=~z~我也让Malc和DeSean过去了，去她在South Bohan的住处。
 
 ;0xB5F17911=~z~I need a knight in shining armor to take me away from this mess. They're gonna kill me... or worse.
-0xB5F17911=~z~我需要一个身披闪亮盔甲的骑士救我出去。他们要杀我...甚至更糟。
+0xB5F17911=~z~我需要一个披坚执锐的骑士救我出去。他们要杀我...甚至更糟。
 
 ;0xB669D988=SFX_PAUSE_270
 0xB669D988=SFX_PAUSE_270
