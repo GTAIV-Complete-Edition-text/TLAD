@@ -681,7 +681,7 @@
 0xE058F50A=~z~干翻这帮不长眼的。
 
 ;0xE2A779AF=~z~Come on, boys.
-0xE2A779AF=~z~干他丫的，小的们。
+0xE2A779AF=~z~干他丫的，弟兄们。
 
 ;0xE2F7DD18=~z~They're in Bohan moving a vehicle at the moment.
 0xE2F7DD18=~z~They're in Bohan moving a vehicle at the moment.
