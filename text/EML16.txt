@@ -39,7 +39,7 @@
 0x79013389=诚挚的，
 
 ;0x7EF7A82D=Wouldn't you like to boost your salary with a qualification from a prestigious academic institution? Are you aware that you can get a college degree in exchange for what you already know?!!! Can you imagine graduating with top honors in a matter of days rather than years? Harford University awards academic credit for life experience in a wide range of sought-after subjects:
-0x7EF7A82D=你想借助名校的文凭提高薪水吗？你知道大学学位可以让你畅行无阻吗?!!! 你能想象从顶尖大学毕业仅需要几天而不是好几年吗？哈佛大学正根据你的生活经历在众多吃香的专业中授予你学分：
+0x7EF7A82D=你想借助名校的文凭提高薪水吗？你知道大学学位可以让你畅行无阻吗？！！！你能想象从顶尖大学毕业仅需要几天而不是好几年吗？哈佛大学正根据你的生活经历在众多吃香的专业中授予你学分：
 
 ;0x8AC2D70C=Yours truly,
 0x8AC2D70C=诚挚的，
