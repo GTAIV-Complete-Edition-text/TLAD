@@ -39,7 +39,7 @@
 0x99C55140=您的仆人，
 
 ;0xA49FB8D1=How do I find you today? Please fogive me if I am instruding your privacy. I am Barrister Saidou Bakayoko, personal attorney to the late Mr. Laurence Brand, who until his tragic death was a building contractor with the government of Burkina Faso.
-0xA49FB8D1=我是怎么找到您的？如果我侵犯了您的隐私，还请见谅。我是Saidou Bakayoko律师，是已故的Laurence Brand先生的私人律师，在不幸去世之前，他是布基纳法索政府的建筑承包商。
+0xA49FB8D1=最近可好？若有侵犯到您的隐私，还请见谅。我是Saidou Bakayoko诉讼律师，是已故的Laurence Brand先生的私人律师，生前他是布基纳法索政府的建筑承包商。
 
 ;0xAC46F643=Yours Obediently,
 0xAC46F643=您的仆人，
@@ -66,5 +66,5 @@
 0xFBA50EBB=亲爱的Klebitz先生，
 
 ;0xFD15E9BC=Two months ago my client and his entire family was killed in a motor accident on a road of Ouagadougou, which claimed all their lifes, sparing none of the ocupants of the aforementioned vehicle, not one, not even the bouncing headed dog who lived on the dashboard.
-0xFD15E9BC=两个月前，我的当事人和他全家死于一场发生在瓦加杜古的惨烈车祸，这场车祸夺去了他们的生命，车上无人生还，就连仪表盘上的狗公仔也死于非命。
+0xFD15E9BC=两个月前，我的当事人和他全家在瓦加杜古的一场惨烈车祸中不幸丧生，这场车祸夺去了他们的生命，车上无人生还，就连仪表盘上的狗公仔也死于非命。
 
