@@ -21,7 +21,7 @@
 0x51F8402C=成千上万的安保人员正忙于为相貌讨厌的老太太做毒品检查，此时却有一场屠杀在移民中爆发，而这场屠杀并不是墨西哥人想要偷渡入境所致。
 
 ;0x65216DD4=It appears that it takes more than a boatload of booze and a smorgasbord of tiny reproductive organs to have a hit series these days. It was billed as: 'One island full of genetic disasters' but CNT's primetime show, Hermaphrodite Island, has been cancelled after just one season following disastrous viewing figures. The producers tried everything from Bikini Tuesdays to Absinthe Thursdays to Jockstrap Fridays but, apart from a confusing fumble between Dave and Ken in the mud pit, passion failed to ignite between the contestants and angry reality TV fans began switching off in their droves. Phoebe, the star of the show, says her calendar will be out in time for Christmas and will excite both men and women.
-0x65216DD4=现在看来，爆款节目需要的不仅是一船酒水和一大票生殖器。以「充斥着灾难般基因的岛屿」为宣传标语的 CNT 电视台的黄金时段节目《双性岛》仅仅拍摄了一季，就因惨不忍睹的收视率被迫腰斩。制片人拿出了百般花样：比基尼周二，苦艾酒周四，三角裤周五。但除了 Dave 和 Ken 在泥坑中的混乱争球之外，参赛者之间没能擦出任何激情火花，愤怒的真人秀粉丝也纷纷换台。该节目的红人 Phoebe 表示，她的写真日历会在圣诞节推出，男人和女人都能从中找到亮点。
+0x65216DD4=现在看来，爆款节目需要的不仅是一船酒水和一大票生殖器。以「充斥着灾难般基因的岛屿」为宣传标语的CNT电视台的黄金时段节目《双性岛》仅仅拍摄了一季，就因惨不忍睹的收视率被迫腰斩。制片人拿出了百般花样：比基尼周二，苦艾酒周四，三角裤周五。但除了Dave和Ken在泥坑中的混乱争球之外，参赛者之间没能擦出任何激情火花，愤怒的真人秀粉丝也纷纷换台。该节目的红人Phoebe表示，她的写真日历会在圣诞节推出，男人和女人都能从中找到亮点。
 
 ;0x7CE03002=No treasures on this island
 0x7CE03002=这座岛上没有宝藏

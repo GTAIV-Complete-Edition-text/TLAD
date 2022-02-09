@@ -216,7 +216,7 @@
 0x8F90F949=掰手腕
 
 ;0x9DB6E765=All seagulls killed. LC is a quieter place.
-0x9DB6E765=已消灭所有海鸥。自由城更安静了。
+0x9DB6E765=已消灭所有海鸥。自由城更清静了。
 
 ;0x10216D02=~1~ seagulls left in Liberty City.
 0x10216D02=自由城内还有 ~1~ 只海鸥。
@@ -714,7 +714,7 @@
 0x033433B6=此次与Michelle的半局免费。
 
 ;0x56B65AB9=You can't bowl with the cops after you.
-0x56B65AB9=你不能在被通缉时打保龄球。
+0x56B65AB9=被通缉时不能打保龄球。
 
 ;0x757C7566=Cage Ridin' Citizen
 0x757C7566=过路司机
@@ -1044,25 +1044,25 @@
 0x00D44F28=Johnny，天天干正事也太无聊了。有空一起出去玩吧。
 
 ;0xE3AD14DA=All work and no play makes Johnny a dull boy. Let's hang.
-0xE3AD14DA=天天工作，没有放松， Johnny 马上变笨逼。有空一起出去吧。
+0xE3AD14DA=天天工作，没有放松，Johnny马上变笨逼。有空一起出去吧。
 
 ;0xF16AB055=Dude, you ever need some help, Terry and Clay can back you up. Just call one of em.
-0xF16AB055=老兄，要是需要支援， Terry 和 Clay 都能帮你。需要支援就找他们。
+0xF16AB055=老兄，要是需要支援，Terry和Clay都能帮你。需要支援就找他们。
 
 ;0x719D30AC=Now that you're chapter leader you should take advantage. Get Terry and Clay up off their asses and make em help you.
-0x719D30AC=现在你是分会会长了，多用点权力。叫 Terry 和 Clay 过来帮你忙吧。
+0x719D30AC=现在你是分会会长了，多用点权力。叫Terry和Clay过来帮你忙吧。
 
 ;0x482BDDD6=I feel like you're giving Terry and Clay an easy ride, dude. Give 'em a call and make 'em help you out.
-0x482BDDD6=感觉你让 Terry 和 Clay 太轻松了，老兄。给他们打个电话，让他们来支援你吧。
+0x482BDDD6=感觉你让Terry和Clay太轻松了，老兄。给他们打个电话，让他们来支援你吧。
 
 ;0x55EE795B=These are fucked up times, dude. Remember to get T and C to help you if shit gets tough.
-0x55EE795B=现在的日子不好过啊，老兄。出状况了记得叫 T 和 C 来支援你。
+0x55EE795B=现在的日子不好过啊，老兄。出状况了记得叫T和C来支援你。
 
 ;0x1CB806EF=Good race, man. I'm gonna need to soak all these bruises I got.
 0x1CB806EF=好车技，兄弟。我得回去洗下那些淤青了。
 
 ;0xDD2803E0=Shit, man. Jackie's gonna kill me when she sees these bruises. Nice racing.
-0xDD2803E0=妈的，兄弟。看见这些淤青， Jackie 会杀了我的。好车技。
+0xDD2803E0=妈的，兄弟。看见这些淤青，Jackie会杀了我的。好车技。
 
 ;0xEB5EA04D=I'm getting to old to get beat up like that. Good racing.
 0xEB5EA04D=我年纪大了，不经打。好车技。
@@ -1101,13 +1101,13 @@
 0x5B6D81B1=我们有空一起出去吧。
 
 ;0x992FFD35=You should sleep in Brian's old apartment - he won't be turning up there again. Sure beats that old bed at the clubhouse.
-0x992FFD35=你应该去 Brian 的那间公寓睡觉，反正他不会再出现了。总比会所的破床好。
+0x992FFD35=你应该去Brian的那间公寓睡觉，反正他不会再出现了。总比会所的破床好。
 
 ;0xBDE3469B=Me and the boys have fixed up Brian's apartment after the fire. You should sleep there. It's still a shithole, but might be better than that old bed at the clubhouse.
-0xBDE3469B=我和弟兄们已经把上次烧掉的 Brian 的公寓修好了。你应该去那里睡觉。虽然也没好到哪去，但是总比会所的破床要好。
+0xBDE3469B=我和弟兄们已经把上次烧掉的Brian的公寓修好了。你应该去那里睡觉。虽然也没好到哪去，但是总比会所的破床要好。
 
 ;0x6D7925C8=Hey man, don't tell Jackie that I stayed in the club. Thanks, dude.
-0x6D7925C8=嘿，兄弟，别告诉 Jackie 我在会所过夜。谢了，老兄。
+0x6D7925C8=嘿，兄弟，别告诉Jackie我在会所过夜。谢了，老兄。
 
 ;0xC736D94E=Sorry, man. I wasn't gonna leave that club. You'll know what I'm talking about when you get married. Later.
 0xC736D94E=抱歉，兄弟。我今天就待在会所了。等你结婚就知道我这话的意思了。回见。
@@ -1116,7 +1116,7 @@
 0x61920C39=Stubbs
 
 ;0x62F4C1EF=Something about faked terrorist acts gets me all excited, Klebitz. You can either take out the chopper as it lands or deal with the convoy as it makes its way out of the airport. By the way, I've got a man at the Southwest gate who can help you if you're locked into the runway area. - TS III
-0x62F4C1EF=伪造恐怖袭击让我很兴奋， Klebitz。你可以轰烂正在降落的直升机，也可以袭击离开机场的车队。对了，万一你被困在机场里面，西南门有我的人可以帮你出去。 - TS III
+0x62F4C1EF=伪造恐怖袭击让我很兴奋，Klebitz。你可以轰烂正在降落的直升机，也可以袭击离开机场的车队。对了，万一你被困在机场里面，西南门有我的人可以帮你出去。 - TS III
 
 ;0xA1643EC9=Excellent work. Call 123-555-0160 if you want to tune into that listening device of yours. - TS III
 0xA1643EC9=干得漂亮。如果你想听那个窃听器，拨打 123-555-0160 - TS III
@@ -1179,7 +1179,7 @@
 0x756F1019=我有活给你和 Malc 做。过来找我。 - Liz
 
 ;0x888CB654=A friend of mine asked me to pass on the number of her boyfriend's cab business. It's called Bellic Enterprises and it's 555-2222. - Liz
-0x888CB654=一个朋友让我帮忙宣传她男友的叫车服务。 Bellic 集团，号码 555-2222。 - Liz
+0x888CB654=一个朋友让我帮忙宣传她男友的叫车服务。Bellic集团，号码 555-2222。 - Liz
 
 ;0xDACC5AD2=PLACEHOLDER
 0xDACC5AD2=PLACEHOLDER
@@ -1191,7 +1191,7 @@
 0xBB8D1C54=PLACEHOLDER
 
 ;0xC068260A=Johnny! I spoke to your friend Jim and he's says you need work. He's sending a friend of his called Malc as well. Meet me at my apartment. - Liz
-0xC068260A=Johnny！我跟你的朋友 Jim 聊过了，他说你在找活干。他还带了个叫 Malc 的朋友过来。来我的公寓找我。 - Liz
+0xC068260A=Johnny！我跟你的朋友Jim聊过了，他说你在找活干。他还带了个叫Malc的朋友过来。来我的公寓找我。 - Liz
 
 ;0x86ECD6EE=Ray
 0x86ECD6EE=Ray
@@ -1227,16 +1227,16 @@
 0x0DF211C0=我也不想说这种婊子会说的话。不过拜托，老兄，你人呢？
 
 ;0x424C7A74=Hey man. You need help, call me or Clay.
-0x424C7A74=嘿，兄弟。需要支援了，就给我或者 Clay 打个电话。
+0x424C7A74=嘿，兄弟。需要支援了，就给我或者Clay打个电话。
 
 ;0xFC666EA9=Clay and I are here if the Chapter President ever needs assistance.
-0xFC666EA9=分会会长需要协助， Clay 和我随叫随到。
+0xFC666EA9=分会会长需要协助，Clay和我随叫随到。
 
 ;0xEEAD5337=Hey, Prez. Call me or Clay if you need some backup.
-0xEEAD5337=嘿，头儿。需要支援了就给我或者 Clay 打个电话。
+0xEEAD5337=嘿，头儿。需要支援了就给我或者Clay打个电话。
 
 ;0xD8DAA792=Me and Clay are here to help out on Club business, Prez. Just call one of us.
-0xD8DAA792=我和 Clay 加入失落帮就是为了给帮会做事的，头儿。有事打个电话。
+0xD8DAA792=我和Clay加入失落帮就是为了给帮会做事的，头儿。有事打个电话。
 
 ;0xC948886E=Johnny, man. You ever need to replenish your weapons supply, call me and I'll bring round the War Wagon.
 0xC948886E=Johnny，兄弟。需要补充武器了就给我打个电话，我会开战车过来的。
@@ -1275,22 +1275,22 @@
 0xE6E7D4A5=Johnny K，给兄弟脸上一棍，还想往冠军席混。以后一起出去吧。
 
 ;0xD4AD3030=I got you good, Johnny. Don't hold it against me. See you soon, man.
-0xD4AD3030=我赢了， Johnny。你别生我气啊。以后见，兄弟。
+0xD4AD3030=我赢了，Johnny。你别生我气啊。以后见，兄弟。
 
 ;0x44620F9C=Shit, Johnny. I hit you good. Let's race again sometime.
-0x44620F9C=妈的， Johnny，我吊打你啊。有空再赛一场吧。
+0x44620F9C=妈的，Johnny，我吊打你啊。有空再赛一场吧。
 
 ;0xB2316B39=Nothing like having a bike between your legs and a bat in your hand. Sorry if I hit you too hard, John.
-0xB2316B39=胯下一台车，手上一根棍，真是太爽了。没给你放水不好意思啊， John。
+0xB2316B39=胯下一台车，手上一根棍，真是太爽了。没给你放水不好意思啊，John。
 
 ;0x9FDA468B=Let's do that again, Johnny. I could get used to hitting you in the face with a bat. Ha ha ha.
-0x9FDA468B=以后再来赛车啊， Johnny。我可以习惯棍子甩你脸上的手感的。哈哈哈。
+0x9FDA468B=以后再来赛车啊，Johnny。我可以习惯棍子甩你脸上的手感的。哈哈哈。
 
 ;0x8DABA22E=Too bad, Johnny. You might do better if you actually made contact with that bat of yours.
-0x8DABA22E=真可惜， Johnny。要是你和铁棍多沟通，说不定能做得更好。
+0x8DABA22E=真可惜，Johnny。要是你和铁棍多沟通，说不定能做得更好。
 
 ;0x700CE6ED=You're a pleasure to race with, Johnny. Mainly coz you don't know how to use your bat. Ha ha.
-0x700CE6ED=和你赛车很愉快， Johnny。主要是因为你不会耍铁棍。哈哈。
+0x700CE6ED=和你赛车很愉快，Johnny。主要是因为你不会耍铁棍。哈哈。
 
 ;0x5D964200=Nice racing with you, man. Next time try and actually use your bat.
 0x5D964200=跟你赛车真高兴，兄弟。下次记得甩两下铁棍。
@@ -1326,16 +1326,16 @@
 0x6152642C=希望你玩得高兴，兄弟。不来找我们总有更好的去处吧。
 
 ;0x500CC1A1=Me and Terry wanna see some action, too. Let us know if you need some help.
-0x500CC1A1=我和 Terry 想动动筋骨了。需要支援了就说一声。
+0x500CC1A1=我和Terry想动动筋骨了。需要支援了就说一声。
 
 ;0x9EA35ECD=I'm itching to see some action, man. Let me know if you need Terry and me behind you.
-0x9EA35ECD=我现在很想战一战，兄弟。需要 Terry 和我来支援你就说一声。
+0x9EA35ECD=我现在很想战一战，兄弟。需要Terry和我来支援你就说一声。
 
 ;0x8C60BA48=Me and T are itching for some action. Unleash us, man. Come on.
 0x8C60BA48=我和T都想动动筋骨。满足我们吧，兄弟。来吧。
 
 ;0xB8501226=You need some help, just call me or Terry. Okay?
-0xB8501226=需要支援了，就给我或者 Terry 打个电话，好吗？
+0xB8501226=需要支援了，就给我或者Terry打个电话，好吗？
 
 ;0xAF05FF92=You ever need a bike delivered, just call the Road Captain. Yours truly.
 0xAF05FF92=哪天需要送辆摩托过来，就给本行车长打个电话。此致。
@@ -1356,7 +1356,7 @@
 0x7779D266=兄弟，偶尔一起去放松一下吧。
 
 ;0xACD73D20=Yo, Johnny. Why don't you call me no more?
-0xACD73D20=哟， Johnny。怎么不给我打电话啊？
+0xACD73D20=哟，Johnny。怎么不给我打电话啊？
 
 ;0x9BFD9B6D=Johnny, man. We should hit it soon.
 0x9BFD9B6D=Johnny兄弟，有空再比一次吧。
@@ -1371,16 +1371,16 @@
 0x35D74F22=还是得重赛一场。我倒要看看下次比赛你是不是还是这么冷酷。
 
 ;0x1290876D=You hit your own brother? I'm shocked, Johnny. Let's have a rematch soon.
-0x1290876D=自家兄弟都打？太让我震惊了， Johnny。改天重赛吧。
+0x1290876D=自家兄弟都打？太让我震惊了，Johnny。改天重赛吧。
 
 ;0x40C663D8=How you like that bat being taken to you, Johnny. Call me, man.
-0x40C663D8=棍子的味道好不好啊， Johnny。有空联系，老兄。
+0x40C663D8=棍子的味道好不好啊，Johnny。有空联系，老兄。
 
 ;0xC6046E4E=Oh, Johnny. You're an easy target. If you ain't scared, let's race again soon.
-0xC6046E4E=哦， Johnny。你太好对付了。没吓出阴影的话，就择日再赛一场吧。
+0xC6046E4E=哦，Johnny。你太好对付了。没吓出阴影的话，就择日再赛一场吧。
 
 ;0xB43ECAC3=I'm swingin low, Johnny. We gotta race again real soon.
-0xB43ECAC3=我就随便甩了两棍， Johnny。改天再比一次吧。
+0xB43ECAC3=我就随便甩了两棍，Johnny。改天再比一次吧。
 
 ;0xE9213487=Shit. Was that you I hit? I hope so. Call me soon, man.
 0xE9213487=妈的，被我打到的是你吗？希望是你。再联系啊，兄弟。
@@ -1392,19 +1392,19 @@
 0x58A71395=Johnny兄弟，下次我们还是打桌上冰球吧。你居然连挥棒的勇气都没有。
 
 ;0x8AE57811=The give you the bat so you hit people, Johnny. Next time why don't you use it?
-0x8AE57811=给你棍子是用来敲人的， Johnny。下次能用一用吗？
+0x8AE57811=给你棍子是用来敲人的，Johnny。下次能用一用吗？
 
 ;0x7C43DACE=You ain't on the track to make friends. If you need to hit someone in the face to win, fucking do it. See you soon, man.
 0x7C43DACE=赛车不是用来交朋友的。想赢必须给别人一闷棍，别手软。再见了，兄弟。
 
 ;0x929B077C=Till next time, Johnny.
-0x929B077C=下次见， Johnny。
+0x929B077C=下次见，Johnny。
 
 ;0xA07DA221=You were here and then you wre gone. What happened?
 0xA07DA221=你来了又走了。什么情况？
 
 ;0xC211E549=Johnny I heard your Hexer got messed up, call me and ill get it fixed up and will bring it to you.
-0xC211E549=Johnny，听说你的 Hexer 出了点事，给我打个电话，我就能帮你修好送过来。
+0xC211E549=Johnny，听说你的Hexer出了点事，给我打个电话，我就能帮你修好送过来。
 
 ;0xD3EC08FD=Brother, why'd you leave the stripclub? You get jealous of my gifts with the finer sex? Maybe you coulda learned something.
 0xD3EC08FD=兄弟，你怎么直接走了？是嫉妒我天资超凡的性功能吗？下次看着点学着点。
@@ -2559,7 +2559,7 @@
 0x47B5734D=~z~谢了，老兄。你的帮助很大。
 
 ;0x4177EC3A=~z~Thanks man. The next guy I shoot, I'm going to tell him where I shop.
-0x4177EC3A=~z~谢了，熊i的。下次开枪前，我会告诉目标你的店的。
+0x4177EC3A=~z~谢了，兄弟。下次开枪前，我会告诉目标你的店的。
 
 ;0x18A1E15A=~z~Didn't take me for a window shopper, did you? So long.
 0x18A1E15A=~z~没想到我只看不买吧？再见。
@@ -2700,7 +2700,7 @@
 0xEB63D8B5=~z~~x~你已经在我的梦中拥有一席之地了，宝贝。
 
 ;0xA118441F=~z~~x~If you're ever looking for an MC affiliation, think about The Lost.
-0xA118441F=~z~~x~哪天你想加入摩托俱乐部了，考虑下失落帮吧。
+0xA118441F=~z~~x~哪天你想加入机车俱乐部了，考虑下失落帮吧。
 
 ;0xDD0E30C4=Dummy label.
 0xDD0E30C4=Dummy label.
