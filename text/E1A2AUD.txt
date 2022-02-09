@@ -252,7 +252,7 @@
 0x1EE0185C=~z~有人在Bohan悬赏你，胖子。
 
 ;0x1F05B2CD=~z~How did a fat motherfucker like that get away from two young fit dudes like us?
-0x1F05B2CD=~z~那个死胖子是怎么从我们两个身强力壮的人手里逃掉的？
+0x1F05B2CD=~z~死胖子怎么会从我们两个年轻壮汉手里逃掉的？
 
 ;0x1F33BD6C=SFX_PAUSE_230
 0x1F33BD6C=SFX_PAUSE_230
@@ -423,7 +423,7 @@
 0x36FDC539=E1A2_QE
 
 ;0x3749F376=~z~Do that again and you're a dead man. A fat dead man.
-0x3749F376=~z~再来一次你就死定了。死胖子。
+0x3749F376=~z~再敢逃你就死定了。死胖子。
 
 ;0x38E275E9=010
 0x38E275E9=010
@@ -465,7 +465,7 @@
 0x3DEFC170=SFX_PAUSE_240
 
 ;0x3E9085E4=~z~Who is this guy? Why you want him snatched?
-0x3E9085E4=~z~这人谁啊？为啥你要绑架他？
+0x3E9085E4=~z~这人谁啊？为啥要绑架他？
 
 ;0x3F575431=E1A2_A_KC
 0x3F575431=E1A2_A_KC
@@ -666,7 +666,7 @@
 0x584A2611=E1A2_XC
 
 ;0x584B8DEF=~z~Get back in the fucking car.
-0x584B8DEF=~z~乖乖回到车子上。
+0x584B8DEF=~z~乖乖回到车上。
 
 ;0x59132801=SFX_PAUSE_190
 0x59132801=SFX_PAUSE_190
@@ -993,13 +993,13 @@
 0x84F03BE6=SFX_PAUSE_280
 
 ;0x8552E5E1=~z~I ain't going after him.
-0x8552E5E1=~z~你去抓住他。
+0x8552E5E1=~z~要追你去追。
 
 ;0x856A34F3=~z~Dude, you busy? I got something and I don't need it getting round the clubhouse. I'll owe you, brother.
 0x856A34F3=~z~老兄，有空吗？我有点事，不能让帮里的兄弟知道。算我欠你的，兄弟。
 
 ;0x871E3822=~z~I'm an addict. I need help.
-0x871E3822=~z~我有毒瘾。我需要帮助。
+0x871E3822=~z~我有毒瘾。帮帮我吧。
 
 ;0x88C48C06=~z~Told me I was gonna meet some 1950s lookin' motherfucker
 0x88C48C06=~z~签语是我会遇到个活在50年代的臭傻逼，

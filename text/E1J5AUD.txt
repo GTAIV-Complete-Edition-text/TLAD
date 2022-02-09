@@ -447,7 +447,7 @@
 0xA4F8255B=SFX_PAUSE_100
 
 ;0xA784AC62=~z~Hit the throttle, man. We gotta catch them.
-0xA784AC62=~z~踩油门，兄弟。必须追上他们。
+0xA784AC62=~z~拧油门，兄弟。必须追上他们。
 
 ;0xA9818E6C=SFX_PAUSE_170
 0xA9818E6C=SFX_PAUSE_170

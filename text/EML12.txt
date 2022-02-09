@@ -12,7 +12,7 @@
 0x54A9944B=世界不是我们想象的那样，我们信任的人其实是些人渣。我很想念Jim，想念他超过一切。他才是真正的好汉，我们都想成为的好汉。
 
 ;0x6867BBC7=Fuck. We'll see, man. We'll see.
-0x6867BBC7=操。我们会看到的，伙计。我们都会看到的。
+0x6867BBC7=操。等着吧，伙计。等着吧。
 
 ;0x6A9F2E1E=Be safe,
 0x6A9F2E1E=注意安全，
@@ -27,7 +27,7 @@
 0x8EDA7694=注意安全，
 
 ;0x9629B7C6=So, they let him out? Ridiculous in some ways. Man, it's tough. I love my brothers, all of them, but there's brothers who stood by me, (you, Jim, Clay and a few others) and brothers who said they would, and I think we know which camp Billy and Brian fall into. This is my life now. I can't ride into the sunset. I can't ride into anything. I'm stuck in a chair and I need money.
-0x9629B7C6=他这就被放出来了？真的是有点荒谬。兄弟，真的太难了。我爱我的兄弟们，我爱所有兄弟，但兄弟里面有确实念着我的(你、Jim、Clay和其他几个)，也有说会念着我的。Billy和Brian是哪种你我应该心知肚明。这就是我现在的生活，我不可能骑车奔向夕阳，不可能骑车奔向任何地方。我被困在了轮椅上，我还需要钱。
+0x9629B7C6=他这就被放出来了？真的是有点荒谬。兄弟，真的太难了。我爱我的兄弟们，我爱所有兄弟，但有的兄弟确实念着我(你、Jim、Clay和其他几个)，还有的只在嘴上念着我。Billy和Brian是哪种你我应该心知肚明。这就是我现在的生活，我不可能骑车奔向夕阳，不可能骑车奔向任何地方。我被困在了轮椅上，我还需要钱。
 
 ;0xA52E0E15=Johnny man,
 0xA52E0E15=Johnny哥，
@@ -54,7 +54,7 @@
 0xC3A84AD3=我只能阿门了，兄弟。
 
 ;0xCD09A589=So it's come to this. the Lost MC showing that it was all a load of bullshit and all them oaths we swore really never meant shit to anyone. Well, Johnny, you got my blessing. I'm with you, all the way. If i weren't in a fucknig chair, I'd kill them fucks myself. They ain't human beings, let alone brothers. They are scum. Real low life scum. You got my blessing. Do what's got to be done.
-0xCD09A589=终于还是这样了。我们加入失落摩托时的誓言都成了空话，根本没人在乎。好吧，Johnny，我祝福你。我会永远支持你。要不是因为我只能坐傻逼轮椅，老子就亲自杀了那帮崽种了。他们根本不是人，更别提当兄弟了。他们是一群渣滓，真正下贱的渣滓。我支持你。做该做的事吧。
+0xCD09A589=终于还是这样了。我们加入失落帮时的誓言都成了空话，根本没人在乎。好吧，Johnny，我祝福你。我会永远支持你。要不是因为我只能坐傻逼轮椅，老子就亲自杀了那帮崽种了。他们根本不是人，更别提当兄弟了。他们是一群渣滓，真正下贱的渣滓。我支持你。做该做的事吧。
 
 ;0xCFF563A3=Brother,
 0xCFF563A3=兄弟，
@@ -66,7 +66,7 @@
 0xE87714AA=兄弟，
 
 ;0xF0B06CD6=I need it so we have to keep making it. It's tough. I hope Billy don't fuck it up for all of us. He nearly did last time. We are a small crew. We can't beat the Deadbeats, but we can live alongside them. Billy will come out and go on a rampage. And Brian and those other clowns will drag us all along. It ain't going to be good. It's just a question of how bad.
-0xF0B06CD6=我需要钱，所以我们就得努力打拼。实在太难了。希望Billy出来后不会把我们的事情搞砸。上次他差不多就搞砸了。我们只有一小撮人，无法打败死妈天使，但我们可以与他们共生。Billy出来后肯定会找他们干架，Brian和其他傻子肯定也会把我们拉上。以后肯定没好日子过了，就是不知道会有多糟糕。
+0xF0B06CD6=我需要钱，所以我们就得努力打拼。实在太难了。希望Billy出来后不会把我们的事情搞砸。上次他差不多就搞砸了。我们只有一小撮人，无法打败死妈天使，但可以选择与他们共生。Billy出来后肯定会找他们干架，Brian和其他傻子肯定也会把我们拉上。以后肯定没好日子过了，就是不知道会有多糟糕。
 
 ;0xF0EB257E=Brother,
 0xF0EB257E=兄弟，

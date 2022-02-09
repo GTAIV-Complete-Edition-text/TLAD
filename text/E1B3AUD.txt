@@ -51,7 +51,7 @@
 0x0CEC6A12=~z~这个问题我这等级的人回答不了，老兄。
 
 ;0x0D2CDF97=~z~Thanks for fucking this whole thing up over a little engine trouble, Brian.
-0x0D2CDF97=~z~谢谢你为了一个小小的引擎故障把整个事情搞砸了，Brian。
+0x0D2CDF97=~z~谢谢你为了一个小小的引擎故障把整件事都搞砸了，Brian。
 
 ;0x0D44D1A8=SFX_PAUSE_060
 0x0D44D1A8=SFX_PAUSE_060

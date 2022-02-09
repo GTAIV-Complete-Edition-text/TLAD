@@ -48,7 +48,7 @@
 0x073926CE=E1B1_UA
 
 ;0x08E25663=~z~Shit, Johnny. You should have a drink. Your nerves must be shot.
-0x08E25663=~z~妈的，Johnny。你还是去喝几杯吧，你的哪根神经肯定断了。
+0x08E25663=~z~妈的，Johnny。你还是去喝几杯吧，肯定是哪根神经断了。
 
 ;0x09503FD4=~z~What's Ashley gonna do now Billy's back?
 0x09503FD4=~z~Billy回来了Ashley怎么办？
@@ -96,7 +96,7 @@
 0x10067166=E1B1_A_MA
 
 ;0x11891B99=~z~Johnny, what's going on?
-0x11891B99=~z~Johnny，最近你还好吗？
+0x11891B99=~z~Johnny，最近还好吗？
 
 ;0x11A4EDFE=E1B1_YC
 0x11A4EDFE=E1B1_YC
@@ -648,7 +648,7 @@
 0x59917097=~z~你自己知道。
 
 ;0x59A0EB62=~z~I thought you were leading us there, Johnny.
-0x59A0EB62=~z~你不是要带队吗，Johnny。
+0x59A0EB62=~z~你不是要带队吗，Johnny？
 
 ;0x59EBF700=~z~Johnny.
 0x59EBF700=~z~Johnny。
@@ -1005,7 +1005,7 @@
 0x85419443=~z~我刚出来你就想摔死我吗？
 
 ;0x85D02DF2=~z~The Lost MC rides together, Johnny. That change while I was in there?
-0x85D02DF2=~z~失落摩托帮要共同前进，Johnny。我一不在就没这规矩了？
+0x85D02DF2=~z~失落帮要共同进退，Johnny。我一不在就没这规矩了？
 
 ;0x86057CB2=E1B1_YB
 0x86057CB2=E1B1_YB
@@ -1044,7 +1044,7 @@
 0x89DC2871=SFX_PAUSE_230
 
 ;0x89ED0BD5=~z~Okay, now all we gotta do is pick up the bike.
-0x89ED0BD5=~z~好了，我们把车拿回来就结束了。
+0x89ED0BD5=~z~好了，把车拿回来就结束了。
 
 ;0x8AE51742=E1B1_JO
 0x8AE51742=E1B1_JO
@@ -1095,7 +1095,7 @@
 0x8F4C655C=~z~挪一下，Johnny仔。我在后座上。
 
 ;0x8FF65A7A=~z~What's the hold up?
-0x8FF65A7A=~z~你磨蹭什么呢？
+0x8FF65A7A=~z~磨蹭什么呢？
 
 ;0x90271927=~z~Yummy. So, Johnny boy. Where's my bike?
 0x90271927=~z~好酒。那，Johnny仔，我的车在哪？
@@ -1413,7 +1413,7 @@
 0xB9541E60=~z~嗯哼。真的假的？
 
 ;0xB9EA3857=~z~You're tense, Johnny. Must have been stressful heading up the chapter while I was away.
-0xB9EA3857=~z~你太紧张了，Johnny。肯定是替我代管分会的时候压力太大了吧。
+0xB9EA3857=~z~你太紧张了，Johnny。肯定是替我管理分会的时候压力太大了吧。
 
 ;0xB9EA4767=~z~That's not gonna go back to normal. Angus lost his legs for life.
 0xB9EA4767=~z~那是不可能恢复的，跟Angus断掉的腿一样。
@@ -1926,7 +1926,7 @@
 0xFE44952D=~z~别走，过来。
 
 ;0xFE579449=~z~Back me up, brothers, we're heading for a drink.
-0xFE579449=~z~跟上我，弟兄们，我们回去喝庆功酒。
+0xFE579449=~z~跟上我，弟兄们，回去喝庆功酒了。
 
 ;0xFE777CA8=E1B1_FA
 0xFE777CA8=E1B1_FA

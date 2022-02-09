@@ -15,7 +15,7 @@
 0x056DCA46=~z~来啊，你们不是想和我狂欢吗？！
 
 ;0x07251CF4=~z~you would just taken mine and left me on the road. Later, bro.
-0x07251CF4=~z~你会直接开走我的，把我晾在路上。回见，老兄。
+0x07251CF4=~z~你会骑走我的车子，把我晾在路上。回见，老兄。
 
 ;0x0893E876=~z~Billy, man. Shit! The Lost ain't much without the chapter President. What're we gonna do?
 0x0893E876=~z~Billy，天哪。妈的！分会会长挂了，失落帮要完了。我们该怎么办？
@@ -465,7 +465,7 @@
 0xC96211A1=~z~还敢来老子地盘撒野？
 
 ;0xCAA4FEB5=~z~The Lost MC rule this town.
-0xCAA4FEB5=~z~失落摩托掌管这里。
+0xCAA4FEB5=~z~失落帮掌管这里。
 
 ;0xCE4C5218=E1B2_QC
 0xCE4C5218=E1B2_QC

@@ -33,7 +33,7 @@
 0x6E481E17=诚挚的，
 
 ;0x70BC0BB6=Ph.d in Refrigerator Maintenance: Just $2,499!!!!! B.A. in Pharmaceutical Baking Just $1,399 B.A in Natural Healing: Just $1,199!!! Msc in Beach Management: Just $1,899!!! No attendance! No study! No exams! All you need is a valid credit card. Your new career is just one affordable payment away. Order today and we will throw in an MBA FREE OF CHARGE!!! What have you got to lose?
-0x70BC0BB6=冰箱维护博士：只要$2,499!!!!! 药物烘焙学士，只要$1,399 自然疗法学士：只要 $1,199!!! 海滩管理学硕士：只要 $1,899!!! 无需上课！无需学习！无需考试！只需要一张有效的信用卡。只需一笔小钱，就能让你的事业更进一步！今天下单，我们还免费附送工商管理硕士学位!!! 你还能失去什么呢？立刻行动吧！
+0x70BC0BB6=冰箱维护博士：只要$2,499!!!!! 药物烘焙学士，只要$1,399 自然疗法学士：只要$1,199!!! 海滩管理学硕士：只要$1,899!!! 无需上课！无需学习！无需考试！只需要一张有效的信用卡。只需一笔小钱，就能让你的事业更进一步！现在下单，我们还免费附送工商管理硕士学位!!! 你还能失去什么呢？立刻行动吧！
 
 ;0x79013389=Yours truly,
 0x79013389=诚挚的，
