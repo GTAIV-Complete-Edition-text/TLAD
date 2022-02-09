@@ -345,7 +345,7 @@
 0x4604788D=~z~也许吧，也许吧。至少你还有Jackie跟孩子。
 
 ;0x48C409C3=~z~The AOD reserves are most bounteous, aren't they?
-0x48C409C3=~z~死亡天使的后备力量多得很嘛，不是吗？
+0x48C409C3=~z~死亡天使的人也太多了吧。
 
 ;0x4A28DAAE=E1B4_VC
 0x4A28DAAE=E1B4_VC
@@ -885,7 +885,7 @@
 0xB59E6F08=E1B4_VA
 
 ;0xB5F04600=~z~No, it wasn't. But what doesn't kill us only...
-0xB5F04600=~z~不，不是大凶。但没能杀死我们只会...
+0xB5F04600=~z~不，不是大凶。但杀不死我们的只会...
 
 ;0xB5FB9A13=E1B3_A_EA
 0xB5FB9A13=E1B3_A_EA
@@ -927,7 +927,7 @@
 0xBA4D5B63=~z~这下要进蛇窝了，弟兄们。走吧。
 
 ;0xBC6DA722=~z~Sure, yeah. I'm sorry for not having enough explosives to fuel your war efforts, Billy. See you.
-0xBC6DA722=~z~是这样没错。对不起，这些榴弹不足以实现你的战争目的，Billy。再见。
+0xBC6DA722=~z~是这样没错。对不起，这些榴弹不足以帮你赢得战争，Billy。再见。
 
 ;0xBE593616=~z~Shit. That's gotta hurt.
 0xBE593616=~z~妈的，威力真大啊。

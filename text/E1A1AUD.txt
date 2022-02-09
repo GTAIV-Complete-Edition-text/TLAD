@@ -345,7 +345,7 @@
 0x7B0E3270=E1A1_IB
 
 ;0x7B8DF195=~z~I can't talk about this now. Lecture me all you like later on, but right now, I need help. Please, sugar.
-0x7B8DF195=~z~那个现在没法细说。之后你爱怎么问怎么问，但现在快来救我。拜托了，甜心。
+0x7B8DF195=~z~没空聊这些了。之后你爱怎么问怎么问，但现在快来救我。拜托了，甜心。
 
 ;0x7B94FA3D=SFX_PAUSE_450
 0x7B94FA3D=SFX_PAUSE_450
@@ -495,7 +495,7 @@
 0xBAAE75CB=SFX_PAUSE_250
 
 ;0xBB000D22=~z~Either I'm trippin' or we're fucked. Look out, baby.
-0xBB000D22=~z~如果不是幻觉的话，我们就麻烦了。当心，宝贝。
+0xBB000D22=~z~不是幻觉的话，我们就麻烦了。当心，宝贝。
 
 ;0xBBD5AC7A=~z~Oh, man, Johnny. You keep talking about how people have changed.
 0xBBD5AC7A=~z~噢，天哪，Johnny。你又在讲别人都变了了。
@@ -549,7 +549,7 @@
 0xD421C1CF=~z~是啊，希望如此吧。
 
 ;0xD4D4A355=~z~These guys can't hurt you no more, baby.
-0xD4D4A355=~z~这些人再也伤害不了你了，宝贝。
+0xD4D4A355=~z~这些人别想再伤害你了，宝贝。
 
 ;0xD5CE6163=E1A1_VA
 0xD5CE6163=E1A1_VA
