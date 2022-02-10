@@ -990,10 +990,10 @@
 0x5020E957=Billy
 
 ;0xAF08D5FA=We need your input in a discussion, John. Come to the house.
-0xAF08D5FA=需要你参加讨论， John。来会所一趟。
+0xAF08D5FA=需要你参加讨论，John。来会所一趟。
 
 ;0xFB446E74=Go see Liz Torres. She might be able to unload some of that shit we found. If it's cool, you can collect from Brian off Inchon Ave.
-0xFB446E74=去找 Liz Torres。她也许能帮我们脱手一些战利品。她肯帮忙的话，你可以去 Inchon 大道找 Brian 拿货。
+0xFB446E74=去找Liz Torres。她也许能帮我们脱手一些战利品。她肯帮忙的话，你可以去Inchon大道找Brian拿货。
 
 ;0x8D5B92A0=PLACEHOLDER
 0x8D5B92A0=PLACEHOLDER
@@ -1839,7 +1839,7 @@
 0x7394BCDF=Terry和Clay的状态会在小地图上方显示。按下~INPUT_FRONTEND_SHOWSCORE~可以查看他们的更多信息。
 
 ;0xB6CC48F4=The details displayed above the radar show how fight hardened your Lost gang members are. This is represented by the colored bar next to their names.
-0xB6CC48F4=小地图上方的图表表示此次作战对你战友的强化程度，具体程度以名字旁边的色块表示。
+0xB6CC48F4=小地图上方的图表表示此次作战对你战友的强化程度，具体程度以名字右侧的色块表示。
 
 ;0x5FEF9B84=Gang members get harder each time they complete a job with you. They will become more effective in gun battles.
 0x5FEF9B84=每当你的战友与你共同完成一项差事后，他们的战斗力就会得到提升。
@@ -1857,7 +1857,7 @@
 0x7E840705=你现在可以使用Clay的特殊能力了。呼叫Clay时选择「摩托」，他就会将你选择的摩托送来给你。
 
 ;0xFAD1336A=You can now phone Jim to get a fully loaded weapon left in the Clubhouse arm wrestling room, Clay to bring you a bike, or Terry for cheap weapons and ammo.
-0xFAD1336A=现在你可以呼叫Jim，让他在会所的掰手腕室为你准备一把满载弹药的武器，也可以找Clay给你准备一辆新车，亦可向Terry低价购买武器以及弹药。
+0xFAD1336A=现在你可以呼叫Jim，让他在会所的掰手腕室准备一把满载弹药的武器，也可以联系Clay送来一辆新车，亦可向Terry低价购买武器以及弹药。
 
 ;0xAD0EBC11=The autosave pause menu option is used by The Lost and Damned. It is currently switched off. Switch it on again to re-enable autosaving for The Lost and Damned.
 0xAD0EBC11=暂停菜单中的自动存档选项由失落与诅咒使用。目前已被关闭。开启后可以启用失落与诅咒的自动存档功能。

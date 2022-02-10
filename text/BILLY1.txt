@@ -42,7 +42,7 @@
 0x3FEA5BC0=下车。
 
 ;0x4A137BC5=This is Johnny's Hexer. It's the only one of its kind in Liberty City.~n~A modern classic chopper with a 2032cc twin cam engine and 6 speed transmission with a final chain drive.
-0x4A137BC5=这是Johnny的Hexer，在自由城独一无二。它是一台现代复古摩托，搭载2032cc的双凸轮发动机与六速变速箱，采用链条传动。
+0x4A137BC5=这是Johnny的Hexer，在自由城独一无二。它是一台现代复古摩托，搭载2032cc双凸轮发动机与六速变速箱，采用链条传动。
 
 ;0x50C83B56=You can arm wrestle with your brothers.
 0x50C83B56=你可以和兄弟们掰手腕。

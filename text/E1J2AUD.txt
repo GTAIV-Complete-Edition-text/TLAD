@@ -729,7 +729,7 @@
 0xB573E6A6=~z~不能让他们呼叫支援，Johnny。干掉他们。
 
 ;0xB9265CFA=~z~A hooker being picked up by the chief on a Saturday night and let off with a special caution.
-0xB9265CFA=~z~周六晚上，局长带走了一个妓女，后来口头警告一下就放人了。
+0xB9265CFA=~z~周六晚上，局长带走了一个妓女，口头警告一下就放人了。
 
 ;0xB934FEE7=E1J2_A_NA
 0xB934FEE7=E1J2_A_NA

@@ -105,7 +105,7 @@
 0x156AA0A6=000090220090000
 
 ;0x164A7CC0=~z~Lost MC are a bunch of liberal pussies.
-0x164A7CC0=~z~失落摩托帮都是自由派娘们儿。
+0x164A7CC0=~z~失落帮都是自由派娘们儿。
 
 ;0x167F5D6F=~z~Oh, shit, you sonofabitch. I was hoping you'd go OTB or somethin'. Good driving.
 0x167F5D6F=~z~噢操，妈了个逼的。我还以为你会放水的。好车技。
@@ -729,7 +729,7 @@
 0x96D79478=~z~都进去吧，各位。上吧。
 
 ;0x96EA7DFE=~z~The Lost MC is gonna pay for this.
-0x96EA7DFE=~z~失落摩托帮要付出代价。
+0x96EA7DFE=~z~失落帮要付出代价。
 
 ;0x972C5025=190
 0x972C5025=190

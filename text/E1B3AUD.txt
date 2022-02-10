@@ -523,7 +523,7 @@
 0x78586D2F=E1B3_ZA
 
 ;0x79BA422D=~z~Come on, brothers, get on your bikes. These Deadbeats have been taught a valuable lesson about respect.
-0x79BA422D=~z~走吧，兄弟们，上车了。这些死妈天使已经学到了什么是尊重。
+0x79BA422D=~z~走吧，兄弟们，上车了。死妈天使已经学到了什么是尊重。
 
 ;0x79C0E3F3=~z~Yeah, yeah, are you fucking kidding me? Where?
 0x79C0E3F3=~z~嗯，嗯，你他妈的开玩笑吗？在哪儿？
@@ -1070,7 +1070,7 @@
 0xF48B8D44=~z~是啊，我是得多学着点。介意我拿你练习吗，Brian？
 
 ;0xF52718B4=~z~Shit. Brian's gone and fucking bought it.
-0xF52718B4=~z~妈的。Brian走了，代价惨痛。
+0xF52718B4=~z~妈的。Brian挂了，代价惨痛。
 
 ;0xF72014DD=SFX_PAUSE_090
 0xF72014DD=SFX_PAUSE_090

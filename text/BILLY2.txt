@@ -30,7 +30,7 @@
 0xC3FC112B=~r~你的摩托坏了。
 
 ;0xD8B44061=~s~The ~r~A.O.D.~s~ are getting away.
-0xD8B44061=~r~死亡天使~s~正在逃跑。
+0xD8B44061=~r~死亡天使~s~就要跑了。
 
 ;0xDBEB2A1A=~r~You abandoned your bike.
 0xDBEB2A1A=~r~你抛弃了你的摩托。

@@ -339,7 +339,7 @@
 0x6680F490=100090010090100
 
 ;0x680E8D81=~z~Oh don't you worry, those boys don't need luck. You shoulda seen them in '73.
-0x680E8D81=~z~哦，你别担心，那帮人不需要运气。你该看看他们73年的表现。
+0x680E8D81=~z~哦，别担心，那帮人不需要运气。你该看看他们73年的表现。
 
 ;0x6857C428=E1S2_ZA
 0x6857C428=E1S2_ZA
