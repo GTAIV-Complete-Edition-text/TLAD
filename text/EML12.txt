@@ -1,12 +1,12 @@
 ﻿[EML12]
 ;0x15548382=Ride safe,
-0x15548382=骑车注意安全，
+0x15548382=一路平安，
 
 ;0x40872EDA=Let's give him a chance, man. Brothers for life. No matter what. Johnny.
 0x40872EDA=给他一次机会吧，哥们。毕竟大家是一辈子的兄弟。Johnny。
 
 ;0x53F880D1=Ride safe,
-0x53F880D1=骑车注意安全，
+0x53F880D1=一路平安，
 
 ;0x54A9944B=World ain't what we thought it was, and people we trusted turned out to be scum. I miss Jim. More than anything. He was the real deal. The man we all wanted to be.
 0x54A9944B=世界不是我们想象的那样，我们信任的人其实是些人渣。我很想念Jim，想念他超过一切。他才是真正的好汉，我们都想成为的好汉。
@@ -18,7 +18,7 @@
 0x6A9F2E1E=注意安全，
 
 ;0x78E4CAA9=Ride safe,
-0x78E4CAA9=骑车注意安全，
+0x78E4CAA9=一路平安，
 
 ;0x88BF5538=Johnny man,
 0x88BF5538=Johnny哥，
@@ -39,7 +39,7 @@
 0xB37FAAB8=兄弟，
 
 ;0xB82DC93A=Ride safe,
-0xB82DC93A=骑车注意安全，
+0xB82DC93A=一路平安，
 
 ;0xBAF60162=Well I guess that's that then. You did what had to be done. And that's why you're a brother and why it's time to move on with our lives. End the charade that this gang meant anything. Do it for Jim.
 0xBAF60162=我想，就这样吧。你做了该做的事。所以你才是兄弟，所以现在该让我们的日子继续下去了。揭下「一切为了帮会」的伪装吧。就当是为Jim揭下的。

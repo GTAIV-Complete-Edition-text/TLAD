@@ -69,7 +69,7 @@
 0x0CEA8EA6=E1B1_UF
 
 ;0x0D795E7C=~z~Yeah, good for you Johnny. If you had so much fun why don't you go start your own chapter?
-0x0D795E7C=~z~哦，那好啊，Johnny。你这么喜欢以前，干脆出去自立门户吧？
+0x0D795E7C=~z~哦，那好啊，Johnny。你这么喜欢以前，滚出去自立门户吧？
 
 ;0x0DE311B7=E1B1_UG
 0x0DE311B7=E1B1_UG
@@ -375,7 +375,7 @@
 0x39169F39=E1B1_BG
 
 ;0x391735D7=~z~That's a President's job, ain't it, Clay? Same with a motorcycle club or a whole country.
-0x391735D7=~z~这就是首领的工作啊，Clay，不论是摩托帮会长还是美国总统。
+0x391735D7=~z~这就是首领的工作啊，Clay，摩托帮会长和美国总统都一样。
 
 ;0x3976C0FE=~z~Yeah, sure. I got a lot on my plate. I only just got out and look at the state of shit around here.
 0x3976C0FE=~z~好，知道了。我手头事很多。我才刚出狱，结果帮会就成了这鬼样。
@@ -969,7 +969,7 @@
 0x800BDA51=~z~放弃抵抗，乖乖投降。
 
 ;0x800E6DF0=~z~We're gonna go get my fucking ride.
-0x800E6DF0=~z~我们要夺回老子的座驾。
+0x800E6DF0=~z~给我夺回老子的座驾。
 
 ;0x801ADD9E=E1B1_ZB
 0x801ADD9E=E1B1_ZB
@@ -978,7 +978,7 @@
 0x80241267=~z~别怪罪我。有时候还是得自己保护自己，Billy。
 
 ;0x80466447=~z~Yeah, I been fucking this Russian broad in Broker. Gets her psycho daddy real mad.
-0x80466447=~z~嗯，我最近在Broker搞一个俄国婆娘，她的疯子老爹都气炸了。
+0x80466447=~z~嗯，我在Broker搞一个俄国婆娘，她的疯子老爹都气炸了。
 
 ;0x807F999D=~z~Yeah you're right, brother. I'm gonna go get it.
 0x807F999D=~z~你说的没错，兄弟。我会拿来的。
@@ -1086,7 +1086,7 @@
 0x8DDF032C=~z~拧你个鸡巴，Johnny。我把你下面的棒子拧下来。
 
 ;0x8E01B052=~z~Come on, man.
-0x8E01B052=~z~别啊，兄弟。
+0x8E01B052=~z~别吧，兄弟。
 
 ;0x8F463396=~z~Let's go!
 0x8F463396=~z~出发！

@@ -451,7 +451,7 @@
 0x91D82F8D=SFX_PAUSE_300
 
 ;0x923D6456=~z~The Lost MC riding together. Feels like the old days!
-0x923D6456=~z~失落摩托集体出动。好时代回来了！
+0x923D6456=~z~失落帮集体出动。好时代回来了！
 
 ;0x9292B49A=E1BB_RB
 0x9292B49A=E1BB_RB

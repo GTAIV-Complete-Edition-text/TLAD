@@ -522,7 +522,7 @@
 0xE573AA92=~z~干他。
 
 ;0xE7239D3A=~z~Lost MC forever.
-0xE7239D3A=~z~失落摩托万岁。
+0xE7239D3A=~z~失落帮万岁。
 
 ;0xE7CCFDEB=~z~Hey! Johnny K.
 0xE7CCFDEB=~z~嘿！Johnny K。

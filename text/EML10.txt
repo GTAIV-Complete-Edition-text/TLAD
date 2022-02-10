@@ -3,7 +3,7 @@
 0x093EFF40=嘿宝贝儿，
 
 ;0x0DBF3EFD=Man, i fucked things up. I know I did. But you weren't a saint. You weren't. You're who you are, and you do bad shit. and hanging out with you made me do bad shit, even though it ain't your fault. but i did bad shit to you, because you were my world. i thought you would kill me and you didn't. so that makes you a better person than some. i'm so glad we are friends now.
-0x0DBF3EFD=老兄，我是个烂人，这我知道。但你也不是什么圣贤，绝对不是。你就是你，你也会做坏事。跟你混在一起害得我也跟着做坏事，尽管这不是你的错。但我做了蠢事拖你下水，因为你就是我的全部。我以为你会杀了我，但你没有，说明你比某些人强多了。我很高兴我们现在是朋友。
+0x0DBF3EFD=老兄，我是个烂人，这我知道。但你也不是什么圣贤，绝对不是。你就是你，你也会做坏事。跟你混在一起害得我也跟着做坏事，尽管这不是你的错。但我做了蠢事拖你下水，因为你就是我的全部。我以为你会杀了我，但你没有，说明你比某些人强多了。很高兴我们现在还是朋友。
 
 ;0x10A50343=I ain't in the mood for internet chit chat, Ash. Have a nice life. Johnny.
 0x10A50343=我现在没心情在网上闲聊，小艾。祝你幸福。 Johnny

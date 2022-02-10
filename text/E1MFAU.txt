@@ -336,7 +336,7 @@
 0x5457A1FE=~z~现在Billy又进去了，我大概确实要再找一个疯子教我做事。
 
 ;0x57358687=~z~Same old bullshit, Johnny. Can you come and meet me on Aspdin over in Acter?
-0x57358687=~z~还是老样子，Johnny。你能来Acter区的Aspdin找我吗？
+0x57358687=~z~还是老样子，Johnny。你能来Acter区的Aspdin路找我吗？
 
 ;0x576F5B32=~z~What's up, Johnny? How you like having Billy back?
 0x576F5B32=~z~怎么说，Johnny？你对Billy回归有什么感受？
@@ -627,7 +627,7 @@
 0x99CAF6A4=~z~哈哈。我会用会所的电脑看的。再见，兄弟。
 
 ;0x9A3F0487=~z~The amount of help I need from a man with your skills has tripled in volume, and that's a conservative estimate.
-0x9A3F0487=~z~我需要你这样的能人帮的忙已经多了两倍了，这还是保守估计。
+0x9A3F0487=~z~我需要你这种能人帮的忙已经多了两倍了，这还是保守估计。
 
 ;0x9A7A1056=E1MF_BB
 0x9A7A1056=E1MF_BB
@@ -708,7 +708,7 @@
 0xB5836454=~z~我也让Malc和DeSean过去了，去她在South Bohan的住处。
 
 ;0xB5F17911=~z~I need a knight in shining armor to take me away from this mess. They're gonna kill me... or worse.
-0xB5F17911=~z~我需要一个披坚执锐的骑士救我出去。他们要杀我...甚至更糟。
+0xB5F17911=~z~需要一个披坚执锐的骑士救我出去。他们要杀我...甚至更糟。
 
 ;0xB669D988=SFX_PAUSE_270
 0xB669D988=SFX_PAUSE_270
