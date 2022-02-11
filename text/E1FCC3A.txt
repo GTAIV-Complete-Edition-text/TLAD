@@ -513,7 +513,7 @@
 0x8160A7F5=~z~我不喜欢打到一半就走，哥们。满意之前我是不会走的。
 
 ;0x81BC7454=~z~Jonathan Klebitz, my brother. Roll on out, man.
-0x81BC7454=~z~Jonathan Klebitz，好兄弟，开始吧，哥们。
+0x81BC7454=~z~Jonathan Klebitz，好兄弟。出发吧，哥们。
 
 ;0x821A6D84=~z~This how The Lost MC handle themselves.
 0x821A6D84=~z~失落帮的人就是这么办事。

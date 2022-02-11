@@ -348,7 +348,7 @@
 0x6D38249F=E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ALBA
 
 ;0x6DC1B7AB=~z~Let's do this, Johnny. Those Deadbeats ain't gonna know what hit 'em.
-0x6DC1B7AB=~z~动手吧， Johnny。死妈天使不会知道自己是怎么死的。
+0x6DC1B7AB=~z~动手吧，Johnny。死妈天使不会知道自己是怎么死的。
 
 ;0x6DDEDB5A=~z~Last I heard they was cruising in Broker.
 0x6DDEDB5A=~z~最后一次听说他们是在Broker巡游。
@@ -570,7 +570,7 @@
 0xC07C938D=300
 
 ;0xC08841EB=~z~Hey Johnny. Let's go remind those mobsters that it ain't the 1970s anymore.
-0xC08841EB=~z~嘿， Johnny。一起去告诉他们现在不是70年代吧。
+0xC08841EB=~z~嘿，Johnny。一起去告诉他们现在不是70年代吧。
 
 ;0xC1D1A9DD=300
 0xC1D1A9DD=300
@@ -588,7 +588,7 @@
 0xC83EF5B9=~z~他们现在在Broker。
 
 ;0xC9E9E04C=~z~OK, Johnny. Let's go get those bastards!
-0xC9E9E04C=~z~好了， Johnny。一起去教训那帮混蛋吧！
+0xC9E9E04C=~z~好了，Johnny。一起去教训那帮混蛋吧！
 
 ;0xCA15C884=~z~Fuck these bitches.
 0xCA15C884=~z~一群臭傻逼。

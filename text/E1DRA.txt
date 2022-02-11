@@ -27,7 +27,7 @@
 0x02525265=E1DR_OG
 
 ;0x02B269DB=~z~Wasn't drunkenness that got Terrance off. It was good old fashioned witness intimidation.
-0x02B269DB=~z~不是喝多了才没起诉 Terrance，还是得靠恐吓证人啊。
+0x02B269DB=~z~不是喝多了才没起诉Terrance，还是得靠恐吓证人啊。
 
 ;0x02E2F7A4=SFX_PAUSE_210
 0x02E2F7A4=SFX_PAUSE_210
@@ -72,10 +72,10 @@
 0x0B518E68=~z~哦，是嘛？
 
 ;0x0DA6A4BF=~z~Yeah, well... Who fucking cares. Billy ain't here.
-0x0DA6A4BF=~z~啊，呃...谁他妈在乎啊。 Billy 又不在这。
+0x0DA6A4BF=~z~啊，呃...谁他妈在乎啊。Billy又不在这。
 
 ;0x0DDDE85B=~z~Billy ain't here, Clay.
-0x0DDDE85B=~z~Billy 不在这， Clay。
+0x0DDDE85B=~z~Billy不在这，Clay。
 
 ;0x0EF3602B=E1DR_MD
 0x0EF3602B=E1DR_MD
@@ -435,7 +435,7 @@
 0x6AABDF09=E1DR_QB
 
 ;0x6B769F56=~z~Probably drinking Logger Lite.
-0x6B769F56=~z~你喝的是 Logger 啤酒吧。
+0x6B769F56=~z~你喝的是Logger啤酒吧。
 
 ;0x6BBA58C0=E1DR_EB
 0x6BBA58C0=E1DR_EB
@@ -663,7 +663,7 @@
 0xA38343FD=~z~天啊，我醉得像个傻逼。
 
 ;0xA42A6DCC=~z~How 'bout Johnny here? He's pretty enough.
-0xA42A6DCC=~z~要么就找 Johnny 吧？他超靓的。
+0xA42A6DCC=~z~要么就找Johnny吧？他超靓的。
 
 ;0xA5C77C11=SFX_PAUSE_800
 0xA5C77C11=SFX_PAUSE_800
@@ -714,7 +714,7 @@
 0xB24D4726=SFX_PAUSE_410
 
 ;0xB39CB3D6=~z~Billy, man, Billy, I don't get it.
-0xB39CB3D6=~z~Billy 啊， Billy，我不明白。
+0xB39CB3D6=~z~Billy啊，Billy，我不明白。
 
 ;0xB411DA69=E1DR_DH
 0xB411DA69=E1DR_DH
@@ -807,7 +807,7 @@
 0xC6C84CC3=SFX_PAUSE_420
 
 ;0xC705DAA8=~z~What about Billy then?
-0xC705DAA8=~z~那你提 Billy 干啥？
+0xC705DAA8=~z~那你提Billy干啥？
 
 ;0xC937981D=SFX_PAUSE_210
 0xC937981D=SFX_PAUSE_210

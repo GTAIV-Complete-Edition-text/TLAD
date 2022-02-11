@@ -3,7 +3,7 @@
 0x015AAF28=~z~~s~
 
 ;0x01ACC536=~z~We don't fucking talk about Mickey.
-0x01ACC536=~z~别他妈聊 Mickey 好吧。
+0x01ACC536=~z~别他妈聊Mickey好吧。
 
 ;0x01E73512=~z~So you just like to hang out on boats. But you can't actually sail them?
 0x01E73512=~z~所以你是那种坐船出海，但不会开船的人？
@@ -12,7 +12,7 @@
 0x041E2FF8=E13W_EC
 
 ;0x048B357D=~z~Actually, me and Johnny were about to bring you and Clay in on it.
-0x048B357D=~z~其实吧，我和Johnny在考虑把你也带上。
+0x048B357D=~z~其实吧，我和Johnny在考虑把你和Clay也带上。
 
 ;0x0A2D5D24=SFX_PAUSE_330
 0x0A2D5D24=SFX_PAUSE_330
@@ -30,7 +30,7 @@
 0x121CDA5E=E13W_ED
 
 ;0x1237664B=~z~Funny, but I was thinking of Mickey.
-0x1237664B=~z~有意思，但我想的是 Mickey。
+0x1237664B=~z~有意思，但我想的是Mickey。
 
 ;0x129D7D0E=E13W_HH
 0x129D7D0E=E13W_HH
@@ -333,7 +333,7 @@
 0xA8FF8340=~z~所以他们才不要你了。
 
 ;0xAA3DC78B=~z~We got enough problems in the Liberty City metropolitan area.
-0xAA3DC78B=~z~现在在自由城大都会都有这么多麻烦了。
+0xAA3DC78B=~z~光是在自由城大都会都有这么多麻烦了。
 
 ;0xAAF535BE=~z~Finally took some medication for that yeast infection, did ya?
 0xAAF535BE=~z~终于去找人治疗真菌感染了是吧？
@@ -546,7 +546,7 @@
 0xEFF0C7F0=SFX_PAUSE_290
 
 ;0xF17E24D1=~z~I don't know. That guy off the TV, Jeremy St. Somethin'? You've always had a crush on him.
-0xF17E24D1=~z~我不知道。电视上那个 Jeremy St. 什么的？你一直喜欢他。
+0xF17E24D1=~z~我不知道。电视上那个Jeremy St.什么的？你一直喜欢他。
 
 ;0xF4E38AB4=SFX_PAUSE_420
 0xF4E38AB4=SFX_PAUSE_420

@@ -3,7 +3,7 @@
 0x0008B732=E1FCC_ACT_CALL_DARTS_YESA
 
 ;0x00751693=~z~Too bad, brother. On the flipside.
-0x00751693=~z~某种意义上，太糟了，兄弟。
+0x00751693=~z~太糟了，兄弟。有空再聚。
 
 ;0x00D34EE3=100
 0x00D34EE3=100
@@ -351,7 +351,7 @@
 0xAD6CC1C9=~z~我最近没什么机会发泄暴力。你呢？
 
 ;0xB028DCCB=~z~Okay, okay, okay man, okay. I'm gonna hit the bong in preparation. Come pick me up.
-0xB028DCCB=~z~好了，好了，好了哥们，好了。我收拾收拾就来。过来接我吧。
+0xB028DCCB=~z~好了，好了，好了哥们，好了。我收拾收拾就来。过来找我吧。
 
 ;0xB0CB4799=~z~In a bit then, man.
 0xB0CB4799=~z~一会儿见，哥们。
@@ -366,7 +366,7 @@
 0xB3238B10=~z~好啊，过来咱们一起玩飞镖吧，Johnny。
 
 ;0xB456AED7=~z~Hell yes. We're gonna get drunk and rip this town to shit, brother. Come pick us up.
-0xB456AED7=~z~太他妈对了。咱们喝上几杯，把这城市搞个天翻地覆，兄弟。过来接咱。
+0xB456AED7=~z~太他妈对了。咱们喝上几杯，把这城市搞个天翻地覆，兄弟。过来找咱。
 
 ;0xB466C90C=E1FCC_ACT_CALL_VERYIRATEA
 0xB466C90C=E1FCC_ACT_CALL_VERYIRATEA
@@ -417,7 +417,7 @@
 0xC192A7EE=~z~飞镖？好，过来吧，哥们。
 
 ;0xC1FB4A20=~z~Drunk, drunk, drunk it is, brother. Come get us.
-0xC1FB4A20=~z~喝酒，喝酒，喝酒是吧。来接咱们吧。
+0xC1FB4A20=~z~喝酒，喝酒，喝酒是吧。来找咱们吧。
 
 ;0xC264896B=010
 0xC264896B=010

@@ -1026,7 +1026,7 @@
 0x8D197360=需要火力了就跟我说一声。说不定我能帮你弄来，扔在会所的桌上。
 
 ;0x426FDE0E=Ha ha. Johnny, I've sent you a link to the Deadbeats' website. Check it out!
-0x426FDE0E=哈哈。 Johnny，我给你发了死妈天使网站的链接。去看看吧！
+0x426FDE0E=哈哈。Johnny，我给你发了死妈天使网站的链接。去看看吧！
 
 ;0x322E3D8B=Special Ability Now Available - variation 3
 0x322E3D8B=Special Ability Now Available - variation 3
@@ -1731,7 +1731,7 @@
 0xE37B7CA3=跟随~b~Jim~s~进入会所。
 
 ;0xD30FCA8E=Compete with Jim at Arm Wrestling ~BLIP_110~ or Cards ~BLIP_112~ one floor up. Leave the Clubhouse to quit hanging out with Jim.
-0xD30FCA8E=去楼上向Jim挑战掰手腕~BLIP_110~或纸牌~BLIP_112~。离开会所可以结束与Jim的约会。
+0xD30FCA8E=上楼向Jim挑战掰手腕~BLIP_110~或纸牌~BLIP_112~。离开会所可以结束与Jim的约会。
 
 ;0xF6771AEF=You have arranged to do an activity with Terry. Meet him by going towards the ~BLIP_118~ on the radar.
 0xF6771AEF=你已和Terry安排了活动，去小地图上的~BLIP_118~找他。
@@ -1761,7 +1761,7 @@
 0x00AE27DC=跟随~b~Terry~s~进入会所。
 
 ;0x9423BD07=Compete with Terry at Arm Wrestling ~BLIP_110~ or Cards ~BLIP_112~ one floor up. Leave the Clubhouse to quit hanging out with Terry.
-0x9423BD07=去楼上向Terry挑战掰手腕~BLIP_110~或纸牌~BLIP_112~。离开会所可以结束与Terry的约会。
+0x9423BD07=上楼向Terry挑战掰手腕~BLIP_110~或纸牌~BLIP_112~。离开会所可以结束与Terry的约会。
 
 ;0xC929CC25=You have arranged to do an activity with Clay. Meet him by going towards the ~BLIP_119~ on the radar.
 0xC929CC25=你已和Clay安排了活动，去小地图上的~BLIP_119~找他。
@@ -1791,7 +1791,7 @@
 0x6A08086E=跟随 ~b~Clay~s~ 进入会所。
 
 ;0xD97FD65E=Compete with Clay at Arm Wrestling ~BLIP_110~ or Cards ~BLIP_112~ one floor up. Leave the Clubhouse to quit hanging out with Clay.
-0xD97FD65E=去楼上向Clay挑战掰手腕~BLIP_110~或纸牌~BLIP_112~。离开会所可以结束与Clay的约会。
+0xD97FD65E=上楼向Clay挑战掰手腕~BLIP_110~或纸牌~BLIP_112~。离开会所可以结束与Clay的约会。
 
 ;0x42EE4319=To quit hanging out at the clubhouse, go outside and walk a short distance away.
 0x42EE4319=离开会所稍微走远一些即可结束会所娱乐。
@@ -2694,7 +2694,7 @@
 0x77DB71A6=~z~~x~用叉子叉死我吧，我好了。
 
 ;0xDDA43D36=~z~~x~Memories of that shit are gonna keep me going if I ever do time.
-0xDDA43D36=~z~~x~这次的回忆会让我久久不能忘怀的。
+0xDDA43D36=~z~~x~这次的场景会让我久久不能忘怀的。
 
 ;0xEB63D8B5=~z~~x~You just got yourself a part in my dreams, baby.
 0xEB63D8B5=~z~~x~你已经在我的梦中拥有一席之地了，宝贝。

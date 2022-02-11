@@ -687,7 +687,7 @@
 0xAE91FCAD=E1FCT3_ACT_ARRIVE_EATERY_AVERAGEA
 
 ;0xAFDAE054=~z~This'll do, I suppose. We'll be hungry again in another hour, though.
-0xAFDAE054=~z~我觉得差不多饱了。不过再过一个小时咱又要饿了。
+0xAFDAE054=~z~就在这儿吃吧。不过多半管不了饱了。
 
 ;0xB16AD45B=~z~I'm gonna feel that in the morning, man.
 0xB16AD45B=~z~明早我才会感到酸痛吧，哥们。
