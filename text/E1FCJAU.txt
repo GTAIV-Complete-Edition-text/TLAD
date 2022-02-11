@@ -12,7 +12,7 @@
 0x04B68C0A=~z~是你吗，Johnny？我还以为你已经死了。好啊，一起去浪吧。
 
 ;0x0803FD49=~z~Sure man, come and pick me up.
-0x0803FD49=~z~当然，哥们，过来接我吧。
+0x0803FD49=~z~当然，哥们，过来找我吧。
 
 ;0x09A76AC4=100
 0x09A76AC4=100
@@ -75,10 +75,10 @@
 0x21911BA4=E1FCJ_ACT_CALL_ASLEEP_A
 
 ;0x238804C3=~z~Sure thing, brother, come and pick me up
-0x238804C3=~z~好啊，兄弟。来接我吧。
+0x238804C3=~z~好啊，兄弟。来找我吧。
 
 ;0x23B2B4A6=~z~Sure, brother, you gonna come and pick me up?
-0x23B2B4A6=~z~好的，兄弟，你要来接我吗？
+0x23B2B4A6=~z~好的，兄弟，你过来找我吗？
 
 ;0x26DB9FCF=~z~Jim.
 0x26DB9FCF=~z~Jim。
@@ -99,7 +99,7 @@
 0x32B110FC=010
 
 ;0x32E5B035=~z~Yeah, come and get me.
-0x32E5B035=~z~好啊，来接我吧。
+0x32E5B035=~z~好啊，来找我吧。
 
 ;0x33B8EB45=010
 0x33B8EB45=010
@@ -117,7 +117,7 @@
 0x37700291=~z~你想去看娘们吗？我说的不是你老婆。
 
 ;0x38F1388A=~z~Sure, come and pick me up.
-0x38F1388A=~z~好啊，你来接我吧。
+0x38F1388A=~z~好啊，你来找我吧。
 
 ;0x3CB35952=~z~Jackie's back in a couple of hours - get here before then and I can sneak out.
 0x3CB35952=~z~Jackie几个钟头后就回来了，赶在她前面到，我好开溜。
@@ -162,7 +162,7 @@
 0x4DBE2F2D=~z~嘿，想一起去脱衣舞俱乐部吗？还是我自个儿嗨？
 
 ;0x4DDC57D9=~z~Yeah, come and pick me up.
-0x4DDC57D9=~z~好，来接我吧。
+0x4DDC57D9=~z~好，来找我吧。
 
 ;0x4F7F3AAA=~z~Not now - another time.
 0x4F7F3AAA=~z~现在不行，以后再约吧。
@@ -186,7 +186,7 @@
 0x55E28462=100
 
 ;0x5770794A=~z~Sure, I could eat. Come and get me.
-0x5770794A=~z~好啊，那吃饭吧。过来接我。
+0x5770794A=~z~好啊，那吃饭吧。过来找我。
 
 ;0x5D48563C=~z~I'd love to, man, but I'm kinda busy. Another time.
 0x5D48563C=~z~我也想啊，哥们。但我有点忙。改天再说吧。
@@ -198,7 +198,7 @@
 0x5F2CB77E=010
 
 ;0x5F489E7C=~z~Sure - come and pick me up
-0x5F489E7C=~z~好啊，来接我吧。
+0x5F489E7C=~z~好啊，来找我吧。
 
 ;0x5F6B4678=~z~On my way, home boy.
 0x5F6B4678=~z~我来了，朋友。
@@ -294,7 +294,7 @@
 0x934A74B5=E1FCJ_ACT_E1J_CALL_DRINK_A
 
 ;0x9353834E=~z~Course I wanna drink. Come get me.
-0x9353834E=~z~当然得喝啊。来接我吧。
+0x9353834E=~z~当然得喝啊。来找我吧。
 
 ;0x95B5F34F=~z~Call back after eleven. I'm trying to rest, man.
 0x95B5F34F=~z~11点后再打过来。我休息呢，哥们。
@@ -324,7 +324,7 @@
 0x9FE4534C=~z~忙不忙，哥们？想不想去脱衣舞俱乐部？
 
 ;0xA51526D1=~z~No I think I'd rather stay home knitting... of course I do. Come and get me.
-0xA51526D1=~z~别吧，喝酒可能还不如在家织毛衣...当然来了，来接我吧。
+0xA51526D1=~z~别吧，喝酒可能还不如在家织毛衣...当然来了，来找我吧。
 
 ;0xA57243E3=100
 0xA57243E3=100
@@ -351,13 +351,13 @@
 0xABCDD766=100
 
 ;0xAC0F1EB8=~z~Sure man. I'd love to play some pool. Come and pick me up.
-0xAC0F1EB8=~z~好啊哥们，我是想打台球。过来接我吧。
+0xAC0F1EB8=~z~好啊哥们，我是想打台球。过来找我吧。
 
 ;0xAE451715=E1FCJ_ACT_CALL_SHOW_YES_A
 0xAE451715=E1FCJ_ACT_CALL_SHOW_YES_A
 
 ;0xAF0A1A3B=~z~Sure, man, club house could be fun. Come pick me up.
-0xAF0A1A3B=~z~可以，哥们。会所很好玩的。来接我吧。
+0xAF0A1A3B=~z~可以，哥们。会所很好玩的。来找我吧。
 
 ;0xB2109D93=E1FCJ_ACT_E1J_CALL_POOL_A
 0xB2109D93=E1FCJ_ACT_E1J_CALL_POOL_A
@@ -399,10 +399,10 @@
 0xC42527A9=~z~有空来吃点啥吗？
 
 ;0xC991EFCA=~z~Abso-fucking-lutley I do, my friend. Come and get me.
-0xC991EFCA=~z~能不喝吗，朋友。来接我吧。
+0xC991EFCA=~z~能不喝吗，朋友。来找我吧。
 
 ;0xCA4ED0C4=~z~Of course man, swing by and get me.
-0xCA4ED0C4=~z~当然了哥们，来接我吧。
+0xCA4ED0C4=~z~当然了哥们，来找我吧。
 
 ;0xD196743B=~z~Wanna go play some air hockey?
 0xD196743B=~z~想不想打桌上冰球？
@@ -414,7 +414,7 @@
 0xD8C51ECC=~z~好啊，我是得去放松一下，Jackie快整死我了。过来找我吧。
 
 ;0xDCB4758F=~z~Sure man, come pick me up.
-0xDCB4758F=~z~好啊哥们，来接我吧。
+0xDCB4758F=~z~好啊哥们，来找我吧。
 
 ;0xDD174026=100
 0xDD174026=100
@@ -435,7 +435,7 @@
 0xE98410BC=~z~可以啊哥们，有啥不行的？肯定会很快乐的。
 
 ;0xEBD03446=~z~Does a bear shit in the woods? Of course, come and get me.
-0xEBD03446=~z~不会真有人不来吧？当然来，来接我吧。
+0xEBD03446=~z~不会真有人不来吧？当然来，来找我吧。
 
 ;0xEE073B52=~z~As long as you don't sulk when you lose. Come over to mine.
 0xEE073B52=~z~你输的时候别发牢骚就行。来找我吧。
@@ -444,7 +444,7 @@
 0xEF6E347F=E1FCJ_ACT_E1J_CALL_DARTS_YES_A
 
 ;0xF178D033=~z~Sure, Jackie's out, come and pick me up.
-0xF178D033=~z~好啊，Jackie出去了。过来接我。
+0xF178D033=~z~好啊，Jackie出去了。过来找我。
 
 ;0xF1B6AE2C=010
 0xF1B6AE2C=010

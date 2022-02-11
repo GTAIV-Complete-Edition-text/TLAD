@@ -132,7 +132,7 @@
 0x3D3E646D=~z~这是淡烟。你是娘炮吗？
 
 ;0x3D4278B0=~z~I always worried about Terry, man.
-0x3D4278B0=~z~我一直很担心 Terry，哥们。
+0x3D4278B0=~z~我一直很担心Terry，哥们。
 
 ;0x3ED509C3=~z~Gentlemen
 0x3ED509C3=~z~先生们。

@@ -363,7 +363,7 @@
 0xE8625189=~z~稍微等一会儿，伙计，哪儿也别去。
 
 ;0xE93F4D08=~z~Looky who I got with me - Johnny K, my old pal.
-0xE93F4D08=~z~看看我带谁来了—— Johnny K，我的老伙计。
+0xE93F4D08=~z~看看我带谁来了——Johnny K，我的老伙计。
 
 ;0xE9A9664E=~z~I'm gonna put a bullet right through your fucking skull Brian.
 0xE9A9664E=~z~我就一枪打爆你的脑壳，Brian。

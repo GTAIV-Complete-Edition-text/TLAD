@@ -501,7 +501,7 @@
 0x3E5FAA06=SFX_PAUSE_300
 
 ;0x3EABE91B=~z~Crazy Colin's now a man of God.
-0x3EABE91B=~z~疯子 Colin 现在信上帝了。
+0x3EABE91B=~z~疯子Colin现在信上帝了。
 
 ;0x3EB08979=E12W_KD
 0x3EB08979=E12W_KD
@@ -531,7 +531,7 @@
 0x41555426=E12W_MF
 
 ;0x4194F488=~z~Yes, Jesus. Batshit fucking crazy he is, whole family has gone into hiding.
-0x4194F488=~z~是啊，上帝啊。他是彻头彻尾地疯了，现在我全家都躲起来了。
+0x4194F488=~z~是啊，上帝啊。他是彻头彻尾地疯了，我全家都躲起来了。
 
 ;0x419A5FC5=~z~You old, Clay. But you ain't that old.
 0x419A5FC5=~z~你确实老，Clay。但也没那么老吧。
@@ -922,7 +922,7 @@
 0x7281315E=~z~何止是那样。我的确喜欢那边的娘们。
 
 ;0x72D15700=~z~Colin the ex man of God, new man of heroin relapse.
-0x72D15700=~z~曾信上帝的 Colin，现在又在吸海洛因了。
+0x72D15700=~z~曾信上帝的Colin，现在又在吸海洛因了。
 
 ;0x72F14C78=E12W_EE
 0x72F14C78=E12W_EE
@@ -991,7 +991,7 @@
 0x7A79CF61=E12W_ZC
 
 ;0x7AC5FF38=~z~Who?
-0x7AC5FF38=~z~Who?
+0x7AC5FF38=~z~谁？
 
 ;0x7ADD34C8=SFX_PAUSE_360
 0x7ADD34C8=SFX_PAUSE_360
@@ -1165,7 +1165,7 @@
 0x907164D0=E12W_ZE
 
 ;0x916A115C=~z~I'm responsible for my brothers too, Johnny. You included. This shit don't end good.
-0x916A115C=~z~我还要对兄弟负责， Johnny。对你也是。不会轻易结束的。
+0x916A115C=~z~我还要对兄弟负责，Johnny。对你也是。不会轻易结束的。
 
 ;0x91E340CC=~z~Poor thing. I'm sorry for you two.
 0x91E340CC=~z~真惨啊。我很同情你俩。
@@ -1471,7 +1471,7 @@
 0xB3F26AB5=SFX_PAUSE_400
 
 ;0xB40C5975=~z~So Colin, my brother - rang me the other day.
-0xB40C5975=~z~我哥哥 Colin 又被我碰到了。
+0xB40C5975=~z~我哥哥Colin又被我碰到了。
 
 ;0xB4A9BC23=~z~Place was always a dump brother, difference now is the people ain't buying the bullshit no more.
 0xB4A9BC23=~z~这里一直都是粪坑，兄弟。只不过现代人对那些屁话不买账了而已。
@@ -1684,7 +1684,7 @@
 0xCE6B6731=E12W_BD
 
 ;0xCE6E8E3D=~z~Colin the man of God?
-0xCE6E8E3D=~z~信上帝的那个 Colin？
+0xCE6E8E3D=~z~信上帝的那个Colin？
 
 ;0xCEA11217=~z~The honey-colored girl. I love America's Next Top Hooker.
 0xCEA11217=~z~蜂蜜色的姑娘。我爱死《美国新花魁》了
