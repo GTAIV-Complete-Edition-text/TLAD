@@ -1365,7 +1365,7 @@
 0xC181E675=你管这叫比赛，老兄？我妹妹水平都比你高了。改天再比一次吧。
 
 ;0x409C64AC=You're a mean motherfucker, ain't you. Let's race again soon.
-0x409C64AC=你这逼可太自私了。改天再比一次吧。
+0x409C64AC=你这逼真够缺德。改天再比一次吧。
 
 ;0x35D74F22=We need a rematch. I wanna see if you're just as cold next time we race.
 0x35D74F22=还是得重赛一场。我倒要看看下次比赛你是不是还是这么冷酷。
@@ -1401,7 +1401,7 @@
 0x929B077C=下次见，Johnny。
 
 ;0xA07DA221=You were here and then you wre gone. What happened?
-0xA07DA221=你来了又走了。什么情况？
+0xA07DA221=你怎么来了就走？什么情况？
 
 ;0xC211E549=Johnny I heard your Hexer got messed up, call me and ill get it fixed up and will bring it to you.
 0xC211E549=Johnny，听说你的Hexer出了点事，给我打个电话，我就能帮你修好送过来。
@@ -1416,7 +1416,7 @@
 0xC32D4F72=Angus
 
 ;0x2D4D72CC=I've got some more bikes that need getting. We got to keep making money, man. Call me.
-0x2D4D72CC=我还需要更多摩托。钱还是要继续赚的，兄弟。有空联系。
+0x2D4D72CC=我需要的摩托还有很多。钱还是要继续赚的，兄弟。有空联系。
 
 ;0x18904952=PLACEHOLDER
 0x18904952=PLACEHOLDER
@@ -1827,7 +1827,7 @@
 0xFB60FC77=你现在是失落摩托帮的会长了。
 
 ;0xC61391DD=You can call for help anytime from Terry or Clay. They will provide backup for you on jobs.
-0xC61391DD=你随时可以呼叫Terry或Clay请求支援。
+0xC61391DD=你随时可以呼叫Terry或Clay的支援。
 
 ;0xD77534A0=To ask for their help, call Terry or Clay and select Backup.
 0xD77534A0=需要支援时，呼叫Terry或Clay，选择「支援」。

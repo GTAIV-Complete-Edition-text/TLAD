@@ -195,7 +195,7 @@
 0x9B497783=SFX_PAUSE_130
 
 ;0x9FB17268=~z~Maybe stick them on the web as well once I've got what I need, capiche? Ciao, buddy.
-0x9FB17268=~z~一拿到我要的消息，我就该考虑发到网上了，懂了吗？再见了，伙计。
+0x9FB17268=~z~拿到需要的消息，我就该考虑发到网上了，懂了吗？再见了，伙计。
 
 ;0xA7D4AEF8=010090100090100090010
 0xA7D4AEF8=010090100090100090010
@@ -234,7 +234,7 @@
 0xC6C2C51B=~z~这话说的跟刚发现处女的吸血鬼似的。我看你又从辛苦劳动的美国工人身上吸了不少血吧。
 
 ;0xC85B4860=~z~You need to take it over to a garage on Muskteer to be fitted with surveillance equipment.
-0xC85B4860=~z~你要把车开到Musketeer街的一个车库去安装监听设备。
+0xC85B4860=~z~你要把车开到Muskteer街的一个车库去安装监听设备。
 
 ;0xC8E41E7A=100090100090010090100
 0xC8E41E7A=100090100090010090100

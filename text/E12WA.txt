@@ -153,7 +153,7 @@
 0x14A35186=SFX_PAUSE_240
 
 ;0x14B1BC45=~z~Same thing man, they all trying to fuck you.
-0x14B1BC45=~z~一样的，兄弟。他们都想日你。
+0x14B1BC45=~z~一样的，兄弟。他们都想搞你。
 
 ;0x14E6F8DB=SFX_PAUSE_200
 0x14E6F8DB=SFX_PAUSE_200
@@ -171,7 +171,7 @@
 0x159DB182=E12W_TA
 
 ;0x16209443=~z~Shit, can we reach out to women as well? Don't think I could do without pussy for fifteen to twenty.
-0x16209443=~z~妈的，能不能放点娘们进来？十几二十年不碰女人我可受不了。
+0x16209443=~z~妈的，能不能再招点娘们？十几二十年不碰女人我可受不了。
 
 ;0x16270214=SFX_PAUSE_430
 0x16270214=SFX_PAUSE_430
@@ -210,7 +210,7 @@
 0x18FD7169=~z~搞得跟这个国家不是幕后的五个人做的决策一样。
 
 ;0x190B5502=~z~Where were we, Terrence.
-0x190B5502=~z~Where were we, Terrence.
+0x190B5502=~z~说到哪了，Terrence？
 
 ;0x1912DDE0=~z~A different rash for every port.
 0x1912DDE0=~z~一个港口一种皮疹。
@@ -402,7 +402,7 @@
 0x3363DB9E=~z~不好说，我在自由城似乎也被不少人给盯上了。
 
 ;0x33CA11E1=~z~You back with us, dude? What were we saying? Oh yeah...
-0x33CA11E1=~z~You back with us, dude? What were we saying? Oh yeah...
+0x33CA11E1=~z~还回来吗，老兄？我们在说啥呢？哦对...
 
 ;0x33D7AB07=E12W_QE
 0x33D7AB07=E12W_QE
@@ -447,7 +447,7 @@
 0x369ADAF3=E12W_MA
 
 ;0x36CB7E1D=~z~That's life in twenty first century America, my brother. We woke up in a nightmare.
-0x36CB7E1D=~z~这就是美国二十一世纪的生活，好兄弟。醒来仍是噩梦。
+0x36CB7E1D=~z~这就是二十一世纪美国的生活，好兄弟。醒来仍是噩梦。
 
 ;0x36F6E3C4=E12W_AC
 0x36F6E3C4=E12W_AC
@@ -700,7 +700,7 @@
 0x5667F9D5=SFX_PAUSE_260
 
 ;0x5756D8FA=~z~You okay Jim? Anyway, as we were saying.
-0x5756D8FA=~z~You okay Jim? Anyway, as we were saying.
+0x5756D8FA=~z~你还好吗，Jim？总之，之前也说过了。
 
 ;0x579AFB92=~z~No, man. It's all still there. Still going strong.
 0x579AFB92=~z~不，老兄。它还好好的，依然在发展。
@@ -715,7 +715,7 @@
 0x5876200D=E12W_LB
 
 ;0x58C428FF=~z~What were we conversing upon, Clayton...
-0x58C428FF=~z~What were we conversing upon, Clayton...
+0x58C428FF=~z~我们聊到哪儿啦，Clayton...
 
 ;0x58FC1EB1=SFX_PAUSE_360
 0x58FC1EB1=SFX_PAUSE_360
@@ -838,7 +838,7 @@
 0x699DF875=~z~你以为那些种族主义者就待见我这个犹太人了？
 
 ;0x69A57D97=~z~You're getting too slow as well as too old, buddy. Anyway.
-0x69A57D97=~z~You're getting too slow as well as too old, buddy. Anyway.
+0x69A57D97=~z~你年纪也大了，速度也慢了，伙计。真的。
 
 ;0x6A128058=~z~Fuck it all, man. Live true.
 0x6A128058=~z~操他妈的，兄弟。活出真实。
@@ -850,7 +850,7 @@
 0x6A57641D=E12W_UF
 
 ;0x6A76D91C=~z~I love you brothers. The heartache... the pain, man. It's good to have you boys. You're constant.
-0x6A76D91C=~z~我爱你，兄弟们。爱到心痛...爱到痛苦，兄弟。有你们在真好，一直都在。
+0x6A76D91C=~z~我爱你们，兄弟们。爱到心痛...爱到痛苦，兄弟。有你们在真好，一直都在。
 
 ;0x6AA67B86=E12W_KH
 0x6AA67B86=E12W_KH
@@ -1042,7 +1042,7 @@
 0x7E98B06F=E12W_YA
 
 ;0x7ECB5A2E=~z~Clay, dude, where was the best place the army stationed you?
-0x7ECB5A2E=~z~Clay，老兄，你对军队的那个驻派地最满意？
+0x7ECB5A2E=~z~Clay，老兄，你对军队的哪个驻派地最满意？
 
 ;0x7F48C9FA=SFX_PAUSE_270
 0x7F48C9FA=SFX_PAUSE_270
@@ -1204,7 +1204,7 @@
 0x96AD29A0=SFX_PAUSE_380
 
 ;0x9789D209=~z~Shit, Terry, what were we saying?
-0x9789D209=~z~Shit, Terry, what were we saying?
+0x9789D209=~z~妈的，Terry，刚才聊到哪了？
 
 ;0x97EEF09F=~z~I know, man, I know. You ain't turning snitch on us are you?
 0x97EEF09F=~z~我知道，兄弟，我知道。你该不会出卖我们了吧？
@@ -1297,7 +1297,7 @@
 0xA128BCD5=SFX_PAUSE_350
 
 ;0xA12D39D4=~z~Lost the train of thought there, didn't we, Clay?
-0xA12D39D4=~z~Lost the train of thought there, didn't we, Clay?
+0xA12D39D4=~z~都不记得在聊啥了，对吧，Clay？
 
 ;0xA1A56404=SFX_PAUSE_570
 0xA1A56404=SFX_PAUSE_570
@@ -1456,7 +1456,7 @@
 0xB29D4517=SFX_PAUSE_300
 
 ;0xB2EEDD57=~z~Think we can resume our conversation. That alright with you, Clay?
-0xB2EEDD57=~z~Think we can resume our conversation. That alright with you, Clay?
+0xB2EEDD57=~z~那还是接着聊吧。你没问题吧，Clay？
 
 ;0xB32CA90A=E12W_LH
 0xB32CA90A=E12W_LH
@@ -1492,7 +1492,7 @@
 0xB6455CA9=200090020090200090020090200090020
 
 ;0xB64B0F8B=~z~So, ummm, yeah...
-0xB64B0F8B=~z~So, ummm, yeah...
+0xB64B0F8B=~z~那...对...
 
 ;0xB65E517C=SFX_PAUSE_340
 0xB65E517C=SFX_PAUSE_340
@@ -1804,7 +1804,7 @@
 0xDBAB0F86=E12W_ZB
 
 ;0xDC460B4F=~z~Man, land of the free became the land of the fucking macchi-fucking-ato.
-0xDC460B4F=~z~天，自由之都成了她们玛奇朵之都。
+0xDC460B4F=~z~天，自由之都成了他妈玛奇朵之都。
 
 ;0xDC7C0431=SFX_PAUSE_420
 0xDC7C0431=SFX_PAUSE_420
@@ -1813,7 +1813,7 @@
 0xDC9ABD8C=E12W_A_CD
 
 ;0xDCEEDF19=~z~Let's enjoy this, boys - freedom. We ain't dead and we ain't in jail. How long can it last?
-0xDCEEDF19=~z~尽情享受吧，各位——享受自由。我们一没有死，二没进局子。这日子能持续多久？
+0xDCEEDF19=~z~尽情享受吧，各位——享受自由。我们一没有死，二没坐牢。这日子能持续多久？
 
 ;0xDCFDFA15=SFX_PAUSE_190
 0xDCFDFA15=SFX_PAUSE_190

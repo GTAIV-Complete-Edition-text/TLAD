@@ -550,7 +550,7 @@
 0xC8F2A4D4=~z~靠，Brian的更多蠢货打手开着车来了。
 
 ;0xC9794A0F=~z~We got another van full of these pricks coming, man.
-0xC9794A0F=~z~又来了一辆装满傻逼的车，兄弟。
+0xC9794A0F=~z~又来了一车傻逼，兄弟。
 
 ;0xCD14F474=E1J5_A_GB
 0xCD14F474=E1J5_A_GB

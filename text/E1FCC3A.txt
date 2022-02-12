@@ -180,7 +180,7 @@
 0x29C598C9=100
 
 ;0x2A49E119=~z~What was with that place, man? I know you drunk now, but you didn't have that excuse goin' in.
-0x2A49E119=~z~去那地方干嘛，哥们？我知道你喝多了，但你也没理由进去啊。
+0x2A49E119=~z~那里怎么回事，哥们？知道你喝多了，但你也没理由进去啊。
 
 ;0x2AA98D8B=~z~Johnny, I'm gonna wait here while you get your bike. I ain't letting you ride bitch on mine.
 0x2AA98D8B=~z~Johnny，你去找辆车，我在这儿等你。你可别想坐我的后座。
@@ -333,7 +333,7 @@
 0x4D419B62=~z~精准命中，我的飞镖向来如此，哥们。这就是我的天赋。
 
 ;0x4D60EF88=~z~I wouldn't have taken you for a guy who like this place, but a drink's a drink.
-0x4D60EF88=~z~虽然我很喜欢这家店，不太想带你们来这儿，但还是得来喝啊。
+0x4D60EF88=~z~我很喜欢这家店，不太想带你们来这儿，但该喝还是得喝啊。
 
 ;0x4E54F294=~z~Shit, I didn't mean to intimidate you.
 0x4E54F294=~z~妈的，我不是故意要吓你的。

@@ -36,7 +36,7 @@
 0x7923C80A=你必须在~1~:~1~之前赶到。
 
 ;0x79482093=~s~Take the car to the ~y~bugging expert~s~, if the car is damaged he will buff out any scratches.
-0x79482093=~s~把车带给~y~窃听专家，~s~车辆如有损坏，他会一并修理。
+0x79482093=~s~把车交给~y~窃听专家，~s~车辆如有损坏，他会一并修理。
 
 ;0x85BC8DE4=~s~Knowing Me, Knowing You
 0x85BC8DE4=~s~知根知底

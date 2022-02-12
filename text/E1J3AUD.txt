@@ -12,7 +12,7 @@
 0x0AA578D1=~z~得了，出发了。
 
 ;0x0ABB326A=~z~If I could use my legs, I'd jump for joy Johnny boy. Later on, Brother.
-0x0ABB326A=~z~要不是腿瘸了，我就高兴得跳起来了，Johnny。待会见，兄弟。
+0x0ABB326A=~z~要不是腿瘸了，我就高兴得跳起来了，Johnny。待会儿见，兄弟。
 
 ;0x0EDED05F=E1J3_C_GA
 0x0EDED05F=E1J3_C_GA
@@ -336,10 +336,10 @@
 0xA201E490=~z~一大群死妈天使正骑着车在Alderney的高速上兜风。
 
 ;0xA32440B6=~z~You got your Daemon, man. Put a stamp on it and ship that mother.
-0xA32440B6=~z~Daemon 到手了，兄弟。贴好邮票以后就装箱发货吧。
+0xA32440B6=~z~Daemon到手了，兄弟。贴好邮票以后就装箱发货吧。
 
 ;0xA5339C07=~z~Stop jacking up my new ride, fuckhole.
-0xA5339C07=~z~别拿千斤顶顶我的新车了，傻逼。
+0xA5339C07=~z~别糟蹋我的新车了，傻逼。
 
 ;0xA9429139=E1J3_B_OA
 0xA9429139=E1J3_B_OA
@@ -348,7 +348,7 @@
 0xAA51CE03=E1J3_B_QA
 
 ;0xAB7FF8C7=~z~It's in that multi-storey car park in Purgatory.
-0xAB7FF8C7=~z~车在 Purgatory 的立体停车场里。
+0xAB7FF8C7=~z~车在Purgatory的立体停车场里。
 
 ;0xAC74F5E7=~z~You always were the most reliable brother, Johnny. Too cool.
 0xAC74F5E7=~z~不愧是我最可靠的兄弟，Johnny。太棒了。
@@ -504,7 +504,7 @@
 0xED178499=~z~Johnny仔。这位进出口商的采购清单还挺长的。
 
 ;0xED6117AE=~z~Angus, brother. If you were going to export a bike to Japan, where might I be able to find it?
-0xED6117AE=~z~Angus，兄弟。假如你要出口摩托车到日本，我得去哪儿找车？
+0xED6117AE=~z~Angus，兄弟。假如你要向日本出口摩托，我得去哪儿找车？
 
 ;0xF09CC0DE=100
 0xF09CC0DE=100

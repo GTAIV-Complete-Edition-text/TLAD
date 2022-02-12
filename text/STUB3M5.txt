@@ -15,7 +15,7 @@
 0x3D7901D0=~r~CEO死了。
 
 ;0x473EEA28=~s~The ~b~CEO~s~ needs to be uncuffed.
-0x473EEA28=~b~CEO~s~需要解铐。
+0x473EEA28=~s~为~b~CEO~s~解铐。
 
 ;0x49D72E67=~s~Take out the ~r~guards.
 0x49D72E67=~s~干掉~r~警卫。

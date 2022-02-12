@@ -264,7 +264,7 @@
 0xA9E17190=010
 
 ;0xAD40D36C=~z~Clay, my brother, do you reckon you could equip me with a Hexer, maybe?
-0xAD40D36C=~z~Clay，好兄弟，你看看能不能给我整辆Hexer？
+0xAD40D36C=~z~Clay，好兄弟，能不能给我整辆Hexer过来？
 
 ;0xAE01864B=~z~Shit, Johnny. Now I got to use more of my damn minutes on a call to Terry. Goodbye.
 0xAE01864B=~z~妈的，Johnny。现在我他妈又得花点时间给Terry打电话了。再见。

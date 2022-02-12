@@ -288,7 +288,7 @@
 0x4BB18676=SFX_PAUSE_390
 
 ;0x4CFB1DFB=~z~Yeah, I don't know what the committee would think of your body art, personal hygiene or "fuck you" attitude, but,
-0x4CFB1DFB=~z~好啊，不知道委员会对你的身体艺术、个人卫生还有「操你妈」的态度有什么看法，但是，
+0x4CFB1DFB=~z~好啊，不知道委员会对你的身体艺术、个人卫生和「操你妈」的态度有什么看法，但是，
 
 ;0x4D68F764=~z~Don't want some fed with a stick up his ass connecting the dots, you know?
 0x4D68F764=~z~我不想让哪个麻烦的探员发现我俩的关系，懂吧？
@@ -672,7 +672,7 @@
 0xB3AA8FFB=SFX_PAUSE_120
 
 ;0xB5707745=~z~Well, I'm president of a bunch of Alderney piss lickers, not the whole nation,
-0xB5707745=~z~得了吧，我不过是一群Alderney马屁精的头头，不是美国总统。
+0xB5707745=~z~我不过是一群Alderney马屁精的头头，不是美国总统。
 
 ;0xB8CF7E3B=E1MF2_EK
 0xB8CF7E3B=E1MF2_EK

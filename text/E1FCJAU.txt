@@ -324,7 +324,7 @@
 0x9FE4534C=~z~忙不忙，哥们？想不想去脱衣舞俱乐部？
 
 ;0xA51526D1=~z~No I think I'd rather stay home knitting... of course I do. Come and get me.
-0xA51526D1=~z~别吧，喝酒可能还不如在家织毛衣...当然来了，来找我吧。
+0xA51526D1=~z~别吧，喝酒还不如在家织毛衣...才怪呢，来找我吧。
 
 ;0xA57243E3=100
 0xA57243E3=100
