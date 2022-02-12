@@ -270,7 +270,7 @@
 0x8120E8E6=E1FCC_ACT_E1C_CALL_REJECTEDA
 
 ;0x83191CDC=~z~I figured a man like you might wanna get shit canned. Yeah?
-0x83191CDC=~z~我寻思你这种人是想把某些废物解决掉的，对吧？
+0x83191CDC=~z~我觉得你现在一定想来上几杯吧？
 
 ;0x83E9EC15=E1FCC_ACT_E1C_CALL_SORRY_WOKE_UPA
 0x83E9EC15=E1FCC_ACT_E1C_CALL_SORRY_WOKE_UPA

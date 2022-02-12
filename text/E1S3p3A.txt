@@ -9,7 +9,7 @@
 0x0738FD39=~z~我很好。但你的一位好友因恐怖的黑社会暴力遇害了。
 
 ;0x0766FD9D=~z~Appreciate the tip, but I think I'll stick to terrorism, the economy and the environment.
-0x0766FD9D=~z~感谢你的主意，但我还是会坚持恐怖主义、经济和环境的议题。
+0x0766FD9D=~z~不错的主意，但我还是会坚持恐怖主义、经济和环境的议题。
 
 ;0x0B8C8B35=E1S3p3_DE
 0x0B8C8B35=E1S3p3_DE

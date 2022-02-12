@@ -27,7 +27,7 @@
 0x1432B44E=SFX_PAUSE_240
 
 ;0x173BD072=~z~Oh, you've got a mind for damage control, Johnny. If this rebel thing doesn't work out,
-0x173BD072=~z~噢，你还真有损害管制的头脑，Johnny。要是你叛逆不下去了，
+0x173BD072=~z~噢，你还真有损害管制的头脑，Johnny。哪天叛逆不下去了，
 
 ;0x1A84C747=100
 0x1A84C747=100

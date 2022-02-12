@@ -9,7 +9,7 @@
 0x343A50B9=~s~干掉~r~联络人。~s~
 
 ;0x3C661877=~s~The ~r~contact~s~ is getting away.
-0x3C661877=~r~联络人~s~正在逃跑。
+0x3C661877=~r~联络人~s~就要跑了。
 
 ;0x4D3E7EF6=Meet the ~b~contact ~s~by ~1~:0~1~.
 0x4D3E7EF6=在~1~:0~1~之前去见~b~联络人。

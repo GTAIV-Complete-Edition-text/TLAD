@@ -12,7 +12,7 @@
 0x0906B0C7=~z~当杀警察和吸冰毒的守护神告诉你你该赎罪时，你就明白自己是个坏女孩了。
 
 ;0x0A8E923C=~z~Well, who says campaign donations don't buy you anything? I'm on it, Stubbs.
-0x0A8E923C=~z~好吧，谁说竞选捐款无法给自己带来收益的？我来干，Stubbs。
+0x0A8E923C=~z~好吧，谁说竞选捐款没法带来收益的？我来干，Stubbs。
 
 ;0x0D722CF5=~z~You need to get motivated. Lose the police.
 0x0D722CF5=~z~你需要动起来，甩掉警察。
@@ -54,7 +54,7 @@
 0x1D1D1191=E1S3p5_HA
 
 ;0x1DE2F22B=~z~Apart from watching a woman sail into the sunset with millions of dollars that belong to mom and pop investors,
-0x1DE2F22B=~z~虽然我看着一个女人卷走数百万投资者的血汗钱消失在晚霞里，
+0x1DE2F22B=~z~我刚看着一个女人卷走投资者的数百万血汗钱消失在晚霞里，
 
 ;0x1EDC48BB=E1S3p5_KA
 0x1EDC48BB=E1S3p5_KA
@@ -114,7 +114,7 @@
 0x3BBE815B=E1S3p5_CA
 
 ;0x3BD067C3=~z~I've got ten hours before Juan Pedro is crushing limes for my mojito on his rippled abs.
-0x3BD067C3=~z~在Juan Pedro用他那波涛汹涌的腹肌给我的莫吉托榨柠檬汁前，我还有十个小时的时间。
+0x3BD067C3=~z~在Juan Pedro用波涛汹涌的腹肌给我的莫吉托榨柠檬汁前，我还有十个小时的时间。
 
 ;0x3E5C0CEA=E1S3p5_KC
 0x3E5C0CEA=E1S3p5_KC
@@ -336,7 +336,7 @@
 0xA711DA84=E1S3p5_GE
 
 ;0xA7DAB9AB=~z~Buckle up, lady. Looks like you're real popular with this city's regulating forces.
-0xA7DAB9AB=~z~系好安全带，小姐，看起来你很受这个城市监管部门的欢迎啊。
+0xA7DAB9AB=~z~系好安全带，小姐，看来你很受这个城市监管部门的欢迎啊。
 
 ;0xAACB79C9=E1S3p5_JD
 0xAACB79C9=E1S3p5_JD
@@ -405,7 +405,7 @@
 0xC37A6B98=201
 
 ;0xC3CB718C=~z~Firstly, no one calls me lady without having at least one zero docked from their annual salary.
-0xC3CB718C=~z~首先，不先把自己的年薪扣掉至少一个零，谁都不许叫我小姐。
+0xC3CB718C=~z~首先，不把自己的年薪扣掉至少一个零，谁都不许叫我小姐。
 
 ;0xC4DDABF3=020090200090200090020090200
 0xC4DDABF3=020090200090200090020090200

@@ -36,7 +36,7 @@
 0x1D07B434=~z~我找的人开着一辆红色的Cognoscenti。
 
 ;0x21353C8B=~z~I'm here. Problem is I can't tell your colleague from all the other bottom feeders hanging round.
-0x21353C8B=~z~我到了。问题是我不知道附近这么多小人里面哪个是你的同事。
+0x21353C8B=~z~我到了。问题是怎么从附近这么多小人物里找出你的同事。
 
 ;0x28FFAAA0=SFX_PAUSE_290
 0x28FFAAA0=SFX_PAUSE_290
