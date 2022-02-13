@@ -660,7 +660,7 @@
 0xA0933814=~z~你还活着，运气算不错了。拜拜，Johnny。
 
 ;0xA135CBB7=~z~I ain't into the whole jail thing.
-0xA135CBB7=~z~我才不想进监狱。
+0xA135CBB7=~z~我才不要进监狱。
 
 ;0xA259488E=090
 0xA259488E=090
@@ -960,7 +960,7 @@
 0xD8D0C978=E1E3_A_ZA
 
 ;0xD94B6983=~z~Fuck it's getting hot.
-0xD94B6983=~z~操，太热了吧。
+0xD94B6983=~z~操，燃起来了。
 
 ;0xDA25A8C5=~z~Looks like you're on foot now, friend.
 0xDA25A8C5=~z~跑步追我们吧，朋友。

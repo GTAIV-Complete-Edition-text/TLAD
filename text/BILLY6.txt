@@ -51,10 +51,10 @@
 0x74BBFD1E=~r~你的摩托坏了。
 
 ;0x771BCCFC=~s~Follow ~b~Jim.~s~
-0x771BCCFC=~s~跟着~b~Jim。
+0x771BCCFC=~s~跟随~b~Jim。
 
 ;0x7746B748=~s~Follow ~b~Jim.~s~
-0x7746B748=~s~跟着~b~Jim。
+0x7746B748=~s~跟随~b~Jim。
 
 ;0x836E91AC=~s~Stay close to the group of bikers you are leading as Chapter President to talk with them.~s~
 0x836E91AC=~s~接近车队中的成员才能与他们对话。

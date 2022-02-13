@@ -327,7 +327,7 @@
 0x78BADF8A=~z~都他妈去死吧，意大利佬。
 
 ;0x78E099BE=~z~Go ahead, go ahead!
-0x78E099BE=~z~你走吧，你走吧！
+0x78E099BE=~z~你走啊，你走啊！
 
 ;0x78FA32C6=~z~Man, I don't know how many brothers we're gonna have left to have a meeting with.
 0x78FA32C6=~z~哥们，都不知道下次集会还剩多少弟兄了。

@@ -126,7 +126,7 @@
 0x2BCA7C87=E1R1_IF
 
 ;0x2CA8332C=~z~I got you that ice. You want me to bring it back to the restaurant?
-0x2CA8332C=~z~我拿到钻石了。需要我送到餐馆吗？
+0x2CA8332C=~z~拿到钻石了。需要我送到餐馆吗？
 
 ;0x2DEA5485=~z~He's got a temper, Johnny. Shit. How the fuck could you do this to me? Thanks for nothing.
 0x2DEA5485=~z~他可是有脾气的，Johnny。妈的。你他妈怎么能这么对我？我谢谢你啊。
