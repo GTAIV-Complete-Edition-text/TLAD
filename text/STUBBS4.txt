@@ -78,7 +78,7 @@
 0xDBCEFA93=~r~Billy被关回去了。~s~
 
 ;0xE15AA0B1=~s~Follow~b~ Terry and Clay~s~ out of the prison.
-0xE15AA0B1=~s~跟着~b~Terry~s~和~b~Clay~s~离开监狱。
+0xE15AA0B1=~s~跟随~b~Terry~s~和~b~Clay~s~离开监狱。
 
 ;0xE47F8DCA=~r~You attacked the Lost bikers.~s~
 0xE47F8DCA=~r~你攻击了失落帮成员。~s~

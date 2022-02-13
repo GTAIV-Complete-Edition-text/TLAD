@@ -237,7 +237,7 @@
 0x1C93E72B=~z~快跑啊，Roman。快点啊！
 
 ;0x1C961DA1=~z~We ain't kidnapping nobody because of my mamma, Johnny. It's your lady friend getting us to do this. Think on that, son.
-0x1C961DA1=~z~我们不是因为我妈才来绑架别人的，Johnny。~n~是因为你的女性朋友才会这样的。动动脑子，小子。
+0x1C961DA1=~z~我们不是因为我妈才来绑架别人的，Johnny。~n~都是因为你的女性朋友。动动脑子，小子。
 
 ;0x1DD64622=E1A2_EA
 0x1DD64622=E1A2_EA
@@ -579,7 +579,7 @@
 0x4D9DC00D=~z~呃...啊...我...Bellic先生是个大忙人。~n~是一位重要的大忙人。
 
 ;0x4DF89663=~z~Rusty oil dripping American junk.
-0x4DF89663=~z~生锈漏油的美国破烂。
+0x4DF89663=~z~生锈漏油的美国烂铁。
 
 ;0x4E2C2BCF=SFX_PAUSE_080
 0x4E2C2BCF=SFX_PAUSE_080
@@ -1215,7 +1215,7 @@
 0xA341DF4A=~z~有一种丰收的喜悦，懂吧？
 
 ;0xA3B9F159=~z~I messed up, baby... promise you won't be mad.
-0xA3B9F159=~z~我错了，宝贝...你不要生气好吗？
+0xA3B9F159=~z~我错了，宝贝...不要生气好吗？
 
 ;0xA3E5D89A=~z~-My name is not important.~n~-What is this?
 0xA3E5D89A=~z~－我是谁不重要。~n~－什么情况？
@@ -1287,7 +1287,7 @@
 0xACFF33A6=SFX_PAUSE_150
 
 ;0xAD32A34C=~z~She's a friend and she's in trouble. I believe in looking out for people you've been close to.
-0xAD32A34C=~z~她是我的朋友，现在陷入了麻烦。我向来都会照顾身边的人的。
+0xAD32A34C=~z~她是我的朋友，现在陷入了麻烦。~n~我向来都会照顾身边的人的。
 
 ;0xAD685A00=E1A2_FA
 0xAD685A00=E1A2_FA
@@ -1380,7 +1380,7 @@
 0xB6667872=SFX_PAUSE_290
 
 ;0xB7836983=~z~who preferred rusty oil dripping junk to hi-tech precision machinery.
-0xB7836983=~z~比起高科技精密机械，他更喜欢生锈漏油的破烂废铁。
+0xB7836983=~z~比起高科技精密机械，他更喜欢生锈漏油的破铜烂铁。
 
 ;0xB7935C76=SFX_PAUSE_070
 0xB7935C76=SFX_PAUSE_070
@@ -1830,7 +1830,7 @@
 0xF44F239A=SFX_PAUSE_190
 
 ;0xF4623BA2=~z~Hello.
-0xF4623BA2=~z~你好。
+0xF4623BA2=~z~你们好。
 
 ;0xF499132C=E1A2_OB
 0xF499132C=E1A2_OB

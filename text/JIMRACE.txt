@@ -1,6 +1,6 @@
 ﻿[JIMRACE]
 ;0x021EB42F=Follow ~b~Malc ~s~to the race start.
-0x021EB42F=跟着~b~Malc~s~去比赛起点。
+0x021EB42F=跟随~b~Malc~s~去比赛起点。
 
 ;0x02D1592B=~r~The cops scared off the other racers.
 0x02D1592B=~r~条子把别的赛车手吓跑了。
@@ -12,7 +12,7 @@
 0x1133BA00=赛车
 
 ;0x153A60A8=Get a bike and follow ~b~Malc.
-0x153A60A8=找一辆摩托，跟着~b~Malc。
+0x153A60A8=找一辆摩托，跟随~b~Malc。
 
 ;0x19E98C0C=12th
 0x19E98C0C=12th

@@ -225,7 +225,7 @@
 0xA7D9CDE2=SFX_PAUSE_340
 
 ;0xA9BD9424=~z~I've been waiting to see you for a long time, Johnny. Ever since,
-0xA9BD9424=~z~我想见你很久了，Johnny。自从，
+0xA9BD9424=~z~我想见你很久了，Johnny。自从...
 
 ;0xABAE8810=SFX_PAUSE_330
 0xABAE8810=SFX_PAUSE_330

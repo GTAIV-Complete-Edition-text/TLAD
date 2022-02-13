@@ -30,7 +30,7 @@
 0xBCCD54C6=~r~你伤害了Brian。
 
 ;0xCF755212=Follow ~b~Brian.
-0xCF755212=跟着~b~Brian。
+0xCF755212=跟随~b~Brian。
 
 ;0xD846AE7A=~r~You abandoned Brian.
 0xD846AE7A=~r~你丢下了Brian。

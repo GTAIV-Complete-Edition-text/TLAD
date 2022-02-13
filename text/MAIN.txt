@@ -1101,7 +1101,7 @@
 0x5B6D81B1=我们有空一起出去吧。
 
 ;0x992FFD35=You should sleep in Brian's old apartment - he won't be turning up there again. Sure beats that old bed at the clubhouse.
-0x992FFD35=你应该去Brian的那间公寓睡觉，反正他不会再出现了。总比会所的破床好。
+0x992FFD35=你去Brian的那间公寓睡觉吧，反正他不会再出现了。总比会所的破床好。
 
 ;0xBDE3469B=Me and the boys have fixed up Brian's apartment after the fire. You should sleep there. It's still a shithole, but might be better than that old bed at the clubhouse.
 0xBDE3469B=我和弟兄们已经把上次烧掉的Brian的公寓修好了。你应该去那里睡觉。虽然也没好到哪去，但是总比会所的破床要好。
@@ -1404,7 +1404,7 @@
 0xA07DA221=你怎么来了就走？什么情况？
 
 ;0xC211E549=Johnny I heard your Hexer got messed up, call me and ill get it fixed up and will bring it to you.
-0xC211E549=Johnny，听说你的Hexer出了点事，给我打个电话，我就能帮你修好送过来。
+0xC211E549=Johnny，听说你的Hexer出事了，给我打个电话，我就能帮你修好送过来。
 
 ;0xD3EC08FD=Brother, why'd you leave the stripclub? You get jealous of my gifts with the finer sex? Maybe you coulda learned something.
 0xD3EC08FD=兄弟，你怎么直接走了？是嫉妒我天资超凡的性功能吗？下次看着点学着点。
