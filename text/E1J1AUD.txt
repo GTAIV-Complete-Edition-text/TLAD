@@ -981,7 +981,7 @@
 0xF47366B2=E1J1_A_GA
 
 ;0xF47CF41B=~z~Or standing round kicking tires and asking what the fucks gone wrong with the chapter.
-0xF47CF41B=~z~也好过他一边脚踢车轮一边咆哮分会出了问题。
+0xF47CF41B=~z~也好过他问东问西咆哮分会出了问题。
 
 ;0xF63F4672=010090100010
 0xF63F4672=010090100010

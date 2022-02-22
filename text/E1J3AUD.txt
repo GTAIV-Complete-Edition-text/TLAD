@@ -435,7 +435,7 @@
 0xD3F51948=~z~老板对上次的车很满意，急着要下一辆呢，兄弟。
 
 ;0xD3F5B91E=~z~Some Deadbeats are taking it over the East Borough Bridge.
-0xD3F5B91E=~z~一些死妈天使正骑着它通过East Borough大桥。
+0xD3F5B91E=~z~一些死妈天使正骑着它通过东区大桥。
 
 ;0xD4199D13=E1J3_B_RJ
 0xD4199D13=E1J3_B_RJ

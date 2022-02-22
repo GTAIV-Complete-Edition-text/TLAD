@@ -249,7 +249,7 @@
 0x6BABF78F=~z~我确实很想打桌上冰球，哥们，但我有点忙。
 
 ;0x6C03CEBF=~z~Johnny, man. Wanna hang out, head down to the clubhouse or something?
-0x6C03CEBF=~z~Johnny，哥们，想出来玩吗，去帮里的俱乐部啥的？
+0x6C03CEBF=~z~Johnny，哥们，想出来玩吗，去帮会所啥的？
 
 ;0x6C24C6B5=~z~I can't man.
 0x6C24C6B5=~z~来不了，哥们。
@@ -474,7 +474,7 @@
 0xCFF61611=E1FCJ2_ACT_E1J_GETCALL_AIRHOCK_NOA
 
 ;0xD07B0FDB=~z~Wanna go hang out at the clubhouse, man?
-0xD07B0FDB=~z~去帮里的俱乐部玩玩吗，哥们？
+0xD07B0FDB=~z~去帮会所玩玩吗，哥们？
 
 ;0xD185BB86=E1FCJ2_ACT_GETCALL_DARTS_FIRSTA
 0xD185BB86=E1FCJ2_ACT_GETCALL_DARTS_FIRSTA
@@ -552,7 +552,7 @@
 0xEB9572FE=~z~Johnny，怎么回事，哥们，你躲哪去了？我都担心死了。
 
 ;0xEBE1053B=~z~Sorry brother, but I ain't gonna make it to the clubhouse.
-0xEBE1053B=~z~不好意思，哥们，我来不了帮里的俱乐部了。
+0xEBE1053B=~z~不好意思，哥们，我来不了帮会所了。
 
 ;0xED7C9E4D=~z~Good idea, man, I'll come pick you up.
 0xED7C9E4D=~z~好主意，哥们。我来接你了。
@@ -576,7 +576,7 @@
 0xF4289ECC=E1FCJ2_ACT_GETCALL_DRINK_FIRSTA
 
 ;0xF47A57D9=~z~Wanna go down to the clubhouse man?
-0xF47A57D9=~z~想去帮会会所吗，哥们？
+0xF47A57D9=~z~想去帮会所吗，哥们？
 
 ;0xF4FA8E12=~z~Sure man darts would be fun. I'll head over to yours.
 0xF4FA8E12=~z~可以啊，哥们。飞镖很好玩。我来找你吧。

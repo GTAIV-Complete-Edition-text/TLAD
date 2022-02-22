@@ -981,7 +981,7 @@
 0x8E4142CF=E1S4_B_AA
 
 ;0x8E9803BC=~z~Fuck, but that van was bound to be volatile, wasn't it? Later, man.
-0x8E9803BC=~z~操，但那货车一定会出问题，不是吗？再见吧，哥们。
+0x8E9803BC=~z~操，但那货车早晚会出问题，不是吗？再见吧，哥们。
 
 ;0x8EB09177=~z~You know, I'm really lost as to what that's got to do with me, sport. I did all I could for you.
 0x8EB09177=~z~你懂的，我真不懂这和我有啥关系，老兄。我尽力了。
@@ -1086,7 +1086,7 @@
 0x9D226B13=~z~对。这才是你的麻烦所在，哥们。
 
 ;0x9D65580E=~z~Let's go back to the house. There's one more thing we gotta do.
-0x9D65580E=~z~回俱乐部去吧。这是咱得做的最后一件事了。
+0x9D65580E=~z~回帮会所吧。这是咱得做的最后一件事了。
 
 ;0x9DCF8AA2=SFX_PAUSE_320
 0x9DCF8AA2=SFX_PAUSE_320
@@ -1173,7 +1173,7 @@
 0xB1D6DA8C=SFX_PAUSE_250
 
 ;0xB21BCAC3=~z~The club's whole arsenal is an upsetting casualty.
-0xB21BCAC3=~z~俱乐部的所有武器库都遭殃了。
+0xB21BCAC3=~z~帮里的所有军火都遭殃了。
 
 ;0xB27ADC14=~z~Check mate, dude.
 0xB27ADC14=~z~将军了，老兄。
@@ -1296,7 +1296,7 @@
 0xCF12974B=SFX_PAUSE_140
 
 ;0xCFA43C8B=~z~Let's meet Angus at the house, guys. This thing is nearly finished.
-0xCFA43C8B=~z~咱们在俱乐部见一下Angus吧，伙计们。这事快结束了。
+0xCFA43C8B=~z~咱们去帮会所找Angus吧，伙计们。这事快结束了。
 
 ;0xD0D5E6A3=~z~The new guy's here. Open the gates.
 0xD0D5E6A3=~z~有新人来了。把门打开。
