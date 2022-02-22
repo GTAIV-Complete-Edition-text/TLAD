@@ -1,6 +1,6 @@
 ﻿[E1E1AUD]
 ;0x0052C212=~z~Clay, I've run into some trouble on the East Borough bridge.
-0x0052C212=~z~Clay，我在East Borough大桥上遇到了麻烦。
+0x0052C212=~z~Clay，我在东区大桥上遇到了麻烦。
 
 ;0x009BBE22=SFX_PAUSE_190
 0x009BBE22=SFX_PAUSE_190
@@ -346,7 +346,7 @@
 0x34EC3C51=E1E1_HC
 
 ;0x3571A737=~z~Me and some boys are about to ambush a convoy on the East Borough. You down?
-0x3571A737=~z~我们准备在East Borough埋伏一个车队。你来吗？
+0x3571A737=~z~我们准备在东区大桥埋伏一个车队。你来吗？
 
 ;0x3581FA09=~z~So, Malcolm, I got a question for you.
 0x3581FA09=~z~Malcolm，我有问题问你。
@@ -679,7 +679,7 @@
 0x68ACB9FB=~z~他们不会知道自己是怎么死的。
 
 ;0x68E49A9A=~z~They bribed a guard on the East Borough Bridge to let 'em through without checking their load, right?
-0x68E49A9A=~z~他们贿赂了East Borough大桥的边检员，直接放行不用检查，对吧？
+0x68E49A9A=~z~他们贿赂了东区大桥的边检员，直接放行不用检查，对吧？
 
 ;0x6A51ACF5=E1E1_FC
 0x6A51ACF5=E1E1_FC
@@ -1015,7 +1015,7 @@
 0x992E230A=602090062
 
 ;0x99857A6E=~z~Clay, I'm on East Borough bridge.
-0x99857A6E=~z~Clay，我在East Borough大桥上。
+0x99857A6E=~z~Clay，我在东区大桥上。
 
 ;0x999858E2=E1E1_WA
 0x999858E2=E1E1_WA

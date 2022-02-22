@@ -18,7 +18,7 @@
 0x038F9459=~z~老夫掐指一算，今天必输无疑。改天吧。
 
 ;0x0403031C=~z~You busy? I'm thinking of going to the clubhouse.
-0x0403031C=~z~你忙吗？我正想去帮会会所玩玩。
+0x0403031C=~z~你忙吗？我正想去帮会所玩玩。
 
 ;0x0616E209=~z~This sounds weird, I know, but do you want to go see a show with me?
 0x0616E209=~z~我知道这话怪怪的，但是你想不想跟我去看演出？
@@ -90,7 +90,7 @@
 0x31CA70CE=~z~不行，兄弟。现在忙得很。
 
 ;0x32EAE0EB=~z~You wanna hang out at the clubhouse?
-0x32EAE0EB=~z~想不想去帮里的俱乐部？
+0x32EAE0EB=~z~想不想去帮会所？
 
 ;0x331495C3=~z~Good idea. Count me in. I'll meet you there.
 0x331495C3=~z~好主意，算我一个。我们会所见。
@@ -375,7 +375,7 @@
 0xB38B3A07=~z~听着，哥们。我真是受够那帮死妈天使了，得让他们看看和我们作对是啥下场。
 
 ;0xB7F5EAFF=~z~What are you up to? You want to check out what's going on at the clubhouse?
-0xB7F5EAFF=~z~在干嘛呢？想去看看帮会会所有啥活动吗？
+0xB7F5EAFF=~z~在干嘛呢？想去看看帮会所有啥活动吗？
 
 ;0xB906438B=~z~Hell yeah man. Definitely, let's eat. It'll have to be in the next couple of hours, though.
 0xB906438B=~z~太好了，哥们。那必须的，去吃饭吧。不过我就这两个钟头有空。

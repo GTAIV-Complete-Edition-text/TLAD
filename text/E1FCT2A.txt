@@ -180,7 +180,7 @@
 0x3E31D2E0=E1FCT2_ACT_E1T_CALL_DARTS_CANCELA
 
 ;0x3EF63597=~z~Hey, it's Terry. I'm heading over the clubhouse if you wanna come?
-0x3EF63597=~z~嘿，我是Terry。我现在要去帮会会所，你来不来？
+0x3EF63597=~z~嘿，我是Terry。我现在要去帮会所，你来不来？
 
 ;0x3EF6CFFA=100
 0x3EF6CFFA=100
@@ -228,7 +228,7 @@
 0x4C8A9F90=~z~想法是不错，哥们，但我现在没空。替我向Fantasia问好。
 
 ;0x4CB3D112=~z~What's going on, Johnny? Do you wanna hang at the clubhouse for a while?
-0x4CB3D112=~z~在干啥呢，Johnny？想不想去帮里的俱乐部玩会儿？
+0x4CB3D112=~z~在干啥呢，Johnny？想不想去帮会所玩会儿？
 
 ;0x4DDE3032=010
 0x4DDE3032=010
@@ -450,7 +450,7 @@
 0x9341B84B=~z~感觉不太对劲，Terry。这次我先撤了。
 
 ;0x939C8F10=~z~Johnny, it's Terry. I'm gonna hang out at the clubhouse for a while, if you're interested?
-0x939C8F10=~z~Johnny，我是Terry。我要去帮里的俱乐部转转，你有兴趣来吗？
+0x939C8F10=~z~Johnny，我是Terry。我要去帮会所转转，你有兴趣来吗？
 
 ;0x99288CE2=~z~Hey Johnny, what's going on? Do you wanna go hang out, play some air hockey?
 0x99288CE2=~z~嘿，Johnny，你在干嘛？想不想一起出去打几局桌上冰球？

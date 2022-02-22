@@ -180,7 +180,7 @@
 0x50C0F399=~z~嘿Jim，我是Johnny。
 
 ;0x51CA382A=~z~You got time to head down the clubhouse, man?
-0x51CA382A=~z~你有时间来帮会会所玩吗，哥们？
+0x51CA382A=~z~你有时间来帮会所玩吗，哥们？
 
 ;0x55E28462=100
 0x55E28462=100

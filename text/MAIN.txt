@@ -2274,7 +2274,7 @@
 0x65733F31=~z~呃...东岛城。
 
 ;0xE93E4F08=~z~Yeah, Meadows Park.
-0xE93E4F08=~z~对，Meadows Park。
+0xE93E4F08=~z~对，草地公园。
 
 ;0x96C032B7=~z~Meadow Hills
 0x96C032B7=~z~Meadow Hills。
@@ -2460,7 +2460,7 @@
 0x38FEA002=~z~Algonquin大桥。
 
 ;0x08956977=~z~East Borough Bridge.
-0x08956977=~z~East Borough大桥。
+0x08956977=~z~东区大桥。
 
 ;0xCE89F387=~z~Dukes Bay Bridge.
 0xCE89F387=~z~Dukes Bay大桥。
