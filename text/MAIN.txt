@@ -783,7 +783,7 @@
 0x75FD47DF=私生子
 
 ;0xDE1A688D=Serial Killer
-0xDE1A688D=连环杀手
+0xDE1A688D=食人魔
 
 ;0xB47362C7=Uptown Riders
 0xB47362C7=上城骑士
