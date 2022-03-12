@@ -69,7 +69,7 @@
 0x138A67B2=~z~我知道你跟我一样心痒痒，想去绅士俱乐部看小美女。
 
 ;0x14ED1870=~z~Shit, Johnny. I thought you was the only brother who could be credited for reliability. Thanks for calling at least.
-0x14ED1870=~z~妈的，Johnny。亏我当你是惟一值得信赖的兄弟。不过你至少通知我了。
+0x14ED1870=~z~妈的，Johnny。亏我当你是唯一值得信赖的兄弟。不过你至少通知我了。
 
 ;0x1526A6F8=E1FCC2_ACT_E1C_GETCALL_DRINK_YESA
 0x1526A6F8=E1FCC2_ACT_E1C_GETCALL_DRINK_YESA
