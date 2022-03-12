@@ -2349,13 +2349,13 @@
 0xB888A797=~z~对，Lower Easton。
 
 ;0x5835FD3C=~z~Easton.
-0x5835FD3C=~z~Easton.
+0x5835FD3C=~z~Easton。
 
 ;0x471CA272=~z~The Triangle.
-0x471CA272=~z~The Triangle.
+0x471CA272=~z~The Triangle。
 
 ;0xE52EE7EB=~z~The Meat Quarter.
-0xE52EE7EB=~z~The Meat Quarter.
+0xE52EE7EB=~z~The Meat Quarter。
 
 ;0x823F78FD=~z~Uhh... Presidents City.
 0x823F78FD=~z~呃... Presidents City。
@@ -2424,7 +2424,7 @@
 0xB4C5CBA7=~z~Acter Bay。
 
 ;0x784B4795=~z~Port Tudor.
-0x784B4795=~z~Port Tudor。
+0x784B4795=~z~Tudor港。
 
 ;0xC31D5C32=~z~Tudor.
 0xC31D5C32=~z~Tudor。

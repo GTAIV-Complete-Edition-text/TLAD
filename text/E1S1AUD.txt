@@ -210,7 +210,7 @@
 0x6C6058C5=SFX_PAUSE_430
 
 ;0x7097770A=~z~And thank you, best massage I ever had that didn't involve a happy ending
-0x7097770A=~z~谢谢了，这是我做过最好的按摩，事后既没有幸福地生活在一起，
+0x7097770A=~z~谢谢了，这是我做过最好的按摩，既没有性服务，
 
 ;0x7314E718=~z~You too.
 0x7314E718=~z~You too.
