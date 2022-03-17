@@ -762,7 +762,7 @@
 0x70B5A614=SFX_PAUSE_100
 
 ;0x70F0F391=~z~Not gonna waste my time with that crap. I got the brothers. All the hole I need at the house, man. Yeah!
-0x70F0F391=~z~跟女人浪费什么时间啊。老子有弟兄在，会所又有公交车，兄弟。耶！
+0x70F0F391=~z~跟女人浪费什么时间啊。老子有弟兄在，会所又有公交车。耶！
 
 ;0x715170E9=SFX_PAUSE_130
 0x715170E9=SFX_PAUSE_130
@@ -1230,7 +1230,7 @@
 0xBA21D93E=E1B6_A_KA
 
 ;0xBA4C4ED8=~z~We'll either end up dead in the ground,
-0xBA4C4ED8=~z~否则不是大家齐聚黄泉，
+0xBA4C4ED8=~z~否则不是大家相会黄泉，
 
 ;0xBA58072C=SFX_PAUSE_080
 0xBA58072C=SFX_PAUSE_080

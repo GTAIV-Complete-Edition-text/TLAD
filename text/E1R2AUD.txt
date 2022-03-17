@@ -716,7 +716,7 @@
 
 ;0xD04959F9=~z~Clay, dude, can you and Terry get your asses to the Libertonian? I need some help. I'll see you at the North door, man.
 0xD04959F9=~z~Clay，老兄，你和Terry赶紧来自由城博物馆。我需要支援。我们北门见，哥们。
-; "can you and Terry get your asses to the Libertonian?" → "grab Terrry and get your ass to Libertonian." 配音与字幕不符
+; "can you and Terry get your asses to the Libertonian?" --> "grab Terrry and get your ass to Libertonian." 配音与字幕不符
 
 ;0xD1ED9390=SFX_PAUSE_220
 0xD1ED9390=SFX_PAUSE_220
