@@ -48,7 +48,7 @@
 0x0CF79A6F=E1MF3_GB
 
 ;0x0D44B409=~z~Hammer down. Yeah.
-0x0D44B409=~z~油门拧紧。耶！	
+0x0D44B409=~z~油门拧紧。耶！
 
 ;0x0D576D00=~z~Alright, man. Let's drop the hammer on that shit. I'll be by soon.
 0x0D576D00=~z~好啊，兄弟。到时候赛场上见。有空就来。

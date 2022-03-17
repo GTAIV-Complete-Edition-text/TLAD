@@ -18,7 +18,7 @@
 0x04146807=~z~沦落到西河彼岸和你们这些蓝领打交道。
 
 ;0x05AC9D2C=~z~That's the old me. I'm clean now. I'm off the meth, and all that shit.
-0x05AC9D2C=~z~那是曾经的我。我现在清白了。我已经戒掉冰毒之类的毒品了。
+0x05AC9D2C=~z~那是曾经的我。我现在清白了。已经把冰毒之类的都戒了。
 
 ;0x072A3A05=E1MF_RC
 0x072A3A05=E1MF_RC
@@ -494,7 +494,7 @@
 ;0x78996A81=~z~Liz Torres needs a hand with something, I told her you'd be down for it.
 0x78996A81=~z~Liz Torres需要一个帮手，我跟她推荐了你。
 
-;0x	=~z~Come on, Ash, give it up. You seriously got time to dream in between your three day ice binges?
+;0x78B09DB4=~z~Come on, Ash, give it up. You seriously got time to dream in between your three day ice binges?
 0x78B09DB4=~z~得了吧，Ash，别扯了。你溜了三天冰，哪有工夫做梦啊。
 
 ;0x78F346A9=E1MF_KC
