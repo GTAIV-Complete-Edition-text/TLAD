@@ -2463,13 +2463,13 @@
 0x08956977=~z~东区大桥。
 
 ;0xCE89F387=~z~Dukes Bay Bridge.
-0xCE89F387=~z~Dukes Bay大桥。
+0xCE89F387=~z~Dukes湾大桥。
 
 ;0xC89E4CD0=~z~Hickey Bridge.
 0xC89E4CD0=~z~Hickey大桥。
 
 ;0x011F2CF0=~z~Northwood Heights Bridge.
-0x011F2CF0=~z~Northwood Heights大桥。
+0x011F2CF0=~z~Northwood高地大桥。
 
 ;0x56F72F43=~z~The Booth Tunnel.
 0x56F72F43=~z~Booth隧道。

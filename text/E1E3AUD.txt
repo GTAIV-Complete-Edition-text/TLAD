@@ -1086,7 +1086,7 @@
 0xED2FC557=E1E3_EA
 
 ;0xED4B1791=~z~You wanna go to jail homeboy? Drive!
-0xED4B1791=~z~你想进局子吗，老乡？动啊！
+0xED4B1791=~z~你想进局子吗，老兄？动啊！
 
 ;0xED5D9D1C=090
 0xED5D9D1C=090
