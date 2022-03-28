@@ -1044,7 +1044,7 @@
 0x00D44F28=Johnny，天天干正事也太无聊了。有空一起出去玩吧。
 
 ;0xE3AD14DA=All work and no play makes Johnny a dull boy. Let's hang.
-0xE3AD14DA=天天工作，没有放松，Johnny马上变笨逼。有空一起出去吧。
+0xE3AD14DA=只工作不放松，Johnny马上变笨逼。有空一起出去吧。
 
 ;0xF16AB055=Dude, you ever need some help, Terry and Clay can back you up. Just call one of em.
 0xF16AB055=老兄，要是需要支援，Terry和Clay都能帮你。需要支援就找他们。
@@ -2586,7 +2586,7 @@
 0xAAA3C86B=~z~~x~你真对这玩意感兴趣？
 
 ;0xA4EC3CFC=~z~~x~You're like a fucking parrot.
-0xA4EC3CFC=~z~~x~你怎么跟个八哥一样。
+0xA4EC3CFC=~z~~x~你怎么跟个鹦鹉一样。
 
 ;0x87280174=~z~~x~What kinda engine you got in this thing?
 0x87280174=~z~~x~你这车是什么引擎？

@@ -444,7 +444,7 @@
 0xD4495C48=~z~哟，兄弟。
 
 ;0xD7872F06=~z~It's outside the Triangle Club in Bohan. Just bring it back to the House, OK?
-0xD7872F06=~z~车在Bohan的Triangle俱乐部外面。到手了就送回会所，懂了吗？
+0xD7872F06=~z~车在Bohan的三角俱乐部外面。到手了就送回会所，懂了吗？
 
 ;0xD942A57E=100
 0xD942A57E=100
