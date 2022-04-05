@@ -939,7 +939,7 @@
 0x6706AA13=www.trainyourselftolerant.com
 
 ;0xC03AA126=CONGRESSMAN THOMAS STUBBS
-0xC03AA126=众议院THOMAS STUBBS
+0xC03AA126=众议员THOMAS STUBBS
 
 ;0x29DC29A5=Vote for me. Vote for me. Vote for me.
 0x29DC29A5=投我一票。投我一票。投我一票。
@@ -1632,10 +1632,10 @@
 0x7603AFF3=按~INPUT_DUCK~蹲下，蹲下时瞄准精度更高。
 
 ;0x70005CEE=~r~Brian has escaped to the Police station.
-0x70005CEE=~r~Brian has escaped to the Police station.
+0x70005CEE=~r~Brian逃到了警察局。
 
 ;0x9245A178=~r~You have lost Brian.
-0x9245A178=~r~You have lost Brian.
+0x9245A178=~r~你跟丢了Brian。
 
 ;0x59FB69F6=RACE ALDERNEY BEACH
 0x59FB69F6=赛车 - ALDERNEY海岸

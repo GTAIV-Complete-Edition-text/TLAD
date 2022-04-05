@@ -159,7 +159,7 @@
 0x98956275=E1S3p2_FB
 
 ;0x9ACC1B89=~z~Later on, amigo.
-0x9ACC1B89=~z~Later on, amigo.
+0x9ACC1B89=~z~回见，兄弟。
 
 ;0xA2A3DC84=E1S3p2_AH
 0xA2A3DC84=E1S3p2_AH

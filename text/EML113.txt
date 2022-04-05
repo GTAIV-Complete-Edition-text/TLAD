@@ -78,7 +78,7 @@
 0xB842E36A=爱你的妈妈。
 
 ;0xC39B9517=My son,
-0xC39B9517=My son,
+0xC39B9517=我的儿子，
 
 ;0xD27A97DD=Tvoja voljena majka.
 0xD27A97DD=爱你的妈妈。

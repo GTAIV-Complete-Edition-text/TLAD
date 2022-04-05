@@ -684,7 +684,7 @@
 0xE2A779AF=~z~干他丫的，弟兄们。
 
 ;0xE2F7DD18=~z~They're in Bohan moving a vehicle at the moment.
-0xE2F7DD18=~z~They're in Bohan moving a vehicle at the moment.
+0xE2F7DD18=~z~他们现在在Bohan运送车辆。
 
 ;0xE3DCEE21=E1FCJ3_ACT_E1_GW_ATTACK_GANGA
 0xE3DCEE21=E1FCJ3_ACT_E1_GW_ATTACK_GANGA
