@@ -867,7 +867,7 @@
 0xDC96F4D8=www.highmenspacetours.com
 
 ;0x55AE4C13=ECO ELITE VACATIONS
-0x55AE4C13=绿色精英行
+0x55AE4C13=生态精英行
 
 ;0xF81B4620=Because you can afford to care.
 0xF81B4620=因为你可以在乎。
@@ -894,7 +894,7 @@
 0xB1153E2F=www.globeoil.net
 
 ;0x88E3B279=HIGHMEN SPACE TOURS
-0x88E3B279=HIGHMEN太空游
+0x88E3B279=HIGHMEN太空之旅
 
 ;0x4114D816=Breaking the barrier. Visiting the void. If only for a fleeting moment.
 0x4114D816=突破障碍，探索太空，哪怕只有一瞬间。

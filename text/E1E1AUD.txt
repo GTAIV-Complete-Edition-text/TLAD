@@ -832,7 +832,7 @@
 0x7D8C3C83=~z~妈的，兄弟。让你出门不带硬币。我马上就来。
 
 ;0x7E2BCB09=~z~Man, Clay, you psychic or something? But this will be worth your while, Brother.
-0x7E2BCB09=~z~我去，Clay，你是会读心吗？这次来了就是赚到，兄弟。
+0x7E2BCB09=~z~我去，Clay，你是会读心术吗？这次来了就是赚到，兄弟。
 
 ;0x7EF27CF7=SFX_PAUSE_150
 0x7EF27CF7=SFX_PAUSE_150
