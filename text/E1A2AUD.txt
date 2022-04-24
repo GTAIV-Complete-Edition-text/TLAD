@@ -393,7 +393,7 @@
 0x316F7CD7=100
 
 ;0x31994BB2=~z~I'm hoping he ain't too good at poker. Hell, if we're here because of his debts, he can't exactly be the Buffet Car.
-0x31994BB2=~z~希望他牌技没那么好。妈的，他都欠债到要被人绑架了，总不能是开心大赢家吧。
+0x31994BB2=~z~希望他牌技没那么好。妈的，他都欠债到要被人绑架了，总不能是赌神吧。
 
 ;0x32A8C148=E1A2_KA
 0x32A8C148=E1A2_KA

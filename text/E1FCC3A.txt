@@ -597,7 +597,7 @@
 0x91A42287=~z~你家小骚逼想要我操，你就生气了。
 
 ;0x91A94183=~z~I think they can prescribe some mild amphetamines for your attention disorder, John.
-0x91A94183=~z~我觉得你可以去配点安非他明用来集中注意力，John。
+0x91A94183=~z~我觉得你可以去配点安非他命用来集中注意力，John。
 
 ;0x922C8DF8=E1FCC3_ACT_SHOW_LEAVE_ABANDONEDA
 0x922C8DF8=E1FCC3_ACT_SHOW_LEAVE_ABANDONEDA
