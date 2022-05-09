@@ -2292,7 +2292,7 @@
 0x2B0D828A=~z~Beechwood City。
 
 ;0x48AA603D=~z~Uhh... Downtown.
-0x48AA603D=~z~呃... Downtown。
+0x48AA603D=~z~呃...中心区。
 
 ;0x357565B1=~z~East Hook.
 0x357565B1=~z~East Hook。
@@ -2409,7 +2409,7 @@
 0xBBFD1BDE=~z~对，Leftwood。
 
 ;0xC1046A8A=~z~Alderney City.
-0xC1046A8A=~z~Alderney City。
+0xC1046A8A=~z~Alderney市。
 
 ;0xE9EA4C0D=~z~Berchem.
 0xE9EA4C0D=~z~Berchem。

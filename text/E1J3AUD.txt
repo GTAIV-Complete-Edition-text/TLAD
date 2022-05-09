@@ -372,7 +372,7 @@
 0xB6B698F0=E1J3_C_FA
 
 ;0xB6BE184A=~z~There's a guy detailing it like he knows it's for sale or something. Outside the tattoo guy in Alderney City.
-0xB6BE184A=~z~车主正在洗车，这不正好要帮他卖车吗。车在Alderney City的纹身店外面。
+0xB6BE184A=~z~车主正在洗车，这不正好要帮他卖车吗。车在Alderney市的纹身店外面。
 
 ;0xB7230B33=~z~Looks like I'll be able to afford that hardware I was after. You did good, my brother.
 0xB7230B33=~z~这下有钱买一直想要的大件了。干得漂亮，好兄弟。
