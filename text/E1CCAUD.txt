@@ -180,13 +180,13 @@
 0x3B99E54C=~z~一早醒来，兜里钱少了，
 
 ;0x3C1F8112=~z~Or, to put it another way, scientists have got a lot of fucking time on their hands.
-0x3C1F8112=~z~换个说法就是，这些科学家都他妈闲着蛋疼。
+0x3C1F8112=~z~换句话说，这些科学家都他妈闲着蛋疼。
 
 ;0x40D5D682=~z~I mean admittedly, if you've got a woman who doesn't know what she's doing,
 0x40D5D682=~z~说句实话，如果撸你的女人没有经验，
 
 ;0x414BD19E=~z~I was having breakfast with my daughter a couple of weeks ago,
-0x414BD19E=~z~几周前我跟女儿吃早饭的时候，
+0x414BD19E=~z~几周前跟女儿吃早饭的时候，
 
 ;0x418496F5=~z~of actually fucking them.
 0x418496F5=~z~实战操作。
@@ -285,7 +285,7 @@
 0x5F620DDE=~z~「没跟你说话，哥们，我在跟奶酪说话。」
 
 ;0x60DD4E25=~z~and you don't have to wake anybody up.
-0x60DD4E25=~z~就可以神不知鬼不觉了。
+0x60DD4E25=~z~就能神不知鬼不觉了。
 
 ;0x625AB790=~z~before I got bored and started fucking stuff.
 0x625AB790=~z~太无聊的话我就要开操了。
@@ -345,7 +345,7 @@
 0x7935E503=~z~「噢，太棒了，你很冷啊。
 
 ;0x7AB0CC77=~z~well you're not allowed to go, "let's just call it a draw".
-0x7AB0CC77=~z~这会儿可不能说：「这次算是平局」啊。
+0x7AB0CC77=~z~可不能说：「这次算是平局」啊。
 
 ;0x7AFFE523=~z~because it might be homophobic.
 0x7AFFE523=~z~万一别人恐同呢。
@@ -393,7 +393,7 @@
 0x894981B6=~z~我看还是改叫「断背川」吧。
 
 ;0x89B9628C=~z~And this guy beside me got really angry!
-0x89B9628C=~z~我旁边一人就很生气！
+0x89B9628C=~z~旁边那人就很生气！
 
 ;0x8AB41577=~z~You'll leave here with an asshole like a yawning hippo's mouth.
 0x8AB41577=~z~散场的时候我让你的屁眼表演个河马张嘴。
@@ -438,7 +438,7 @@
 0x93223EB3=~z~还有个输入联想，「强奸」。
 
 ;0x93462F52=~z~I'll never wear a blindfold again.
-0x93462F52=~z~以后我不戴眼罩了。
+0x93462F52=~z~以后不能戴眼罩了。
 
 ;0x93E81A67=~z~and they try to get heat off you?"
 0x93E81A67=~z~这样很讨厌吧？」
@@ -543,7 +543,7 @@
 0xA838A786=~z~男人就觉得性感，
 
 ;0xA8679FE8=~z~and I picked up the cheese and I went "Hello, Mr. Cheese!"
-0xA8679FE8=~z~我拿起盒奶酪后，就说：「你好，奶酪先生！」
+0xA8679FE8=~z~我拿起盒奶酪就说：「你好，奶酪先生！」
 
 ;0xA99BF52E=~z~but I hate it when they're always boasting about what they did in the war.
 0xA99BF52E=~z~但我不喜欢听他们吹嘘自己当兵的时候怎样怎样。
@@ -618,7 +618,7 @@
 0xBF677EDD=~z~Split Sides喜剧俱乐部，欢迎Frankie Boyle！
 
 ;0xC0C75663=~z~It was the only time he ever told me he loved me.
-0xC0C75663=~z~那是他唯一一次说他爱我。
+0xC0C75663=~z~那是他唯一一次说爱我。
 
 ;0xC2C77958=~z~I suppose, maybe someone without a dog?
 0xC2C77958=~z~没养狗的人捡屎？
@@ -711,7 +711,7 @@
 0xDFDD9357=~z~被她撸就有点像得了帕金森的人
 
 ;0xE00F16CA=~z~Especially if you get them little cute tops that say "Future DJ", that kind of thing.
-0xE00F16CA=~z~娃衣服上最好还写着，「未来DJ」之类的。
+0xE00F16CA=~z~娃衣服上最好还写着「未来DJ」之类的。
 
 ;0xE01F59C4=~z~Do you know what I hate, right?
 0xE01F59C4=~z~猜猜我讨厌什么？
@@ -777,7 +777,7 @@
 0xF5BE8296=~z~听说是强奸犯，就有点怕了。
 
 ;0xF7208CEE=~z~If you don't like that, you're going to fucking hate this next bit.
-0xF7208CEE=~z~听着不高兴的话，接下来这个你也会讨厌的。
+0xF7208CEE=~z~听着不高兴的话，接下来的话题你也会讨厌的。
 
 ;0xF82E4534=~z~Don't know why I've done that as an Al Jolson number there -
 0xF82E4534=~z~反正我当时是用艾尔乔森的腔调说的，
@@ -792,7 +792,7 @@
 0xFA729B0F=~z~她看上去就一副能把你做成手撕鸡的样子。
 
 ;0xFABF4C96=~z~Must be a point where you bring it up in conversation over dinner, or something.
-0xFABF4C96=~z~肯定是哪天你跟她吃饭之类的时候提到了。
+0xFABF4C96=~z~肯定是哪天跟她吃饭之类的时候提到了。
 
 ;0xFB89CF07=~z~Starting to get a bit fucking sick of him to be honest.
 0xFB89CF07=~z~现在已经有点被他整烦了。
