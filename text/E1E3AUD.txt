@@ -1023,7 +1023,7 @@
 0xE27D567A=~z~好，走了。
 
 ;0xE2A83301=~z~Here he is. You want to help him oversee a simple exchange?
-0xE2A83301=~z~就是我。你想帮盯一场我简单的交易吗？
+0xE2A83301=~z~就是我。你想帮我盯一场简单的交易吗？
 
 ;0xE31CB8F4=E1E3_B_BA
 0xE31CB8F4=E1E3_B_BA

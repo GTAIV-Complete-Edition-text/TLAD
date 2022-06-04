@@ -327,7 +327,7 @@
 0x3268FEEE=SFX_PAUSE_280
 
 ;0x330DC9D7=~z~Tell him that. Then we'll see how psycho he is.
-0x330DC9D7=~z~放话给他，看看他老爹到底有多疯。
+0x330DC9D7=~z~放话给他，看看她老爹到底有多疯。
 
 ;0x338B2DDB=~z~Brothers aren't meant to be this close, Johnny. But we're gonna have to be until I get my bike back.
 0x338B2DDB=~z~是兄弟也不带贴这么紧的，Johnny。但拿回车子前只能这样凑合了。
@@ -501,7 +501,7 @@
 0x46E41C3A=~z~弟兄们，这次的活不能没我在，可能会搞砸的。
 
 ;0x472A22A4=~z~Easy, John.
-0x472A22A4=~z~放松，John。
+0x472A22A4=~z~悠着点，John。
 
 ;0x4765C6EC=~z~Can you see something I can't? Why're we stopped?
 0x4765C6EC=~z~你是看见鬼了吗？停下来干嘛？
@@ -1566,7 +1566,7 @@
 0xCB8C1321=E1B1_XC
 
 ;0xCBE733C1=~z~If you're in The Lost for the good times only, fair weather weekends in the Carraways, then you ain't in The Lost.
-0xCBE733C1=~z~如果你加入失落帮只是为了同甘，不能接受共苦，那你就不算失落帮的兄弟。
+0xCBE733C1=~z~如果你加入失落帮只是为了同甘，不能接受共苦，那就不算失落帮的兄弟。
 
 ;0xCC9C17FA=E1B1_A_DD
 0xCC9C17FA=E1B1_A_DD
@@ -1635,7 +1635,7 @@
 0xD6C6C69B=SFX_PAUSE_190
 
 ;0xD704918B=~z~Thank you for sharing! And now what's it feel like to you, Jonathan?
-0xD704918B=~z~感谢你的分享！那现在你是什么感觉，Jonathan？
+0xD704918B=~z~感谢你的分享！那现在是什么感觉，Jonathan？
 
 ;0xD738C9AF=E1B1_A_DL
 0xD738C9AF=E1B1_A_DL

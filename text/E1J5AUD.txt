@@ -523,7 +523,7 @@
 0xBF5400E2=~z~找掩体，Johnny！
 
 ;0xBFF06FBA=~z~Yeah. Maybe. See you soon, brother.
-0xBFF06FBA=~z~是啊。应该吧。待会儿见，兄弟。
+0xBFF06FBA=~z~是啊。应该吧。之后见，兄弟。
 
 ;0xC10BB50B=E1J5_EA
 0xC10BB50B=E1J5_EA

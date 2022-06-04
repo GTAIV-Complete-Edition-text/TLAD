@@ -6,7 +6,7 @@
 0x045A0021=~z~懂了，兄弟。我马上到。
 
 ;0x0A85BBF5=~z~Don't worry, man. I'll give one of the other boys a call. See you later.
-0x0A85BBF5=~z~没关系，哥们。我找其他弟兄问问吧。一会儿见。
+0x0A85BBF5=~z~没关系，哥们。我找其他弟兄问问吧。再见。
 
 ;0x0B03EC1F=010
 0x0B03EC1F=010
