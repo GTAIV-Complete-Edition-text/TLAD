@@ -240,7 +240,7 @@
 0x70335FF2=~z~Clay Simons先生。
 
 ;0x709A933F=~z~Johnny K. I will see you at the house.
-0x709A933F=~z~Johnny K。我在会所见你。
+0x709A933F=~z~Johnny K。我们会所见。
 
 ;0x76A4438F=010
 0x76A4438F=010

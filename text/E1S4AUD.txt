@@ -519,7 +519,7 @@
 0x4EC39953=~z~Jim一眨眼就能把这些贱逼干翻。
 
 ;0x4EFFA3B2=~z~I guess I just got too amped up before getting on in there. I'll see you soon.
-0x4EFFA3B2=~z~我寻思我进去之前太激动了。再见了。
+0x4EFFA3B2=~z~可能是我进去之前太激动了。再见了。
 
 ;0x4F119E95=092
 0x4F119E95=092

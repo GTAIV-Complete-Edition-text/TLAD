@@ -930,10 +930,10 @@
 0x3956CEB4=www.morningwoodspa.com
 
 ;0xD1C94443=TRAIN YOURSELF TOLERANT
-0xD1C94443=学会容忍
+0xD1C94443=学会无懈可击
 
 ;0x7808C601=Sensitivity training for the office.
-0x7808C601=职场话题敏感度训练。
+0x7808C601=职场敏感度训练。
 
 ;0x6706AA13=www.trainyourselftolerant.com
 0x6706AA13=www.trainyourselftolerant.com
