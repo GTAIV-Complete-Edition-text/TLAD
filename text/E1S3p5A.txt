@@ -30,7 +30,7 @@
 0x13F79E2F=~z~我们有政府的任务。
 
 ;0x14A05583=~z~Thanks for the info. And I thought guys like me were the scourge of society.
-0x14A05583=~z~谢谢你的情报。我觉得像我这样的人真的是社会毒瘤。
+0x14A05583=~z~谢谢你的情报。我还以为我这样的人才算社会毒瘤。
 
 ;0x15265489=E1S3p5_QA
 0x15265489=E1S3p5_QA

@@ -534,7 +534,7 @@
 0x81FA39CA=100
 
 ;0x82008D4D=~z~Come on, get us out of here.
-0x82008D4D=~z~快点，带我们离开这儿。
+0x82008D4D=~z~快点，带我们逃出去。
 
 ;0x82944803=~z~No time for tyre kicking. You guys will get to know each other soon enough.
 0x82944803=~z~没时间开玩笑了。你们马上就会熟络起来的。
@@ -1065,7 +1065,7 @@
 0xEAE1EB67=~z~枪法不是盖的。
 
 ;0xEB0A8204=~z~Get your wrench out, pig.
-0xEB0A8204=~z~找把扳手吧，条子。
+0xEB0A8204=~z~一边歇着吧，条子。
 
 ;0xEB3C7236=~z~Whooo, there she go.
 0xEB3C7236=~z~呜呼，起飞。

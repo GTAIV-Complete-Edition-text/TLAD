@@ -688,7 +688,7 @@
 0x9E7C8D38=~z~告诉我，兄弟。没有车子，老子带领个屁飞车党？
 
 ;0x9F6A4807=~z~They was mad but, see, there was only two of them.
-0x9F6A4807=~z~他们暴叫如雷，不过，他们就两个人。
+0x9F6A4807=~z~他们暴叫如雷，不过他们就两个人。
 
 ;0xA006A4F6=~z~Hey Dave, forgive me, man -
 0xA006A4F6=~z~嘿Dave，抱歉，伙计，
@@ -959,7 +959,7 @@
 ;o-witz应该有个梗或者什么含义在里面 Brian给Johnny用了3次这个后缀 但我不知道什么意思
 
 ;0xDE6BABEB=~z~He's cool - he's a lawyer - he can help us with shit.
-0xDE6BABEB=~z~他很牛，他是个律师，能帮我们摆平点破事。
+0xDE6BABEB=~z~他很牛，他是个律师，能帮我们摆平些事。
 
 ;0xDEF8BEF3=~z~In short - the kinda of man I'd want to be.
 0xDEF8BEF3=~z~说白了——就是我想成为的那种人。
