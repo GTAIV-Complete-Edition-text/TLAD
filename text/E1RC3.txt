@@ -24,7 +24,7 @@
 0x97773176=骑上你的摩托，追击~r~Brian。
 
 ;0xB903561F=Take out ~r~Brian ~s~and his ~r~faction.
-0xB903561F=干掉~r~Brian~s~和他的~r~同伙。
+0xB903561F=干掉~r~Brian~s~和他的~r~同党。
 
 ;0xBCCD54C6=~r~You hurt Brian.
 0xBCCD54C6=~r~你伤害了Brian。

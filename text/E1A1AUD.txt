@@ -186,7 +186,7 @@
 0x38BC7282=~z~来吧。
 
 ;0x38F0FCA6=~z~Hit me or something. Teach me I'm wrong.
-0x38F0FCA6=~z~比如说打我一顿。让我知错。
+0x38F0FCA6=~z~你可以打我一顿。让我知错。
 
 ;0x3A22082C=SFX_PAUSE_190
 0x3A22082C=SFX_PAUSE_190
@@ -360,7 +360,7 @@
 0x7F79390A=E1A1_IA
 
 ;0x8019516C=~z~You here, Johnny?
-0x8019516C=~z~你在吗，Johnny？
+0x8019516C=~z~到了吗，Johnny？
 
 ;0x804716CF=~z~You, me and that little habit of yours.
 0x804716CF=~z~你、我，还有你的小毒瘾。

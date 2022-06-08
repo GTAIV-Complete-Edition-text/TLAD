@@ -699,7 +699,7 @@
 0xBFE32D5F=SFX_PAUSE_420
 
 ;0xC1D86A92=~z~Call me if you feel up to it, sport. Bye now.
-0xC1D86A92=~z~有心情就联系我吧，哥们。拜啦。
+0xC1D86A92=~z~有兴趣就联系我吧，哥们。拜啦。
 
 ;0xC1FD182E=~z~Please call back. We thank you for your business.
 0xC1FD182E=~z~请稍后再拨。感谢您的光临。

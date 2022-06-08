@@ -327,7 +327,7 @@
 0xDA9B0BE3=RPi1_EC
 
 ;0xDB66D065=~z~But all the people that were killed, and all the shit we've been through,
-0xDB66D065=~z~那那些为此而死的弟兄、血雨腥风的内战，
+0xDB66D065=~z~那那些为此而死的弟兄，血雨腥风的内战，
 
 ;0xDB8385F8=~z~Yeah, I've been you know, hanging with some dudes. I miss Billy, you know.
 0xDB8385F8=~z~我其实跟着几个哥们混着。我还挺想Billy的。

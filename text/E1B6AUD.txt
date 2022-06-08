@@ -1341,7 +1341,7 @@
 0xC995C4A7=~z~跟紧了，弟兄们。
 
 ;0xCB614997=~z~Fuck 'em, man. The two of us are chapter enough and Terry 'n' Clay will back you up when you need it.
-0xCB614997=~z~去他妈的，兄弟。只有我们两个人就是分部了，而且Terry和Clay也会在需要的时候支援你。
+0xCB614997=~z~去他妈的，兄弟。光靠我们两个人都是分部了，而且Terry和Clay也会在需要的时候支援你。
 
 ;0xCB8163A6=E1B6_A_MA
 0xCB8163A6=E1B6_A_MA
