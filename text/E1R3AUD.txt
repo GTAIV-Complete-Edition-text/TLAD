@@ -234,7 +234,7 @@
 0x4FD90487=E1R3_LA
 
 ;0x50E1B2F8=~z~Ray ain't gonna have many friends left after this.
-0x50E1B2F8=~z~这票之后，Ray的朋友就很少了。
+0x50E1B2F8=~z~这票之后，Ray就没多少朋友了。
 
 ;0x52F3D9C1=~z~Nah.
 0x52F3D9C1=~z~没。
@@ -378,7 +378,7 @@
 0x85CAE027=E1R3_UA
 
 ;0x86917B37=~z~How much is Ray paying you to kill me?
-0x86917B37=~z~杀我Ray给了你们多少钱？
+0x86917B37=~z~Ray花多少钱雇你们杀我？
 
 ;0x869CA745=~z~Yo, Clay. Remind me why we're always helping Johnny out of trouble.
 0x869CA745=~z~哟，Clay。告诉我为啥咱们老给Johnny擦屁股。
@@ -567,7 +567,7 @@
 0xD170732C=~z~你们最好比上一批人下手狠点。
 
 ;0xD3CF9F98=~z~Mucho gusto, my brothers. I got to call on Ashley.
-0xD3CF9F98=~z~谢了，兄弟们。我得给Ashley打个电话。
+0xD3CF9F98=~z~谢了，兄弟们。我去找一趟Ashley。
 
 ;0xD5EB19F1=~z~The Lost MC know more about family than you Italian cocksuckers.
 0xD5EB19F1=~z~失落帮比你们意大利混蛋更明白手足情深。

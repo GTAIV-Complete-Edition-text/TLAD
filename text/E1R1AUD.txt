@@ -447,7 +447,7 @@
 0x92CD979D=~z~没啥。Ray是我朋友，他...
 
 ;0x9353DB0F=~z~There should be a good profit in it for The Lost MC if this comes through,
-0x9353DB0F=~z~要是这票成了，咱们帮就能大赚一笔了，
+0x9353DB0F=~z~要是这票成了，咱们帮就能大赚一笔了。
 
 ;0x93A3D2B3=E1R1_IA
 0x93A3D2B3=E1R1_IA

@@ -534,7 +534,7 @@
 0xC0BC4EF1=~z~Terry，哥们，你真牛啊。
 
 ;0xC0EDF96A=~z~Okay, this will do the trick.
-0xC0EDF96A=~z~好嘞。这东西好用。
+0xC0EDF96A=~z~好啊。这东西好用。
 
 ;0xC6B12117=~z~Johnny, man. I hope that SOB you're after deserves it.
 0xC6B12117=~z~Johnny，哥们。希望你要去找麻烦的人是真的欠揍。 
