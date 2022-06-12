@@ -12,7 +12,7 @@
 0x0AA578D1=~z~得了，出发了。
 
 ;0x0ABB326A=~z~If I could use my legs, I'd jump for joy Johnny boy. Later on, Brother.
-0x0ABB326A=~z~要不是腿瘸了，我就高兴得跳起来了，Johnny。待会儿见，兄弟。
+0x0ABB326A=~z~要不是腿瘸了，我就高兴得跳起来了，Johnny。之后见，兄弟。
 
 ;0x0EDED05F=E1J3_C_GA
 0x0EDED05F=E1J3_C_GA

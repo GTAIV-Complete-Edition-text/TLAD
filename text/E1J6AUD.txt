@@ -654,7 +654,7 @@
 0xCD25CF8D=E1J6_MB
 
 ;0xCDF18976=~z~I know what you mean. Let's just hope he's not planning anything else. Later on, man.
-0xCDF18976=~z~我懂你的意思。希望他不要打其他小算盘。待会见，兄弟。
+0xCDF18976=~z~我懂你的意思。希望他不要打其他小算盘。下次见，兄弟。
 
 ;0xCEFCFC88=E1J6_HA
 0xCEFCFC88=E1J6_HA

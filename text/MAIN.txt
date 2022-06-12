@@ -2370,7 +2370,7 @@
 0x46E66724=~z~Purgatory。
 
 ;0x8E3612FC=~z~Star Junction.
-0x8E3612FC=~z~Star Junction。
+0x8E3612FC=~z~星汇广场。
 
 ;0x5E2E1AF0=~z~Hatton Gardens.
 0x5E2E1AF0=~z~Hatton Gardens。
@@ -2475,7 +2475,7 @@
 0x56F72F43=~z~Booth隧道。
 
 ;0x1D0500CF=~z~Uhh... Leaper's Bridge.
-0x1D0500CF=~z~呃... Leaper大桥。
+0x1D0500CF=~z~呃...纵身大桥。
 
 ;0x302489B6=~z~~x~Man... I dunno right now. Shit, I'll call you back.
 0x302489B6=~z~~x~天...我也不知道。妈的，之后再打过来。
