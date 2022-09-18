@@ -222,7 +222,7 @@
 0x2F34D84D=E1E3_A_MA
 
 ;0x2FBD7B5B=~z~You hungry, Malc? Wanna dog?
-0x2FBD7B5B=~z~你饿吗，Mlac？吃热狗不？
+0x2FBD7B5B=~z~你饿吗，Malc？吃热狗不？
 
 ;0x312B0DEE=090
 0x312B0DEE=090
