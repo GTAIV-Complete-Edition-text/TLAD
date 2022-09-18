@@ -1179,7 +1179,7 @@
 0x756F1019=我有活给你和 Malc 做。过来找我。 - Liz
 
 ;0x888CB654=A friend of mine asked me to pass on the number of her boyfriend's cab business. It's called Bellic Enterprises and it's 555-2222. - Liz
-0x888CB654=一个朋友让我帮忙宣传她男友的叫车服务。Bellic集团，号码 555-2222。 - Liz
+0x888CB654=朋友让我帮忙宣传她男友的叫车服务。Bellic集团，号码 555-2222。 - Liz
 
 ;0xDACC5AD2=PLACEHOLDER
 0xDACC5AD2=PLACEHOLDER
