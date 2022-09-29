@@ -789,7 +789,7 @@
 0x7594E2AA=~z~我们要离开这里。滚开。
 
 ;0x75E094DC=~z~I told you I was good for a favor.
-0x75E094DC=~z~我说了，我是个好帮手。
+0x75E094DC=~z~我说过，我知恩图报。
 
 ;0x763441D6=E1S4_A_BA
 0x763441D6=E1S4_A_BA
@@ -1086,7 +1086,7 @@
 0x9D226B13=~z~对。这才是你的麻烦所在，哥们。
 
 ;0x9D65580E=~z~Let's go back to the house. There's one more thing we gotta do.
-0x9D65580E=~z~回帮会所吧。这是咱得做的最后一件事了。
+0x9D65580E=~z~回帮会所吧。还有最后一件事要做。
 
 ;0x9DCF8AA2=SFX_PAUSE_320
 0x9DCF8AA2=SFX_PAUSE_320
@@ -1116,7 +1116,7 @@
 0xA291108C=E1S4_B_DA
 
 ;0xA2FB005D=~z~That shit needed to be done. Billy needed to be shut up.
-0xA2FB005D=~z~他的死是迫不得已，Billy必须保持沉默。
+0xA2FB005D=~z~攻打监狱是迫不得已，Billy必须保持沉默。
 
 ;0xA5B0B563=~z~The laundry van is back. Open up.
 0xA5B0B563=~z~洗衣房的货车回来了，开下门。
@@ -1236,7 +1236,7 @@
 0xC6F80F66=~z~冷静点，兄弟们。说不定能扛过这波。
 
 ;0xC75DC922=~z~Funny thing is, five years ago he woulda lead the charge into Alderney State himself.
-0xC75DC922=~z~可笑的是，五年前的他还会自己一个人去蹲苦窑。
+0xC75DC922=~z~可笑的是，放五年前他还会亲自带队杀进监狱灭口叛徒。
 
 ;0xC76741B5=300
 0xC76741B5=300
@@ -1386,7 +1386,7 @@
 0xDFBB3F54=~z~都是人性向恶的那一面，
 
 ;0xE07777F5=~z~Sorry, we forgot to knock.
-0xE07777F5=~z~抱歉，咱忘记敲门了。
+0xE07777F5=~z~抱歉，忘记敲门了。
 
 ;0xE178467B=~z~Thanks for bringing the bikes.
 0xE178467B=~z~谢谢你送车来。

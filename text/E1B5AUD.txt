@@ -333,7 +333,7 @@
 0xC7B110F1=SFX_PAUSE_480
 
 ;0xC8114615=~z~This guy's at one of them dumb ass gentlemen's clubs in Algonquin - the kind without tits - The Jousters.
-0xC8114615=~z~这位议员现在在Algonquin的一家绅士俱乐部——没娘们的那种——枪斗士。
+0xC8114615=~z~这位议员现在在Algonquin的一家绅士俱乐部——不露奶的那种——枪斗士。
 
 ;0xC8352F17=~z~We're nervous. Will you oversee the deal and check everything is cool?
 0xC8352F17=~z~我们很担心。你能帮忙盯下这次交易，确保一切顺利吗？
@@ -387,7 +387,7 @@
 0xF2D3E7A2=400300
 
 ;0xF75B30C2=~z~would take you for the little pussy that you are and rob you blind.
-0xF75B30C2=~z~都会把你当成草包，再把你骗个精光。
+0xF75B30C2=~z~都会把你当成草包，再把你抢个精光。
 
 ;0xFB3A3DE3=492
 0xFB3A3DE3=492

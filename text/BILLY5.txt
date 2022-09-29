@@ -15,7 +15,7 @@
 0x51E36389=~r~Brian死了。
 
 ;0x5A75073B=~r~Brian's van has been wrecked.
-0x5A75073B=~r~Brian的面包车被毁了。
+0x5A75073B=~r~Brian的货车被毁了。
 
 ;0x619BBE81=Get on your ~b~bike.
 0x619BBE81=骑上你的~b~摩托。

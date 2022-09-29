@@ -150,7 +150,7 @@
 0x4D7A8DCA=SFX_PAUSE_230
 
 ;0x4EEECDBD=~z~Trust me man, nothing would please me more,
-0x4EEECDBD=~z~相信我，哥们，我是不会得意的。
+0x4EEECDBD=~z~相信我，哥们，我也想直接出去。
 
 ;0x509A5A5A=SFX_PAUSE_360
 0x509A5A5A=SFX_PAUSE_360
@@ -384,7 +384,7 @@
 0xC2BE1C52=~z~才能正视镜中的自己。
 
 ;0xC3593C5C=~z~I am what I am, but I look out for those who help me.
-0xC3593C5C=~z~我就是我，但我不会忘恩。
+0xC3593C5C=~z~我就是我，但我知恩图报。
 
 ;0xC695DEE3=E1S1_DC
 0xC695DEE3=E1S1_DC

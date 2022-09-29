@@ -429,7 +429,7 @@
 0x64C0187A=E1MF_NG
 
 ;0x6749D34D=~z~This guy's at one of them dumb ass gentlemen's clubs in Algonquin - the kind without tits - The Jousters.
-0x6749D34D=~z~这位议员现在在Algonquin的一家绅士俱乐部——没娘们的那种——枪斗士。
+0x6749D34D=~z~这位议员现在在Algonquin的一家绅士俱乐部——不露奶的那种——枪斗士。
 
 ;0x6897B342=E1MF_BA
 0x6897B342=E1MF_BA

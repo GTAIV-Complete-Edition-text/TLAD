@@ -423,7 +423,7 @@
 0x4282E8B3=~z~操你妈！
 
 ;0x4338A1F4=~z~I'm not the one with an authority problem, Johnny.
-0x4338A1F4=~z~看来跪舔权威的人不是我啊，Johnny。
+0x4338A1F4=~z~平时质疑权威的人又不是我，Johnny。
 
 ;0x437E1BAD=SFX_PAUSE_120
 0x437E1BAD=SFX_PAUSE_120
@@ -483,7 +483,7 @@
 0x4B651A02=~z~我们可以开始交易了吧？
 
 ;0x4C2FDB64=~z~They saw him and they've been calling him...
-0x4C2FDB64=~z~他们见了面，条子就一直打电话找他...
+0x4C2FDB64=~z~被盯上以后，条子就一直打电话找他...
 
 ;0x4C70FE64=SFX_PAUSE_100
 0x4C70FE64=SFX_PAUSE_100
@@ -837,7 +837,7 @@
 0x7C15E187=E1B6_A_KC
 
 ;0x7C9A4D7D=~z~given the fact that we can't even stop fighting amongst ourselves!
-0x7C9A4D7D=~z~只会证明飞车党之间都处理不好关系！
+0x7C9A4D7D=~z~更何况我们失落帮内部都还是剑拔弩张！
 
 ;0x7CCDBA2F=E1B6_OC
 0x7CCDBA2F=E1B6_OC
