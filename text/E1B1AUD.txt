@@ -1014,7 +1014,7 @@
 0x8773AD09=~z~你就是不明白是吧？尊重才是最重要的。尊重，与钱无关。
 
 ;0x87C2766C=~z~Religion, Billy. Religion. I gave up with faith.
-0x87C2766C=~z~是宗教，Billy。宗教。信仰我早放弃了。
+0x87C2766C=~z~是宗教，Billy。宗教而已。我早就不信了。
 
 ;0x87D5EB26=SFX_PAUSE_330
 0x87D5EB26=SFX_PAUSE_330

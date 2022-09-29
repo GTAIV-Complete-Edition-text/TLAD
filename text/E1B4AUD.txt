@@ -237,7 +237,7 @@
 0x31222E58=~z~楼梯上有人，Johnny。
 
 ;0x31647A49=~z~The faster we go, the harder we hit it,
-0x31647A49=~z~我们速度越快，努力越大，
+0x31647A49=~z~我们速度越快，声势越大，
 
 ;0x31929822=~z~Watch your backs. The AOD are on their bikes.
 0x31929822=~z~都当心点，死亡天使骑着车来了。

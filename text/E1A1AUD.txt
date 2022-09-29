@@ -195,7 +195,7 @@
 0x3AC766F3=E1A1_NM
 
 ;0x3B08E0C9=~z~Come on, baby. That's crap and you know it.
-0x3B08E0C9=~z~拜托，宝贝。吸毒不好，你知道的。
+0x3B08E0C9=~z~拜托，宝贝。别骗人了，你自己清楚。
 
 ;0x3B1418E0=E1A1_WC
 0x3B1418E0=E1A1_WC

@@ -624,7 +624,7 @@
 0xDFAE3079=~z~听懂了没？不关平民什么事。
 
 ;0xE446A272=~z~Jesus, probably got half the wiseguys on the East coast following you right now.
-0xE446A272=~z~天，可能东海岸一半的黑手党都盯着你呢。
+0xE446A272=~z~天，可能东海岸一半的黑帮都盯着你呢。
 
 ;0xE5603BE5=~z~Well I imagine that happens quite often with you, Ray.
 0xE5603BE5=~z~我看你经常有这种「利益冲突」吧，Ray。
