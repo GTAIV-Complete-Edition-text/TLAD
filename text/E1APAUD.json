@@ -1,0 +1,76 @@
+{
+    "E1APAUD": [
+        {
+            "hash": 153465779,
+            "original": "~z~ANSWER PHONE: I'm not available just now.",
+            "translated": "~z~自动应答：暂时没空捏。",
+            "desc": ""
+        },
+        {
+            "hash": 449881077,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 647335981,
+            "original": "E1AP_AA",
+            "translated": "E1AP_AA",
+            "desc": ""
+        },
+        {
+            "hash": 835588966,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 864828027,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1239489329,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1247989258,
+            "original": "~z~I'm on the computer. Email me instead.",
+            "translated": "~z~我在上网，给我发邮件吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1447481453,
+            "original": "E1AP_BA",
+            "translated": "E1AP_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2016916127,
+            "original": "E1AP_RA",
+            "translated": "E1AP_RA",
+            "desc": ""
+        },
+        {
+            "hash": 2581803691,
+            "original": "E1AP_CA",
+            "translated": "E1AP_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3207653060,
+            "original": "~z~ANSWER PHONE: Phone later.",
+            "translated": "~z~自动应答：请稍后再拨。",
+            "desc": ""
+        },
+        {
+            "hash": 3717494721,
+            "original": "~z~ANSWER PHONE: I don't want to talk to you just now.",
+            "translated": "~z~自动应答：暂时不想接你电话捏。",
+            "desc": ""
+        }
+    ]
+}

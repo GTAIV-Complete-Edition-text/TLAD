@@ -1,0 +1,1594 @@
+{
+    "E1J6AUD": [
+        {
+            "hash": 8453854,
+            "original": "~z~This is civil war now, get Johnny.",
+            "translated": "~z~现在是内战了，干掉Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 9129784,
+            "original": "~z~But, right now, I need calm.",
+            "translated": "~z~但现在，我需要事态平静。",
+            "desc": ""
+        },
+        {
+            "hash": 12800879,
+            "original": "SFX_PAUSE_150",
+            "translated": "SFX_PAUSE_150",
+            "desc": ""
+        },
+        {
+            "hash": 31942913,
+            "original": "~z~So, uh, why are you here?",
+            "translated": "~z~所以...你来干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 34439671,
+            "original": "~z~Take out Johnny.",
+            "translated": "~z~干掉Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 45750198,
+            "original": "~z~Where are you, you anti-Semitic cocksucker?",
+            "translated": "~z~你在哪儿，反犹太的小傻逼？",
+            "desc": ""
+        },
+        {
+            "hash": 61363858,
+            "original": "~z~God dammit, Brian was my brother.",
+            "translated": "~z~妈个逼的，亏我把Brian当兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 79381983,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 82532153,
+            "original": "E1J6_A_BA",
+            "translated": "E1J6_A_BA",
+            "desc": ""
+        },
+        {
+            "hash": 111299810,
+            "original": "~z~Ray told us where Brian is.",
+            "translated": "~z~Ray告诉了我们Brian在哪。",
+            "desc": ""
+        },
+        {
+            "hash": 126955135,
+            "original": "E1J6_TA",
+            "translated": "E1J6_TA",
+            "desc": ""
+        },
+        {
+            "hash": 136200770,
+            "original": "100090010010090100100090010",
+            "translated": "100090010010090100100090010",
+            "desc": ""
+        },
+        {
+            "hash": 153601215,
+            "original": "~z~Johnny. What happened?",
+            "translated": "~z~Johnny。怎么样了？",
+            "desc": ""
+        },
+        {
+            "hash": 164810510,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 170526438,
+            "original": "~z~I couldn't do it to a brother, even him. He's dead inside anyway.",
+            "translated": "~z~我无法对兄弟下手，即使是他。反正他已经是具行尸走肉了。",
+            "desc": ""
+        },
+        {
+            "hash": 174932983,
+            "original": "E1J6_MD",
+            "translated": "E1J6_MD",
+            "desc": ""
+        },
+        {
+            "hash": 184297530,
+            "original": "~z~You ripped this gang apart, assholes.",
+            "translated": "~z~你们撕裂了失落帮，傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 184935660,
+            "original": "E1J6_ZA",
+            "translated": "E1J6_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 219867223,
+            "original": "~z~Billy's on the inside,",
+            "translated": "~z~Billy进去了，",
+            "desc": ""
+        },
+        {
+            "hash": 260613319,
+            "original": "~z~You've got to take it like a man!",
+            "translated": "~z~有点骨气受死吧！",
+            "desc": ""
+        },
+        {
+            "hash": 263833032,
+            "original": "~z~Oh Brian. Johnny's here.",
+            "translated": "~z~噢，Brian。Johnny来了。",
+            "desc": ""
+        },
+        {
+            "hash": 280374460,
+            "original": "~z~Okay, guys. Let's finish this.",
+            "translated": "~z~好了，各位。做个了结吧。",
+            "desc": ""
+        },
+        {
+            "hash": 305198157,
+            "original": "~z~Johnny, man.",
+            "translated": "~z~Johnny，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 316077295,
+            "original": "~z~Yeah he was, but so were a lot of people.",
+            "translated": "~z~以前是，这种「兄弟」还有很多。",
+            "desc": ""
+        },
+        {
+            "hash": 329512759,
+            "original": "~z~Hell, man. I don't want to, but I'm with you on this.",
+            "translated": "~z~妈的，兄弟，我也不想啊。但这回我站你这边。",
+            "desc": ""
+        },
+        {
+            "hash": 365229991,
+            "original": "~z~So I'm going to go pay Brian a visit,",
+            "translated": "~z~所以我打算去会会Brian，",
+            "desc": ""
+        },
+        {
+            "hash": 380693759,
+            "original": "~z~Oh yeah where?",
+            "translated": "~z~哦，在哪？",
+            "desc": ""
+        },
+        {
+            "hash": 435640484,
+            "original": "~z~He's held up tight in his safehouse.",
+            "translated": "~z~他龟缩在他的安全屋里。",
+            "desc": ""
+        },
+        {
+            "hash": 458818771,
+            "original": "~z~I need a steady flow of merchandise,",
+            "translated": "~z~我需要让商品稳定流通，",
+            "desc": ""
+        },
+        {
+            "hash": 463604461,
+            "original": "E1J6_LA",
+            "translated": "E1J6_LA",
+            "desc": ""
+        },
+        {
+            "hash": 471146820,
+            "original": "~z~Shit, someone look after Brian.",
+            "translated": "~z~妈的，来个人护着Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 486989303,
+            "original": "~z~There goes Brian. Look at him run.",
+            "translated": "~z~Brian在那。他正在逃跑。",
+            "desc": ""
+        },
+        {
+            "hash": 510273806,
+            "original": "410",
+            "translated": "410",
+            "desc": ""
+        },
+        {
+            "hash": 539167843,
+            "original": "~z~see just what that fat fucker's problem is.",
+            "translated": "~z~看看那头肥猪哪根筋搭错了。",
+            "desc": ""
+        },
+        {
+            "hash": 566544707,
+            "original": "~z~Come on; for once do not be a bitch.",
+            "translated": "~z~快，就这一次，别婆婆妈妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 571534358,
+            "original": "~z~Jonathan, where's Brian?",
+            "translated": "~z~Jonathan，Brian在哪？",
+            "desc": ""
+        },
+        {
+            "hash": 571597764,
+            "original": "~z~Take out Klebitz.",
+            "translated": "~z~干掉Klebitz。",
+            "desc": ""
+        },
+        {
+            "hash": 601086353,
+            "original": "~z~What's up?",
+            "translated": "~z~怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 610633832,
+            "original": "~z~And how the hell does he know?",
+            "translated": "~z~他他妈又是怎么知道的？",
+            "desc": ""
+        },
+        {
+            "hash": 644724091,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 694909611,
+            "original": "~z~Well, until Billy gets out of prison, at least. Stay in touch.",
+            "translated": "~z~嗯，至少能放松到Billy出狱之前。保持联系。",
+            "desc": ""
+        },
+        {
+            "hash": 697449533,
+            "original": "012",
+            "translated": "012",
+            "desc": ""
+        },
+        {
+            "hash": 709599928,
+            "original": "~z~so it's in my interest to see that you boys calm things down.",
+            "translated": "~z~所以你们平息内斗对我也有好处。",
+            "desc": ""
+        },
+        {
+            "hash": 709760158,
+            "original": "E1J6_DA",
+            "translated": "E1J6_DA",
+            "desc": ""
+        },
+        {
+            "hash": 731957969,
+            "original": "E1J6_RB",
+            "translated": "E1J6_RB",
+            "desc": ""
+        },
+        {
+            "hash": 758983099,
+            "original": "~z~I don't feel like that shit means too much anymore.",
+            "translated": "~z~但这些「兄弟」已经不是兄弟了。",
+            "desc": ""
+        },
+        {
+            "hash": 772575156,
+            "original": "100090010090100090100090010",
+            "translated": "100090010090100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 795509638,
+            "original": "~z~You want to come over here to help me get him out?",
+            "translated": "~z~你想来这儿帮我把他赶出来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 799011121,
+            "original": "~z~Damn right I do.",
+            "translated": "~z~那必须的。",
+            "desc": ""
+        },
+        {
+            "hash": 802909070,
+            "original": "~z~Johnny.",
+            "translated": "~z~Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 809562819,
+            "original": "~z~Time to say goodnight, Brian.",
+            "translated": "~z~该说晚安了，Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 845689069,
+            "original": "~z~See y'all later.",
+            "translated": "~z~我们之后见。",
+            "desc": ""
+        },
+        {
+            "hash": 873680806,
+            "original": "E1J6_PD",
+            "translated": "E1J6_PD",
+            "desc": ""
+        },
+        {
+            "hash": 880906459,
+            "original": "~z~Halfway to Hell, my brother.",
+            "translated": "~z~下地狱的路上，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 911195274,
+            "original": "~z~No one likes to take down a brother, Terry, but this has to be done.",
+            "translated": "~z~没人乐意杀自己的兄弟，Terry，但这次必须下手。",
+            "desc": ""
+        },
+        {
+            "hash": 911950495,
+            "original": "E1J6_LB",
+            "translated": "E1J6_LB",
+            "desc": ""
+        },
+        {
+            "hash": 929438635,
+            "original": "E1J6_EXECK",
+            "translated": "E1J6_EXECK",
+            "desc": ""
+        },
+        {
+            "hash": 932463653,
+            "original": "E1J6_NB",
+            "translated": "E1J6_NB",
+            "desc": ""
+        },
+        {
+            "hash": 940844784,
+            "original": "SFX_PAUSE_110",
+            "translated": "SFX_PAUSE_110",
+            "desc": ""
+        },
+        {
+            "hash": 974959574,
+            "original": "~z~Alright... don't go breakin' my balls, alright?",
+            "translated": "~z~好了好了好了...你冷静点，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 999988641,
+            "original": "~z~Brian! Brian!",
+            "translated": "~z~Brian！Brian！",
+            "desc": ""
+        },
+        {
+            "hash": 1016041468,
+            "original": "~z~Fuck you, Brian.",
+            "translated": "~z~操你妈，Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 1022585176,
+            "original": "~z~You hold this floor, man. I'll find the little shit.",
+            "translated": "~z~你守住这层。我去找那个小兔崽子。",
+            "desc": ""
+        },
+        {
+            "hash": 1051840816,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 1052249945,
+            "original": "~z~I was just thinking how selfish it was of me to deal with Brian all by myself.",
+            "translated": "~z~我在想我一个人去找Brian算账会不会有点自私。",
+            "desc": ""
+        },
+        {
+            "hash": 1058179576,
+            "original": "~z~If you send a grenade in the window, that should smoke him right out to us.",
+            "translated": "~z~你往窗户里来一颗榴弹，应该能把他逼出来。",
+            "desc": ""
+        },
+        {
+            "hash": 1079431150,
+            "original": "~z~So?",
+            "translated": "~z~所以呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1099700717,
+            "original": "~z~Come on. For once, do not be a bitch.",
+            "translated": "~z~站稳了。就这一次，别婆婆妈妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 1108927124,
+            "original": "E1J6_SA",
+            "translated": "E1J6_SA",
+            "desc": ""
+        },
+        {
+            "hash": 1117233321,
+            "original": "100010010090100090010",
+            "translated": "100010010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 1138195008,
+            "original": "~z~That guy was too pathetic to kill. He's already dead anyway.",
+            "translated": "~z~杀那家伙太可怜了。反正他也死心了。",
+            "desc": ""
+        },
+        {
+            "hash": 1154527245,
+            "original": "~z~We were your brothers, Brian.",
+            "translated": "~z~亏我们把你当兄弟，Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 1168599994,
+            "original": "E1J6_IA",
+            "translated": "E1J6_IA",
+            "desc": ""
+        },
+        {
+            "hash": 1197451200,
+            "original": "E1J6_UA",
+            "translated": "E1J6_UA",
+            "desc": ""
+        },
+        {
+            "hash": 1201727233,
+            "original": "E1J6_PA",
+            "translated": "E1J6_PA",
+            "desc": ""
+        },
+        {
+            "hash": 1205229108,
+            "original": "690",
+            "translated": "690",
+            "desc": ""
+        },
+        {
+            "hash": 1205944901,
+            "original": "~z~I can handle Johnny. Get out of here, Brian.",
+            "translated": "~z~我来对付Johnny。快离开这儿，Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 1214407743,
+            "original": "100090010010090100",
+            "translated": "100090010010090100",
+            "desc": ""
+        },
+        {
+            "hash": 1253947748,
+            "original": "~z~Like a rat from a sinking ship. So long, Brian.",
+            "translated": "~z~船要沉了你就想跑了。再见了，Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 1261726513,
+            "original": "SFX_PAUSE_070",
+            "translated": "SFX_PAUSE_070",
+            "desc": ""
+        },
+        {
+            "hash": 1283159296,
+            "original": "SFX_PAUSE_100",
+            "translated": "SFX_PAUSE_100",
+            "desc": ""
+        },
+        {
+            "hash": 1287626757,
+            "original": "~z~I mean I wouldn't want to be in prison or anything, but I, you know, I'd take it.",
+            "translated": "~z~我也不想去蹲监狱受苦啥的，但是，那个吧，我接受了。",
+            "desc": ""
+        },
+        {
+            "hash": 1290644420,
+            "original": "~z~You want a piece of the action?",
+            "translated": "~z~你想一起来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1293328354,
+            "original": "~z~Fuck you, Brian.",
+            "translated": "~z~操你妈，Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 1300178021,
+            "original": "100090010010",
+            "translated": "100090010010",
+            "desc": ""
+        },
+        {
+            "hash": 1320298716,
+            "original": "~z~We're gonna go 'round back, flush him out. Yeah?",
+            "translated": "~z~我们准备去后面了，把他赶出来。明白吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1328942557,
+            "original": "~z~Wait here, man. I'm going up.",
+            "translated": "~z~在这等着，我这就上去。",
+            "desc": ""
+        },
+        {
+            "hash": 1332564297,
+            "original": "~z~Oh, okay, man. Cool. We'll fix her up. It's not the end of the world.",
+            "translated": "~z~噢，没事，兄弟。我们会修好的。事情还没那么糟。",
+            "desc": ""
+        },
+        {
+            "hash": 1355572581,
+            "original": "290",
+            "translated": "290",
+            "desc": ""
+        },
+        {
+            "hash": 1378264107,
+            "original": "~z~Knock 'em dead brothers.",
+            "translated": "~z~干掉他们，兄弟们。",
+            "desc": ""
+        },
+        {
+            "hash": 1389411446,
+            "original": "~z~You've got to take it like a man.",
+            "translated": "~z~有骨气点受死吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1392921277,
+            "original": "~z~Alright, man, alright. We can wait out back for him.",
+            "translated": "~z~好的，兄弟，明白。我们可以去后门蹲他。",
+            "desc": ""
+        },
+        {
+            "hash": 1408499440,
+            "original": "E1J6_LC",
+            "translated": "E1J6_LC",
+            "desc": ""
+        },
+        {
+            "hash": 1459180638,
+            "original": "~z~You're mine, you weasel.",
+            "translated": "~z~你别想逃，黄鼠狼。",
+            "desc": ""
+        },
+        {
+            "hash": 1521026254,
+            "original": "SFX_PAUSE_100",
+            "translated": "SFX_PAUSE_100",
+            "desc": ""
+        },
+        {
+            "hash": 1529069974,
+            "original": "~z~Alright there, fellas.",
+            "translated": "~z~好吧，伙计们。",
+            "desc": ""
+        },
+        {
+            "hash": 1541965992,
+            "original": "E1J6_PB",
+            "translated": "E1J6_PB",
+            "desc": ""
+        },
+        {
+            "hash": 1573283379,
+            "original": "E1J6_EXECM",
+            "translated": "E1J6_EXECM",
+            "desc": ""
+        },
+        {
+            "hash": 1578968783,
+            "original": "~z~We're gonna wait out here man. Don't worry about Brian escaping.",
+            "translated": "~z~我们在这里守着。不用担心Brian逃跑。",
+            "desc": ""
+        },
+        {
+            "hash": 1579380425,
+            "original": "~z~Go Brian. Johnny's mine.",
+            "translated": "~z~快走，Brian。Johnny交给我。",
+            "desc": ""
+        },
+        {
+            "hash": 1615907560,
+            "original": "E1J6_EXECI",
+            "translated": "E1J6_EXECI",
+            "desc": ""
+        },
+        {
+            "hash": 1644261377,
+            "original": "SFX_PAUSE_1576",
+            "translated": "SFX_PAUSE_1576",
+            "desc": ""
+        },
+        {
+            "hash": 1689766221,
+            "original": "~z~Make sure the right people die today, boys.",
+            "translated": "~z~大开杀戒吧，兄弟们。",
+            "desc": ""
+        },
+        {
+            "hash": 1711996257,
+            "original": "E1J6_MC",
+            "translated": "E1J6_MC",
+            "desc": ""
+        },
+        {
+            "hash": 1721873008,
+            "original": "~z~Johnny. You remember Ray, right?",
+            "translated": "~z~Johnny，你还记得Ray吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1732994411,
+            "original": "~z~I'm sorry! Please!",
+            "translated": "~z~对不起！求你了！",
+            "desc": ""
+        },
+        {
+            "hash": 1742079934,
+            "original": "E1J6_A_AA",
+            "translated": "E1J6_A_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1761179099,
+            "original": "~z~And there goes Brian. Shit.",
+            "translated": "~z~Brian在那。靠。",
+            "desc": ""
+        },
+        {
+            "hash": 1772896489,
+            "original": "~z~Johnny?",
+            "translated": "~z~Johnny？",
+            "desc": ""
+        },
+        {
+            "hash": 1777460772,
+            "original": "~z~I always knew you were a chump, you little fuck.",
+            "translated": "~z~我一直知道你是个蠢货，小混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 1777915568,
+            "original": "~z~Johnny's here!",
+            "translated": "~z~Johnny来了！",
+            "desc": ""
+        },
+        {
+            "hash": 1790894571,
+            "original": "100090100",
+            "translated": "100090100",
+            "desc": ""
+        },
+        {
+            "hash": 1795755630,
+            "original": "~z~I'd pay a dollar to see Brian's face if you shot a grenade through that window, man.",
+            "translated": "~z~你往那扇窗户来颗榴弹，我就出一块钱看Brian的烂脸，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 1808320258,
+            "original": "~z~Wait here, T. I'm heading up.",
+            "translated": "~z~在这等着，T。我上去了。",
+            "desc": ""
+        },
+        {
+            "hash": 1808985661,
+            "original": "050",
+            "translated": "050",
+            "desc": ""
+        },
+        {
+            "hash": 1818583927,
+            "original": "590",
+            "translated": "590",
+            "desc": ""
+        },
+        {
+            "hash": 1824026701,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1827038491,
+            "original": "~z~Brothers. Let's do it.",
+            "translated": "~z~兄弟们。开始吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1847509529,
+            "original": "E1J6_VA",
+            "translated": "E1J6_VA",
+            "desc": ""
+        },
+        {
+            "hash": 1849984096,
+            "original": "~z~We don't need to worry about that little fucker pulling nothing.",
+            "translated": "~z~不必再担心那个小兔崽子搞事情了。",
+            "desc": ""
+        },
+        {
+            "hash": 1860779058,
+            "original": "E1J6_NE",
+            "translated": "E1J6_NE",
+            "desc": ""
+        },
+        {
+            "hash": 1861238077,
+            "original": "~z~Shit Terry, let's get him.",
+            "translated": "~z~靠，Terry，干掉他。",
+            "desc": ""
+        },
+        {
+            "hash": 1916050496,
+            "original": "E1J6_RF",
+            "translated": "E1J6_RF",
+            "desc": ""
+        },
+        {
+            "hash": 1920368856,
+            "original": "~z~Look after Brian!",
+            "translated": "~z~保护好Brian！",
+            "desc": ""
+        },
+        {
+            "hash": 1926535652,
+            "original": "SFX_PAUSE_050",
+            "translated": "SFX_PAUSE_050",
+            "desc": ""
+        },
+        {
+            "hash": 1953132378,
+            "original": "~z~Fucking Johnny the rat.",
+            "translated": "~z~都怪Johnny那个叛徒。",
+            "desc": ""
+        },
+        {
+            "hash": 1953199182,
+            "original": "~z~Me and Clay gonna go 'round back. Smoke out Brian.",
+            "translated": "~z~我和Clay准备去后门了。把Brian熏出来。",
+            "desc": ""
+        },
+        {
+            "hash": 1959891993,
+            "original": "E1J6_BA",
+            "translated": "E1J6_BA",
+            "desc": ""
+        },
+        {
+            "hash": 1986852416,
+            "original": "E1J6_EXECH",
+            "translated": "E1J6_EXECH",
+            "desc": ""
+        },
+        {
+            "hash": 1988239206,
+            "original": "~z~Nothing, man. I mean, my bikes fucked so I'm having trouble keeping perspective.",
+            "translated": "~z~不怎么样。我的摩托坏了，现在有点心态炸裂。",
+            "desc": ""
+        },
+        {
+            "hash": 2007592752,
+            "original": "~z~Stay strong, brothers.",
+            "translated": "~z~坚持住，兄弟们。",
+            "desc": ""
+        },
+        {
+            "hash": 2017489727,
+            "original": "~z~Fuck! It's Johnny.",
+            "translated": "~z~操！是Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 2019301536,
+            "original": "E1J6_AC",
+            "translated": "E1J6_AC",
+            "desc": ""
+        },
+        {
+            "hash": 2023844959,
+            "original": "E1J6_OB",
+            "translated": "E1J6_OB",
+            "desc": ""
+        },
+        {
+            "hash": 2046392743,
+            "original": "~z~Please man. Please",
+            "translated": "~z~真的，求你了。",
+            "desc": ""
+        },
+        {
+            "hash": 2056136610,
+            "original": "~z~I got you covered Brian, get out.",
+            "translated": "~z~我掩护你，Brian，快逃。",
+            "desc": ""
+        },
+        {
+            "hash": 2066223651,
+            "original": "~z~Guess we've got to protect Brian.",
+            "translated": "~z~看来得保护好Brian了。",
+            "desc": ""
+        },
+        {
+            "hash": 2088846112,
+            "original": "E1J6_GA",
+            "translated": "E1J6_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2114083753,
+            "original": "~z~You're a good man, Terrence.",
+            "translated": "~z~你是个好人，Terrence。",
+            "desc": ""
+        },
+        {
+            "hash": 2187155875,
+            "original": "390",
+            "translated": "390",
+            "desc": ""
+        },
+        {
+            "hash": 2210007602,
+            "original": "~z~Shit, Johnny's here.",
+            "translated": "~z~操，Johnny来了。",
+            "desc": ""
+        },
+        {
+            "hash": 2214692209,
+            "original": "~z~Please, Johnny, please. I'll be good. I'll leave and never come back.",
+            "translated": "~z~求你了，Johnny，求你了。我会学乖的。我会离开这里，永不回来的。",
+            "desc": ""
+        },
+        {
+            "hash": 2236805074,
+            "original": "~z~Gentlemen.",
+            "translated": "~z~先生们。",
+            "desc": ""
+        },
+        {
+            "hash": 2241894167,
+            "original": "~z~Clay, I'm at Brian's place. You guys want to come here and help me with him?",
+            "translated": "~z~Clay，我在Brian的藏身处了。你们想过来帮我收拾他吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2242538205,
+            "original": "100090010090010090100",
+            "translated": "100090010090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 2313413111,
+            "original": "~z~I talked to Brian a half an hour ago.",
+            "translated": "~z~我一个半小时前跟Brian说过话。",
+            "desc": ""
+        },
+        {
+            "hash": 2335736328,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 2337177550,
+            "original": "E1J6_KA",
+            "translated": "E1J6_KA",
+            "desc": ""
+        },
+        {
+            "hash": 2381777282,
+            "original": "~z~James, I couldn't do it, man. He getting out of town.",
+            "translated": "~z~James，我下不了手，兄弟。他滚出这座城市了。",
+            "desc": ""
+        },
+        {
+            "hash": 2389372545,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 2392037795,
+            "original": "SFX_PAUSE_120",
+            "translated": "SFX_PAUSE_120",
+            "desc": ""
+        },
+        {
+            "hash": 2405608114,
+            "original": "SFX_PAUSE_070",
+            "translated": "SFX_PAUSE_070",
+            "desc": ""
+        },
+        {
+            "hash": 2462207323,
+            "original": "~z~Good to know, I'll stop looking over my shoulder.",
+            "translated": "~z~好，我可以松一口气了。",
+            "desc": ""
+        },
+        {
+            "hash": 2494335157,
+            "original": "~z~Brian's mine, Terry.",
+            "translated": "~z~Brian交给我吧，Terry。",
+            "desc": ""
+        },
+        {
+            "hash": 2534597328,
+            "original": "SFX_PAUSE_100",
+            "translated": "SFX_PAUSE_100",
+            "desc": ""
+        },
+        {
+            "hash": 2543711872,
+            "original": "052",
+            "translated": "052",
+            "desc": ""
+        },
+        {
+            "hash": 2543938185,
+            "original": "E1J6_RC",
+            "translated": "E1J6_RC",
+            "desc": ""
+        },
+        {
+            "hash": 2563288831,
+            "original": "~z~You swore an oath, Johnny. Don't do this to your brother, man. I'll get out of town.",
+            "translated": "~z~你发过誓的，Johnny。别这么对你的兄弟。我会消失的。",
+            "desc": ""
+        },
+        {
+            "hash": 2564451019,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 2570791921,
+            "original": "700",
+            "translated": "700",
+            "desc": ""
+        },
+        {
+            "hash": 2589367757,
+            "original": "~z~Help Brian, will you?",
+            "translated": "~z~去救Brian，行不？",
+            "desc": ""
+        },
+        {
+            "hash": 2598597990,
+            "original": "~z~Where'd you hear that from?",
+            "translated": "~z~从哪听来的？",
+            "desc": ""
+        },
+        {
+            "hash": 2622102984,
+            "original": "~z~ and I got a guy above me in the food chain with a brain like an over-cooked artichoke.",
+            "translated": "~z~平常还被一个满脑子浆糊的人压一头。",
+            "desc": ""
+        },
+        {
+            "hash": 2625457045,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2625544733,
+            "original": "~z~Get on Brian, he can't look after himself.",
+            "translated": "~z~带上Brian，他保护不了自己的。",
+            "desc": ""
+        },
+        {
+            "hash": 2626500240,
+            "original": "~z~Johnny, man, Billy put me up to it. I'll get out of town.",
+            "translated": "~z~Johnny，都是Billy逼我的。我会离开这儿的。",
+            "desc": ""
+        },
+        {
+            "hash": 2650349862,
+            "original": "~z~Things are great.",
+            "translated": "~z~生活真美好。",
+            "desc": ""
+        },
+        {
+            "hash": 2658405431,
+            "original": "~z~End this little squabble and get back to work.",
+            "translated": "~z~解决这点屁事，然后回去干活。",
+            "desc": ""
+        },
+        {
+            "hash": 2659677186,
+            "original": "SFX_PAUSE_470",
+            "translated": "SFX_PAUSE_470",
+            "desc": ""
+        },
+        {
+            "hash": 2670416055,
+            "original": "100090010090100",
+            "translated": "100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 2688998520,
+            "original": "~z~Protect that little guy!",
+            "translated": "~z~保护小胖子！",
+            "desc": ""
+        },
+        {
+            "hash": 2697911252,
+            "original": "E1J6_A_CA",
+            "translated": "E1J6_A_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2710458098,
+            "original": "~z~Sounds good.",
+            "translated": "~z~好主意。",
+            "desc": ""
+        },
+        {
+            "hash": 2756837430,
+            "original": "E1J6_MA",
+            "translated": "E1J6_MA",
+            "desc": ""
+        },
+        {
+            "hash": 2767533186,
+            "original": "~z~Alright me and Clay will keep anyone from getting out of here.",
+            "translated": "~z~好吧，我和Clay会阻止任何逃跑的人。",
+            "desc": ""
+        },
+        {
+            "hash": 2808651088,
+            "original": "E1J6_ND",
+            "translated": "E1J6_ND",
+            "desc": ""
+        },
+        {
+            "hash": 2809458316,
+            "original": "~z~Someone kill Klebitz.",
+            "translated": "~z~干掉Klebitz。",
+            "desc": ""
+        },
+        {
+            "hash": 2825579084,
+            "original": "E1J6_FA",
+            "translated": "E1J6_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2825764649,
+            "original": "E1J6_PC",
+            "translated": "E1J6_PC",
+            "desc": ""
+        },
+        {
+            "hash": 2837848475,
+            "original": "~z~See yous later.",
+            "translated": "~z~再见。",
+            "desc": ""
+        },
+        {
+            "hash": 2838106611,
+            "original": "~z~From Ashley.",
+            "translated": "~z~Ashley说的。",
+            "desc": ""
+        },
+        {
+            "hash": 2839269357,
+            "original": "~z~You wouldn't kill a brother, you wouldn't. I'll be a ghost man, gone!",
+            "translated": "~z~你不会杀兄弟的，不会的。我会从你们眼前消失的，消失！",
+            "desc": ""
+        },
+        {
+            "hash": 2840459526,
+            "original": "~z~Billy's not here to protect you, Brian.",
+            "translated": "~z~这儿没有Billy罩着你了，Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 2845098173,
+            "original": "~z~It's hard to kill a man when he isn't behaving like one.",
+            "translated": "~z~很难下手去杀一个不成人样的人。",
+            "desc": ""
+        },
+        {
+            "hash": 2867711671,
+            "original": "E1J6_OA",
+            "translated": "E1J6_OA",
+            "desc": ""
+        },
+        {
+            "hash": 2883550326,
+            "original": "~z~Let's see.",
+            "translated": "~z~拭目以待吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2888722139,
+            "original": "E1J6_YA",
+            "translated": "E1J6_YA",
+            "desc": ""
+        },
+        {
+            "hash": 2895748635,
+            "original": "E1J6_WA",
+            "translated": "E1J6_WA",
+            "desc": ""
+        },
+        {
+            "hash": 2896218936,
+            "original": "E1J6_NA",
+            "translated": "E1J6_NA",
+            "desc": ""
+        },
+        {
+            "hash": 2911586281,
+            "original": "E1J6_VB",
+            "translated": "E1J6_VB",
+            "desc": ""
+        },
+        {
+            "hash": 2950796677,
+            "original": "E1J6_QC",
+            "translated": "E1J6_QC",
+            "desc": ""
+        },
+        {
+            "hash": 2950801822,
+            "original": "100090010090010090100090100",
+            "translated": "100090010090010090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 2964527720,
+            "original": "E1J6_RD",
+            "translated": "E1J6_RD",
+            "desc": ""
+        },
+        {
+            "hash": 2973047493,
+            "original": "~z~See how Brian likes you sending a bomb through that there window, brother.",
+            "translated": "~z~往那扇窗户丢颗炸弹，看看Brian有多喜欢。",
+            "desc": ""
+        },
+        {
+            "hash": 2980945292,
+            "original": "100090010090010090100",
+            "translated": "100090010090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 2984121894,
+            "original": "SFX_PAUSE_120",
+            "translated": "SFX_PAUSE_120",
+            "desc": ""
+        },
+        {
+            "hash": 2989486038,
+            "original": "~z~I'm gonna wait for our brother round back with Clay. Send him out to us, will you?",
+            "translated": "~z~我和Clay去后面等我们的好兄弟。把他熏出来，行不？",
+            "desc": ""
+        },
+        {
+            "hash": 3003848474,
+            "original": "052",
+            "translated": "052",
+            "desc": ""
+        },
+        {
+            "hash": 3016265910,
+            "original": "E1J6_CA",
+            "translated": "E1J6_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3050662176,
+            "original": "~z~Billy put me up to it, please. I'll disappear.",
+            "translated": "~z~都是Billy指使我的，求你了。我会消失的。",
+            "desc": ""
+        },
+        {
+            "hash": 3075452851,
+            "original": "E1J6_EA",
+            "translated": "E1J6_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3084899571,
+            "original": "~z~Yeah. How you doing?",
+            "translated": "~z~记得。你好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3086106131,
+            "original": "~z~And listen, I understand where you guys are coming from -",
+            "translated": "~z~听好，我理解你们现在的处境。",
+            "desc": ""
+        },
+        {
+            "hash": 3132298504,
+            "original": "~z~Why isn't Klebitz dead yet?",
+            "translated": "~z~Klebitz怎么还没死啊？",
+            "desc": ""
+        },
+        {
+            "hash": 3136210220,
+            "original": "~z~Yeah, see ya later Ray...",
+            "translated": "~z~好，再见，Ray...",
+            "desc": ""
+        },
+        {
+            "hash": 3170077738,
+            "original": "~z~Brian, you little bitch, come out to play.",
+            "translated": "~z~Brian，你个小婊子，出来耍耍啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3180032216,
+            "original": "E1J6_RA",
+            "translated": "E1J6_RA",
+            "desc": ""
+        },
+        {
+            "hash": 3211083369,
+            "original": "~z~You friends with Ashley?",
+            "translated": "~z~你是Ashley的朋友？",
+            "desc": ""
+        },
+        {
+            "hash": 3258216192,
+            "original": "~z~Get in there, Johnny. Me and Clay'll keep the entrance covered.",
+            "translated": "~z~进去吧，Johnny。我和Clay会守住入口。",
+            "desc": ""
+        },
+        {
+            "hash": 3325287062,
+            "original": "~z~and on one hand, I don't give a shit.",
+            "translated": "~z~再说了，我他妈不在乎。",
+            "desc": ""
+        },
+        {
+            "hash": 3330773167,
+            "original": "~z~The little bastard slipped through my fingers, man.",
+            "translated": "~z~那小兔崽子从我手里溜走了，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 3345434409,
+            "original": "~z~Why don't you put a grenade through that window, man?",
+            "translated": "~z~为什么不往那扇窗户来颗手雷呢，老兄？",
+            "desc": ""
+        },
+        {
+            "hash": 3360508068,
+            "original": "E1J6_QB",
+            "translated": "E1J6_QB",
+            "desc": ""
+        },
+        {
+            "hash": 3365246694,
+            "original": "~z~Come on man. All the stuff we did together.",
+            "translated": "~z~拜托，老兄。我们一起经历了那么多。",
+            "desc": ""
+        },
+        {
+            "hash": 3378443244,
+            "original": "590",
+            "translated": "590",
+            "desc": ""
+        },
+        {
+            "hash": 3382048863,
+            "original": "~z~How'm I doin'? I got the feds all over me, I got a boss who's a paranoid wreck,",
+            "translated": "~z~我好吗？我成天被FIB盯着，老板有被害妄想，",
+            "desc": ""
+        },
+        {
+            "hash": 3392407270,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 3441807245,
+            "original": "E1J6_MB",
+            "translated": "E1J6_MB",
+            "desc": ""
+        },
+        {
+            "hash": 3455158646,
+            "original": "~z~I know what you mean. Let's just hope he's not planning anything else. Later on, man.",
+            "translated": "~z~我懂你的意思。希望他不要打其他小算盘。下次见，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3472686216,
+            "original": "E1J6_HA",
+            "translated": "E1J6_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3522458779,
+            "original": "E1J6_NC",
+            "translated": "E1J6_NC",
+            "desc": ""
+        },
+        {
+            "hash": 3533286859,
+            "original": "E1J6_OD",
+            "translated": "E1J6_OD",
+            "desc": ""
+        },
+        {
+            "hash": 3533775543,
+            "original": "~z~Lost MC forever, my brother. Don't do it. I'll leave the city, I promise you man.",
+            "translated": "~z~失落帮万岁，好兄弟。别这么做。我会离开这座城市的，说话算话。",
+            "desc": ""
+        },
+        {
+            "hash": 3540618054,
+            "original": "~z~I heard you boys was having a little internal dispute.",
+            "translated": "~z~我听说你们内部起了点小矛盾。",
+            "desc": ""
+        },
+        {
+            "hash": 3546703467,
+            "original": "~z~Everybody's friends with Ashley, tough guy...",
+            "translated": "~z~每个人都是Ashley的朋友，硬汉...",
+            "desc": ""
+        },
+        {
+            "hash": 3579443714,
+            "original": "~z~So what do ya think Johnny?",
+            "translated": "~z~你有什么感想，Johnny？",
+            "desc": ""
+        },
+        {
+            "hash": 3593304713,
+            "original": "~z~Bunch of grease monkeys want to have an all out gangbang,",
+            "translated": "~z~暴躁小子们想倾巢而出来场帮派火并，",
+            "desc": ""
+        },
+        {
+            "hash": 3603524124,
+            "original": "E1J6_QD",
+            "translated": "E1J6_QD",
+            "desc": ""
+        },
+        {
+            "hash": 3606131074,
+            "original": "~z~ I hope he doesn't stay disappeared for too long. I'll call you.",
+            "translated": "~z~ 希望他不会消失太久。有空再联系。",
+            "desc": ""
+        },
+        {
+            "hash": 3620746587,
+            "original": "~z~I'm sorry, please!",
+            "translated": "~z~对不起，求你了！",
+            "desc": ""
+        },
+        {
+            "hash": 3631048644,
+            "original": "SFX_PAUSE_160",
+            "translated": "SFX_PAUSE_160",
+            "desc": ""
+        },
+        {
+            "hash": 3648571475,
+            "original": "290",
+            "translated": "290",
+            "desc": ""
+        },
+        {
+            "hash": 3652385206,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 3712765151,
+            "original": "~z~Where are you, little girl?",
+            "translated": "~z~你在哪，小姑娘？",
+            "desc": ""
+        },
+        {
+            "hash": 3722736194,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 3722882923,
+            "original": "E1J6_VC",
+            "translated": "E1J6_VC",
+            "desc": ""
+        },
+        {
+            "hash": 3736195965,
+            "original": "012",
+            "translated": "012",
+            "desc": ""
+        },
+        {
+            "hash": 3785818860,
+            "original": "~z~Ah you know... she's a good kid and all.",
+            "translated": "~z~其实吧...她是个好孩子。",
+            "desc": ""
+        },
+        {
+            "hash": 3816143938,
+            "original": "E1J6_OC",
+            "translated": "E1J6_OC",
+            "desc": ""
+        },
+        {
+            "hash": 3817668963,
+            "original": "E1J6_QE",
+            "translated": "E1J6_QE",
+            "desc": ""
+        },
+        {
+            "hash": 3832266569,
+            "original": "390",
+            "translated": "390",
+            "desc": ""
+        },
+        {
+            "hash": 3840776189,
+            "original": "~z~be my guest.",
+            "translated": "~z~请自便。",
+            "desc": ""
+        },
+        {
+            "hash": 3846374503,
+            "original": "E1J6_RE",
+            "translated": "E1J6_RE",
+            "desc": ""
+        },
+        {
+            "hash": 3859500982,
+            "original": "~z~What happened, Johnny?",
+            "translated": "~z~怎么了，Johnny？",
+            "desc": ""
+        },
+        {
+            "hash": 3867466142,
+            "original": "E1J6_EXECG",
+            "translated": "E1J6_EXECG",
+            "desc": ""
+        },
+        {
+            "hash": 3868819060,
+            "original": "E1J6_QA",
+            "translated": "E1J6_QA",
+            "desc": ""
+        },
+        {
+            "hash": 3894664220,
+            "original": "~z~Right on, Brother. Me and Terry can go 'round the back and wait for him.",
+            "translated": "~z~马上就来，兄弟。我和Terry可以绕到后门去等他。",
+            "desc": ""
+        },
+        {
+            "hash": 3896745929,
+            "original": "~z~I think that guy makes my skin crawl,",
+            "translated": "~z~我被他弄得毛骨悚然。",
+            "desc": ""
+        },
+        {
+            "hash": 3972647168,
+            "original": "SFX_PAUSE_050",
+            "translated": "SFX_PAUSE_050",
+            "desc": ""
+        },
+        {
+            "hash": 3975241629,
+            "original": "~z~Don't do it, man. No, no.",
+            "translated": "~z~别这么做，兄弟。不，不。",
+            "desc": ""
+        },
+        {
+            "hash": 3992636689,
+            "original": "050",
+            "translated": "050",
+            "desc": ""
+        },
+        {
+            "hash": 4000132298,
+            "original": "~z~You want to pay Brian a visit with me?",
+            "translated": "~z~你想和我一起去会会Brian吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4004856477,
+            "original": "~z~Yeah? Sounds like shit to me but whatever.",
+            "translated": "~z~是吗？我看挺糟的，不过无所谓。",
+            "desc": ""
+        },
+        {
+            "hash": 4012541969,
+            "original": "SFX_PAUSE_1657",
+            "translated": "SFX_PAUSE_1657",
+            "desc": ""
+        },
+        {
+            "hash": 4015369421,
+            "original": "~z~You're all adults. Sort of.",
+            "translated": "~z~你们都是成年人了。算是吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4016631927,
+            "original": "290",
+            "translated": "290",
+            "desc": ""
+        },
+        {
+            "hash": 4019936531,
+            "original": "~z~I don't care if he's a brother, get Johnny.",
+            "translated": "~z~我才不管他是不是兄弟，干掉Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 4029974055,
+            "original": "E1J6_AD",
+            "translated": "E1J6_AD",
+            "desc": ""
+        },
+        {
+            "hash": 4121333763,
+            "original": "~z~How's my brother, Brian?",
+            "translated": "~z~我的好兄弟Brian怎么样了？",
+            "desc": ""
+        },
+        {
+            "hash": 4131615297,
+            "original": "~z~You gotta take it like a man, Brian, come on.",
+            "translated": "~z~有骨气点受死吧，Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 4136341961,
+            "original": "~z~All you got to do is scare him out here into our arms. Can you do that?",
+            "translated": "~z~你只需要把他吓出来自投罗网。能搞定吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4142480660,
+            "original": "~z~but now that you mention it so does Brian, and right now he's our problem.",
+            "translated": "~z~不过转念一想，Brian也一样。现在他还是我们的麻烦。",
+            "desc": ""
+        },
+        {
+            "hash": 4158730080,
+            "original": "~z~A little messed up, but, you know she needed a friend.",
+            "translated": "~z~虽然有点恶劣，但是，你知道她需要一个朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 4204980718,
+            "original": "SFX_PAUSE_160",
+            "translated": "SFX_PAUSE_160",
+            "desc": ""
+        },
+        {
+            "hash": 4292814355,
+            "original": "~z~Brian, brother, it's time.",
+            "translated": "~z~Brian，兄弟，受死吧。",
+            "desc": ""
+        }
+    ]
+}

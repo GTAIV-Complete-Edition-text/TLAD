@@ -1,0 +1,238 @@
+{
+    "BILLY6": [
+        {
+            "hash": 190706292,
+            "original": "Lose the cops.",
+            "translated": "甩掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 219818403,
+            "original": "~s~Lose the cops.",
+            "translated": "~s~甩掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 252146085,
+            "original": "Protect ~b~Billy~s~.",
+            "translated": "保护~b~Billy。",
+            "desc": ""
+        },
+        {
+            "hash": 372866711,
+            "original": "~s~Leave the vehicle and get to your ~b~bike.~s~",
+            "translated": "~s~离开车辆，骑上你的~b~摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 495787134,
+            "original": "~s~Go to your ~y~turf.~s~",
+            "translated": "~s~前往你的~y~地盘。",
+            "desc": ""
+        },
+        {
+            "hash": 561324990,
+            "original": "~r~Jim's bike was wrecked.",
+            "translated": "~r~Jim的车坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 686728480,
+            "original": "~s~Go to ~y~Feldspar Street.~s~",
+            "translated": "~s~前往~y~Feldspar街。",
+            "desc": ""
+        },
+        {
+            "hash": 780238738,
+            "original": "~r~You lost Billy.",
+            "translated": "~r~你跟丢了Billy。",
+            "desc": ""
+        },
+        {
+            "hash": 825757993,
+            "original": "~s~Race the Lost crew to the ~y~meet.~s~",
+            "translated": "~s~与失落帮成员比赛谁先到达~y~会面地点。",
+            "desc": ""
+        },
+        {
+            "hash": 855675524,
+            "original": "~s~Go to ~b~Billy.~s~",
+            "translated": "~s~去找~b~Billy。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1189114072,
+            "original": "~s~Get to ~b~Billy~s~ before you lose him.",
+            "translated": "~s~在跟丢之前跟上~b~Billy。",
+            "desc": ""
+        },
+        {
+            "hash": 1227629400,
+            "original": "~r~Brian's bike was wrecked.",
+            "translated": "~r~Brian的车坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 1255564571,
+            "original": "~r~Brian is dead.",
+            "translated": "~r~Brian死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1352057490,
+            "original": "~s~Jump to the ~y~scaffold~s~ below.",
+            "translated": "~s~跳到下面的~y~脚手架~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1539248746,
+            "original": "~r~Billy is dead.",
+            "translated": "~r~Billy死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1665998451,
+            "original": "~r~Billy's bike was wrecked.",
+            "translated": "~r~Billy的车坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 1958477086,
+            "original": "~r~Your bike was wrecked.~s~",
+            "translated": "~r~你的摩托坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 1998310652,
+            "original": "~s~Follow ~b~Jim.~s~",
+            "translated": "~s~跟随~b~Jim。",
+            "desc": ""
+        },
+        {
+            "hash": 2001123144,
+            "original": "~s~Follow ~b~Jim.~s~",
+            "translated": "~s~跟随~b~Jim。",
+            "desc": ""
+        },
+        {
+            "hash": 2205061548,
+            "original": "~s~Stay close to the group of bikers you are leading as Chapter President to talk with them.~s~",
+            "translated": "~s~接近车队中的成员才能与他们对话。",
+            "desc": ""
+        },
+        {
+            "hash": 2296643923,
+            "original": "When leading a group of bikers, hold ~INPUT_VEH_CIN_CAM~ to switch the camera to the group point of view.",
+            "translated": "带领车队时，按住~INPUT_VEH_CIN_CAM~切换至车队视角。",
+            "desc": ""
+        },
+        {
+            "hash": 2356704695,
+            "original": "Billy's bike was lost.",
+            "translated": "Billy的摩托丢了。",
+            "desc": ""
+        },
+        {
+            "hash": 2504619262,
+            "original": "~s~Get through the ~s~cops.~s~",
+            "translated": "~s~干掉~s~警察。",
+            "desc": ""
+        },
+        {
+            "hash": 2537352113,
+            "original": "~s~Go to the front of the ~y~building.~s~",
+            "translated": "~s~前往~y~建筑前端。",
+            "desc": ""
+        },
+        {
+            "hash": 2595469707,
+            "original": "~r~Jim is dead.",
+            "translated": "~r~Jim死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2670800365,
+            "original": "While holding ~INPUT_VEH_CIN_CAM~ use ~PAD_RSTICK_LEFTRIGHT~ to switch the camera between the different bikers in your group.",
+            "translated": "按住~INPUT_VEH_CIN_CAM~时，用~PAD_RSTICK_LEFTRIGHT~在车队成员间切换视角。",
+            "desc": ""
+        },
+        {
+            "hash": 2712838071,
+            "original": "~s~Take care of the remaining ~r~Triads.~s~",
+            "translated": "~s~处理剩下的~r~三合会成员。",
+            "desc": ""
+        },
+        {
+            "hash": 2730093474,
+            "original": "Go back and get ~b~Jim.~s~",
+            "translated": "回去找~b~Jim。",
+            "desc": ""
+        },
+        {
+            "hash": 3009435211,
+            "original": "Race against Billy to the ~y~target.~s~",
+            "translated": "与Billy比赛谁先到达~y~目的地。",
+            "desc": ""
+        },
+        {
+            "hash": 3182552009,
+            "original": "~r~You have abandoned your bike.~s~",
+            "translated": "~r~你抛弃了你的摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 3520838146,
+            "original": "~s~Place holder: Billy becomes leader.~s~",
+            "translated": "~s~Place holder: Billy becomes leader.~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3598404241,
+            "original": "~s~Go to your ~b~bike.~s~",
+            "translated": "~s~去找你的~b~摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 3767206145,
+            "original": "Follow ~b~Billy~s~ to the meet.",
+            "translated": "跟随~b~Billy~s~参加会面。",
+            "desc": ""
+        },
+        {
+            "hash": 3786116481,
+            "original": "~r~You abandoned Jim.~s~",
+            "translated": "~r~你抛弃了Jim。",
+            "desc": ""
+        },
+        {
+            "hash": 3883182906,
+            "original": "~s~Take out the ~r~Triads.~s~",
+            "translated": "~s~干掉~r~三合会成员。",
+            "desc": ""
+        },
+        {
+            "hash": 3936140336,
+            "original": "Billy is dead.",
+            "translated": "Billy死了。",
+            "desc": ""
+        },
+        {
+            "hash": 4034082115,
+            "original": "~s~Go to ~b~Jim.~s~",
+            "translated": "~s~去找~b~Jim。",
+            "desc": ""
+        },
+        {
+            "hash": 4125719396,
+            "original": "~s~You are now Chapter President. Lead the group back to your ~y~turf.~s~",
+            "translated": "~s~你现在是分会会长了，带弟兄们回你的~y~地盘。",
+            "desc": ""
+        },
+        {
+            "hash": 4260160182,
+            "original": "~s~Go to the meet with ~b~Billy.~s~",
+            "translated": "~s~与~b~Billy~s~一起参加会面。",
+            "desc": ""
+        }
+    ]
+}

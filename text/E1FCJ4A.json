@@ -1,0 +1,532 @@
+{
+    "E1FCJ4A": [
+        {
+            "hash": 88538253,
+            "original": "~z~I'm gonna need a Micro-SMG.",
+            "translated": "~z~我需要一把微型冲锋枪。",
+            "desc": ""
+        },
+        {
+            "hash": 93259474,
+            "original": "~z~I'm going to need a grenade launcher.",
+            "translated": "~z~我需要一把榴弹发射器。",
+            "desc": ""
+        },
+        {
+            "hash": 137950085,
+            "original": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_UZIAA",
+            "translated": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_UZIAA",
+            "desc": ""
+        },
+        {
+            "hash": 274607465,
+            "original": "~z~Sure, Johnny. I'll leave you one at the clubhouse.",
+            "translated": "~z~没问题，Johnny。我会在会所给你留一把的。",
+            "desc": ""
+        },
+        {
+            "hash": 284295630,
+            "original": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_RPGAA",
+            "translated": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_RPGAA",
+            "desc": ""
+        },
+        {
+            "hash": 319043312,
+            "original": "~z~I need your help, get me a shotgun.",
+            "translated": "~z~来找你帮忙了，整把霰弹枪。",
+            "desc": ""
+        },
+        {
+            "hash": 327066289,
+            "original": "~z~Can you pick me up a grenade launcher.",
+            "translated": "~z~能给我弄个榴弹发射器吗？",
+            "desc": ""
+        },
+        {
+            "hash": 379363128,
+            "original": "~z~Can you pick me up a Micro-SMG?",
+            "translated": "~z~能帮我弄把微型冲锋枪吗？",
+            "desc": ""
+        },
+        {
+            "hash": 397021056,
+            "original": "E1FCJ4_ACT_CALL_REQ_SPEC_NOA",
+            "translated": "E1FCJ4_ACT_CALL_REQ_SPEC_NOA",
+            "desc": ""
+        },
+        {
+            "hash": 467780999,
+            "original": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_PISTOLA",
+            "translated": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_PISTOLA",
+            "desc": ""
+        },
+        {
+            "hash": 472246052,
+            "original": "~z~Jim, I need a sawn-off shotgun.",
+            "translated": "~z~Jim，我需要一把短管霰弹枪。",
+            "desc": ""
+        },
+        {
+            "hash": 522448876,
+            "original": "~z~Call me if you ever need to get your hands on a gun - I'll see what I can do and stash it at the Clubhouse.",
+            "translated": "~z~需要枪了就给我打个电话，我会替你弄一把放到会所的。",
+            "desc": ""
+        },
+        {
+            "hash": 741480036,
+            "original": "E1FCJ4_ACT_E1J_GETCALL_SPEC_THANKSA",
+            "translated": "E1FCJ4_ACT_E1J_GETCALL_SPEC_THANKSA",
+            "desc": ""
+        },
+        {
+            "hash": 750979170,
+            "original": "~z~I need your help man, get me a sawn-off shotgun.",
+            "translated": "~z~找你帮忙来了，兄弟，来一把短管霰弹枪。",
+            "desc": ""
+        },
+        {
+            "hash": 758758132,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 762499202,
+            "original": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_SNIPERAA",
+            "translated": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_SNIPERAA",
+            "desc": ""
+        },
+        {
+            "hash": 869026746,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 976846407,
+            "original": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_M40A1A",
+            "translated": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_M40A1A",
+            "desc": ""
+        },
+        {
+            "hash": 1120819529,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1160144137,
+            "original": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_GRENADESA",
+            "translated": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_GRENADESA",
+            "desc": ""
+        },
+        {
+            "hash": 1315333155,
+            "original": "E1FCJ4_ACT_GETCALL_SPECB",
+            "translated": "E1FCJ4_ACT_GETCALL_SPECB",
+            "desc": ""
+        },
+        {
+            "hash": 1369382063,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1421341602,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1451631405,
+            "original": "~z~Can you pick me up some grenades.",
+            "translated": "~z~能帮我弄点手榴弹吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1653695980,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1675594788,
+            "original": "~z~Jim, I need an SMG.",
+            "translated": "~z~Jim，来一把冲锋枪。",
+            "desc": ""
+        },
+        {
+            "hash": 1690630961,
+            "original": "~z~Johnny, my brother, you've been a good friend. Listen, I know you're busy.",
+            "translated": "~z~Johnny，我的兄弟，你真的对我太好了。听着，我知道你很忙。",
+            "desc": ""
+        },
+        {
+            "hash": 1694793967,
+            "original": "~z~I need your help. Get me a carbine rifle.",
+            "translated": "~z~来找你帮忙了。整把卡宾枪。",
+            "desc": ""
+        },
+        {
+            "hash": 1699987656,
+            "original": "~z~I'm going to need grenades, man.",
+            "translated": "~z~我需要几枚手榴弹，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 1729021056,
+            "original": "~z~Brother, I need a sniper rifle.",
+            "translated": "~z~兄弟，给我来杆狙。",
+            "desc": ""
+        },
+        {
+            "hash": 1732249678,
+            "original": "~z~Johnny, my contact can't get one so quickly. Give it time",
+            "translated": "~z~Johnny，我的上家拿货没那么快。过段时间吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1747240464,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1854285802,
+            "original": "E1FCJ4_ACT_GETCALL_SPECA",
+            "translated": "E1FCJ4_ACT_GETCALL_SPECA",
+            "desc": ""
+        },
+        {
+            "hash": 1856216860,
+            "original": "~z~I'm gonna need a combat shotgun.",
+            "translated": "~z~我需要一把战斗霰弹枪。",
+            "desc": ""
+        },
+        {
+            "hash": 1903037187,
+            "original": "~z~Brother I need an assault shotgun.",
+            "translated": "~z~兄弟，来一把突击霰弹枪。",
+            "desc": ""
+        },
+        {
+            "hash": 1909114020,
+            "original": "E1FCJ4_ACT_CALL_REQ_SPEC_YESA",
+            "translated": "E1FCJ4_ACT_CALL_REQ_SPEC_YESA",
+            "desc": ""
+        },
+        {
+            "hash": 1914316953,
+            "original": "~z~Hey Jim, can you get me an SMG?",
+            "translated": "~z~嘿Jim，能弄把冲锋枪来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1944037845,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1973616311,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1980835312,
+            "original": "~z~Can't get one so soon, Johnny.",
+            "translated": "~z~暂时弄不到了，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 1992696946,
+            "original": "~z~Hey Jim, can you get me a carbine rifle?",
+            "translated": "~z~嘿Jim，能帮我弄把卡宾枪吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2096708547,
+            "original": "~z~Can you pick me up a combat shotgun?",
+            "translated": "~z~能帮我弄把战斗霰弹枪吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2161568807,
+            "original": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_SHOTGUNAA",
+            "translated": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_SHOTGUNAA",
+            "desc": ""
+        },
+        {
+            "hash": 2231724499,
+            "original": "~z~Get me a semi-automatic 9mm.",
+            "translated": "~z~来一把9毫米半自动手枪。",
+            "desc": ""
+        },
+        {
+            "hash": 2270251120,
+            "original": "~z~Is my name Ammunation? Give it some time, man.",
+            "translated": "~z~我又不是武装国度。过几天吧，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 2306226601,
+            "original": "~z~James, I need you to procure me an assualt rifle.",
+            "translated": "~z~James，麻烦你帮我搞把突击步枪。",
+            "desc": ""
+        },
+        {
+            "hash": 2320881853,
+            "original": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_SAWNOFFA",
+            "translated": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_SAWNOFFA",
+            "desc": ""
+        },
+        {
+            "hash": 2403222841,
+            "original": "~z~Get me an assualt rifle.",
+            "translated": "~z~帮我弄把突击步枪。",
+            "desc": ""
+        },
+        {
+            "hash": 2423045200,
+            "original": "~z~James, I need you to procure me some molotovs.",
+            "translated": "~z~James，麻烦你帮我搞点燃烧瓶。",
+            "desc": ""
+        },
+        {
+            "hash": 2453503792,
+            "original": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_AK47AA",
+            "translated": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_AK47AA",
+            "desc": ""
+        },
+        {
+            "hash": 2468932950,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2517525994,
+            "original": "~z~Not so soon after the last gun, amigo. Give me some time.",
+            "translated": "~z~之前才刚弄来一把枪，朋友。别这么心急。",
+            "desc": ""
+        },
+        {
+            "hash": 2607666728,
+            "original": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_GLAUNCHAA",
+            "translated": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_GLAUNCHAA",
+            "desc": ""
+        },
+        {
+            "hash": 2660011684,
+            "original": "~z~Thanks Jim. You know I appreciate that, man.",
+            "translated": "~z~谢了，Jim。我很高兴，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 2695965747,
+            "original": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_MP5AA",
+            "translated": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_MP5AA",
+            "desc": ""
+        },
+        {
+            "hash": 2717286027,
+            "original": "~z~I need pipe bombs.",
+            "translated": "~z~我需要土制炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 2731562393,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2737267261,
+            "original": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_PIPEBOMBSA",
+            "translated": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_PIPEBOMBSA",
+            "desc": ""
+        },
+        {
+            "hash": 2740527323,
+            "original": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_SEMI_9MMA",
+            "translated": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_SEMI_9MMA",
+            "desc": ""
+        },
+        {
+            "hash": 2756818614,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2816444104,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3009263922,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 3108360795,
+            "original": "~z~Hey Jim can you get me a semi-automatic 9mm.?",
+            "translated": "~z~嘿Jim，能给我弄把9毫米半自动手枪吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3149548419,
+            "original": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_MOLOTOVSA",
+            "translated": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_MOLOTOVSA",
+            "desc": ""
+        },
+        {
+            "hash": 3174192790,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3178314650,
+            "original": "~z~Jim, I need an advanced sniper rifle.",
+            "translated": "~z~Jim，来一把高级狙击枪。",
+            "desc": ""
+        },
+        {
+            "hash": 3180178058,
+            "original": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_M4AA",
+            "translated": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_M4AA",
+            "desc": ""
+        },
+        {
+            "hash": 3184573652,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3219453487,
+            "original": "~z~I need a sniper rifle.",
+            "translated": "~z~来一把狙击枪。",
+            "desc": ""
+        },
+        {
+            "hash": 3276265918,
+            "original": "~z~I need a rocket launcher.",
+            "translated": "~z~我需要一支火箭筒。",
+            "desc": ""
+        },
+        {
+            "hash": 3310077237,
+            "original": "~z~Brother, I need pipe bombs.",
+            "translated": "~z~哥们，来点土制炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 3328776576,
+            "original": "~z~I'll stash one at the clubhouse.",
+            "translated": "~z~待会儿就给你放到会所。",
+            "desc": ""
+        },
+        {
+            "hash": 3476741933,
+            "original": "~z~Hey Jim can you get me an advanced sniper rifle?",
+            "translated": "~z~嘿Jim，能帮我带把高级狙击枪吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3509224448,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3544866970,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3640557189,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3656892573,
+            "original": "~z~I'll leave one locked and loaded at the clubhouse.",
+            "translated": "~z~我会在会所给你留把战斗状态的枪的。",
+            "desc": ""
+        },
+        {
+            "hash": 3731481845,
+            "original": "~z~James, I need you to procure me an assault shotgun.",
+            "translated": "~z~James，麻烦你给我弄把突击霰弹枪。",
+            "desc": ""
+        },
+        {
+            "hash": 3795312613,
+            "original": "~z~Get me some molotovs.",
+            "translated": "~z~给我来点燃烧瓶。",
+            "desc": ""
+        },
+        {
+            "hash": 3833938502,
+            "original": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_BARETTAAA",
+            "translated": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_BARETTAAA",
+            "desc": ""
+        },
+        {
+            "hash": 3838540689,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3887602866,
+            "original": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_ASS_SHOTA",
+            "translated": "E1FCJ4_ACT_E1J_CALL_REQ_SPEC_ASS_SHOTA",
+            "desc": ""
+        },
+        {
+            "hash": 3897651714,
+            "original": "~z~Get me a 9mm pistol.",
+            "translated": "~z~给我来把9毫米手枪。",
+            "desc": ""
+        },
+        {
+            "hash": 3939153566,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4111514955,
+            "original": "~z~Brother, I need a rocket launcher.",
+            "translated": "~z~兄弟，我需要一支火箭筒。",
+            "desc": ""
+        },
+        {
+            "hash": 4141611621,
+            "original": "~z~No problem. It'll be at the clubhouse.",
+            "translated": "~z~没问题。等会儿去会所拿吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4157440127,
+            "original": "~z~Jim, I need a shotgun.",
+            "translated": "~z~Jim，来把霰弹枪。",
+            "desc": ""
+        },
+        {
+            "hash": 4280000406,
+            "original": "~z~Hey Jim, can you get me a 9mm pistol?",
+            "translated": "~z~嘿Jim，能来把9毫米手枪吗？",
+            "desc": ""
+        }
+    ]
+}

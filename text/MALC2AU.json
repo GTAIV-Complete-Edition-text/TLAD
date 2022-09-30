@@ -1,0 +1,592 @@
+{
+    "MALC2AU": [
+        {
+            "hash": 12225227,
+            "original": "~z~But that there race was pure skill. So long, buddy.",
+            "translated": "~z~但是赛车只看你的车技。回见，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 13850578,
+            "original": "MALC2_IA",
+            "translated": "MALC2_IA",
+            "desc": ""
+        },
+        {
+            "hash": 34262860,
+            "original": "MALC2_FA",
+            "translated": "MALC2_FA",
+            "desc": ""
+        },
+        {
+            "hash": 70446962,
+            "original": "MALC2_CB",
+            "translated": "MALC2_CB",
+            "desc": ""
+        },
+        {
+            "hash": 84021831,
+            "original": "~z~You been fiddlin' with that rice burner, Malcolm?",
+            "translated": "~z~还在折腾你那电饭锅呢，Malcolm？",
+            "desc": ""
+        },
+        {
+            "hash": 145302152,
+            "original": "~z~I'm taking this American machine right here across the finish first.",
+            "translated": "~z~我会骑着这台美式机车闪电冲线的。",
+            "desc": ""
+        },
+        {
+            "hash": 198693498,
+            "original": "~z~See if you can keep up with an Uptown Rider.",
+            "translated": "~z~看你能不能跟上上城骑士。",
+            "desc": ""
+        },
+        {
+            "hash": 233486843,
+            "original": "~z~Pretend like you're in the Liberty City Swingers, man. Knock 'em the fuck out.",
+            "translated": "~z~想象自己是自由城浪人队的一员，兄弟。用力打飞他们。",
+            "desc": ""
+        },
+        {
+            "hash": 329031989,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 405181325,
+            "original": "MALC2_CD",
+            "translated": "MALC2_CD",
+            "desc": ""
+        },
+        {
+            "hash": 408713088,
+            "original": "~z~Sorry, dude, I just couldn't help myself",
+            "translated": "~z~抱歉，老兄，我就是管不住手啊。",
+            "desc": ""
+        },
+        {
+            "hash": 471193169,
+            "original": "~z~Take this shit, yo. Smash a mother fucker good if you have to.",
+            "translated": "~z~拿上这玩意吧。需要了就直接给一棍子。",
+            "desc": ""
+        },
+        {
+            "hash": 525415668,
+            "original": "MALC2_DA",
+            "translated": "MALC2_DA",
+            "desc": ""
+        },
+        {
+            "hash": 539724089,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 568878769,
+            "original": "100090010090010",
+            "translated": "100090010090010",
+            "desc": ""
+        },
+        {
+            "hash": 694907132,
+            "original": "~z~Here's a bat, Johnny. Knock em outta the park, man.",
+            "translated": "~z~棒球棍拿好，Johnny。打个他们落花流水，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 698276736,
+            "original": "~z~I'd like to see you beat me on a real bike. Later on.",
+            "translated": "~z~我想看你骑真正的摩托打败我。回见。",
+            "desc": ""
+        },
+        {
+            "hash": 705395305,
+            "original": "~z~What? You need to be easy, funny man.",
+            "translated": "~z~啥？差不多得了，小丑哥。",
+            "desc": ""
+        },
+        {
+            "hash": 711589379,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 726722519,
+            "original": "~z~Second's the most you can hope for, man.",
+            "translated": "~z~你最多也就能拿个第二了，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 821622628,
+            "original": "~z~There's some serious cats on the other side of town looking for a race.",
+            "translated": "~z~在城市另一头有几个猛男在找人比赛呢。",
+            "desc": ""
+        },
+        {
+            "hash": 876638678,
+            "original": "~z~Peace out.",
+            "translated": "~z~走了。",
+            "desc": ""
+        },
+        {
+            "hash": 920421127,
+            "original": "~z~So what's up? You in?",
+            "translated": "~z~所以咋样？你来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 929699110,
+            "original": "~z~It's all good. How'd them problems you were having work out?",
+            "translated": "~z~都挺好的。之前你那些问题都解决了没？",
+            "desc": ""
+        },
+        {
+            "hash": 947525227,
+            "original": "MALC2_IC",
+            "translated": "MALC2_IC",
+            "desc": ""
+        },
+        {
+            "hash": 987142256,
+            "original": "MALC2_IB",
+            "translated": "MALC2_IB",
+            "desc": ""
+        },
+        {
+            "hash": 994148139,
+            "original": "~z~Hey yo, this is one of them races like DeSean got himself shot in before.",
+            "translated": "~z~嘿，这场赛车和DeSean之前中枪的那场差不多。",
+            "desc": ""
+        },
+        {
+            "hash": 1010659670,
+            "original": "MALC2_GB",
+            "translated": "MALC2_GB",
+            "desc": ""
+        },
+        {
+            "hash": 1092298888,
+            "original": "~z~About the same as your bike.",
+            "translated": "~z~和你的车况差不多吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1174910284,
+            "original": "100090010090010010090100",
+            "translated": "100090010090010010090100",
+            "desc": ""
+        },
+        {
+            "hash": 1293922189,
+            "original": "~z~We gonna be scrappin' all the way.",
+            "translated": "~z~一路上都要打过去。",
+            "desc": ""
+        },
+        {
+            "hash": 1327035127,
+            "original": "~z~We're at the starting block, boy. Come on.",
+            "translated": "~z~我们在起点了，小子。加油。",
+            "desc": ""
+        },
+        {
+            "hash": 1385745283,
+            "original": "~z~What up, Johnny boy?",
+            "translated": "~z~最近好吗，Johnny仔？",
+            "desc": ""
+        },
+        {
+            "hash": 1392473991,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1477857679,
+            "original": "MALC2_JE",
+            "translated": "MALC2_JE",
+            "desc": ""
+        },
+        {
+            "hash": 1499272149,
+            "original": "MALC2_CC",
+            "translated": "MALC2_CC",
+            "desc": ""
+        },
+        {
+            "hash": 1620005459,
+            "original": "~z~What? Shit I'm all over this.",
+            "translated": "~z~啥？操，我怎么不信呢。",
+            "desc": ""
+        },
+        {
+            "hash": 1684434718,
+            "original": "~z~Hey Malc.",
+            "translated": "~z~嘿，Malc。",
+            "desc": ""
+        },
+        {
+            "hash": 1740952235,
+            "original": "MALC2_HC",
+            "translated": "MALC2_HC",
+            "desc": ""
+        },
+        {
+            "hash": 1754424946,
+            "original": "~z~Yeah, I'm in.",
+            "translated": "~z~好啊，加我一个。",
+            "desc": ""
+        },
+        {
+            "hash": 1817546830,
+            "original": "~z~Shit, looks like you and me got played, Johnny.",
+            "translated": "~z~妈的，看来咱俩都被耍了，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 1920855632,
+            "original": "~z~I was lucky to be born after the invention of penicillin and the internal combustion engine.",
+            "translated": "~z~出生在青霉素和内燃机发明之后也是我运气好。",
+            "desc": ""
+        },
+        {
+            "hash": 1923411445,
+            "original": "~z~Yo, you just keep yours in your pants as well. I know how itchy that finger gets.",
+            "translated": "~z~哟，你还是把枪藏裤兜里吧。我知道你管不住手。",
+            "desc": ""
+        },
+        {
+            "hash": 1950530531,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 2015724988,
+            "original": "~z~Man, shit.",
+            "translated": "~z~操，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2145643818,
+            "original": "MALC2_AA",
+            "translated": "MALC2_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2159183570,
+            "original": "MALC2_HB",
+            "translated": "MALC2_HB",
+            "desc": ""
+        },
+        {
+            "hash": 2180158749,
+            "original": "~z~So, Malc, I got a feeling you're not gonna win this race.",
+            "translated": "~z~Malc，我感觉这场比赛你赢不了。",
+            "desc": ""
+        },
+        {
+            "hash": 2189994423,
+            "original": "MALC2_JB",
+            "translated": "MALC2_JB",
+            "desc": ""
+        },
+        {
+            "hash": 2217116539,
+            "original": "MALC2_GC",
+            "translated": "MALC2_GC",
+            "desc": ""
+        },
+        {
+            "hash": 2245533985,
+            "original": "~z~But you won't be if this hot import breaks down before we get there.",
+            "translated": "~z~就怕你这进口车没到起点就坏了，直接退赛。",
+            "desc": ""
+        },
+        {
+            "hash": 2290464612,
+            "original": "~z~-Oh yeah.~n~-No doubt.",
+            "translated": "~z~－行啊。~n~－果然。",
+            "desc": ""
+        },
+        {
+            "hash": 2373493054,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 2427271172,
+            "original": "MALC2_BC",
+            "translated": "MALC2_BC",
+            "desc": ""
+        },
+        {
+            "hash": 2488241805,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 2529415017,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 2561027726,
+            "original": "100090010090010",
+            "translated": "100090010090010",
+            "desc": ""
+        },
+        {
+            "hash": 2573060104,
+            "original": "~z~And this ain't no pussy ass polite race either.",
+            "translated": "~z~而且还是不讲礼数的狂野飙车。",
+            "desc": ""
+        },
+        {
+            "hash": 2636287809,
+            "original": "~z~This is where it starts. Let's go.",
+            "translated": "~z~这就是起点线了。开始吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2771976728,
+            "original": "~z~Me, I'm at peace with the result. I'll see you soon.",
+            "translated": "~z~我的话，就对这个结果无感了。回头见。",
+            "desc": ""
+        },
+        {
+            "hash": 2853048040,
+            "original": "~z~Keep up with me now, Johnny.",
+            "translated": "~z~现在跟我来，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 2868012854,
+            "original": "MALC2_GA",
+            "translated": "MALC2_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2874616746,
+            "original": "~z~And here we be. You ready?",
+            "translated": "~z~我们到了。准备好了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2905973060,
+            "original": "~z~Man, I told you not to get your gun out.",
+            "translated": "~z~伙计，我都说了不要掏枪。",
+            "desc": ""
+        },
+        {
+            "hash": 2942294463,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2996242667,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 3005287687,
+            "original": "MALC2_JC",
+            "translated": "MALC2_JC",
+            "desc": ""
+        },
+        {
+            "hash": 3092937777,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3143900444,
+            "original": "~z~Lighten up.",
+            "translated": "~z~别生气。",
+            "desc": ""
+        },
+        {
+            "hash": 3220755642,
+            "original": "SFX_PAUSE_370",
+            "translated": "SFX_PAUSE_370",
+            "desc": ""
+        },
+        {
+            "hash": 3239382331,
+            "original": "MALC2_BB",
+            "translated": "MALC2_BB",
+            "desc": ""
+        },
+        {
+            "hash": 3253378814,
+            "original": "MALC2_BA",
+            "translated": "MALC2_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3272895422,
+            "original": "MALC2_CA",
+            "translated": "MALC2_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3288467636,
+            "original": "~z~Hey yo, Johnny, remember, don't shoot anyone till the race is over, aight?",
+            "translated": "~z~嘿，Johnny。记住，比赛结束前别对任何人开枪，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3309347330,
+            "original": "SFX_PAUSE_490",
+            "translated": "SFX_PAUSE_490",
+            "desc": ""
+        },
+        {
+            "hash": 3334991049,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 3348318706,
+            "original": "~z~Alright. Stick with me, boy.",
+            "translated": "~z~好了。跟紧我，小子。",
+            "desc": ""
+        },
+        {
+            "hash": 3380845658,
+            "original": "~z~Aight, aight. Everybody get lucky once and a while.",
+            "translated": "~z~好了，好了。谁都有运气好的时候。",
+            "desc": ""
+        },
+        {
+            "hash": 3383806727,
+            "original": "~z~You got a serious competitive streak in you, Malcolm.",
+            "translated": "~z~你有的胜负心真强啊，Malcolm。",
+            "desc": ""
+        },
+        {
+            "hash": 3430133019,
+            "original": "100090010090010",
+            "translated": "100090010090010",
+            "desc": ""
+        },
+        {
+            "hash": 3505211883,
+            "original": "MALC2_JD",
+            "translated": "MALC2_JD",
+            "desc": ""
+        },
+        {
+            "hash": 3524638420,
+            "original": "SFX_PAUSE_430",
+            "translated": "SFX_PAUSE_430",
+            "desc": ""
+        },
+        {
+            "hash": 3586501691,
+            "original": "~z~Remember guns ain't appropriate here, Johnny. Keep that shit to yourself.",
+            "translated": "~z~记住，赛车不欢迎枪支，Johnny。把你的枪收好。",
+            "desc": ""
+        },
+        {
+            "hash": 3592500460,
+            "original": "~z~Here's hopin' no one pulls a piece on us this time round.",
+            "translated": "~z~希望这次不会有人对我们开枪吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3661862580,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 3742228604,
+            "original": "MALC2_JA",
+            "translated": "MALC2_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3883880366,
+            "original": "~z~Remember not to shoot nobody. But you ain't gotta be all friendly up in this bitch.",
+            "translated": "~z~不要向任何人开枪。但也别和气到束手束脚的。",
+            "desc": ""
+        },
+        {
+            "hash": 3892504012,
+            "original": "010090100090010090010",
+            "translated": "010090100090010090010",
+            "desc": ""
+        },
+        {
+            "hash": 3894007463,
+            "original": "SFX_PAUSE_420",
+            "translated": "SFX_PAUSE_420",
+            "desc": ""
+        },
+        {
+            "hash": 3908623172,
+            "original": "~z~I was lucky to be born in the U-S of A, dude.",
+            "translated": "~z~出生在美国是我运气好，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 3982175192,
+            "original": "100090010090100",
+            "translated": "100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 4002317168,
+            "original": "~z~Ah man shit, you think you got monster nuts.",
+            "translated": "~z~啊，兄弟。操，你的胆子有够肥啊。",
+            "desc": ""
+        },
+        {
+            "hash": 4071845290,
+            "original": "~z~Well, well, well, if my little baby here didn't burn your antiquated ass Johnny boy.",
+            "translated": "~z~好好好，都怪我的小宝贝，烫着了你的古董屁股，Johnny仔。",
+            "desc": ""
+        },
+        {
+            "hash": 4111590380,
+            "original": "MALC2_EA",
+            "translated": "MALC2_EA",
+            "desc": ""
+        },
+        {
+            "hash": 4117541773,
+            "original": "MALC2_HA",
+            "translated": "MALC2_HA",
+            "desc": ""
+        },
+        {
+            "hash": 4121506330,
+            "original": "~z~Haven't liked bats since I got kicked outta little league. Later on.",
+            "translated": "~z~被少棒联盟除籍以后，我就不想碰球棒了。回见。",
+            "desc": ""
+        },
+        {
+            "hash": 4292938814,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 4293207581,
+            "original": "~z~You know what? Pull 'em out, roll with me right now.",
+            "translated": "~z~这么着吧，胆不能白长，跟我一起上吧。",
+            "desc": ""
+        }
+    ]
+}

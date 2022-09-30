@@ -1,0 +1,232 @@
+{
+    "INTROAU": [
+        {
+            "hash": 85040851,
+            "original": "~z~It's about time.",
+            "translated": "~z~是时候了。",
+            "desc": ""
+        },
+        {
+            "hash": 213923545,
+            "original": "~z~Keep it up, I'm gonna push you down these stairs.",
+            "translated": "~z~抓稳点，要下楼梯了。",
+            "desc": ""
+        },
+        {
+            "hash": 277263805,
+            "original": "~z~Home sweet home.",
+            "translated": "~z~我又回来了。",
+            "desc": ""
+        },
+        {
+            "hash": 370526596,
+            "original": "~z~Hold on little buddy.",
+            "translated": "~z~坐稳喽，小伙子。",
+            "desc": ""
+        },
+        {
+            "hash": 463686886,
+            "original": "~z~I've changed. And you know what, Chad?",
+            "translated": "~z~我改变了。你知道吗，Chad？",
+            "desc": ""
+        },
+        {
+            "hash": 635855212,
+            "original": "~z~Was very willful, Chad, was very willful.",
+            "translated": "~z~那是以前，Chad，以前任性。",
+            "desc": ""
+        },
+        {
+            "hash": 987007576,
+            "original": "~z~Here you go.",
+            "translated": "~z~拿好。",
+            "desc": ""
+        },
+        {
+            "hash": 1327215570,
+            "original": "~z~Hey, stay in touch!",
+            "translated": "~z~嘿，保持联系！",
+            "desc": ""
+        },
+        {
+            "hash": 1432597462,
+            "original": "~z~Yes, Daddy.",
+            "translated": "~z~好的，「爸爸」。",
+            "desc": ""
+        },
+        {
+            "hash": 1624954468,
+            "original": "~z~Yo.",
+            "translated": "~z~哟。",
+            "desc": ""
+        },
+        {
+            "hash": 1708396339,
+            "original": "~z~If I had it my way, we wouldn't waste our time - you'd be inside already.",
+            "translated": "~z~要是我说了算，你早就进去了，省得浪费大家时间。",
+            "desc": ""
+        },
+        {
+            "hash": 1729189681,
+            "original": "~z~You, stay out of trouble.",
+            "translated": "~z~你，别惹是非。",
+            "desc": ""
+        },
+        {
+            "hash": 1819468280,
+            "original": "~z~I know, Chad. I know. It's a disease.",
+            "translated": "~z~我知道，Chad。我知道。毒瘾是病。",
+            "desc": ""
+        },
+        {
+            "hash": 1933486608,
+            "original": "~z~I believe in this man.",
+            "translated": "~z~我相信这个人。",
+            "desc": ""
+        },
+        {
+            "hash": 1946200972,
+            "original": "~z~Yes, sir.",
+            "translated": "~z~好的长官。",
+            "desc": ""
+        },
+        {
+            "hash": 2014971346,
+            "original": "~z~In fact, I'm praying right now.",
+            "translated": "~z~实际上，我现在就在祈祷。",
+            "desc": ""
+        },
+        {
+            "hash": 2169292324,
+            "original": "~z~His share on willfulness was one of the most powerful things I've ever heard.",
+            "translated": "~z~他的任性程度，真的是前无古人后无来者。",
+            "desc": ""
+        },
+        {
+            "hash": 2332991279,
+            "original": "~z~God works in mysterious ways.",
+            "translated": "~z~主的意图是难以捉摸的。",
+            "desc": ""
+        },
+        {
+            "hash": 2344657043,
+            "original": "~z~Well, let's hope you don't live to regret that faith.",
+            "translated": "~z~那好，祝你不会为这份信任后悔。",
+            "desc": ""
+        },
+        {
+            "hash": 2411094775,
+            "original": "~z~Mr. Grey has made great progress.",
+            "translated": "~z~Grey先生进步很大。",
+            "desc": ""
+        },
+        {
+            "hash": 2652259646,
+            "original": "~z~Yes sir.",
+            "translated": "~z~好的，长官。",
+            "desc": ""
+        },
+        {
+            "hash": 2677068983,
+            "original": "~z~Gentlemen, shall we get the fuck out of here?",
+            "translated": "~z~先生们，我看差不多该离开这儿了吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2903121310,
+            "original": "~z~You do understand what probation means?",
+            "translated": "~z~你应该知道什么叫做缓刑吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2959174100,
+            "original": "~z~Excuse me?",
+            "translated": "~z~你说什么？",
+            "desc": ""
+        },
+        {
+            "hash": 3206912933,
+            "original": "~z~Alright, everybody, c'mon. Break it up, let's go.",
+            "translated": "~z~好了，各位，快点，别磨叽了，出发吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3208680478,
+            "original": "~z~Meetings every day.",
+            "translated": "~z~要常来戒毒互助会。",
+            "desc": ""
+        },
+        {
+            "hash": 3364738213,
+            "original": "~z~It means that if you continue down that same path,",
+            "translated": "~z~就是说你要是重蹈覆辙，",
+            "desc": ""
+        },
+        {
+            "hash": 3376621603,
+            "original": "~z~You changed me.",
+            "translated": "~z~是你改变了我。",
+            "desc": ""
+        },
+        {
+            "hash": 3618599656,
+            "original": "~z~Uh... yes sir.",
+            "translated": "~z~呃...知道，长官。",
+            "desc": ""
+        },
+        {
+            "hash": 3759332735,
+            "original": "~z~-Come on guys, come on let's go.~n~-Alright man...",
+            "translated": "~z~－快点，兄弟们，该出发了。~n~－好的，伙计...",
+            "desc": ""
+        },
+        {
+            "hash": 3832143472,
+            "original": "~z~Pray. I pray.",
+            "translated": "~z~要祈祷。会祈祷的。",
+            "desc": ""
+        },
+        {
+            "hash": 3879458696,
+            "original": "~z~but I'll leave the salvation to you gentlemen.",
+            "translated": "~z~不过能不能被救赎就是你们的事了。",
+            "desc": ""
+        },
+        {
+            "hash": 3984552091,
+            "original": "~z~Call you if I feel the need to use.",
+            "translated": "~z~犯毒瘾了就电话找你。",
+            "desc": ""
+        },
+        {
+            "hash": 4042161974,
+            "original": "~z~See ya, fuck.",
+            "translated": "~z~回见，崽种。",
+            "desc": ""
+        },
+        {
+            "hash": 4079888869,
+            "original": "~z~you'll be locked up and calling some cellmate Daddy within a month.",
+            "translated": "~z~不出一个月，你就会被抓回去管狱友叫「爸爸」。",
+            "desc": ""
+        },
+        {
+            "hash": 4163667449,
+            "original": "~z~You're very willful.",
+            "translated": "~z~你太任性了。",
+            "desc": ""
+        },
+        {
+            "hash": 4183096250,
+            "original": "~z~In this case, it seems God is down right perverse,",
+            "translated": "~z~照这么说，上帝他老人家已经老年痴呆了，",
+            "desc": ""
+        },
+        {
+            "hash": 4254958671,
+            "original": "~z~Remember. It's a disease.",
+            "translated": "~z~记住，毒瘾是病。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "RCLnch": [
+        {
+            "hash": 2869943376,
+            "original": "The ~BLIP_111~ icon represents the meeting point for a race. Go to that location to meet with Terry or Clay who will race alongside you. In races you will battle with other bikers for 1st position. There will be various races around the city.",
+            "translated": "~BLIP_111~图标表示一场赛车的集合地点。前往图标所示地点可与Terry或Clay中的一人共同参赛。比赛中，你将与其他车手争夺第一。城市各处有许多赛车比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 3110500605,
+            "original": "There will be various races around the city, these will be represented by the ~BLIP_111~ icon.",
+            "translated": "城市各处有许多赛车比赛，在地图上以~BLIP_111~图标表示。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,2032 @@
+{
+    "E1FCT3A": [
+        {
+            "hash": 22285233,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 28105344,
+            "original": "~z~I've got a serious food baby, man. Feels like fucking twins in there.",
+            "translated": "~z~我这肚子大的啊，哥们，跟他妈怀了双胞胎似的。",
+            "desc": ""
+        },
+        {
+            "hash": 28543668,
+            "original": "~z~You're a fucking joke, man.",
+            "translated": "~z~你就是个小丑，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 34122759,
+            "original": "E1FCT3_ACT_ARRIVE_PUB_GOODA",
+            "translated": "E1FCT3_ACT_ARRIVE_PUB_GOODA",
+            "desc": ""
+        },
+        {
+            "hash": 34509134,
+            "original": "~z~Do they sell booze? I ain't stayin' unless they got booze, man.",
+            "translated": "~z~这里有酒吗？没酒的话我才不进去，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 63294443,
+            "original": "~z~OK, Johnny. Let's do it.",
+            "translated": "~z~好的，Johnny。嗨起来。",
+            "desc": ""
+        },
+        {
+            "hash": 79367573,
+            "original": "E1FCT3_ACT_ARM_WRESTLING_LEAVE_FORFEITEDA",
+            "translated": "E1FCT3_ACT_ARM_WRESTLING_LEAVE_FORFEITEDA",
+            "desc": ""
+        },
+        {
+            "hash": 111443492,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 115940705,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 126995148,
+            "original": "~z~Listen Johnny. I'm gonna give it a miss. Another time maybe.",
+            "translated": "~z~听着Johnny，我要先走一步了。以后再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 135913308,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 161089655,
+            "original": "E1FCT3_ACT_DIFF_ACTIVITY_NOA",
+            "translated": "E1FCT3_ACT_DIFF_ACTIVITY_NOA",
+            "desc": ""
+        },
+        {
+            "hash": 178679552,
+            "original": "E1FCT3_ACT_LEAVE_PUB_GOODA",
+            "translated": "E1FCT3_ACT_LEAVE_PUB_GOODA",
+            "desc": ""
+        },
+        {
+            "hash": 178757960,
+            "original": "E1FCT3_ACT_AIRHOCK_LEAVE_WONA",
+            "translated": "E1FCT3_ACT_AIRHOCK_LEAVE_WONA",
+            "desc": ""
+        },
+        {
+            "hash": 185659220,
+            "original": "E1FCT3_ACT_DARTS_LEAVE_ABANDONEDA",
+            "translated": "E1FCT3_ACT_DARTS_LEAVE_ABANDONEDA",
+            "desc": ""
+        },
+        {
+            "hash": 194211193,
+            "original": "~z~I eat here all the time. Seriously hot waitresses, bro.",
+            "translated": "~z~我都在这吃的。服务员巨性感，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 198635565,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 234062238,
+            "original": "~z~Man, I can't believe you chose this shithole. We're gonna have to get very drunk, very quickly.",
+            "translated": "~z~哥们，你丫会不会挑酒吧啊。这种店就只能速战速决，喝醉走人了。",
+            "desc": ""
+        },
+        {
+            "hash": 275952238,
+            "original": "E1FCT3_ACT_AIRHOCK_LEAVE_LOSTA",
+            "translated": "E1FCT3_ACT_AIRHOCK_LEAVE_LOSTA",
+            "desc": ""
+        },
+        {
+            "hash": 276904524,
+            "original": "E1FCT3_ACT_ARRIVE_BIKE_LATEA",
+            "translated": "E1FCT3_ACT_ARRIVE_BIKE_LATEA",
+            "desc": ""
+        },
+        {
+            "hash": 312406032,
+            "original": "E1FCT3_ACT_ARRIVE_NO_BIKEA",
+            "translated": "E1FCT3_ACT_ARRIVE_NO_BIKEA",
+            "desc": ""
+        },
+        {
+            "hash": 314874500,
+            "original": "~z~I'm gonna see if I can get us some takeout, man.",
+            "translated": "~z~看看待会儿能不能带几个妞回去，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 328202842,
+            "original": "E1FCT3_ACT_DIFF_POOL_YESA",
+            "translated": "E1FCT3_ACT_DIFF_POOL_YESA",
+            "desc": ""
+        },
+        {
+            "hash": 333067493,
+            "original": "~z~There'd better be tits, man. You can't have a show without tits.",
+            "translated": "~z~最好有奶子看，哥们。没奶子还算个锤子演出。",
+            "desc": ""
+        },
+        {
+            "hash": 334049055,
+            "original": "~z~I'm gonna feed you your balls, bitch.",
+            "translated": "~z~割了你的蛋喂给你吃，贱人。",
+            "desc": ""
+        },
+        {
+            "hash": 340159178,
+            "original": "E1FCT3_ACT_ARRIVE_SHOW_DRUNKA",
+            "translated": "E1FCT3_ACT_ARRIVE_SHOW_DRUNKA",
+            "desc": ""
+        },
+        {
+            "hash": 375173236,
+            "original": "~z~Next time we'll do some proper drinking, man.",
+            "translated": "~z~下次咱们再好好喝上几杯，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 379666636,
+            "original": "E1FCT3_ACT_DARTS_LEAVE_LOSTA",
+            "translated": "E1FCT3_ACT_DARTS_LEAVE_LOSTA",
+            "desc": ""
+        },
+        {
+            "hash": 380343414,
+            "original": "~z~Didn't think we were going to play darts, man. But, hey, when in fucking Rome.",
+            "translated": "~z~本来没打算来玩飞镖吧，哥们。但是，来都来了，那就玩吧。",
+            "desc": ""
+        },
+        {
+            "hash": 388405600,
+            "original": "~z~That's my kinda bar, bro.",
+            "translated": "~z~这酒吧我喜欢，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 391390994,
+            "original": "E1FCT3_ACT_DIFF_SHOW_YESA",
+            "translated": "E1FCT3_ACT_DIFF_SHOW_YESA",
+            "desc": ""
+        },
+        {
+            "hash": 398399377,
+            "original": "~z~That what I call a feed, brother. That shit'll set you up for the day.",
+            "translated": "~z~这饭菜才像话嘛，兄弟。这里吃一餐管一天。",
+            "desc": ""
+        },
+        {
+            "hash": 404870014,
+            "original": "~z~You best be ready, man. I'm gonna take your ass to school then give it fucking homework.",
+            "translated": "~z~准备好了吗，哥们？等着被老子好好教训一顿吧。",
+            "desc": ""
+        },
+        {
+            "hash": 434209768,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 446761552,
+            "original": "~z~Fuck man. You're late. Let's roll, brother.",
+            "translated": "~z~妈的，哥们。你迟到了。咱们走吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 455745382,
+            "original": "~z~You are one lucky motherfucker, Klebitz.",
+            "translated": "~z~你这崽种真够走运，Klebitz。",
+            "desc": ""
+        },
+        {
+            "hash": 492153038,
+            "original": "~z~I love this place, man. Straight-up beer and bitches. No bullshit, you know?",
+            "translated": "~z~我爱这家店，哥们。啤酒不加冰，娘们够性感。没骗你，真的。",
+            "desc": ""
+        },
+        {
+            "hash": 500281218,
+            "original": "~z~What's the problem, man? Have you grown tits all of a sudden?",
+            "translated": "~z~什么情况，哥们？你是突然长奶子了？",
+            "desc": ""
+        },
+        {
+            "hash": 500496210,
+            "original": "~z~I can't face this right now, man. Maybe another time.",
+            "translated": "~z~我现在不想来这里，哥们。以后再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 501116379,
+            "original": "E1FCT3_ACT_MEET_AT_ACTIVITY_NOT_LATEA",
+            "translated": "E1FCT3_ACT_MEET_AT_ACTIVITY_NOT_LATEA",
+            "desc": ""
+        },
+        {
+            "hash": 504185703,
+            "original": "~z~I'll fuck you all up.",
+            "translated": "~z~等着被干翻吧。",
+            "desc": ""
+        },
+        {
+            "hash": 521894852,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 527920674,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 534652275,
+            "original": "~z~I didn't think this was your kind of place, Johnny. But, fuck it, a drink's a drink.",
+            "translated": "~z~我还以为你看不上这种地方，Johnny。不过算了，总归也是在喝酒。",
+            "desc": ""
+        },
+        {
+            "hash": 611515067,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 619033822,
+            "original": "~z~I fucking love that place, man.",
+            "translated": "~z~我他妈爱死这家店了，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 619589883,
+            "original": "~z~Darts? Where did that sudden inspiration come from? Fuck it, let's play.",
+            "translated": "~z~飞镖？怎么突然玩这个了？算了，玩就玩吧。",
+            "desc": ""
+        },
+        {
+            "hash": 624246903,
+            "original": "E1FCT3_ACT_QUIT_AND_LEAVEA",
+            "translated": "E1FCT3_ACT_QUIT_AND_LEAVEA",
+            "desc": ""
+        },
+        {
+            "hash": 632942080,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 648243228,
+            "original": "~z~OK, Johnny. Let's see if we can awaken those fabled reactions of yours.",
+            "translated": "~z~好了，Johnny。看看能不能唤醒你体内的传奇本能吧。",
+            "desc": ""
+        },
+        {
+            "hash": 661439160,
+            "original": "~z~Come on, Johnny. Don't be such a pussy.",
+            "translated": "~z~拜托，Johnny。别这么犯贱。",
+            "desc": ""
+        },
+        {
+            "hash": 667947949,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 669180887,
+            "original": "E1FCT3_ACT_GOHOME_DRUNKA",
+            "translated": "E1FCT3_ACT_GOHOME_DRUNKA",
+            "desc": ""
+        },
+        {
+            "hash": 675942166,
+            "original": "~z~Thank you for your donation to the Terry beer fund, thank you.",
+            "translated": "~z~感谢您为Terry啤酒基金捐款，非常感谢。",
+            "desc": ""
+        },
+        {
+            "hash": 713185322,
+            "original": "E1FCT3_ACT_LEAVE_PUB_FIGHT_TAUNTSA",
+            "translated": "E1FCT3_ACT_LEAVE_PUB_FIGHT_TAUNTSA",
+            "desc": ""
+        },
+        {
+            "hash": 735436542,
+            "original": "E1FCT3_ACT_ARM_WRESTLING_LEAVE_ABANDONEDA",
+            "translated": "E1FCT3_ACT_ARM_WRESTLING_LEAVE_ABANDONEDA",
+            "desc": ""
+        },
+        {
+            "hash": 739028407,
+            "original": "E1FCT3_ACT_DARTS_LEAVE_DRAWA",
+            "translated": "E1FCT3_ACT_DARTS_LEAVE_DRAWA",
+            "desc": ""
+        },
+        {
+            "hash": 743766979,
+            "original": "E1FCT3_ACT_HI_LO_CARDS_LEAVE_DRUNKA",
+            "translated": "E1FCT3_ACT_HI_LO_CARDS_LEAVE_DRUNKA",
+            "desc": ""
+        },
+        {
+            "hash": 747292472,
+            "original": "~z~Man, if I had a dollar for every time I've woken up on the floor of this joint.",
+            "translated": "~z~哥们，要是我每次醉倒在这家店的地上都能拿钱，我早发达了。",
+            "desc": ""
+        },
+        {
+            "hash": 752856781,
+            "original": "~z~Shit Johnny. I've been waiting around here like some fucking bitch, Johnny. Let's get going.",
+            "translated": "~z~你妈的，Johnny，让老子跟站街似的等了半天，Johnny。咱们走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 766760926,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 779508539,
+            "original": "~z~What's the rush, bro? Can't we at least finish the game?",
+            "translated": "~z~你急啥呢，兄弟？就不能把这把打打完吗？",
+            "desc": ""
+        },
+        {
+            "hash": 796154411,
+            "original": "~z~You see how greasy my side of the table was?",
+            "translated": "~z~知道我这边的桌子有多油吗？",
+            "desc": ""
+        },
+        {
+            "hash": 798080103,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 815687114,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 856754917,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 879302024,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 894801586,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 902676448,
+            "original": "~z~It's official - I cannot play pool sober.",
+            "translated": "~z~官宣了，不喝酒我打不来台球。",
+            "desc": ""
+        },
+        {
+            "hash": 905161321,
+            "original": "~z~Thought I'd treat you to a little tactical masterclass.",
+            "translated": "~z~下次我教你点大师级战术吧。",
+            "desc": ""
+        },
+        {
+            "hash": 906817221,
+            "original": "~z~I'm stronger than I look, I'm warning ya now.",
+            "translated": "~z~现在警告你，我是穿衣显瘦的类型。",
+            "desc": ""
+        },
+        {
+            "hash": 924310401,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 929648887,
+            "original": "~z~Thanks bro. I'll see you soon.",
+            "translated": "~z~谢了兄弟，再见了。",
+            "desc": ""
+        },
+        {
+            "hash": 953184774,
+            "original": "~z~Listen man, can we just get outta here now?",
+            "translated": "~z~听着哥们，现在能走了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 953737276,
+            "original": "~z~A strip club? Now you're talking, man!",
+            "translated": "~z~脱衣舞俱乐部？这才像话嘛，哥们！",
+            "desc": ""
+        },
+        {
+            "hash": 972406657,
+            "original": "~z~Shit Johnny. I didn't think you were a quitter.",
+            "translated": "~z~妈的，Johnny。没想到你会半途而废。",
+            "desc": ""
+        },
+        {
+            "hash": 992035220,
+            "original": "~z~Where are you going? It wasn't that bad.",
+            "translated": "~z~急着上哪儿呢？这也没演太差吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1002819605,
+            "original": "~z~I am on fucking fire today.",
+            "translated": "~z~今天爷手感火热。",
+            "desc": ""
+        },
+        {
+            "hash": 1051730989,
+            "original": "E1FCT3_ACT_ARRIVE_PUB_FAVOURITEA",
+            "translated": "E1FCT3_ACT_ARRIVE_PUB_FAVOURITEA",
+            "desc": ""
+        },
+        {
+            "hash": 1054622240,
+            "original": "~z~Look at this poker face, man. I'm a closed book.",
+            "translated": "~z~看我这张扑克脸，哥们。高深莫测。",
+            "desc": ""
+        },
+        {
+            "hash": 1057598823,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1060242657,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1073858884,
+            "original": "~z~Let's do this shit, man. I'm a fucking air hockey legend, man.",
+            "translated": "~z~干他妈的，哥们。老子可是冰球小王子，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 1075289279,
+            "original": "E1FCT3_ACT_SHOW_LEAVE_WONA",
+            "translated": "E1FCT3_ACT_SHOW_LEAVE_WONA",
+            "desc": ""
+        },
+        {
+            "hash": 1076288326,
+            "original": "E1FCT3_ACT_ARRIVE_POOLA",
+            "translated": "E1FCT3_ACT_ARRIVE_POOLA",
+            "desc": ""
+        },
+        {
+            "hash": 1083190828,
+            "original": "E1FCT3_ACT_POOL_LEAVE_DRUNKA",
+            "translated": "E1FCT3_ACT_POOL_LEAVE_DRUNKA",
+            "desc": ""
+        },
+        {
+            "hash": 1103814790,
+            "original": "~z~Fuck man. What do they put in that beer? It smells like a dog's ass.",
+            "translated": "~z~我操，哥们。这啤酒是兑了些啥？一股狗屁味。",
+            "desc": ""
+        },
+        {
+            "hash": 1109974811,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1110907211,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1120128644,
+            "original": "E1FCT3_ACT_POOL_LEAVE_WONA",
+            "translated": "E1FCT3_ACT_POOL_LEAVE_WONA",
+            "desc": ""
+        },
+        {
+            "hash": 1120413032,
+            "original": "E1FCT3_ACT_ARRIVE_HI_LO_CARDS_DRUNKA",
+            "translated": "E1FCT3_ACT_ARRIVE_HI_LO_CARDS_DRUNKA",
+            "desc": ""
+        },
+        {
+            "hash": 1126173981,
+            "original": "~z~OK, Johnny. Let's see how many you can actually get on the board.",
+            "translated": "~z~好了，Johnny。看看你能得多少分。",
+            "desc": ""
+        },
+        {
+            "hash": 1130218523,
+            "original": "~z~It was good hanging out, bro, but I've gotta roll.",
+            "translated": "~z~能出来玩很开心，兄弟，但我得走啦。",
+            "desc": ""
+        },
+        {
+            "hash": 1142439164,
+            "original": "E1FCT3_ACT_DIFF_FOOD_YESA",
+            "translated": "E1FCT3_ACT_DIFF_FOOD_YESA",
+            "desc": ""
+        },
+        {
+            "hash": 1152173209,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1152613985,
+            "original": "~z~I hope Bambi's here, man. I fucking love Bambi.",
+            "translated": "~z~希望今天Bambi在，哥们。老子爱死Bambi了。",
+            "desc": ""
+        },
+        {
+            "hash": 1159653858,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1169321353,
+            "original": "~z~That was fun, man. We have to do it again.",
+            "translated": "~z~我很开心，哥们。下次再一起出去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1171846531,
+            "original": "E1FCT3_ACT_DARTS_LEAVE_WONA",
+            "translated": "E1FCT3_ACT_DARTS_LEAVE_WONA",
+            "desc": ""
+        },
+        {
+            "hash": 1201822942,
+            "original": "~z~How we gonna do this if you haven't got a bike, man?",
+            "translated": "~z~你连摩托车都没有，咱们怎么去玩，哥们？",
+            "desc": ""
+        },
+        {
+            "hash": 1245158335,
+            "original": "~z~Open wide and take it like a whore.",
+            "translated": "~z~别挣扎了，老实挨操。",
+            "desc": ""
+        },
+        {
+            "hash": 1246214089,
+            "original": "~z~Me playing pool is like poetry in motion, man. It's a fucking beautiful thing.",
+            "translated": "~z~我打台球就像那什么高山流水，哥们。讲究一个意境。",
+            "desc": ""
+        },
+        {
+            "hash": 1280283423,
+            "original": "~z~All square. That was a good match, bro.",
+            "translated": "~z~平局。打得不错，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1286471609,
+            "original": "~z~Those girls are high-quality, man. Tested and everything.",
+            "translated": "~z~这些妹子的技术可以的，哥们。都是久经考验的。",
+            "desc": ""
+        },
+        {
+            "hash": 1289676047,
+            "original": "~z~Shit Johnny. It was just starting to get good.",
+            "translated": "~z~你妈的，Johnny。这才刚进入主题呢。",
+            "desc": ""
+        },
+        {
+            "hash": 1309111448,
+            "original": "~z~I bet you've never seen reactions like that before.",
+            "translated": "~z~我敢说你从来没见过这么快的反应。",
+            "desc": ""
+        },
+        {
+            "hash": 1313348853,
+            "original": "~z~Hey man. Let's roll.",
+            "translated": "~z~嘿哥们。回去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1316177999,
+            "original": "E1FCT3_ACT_POOL_LEAVE_ABANDONEDA",
+            "translated": "E1FCT3_ACT_POOL_LEAVE_ABANDONEDA",
+            "desc": ""
+        },
+        {
+            "hash": 1318773149,
+            "original": "~z~I'm gonna clean up in here.",
+            "translated": "~z~一会儿看我横扫全场。",
+            "desc": ""
+        },
+        {
+            "hash": 1342906742,
+            "original": "~z~I can't believe you went for this place. Everything comes with a side order of dysentery.",
+            "translated": "~z~你居然会来这种地方。这里的东西没一样吃了不会窜稀的。",
+            "desc": ""
+        },
+        {
+            "hash": 1344439653,
+            "original": "E1FCT3_ACT_DROPOFF_DRUNKA",
+            "translated": "E1FCT3_ACT_DROPOFF_DRUNKA",
+            "desc": ""
+        },
+        {
+            "hash": 1373401426,
+            "original": "~z~Where is your bike, man?",
+            "translated": "~z~你摩托车呢，哥们？",
+            "desc": ""
+        },
+        {
+            "hash": 1384481804,
+            "original": "~z~Can't do much against that kinda luck, man.",
+            "translated": "~z~实在是天命难违啊，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 1394873315,
+            "original": "E1FCT3_ACT_DIFF_DARTS_YESA",
+            "translated": "E1FCT3_ACT_DIFF_DARTS_YESA",
+            "desc": ""
+        },
+        {
+            "hash": 1417753624,
+            "original": "E1FCT3_ACT_ARRIVE_FOOD_DRUNKA",
+            "translated": "E1FCT3_ACT_ARRIVE_FOOD_DRUNKA",
+            "desc": ""
+        },
+        {
+            "hash": 1417813562,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1418919510,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1425322293,
+            "original": "~z~I'll rearrange your face.",
+            "translated": "~z~等我给你做个整容。",
+            "desc": ""
+        },
+        {
+            "hash": 1462184679,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1491037143,
+            "original": "E1FCT3_ACT_SHOW_LEAVE_DRUNKA",
+            "translated": "E1FCT3_ACT_SHOW_LEAVE_DRUNKA",
+            "desc": ""
+        },
+        {
+            "hash": 1496746422,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1497471520,
+            "original": "E1FCT3_ACT_ARRIVE_AIRHOCK_DRUNKA",
+            "translated": "E1FCT3_ACT_ARRIVE_AIRHOCK_DRUNKA",
+            "desc": ""
+        },
+        {
+            "hash": 1499260362,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1541937660,
+            "original": "~z~Good hanging out with you, brother.",
+            "translated": "~z~跟你出来玩真好，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1550357982,
+            "original": "~z~Hold onto your g-strings, ladies. This party has just arrived.",
+            "translated": "~z~抓好你们的内裤，美女们。派对刚刚开始。",
+            "desc": ""
+        },
+        {
+            "hash": 1558732550,
+            "original": "~z~I love them all the same, man. Every single one of them.",
+            "translated": "~z~我的爱雨露均沾，哥们。每一个都爱。",
+            "desc": ""
+        },
+        {
+            "hash": 1559969633,
+            "original": "E1FCT3_ACT_ARRIVE_SHOWA",
+            "translated": "E1FCT3_ACT_ARRIVE_SHOWA",
+            "desc": ""
+        },
+        {
+            "hash": 1582272940,
+            "original": "~z~Why did it take you so long, bro? We gotta get moving.",
+            "translated": "~z~你咋这么磨叽，兄弟？赶紧出发吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1588159112,
+            "original": "~z~I wish I could just live in there, dude. Tits for breakfast every day.",
+            "translated": "~z~真希望我可以住在这儿，老兄。每天都有奶子早餐。",
+            "desc": ""
+        },
+        {
+            "hash": 1615199096,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1617770960,
+            "original": "~z~What do these fools want?",
+            "translated": "~z~这帮傻逼想干啥？",
+            "desc": ""
+        },
+        {
+            "hash": 1622808633,
+            "original": "E1FCT3_ACT_DIFF_AIRHOCK_YESA",
+            "translated": "E1FCT3_ACT_DIFF_AIRHOCK_YESA",
+            "desc": ""
+        },
+        {
+            "hash": 1623269507,
+            "original": "~z~Shit Johnny. Cleaned me out, bro.",
+            "translated": "~z~妈的，Johnny。甘拜下风，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1650551049,
+            "original": "~z~That was some midas touch shit back there.",
+            "translated": "~z~刚才有几下是世界级水准的。",
+            "desc": ""
+        },
+        {
+            "hash": 1662306754,
+            "original": "~z~I can't believe we were playing air hockey, man.",
+            "translated": "~z~原来我们打的是桌上冰球吗，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 1672694749,
+            "original": "E1FCT3_ACT_ARRIVE_DARTS_DRUNKA",
+            "translated": "E1FCT3_ACT_ARRIVE_DARTS_DRUNKA",
+            "desc": ""
+        },
+        {
+            "hash": 1693536447,
+            "original": "~z~Right, let's play some darts, brother.",
+            "translated": "~z~好，一起玩飞镖吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1699826690,
+            "original": "~z~This place? Are you fucking kidding? You must have a cast-iron stomach, man.",
+            "translated": "~z~这逼饭馆？你他妈搞笑呢？你那胃是铁胃吧，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 1703121850,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1712166624,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1712398442,
+            "original": "~z~You are luckier than a dude with two dicks, Johnny.",
+            "translated": "~z~你比长了两根鸡巴的老兄还走运啊，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 1729508281,
+            "original": "~z~Why do I get the feeling that the chef's special ingredient is his own DNA?",
+            "translated": "~z~我怎么觉得这个厨子的独门秘方就是他的DNA呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1733990810,
+            "original": "~z~OK, Johnny. Let's see what you got.",
+            "translated": "~z~好了，Johnny。拿出你的本事吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1736196167,
+            "original": "E1FCT3_ACT_LEAVE_EATERY_GOODA",
+            "translated": "E1FCT3_ACT_LEAVE_EATERY_GOODA",
+            "desc": ""
+        },
+        {
+            "hash": 1736660562,
+            "original": "~z~You've no idea who you're fucking with.",
+            "translated": "~z~知道自己惹上谁了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1778685357,
+            "original": "E1FCT3_ACT_HI_LO_CARDS_LEAVE_LOSTA",
+            "translated": "E1FCT3_ACT_HI_LO_CARDS_LEAVE_LOSTA",
+            "desc": ""
+        },
+        {
+            "hash": 1796061861,
+            "original": "E1FCT3_ACT_LEAVE_PUB_AVERAGEA",
+            "translated": "E1FCT3_ACT_LEAVE_PUB_AVERAGEA",
+            "desc": ""
+        },
+        {
+            "hash": 1797160117,
+            "original": "E1FCT3_ACT_HI_LO_CARDS_LEAVE_ABANDONEDA",
+            "translated": "E1FCT3_ACT_HI_LO_CARDS_LEAVE_ABANDONEDA",
+            "desc": ""
+        },
+        {
+            "hash": 1797691556,
+            "original": "E1FCT3_ACT_QUIT_AND_LEAVE_DRUNKA",
+            "translated": "E1FCT3_ACT_QUIT_AND_LEAVE_DRUNKA",
+            "desc": ""
+        },
+        {
+            "hash": 1817416105,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1828042012,
+            "original": "~z~Man, I couldn't hit anything today.",
+            "translated": "~z~哥们，今天我屁都打不着。",
+            "desc": ""
+        },
+        {
+            "hash": 1848293730,
+            "original": "~z~OK, man. Let's dry hump some illegal immigrants.",
+            "translated": "~z~好了，哥们。一起和非法移民摩擦摩擦吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1900650482,
+            "original": "~z~I've gotta roll, brother. See you later.",
+            "translated": "~z~我得走啦，兄弟。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 1906480754,
+            "original": "~z~Hot sauce, man. I want hot sauce on everything.",
+            "translated": "~z~辣酱，哥们。我啥都想加辣酱。",
+            "desc": ""
+        },
+        {
+            "hash": 1925481117,
+            "original": "E1FCT3_ACT_POOL_LEAVE_DRAWA",
+            "translated": "E1FCT3_ACT_POOL_LEAVE_DRAWA",
+            "desc": ""
+        },
+        {
+            "hash": 1938079066,
+            "original": "~z~I love this place, man. They put cheese on everything.",
+            "translated": "~z~我爱这家店，哥们。他家的菜都放奶酪。",
+            "desc": ""
+        },
+        {
+            "hash": 1965777534,
+            "original": "~z~That was close, man. We'll have to have a rematch.",
+            "translated": "~z~不相上下啊，哥们。咱们得重赛一次。",
+            "desc": ""
+        },
+        {
+            "hash": 1980339601,
+            "original": "~z~Right then, Klebitz. To the death.",
+            "translated": "~z~好啊，Klebitz。决一死战吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1983863981,
+            "original": "E1FCT3_ACT_LEAVE_EATERY_FAVOURITEA",
+            "translated": "E1FCT3_ACT_LEAVE_EATERY_FAVOURITEA",
+            "desc": ""
+        },
+        {
+            "hash": 1988115097,
+            "original": "~z~Shit Johnny. You need to find yourself a bike, man.",
+            "translated": "~z~妈的，Johnny。给自己找辆摩托，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2013353602,
+            "original": "~z~We could have finished the game, man.",
+            "translated": "~z~怎么不投完再走呢，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2031697175,
+            "original": "~z~Right man. Let's take this old-school.",
+            "translated": "~z~好了哥们，来点老派的吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2042688545,
+            "original": "~z~Yeah, this place is ok. They're a bit fucking French with their portions, though.",
+            "translated": "~z~可以，这地方不错。不过这家店的菜份量有点少。",
+            "desc": ""
+        },
+        {
+            "hash": 2063106609,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2083048798,
+            "original": "~z~Where have you been, Johnny? Come on, let's go.",
+            "translated": "~z~你上哪去了，Johnny？快点，咱们走。",
+            "desc": ""
+        },
+        {
+            "hash": 2115031250,
+            "original": "~z~Where did this sudden change of plan come from? OK, man, pool it is.",
+            "translated": "~z~你这主意又从哪冒出来的？好吧，哥们，那就打台球吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2117024189,
+            "original": "~z~Hey Johnny, I'm gonna have to bail. We'll speak later.",
+            "translated": "~z~嘿Johnny，我得溜了。以后再聊。",
+            "desc": ""
+        },
+        {
+            "hash": 2135443443,
+            "original": "E1FCT3_ACT_DARTS_LEAVE_DRUNKA",
+            "translated": "E1FCT3_ACT_DARTS_LEAVE_DRUNKA",
+            "desc": ""
+        },
+        {
+            "hash": 2149203833,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2150212761,
+            "original": "~z~There was definitely something wrong with my cue, man. I'm telling you.",
+            "translated": "~z~跟你说吧，我那根球杆肯定有毛病，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2171828978,
+            "original": "~z~That was a good session, bro. We're pretty evenly matched.",
+            "translated": "~z~这把打得不错，兄弟。我们势均力敌啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2176256262,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2176260327,
+            "original": "~z~Yeah darts, baby. First one to pop the barmaid's implants.",
+            "translated": "~z~飞镖好啊，宝贝。爷必扎爆女招待的假胸。",
+            "desc": ""
+        },
+        {
+            "hash": 2200899197,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2206100860,
+            "original": "~z~We didn't even finish, Johnny. What's with the attitude?",
+            "translated": "~z~都还没投完呢，Johnny。你这啥态度啊？",
+            "desc": ""
+        },
+        {
+            "hash": 2219782684,
+            "original": "~z~Ok Johnny. Let's see those skills you keep going on about.",
+            "translated": "~z~好了，Johnny，该看看你的吹逼有几分真话了。",
+            "desc": ""
+        },
+        {
+            "hash": 2220676355,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2222223638,
+            "original": "~z~I'd eat at that place every day if I could. They've got the best-tasting cholesterol in town.",
+            "translated": "~z~可以的话我天天来这儿吃饭。他家的胆固醇是全市最好吃的。",
+            "desc": ""
+        },
+        {
+            "hash": 2222889702,
+            "original": "~z~I hate ties, man. It's worse than losing.",
+            "translated": "~z~我讨厌平局，哥们。比输了还难受。",
+            "desc": ""
+        },
+        {
+            "hash": 2253224856,
+            "original": "E1FCT3_ACT_STRIP_LEAVE_WONA",
+            "translated": "E1FCT3_ACT_STRIP_LEAVE_WONA",
+            "desc": ""
+        },
+        {
+            "hash": 2255459926,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2259357118,
+            "original": "~z~I think I'm done, man. Let's head off.",
+            "translated": "~z~我觉得差不多了，哥们。咱回去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2269108756,
+            "original": "~z~Come on, Johnny. That's weak, man.",
+            "translated": "~z~拜托，Johnny。你很逊诶，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2292490548,
+            "original": "E1FCT3_ACT_ARRIVE_STRIP_DRUNKA",
+            "translated": "E1FCT3_ACT_ARRIVE_STRIP_DRUNKA",
+            "desc": ""
+        },
+        {
+            "hash": 2305959705,
+            "original": "E1FCT3_ACT_ARRIVE_DARTSA",
+            "translated": "E1FCT3_ACT_ARRIVE_DARTSA",
+            "desc": ""
+        },
+        {
+            "hash": 2308806712,
+            "original": "~z~That place is ok. Talk about cock-heavy, though.",
+            "translated": "~z~这地方挺好的。我是说很适合勃起。",
+            "desc": ""
+        },
+        {
+            "hash": 2340629819,
+            "original": "E1FCT3_ACT_ARRIVE_EATERY_GOODA",
+            "translated": "E1FCT3_ACT_ARRIVE_EATERY_GOODA",
+            "desc": ""
+        },
+        {
+            "hash": 2346198049,
+            "original": "~z~Hey Johnny. Good to see you, man.",
+            "translated": "~z~嘿，Johnny。见到你真开心，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2402268768,
+            "original": "~z~That was pretty funny, man.",
+            "translated": "~z~实在太好笑了，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2429330617,
+            "original": "E1FCT3_ACT_ARRIVE_ARM_WRESTLINGA",
+            "translated": "E1FCT3_ACT_ARRIVE_ARM_WRESTLINGA",
+            "desc": ""
+        },
+        {
+            "hash": 2434761834,
+            "original": "~z~Good times, brother. Hit me up again soon.",
+            "translated": "~z~太痛快了，兄弟。以后再叫我。",
+            "desc": ""
+        },
+        {
+            "hash": 2461787413,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2468554996,
+            "original": "~z~You're gonna get annihilated, bro.",
+            "translated": "~z~我要粉碎你，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2476850360,
+            "original": "~z~I'm in the fucking zone, man. Steady as a rock.",
+            "translated": "~z~我他妈进入状态了，哥们。稳得一批。",
+            "desc": ""
+        },
+        {
+            "hash": 2490024757,
+            "original": "~z~This is shit, man. Let's get outta here.",
+            "translated": "~z~太烂了，哥们。赶紧走人吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2495023629,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2496965137,
+            "original": "~z~Hey Johnny. What d'ya say we call it a day?",
+            "translated": "~z~喂，Johnny，要么今天就到这儿了吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2500832695,
+            "original": "~z~That is one fucked-up game.",
+            "translated": "~z~都不知道在打什么。",
+            "desc": ""
+        },
+        {
+            "hash": 2552476996,
+            "original": "~z~Yeah, I'm still not sure about that place. I was getting some funny smiles off the barman.",
+            "translated": "~z~行吧，这家店我说不上好不好。我只觉得酒保的笑容有点不怀好意。",
+            "desc": ""
+        },
+        {
+            "hash": 2572721737,
+            "original": "~z~I've got a good feeling about this.",
+            "translated": "~z~我觉得我手气正旺。",
+            "desc": ""
+        },
+        {
+            "hash": 2578601336,
+            "original": "E1FCT3_ACT_MEET_AT_ACTIVITY_LATEA",
+            "translated": "E1FCT3_ACT_MEET_AT_ACTIVITY_LATEA",
+            "desc": ""
+        },
+        {
+            "hash": 2600727398,
+            "original": "~z~Listen, man, I'm outta here. See you later.",
+            "translated": "~z~听着，哥们，我要走啦。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 2612996558,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2640938018,
+            "original": "~z~Fucking air hockey, man. I rule this shit.",
+            "translated": "~z~操他妈的桌上冰球，哥们。这是我的主场。",
+            "desc": ""
+        },
+        {
+            "hash": 2641392971,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2643017602,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2663096665,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2666103332,
+            "original": "~z~Alright, Klebitz. Let's get this show on the road.",
+            "translated": "~z~好了，Klebitz，准备启程吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2667473363,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2717506548,
+            "original": "~z~We should have heckled more, bro.",
+            "translated": "~z~咱应该多起哄两下，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2733022413,
+            "original": "~z~Where have you been, man? I was starting to get paranoid.",
+            "translated": "~z~你上哪去了，哥们？搞得我心神不安。",
+            "desc": ""
+        },
+        {
+            "hash": 2737872726,
+            "original": "~z~I like your thinking, Johnny. I could do with some food.",
+            "translated": "~z~这主意好啊，Johnny。吃饭我能接受。",
+            "desc": ""
+        },
+        {
+            "hash": 2749168358,
+            "original": "~z~Stay away from the yellow mayonnaise, man, that's all I'm gonna say.",
+            "translated": "~z~就这么跟你说吧，哥们，远离蛋黄酱。",
+            "desc": ""
+        },
+        {
+            "hash": 2762055747,
+            "original": "~z~Look who decided to finally show up.",
+            "translated": "~z~他可终于出现了。",
+            "desc": ""
+        },
+        {
+            "hash": 2769979083,
+            "original": "~z~That shit's given me a headache, man.",
+            "translated": "~z~这东西搞得我头疼，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2772492265,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2787075742,
+            "original": "~z~I've got the fear, man. Can we get outta here?",
+            "translated": "~z~给我都整怕了，哥们。咱能不能走了？",
+            "desc": ""
+        },
+        {
+            "hash": 2792331833,
+            "original": "~z~I didn't think we were gonna be playing air hockey but...whatever floats your boat, man.",
+            "translated": "~z~我记得之前没说要打桌上冰球，不过...你开心就好，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2805450596,
+            "original": "~z~Eyes up, brother. We've got company.",
+            "translated": "~z~打起精神来，兄弟。这下有伴了。",
+            "desc": ""
+        },
+        {
+            "hash": 2812754662,
+            "original": "~z~Let's hope I get some fucking luck for once.",
+            "translated": "~z~我他妈想走运一次。",
+            "desc": ""
+        },
+        {
+            "hash": 2816975894,
+            "original": "E1FCT3_ACT_ARRIVE_BIKE_NOT_LATEA",
+            "translated": "E1FCT3_ACT_ARRIVE_BIKE_NOT_LATEA",
+            "desc": ""
+        },
+        {
+            "hash": 2831376133,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2838997704,
+            "original": "~z~I didn't even know what I was laughing at, dude.",
+            "translated": "~z~我都不知道我在笑啥，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 2866177589,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2890605100,
+            "original": "E1FCT3_ACT_AIRHOCK_LEAVE_DRUNKA",
+            "translated": "E1FCT3_ACT_AIRHOCK_LEAVE_DRUNKA",
+            "desc": ""
+        },
+        {
+            "hash": 2893961838,
+            "original": "~z~I think we all learned something today.",
+            "translated": "~z~我想今天我们都学到了点东西。",
+            "desc": ""
+        },
+        {
+            "hash": 2914282833,
+            "original": "~z~We're gonna have to have a rematch, man.",
+            "translated": "~z~这下得重赛了，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2914857634,
+            "original": "~z~My mouth tastes like fucking battery acid, dude.",
+            "translated": "~z~这味道他妈跟电池水似的，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 2928802989,
+            "original": "E1FCT3_ACT_ARRIVE_EATERY_AVERAGEA",
+            "translated": "E1FCT3_ACT_ARRIVE_EATERY_AVERAGEA",
+            "desc": ""
+        },
+        {
+            "hash": 2950357076,
+            "original": "~z~This'll do, I suppose. We'll be hungry again in another hour, though.",
+            "translated": "~z~就在这儿吃吧。不过多半管不了饱了。",
+            "desc": ""
+        },
+        {
+            "hash": 2976568411,
+            "original": "~z~I'm gonna feel that in the morning, man.",
+            "translated": "~z~明早我才会感到酸痛吧，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2977184733,
+            "original": "~z~Good idea, man. This hangover needs feeding.",
+            "translated": "~z~好主意，哥们。宿醉完了得吃点东西。",
+            "desc": ""
+        },
+        {
+            "hash": 2982634752,
+            "original": "~z~You just witnessed the perfect fusion of power and technique.",
+            "translated": "~z~你刚刚见证了力量与技术的完美融合。",
+            "desc": ""
+        },
+        {
+            "hash": 2984686357,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2986655681,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3000995431,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3009065323,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3035783897,
+            "original": "~z~Check out these dickheads.",
+            "translated": "~z~尝尝这个，崽种。",
+            "desc": ""
+        },
+        {
+            "hash": 3039211166,
+            "original": "~z~You ready, brother? Let's do this.",
+            "translated": "~z~准备好没，兄弟？出发吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3048602587,
+            "original": "~z~Listen, I gotta go get outta here. Everything's spinning, dude.",
+            "translated": "~z~听着，我得先走一步了。天旋地转的，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 3094828674,
+            "original": "~z~It was alright, man, but I reckon we should stay close to a restroom.",
+            "translated": "~z~还行吧，哥们。不过我觉得先找好厕所比较好。",
+            "desc": ""
+        },
+        {
+            "hash": 3098692029,
+            "original": "~z~I've got a joke for you...suck my dick.",
+            "translated": "~z~给你讲个笑话...食我大屌啦。",
+            "desc": ""
+        },
+        {
+            "hash": 3104664729,
+            "original": "~z~A tie, I can't fucking believe it. I'll have you next time.",
+            "translated": "~z~平了，真他妈不敢相信。下次再一决胜负。",
+            "desc": ""
+        },
+        {
+            "hash": 3109727839,
+            "original": "~z~Sorry man. I'm not in the mood for this right now.",
+            "translated": "~z~不好意思哥们。我现在没心情。",
+            "desc": ""
+        },
+        {
+            "hash": 3122284776,
+            "original": "~z~We're going here now? Fine by me. I'm always down for a game of pool.",
+            "translated": "~z~改成来这儿了？也能接受。我一直都喜欢打台球的。",
+            "desc": ""
+        },
+        {
+            "hash": 3180129171,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3187953852,
+            "original": "E1FCT3_ACT_LEAVE_PUB_FIGHTA",
+            "translated": "E1FCT3_ACT_LEAVE_PUB_FIGHTA",
+            "desc": ""
+        },
+        {
+            "hash": 3188701365,
+            "original": "~z~Higher. Lower. How the fuck am I supposed to know?",
+            "translated": "~z~大、小，这他妈谁猜得到？",
+            "desc": ""
+        },
+        {
+            "hash": 3199829185,
+            "original": "~z~Fucking pussies.",
+            "translated": "~z~傻逼废物。",
+            "desc": ""
+        },
+        {
+            "hash": 3203183160,
+            "original": "E1FCT3_ACT_SHOW_LEAVE_ABANDONEDA",
+            "translated": "E1FCT3_ACT_SHOW_LEAVE_ABANDONEDA",
+            "desc": ""
+        },
+        {
+            "hash": 3204312196,
+            "original": "~z~Shit Johnny, you should've told me. I'd have brought more money.",
+            "translated": "~z~他妈的，Johnny，你怎么不早说。早知道就多带点钱了。",
+            "desc": ""
+        },
+        {
+            "hash": 3205206693,
+            "original": "~z~I like your thinking, man. Getting loaded is a much better plan.",
+            "translated": "~z~这主意好，哥们。喝酒比什么都爽。",
+            "desc": ""
+        },
+        {
+            "hash": 3270035810,
+            "original": "~z~That place isn't bad. Just what I needed.",
+            "translated": "~z~这地方还不错，正是我需要的。",
+            "desc": ""
+        },
+        {
+            "hash": 3273684934,
+            "original": "~z~My arm hasn't got that much exercise since the CNT porn-athon.",
+            "translated": "~z~我上一次锻炼手臂还是看CNT台的黄片马拉松的时候。",
+            "desc": ""
+        },
+        {
+            "hash": 3296437357,
+            "original": "E1FCT3_ACT_DIFF_STRIP_YESA",
+            "translated": "E1FCT3_ACT_DIFF_STRIP_YESA",
+            "desc": ""
+        },
+        {
+            "hash": 3312009445,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3317931663,
+            "original": "~z~You didn't tell me we were going to show, man. Shit, why not. I just hope nobody sees us.",
+            "translated": "~z~你都没跟我说要来看演出，哥们。妈的，来都来了。希望没人看到咱们。",
+            "desc": ""
+        },
+        {
+            "hash": 3321448655,
+            "original": "~z~Don't worry, man. You did ok for a beginner.",
+            "translated": "~z~别伤心，哥们。作为新手，你打得够好了。",
+            "desc": ""
+        },
+        {
+            "hash": 3344260305,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3364042857,
+            "original": "E1FCT3_ACT_ARRIVE_POOL_DRUNKA",
+            "translated": "E1FCT3_ACT_ARRIVE_POOL_DRUNKA",
+            "desc": ""
+        },
+        {
+            "hash": 3368035850,
+            "original": "~z~A drink? Now you're talking my language, brother.",
+            "translated": "~z~喝两杯？跟我想的一样啊，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3386011356,
+            "original": "~z~I don't even know why I play this stupid game.",
+            "translated": "~z~都不知道为啥我会玩这种傻逼游戏。",
+            "desc": ""
+        },
+        {
+            "hash": 3390219765,
+            "original": "~z~This better be good, man. We're cutting into some serious drinking time here.",
+            "translated": "~z~希望演出好看点，哥们。待会儿还得在这儿喝上几杯。",
+            "desc": ""
+        },
+        {
+            "hash": 3396018470,
+            "original": "~z~Glad you could make it, Johnny. We're gonna rule this shit.",
+            "translated": "~z~真高兴你来了，Johnny。一起尽情放浪吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3396833764,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3400194470,
+            "original": "~z~Hey Johnny. Let's roll, man.",
+            "translated": "~z~嘿，Johnny。咱们走吧，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 3403237273,
+            "original": "E1FCT3_ACT_STRIP_LEAVE_DRUNKA",
+            "translated": "E1FCT3_ACT_STRIP_LEAVE_DRUNKA",
+            "desc": ""
+        },
+        {
+            "hash": 3410241271,
+            "original": "~z~I'm done with this shit, man. You're a lousy fucking date.",
+            "translated": "~z~我受够了，哥们。跟你出来玩真的烦。",
+            "desc": ""
+        },
+        {
+            "hash": 3426909419,
+            "original": "E1FCT3_ACT_EATERY_LEAVE_DRUNKA",
+            "translated": "E1FCT3_ACT_EATERY_LEAVE_DRUNKA",
+            "desc": ""
+        },
+        {
+            "hash": 3441306294,
+            "original": "E1FCT3_ACT_DIFF_DRINK_YESA",
+            "translated": "E1FCT3_ACT_DIFF_DRINK_YESA",
+            "desc": ""
+        },
+        {
+            "hash": 3474549710,
+            "original": "~z~You seem to have forgotten a key piece of equipment... your fucking bike, bro!",
+            "translated": "~z~看来你忘了件重要的装备...你丫的车呢，兄弟！",
+            "desc": ""
+        },
+        {
+            "hash": 3478908589,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3496373791,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3549575724,
+            "original": "~z~A closet man of the arts? Who'd have thought it? Fuck it, I'll watch a show with you.",
+            "translated": "~z~搞文艺的深柜男？真令人意外啊？妈的，就陪你看一次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3551146568,
+            "original": "E1FCT3_ACT_ARM_WRESTLING_LEAVE_DRUNKA",
+            "translated": "E1FCT3_ACT_ARM_WRESTLING_LEAVE_DRUNKA",
+            "desc": ""
+        },
+        {
+            "hash": 3561721125,
+            "original": "E1FCT3_ACT_AIRHOCK_LEAVE_DRAWA",
+            "translated": "E1FCT3_ACT_AIRHOCK_LEAVE_DRAWA",
+            "desc": ""
+        },
+        {
+            "hash": 3562722684,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3567469401,
+            "original": "~z~You're crazy, man. We could have cleaned up in there.",
+            "translated": "~z~你疯了吧，哥们。多看会儿娘们不好吗。",
+            "desc": ""
+        },
+        {
+            "hash": 3583793816,
+            "original": "~z~Fuck man. I've gotta drain the main vein.",
+            "translated": "~z~操了，哥们。我得去拉泡尿。",
+            "desc": ""
+        },
+        {
+            "hash": 3585975999,
+            "original": "~z~I would have had you if I hadn't got that cramp, Johnny.",
+            "translated": "~z~要不是我突然抽筋，你就输了，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 3586845649,
+            "original": "~z~That's what happens when you bring your B-game, Klebitz.",
+            "translated": "~z~谁让你要玩自己不擅长的游戏呢，Klebitz。",
+            "desc": ""
+        },
+        {
+            "hash": 3587531037,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3601157265,
+            "original": "E1FCT3_ACT_HI_LO_CARDS_LEAVE_WONA",
+            "translated": "E1FCT3_ACT_HI_LO_CARDS_LEAVE_WONA",
+            "desc": ""
+        },
+        {
+            "hash": 3602398207,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3606418506,
+            "original": "~z~Fuck the wheel. Silicone is man's greatest invention.",
+            "translated": "~z~要啥摩托车啊。硅胶才是人类最伟大的发明。",
+            "desc": ""
+        },
+        {
+            "hash": 3617669394,
+            "original": "~z~This better not be any of that queer arty bullshit.",
+            "translated": "~z~最好别是那种人妖彩虹屁。",
+            "desc": ""
+        },
+        {
+            "hash": 3629214220,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3634820318,
+            "original": "~z~Not bad, man. Filled a hole.",
+            "translated": "~z~不错啊，哥们。又进一洞。",
+            "desc": ""
+        },
+        {
+            "hash": 3636035276,
+            "original": "~z~Air hockey?! Not quite what I was expecting, brother, I gotta say. But why not...",
+            "translated": "~z~桌上冰球？！我得说下，跟我想的不太一样，兄弟。但来都来了...",
+            "desc": ""
+        },
+        {
+            "hash": 3636574417,
+            "original": "~z~You're going down.",
+            "translated": "~z~你们等死吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3655970766,
+            "original": "E1FCT3_ACT_ARRIVE_PUB_AVERAGEA",
+            "translated": "E1FCT3_ACT_ARRIVE_PUB_AVERAGEA",
+            "desc": ""
+        },
+        {
+            "hash": 3685623034,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3689355492,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3697098491,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3697430598,
+            "original": "~z~This place isn't bad, bro. Just don't eat the peanuts on the bar, if you value your lower intestine.",
+            "translated": "~z~这地方还不错，兄弟。就是不想闹肚子的话，别吃吧台上的花生。",
+            "desc": ""
+        },
+        {
+            "hash": 3710761329,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3730127644,
+            "original": "~z~Already? You've gotta be fucking with me, man? We're just getting going.",
+            "translated": "~z~这么快？你丫存心搞老子吧，哥们？我们才刚要开始。",
+            "desc": ""
+        },
+        {
+            "hash": 3770445466,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3779313879,
+            "original": "~z~Come on, man. We could at least have finished the game.",
+            "translated": "~z~别这样啊，哥们。打完这把再走也不迟啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3812876442,
+            "original": "~z~What the fuck, Johnny? I barely had time to slap an ass.",
+            "translated": "~z~搞啥啊，Johnny？我都没来得及摸屁股。",
+            "desc": ""
+        },
+        {
+            "hash": 3843846495,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3848879610,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3868347088,
+            "original": "E1FCT3_ACT_ARRIVE_AIRHOCKA",
+            "translated": "E1FCT3_ACT_ARRIVE_AIRHOCKA",
+            "desc": ""
+        },
+        {
+            "hash": 3876980438,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3881565719,
+            "original": "~z~I couldn't even see the numbers, man.",
+            "translated": "~z~我连靶子都看不清，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 3890372166,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3895020151,
+            "original": "~z~Where's the fucking fire, bro? We could have at least finished the game.",
+            "translated": "~z~你他妈哪来的火气啊，兄弟？怎么没打完就走了。",
+            "desc": ""
+        },
+        {
+            "hash": 3901598663,
+            "original": "E1FCT3_ACT_LEAVE_PUB_FAVOURITEA",
+            "translated": "E1FCT3_ACT_LEAVE_PUB_FAVOURITEA",
+            "desc": ""
+        },
+        {
+            "hash": 3927259461,
+            "original": "E1FCT3_ACT_ARRIVE_ARM_WRESTLING_DRUNKA",
+            "translated": "E1FCT3_ACT_ARRIVE_ARM_WRESTLING_DRUNKA",
+            "desc": ""
+        },
+        {
+            "hash": 3931772135,
+            "original": "~z~Did you see that last closeout, man? That was some textbook shit right there.",
+            "translated": "~z~你看到我最后那发绝杀了吗？那可是教科书级别的。",
+            "desc": ""
+        },
+        {
+            "hash": 3936983642,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3940079525,
+            "original": "E1FCT3_ACT_ARM_WRESTLING_LEAVE_LOSTA",
+            "translated": "E1FCT3_ACT_ARM_WRESTLING_LEAVE_LOSTA",
+            "desc": ""
+        },
+        {
+            "hash": 3976355264,
+            "original": "~z~I'm going straight for a kebab, man.",
+            "translated": "~z~我要去吃烤肉了，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 3978357918,
+            "original": "E1FCT3_ACT_ARRIVE_STRIPA",
+            "translated": "E1FCT3_ACT_ARRIVE_STRIPA",
+            "desc": ""
+        },
+        {
+            "hash": 4008969242,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4019559124,
+            "original": "~z~Listen man. I'm gonna bail. I can't handle this right now.",
+            "translated": "~z~听着哥们，我得溜了。我现在吃不消这个。",
+            "desc": ""
+        },
+        {
+            "hash": 4034715499,
+            "original": "~z~You can't back out on me now. I was about to hit a roll.",
+            "translated": "~z~你怎么中途逃跑啊。我才刚来感觉。",
+            "desc": ""
+        },
+        {
+            "hash": 4048032650,
+            "original": "E1FCT3_ACT_STRIP_LEAVE_ABANDONEDA",
+            "translated": "E1FCT3_ACT_STRIP_LEAVE_ABANDONEDA",
+            "desc": ""
+        },
+        {
+            "hash": 4055516629,
+            "original": "E1FCT3_ACT_DROPOFFA",
+            "translated": "E1FCT3_ACT_DROPOFFA",
+            "desc": ""
+        },
+        {
+            "hash": 4072166158,
+            "original": "E1FCT3_ACT_ARRIVE_HI_LO_CARDSA",
+            "translated": "E1FCT3_ACT_ARRIVE_HI_LO_CARDSA",
+            "desc": ""
+        },
+        {
+            "hash": 4075610131,
+            "original": "E1FCT3_ACT_AIRHOCK_LEAVE_ABANDONEDA",
+            "translated": "E1FCT3_ACT_AIRHOCK_LEAVE_ABANDONEDA",
+            "desc": ""
+        },
+        {
+            "hash": 4079254986,
+            "original": "~z~Yeah, this'll do. They serve a half-decent whisky in here.",
+            "translated": "~z~好啊，这家不错。他们家的威士忌还可以。",
+            "desc": ""
+        },
+        {
+            "hash": 4129896680,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4130498185,
+            "original": "~z~What's your problem, man? We haven't even finished.",
+            "translated": "~z~你啥毛病，哥们？咱还没打完呢。",
+            "desc": ""
+        },
+        {
+            "hash": 4132197975,
+            "original": "~z~I thought I had that one in the bag, man, I really did.",
+            "translated": "~z~我还以为这次我稳了，哥们，真的。",
+            "desc": ""
+        },
+        {
+            "hash": 4133688059,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4154614356,
+            "original": "E1FCT3_ACT_ARM_WRESTLING_LEAVE_WONA",
+            "translated": "E1FCT3_ACT_ARM_WRESTLING_LEAVE_WONA",
+            "desc": ""
+        },
+        {
+            "hash": 4163775800,
+            "original": "~z~I told you I was good, Johnny.",
+            "translated": "~z~我就说我更强吧，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 4173399284,
+            "original": "E1FCT3_ACT_POOL_LEAVE_LOSTA",
+            "translated": "E1FCT3_ACT_POOL_LEAVE_LOSTA",
+            "desc": ""
+        },
+        {
+            "hash": 4175596699,
+            "original": "~z~OK, Johnny. Let's see what you've got.",
+            "translated": "~z~好了，Johnny。让我见识下你的本事。",
+            "desc": ""
+        },
+        {
+            "hash": 4190791210,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4222455414,
+            "original": "E1FCT3_ACT_ARRIVE_EATERY_FAVOURITEA",
+            "translated": "E1FCT3_ACT_ARRIVE_EATERY_FAVOURITEA",
+            "desc": ""
+        },
+        {
+            "hash": 4223915129,
+            "original": "~z~That place sucks, man. Everything tastes like fucking water.",
+            "translated": "~z~什么傻逼店，哥们。啥酒都淡得跟水一样。",
+            "desc": ""
+        },
+        {
+            "hash": 4227383263,
+            "original": "E1FCT3_ACT_GOHOMEA",
+            "translated": "E1FCT3_ACT_GOHOMEA",
+            "desc": ""
+        },
+        {
+            "hash": 4249383812,
+            "original": "~z~This shit's about to go down, bro.",
+            "translated": "~z~你这废物要输啦，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 4251723615,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4258259432,
+            "original": "E1FCT3_ACT_LEAVE_EATERY_AVERAGEA",
+            "translated": "E1FCT3_ACT_LEAVE_EATERY_AVERAGEA",
+            "desc": ""
+        },
+        {
+            "hash": 4291334380,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        }
+    ]
+}

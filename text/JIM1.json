@@ -1,0 +1,190 @@
+{
+    "JIM1": [
+        {
+            "hash": 47170669,
+            "original": "Get your ~b~bike.~s~",
+            "translated": "取得你的~b~摩托。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 132874825,
+            "original": "~r~There aren't enough bikes for the shipment.~s~",
+            "translated": "~r~摩托太少，卖不掉了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 136600142,
+            "original": "Go to ~b~Jim.~s~",
+            "translated": "去找~b~Jim。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 400879255,
+            "original": "Go to ~b~Jim.~s~",
+            "translated": "去找~b~Jim。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 446179234,
+            "original": "~r~A stolen bike was wrecked.~s~",
+            "translated": "~r~一辆偷来的摩托坏了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 447717693,
+            "original": "Your backup has arrived.",
+            "translated": "你的支援到了。",
+            "desc": ""
+        },
+        {
+            "hash": 523077724,
+            "original": "Go to the ~y~clubhouse.~s~",
+            "translated": "前往~y~会所。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 656051458,
+            "original": "Get in the ~b~truck.~s~",
+            "translated": "进入~b~卡车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 770221522,
+            "original": "~s~Fuck yeah.~s~",
+            "translated": "~s~真吉尔棒。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1322979367,
+            "original": "~r~Jim is dead.~s~",
+            "translated": "~r~Jim死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1364487337,
+            "original": "Phone Terry or Clay for backup.",
+            "translated": "打电话给Terry或Clay呼叫支援。",
+            "desc": ""
+        },
+        {
+            "hash": 1636939156,
+            "original": "~r~Jim's bike was wrecked.~s~",
+            "translated": "~r~Jim的摩托坏了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1703643327,
+            "original": "Get back to the ~y~yard.~s~",
+            "translated": "返回~y~厂房后院。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1745066507,
+            "original": "Get back on your ~b~bike.~s~",
+            "translated": "回到你的~b~摩托~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1828636122,
+            "original": "You can phone Terry or Clay for help at any time during a job.",
+            "translated": "差事期间，你随时可以打电话给Terry或Clay寻求帮助。",
+            "desc": ""
+        },
+        {
+            "hash": 1951914784,
+            "original": "~r~Your bike was wrecked.~s~",
+            "translated": "~r~你的摩托坏了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1992406919,
+            "original": "~s~Let's do this.~s~",
+            "translated": "~s~开干。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2075771255,
+            "original": "Get in the truck with ~b~Jim.~s~",
+            "translated": "与~b~Jim~s~一起进入卡车。",
+            "desc": ""
+        },
+        {
+            "hash": 2232384655,
+            "original": "~r~The truck was wrecked.~s~",
+            "translated": "~r~卡车坏了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2363578218,
+            "original": "Take out the ~r~Angels of Death.~s~",
+            "translated": "干掉~r~死亡天使成员。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2614228299,
+            "original": "Wait for ~b~Jim.~s~",
+            "translated": "等待~b~Jim。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2960203401,
+            "original": "Park the bike on the back of the ~y~truck.~s~",
+            "translated": "将摩托停到~y~卡车~s~后面。",
+            "desc": ""
+        },
+        {
+            "hash": 3117920894,
+            "original": "Go to the ~y~diner.~s~",
+            "translated": "前往~y~小餐厅。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3208428576,
+            "original": "Get back in the ~b~truck.~s~",
+            "translated": "回到~b~卡车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 3424016123,
+            "original": "Leave the bikes, I'll have them looked after.",
+            "translated": "车就放这儿吧，我会处理好的。",
+            "desc": ""
+        },
+        {
+            "hash": 3511020686,
+            "original": "Follow ~b~Jim~s~ back to the clubhouse.",
+            "translated": "跟随~b~Jim~s~返回会所。",
+            "desc": ""
+        },
+        {
+            "hash": 3728571209,
+            "original": "Take a ~b~bike.~s~",
+            "translated": "偷一辆~b~摩托。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4035911660,
+            "original": "Get in the ~b~truck~s~ with Jim.",
+            "translated": "与Jim一起进入~b~卡车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4052558312,
+            "original": "Go to the ~b~truck.~s~",
+            "translated": "前往~b~卡车~s~所在地。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4071796583,
+            "original": "Get on the ~b~bike.~s~",
+            "translated": "骑上~b~摩托。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4091618664,
+            "original": "Get in the ~b~truck.~s~",
+            "translated": "进入~b~卡车。~s~",
+            "desc": ""
+        }
+    ]
+}

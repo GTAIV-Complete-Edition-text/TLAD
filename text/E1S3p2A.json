@@ -1,0 +1,478 @@
+{
+    "E1S3p2A": [
+        {
+            "hash": 16370306,
+            "original": "~z~You just done a line of yang, Stubbsy?",
+            "translated": "~z~你是刚吸收完阳气吗，Stubbsy？",
+            "desc": ""
+        },
+        {
+            "hash": 56502871,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 143214410,
+            "original": "E1S3p2_CA",
+            "translated": "E1S3p2_CA",
+            "desc": ""
+        },
+        {
+            "hash": 156244181,
+            "original": "~z~Exactly! That's part of my new campaign strategy. Giving people no choice.",
+            "translated": "~z~正是如此！我的新竞选策略就有这条。不给选民选择。",
+            "desc": ""
+        },
+        {
+            "hash": 158258362,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 161602558,
+            "original": "~z~Wouldn't be in this situation if it wasn't for positive discrimination, dammit.",
+            "translated": "~z~要不是为了少数族裔的特别优待就没这回事了，妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 208118376,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 214247351,
+            "original": "E1S3p2_BB",
+            "translated": "E1S3p2_BB",
+            "desc": ""
+        },
+        {
+            "hash": 338867278,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 389795954,
+            "original": "~z~Oh, you've got a mind for damage control, Johnny. If this rebel thing doesn't work out,",
+            "translated": "~z~噢，你还真有损害管制的头脑，Johnny。哪天叛逆不下去了，",
+            "desc": ""
+        },
+        {
+            "hash": 444909383,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 510840867,
+            "original": "010090100",
+            "translated": "010090100",
+            "desc": ""
+        },
+        {
+            "hash": 583078800,
+            "original": "100090010090100090100090100090100090010090010090100090100",
+            "translated": "100090010090100090100090100090100090010090010090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 595415437,
+            "original": "100090010090010090010090100090100",
+            "translated": "100090010090010090010090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 615080657,
+            "original": "E1S3p2_AI",
+            "translated": "E1S3p2_AI",
+            "desc": ""
+        },
+        {
+            "hash": 632082830,
+            "original": "~z~Fair enough. I can't claim to like it, but I also can't claim to have a choice.",
+            "translated": "~z~也行。我谈不上喜欢这个主意，但我的确也没得选。",
+            "desc": ""
+        },
+        {
+            "hash": 717562622,
+            "original": "~z~Hey, damn, I know you.",
+            "translated": "~z~嘿，妈的，我认识你。",
+            "desc": ""
+        },
+        {
+            "hash": 732938567,
+            "original": "~z~I'm going to the cops right now!",
+            "translated": "~z~我这就去报警！",
+            "desc": ""
+        },
+        {
+            "hash": 799582163,
+            "original": "~z~In all seriousness though, some jumped up little twerp is about to go to the press with sensitive information.",
+            "translated": "~z~回归正题，有个无耻混蛋要把一个敏感信息透露给媒体。",
+            "desc": ""
+        },
+        {
+            "hash": 881528346,
+            "original": "E1S3p2_IA",
+            "translated": "E1S3p2_IA",
+            "desc": ""
+        },
+        {
+            "hash": 887262143,
+            "original": "~z~He wanted to talk about you and me to Liberty City's finest.",
+            "translated": "~z~他想把你我之间的事告诉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 894488092,
+            "original": "010090010",
+            "translated": "010090010",
+            "desc": ""
+        },
+        {
+            "hash": 936537495,
+            "original": "E1S3p2_FF",
+            "translated": "E1S3p2_FF",
+            "desc": ""
+        },
+        {
+            "hash": 949452631,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 963255763,
+            "original": "E1S3p2_HB",
+            "translated": "E1S3p2_HB",
+            "desc": ""
+        },
+        {
+            "hash": 1139542986,
+            "original": "~z~Kiss your freedom goodbye, sir.",
+            "translated": "~z~跟你的自由告别吧，先生。",
+            "desc": ""
+        },
+        {
+            "hash": 1211344116,
+            "original": "E1S3p2_AE",
+            "translated": "E1S3p2_AE",
+            "desc": ""
+        },
+        {
+            "hash": 1220705952,
+            "original": "010090010090100",
+            "translated": "010090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 1243261231,
+            "original": "E1S3p2_AG",
+            "translated": "E1S3p2_AG",
+            "desc": ""
+        },
+        {
+            "hash": 1243616630,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 1326496869,
+            "original": "E1S3p2_IB",
+            "translated": "E1S3p2_IB",
+            "desc": ""
+        },
+        {
+            "hash": 1349862116,
+            "original": "~z~Bad news for everyone is there might be a story about that friend of yours getting killed.",
+            "translated": "~z~坏消息是头版可能是你的朋友遇害的新闻。",
+            "desc": ""
+        },
+        {
+            "hash": 1351624532,
+            "original": "~z~I just impersonate the other candidate and it seems to work.",
+            "translated": "~z~我自己扮演我的竞选对手，似乎挺管用的。",
+            "desc": ""
+        },
+        {
+            "hash": 1436200743,
+            "original": "~z~They'll have fun with you on the inside.",
+            "translated": "~z~你会成为囚犯们的新玩具的。",
+            "desc": ""
+        },
+        {
+            "hash": 1471815877,
+            "original": "E1S3p2_DA",
+            "translated": "E1S3p2_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1476081474,
+            "original": "SFX_PAUSE_390",
+            "translated": "SFX_PAUSE_390",
+            "desc": ""
+        },
+        {
+            "hash": 1479798491,
+            "original": "E1S3p2_FC",
+            "translated": "E1S3p2_FC",
+            "desc": ""
+        },
+        {
+            "hash": 1503117375,
+            "original": "E1S3p2_AD",
+            "translated": "E1S3p2_AD",
+            "desc": ""
+        },
+        {
+            "hash": 1509981314,
+            "original": "~z~Ah, if it isn't the road warrior, himself. Still sticking it to the man, man?",
+            "translated": "~z~啊，这不是公路战士吗。还是原来那样叛逆吗，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 1881438588,
+            "original": "E1S3p2_BA",
+            "translated": "E1S3p2_BA",
+            "desc": ""
+        },
+        {
+            "hash": 1898145336,
+            "original": "~z~You're going away for a long time.",
+            "translated": "~z~在牢里慢慢反省吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1940567240,
+            "original": "~z~Making threats like that can get you some serious jail time, sir. That was a big error.",
+            "translated": "~z~这样威胁我可是能让你坐牢的，先生。你犯了个大错。",
+            "desc": ""
+        },
+        {
+            "hash": 1992135264,
+            "original": "E1S3p2_AF",
+            "translated": "E1S3p2_AF",
+            "desc": ""
+        },
+        {
+            "hash": 2133806033,
+            "original": "~z~You're the guy who just realized what a big fucking mistake it'd be to talk to some mud slingin' hack about Tom Stubbs.",
+            "translated": "~z~你就要意识到自己差点犯下多大的错误了，居然想找三流记者写Tom Stubbs的黑料。",
+            "desc": ""
+        },
+        {
+            "hash": 2255498949,
+            "original": "~z~What's on the front page tomorrow, Klebitz?",
+            "translated": "~z~明天的头版新闻是什么，Klebitz？",
+            "desc": ""
+        },
+        {
+            "hash": 2259896729,
+            "original": "E1S3p2_FD",
+            "translated": "E1S3p2_FD",
+            "desc": ""
+        },
+        {
+            "hash": 2300425268,
+            "original": "~z~Good news for you is that it ain't your ugly mug.",
+            "translated": "~z~好消息是头版上没有你的丑脸。",
+            "desc": ""
+        },
+        {
+            "hash": 2316417512,
+            "original": "SFX_PAUSE_470",
+            "translated": "SFX_PAUSE_470",
+            "desc": ""
+        },
+        {
+            "hash": 2394797440,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 2470047476,
+            "original": "~z~I knew you were stuck in the '70s, but that's ridiculous.",
+            "translated": "~z~我知道你的思想还停留在70年代，但也太荒唐了。",
+            "desc": ""
+        },
+        {
+            "hash": 2492819041,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 2502488076,
+            "original": "E1S3p2_FA",
+            "translated": "E1S3p2_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2559926901,
+            "original": "E1S3p2_FB",
+            "translated": "E1S3p2_FB",
+            "desc": ""
+        },
+        {
+            "hash": 2597067657,
+            "original": "~z~Later on, amigo.",
+            "translated": "~z~回见，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2728647812,
+            "original": "E1S3p2_AH",
+            "translated": "E1S3p2_AH",
+            "desc": ""
+        },
+        {
+            "hash": 2756006745,
+            "original": "E1S3p2_AC",
+            "translated": "E1S3p2_AC",
+            "desc": ""
+        },
+        {
+            "hash": 2947193159,
+            "original": "E1S3p2_FE",
+            "translated": "E1S3p2_FE",
+            "desc": ""
+        },
+        {
+            "hash": 3049001374,
+            "original": "SFX_PAUSE_460",
+            "translated": "SFX_PAUSE_460",
+            "desc": ""
+        },
+        {
+            "hash": 3053353223,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 3091074080,
+            "original": "E1S3p2_AJ",
+            "translated": "E1S3p2_AJ",
+            "desc": ""
+        },
+        {
+            "hash": 3146556454,
+            "original": "E1S3p2_HA",
+            "translated": "E1S3p2_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3243482403,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 3249179019,
+            "original": "~z~So you're fighting positive discrimination with some good old fashioned negative discrimination?",
+            "translated": "~z~所以你是想用老派的歧视待遇打败特别优待喽？",
+            "desc": ""
+        },
+        {
+            "hash": 3274623167,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 3355889575,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 3374258316,
+            "original": "E1S3p2_AA",
+            "translated": "E1S3p2_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3428491587,
+            "original": "E1S3p2_AB",
+            "translated": "E1S3p2_AB",
+            "desc": ""
+        },
+        {
+            "hash": 3567206764,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 3684089183,
+            "original": "~z~Can you make him see his mistake?",
+            "translated": "~z~你能让他认识到错误吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3788235732,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3906255758,
+            "original": "~z~Oh shit!",
+            "translated": "~z~噢，妈的！",
+            "desc": ""
+        },
+        {
+            "hash": 3939998552,
+            "original": "~z~why don't you become a lobbyist? Call me later, alright?",
+            "translated": "~z~就改行去当说客吧？有空再找我，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 4096881628,
+            "original": "E1S3p2_BC",
+            "translated": "E1S3p2_BC",
+            "desc": ""
+        },
+        {
+            "hash": 4116715156,
+            "original": "SFX_PAUSE_460",
+            "translated": "SFX_PAUSE_460",
+            "desc": ""
+        },
+        {
+            "hash": 4131869318,
+            "original": "~z~Mr. Stubbs. Your friend got away from me. Looks like you're gonna have your fifteen minutes.",
+            "translated": "~z~Stubbs先生，你的朋友从我这里跑了。看来你的光荣时刻就快要结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 4136818442,
+            "original": "~z~You better have a good lawyer!",
+            "translated": "~z~你最好请得起律师！",
+            "desc": ""
+        },
+        {
+            "hash": 4157474147,
+            "original": "SFX_PAUSE_490",
+            "translated": "SFX_PAUSE_490",
+            "desc": ""
+        },
+        {
+            "hash": 4160404891,
+            "original": "~z~Too bad for him and us, Klebitz. Give me a call later on.",
+            "translated": "~z~于他于我们都很遗憾，Klebitz。有空再打给我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4233119302,
+            "original": "~z~Stubbsy, I didn't get the chance to talk to that friend of yours. He was too busy getting killed.",
+            "translated": "~z~Stubbsy，我没能跟你的朋友说上话。当时他忙着去死。",
+            "desc": ""
+        }
+    ]
+}

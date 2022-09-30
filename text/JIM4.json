@@ -1,0 +1,76 @@
+{
+    "JIM4": [
+        {
+            "hash": 302718001,
+            "original": "Use the pipe bombs to destroy another ~r~van.~s~",
+            "translated": "使用土制炸弹炸毁另一辆~r~面包车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 453324321,
+            "original": "One of the ~r~A.O.D. vans~s~ is nearby.",
+            "translated": "其中一辆~r~死亡天使面包车~s~就在附近。",
+            "desc": ""
+        },
+        {
+            "hash": 532426237,
+            "original": "~s~You can throw pipe bombs from vehicles by pressing ~INPUT_VEH_ATTACK~.",
+            "translated": "~s~在载具上按~INPUT_VEH_ATTACK~投掷土制炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 609042613,
+            "original": "The ~r~Angels of Death~s~ have spotted you, don't let them escape.",
+            "translated": "~r~死亡天使~s~发现你了，别让他们逃走。",
+            "desc": ""
+        },
+        {
+            "hash": 717737382,
+            "original": "Get on your ~b~bike.~s~",
+            "translated": "骑上你的~b~摩托。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 859825260,
+            "original": "~s~Press ~INPUT_VEH_NEXT_WEAPON~ to change your drive-by weapon.",
+            "translated": "~s~按~INPUT_VEH_NEXT_WEAPON~切换在载具上所用的武器。",
+            "desc": ""
+        },
+        {
+            "hash": 1065416472,
+            "original": "Use the pipe bombs to blow up the Angel of Death ~r~vans.~s~",
+            "translated": "用土制炸弹炸毁死亡天使的~r~面包车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1133820735,
+            "original": "Vans set to attack.",
+            "translated": "面包车准备攻击。",
+            "desc": ""
+        },
+        {
+            "hash": 1141733023,
+            "original": "~s~The longer you hold down ~INPUT_VEH_ATTACK~ the shorter the fuse will become.",
+            "translated": "~s~~INPUT_VEH_ATTACK~按得越久，引爆时间就越短。",
+            "desc": ""
+        },
+        {
+            "hash": 1378357976,
+            "original": "~s~Press ~INPUT_VEH_HEADLIGHT~ to change your drive-by weapon.",
+            "translated": "~s~按~INPUT_VEH_HEADLIGHT~切换在载具上所用的武器。",
+            "desc": ""
+        },
+        {
+            "hash": 2167241332,
+            "original": "That van won't cause anymore trouble, get back on your ~b~bike.~s~",
+            "translated": "现在那辆面包车不足为患了，回到你的~b~摩托~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 4275683855,
+            "original": "~r~Your bike was wrecked.~s~",
+            "translated": "~r~你的摩托坏了。~s~",
+            "desc": ""
+        }
+    ]
+}

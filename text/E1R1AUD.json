@@ -1,0 +1,1456 @@
+{
+    "E1R1AUD": [
+        {
+            "hash": 6891356,
+            "original": "E1R1_TD",
+            "translated": "E1R1_TD",
+            "desc": ""
+        },
+        {
+            "hash": 32815893,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 36871231,
+            "original": "300090030",
+            "translated": "300090030",
+            "desc": ""
+        },
+        {
+            "hash": 48490895,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 81134643,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 92325634,
+            "original": "E1R1_UF",
+            "translated": "E1R1_UF",
+            "desc": ""
+        },
+        {
+            "hash": 97417243,
+            "original": "~z~Terry, man. Meet me at the docks in East Hook with Clay.",
+            "translated": "~z~Terry兄弟。叫上Clay跟我在East Hook的码头会合。",
+            "desc": ""
+        },
+        {
+            "hash": 117684553,
+            "original": "~z~I'll do it. As long as I get paid.",
+            "translated": "~z~我就照办。只要给钱就行。",
+            "desc": ""
+        },
+        {
+            "hash": 176986678,
+            "original": "~z~Okay, brothers. Let's get this ice.",
+            "translated": "~z~好了，兄弟们，去拿钻石吧。",
+            "desc": ""
+        },
+        {
+            "hash": 181926587,
+            "original": "E1R1_AB",
+            "translated": "E1R1_AB",
+            "desc": ""
+        },
+        {
+            "hash": 205478351,
+            "original": "E1R1_BA",
+            "translated": "E1R1_BA",
+            "desc": ""
+        },
+        {
+            "hash": 228812818,
+            "original": "~z~Not enough, you don't.",
+            "translated": "~z~没诚意，不算。",
+            "desc": ""
+        },
+        {
+            "hash": 231976467,
+            "original": "SFX_PAUSE_460",
+            "translated": "SFX_PAUSE_460",
+            "desc": ""
+        },
+        {
+            "hash": 238395784,
+            "original": "~z~Alright brothers. We got some ice to take.",
+            "translated": "~z~好了，兄弟们。咱们有钻石要拿。",
+            "desc": ""
+        },
+        {
+            "hash": 241747499,
+            "original": "E1R1_IB",
+            "translated": "E1R1_IB",
+            "desc": ""
+        },
+        {
+            "hash": 249436694,
+            "original": "~z~This is too much.",
+            "translated": "~z~别那么多废话。",
+            "desc": ""
+        },
+        {
+            "hash": 260217775,
+            "original": "~z~Hey guys, how ya doin'? Err. So umm...",
+            "translated": "~z~嘿，各位，你们好吗？呃，那个...",
+            "desc": ""
+        },
+        {
+            "hash": 267342724,
+            "original": "~z~Johnny, babe. That was quick.",
+            "translated": "~z~Johnny，宝贝。太快了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 306157263,
+            "original": "~z~Good. And stay in touch.",
+            "translated": "~z~好。保持联系。",
+            "desc": ""
+        },
+        {
+            "hash": 316986711,
+            "original": "E1R1_ID",
+            "translated": "E1R1_ID",
+            "desc": ""
+        },
+        {
+            "hash": 334862027,
+            "original": "~z~Let me talk to Ray first.",
+            "translated": "~z~先让我跟Ray谈谈吧。",
+            "desc": ""
+        },
+        {
+            "hash": 346921595,
+            "original": "~z~Bought by wise guys, from wise guys, for wise guys.",
+            "translated": "~z~黑帮卖的，黑帮买的，黑帮收的。",
+            "desc": ""
+        },
+        {
+            "hash": 369832186,
+            "original": "~z~Buy your own diamonds.",
+            "translated": "~z~想要你自己买去。",
+            "desc": ""
+        },
+        {
+            "hash": 387307195,
+            "original": "100090010090100090100090010",
+            "translated": "100090010090100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 390040842,
+            "original": "E1R1_AA",
+            "translated": "E1R1_AA",
+            "desc": ""
+        },
+        {
+            "hash": 392751503,
+            "original": "E1R1_TF",
+            "translated": "E1R1_TF",
+            "desc": ""
+        },
+        {
+            "hash": 406247767,
+            "original": "~z~Holy moly. What the fuck?",
+            "translated": "~z~天哪。什么鬼啊？",
+            "desc": ""
+        },
+        {
+            "hash": 409393706,
+            "original": "~z~You get those two. I'm on the ice!",
+            "translated": "~z~你们对付他俩，我去追钻石！",
+            "desc": ""
+        },
+        {
+            "hash": 458580460,
+            "original": "~z~Sounds real dumb to me. But if that's what you want done,",
+            "translated": "~z~听起来真傻逼啊。不过既然是你的要求，",
+            "desc": ""
+        },
+        {
+            "hash": 460040487,
+            "original": "~z~Should be no problem with that.",
+            "translated": "~z~应该没啥问题。",
+            "desc": ""
+        },
+        {
+            "hash": 472263244,
+            "original": "~z~But you know, you and me broke up. You was with that Leila girl.",
+            "translated": "~z~说实话，你我早分手了。你不是有Leila了吗。",
+            "desc": ""
+        },
+        {
+            "hash": 482602928,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 519724706,
+            "original": "~z~there'll be an opportunity to rip off the smug guido who gave us the job in the first place.",
+            "translated": "~z~还有机会抢了那个给我们派活的自大意呆佬。",
+            "desc": ""
+        },
+        {
+            "hash": 562147819,
+            "original": "~z~-Hey Johnny.~n~-Hey.",
+            "translated": "~z~－嘿，Johnny。~n~－嘿。",
+            "desc": ""
+        },
+        {
+            "hash": 578498928,
+            "original": "~z~We got a money making opportunity.",
+            "translated": "~z~咱们发财的机会来了。",
+            "desc": ""
+        },
+        {
+            "hash": 611337610,
+            "original": "~z~But, err, two million? You had your head in the oven?",
+            "translated": "~z~但是...两百万？你脑子进水了？",
+            "desc": ""
+        },
+        {
+            "hash": 634108535,
+            "original": "~z~I need you to do this for me.",
+            "translated": "~z~我要你帮我这个忙。",
+            "desc": ""
+        },
+        {
+            "hash": 654374635,
+            "original": "~z~Evan, take them to the club and don't fuck about, okay?",
+            "translated": "~z~Evan，把钻石带回店里，别搞砸了，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 657774077,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 673214702,
+            "original": "~z~maybe down the line,",
+            "translated": "~z~说不定到头来，",
+            "desc": ""
+        },
+        {
+            "hash": 700808312,
+            "original": "~z~Oh shit, Tony. We're outta here. C'mon, let's go.",
+            "translated": "~z~妈的，Tony，快跑。快，我们走。",
+            "desc": ""
+        },
+        {
+            "hash": 734690439,
+            "original": "E1R1_IF",
+            "translated": "E1R1_IF",
+            "desc": ""
+        },
+        {
+            "hash": 749220652,
+            "original": "~z~I got you that ice. You want me to bring it back to the restaurant?",
+            "translated": "~z~拿到钻石了。需要我送到餐馆吗？",
+            "desc": ""
+        },
+        {
+            "hash": 770331781,
+            "original": "~z~He's got a temper, Johnny. Shit. How the fuck could you do this to me? Thanks for nothing.",
+            "translated": "~z~他可是有脾气的，Johnny。妈的。你他妈怎么能这么对我？我谢谢你啊。",
+            "desc": ""
+        },
+        {
+            "hash": 832262686,
+            "original": "~z~Ah right.",
+            "translated": "~z~好。",
+            "desc": ""
+        },
+        {
+            "hash": 868724216,
+            "original": "100090010090100",
+            "translated": "100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 891499753,
+            "original": "E1R1_RB",
+            "translated": "E1R1_RB",
+            "desc": ""
+        },
+        {
+            "hash": 898858458,
+            "original": "~z~Jonathan. What can I do for you?",
+            "translated": "~z~Jonathan。有什么我能帮你的？",
+            "desc": ""
+        },
+        {
+            "hash": 908761786,
+            "original": "~z~I have a line in some kitchen supplies.",
+            "translated": "~z~我有一条搞到厨房用品的门路。",
+            "desc": ""
+        },
+        {
+            "hash": 915852980,
+            "original": "SFX_PAUSE_440",
+            "translated": "SFX_PAUSE_440",
+            "desc": ""
+        },
+        {
+            "hash": 916479888,
+            "original": "~z~You're gonna need a little help on this.",
+            "translated": "~z~你可能要找几个帮手。",
+            "desc": ""
+        },
+        {
+            "hash": 924615435,
+            "original": "~z~These jewels are too good for scum like you. Fuck off!",
+            "translated": "~z~人渣不配拥有这些钻石。滚吧！",
+            "desc": ""
+        },
+        {
+            "hash": 942699844,
+            "original": "~z~That ain't gonna be necessary, pal. I'm getting yours.",
+            "translated": "~z~用不着那么麻烦，朋友。你这份给我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 947412944,
+            "original": "~z~In there somewhere.",
+            "translated": "~z~进店找吧。",
+            "desc": ""
+        },
+        {
+            "hash": 972323993,
+            "original": "300090030",
+            "translated": "300090030",
+            "desc": ""
+        },
+        {
+            "hash": 976708430,
+            "original": "~z~Where is he?",
+            "translated": "~z~他在哪儿？",
+            "desc": ""
+        },
+        {
+            "hash": 980795009,
+            "original": "E1R1_EA",
+            "translated": "E1R1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1016331494,
+            "original": "~z~These will be blood diamonds, you thug.",
+            "translated": "~z~别让钻石变血钻啊，混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 1027802650,
+            "original": "~z~Then turn around and fight, muscles.",
+            "translated": "~z~那就来干架啊，猛男。",
+            "desc": ""
+        },
+        {
+            "hash": 1027890543,
+            "original": "E1R1_AC",
+            "translated": "E1R1_AC",
+            "desc": ""
+        },
+        {
+            "hash": 1034397080,
+            "original": "SFX_PAUSE_520",
+            "translated": "SFX_PAUSE_520",
+            "desc": ""
+        },
+        {
+            "hash": 1035302932,
+            "original": "~z~These are great, they're great.",
+            "translated": "~z~成色不错，真不错。",
+            "desc": ""
+        },
+        {
+            "hash": 1039186102,
+            "original": "E1R1_TE",
+            "translated": "E1R1_TE",
+            "desc": ""
+        },
+        {
+            "hash": 1046063930,
+            "original": "E1R1_OA",
+            "translated": "E1R1_OA",
+            "desc": ""
+        },
+        {
+            "hash": 1048656232,
+            "original": "E1R1_UG",
+            "translated": "E1R1_UG",
+            "desc": ""
+        },
+        {
+            "hash": 1073181246,
+            "original": "~z~The ice is being held by a guy named Gay Tony.",
+            "translated": "~z~钻石在一个叫基佬Tony的人手上。",
+            "desc": ""
+        },
+        {
+            "hash": 1102149841,
+            "original": "E1R1_CA",
+            "translated": "E1R1_CA",
+            "desc": ""
+        },
+        {
+            "hash": 1105772777,
+            "original": "E1R1_UE",
+            "translated": "E1R1_UE",
+            "desc": ""
+        },
+        {
+            "hash": 1175177164,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 1195305049,
+            "original": "~z~I know you don't like me Johnny, but you don't have to get me clipped.",
+            "translated": "~z~知道你讨厌我，Johnny，但也没必要害死我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1204829701,
+            "original": "~z~Well a cook, yeah.",
+            "translated": "~z~伙夫一个，算是吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1208927205,
+            "original": "E1R1_UD",
+            "translated": "E1R1_UD",
+            "desc": ""
+        },
+        {
+            "hash": 1224478369,
+            "original": "~z~well cut, and a shit load of carats. What do you expect?",
+            "translated": "~z~切工精良，还他妈份量十足。你还想怎样？",
+            "desc": ""
+        },
+        {
+            "hash": 1240468592,
+            "original": "~z~No, sugar. I couldn't get my hands on it. Tell Ray the bad news.",
+            "translated": "~z~没有，甜心。都没摸到过。把这坏消息告诉Ray吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1252471233,
+            "original": "E1R1_TI",
+            "translated": "E1R1_TI",
+            "desc": ""
+        },
+        {
+            "hash": 1301581176,
+            "original": "~z~Yeah, I should do that.",
+            "translated": "~z~是啊，这票该干。",
+            "desc": ""
+        },
+        {
+            "hash": 1341633963,
+            "original": "010090100090100090100090100090010090010",
+            "translated": "010090100090100090100090100090010090010",
+            "desc": ""
+        },
+        {
+            "hash": 1379541277,
+            "original": "~z~Mr. Tony, I have what I tell you, perfect clarity, beautiful clarity,",
+            "translated": "~z~Tony先生，我之前可没骗你，净度完美，成色美丽，",
+            "desc": ""
+        },
+        {
+            "hash": 1386107809,
+            "original": "~z~You're a chef?",
+            "translated": "~z~你是主厨？",
+            "desc": ""
+        },
+        {
+            "hash": 1390417343,
+            "original": "~z~Easy to move. No insurance.",
+            "translated": "~z~容易转手，没上保险，",
+            "desc": ""
+        },
+        {
+            "hash": 1396938390,
+            "original": "~z~Okay, I know about some diamonds.",
+            "translated": "~z~我有一批钻石的消息。",
+            "desc": ""
+        },
+        {
+            "hash": 1418360546,
+            "original": "~z~He'll be in touch, sweets. I love you, Johnny.",
+            "translated": "~z~他会联系咱们的，亲爱的。我爱你，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 1424539299,
+            "original": "~z~You're not getting these diamonds.",
+            "translated": "~z~别想抢走钻石。",
+            "desc": ""
+        },
+        {
+            "hash": 1460510826,
+            "original": "~z~you can buy yourself some real friends?",
+            "translated": "~z~是不是还能买到真正的朋友？",
+            "desc": ""
+        },
+        {
+            "hash": 1464278389,
+            "original": "~z~Am I glad to see you, huh?",
+            "translated": "~z~见到你真高兴啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1495905809,
+            "original": "~z~Hey, there ain't no running with that ice.",
+            "translated": "~z~嘿，钻石是跑不掉的。",
+            "desc": ""
+        },
+        {
+            "hash": 1501428802,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 1520433490,
+            "original": "E1R1_RE",
+            "translated": "E1R1_RE",
+            "desc": ""
+        },
+        {
+            "hash": 1545689371,
+            "original": "E1R1_TA",
+            "translated": "E1R1_TA",
+            "desc": ""
+        },
+        {
+            "hash": 1551646204,
+            "original": "~z~We're ripping off some guy with mob connections down by the docks.",
+            "translated": "~z~咱们要去码头，抢劫一伙和黑帮有关系的人。",
+            "desc": ""
+        },
+        {
+            "hash": 1553648616,
+            "original": "~z~Alright, man. I'll let The Lost Brotherhood over there know you're comin'.",
+            "translated": "~z~好的，哥们。我会跟那边的分会说一声你要来的。",
+            "desc": ""
+        },
+        {
+            "hash": 1582271080,
+            "original": "~z~Ray better hope a garbage truck doesn't come around anytime soon. Ray got any money for me?",
+            "translated": "~z~Ray最好祈祷下垃圾车不会马上来。他给我钱了没？",
+            "desc": ""
+        },
+        {
+            "hash": 1603765421,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 1612825951,
+            "original": "~z~Let's head out, boys.",
+            "translated": "~z~咱们走吧，伙计们。",
+            "desc": ""
+        },
+        {
+            "hash": 1653270603,
+            "original": "030090300",
+            "translated": "030090300",
+            "desc": ""
+        },
+        {
+            "hash": 1685516639,
+            "original": "E1R1_UH",
+            "translated": "E1R1_UH",
+            "desc": ""
+        },
+        {
+            "hash": 1686419736,
+            "original": "~z~Oh yeah?",
+            "translated": "~z~哦，是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1686828922,
+            "original": "~z~Tony?",
+            "translated": "~z~Tony？",
+            "desc": ""
+        },
+        {
+            "hash": 1696283189,
+            "original": "~z~lIlegal. Never in the system.",
+            "translated": "~z~走私货，没有记录，",
+            "desc": ""
+        },
+        {
+            "hash": 1702293074,
+            "original": "SFX_PAUSE_370",
+            "translated": "SFX_PAUSE_370",
+            "desc": ""
+        },
+        {
+            "hash": 1706684365,
+            "original": "SFX_PAUSE_710",
+            "translated": "SFX_PAUSE_710",
+            "desc": ""
+        },
+        {
+            "hash": 1706840188,
+            "original": "~z~The Lost MC is gonna do real well outta this deal.",
+            "translated": "~z~干完这票我们失落帮就发达了。",
+            "desc": ""
+        },
+        {
+            "hash": 1719518603,
+            "original": "~z~Is it there? Did you throw the stuff away?",
+            "translated": "~z~搞定了吗？你把钻石扔了没？",
+            "desc": ""
+        },
+        {
+            "hash": 1732999158,
+            "original": "~z~I got the ice! You make sure those two don't come back at us.",
+            "translated": "~z~钻石我追！你们别让他俩追过来。",
+            "desc": ""
+        },
+        {
+            "hash": 1739406827,
+            "original": "010090010",
+            "translated": "010090010",
+            "desc": ""
+        },
+        {
+            "hash": 1742344858,
+            "original": "~z~Terry, Clay, we'll get the ice. You boys chase down those two.",
+            "translated": "~z~Terry，Clay，咱们去追钻石。其他人去追那两个人。",
+            "desc": ""
+        },
+        {
+            "hash": 1742669565,
+            "original": "E1R1_UC",
+            "translated": "E1R1_UC",
+            "desc": ""
+        },
+        {
+            "hash": 1751483699,
+            "original": "~z~All I know is that these diamonds are being held by a man about town called Tony Prince,",
+            "translated": "~z~我只知道，这些钻石在一个叫Tony Prince的交际花手里，",
+            "desc": ""
+        },
+        {
+            "hash": 1758631815,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 1776377267,
+            "original": "100090010090100",
+            "translated": "100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 1779475365,
+            "original": "090090090090090090090090090090090090090",
+            "translated": "090090090090090090090090090090090090090",
+            "desc": ""
+        },
+        {
+            "hash": 1828122303,
+            "original": "~z~You horrible fucking breeders.",
+            "translated": "~z~傻逼直男真恶心。",
+            "desc": ""
+        },
+        {
+            "hash": 1829834820,
+            "original": "E1R1_HB",
+            "translated": "E1R1_HB",
+            "desc": ""
+        },
+        {
+            "hash": 1830946988,
+            "original": "~z~Oh ignore him, he's probably been up all night with some bimbo.",
+            "translated": "~z~哦，别理他，可能是跟哪个蠢妞玩了一宿犯傻了。",
+            "desc": ""
+        },
+        {
+            "hash": 1915705005,
+            "original": "~z~You go do this job, go get yourself some real money,",
+            "translated": "~z~帮我干了这票，你就能赚到真金白银，",
+            "desc": ""
+        },
+        {
+            "hash": 1920639554,
+            "original": "SFX_PAUSE_470",
+            "translated": "SFX_PAUSE_470",
+            "desc": ""
+        },
+        {
+            "hash": 1935171935,
+            "original": "~z~Let's fuckin' do this thing.",
+            "translated": "~z~干他就完了！",
+            "desc": ""
+        },
+        {
+            "hash": 1982733384,
+            "original": "E1R1_IC",
+            "translated": "E1R1_IC",
+            "desc": ""
+        },
+        {
+            "hash": 1990402478,
+            "original": "~z~and we're to take 'em.",
+            "translated": "~z~咱们要抢走钻石。",
+            "desc": ""
+        },
+        {
+            "hash": 1993301421,
+            "original": "~z~Listen, I've got a little business proposition for you.",
+            "translated": "~z~听着，我有个生意上的小问题要你解决。",
+            "desc": ""
+        },
+        {
+            "hash": 1994189410,
+            "original": "~z~Tony, they're gorgeous.",
+            "translated": "~z~Tony，太漂亮了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2000728423,
+            "original": "~z~Brothers, go after those two. Terry! Clay! We're getting the rocks.",
+            "translated": "~z~兄弟们，去追那两个人。Terry！Clay！咱们去追钻石。",
+            "desc": ""
+        },
+        {
+            "hash": 2012345575,
+            "original": "~z~If these rocks are like I'm told they are,",
+            "translated": "~z~要是这些钻石真是雇主说的那样，",
+            "desc": ""
+        },
+        {
+            "hash": 2015650155,
+            "original": "~z~I tell you what...",
+            "translated": "~z~这么说吧...",
+            "desc": ""
+        },
+        {
+            "hash": 2016051971,
+            "original": "~z~Brother James. We got a hook up in Broker. Might need some help.",
+            "translated": "~z~James兄弟。有条大鱼在Broker，需要人手支援。",
+            "desc": ""
+        },
+        {
+            "hash": 2029928393,
+            "original": "~z~There ain't no money yet. Ray's got to sell this stuff before you get your cut.",
+            "translated": "~z~现在还没有钱。得等他把货出手了才能拿到钱。",
+            "desc": ""
+        },
+        {
+            "hash": 2030629690,
+            "original": "~z~Johnny K. Let's do this.",
+            "translated": "~z~Johnny K。咱们开干。",
+            "desc": ""
+        },
+        {
+            "hash": 2071668162,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 2144006548,
+            "original": "~z~Yeah, he's a friend. You know, he's a friend like you baby. I mean, not like you.",
+            "translated": "~z~没错，他是我朋友，好吧。跟你一样是朋友，宝贝。不是，跟你还不一样。",
+            "desc": ""
+        },
+        {
+            "hash": 2153125245,
+            "original": "~z~You horrible thugs.",
+            "translated": "~z~一帮恐怖的暴徒。",
+            "desc": ""
+        },
+        {
+            "hash": 2173523870,
+            "original": "090090090090090090090090090090090090",
+            "translated": "090090090090090090090090090090090090",
+            "desc": ""
+        },
+        {
+            "hash": 2178272072,
+            "original": "E1R1_FA",
+            "translated": "E1R1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2197690542,
+            "original": "~z~Appreciated, man.",
+            "translated": "~z~谢了，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2201692288,
+            "original": "E1R1_TG",
+            "translated": "E1R1_TG",
+            "desc": ""
+        },
+        {
+            "hash": 2213828017,
+            "original": "~z~I ditched the ice. It's in the trash now.",
+            "translated": "~z~我把钻石扔了，都在垃圾堆里了。",
+            "desc": ""
+        },
+        {
+            "hash": 2214137077,
+            "original": "~z~from the smug goomba bastard who gave us the job in the first place.",
+            "translated": "~z~敲走比开始说好的更多的钱。",
+            "desc": ""
+        },
+        {
+            "hash": 2267525503,
+            "original": "E1R1_TB",
+            "translated": "E1R1_TB",
+            "desc": ""
+        },
+        {
+            "hash": 2270057437,
+            "original": "E1R1_RC",
+            "translated": "E1R1_RC",
+            "desc": ""
+        },
+        {
+            "hash": 2287796404,
+            "original": "~z~Couple o' millions worth.",
+            "translated": "~z~价值上百万。",
+            "desc": ""
+        },
+        {
+            "hash": 2292154705,
+            "original": "~z~-I even missed the Ecstasy. That shit fucks people up.~n~-Yup.",
+            "translated": "~z~－我都怀念起摇头丸了，让人不成人样。~n~－是啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2306516157,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 2317508855,
+            "original": "E1R1_HA",
+            "translated": "E1R1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2369562108,
+            "original": "~z~I'm a body builder, you know.",
+            "translated": "~z~我可是健身达人，懂吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2382324203,
+            "original": "100090010090010090100090100090010",
+            "translated": "100090010090010090100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2392323415,
+            "original": "E1R1_GB",
+            "translated": "E1R1_GB",
+            "desc": ""
+        },
+        {
+            "hash": 2397098267,
+            "original": "E1R1_OC",
+            "translated": "E1R1_OC",
+            "desc": ""
+        },
+        {
+            "hash": 2410793081,
+            "original": "SFX_PAUSE_430",
+            "translated": "SFX_PAUSE_430",
+            "desc": ""
+        },
+        {
+            "hash": 2448476598,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 2462947229,
+            "original": "~z~Nothing. Ray's a friend. He's...",
+            "translated": "~z~没啥。Ray是我朋友，他...",
+            "desc": ""
+        },
+        {
+            "hash": 2471746319,
+            "original": "~z~There should be a good profit in it for The Lost MC if this comes through,",
+            "translated": "~z~要是这票成了，咱们帮就能大赚一笔了。",
+            "desc": ""
+        },
+        {
+            "hash": 2476987059,
+            "original": "E1R1_IA",
+            "translated": "E1R1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2502143818,
+            "original": "~z~Might even be able to extract some more money",
+            "translated": "~z~说不定还能从派活的傻逼身上",
+            "desc": ""
+        },
+        {
+            "hash": 2512572373,
+            "original": "E1R1_TC",
+            "translated": "E1R1_TC",
+            "desc": ""
+        },
+        {
+            "hash": 2554987003,
+            "original": "E1R1_GA",
+            "translated": "E1R1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2572493500,
+            "original": "~z~In my day, it was coke and downers. That was it.",
+            "translated": "~z~想当年，还是可卡因和镇静剂。玩这些。",
+            "desc": ""
+        },
+        {
+            "hash": 2613782716,
+            "original": "~z~Oh yeah. You don't like me too much, do you?",
+            "translated": "~z~噢，是吗。你好像不太喜欢我啊？",
+            "desc": ""
+        },
+        {
+            "hash": 2619337743,
+            "original": "~z~I'm sorry, sugar. That's a tough break. I don't think Ray's gonna pay you shit though. Sorry.",
+            "translated": "~z~我很抱歉，甜心。太可惜了。我觉得Ray不会给你钱了，抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 2636299117,
+            "original": "~z~Brother Johnny. Lost MC forever.",
+            "translated": "~z~Johnny兄弟。失落帮万岁。",
+            "desc": ""
+        },
+        {
+            "hash": 2636920576,
+            "original": "~z~Just like you.",
+            "translated": "~z~和你一样。",
+            "desc": ""
+        },
+        {
+            "hash": 2682794450,
+            "original": "~z~Ray's a friend? What are you talking about?",
+            "translated": "~z~Ray是你朋友？你在说啥呢？",
+            "desc": ""
+        },
+        {
+            "hash": 2691763241,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 2703768854,
+            "original": "E1R1_UA",
+            "translated": "E1R1_UA",
+            "desc": ""
+        },
+        {
+            "hash": 2713099603,
+            "original": "~z~I need you to split the haul up. Leave half in a trash can on Hematite Street and the other half in the trash on Emerald.",
+            "translated": "~z~我需要你把钻石分开。一半放到Hematite街的垃圾堆，另一半放到Emerald街的垃圾堆。",
+            "desc": ""
+        },
+        {
+            "hash": 2747980902,
+            "original": "~z~Stay the fuck away from me.",
+            "translated": "~z~你他妈离我远点。",
+            "desc": ""
+        },
+        {
+            "hash": 2771982398,
+            "original": "~z~What's going on, baby?",
+            "translated": "~z~怎么样了，宝贝？",
+            "desc": ""
+        },
+        {
+            "hash": 2781059164,
+            "original": "E1R1_RA",
+            "translated": "E1R1_RA",
+            "desc": ""
+        },
+        {
+            "hash": 2791861960,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 2792447892,
+            "original": "~z~They like getting as dirty as the rest of us.",
+            "translated": "~z~他们很乐意变得跟我们一样「脏」。",
+            "desc": ""
+        },
+        {
+            "hash": 2836843479,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 2841378401,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 2850703056,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 2870789707,
+            "original": "~z~Ashley, uhh, good kid. Y'know, man, that ice.",
+            "translated": "~z~Ashley，呃，天哪。好女孩属于是，溜冰哪。",
+            "desc": ""
+        },
+        {
+            "hash": 2909017897,
+            "original": "E1R1_vA",
+            "translated": "E1R1_vA",
+            "desc": ""
+        },
+        {
+            "hash": 2910964777,
+            "original": "~z~Does anyone like you too much?",
+            "translated": "~z~又有谁多喜欢你呢？",
+            "desc": ""
+        },
+        {
+            "hash": 2926347425,
+            "original": "E1R1_QC",
+            "translated": "E1R1_QC",
+            "desc": ""
+        },
+        {
+            "hash": 2930204278,
+            "original": "~z~Our esteemed leader.",
+            "translated": "~z~向大哥敬礼。",
+            "desc": ""
+        },
+        {
+            "hash": 2965122409,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 2967843931,
+            "original": "SFX_PAUSE_540",
+            "translated": "SFX_PAUSE_540",
+            "desc": ""
+        },
+        {
+            "hash": 2973984665,
+            "original": "~z~Okay my brothers.",
+            "translated": "~z~好了，兄弟们，",
+            "desc": ""
+        },
+        {
+            "hash": 2975594376,
+            "original": "~z~Tattoos are so last year, you losers.",
+            "translated": "~z~什么老土刺青啊，一帮衰仔。",
+            "desc": ""
+        },
+        {
+            "hash": 2979207053,
+            "original": "~z~so let's fuckin' do it.",
+            "translated": "~z~都他妈好好干。",
+            "desc": ""
+        },
+        {
+            "hash": 3011515807,
+            "original": "~z~-Thank you.~n~-Uhh, thanks.",
+            "translated": "~z~－谢谢你。~n~－呃，谢了。",
+            "desc": ""
+        },
+        {
+            "hash": 3098191140,
+            "original": "~z~Yeah. Too quick for anything good to have happened. Some of my boys took a hit. I'll be invoicing Ray for their time.",
+            "translated": "~z~是啊。快到不可能有好事发生。我的人受伤了。我会问Ray要这部分损失费的。",
+            "desc": ""
+        },
+        {
+            "hash": 3099654195,
+            "original": "E1R1_RF",
+            "translated": "E1R1_RF",
+            "desc": ""
+        },
+        {
+            "hash": 3105743129,
+            "original": "~z~That's all over now baby. You know that.",
+            "translated": "~z~那都是老黄历了，宝贝。你也知道。",
+            "desc": ""
+        },
+        {
+            "hash": 3172029448,
+            "original": "~z~Some of my boys are gonna go pick it up. All subtle like.",
+            "translated": "~z~之后我会派人去回收的。暗度陈仓。",
+            "desc": ""
+        },
+        {
+            "hash": 3179125027,
+            "original": "E1R1_IG",
+            "translated": "E1R1_IG",
+            "desc": ""
+        },
+        {
+            "hash": 3184192423,
+            "original": "~z~Ashley says you want something.",
+            "translated": "~z~Ashley说你有什么需求。",
+            "desc": ""
+        },
+        {
+            "hash": 3225188629,
+            "original": "SFX_PAUSE_320",
+            "translated": "SFX_PAUSE_320",
+            "desc": ""
+        },
+        {
+            "hash": 3279009154,
+            "original": "~z~Tony, can I hold them?",
+            "translated": "~z~Tony，我能拿着吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3296983817,
+            "original": "~z~What's up baby?",
+            "translated": "~z~怎么了，宝贝？",
+            "desc": ""
+        },
+        {
+            "hash": 3325378769,
+            "original": "~z~Yeah? Who knows,",
+            "translated": "~z~一定吗？倒也未必，",
+            "desc": ""
+        },
+        {
+            "hash": 3341650507,
+            "original": "E1R1_AD",
+            "translated": "E1R1_AD",
+            "desc": ""
+        },
+        {
+            "hash": 3357316636,
+            "original": "E1R1_XA",
+            "translated": "E1R1_XA",
+            "desc": ""
+        },
+        {
+            "hash": 3361459137,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 3385034120,
+            "original": "~z~and we need you, we need you to do this for us, alright?",
+            "translated": "~z~现在我们需要你，需要你替我们帮忙，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3439476599,
+            "original": "SFX_PAUSE_320",
+            "translated": "SFX_PAUSE_320",
+            "desc": ""
+        },
+        {
+            "hash": 3509801221,
+            "original": "~z~-Just give us the ice.~n~-Alright. Alright.",
+            "translated": "~z~－把钻石拿来。~n~－好吧，好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3510822881,
+            "original": "E1R1_FB",
+            "translated": "E1R1_FB",
+            "desc": ""
+        },
+        {
+            "hash": 3514438681,
+            "original": "~z~Alright, let's just call it a conflict of interests.",
+            "translated": "~z~姑且称之为...利益冲突吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3517904948,
+            "original": "SFX_PAUSE_160",
+            "translated": "SFX_PAUSE_160",
+            "desc": ""
+        },
+        {
+            "hash": 3539950044,
+            "original": "~z~Might be some cash in it for the Club.",
+            "translated": "~z~说不定能替帮会赚点钱。",
+            "desc": ""
+        },
+        {
+            "hash": 3559602885,
+            "original": "E1R1_wA",
+            "translated": "E1R1_wA",
+            "desc": ""
+        },
+        {
+            "hash": 3584356773,
+            "original": "SFX_PAUSE_420",
+            "translated": "SFX_PAUSE_420",
+            "desc": ""
+        },
+        {
+            "hash": 3615629573,
+            "original": "~z~I ain't sleeping with him.",
+            "translated": "~z~我没跟他上过床，",
+            "desc": ""
+        },
+        {
+            "hash": 3713051862,
+            "original": "E1R1_QA",
+            "translated": "E1R1_QA",
+            "desc": ""
+        },
+        {
+            "hash": 3752504882,
+            "original": "~z~I know. I will.",
+            "translated": "~z~知道了，下次一定。",
+            "desc": ""
+        },
+        {
+            "hash": 3752734841,
+            "original": "~z~You understand? No tax man. Nothing.",
+            "translated": "~z~听懂了没？不关平民什么事。",
+            "desc": ""
+        },
+        {
+            "hash": 3829834354,
+            "original": "~z~Jesus, probably got half the wiseguys on the East coast following you right now.",
+            "translated": "~z~天，可能东海岸一半的黑帮都盯着你呢。",
+            "desc": ""
+        },
+        {
+            "hash": 3848289253,
+            "original": "~z~Well I imagine that happens quite often with you, Ray.",
+            "translated": "~z~我看你经常有这种「利益冲突」吧，Ray。",
+            "desc": ""
+        },
+        {
+            "hash": 3850159956,
+            "original": "~z~Come on, can we do the hand off please and get out of here?",
+            "translated": "~z~拜托，咱能不能快点完事走人？",
+            "desc": ""
+        },
+        {
+            "hash": 3878518009,
+            "original": "~z~Look here's the money we agreed upon, less ten percent.",
+            "translated": "~z~听着，箱子里是之前说好的价，打了九折。",
+            "desc": ""
+        },
+        {
+            "hash": 3878584215,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 3887958088,
+            "original": "E1R1_UB",
+            "translated": "E1R1_UB",
+            "desc": ""
+        },
+        {
+            "hash": 3903481525,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 3908728149,
+            "original": "E1R1_TH",
+            "translated": "E1R1_TH",
+            "desc": ""
+        },
+        {
+            "hash": 3925416617,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 3942513262,
+            "original": "E1R1_IE",
+            "translated": "E1R1_IE",
+            "desc": ""
+        },
+        {
+            "hash": 3965610339,
+            "original": "E1R1_wB",
+            "translated": "E1R1_wB",
+            "desc": ""
+        },
+        {
+            "hash": 3981003923,
+            "original": "~z~But, but you know, we... we ain't doing nothing. I mean not at the moment.",
+            "translated": "~z~那什么，我俩...我俩啥都没干。目前还没有。",
+            "desc": ""
+        },
+        {
+            "hash": 3999076503,
+            "original": "~z~Yo. Clay. Get T and meet me over in the yards in East Hook.",
+            "translated": "~z~哟，Clay。叫上T然后跟我在East Hook的港口碰头。",
+            "desc": ""
+        },
+        {
+            "hash": 4003696790,
+            "original": "E1R1_DA",
+            "translated": "E1R1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 4015869335,
+            "original": "~z~Man, you gotta get off them drugs.",
+            "translated": "~z~天哪，你还是赶紧戒毒吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4054769162,
+            "original": "~z~Hell yeah! Brothers for life, Lost forever.",
+            "translated": "~z~他妈的！生死兄弟情，失落帮万岁！",
+            "desc": ""
+        },
+        {
+            "hash": 4057453772,
+            "original": "~z~Got our names all over them.",
+            "translated": "~z~可太适合我们了。",
+            "desc": ""
+        },
+        {
+            "hash": 4069228755,
+            "original": "SFX_PAUSE_370",
+            "translated": "SFX_PAUSE_370",
+            "desc": ""
+        },
+        {
+            "hash": 4071365412,
+            "original": "E1R1_vB",
+            "translated": "E1R1_vB",
+            "desc": ""
+        },
+        {
+            "hash": 4073489991,
+            "original": "~z~Come on! Brothers for life, Lost forever.",
+            "translated": "~z~来吧！生死兄弟情，失落帮万岁！",
+            "desc": ""
+        },
+        {
+            "hash": 4103474911,
+            "original": "E1R1_QB",
+            "translated": "E1R1_QB",
+            "desc": ""
+        },
+        {
+            "hash": 4107540546,
+            "original": "~z~How 'bout I throw that into the equation, what's the price?",
+            "translated": "~z~你把这些也算进去，开价多少？",
+            "desc": ""
+        },
+        {
+            "hash": 4111078257,
+            "original": "~z~You take those two. I'll chase the rocks!",
+            "translated": "~z~你们拦住他俩，我去追钻石！",
+            "desc": ""
+        },
+        {
+            "hash": 4142980870,
+            "original": "~z~Right.",
+            "translated": "~z~确实。",
+            "desc": ""
+        },
+        {
+            "hash": 4146978984,
+            "original": "~z~Johnny! Don't get too clever.",
+            "translated": "~z~Johnny！别耍小聪明。",
+            "desc": ""
+        },
+        {
+            "hash": 4155840019,
+            "original": "392",
+            "translated": "392",
+            "desc": ""
+        },
+        {
+            "hash": 4167017765,
+            "original": "~z~Alright, boys.",
+            "translated": "~z~好了，伙计们。",
+            "desc": ""
+        },
+        {
+            "hash": 4172931736,
+            "original": "~z~Problem! I can't be seen near them.",
+            "translated": "~z~问题是！我不能在附近出现。",
+            "desc": ""
+        },
+        {
+            "hash": 4175424611,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 4194698113,
+            "original": "010090010",
+            "translated": "010090010",
+            "desc": ""
+        },
+        {
+            "hash": 4212058142,
+            "original": "~z~But, but he's a friend, and he's been... he's been real good to me,",
+            "translated": "~z~但、但是，他是我朋友，他一直...一直都对我很好，",
+            "desc": ""
+        },
+        {
+            "hash": 4227376185,
+            "original": "E1R1_OB",
+            "translated": "E1R1_OB",
+            "desc": ""
+        },
+        {
+            "hash": 4274878350,
+            "original": "E1R1_AE",
+            "translated": "E1R1_AE",
+            "desc": ""
+        },
+        {
+            "hash": 4292036074,
+            "original": "E1R1_RD",
+            "translated": "E1R1_RD",
+            "desc": ""
+        }
+    ]
+}

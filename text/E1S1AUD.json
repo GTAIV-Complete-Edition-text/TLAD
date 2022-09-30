@@ -1,0 +1,988 @@
+{
+    "E1S1AUD": [
+        {
+            "hash": 64915249,
+            "original": "E1S1_FA",
+            "translated": "E1S1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 71506248,
+            "original": "E1S1_JC",
+            "translated": "E1S1_JC",
+            "desc": ""
+        },
+        {
+            "hash": 88719396,
+            "original": "~z~Oh and Klebitz, trust me...",
+            "translated": "~z~噢，Klebitz，相信我...",
+            "desc": ""
+        },
+        {
+            "hash": 94577739,
+            "original": "~z~Make it appear as though it's a terrorist act.",
+            "translated": "~z~伪装成一场恐怖袭击。",
+            "desc": ""
+        },
+        {
+            "hash": 105107285,
+            "original": "E1S1_EB",
+            "translated": "E1S1_EB",
+            "desc": ""
+        },
+        {
+            "hash": 120938853,
+            "original": "SFX_PAUSE_100",
+            "translated": "SFX_PAUSE_100",
+            "desc": ""
+        },
+        {
+            "hash": 122279366,
+            "original": "~z~Remember to lift with your knees.",
+            "translated": "~z~记得用你的膝盖来抬。",
+            "desc": ""
+        },
+        {
+            "hash": 127300170,
+            "original": "~z~so I thought I'd fit right in here.",
+            "translated": "~z~我不是很适合这里吗。",
+            "desc": ""
+        },
+        {
+            "hash": 242210290,
+            "original": "~z~Take a step back, buddy. This is off limits to you.",
+            "translated": "~z~请你退后，伙计。这边禁止入内。",
+            "desc": ""
+        },
+        {
+            "hash": 249233619,
+            "original": "~z~Uhh... no I thought I'd inquire about a membership.",
+            "translated": "~z~呃...没有。你们这儿的会员怎么办？",
+            "desc": ""
+        },
+        {
+            "hash": 257281970,
+            "original": "~z~This asshole just gave us permission to use deadly force, people.",
+            "translated": "~z~现在有理由下死手了，各位。",
+            "desc": ""
+        },
+        {
+            "hash": 307792949,
+            "original": "~z~Don't you have any bags to rifle through or something. Get lost.",
+            "translated": "~z~你没有带着装有武器之类东西的包包吧？滚开。",
+            "desc": ""
+        },
+        {
+            "hash": 311561183,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 318402241,
+            "original": "~z~He's coming into Francis International from his estate in South Carraway in the family helicopter.",
+            "translated": "~z~他从South Carraway的家里开着他家的直升机来到Francis国际机场了。",
+            "desc": ""
+        },
+        {
+            "hash": 346406692,
+            "original": "~z~See you tomorrow.",
+            "translated": "~z~明天见。",
+            "desc": ""
+        },
+        {
+            "hash": 353065476,
+            "original": "~z~I'm just about happy with the eulogy my researchers drafted up.",
+            "translated": "~z~我对我手下起草的悼词很满意。",
+            "desc": ""
+        },
+        {
+            "hash": 389039161,
+            "original": "~z~Well, now that you mention it... I'm starting to feel a little queasy.",
+            "translated": "~z~好吧，被你这么一说...我还真有点不舒服。",
+            "desc": ""
+        },
+        {
+            "hash": 394028169,
+            "original": "~z~Leavis will give you a package on the way out.",
+            "translated": "~z~出去的时候Leavis会给你件装备。",
+            "desc": ""
+        },
+        {
+            "hash": 522180429,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 522289075,
+            "original": "100090010090010",
+            "translated": "100090010090010",
+            "desc": ""
+        },
+        {
+            "hash": 545335430,
+            "original": "~z~We're looking after a VIP and he doesn't wanna see your ugly face. So long.",
+            "translated": "~z~咱们在找一位VIP，但他不想看你那丑逼脸。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 574581733,
+            "original": "~z~Mucho gusto.",
+            "translated": "~z~很高兴认识你。",
+            "desc": ""
+        },
+        {
+            "hash": 592838590,
+            "original": "~z~We're trying to protect people over here, take a step back.",
+            "translated": "~z~我们在保护这里的人，请你退后。",
+            "desc": ""
+        },
+        {
+            "hash": 625415002,
+            "original": "~z~Stubbs.",
+            "translated": "~z~Stubbs。",
+            "desc": ""
+        },
+        {
+            "hash": 633561983,
+            "original": "~z~That being said, I try to do a good deed here and there.",
+            "translated": "~z~尽管如此，我也努力做着各种善事。",
+            "desc": ""
+        },
+        {
+            "hash": 636346804,
+            "original": "~z~Don't be pathetic and no secrets here, pal.",
+            "translated": "~z~别可怜兮兮的，这里大家坦诚相见。",
+            "desc": ""
+        },
+        {
+            "hash": 710353554,
+            "original": "010090100090100090100090010100090100090010090100",
+            "translated": "010090100090100090100090010100090100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 721259232,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 741358461,
+            "original": "~z~Excuse me?",
+            "translated": "~z~您确定吗？",
+            "desc": ""
+        },
+        {
+            "hash": 799580414,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 821983441,
+            "original": "~z~I need people to elect me so that I feel marginally less bad about myself",
+            "translated": "~z~我需要人们选我，当选了我才不会那么内疚，",
+            "desc": ""
+        },
+        {
+            "hash": 827003824,
+            "original": "~z~Take this prick down, people.",
+            "translated": "~z~干掉这个混蛋，各位。",
+            "desc": ""
+        },
+        {
+            "hash": 828524001,
+            "original": "~z~Let me tell you something... you've got a job wiping rich pricks' asses,",
+            "translated": "~z~我跟你说句实话...你干的是给阔佬擦屁股的活计，",
+            "desc": ""
+        },
+        {
+            "hash": 909738671,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 915342354,
+            "original": "~z~Grossman? That guys an asshole.",
+            "translated": "~z~Grossman？那家伙就一混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 919491872,
+            "original": "~z~This ain't any of your business, bag monkey. Clear off.",
+            "translated": "~z~这不关你的事，吃屌佬。滚蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 943589764,
+            "original": "~z~Whoa, that's heavy man.",
+            "translated": "~z~喔，有点难受啊，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 967652315,
+            "original": "E1S1_EC",
+            "translated": "E1S1_EC",
+            "desc": ""
+        },
+        {
+            "hash": 975715814,
+            "original": "~z~Oh, don't get sentimental, Klebitz. It's unappealing. I am a WASP, after all.",
+            "translated": "~z~哦，别煽情了，Klebitz。这很不爽。毕竟我是个大佬。",
+            "desc": ""
+        },
+        {
+            "hash": 1051713660,
+            "original": "~z~and for some reason you seem a little pleased with yourself.",
+            "translated": "~z~就这你还这么得意啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1054970783,
+            "original": "~z~or a poignant sense of guilt afterwards.",
+            "translated": "~z~也不会留下强烈的负罪感。",
+            "desc": ""
+        },
+        {
+            "hash": 1139382115,
+            "original": "SFX_PAUSE_110",
+            "translated": "SFX_PAUSE_110",
+            "desc": ""
+        },
+        {
+            "hash": 1161599514,
+            "original": "SFX_PAUSE_160",
+            "translated": "SFX_PAUSE_160",
+            "desc": ""
+        },
+        {
+            "hash": 1163076262,
+            "original": "~z~No. That's disgusting. How could you suggest such a thing?",
+            "translated": "~z~不，那可太孝顺了。你怎么想出来的？",
+            "desc": ""
+        },
+        {
+            "hash": 1177309241,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 1204824749,
+            "original": "~z~a typical Stubbs you might say. Sleep easy and drop into the club sometime soon.",
+            "translated": "~z~可谓是Stubbs家的典型。好好睡一觉，有空再来俱乐部一趟。",
+            "desc": ""
+        },
+        {
+            "hash": 1220612721,
+            "original": "~z~It'll have a baggage handler uniform in it that should get you access to the runways. Enjoy yourself.",
+            "translated": "~z~里面会有件行李搬运工的制服，这应该能帮你进到跑道里去。嗨起来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1229400450,
+            "original": "~z~I need people to like me. I need people to like me so that they elect me.",
+            "translated": "~z~我需要人们拥护我，拥护我他们才会选我，",
+            "desc": ""
+        },
+        {
+            "hash": 1262201939,
+            "original": "~z~Yeah, I can imagine. So what is it that you want?",
+            "translated": "~z~是啊，看得出来。那，你有什么需求？",
+            "desc": ""
+        },
+        {
+            "hash": 1299877322,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 1324273085,
+            "original": "~z~Trust me man, nothing would please me more,",
+            "translated": "~z~相信我，哥们，我也想直接出去。",
+            "desc": ""
+        },
+        {
+            "hash": 1352292954,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 1382864351,
+            "original": "~z~This guy ain't right, drop him.",
+            "translated": "~z~这人有问题，干掉他。",
+            "desc": ""
+        },
+        {
+            "hash": 1397223461,
+            "original": "~z~Don't worry about that. We've got terrorism insurance up to our eye balls.",
+            "translated": "~z~别担心。咱的眼珠子买了恐怖主义保险了。",
+            "desc": ""
+        },
+        {
+            "hash": 1399218386,
+            "original": "E1S1_KC",
+            "translated": "E1S1_KC",
+            "desc": ""
+        },
+        {
+            "hash": 1443172110,
+            "original": "~z~I think you should leave, sir, before I call the police.",
+            "translated": "~z~请您自己出去，先生，不然我报警了。",
+            "desc": ""
+        },
+        {
+            "hash": 1452459301,
+            "original": "~z~Why? Blackmail?",
+            "translated": "~z~为什么？想敲诈你？",
+            "desc": ""
+        },
+        {
+            "hash": 1537265205,
+            "original": "~z~I'm a politician. I'm a cynic. I'm very needy.",
+            "translated": "~z~我是个政治家，认为人本自私，我很需要认可。",
+            "desc": ""
+        },
+        {
+            "hash": 1569421655,
+            "original": "E1S1_ED",
+            "translated": "E1S1_ED",
+            "desc": ""
+        },
+        {
+            "hash": 1578914285,
+            "original": "E1S1_KB",
+            "translated": "E1S1_KB",
+            "desc": ""
+        },
+        {
+            "hash": 1613295665,
+            "original": "~z~Will you leave?",
+            "translated": "~z~麻烦你出去。",
+            "desc": ""
+        },
+        {
+            "hash": 1633343633,
+            "original": "~z~Tom Stubbs. How do you do?",
+            "translated": "~z~Tom Stubbs。你好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1654850758,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 1656203379,
+            "original": "~z~\"I think you should leave sir, before I...\", dude, it is the twenty-first century.",
+            "translated": "~z~「请您自己出去，不然...」老哥，这都二十一世纪了。",
+            "desc": ""
+        },
+        {
+            "hash": 1679685953,
+            "original": "~z~Protect Mr. Stubbs.",
+            "translated": "~z~保护Stubbs先生。",
+            "desc": ""
+        },
+        {
+            "hash": 1702355684,
+            "original": "E1S1_KF",
+            "translated": "E1S1_KF",
+            "desc": ""
+        },
+        {
+            "hash": 1759308217,
+            "original": "~z~Not exactly. I need his money, and he hasn't died.",
+            "translated": "~z~不太准确。我需要他的钱，但他还没死。",
+            "desc": ""
+        },
+        {
+            "hash": 1761149687,
+            "original": "~z~We got a problem here.",
+            "translated": "~z~这边出现状况。",
+            "desc": ""
+        },
+        {
+            "hash": 1790774927,
+            "original": "~z~You don't racially profile like a terrorist, but I'm about to start treating you like one.",
+            "translated": "~z~虽然你长得不像恐怖分子，但我还是得把你当作恐怖分子招待了。",
+            "desc": ""
+        },
+        {
+            "hash": 1818253509,
+            "original": "SFX_PAUSE_430",
+            "translated": "SFX_PAUSE_430",
+            "desc": ""
+        },
+        {
+            "hash": 1888974602,
+            "original": "~z~And thank you, best massage I ever had that didn't involve a happy ending",
+            "translated": "~z~谢谢了，这是我做过最好的按摩，既没有性服务，",
+            "desc": ""
+        },
+        {
+            "hash": 1930749720,
+            "original": "~z~You too.",
+            "translated": "~z~You too.",
+            "desc": ""
+        },
+        {
+            "hash": 1941477200,
+            "original": "~z~Oh, Mr. Stubbs, sir. Okay, you only had to say so, sir.",
+            "translated": "~z~噢，您找Stubbs先生啊。好的，下次您早点说，先生。",
+            "desc": ""
+        },
+        {
+            "hash": 1973974985,
+            "original": "100090100090010090010090100090100",
+            "translated": "100090100090010090010090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 1986276228,
+            "original": "E1S1_GA",
+            "translated": "E1S1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2009531753,
+            "original": "~z~Love the old boy network.",
+            "translated": "~z~爱死这老交情了。",
+            "desc": ""
+        },
+        {
+            "hash": 2020751385,
+            "original": "~z~If you see any suspicious packages, let me know.",
+            "translated": "~z~要是你看到了啥可疑的东西，让我知道下。",
+            "desc": ""
+        },
+        {
+            "hash": 2034012169,
+            "original": "SFX_PAUSE_100",
+            "translated": "SFX_PAUSE_100",
+            "desc": ""
+        },
+        {
+            "hash": 2114622484,
+            "original": "~z~Unfortunately, an awful man has insured that my chance of being re-elected is pretty much zero.",
+            "translated": "~z~很不幸，有个坏家伙让我再次当选的几率趋近于零。",
+            "desc": ""
+        },
+        {
+            "hash": 2125285103,
+            "original": "~z~You know, you're really starting to grow on me.",
+            "translated": "~z~你知道吗，你真的开始喜欢上我了。",
+            "desc": ""
+        },
+        {
+            "hash": 2128912292,
+            "original": "~z~I'm afraid not, Stubbs. Your uncle is alive and well.",
+            "translated": "~z~恐怕不行了，Stubbs。你叔叔还活的好好的。",
+            "desc": ""
+        },
+        {
+            "hash": 2142803556,
+            "original": "~z~Now listen. I'm in a bit of a bother, sport.",
+            "translated": "~z~你听好，我现在有点麻烦，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2164796363,
+            "original": "E1S1_DH",
+            "translated": "E1S1_DH",
+            "desc": ""
+        },
+        {
+            "hash": 2165939002,
+            "original": "~z~I know . Now, you've got to get the old goat today.",
+            "translated": "~z~我知道。今天，你就得把那老头子办了。",
+            "desc": ""
+        },
+        {
+            "hash": 2216095664,
+            "original": "~z~Nice tattoos, no wonder you can only get a job like this. Move it, asshole.",
+            "translated": "~z~纹身不错，怪不得你只能找到这样的工作。去吧，混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 2244571937,
+            "original": "~z~Watch it, buddy. There ain't no heavy lifting needed over here.",
+            "translated": "~z~老兄，你看看。这里没啥重东西可抬的。",
+            "desc": ""
+        },
+        {
+            "hash": 2247998426,
+            "original": "~z~but I'm supposed to see Tom Stubbs and well... he said to meet him here.",
+            "translated": "~z~但我是来这儿找Tom Stubbs的...他说来这里找他。",
+            "desc": ""
+        },
+        {
+            "hash": 2271434235,
+            "original": "~z~Enjoy making minimum wage, asshole.",
+            "translated": "~z~赏你点蚊子腿吧，混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 2284904354,
+            "original": "E1S1_DD",
+            "translated": "E1S1_DD",
+            "desc": ""
+        },
+        {
+            "hash": 2349879269,
+            "original": "E1S1_KD",
+            "translated": "E1S1_KD",
+            "desc": ""
+        },
+        {
+            "hash": 2387375121,
+            "original": "SFX_PAUSE_050",
+            "translated": "SFX_PAUSE_050",
+            "desc": ""
+        },
+        {
+            "hash": 2408761397,
+            "original": "SFX_PAUSE_150",
+            "translated": "SFX_PAUSE_150",
+            "desc": ""
+        },
+        {
+            "hash": 2421405862,
+            "original": "~z~Personally, I'd prefer a benign dictatorship without the pretence of choice,",
+            "translated": "~z~对我来说，我更中意开明独裁，没有「你有选择」的假象。",
+            "desc": ""
+        },
+        {
+            "hash": 2426908627,
+            "original": "E1S1_JB",
+            "translated": "E1S1_JB",
+            "desc": ""
+        },
+        {
+            "hash": 2439658459,
+            "original": "~z~That sanctimonious do-gooder controls the family trust.",
+            "translated": "~z~那个道貌岸然的大善人控制着家族基金。",
+            "desc": ""
+        },
+        {
+            "hash": 2458172412,
+            "original": "~z~Grossman tells me you're reliable.",
+            "translated": "~z~Grossman跟我说你很可靠。",
+            "desc": ""
+        },
+        {
+            "hash": 2480160943,
+            "original": "~z~My father died years ago, thank god. No. My uncle.",
+            "translated": "~z~我爸几年前就死了，谢天谢地。目标是我叔叔，",
+            "desc": ""
+        },
+        {
+            "hash": 2505464459,
+            "original": "~z~Right you are.",
+            "translated": "~z~这就对了嘛。",
+            "desc": ""
+        },
+        {
+            "hash": 2574108854,
+            "original": "~z~-Could you excuse us, sugar?~n~-Okay, sure.",
+            "translated": "~z~－你能回避下吗，小妞？~n~－好的呢。",
+            "desc": ""
+        },
+        {
+            "hash": 2593281791,
+            "original": "~z~You better start looking for another source of campaign financing.",
+            "translated": "~z~你最好开始寻找另外的竞选资金来源了。",
+            "desc": ""
+        },
+        {
+            "hash": 2602893406,
+            "original": "E1S1_DA",
+            "translated": "E1S1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2625624786,
+            "original": "~z~I've just sent my black suit to the dry cleaners. You better have the news I'm looking for.",
+            "translated": "~z~我刚刚把我的黑色西装送去干洗了。你最好告诉我想听到的消息。",
+            "desc": ""
+        },
+        {
+            "hash": 2630952222,
+            "original": "E1S1_LA",
+            "translated": "E1S1_LA",
+            "desc": ""
+        },
+        {
+            "hash": 2650356960,
+            "original": "~z~Yeah, I guess I am.",
+            "translated": "~z~是啊，我寻思我是这样的。",
+            "desc": ""
+        },
+        {
+            "hash": 2709674755,
+            "original": "~z~but let's leave the political discussions shall we?",
+            "translated": "~z~但是，先把政治的话题放一放好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2730011674,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 2734537679,
+            "original": "E1S1_IA",
+            "translated": "E1S1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2747338422,
+            "original": "~z~Don't lose any bags today, alright.",
+            "translated": "~z~今天别出啥岔子，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2755944315,
+            "original": "~z~Can we stop with the jokes?",
+            "translated": "~z~笑话说完了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2761095428,
+            "original": "~z~Follow me, will you. Mr. Stubbs is in the day spa, receiving some back work.",
+            "translated": "~z~我来为您带路。Stubbs先生在做SPA，按摩背部呢。",
+            "desc": ""
+        },
+        {
+            "hash": 2764791945,
+            "original": "~z~Look, I'm not going to insult your intelligence by pretending to be a good guy.",
+            "translated": "~z~听着，我不会把你当傻逼，假惺惺地演好人。",
+            "desc": ""
+        },
+        {
+            "hash": 2777408542,
+            "original": "~z~Yes, so is being arrested for drug running and spending the next thirty years in prison.",
+            "translated": "~z~是啊，跟因为贩毒在牢里蹲三十年一样难受。",
+            "desc": ""
+        },
+        {
+            "hash": 2829386029,
+            "original": "~z~Okay, Klebitz. Give me the good news.",
+            "translated": "~z~好了，Klebitz。告诉我是好消息。",
+            "desc": ""
+        },
+        {
+            "hash": 2893740609,
+            "original": "E1S1_KE",
+            "translated": "E1S1_KE",
+            "desc": ""
+        },
+        {
+            "hash": 2895212285,
+            "original": "~z~Oh yeah, we're old, old buddies.",
+            "translated": "~z~是的，我们是老交情了。",
+            "desc": ""
+        },
+        {
+            "hash": 2974729632,
+            "original": "~z~Do you have an appointment?",
+            "translated": "~z~您有预约吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2976820139,
+            "original": "~z~He'll land and travel in a car convoy to the Civic Citadel.",
+            "translated": "~z~他落地了就会跟着车队去市政厅。",
+            "desc": ""
+        },
+        {
+            "hash": 2979764449,
+            "original": "~z~A blackmailer with a conscience, beautiful.",
+            "translated": "~z~盗亦有道，好极了。",
+            "desc": ""
+        },
+        {
+            "hash": 3011251808,
+            "original": "~z~Much appreciated.",
+            "translated": "~z~多谢。",
+            "desc": ""
+        },
+        {
+            "hash": 3017998276,
+            "original": "~z~What? You want me to kill your father?",
+            "translated": "~z~啥？你想让我杀了你爹？",
+            "desc": ""
+        },
+        {
+            "hash": 3056704573,
+            "original": "~z~Thank you, Leavis.",
+            "translated": "~z~谢谢，Leavis。",
+            "desc": ""
+        },
+        {
+            "hash": 3083339658,
+            "original": "~z~Democracy's a beautiful thing.",
+            "translated": "~z~民主真是个好东西。",
+            "desc": ""
+        },
+        {
+            "hash": 3124071793,
+            "original": "~z~I see, you make a wonderful politician.",
+            "translated": "~z~明白了，你是个出色的政客。",
+            "desc": ""
+        },
+        {
+            "hash": 3143169951,
+            "original": "~z~Alright, I'll make the call. There's going to be a car for you in short term parking.",
+            "translated": "~z~好了，我打电话吧。有辆车在临时停车场给你。",
+            "desc": ""
+        },
+        {
+            "hash": 3150522257,
+            "original": "~z~Ah, he was a man of the people, a philanthropist, a pompous windbag and an occasional catamite,",
+            "translated": "~z~啊，他是人民公仆，是个大善人，是个牛皮大王，有时也是个小受。",
+            "desc": ""
+        },
+        {
+            "hash": 3172265535,
+            "original": "E1S1_HA",
+            "translated": "E1S1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3225208749,
+            "original": "~z~Alright there, trooper.",
+            "translated": "~z~好了，士兵们，干活了。",
+            "desc": ""
+        },
+        {
+            "hash": 3267238994,
+            "original": "~z~when I stare into the mirror.",
+            "translated": "~z~才能正视镜中的自己。",
+            "desc": ""
+        },
+        {
+            "hash": 3277405276,
+            "original": "~z~I am what I am, but I look out for those who help me.",
+            "translated": "~z~我就是我，但我知恩图报。",
+            "desc": ""
+        },
+        {
+            "hash": 3331710691,
+            "original": "E1S1_DC",
+            "translated": "E1S1_DC",
+            "desc": ""
+        },
+        {
+            "hash": 3358834753,
+            "original": "~z~Mr. Stubbs. A gentleman for you.",
+            "translated": "~z~Stubbs先生，有人找您。",
+            "desc": ""
+        },
+        {
+            "hash": 3368332232,
+            "original": "E1S1_KA",
+            "translated": "E1S1_KA",
+            "desc": ""
+        },
+        {
+            "hash": 3438255732,
+            "original": "100090010090100090100090010",
+            "translated": "100090010090100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 3445056380,
+            "original": "~z~I'm guessing you don't want me to hurt the precious family chopper.",
+            "translated": "~z~我寻思你你不想弄坏家里那架宝贵的直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 3456653355,
+            "original": "E1S1_EE",
+            "translated": "E1S1_EE",
+            "desc": ""
+        },
+        {
+            "hash": 3501639875,
+            "original": "E1S1_DI",
+            "translated": "E1S1_DI",
+            "desc": ""
+        },
+        {
+            "hash": 3532835379,
+            "original": "E1S1_DF",
+            "translated": "E1S1_DF",
+            "desc": ""
+        },
+        {
+            "hash": 3544366417,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 3620788235,
+            "original": "SFX_PAUSE_060",
+            "translated": "SFX_PAUSE_060",
+            "desc": ""
+        },
+        {
+            "hash": 3633702525,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3633998408,
+            "original": "~z~Please step back or we will consider you a terrorist.",
+            "translated": "~z~请后退，否则视同恐怖分子。",
+            "desc": ""
+        },
+        {
+            "hash": 3696486529,
+            "original": "~z~So, you're David Grossman's friend?",
+            "translated": "~z~好了，你就是David Grossman的朋友？",
+            "desc": ""
+        },
+        {
+            "hash": 3707097841,
+            "original": "~z~You and your little gang, I mean.",
+            "translated": "~z~我是指你和你的小团伙。",
+            "desc": ""
+        },
+        {
+            "hash": 3735547214,
+            "original": "~z~For my conscience's sake, I hope your lack of humanity is a genetic quality.",
+            "translated": "~z~天地良心，希望你的没人性是家族遗传。",
+            "desc": ""
+        },
+        {
+            "hash": 3826220045,
+            "original": "E1S1_EA",
+            "translated": "E1S1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3865417112,
+            "original": "~z~Klebitz. I thought you should know my Uncle's exact movements.",
+            "translated": "~z~Klebitz，我想你是知道我叔叔准确行踪的。",
+            "desc": ""
+        },
+        {
+            "hash": 3884032806,
+            "original": "E1S1_DB",
+            "translated": "E1S1_DB",
+            "desc": ""
+        },
+        {
+            "hash": 3939352542,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 3942968599,
+            "original": "~z~Well I think they can fix that with surgery these days, you know.",
+            "translated": "~z~嫌丢人的话现在有手术可以增长。",
+            "desc": ""
+        },
+        {
+            "hash": 3959507441,
+            "original": "E1S1_JA",
+            "translated": "E1S1_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3974885841,
+            "original": "~z~Yes, let's.",
+            "translated": "~z~好，先不聊。",
+            "desc": ""
+        },
+        {
+            "hash": 3995503654,
+            "original": "~z~And thank you.",
+            "translated": "~z~谢谢。",
+            "desc": ""
+        },
+        {
+            "hash": 4014045064,
+            "original": "~z~Make it spectacular.",
+            "translated": "~z~来场盛大送行。",
+            "desc": ""
+        },
+        {
+            "hash": 4054487875,
+            "original": "~z~Sadly, Stubbs, I'm not going to be able to disappoint you. Your uncle is no longer with us.",
+            "translated": "~z~很遗憾，Stubbs，没能让你失望。你叔叔与世长辞了。",
+            "desc": ""
+        },
+        {
+            "hash": 4075523108,
+            "original": "SFX_PAUSE_050",
+            "translated": "SFX_PAUSE_050",
+            "desc": ""
+        },
+        {
+            "hash": 4079923184,
+            "original": "~z~Life insurance too, for that matter. Oh no, you take out my dearest kin any way you can.",
+            "translated": "~z~也买了人寿保险。哦不，你千方百计要干掉我最爱的家人。",
+            "desc": ""
+        },
+        {
+            "hash": 4091510980,
+            "original": "~z~That'll do wonders for my campaign in all sorts of ways.",
+            "translated": "~z~对我的竞选在各方面都会有奇效。",
+            "desc": ""
+        },
+        {
+            "hash": 4095915388,
+            "original": "E1S1_DE",
+            "translated": "E1S1_DE",
+            "desc": ""
+        },
+        {
+            "hash": 4113994196,
+            "original": "~z~Thanks, man.",
+            "translated": "~z~谢了，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 4163585333,
+            "original": "SFX_PAUSE_060",
+            "translated": "SFX_PAUSE_060",
+            "desc": ""
+        },
+        {
+            "hash": 4172841482,
+            "original": "E1S1_DG",
+            "translated": "E1S1_DG",
+            "desc": ""
+        },
+        {
+            "hash": 4200388567,
+            "original": "~z~Yeah, under this ravaged, drug-addled exterior lies the heart of a reactionary prick,",
+            "translated": "~z~对，在这副瘾君子的皮囊下，藏着一颗叛逆浪子的心，",
+            "desc": ""
+        },
+        {
+            "hash": 4224135329,
+            "original": "~z~If you're looking to board a plane, you're in the wrong place.",
+            "translated": "~z~想登机的话你来错地方了。",
+            "desc": ""
+        },
+        {
+            "hash": 4280221482,
+            "original": "~z~Ah, Mr. Klebitz, in need of some help, are we?",
+            "translated": "~z~啊，Klebitz先生，咱是不是需要点帮助？",
+            "desc": ""
+        }
+    ]
+}

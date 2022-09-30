@@ -1,0 +1,112 @@
+{
+    "CORRP2": [
+        {
+            "hash": 33295071,
+            "original": "~r~The bus is stuck.",
+            "translated": "~r~囚车无法行驶。",
+            "desc": ""
+        },
+        {
+            "hash": 79017171,
+            "original": "Take control of the ~b~prison transport bus.",
+            "translated": "夺取~b~囚车。",
+            "desc": ""
+        },
+        {
+            "hash": 385210707,
+            "original": "Get to the ~b~prison transport bus.",
+            "translated": "前往~b~囚车~s~所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 593687085,
+            "original": "Get the bus to the ~y~drop.",
+            "translated": "将囚车驶至~y~碰头地点。",
+            "desc": ""
+        },
+        {
+            "hash": 712507479,
+            "original": "~s~Lose the cops.",
+            "translated": "~s~甩掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 895480230,
+            "original": "~r~You abandoned the bus.",
+            "translated": "~r~你抛弃了囚车。",
+            "desc": ""
+        },
+        {
+            "hash": 1036625658,
+            "original": "Get to the prison transport bus ~y~location.",
+            "translated": "前往囚车~y~所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 1648193505,
+            "original": "Get back in the ~b~bus.",
+            "translated": "回到~b~囚车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1671401045,
+            "original": "The ~b~bus~s~ is leaving. Intercept it before it reaches the prison.",
+            "translated": "~b~囚车~s~已经出发。在它到达监狱前拦截它。",
+            "desc": ""
+        },
+        {
+            "hash": 2092564573,
+            "original": "~r~The bus made it to the prison.",
+            "translated": "~r~囚车已经到达监狱。",
+            "desc": ""
+        },
+        {
+            "hash": 2199932262,
+            "original": "The cops have now given up looking for the prison transport bus.",
+            "translated": "警察已经放弃寻找囚车。",
+            "desc": ""
+        },
+        {
+            "hash": 2538625538,
+            "original": "Take out the prison transport bus ~r~guards.",
+            "translated": "干掉囚车的~r~守卫。",
+            "desc": ""
+        },
+        {
+            "hash": 2807895503,
+            "original": "Hold ~INPUT_VEH_CIN_CAM~ for an inside view of the prison transport bus.",
+            "translated": "按住~INPUT_VEH_CIN_CAM~查看囚车内部。",
+            "desc": ""
+        },
+        {
+            "hash": 3039670640,
+            "original": "You will attract attention in the prison transport bus. Try to avoid the cops on your way to the drop off point.",
+            "translated": "驾驶囚车会引起警察怀疑。到达碰头地点前尽量避开警察。",
+            "desc": ""
+        },
+        {
+            "hash": 3341129011,
+            "original": "~r~You disrupted the prisoner's escape plans.",
+            "translated": "~r~你扰乱了囚犯的越狱计划。",
+            "desc": ""
+        },
+        {
+            "hash": 3600954412,
+            "original": "~r~A prisoner has died.",
+            "translated": "~r~有囚犯死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3915405736,
+            "original": "~r~The bus was wrecked.",
+            "translated": "~r~囚车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 4067430472,
+            "original": "~s~Lose the cops.",
+            "translated": "~s~甩掉条子。",
+            "desc": ""
+        }
+    ]
+}

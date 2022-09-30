@@ -1,0 +1,76 @@
+{
+    "AIRHOCK": [
+        {
+            "hash": 263306551,
+            "original": "Terry scored!",
+            "translated": "Terry进球！",
+            "desc": ""
+        },
+        {
+            "hash": 374625168,
+            "original": "Jim scored!",
+            "translated": "Jim进球！",
+            "desc": ""
+        },
+        {
+            "hash": 546476171,
+            "original": "Press ~INPUT_PICKUP~ to play air hockey.",
+            "translated": "按~INPUT_PICKUP~玩桌上冰球。",
+            "desc": ""
+        },
+        {
+            "hash": 597330791,
+            "original": "Clay scored!",
+            "translated": "Clay进球！",
+            "desc": ""
+        },
+        {
+            "hash": 704275428,
+            "original": "~1~ : ~1~",
+            "translated": "~1~ : ~1~",
+            "desc": ""
+        },
+        {
+            "hash": 771759862,
+            "original": "Use ~PAD_LSTICK_ALL~ to move the mallet. ~n~Push ~PAD_RSTICK_ALL~ in any direction to perform a power shot. ~n~Press ~PAD_BACK~ to change view. ~n~Press ~INPUT_PICKUP~ to quit.",
+            "translated": "用~PAD_LSTICK_ALL~移动推把。~n~向任意方向推动~PAD_RSTICK_ALL~重击。~n~按~PAD_BACK~切换视角。~n~按~INPUT_PICKUP~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 1026669913,
+            "original": "The first player to score 7 goals wins the game.",
+            "translated": "首先打进7球的一方获胜。",
+            "desc": ""
+        },
+        {
+            "hash": 1139627823,
+            "original": "Use ~PAD_RSTICK_ALL~ to move the mallet. ~n~Press ~INPUT_NEXT_CAMERA~ to change view. ~n~Press ~INPUT_PICKUP~ to quit.",
+            "translated": "用~PAD_RSTICK_ALL~移动推把。~n~按~INPUT_NEXT_CAMERA~切换视角。~n~按~INPUT_PICKUP~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 1380754688,
+            "original": "You scored!",
+            "translated": "你进球了！",
+            "desc": ""
+        },
+        {
+            "hash": 3338706528,
+            "original": "Player ~1~ scored!",
+            "translated": "玩家~1~进球！",
+            "desc": ""
+        },
+        {
+            "hash": 3482707090,
+            "original": "You win.",
+            "translated": "你赢了。",
+            "desc": ""
+        },
+        {
+            "hash": 3820303902,
+            "original": "You lose.",
+            "translated": "你输了。",
+            "desc": ""
+        }
+    ]
+}

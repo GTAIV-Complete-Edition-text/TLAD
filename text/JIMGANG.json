@@ -1,0 +1,94 @@
+{
+    "JIMGANG": [
+        {
+            "hash": 348765833,
+            "original": "~r~The target vehicle has escaped.",
+            "translated": "~r~目标车辆逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 1317274132,
+            "original": "~s~PHONECALL~n~~n~Jim tells you where to meet him and the others if you want to join them in an attack on a rival gang.",
+            "translated": "~s~PHONECALL~n~~n~如果你想和他们一起攻击敌对帮派的话，Jim会告诉你去哪与他和其他人见面。",
+            "desc": ""
+        },
+        {
+            "hash": 1400144700,
+            "original": "~1~/25",
+            "translated": "~1~/25",
+            "desc": ""
+        },
+        {
+            "hash": 1599488479,
+            "original": "~s~Meet up with the Lost ~b~members.",
+            "translated": "~s~与失落帮~b~成员~s~会合。",
+            "desc": ""
+        },
+        {
+            "hash": 1653856796,
+            "original": "~r~A member of The Lost has been injured.",
+            "translated": "~r~失落帮有成员受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 2042792061,
+            "original": "~r~Jim has been injured.",
+            "translated": "~r~Jim受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 2092924081,
+            "original": "~s~Find the rival ~r~gang.",
+            "translated": "~s~找到敌对~r~帮派。",
+            "desc": ""
+        },
+        {
+            "hash": 2243323839,
+            "original": "GANG WAR",
+            "translated": "帮派战争",
+            "desc": ""
+        },
+        {
+            "hash": 2289870321,
+            "original": "~r~A target has escaped.",
+            "translated": "~r~目标之一逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 2775338506,
+            "original": "~s~Take out the ~r~target vehicle.",
+            "translated": "~s~解决~r~目标车辆。",
+            "desc": ""
+        },
+        {
+            "hash": 2920659069,
+            "original": "~1~",
+            "translated": "~1~",
+            "desc": ""
+        },
+        {
+            "hash": 3174691836,
+            "original": "DEFEATED",
+            "translated": "败北",
+            "desc": ""
+        },
+        {
+            "hash": 3344863726,
+            "original": "~s~Get a bike.",
+            "translated": "~s~找一辆摩托车。",
+            "desc": ""
+        },
+        {
+            "hash": 4143245169,
+            "original": "LOST MC",
+            "translated": "失落帮",
+            "desc": ""
+        },
+        {
+            "hash": 4178408779,
+            "original": "~s~Take out the rival ~r~gang.",
+            "translated": "~s~干掉敌对~r~帮派。",
+            "desc": ""
+        }
+    ]
+}

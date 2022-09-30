@@ -1,0 +1,520 @@
+{
+    "GUNCARL": [
+        {
+            "hash": 7689578,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Sniper Rifle.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取狙击步枪。",
+            "desc": ""
+        },
+        {
+            "hash": 19091588,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken an Automatic 9mm.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取全自动9mm手枪。",
+            "desc": ""
+        },
+        {
+            "hash": 29079209,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Micro SMG.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取微型冲锋枪。",
+            "desc": ""
+        },
+        {
+            "hash": 89740486,
+            "original": "You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Assault Rifle",
+            "translated": "你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~突击步枪",
+            "desc": ""
+        },
+        {
+            "hash": 141919106,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~17 x Automatic 9mm rounds",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~17 x 全自动9mm手枪子弹",
+            "desc": ""
+        },
+        {
+            "hash": 166901237,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Pipe Bombs.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~枚土制炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 184620874,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~9mm",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~9mm手枪",
+            "desc": ""
+        },
+        {
+            "hash": 254153164,
+            "original": "You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Carbine Rifle",
+            "translated": "你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~卡宾枪",
+            "desc": ""
+        },
+        {
+            "hash": 261416429,
+            "original": "You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Micro SMG",
+            "translated": "你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~微型冲锋枪",
+            "desc": ""
+        },
+        {
+            "hash": 296039469,
+            "original": "You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Rocket Launcher",
+            "translated": "你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~火箭筒",
+            "desc": ""
+        },
+        {
+            "hash": 319753076,
+            "original": "You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Grenade",
+            "translated": "你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~手雷",
+            "desc": ""
+        },
+        {
+            "hash": 324036047,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade for Launcher",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~榴弹",
+            "desc": ""
+        },
+        {
+            "hash": 446184935,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~SMG",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~冲锋枪",
+            "desc": ""
+        },
+        {
+            "hash": 455437417,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Pipe Bomb.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取1枚土制炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 502429759,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Automatic 9mm ammo.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~发全自动9mm手枪子弹。",
+            "desc": ""
+        },
+        {
+            "hash": 652371694,
+            "original": "You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Combat Shotgun",
+            "translated": "你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~战斗霰弹枪",
+            "desc": ""
+        },
+        {
+            "hash": 706966345,
+            "original": "You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Molotov",
+            "translated": "你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~燃烧弹",
+            "desc": ""
+        },
+        {
+            "hash": 707048541,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You can't carry any more of that type of ammo.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~r~你无法携带更多此种弹药。",
+            "desc": ""
+        },
+        {
+            "hash": 727396886,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Shotgun",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~霰弹枪",
+            "desc": ""
+        },
+        {
+            "hash": 755428257,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Molotov",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~燃烧弹",
+            "desc": ""
+        },
+        {
+            "hash": 771893295,
+            "original": "You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Assault Shotgun",
+            "translated": "你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~突击霰弹枪",
+            "desc": ""
+        },
+        {
+            "hash": 790295824,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken Body Armor.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取防弹衣。",
+            "desc": ""
+        },
+        {
+            "hash": 961113584,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Rocket Launcher.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取火箭筒。",
+            "desc": ""
+        },
+        {
+            "hash": 962669004,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Molotovs.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~枚燃烧弹。",
+            "desc": ""
+        },
+        {
+            "hash": 1000250064,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~10 x Sniper Rifle rounds",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~10 x 狙击步枪子弹",
+            "desc": ""
+        },
+        {
+            "hash": 1016163131,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Assault Rifle",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~突击步枪",
+            "desc": ""
+        },
+        {
+            "hash": 1056487982,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Carbine Rifle.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取卡宾枪。",
+            "desc": ""
+        },
+        {
+            "hash": 1182923298,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Grenade Launcher.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取榴弹发射器。",
+            "desc": ""
+        },
+        {
+            "hash": 1206377681,
+            "original": "You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~9mm",
+            "translated": "你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~9mm手枪",
+            "desc": ""
+        },
+        {
+            "hash": 1226864333,
+            "original": "You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Knife",
+            "translated": "你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~匕首",
+            "desc": ""
+        },
+        {
+            "hash": 1298389097,
+            "original": "You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Shotgun",
+            "translated": "你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~霰弹枪",
+            "desc": ""
+        },
+        {
+            "hash": 1387635674,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Sawn-Off Shotgun.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取短管霰弹枪。",
+            "desc": ""
+        },
+        {
+            "hash": 1397285701,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~手雷",
+            "desc": ""
+        },
+        {
+            "hash": 1459344086,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Rocket for Launcher",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~火箭弹",
+            "desc": ""
+        },
+        {
+            "hash": 1528805750,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Body Armor",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~防弹衣",
+            "desc": ""
+        },
+        {
+            "hash": 1541178297,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Sawn-Off Shotgun ammo.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~发短管霰弹枪子弹。",
+            "desc": ""
+        },
+        {
+            "hash": 1557135727,
+            "original": "You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Sniper Rifle",
+            "translated": "你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~狙击步枪",
+            "desc": ""
+        },
+        {
+            "hash": 1639862996,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Knife",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~匕首",
+            "desc": ""
+        },
+        {
+            "hash": 1650208606,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Rocket Launcher",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~火箭筒",
+            "desc": ""
+        },
+        {
+            "hash": 1673162739,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Grenades.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~枚手雷。",
+            "desc": ""
+        },
+        {
+            "hash": 1709763908,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Assault Shotgun",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~突击霰弹枪",
+            "desc": ""
+        },
+        {
+            "hash": 1836296221,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~30 x Carbine Rifle rounds",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~30 x 卡宾枪子弹",
+            "desc": ""
+        },
+        {
+            "hash": 1852076802,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Combat Shotgun ammo.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~发战斗霰弹枪子弹。",
+            "desc": ""
+        },
+        {
+            "hash": 2012624667,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Sawn-Off Shotgun",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~短管霰弹枪",
+            "desc": ""
+        },
+        {
+            "hash": 2030675173,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of SMG ammo.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~发冲锋枪子弹。",
+            "desc": ""
+        },
+        {
+            "hash": 2089575733,
+            "original": "You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Pipe Bomb",
+            "translated": "你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~土制炸弹",
+            "desc": ""
+        },
+        {
+            "hash": 2097264098,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Assault Shotgun ammo.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~发突击霰弹枪子弹。",
+            "desc": ""
+        },
+        {
+            "hash": 2169725719,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Sniper Rifle ammo.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~发狙击步枪子弹。",
+            "desc": ""
+        },
+        {
+            "hash": 2284318424,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~30 x SMG rounds",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~30 x 冲锋枪子弹",
+            "desc": ""
+        },
+        {
+            "hash": 2317861785,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Combat Shotgun",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~战斗霰弹枪",
+            "desc": ""
+        },
+        {
+            "hash": 2347256084,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~50 x Micro SMG rounds",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~50 x 微型冲锋枪子弹",
+            "desc": ""
+        },
+        {
+            "hash": 2486037233,
+            "original": "You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Sawn-Off Shotgun",
+            "translated": "你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~短管霰弹枪",
+            "desc": ""
+        },
+        {
+            "hash": 2489594627,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of 9mm ammo.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~发9mm手枪子弹。",
+            "desc": ""
+        },
+        {
+            "hash": 2540472483,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Rockets.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~枚火箭弹。",
+            "desc": ""
+        },
+        {
+            "hash": 2563513347,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Pipe Bomb",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~土制炸弹",
+            "desc": ""
+        },
+        {
+            "hash": 2595737599,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~17 x 9mm rounds",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~17 x 9mm手枪子弹",
+            "desc": ""
+        },
+        {
+            "hash": 2656865126,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Shotgun.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取霰弹枪。",
+            "desc": ""
+        },
+        {
+            "hash": 2723863068,
+            "original": "You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~SMG",
+            "translated": "你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~冲锋枪",
+            "desc": ""
+        },
+        {
+            "hash": 2732680886,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~10 x Combat Shotgun rounds",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~10 x 战斗霰弹枪子弹",
+            "desc": ""
+        },
+        {
+            "hash": 2829832290,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Micro SMG ammo.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~发微型冲锋枪子弹。",
+            "desc": ""
+        },
+        {
+            "hash": 2939863806,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Grenade Launcher",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~榴弹发射器",
+            "desc": ""
+        },
+        {
+            "hash": 3000880143,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Grenade.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取手雷。",
+            "desc": ""
+        },
+        {
+            "hash": 3008424681,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Automatic 9mm",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~全自动9mm手枪",
+            "desc": ""
+        },
+        {
+            "hash": 3052009155,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You are already equipped with a knife.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~r~你已持有匕首。",
+            "desc": ""
+        },
+        {
+            "hash": 3186330527,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Carbine Rifle",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~卡宾枪",
+            "desc": ""
+        },
+        {
+            "hash": 3197157436,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Knife.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取匕首。",
+            "desc": ""
+        },
+        {
+            "hash": 3258581456,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Micro SMG",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~微型冲锋枪",
+            "desc": ""
+        },
+        {
+            "hash": 3392533000,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Molotov.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取燃烧弹。",
+            "desc": ""
+        },
+        {
+            "hash": 3411247949,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~8 x Assault Shotgun rounds",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~8 x 突击霰弹枪子弹",
+            "desc": ""
+        },
+        {
+            "hash": 3429436990,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~Not enough cash.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~r~现金不足。",
+            "desc": ""
+        },
+        {
+            "hash": 3463671566,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~2 x Shotgun rounds",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~2 x 霰弹枪子弹",
+            "desc": ""
+        },
+        {
+            "hash": 3489501474,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~8 x Shotgun rounds",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~8 x 霰弹枪子弹",
+            "desc": ""
+        },
+        {
+            "hash": 3527609553,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You are already wearing full body armor.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~r~你已经装备完好的防弹衣。",
+            "desc": ""
+        },
+        {
+            "hash": 3619654223,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a SMG.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取冲锋枪。",
+            "desc": ""
+        },
+        {
+            "hash": 3709370075,
+            "original": "You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Grenade Launcher",
+            "translated": "你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~榴弹发射器",
+            "desc": ""
+        },
+        {
+            "hash": 3807541253,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a Combat Shotgun.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取战斗霰弹枪。",
+            "desc": ""
+        },
+        {
+            "hash": 3828512931,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ Launching Grenades.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~枚榴弹。",
+            "desc": ""
+        },
+        {
+            "hash": 3843776140,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken an Assault Shotgun.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取突击霰弹枪。",
+            "desc": ""
+        },
+        {
+            "hash": 3939475561,
+            "original": "You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Automatic 9mm",
+            "translated": "你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~全自动9mm手枪",
+            "desc": ""
+        },
+        {
+            "hash": 3957903756,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken a 9mm.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取9mm手枪。",
+            "desc": ""
+        },
+        {
+            "hash": 3963546812,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Sniper Rifle",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~狙击步枪",
+            "desc": ""
+        },
+        {
+            "hash": 4007534843,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Assault Rifle ammo.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~发突击步枪子弹。",
+            "desc": ""
+        },
+        {
+            "hash": 4070848304,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken an Assault Rifle.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取突击步枪。",
+            "desc": ""
+        },
+        {
+            "hash": 4141549733,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of shotgun ammo.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~发霰弹枪子弹。",
+            "desc": ""
+        },
+        {
+            "hash": 4141773442,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~30 x Assault Rifle rounds",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~30 x 突击步枪子弹",
+            "desc": ""
+        },
+        {
+            "hash": 4233338948,
+            "original": "Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to take.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~You have taken ~1~ rounds of Carbine Rifle ammo.",
+            "translated": "用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~拿取。~n~按~INPUT_PICKUP~退出。~n~~g~你已拿取~1~发卡宾枪子弹。",
+            "desc": ""
+        }
+    ]
+}

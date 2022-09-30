@@ -1,0 +1,3262 @@
+{
+    "E1E1AUD": [
+        {
+            "hash": 5423634,
+            "original": "~z~Clay, I've run into some trouble on the East Borough bridge.",
+            "translated": "~z~Clay，我在东区大桥上遇到了麻烦。",
+            "desc": ""
+        },
+        {
+            "hash": 10206754,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 28625533,
+            "original": "~z~Not in the van, baby. But maybe I'm interested in what's in the back of it.",
+            "translated": "~z~货车不重要，宝贝。我对车上的货更感兴趣一些。",
+            "desc": ""
+        },
+        {
+            "hash": 29378821,
+            "original": "E1E1_A_PC",
+            "translated": "E1E1_A_PC",
+            "desc": ""
+        },
+        {
+            "hash": 33821454,
+            "original": "~z~Are you a, a motorcycle club like us and the Angels of Death?",
+            "translated": "~z~你们是...我们和死亡天使那样的机车俱乐部吗？",
+            "desc": ""
+        },
+        {
+            "hash": 36790163,
+            "original": "E1E1_JA",
+            "translated": "E1E1_JA",
+            "desc": ""
+        },
+        {
+            "hash": 50466617,
+            "original": "E1E1_A_SC",
+            "translated": "E1E1_A_SC",
+            "desc": ""
+        },
+        {
+            "hash": 51252288,
+            "original": "E1E1_IC",
+            "translated": "E1E1_IC",
+            "desc": ""
+        },
+        {
+            "hash": 60940748,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 70832464,
+            "original": "~z~Yo, fuck you clown.",
+            "translated": "~z~去你妈的小丑。",
+            "desc": ""
+        },
+        {
+            "hash": 95889916,
+            "original": "~z~Couple of friends and I are in a fix, Terry. You down?",
+            "translated": "~z~我和几个朋友遇到了些麻烦，Terry。你能来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 103180301,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 107734644,
+            "original": "E1E1_QB",
+            "translated": "E1E1_QB",
+            "desc": ""
+        },
+        {
+            "hash": 111667334,
+            "original": "~z~I do, I do. There's a van that's in the wrong hands, if you catch my drift.",
+            "translated": "~z~缺的，缺的。有一辆货车落到了坏人手里，懂我意思吧。",
+            "desc": ""
+        },
+        {
+            "hash": 149532634,
+            "original": "~z~Handle this, Johnny.",
+            "translated": "~z~拿稳了，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 166304293,
+            "original": "062090602",
+            "translated": "062090602",
+            "desc": ""
+        },
+        {
+            "hash": 167830462,
+            "original": "~z~Guess they wouldn't be top hookers if they couldn't.",
+            "translated": "~z~不好估计也上不了节目吧。",
+            "desc": ""
+        },
+        {
+            "hash": 174864374,
+            "original": "E1E1_CA",
+            "translated": "E1E1_CA",
+            "desc": ""
+        },
+        {
+            "hash": 178617068,
+            "original": "~z~Yo, wait. Don't I recognise you? Wait a minute, wait a minute...",
+            "translated": "~z~哟，等下。我好像认识你？我想想，我再想想...",
+            "desc": ""
+        },
+        {
+            "hash": 179741678,
+            "original": "E1E1_A_SA",
+            "translated": "E1E1_A_SA",
+            "desc": ""
+        },
+        {
+            "hash": 185337489,
+            "original": "E1E1_A_DB",
+            "translated": "E1E1_A_DB",
+            "desc": ""
+        },
+        {
+            "hash": 189488157,
+            "original": "~z~-Fuck you. ~n~Make yourself useful and clean this shit up.",
+            "translated": "~z~－操你妈。~n~－发挥点作用好吗？过来收拾干净。",
+            "desc": ""
+        },
+        {
+            "hash": 200768222,
+            "original": "~z~The vibe?",
+            "translated": "~z~风格？",
+            "desc": ""
+        },
+        {
+            "hash": 218584169,
+            "original": "~z~It's a crazy city.",
+            "translated": "~z~自由城真是疯狂。",
+            "desc": ""
+        },
+        {
+            "hash": 227492741,
+            "original": "~z~Boys, meet Malcolm. He's with the Uptown Riders. Malc, these are two of the most real brothers in The Lost MC.",
+            "translated": "~z~兄弟们，他是Malcolm。Malc，这二位是失落帮最棒的兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 229041203,
+            "original": "E1E1_B_DA",
+            "translated": "E1E1_B_DA",
+            "desc": ""
+        },
+        {
+            "hash": 240175071,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 248397256,
+            "original": "~z~I think we better take a cage on this run.",
+            "translated": "~z~这次还是乘四个轮子吧。",
+            "desc": ""
+        },
+        {
+            "hash": 251087455,
+            "original": "~z~Oh, you in trouble now.",
+            "translated": "~z~噢，你们有麻烦了。",
+            "desc": ""
+        },
+        {
+            "hash": 256726895,
+            "original": "SFX_PAUSE_110",
+            "translated": "SFX_PAUSE_110",
+            "desc": ""
+        },
+        {
+            "hash": 262020629,
+            "original": "010090010090100090010",
+            "translated": "010090010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 262038574,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 262347322,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 264752186,
+            "original": "~z~You know how it is can't trust nothing these days. Can't trust the price of gas,",
+            "translated": "~z~你也懂的，现在啥都信不过啊。油价信不过，",
+            "desc": ""
+        },
+        {
+            "hash": 265998830,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 275467863,
+            "original": "E1E1_A_UA",
+            "translated": "E1E1_A_UA",
+            "desc": ""
+        },
+        {
+            "hash": 303738412,
+            "original": "E1E1_ZF",
+            "translated": "E1E1_ZF",
+            "desc": ""
+        },
+        {
+            "hash": 315134687,
+            "original": "E1E1_A_AG",
+            "translated": "E1E1_A_AG",
+            "desc": ""
+        },
+        {
+            "hash": 317931005,
+            "original": "~z~I mean, you heard about the credit crunch? It's crunching underneath my feet.",
+            "translated": "~z~那个，听说过信贷危机吗？已经塌到我家了。",
+            "desc": ""
+        },
+        {
+            "hash": 318040944,
+            "original": "~z~-What you waitin' for, the bus?~n~-This is not a fuckin' parade.",
+            "translated": "~z~－愣着干嘛，等公交呢？~n~－这又不是花车游行。",
+            "desc": ""
+        },
+        {
+            "hash": 322527347,
+            "original": "E1E1_A_WC",
+            "translated": "E1E1_A_WC",
+            "desc": ""
+        },
+        {
+            "hash": 331017262,
+            "original": "~z~hold up where you think you're going man?",
+            "translated": "~z~打住，你往哪里走呢？",
+            "desc": ""
+        },
+        {
+            "hash": 361252652,
+            "original": "~z~I guess, a bit.",
+            "translated": "~z~大概吧。",
+            "desc": ""
+        },
+        {
+            "hash": 373049983,
+            "original": "~z~They teach you boys how to play with the big dogs in The Lost MC? I hope so. 'Cause this bitch bite back.",
+            "translated": "~z~你们失落帮教不教怎么耍大狗？最好教过。这狗脾气暴。",
+            "desc": ""
+        },
+        {
+            "hash": 376096097,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 377303777,
+            "original": "~z~Well, with these cops sniffing around we might all be gone soon.",
+            "translated": "~z~现在条子查得严，哪天我们就都进去了。",
+            "desc": ""
+        },
+        {
+            "hash": 384415074,
+            "original": "010090100090010090100090100090100090010090100",
+            "translated": "010090100090010090100090100090100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 406711985,
+            "original": "~z~Or why you guys look like rejects from a bondage club.",
+            "translated": "~z~也别提为啥你们都像是被SM俱乐部拒之门外的顾客。",
+            "desc": ""
+        },
+        {
+            "hash": 410062901,
+            "original": "E1E1_B_EA",
+            "translated": "E1E1_B_EA",
+            "desc": ""
+        },
+        {
+            "hash": 419465597,
+            "original": "~z~It ain't how The Lost MC roll either. See you round, man.",
+            "translated": "~z~失落帮也不是这样的。再见了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 426174081,
+            "original": "~z~Time to pay the toll.",
+            "translated": "~z~收过路费喽。",
+            "desc": ""
+        },
+        {
+            "hash": 433485259,
+            "original": "~z~I'm gonna be honest okay...",
+            "translated": "~z~我就不拐弯抹角了...",
+            "desc": ""
+        },
+        {
+            "hash": 443059563,
+            "original": "~z~You really want me to shoot you?",
+            "translated": "~z~非要爷拿枪说话啊？",
+            "desc": ""
+        },
+        {
+            "hash": 454401352,
+            "original": "~z~I thought you could handle it.",
+            "translated": "~z~我以为你能圆回来。",
+            "desc": ""
+        },
+        {
+            "hash": 458923637,
+            "original": "~z~God damn, Johnny. All that shit gone to waste. We ain't even gonna get paid now.",
+            "translated": "~z~妈个逼的，Johnny。全他妈白干了。这下钱都拿不到了。",
+            "desc": ""
+        },
+        {
+            "hash": 488699116,
+            "original": "SFX_PAUSE_120",
+            "translated": "SFX_PAUSE_120",
+            "desc": ""
+        },
+        {
+            "hash": 499108781,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 503744240,
+            "original": "~z~You gonna pay my bills and put food on the table?",
+            "translated": "~z~我的工钱和饭钱你出啊？",
+            "desc": ""
+        },
+        {
+            "hash": 507257369,
+            "original": "~z~Shit, I could swear you was on that show - America's Next Top Hooker.",
+            "translated": "~z~妈的，你肯定上过那个节目——《美国新花魁》。",
+            "desc": ""
+        },
+        {
+            "hash": 515898277,
+            "original": "~z~Allegedly, Johnny boy. Allegedly.",
+            "translated": "~z~据说嘛，Johnny仔。别人这么传的。",
+            "desc": ""
+        },
+        {
+            "hash": 516814838,
+            "original": "~z~Well this is crazy times, Liz.",
+            "translated": "~z~毕竟是疯狂时代啊，Liz。",
+            "desc": ""
+        },
+        {
+            "hash": 517834229,
+            "original": "~z~What's up with you guys and the Angels of Death?",
+            "translated": "~z~你们和死亡天使是怎么回事？",
+            "desc": ""
+        },
+        {
+            "hash": 527349444,
+            "original": "~z~This is one serious gun, amigo. This what they call a street sweeper?",
+            "translated": "~z~这可是硬家伙啊，兄弟。该不会是传说中的「清道夫」吧？",
+            "desc": ""
+        },
+        {
+            "hash": 532533241,
+            "original": "012090102",
+            "translated": "012090102",
+            "desc": ""
+        },
+        {
+            "hash": 545144489,
+            "original": "~z~Yeah, man. I'm cool. Just holla if you need any help now.",
+            "translated": "~z~没事，兄弟，我很好。就是不知道你好不好。",
+            "desc": ""
+        },
+        {
+            "hash": 550628476,
+            "original": "190090190090190",
+            "translated": "190090190090190",
+            "desc": ""
+        },
+        {
+            "hash": 552918525,
+            "original": "~z~Cause, man, I mean - I met some of these Angels of Death and they're some real unfortunate sons-a-bitches.",
+            "translated": "~z~因为，老兄，我也见过几个死亡天使，都是些倒霉催的逼玩意。",
+            "desc": ""
+        },
+        {
+            "hash": 559299223,
+            "original": "~z~That's about accurate for this shit. It'll carve through any motherfuckers dumb enough to stand down wind of us.",
+            "translated": "~z~名副其实啊。谁敢跟我们对着干，骨灰都给他扬喽。",
+            "desc": ""
+        },
+        {
+            "hash": 563991685,
+            "original": "E1E1_A_AB",
+            "translated": "E1E1_A_AB",
+            "desc": ""
+        },
+        {
+            "hash": 567570319,
+            "original": "E1E1_GA",
+            "translated": "E1E1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 574289387,
+            "original": "~z~Malc, man, get one of your boys to bring our wheels to the drop off.",
+            "translated": "~z~Malc，兄弟，你派个人把我们的车送过去。",
+            "desc": ""
+        },
+        {
+            "hash": 574734896,
+            "original": "~z~You alright there, Johnny?",
+            "translated": "~z~你没事吧，Johnny？",
+            "desc": ""
+        },
+        {
+            "hash": 584864265,
+            "original": "~z~Calm down.",
+            "translated": "~z~淡定点。",
+            "desc": ""
+        },
+        {
+            "hash": 588877573,
+            "original": "~z~True that, cat. Ay oh, E. Let him know what it is.",
+            "translated": "~z~没错，老弟。对了，E，跟他说下计划。",
+            "desc": ""
+        },
+        {
+            "hash": 589828391,
+            "original": "~z~You're doing great, honey. It's okay, just come with me.",
+            "translated": "~z~你做得很棒，宝贝。没事了，有我在呢。",
+            "desc": ""
+        },
+        {
+            "hash": 598765309,
+            "original": "E1E1_A_MB",
+            "translated": "E1E1_A_MB",
+            "desc": ""
+        },
+        {
+            "hash": 600806918,
+            "original": "~z~True, man, true. Shit gets colder every day. I'll see you round.",
+            "translated": "~z~是啊，兄弟，没错。现在一天比一天凉。我们以后见。",
+            "desc": ""
+        },
+        {
+            "hash": 603889815,
+            "original": "~z~Come on, now",
+            "translated": "~z~听话。",
+            "desc": ""
+        },
+        {
+            "hash": 615480556,
+            "original": "~z~We ain't hanging round man. Get up in this van, okay?",
+            "translated": "~z~此地不宜久留，老兄。快点上车好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 627354010,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 629615050,
+            "original": "~z~The shipment's the target.",
+            "translated": "~z~货物才是目标。",
+            "desc": ""
+        },
+        {
+            "hash": 631691225,
+            "original": "~z~No doubt, drop that bitch like she hot. The bitch has dropped.",
+            "translated": "~z~确实，多说无益。不说了。",
+            "desc": ""
+        },
+        {
+            "hash": 640123939,
+            "original": "E1E1_A_WB",
+            "translated": "E1E1_A_WB",
+            "desc": ""
+        },
+        {
+            "hash": 660804482,
+            "original": "~z~I'm sorry about Andreas here.",
+            "translated": "~z~Andreas让你见笑了。",
+            "desc": ""
+        },
+        {
+            "hash": 676109050,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 696942507,
+            "original": "SFX_PAUSE_140",
+            "translated": "SFX_PAUSE_140",
+            "desc": ""
+        },
+        {
+            "hash": 697218081,
+            "original": "E1E1_ZB",
+            "translated": "E1E1_ZB",
+            "desc": ""
+        },
+        {
+            "hash": 702754295,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 703116745,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 705691796,
+            "original": "~z~Yo, give up the van.",
+            "translated": "~z~哟，交出货车。",
+            "desc": ""
+        },
+        {
+            "hash": 708923801,
+            "original": "E1E1_A_FB",
+            "translated": "E1E1_A_FB",
+            "desc": ""
+        },
+        {
+            "hash": 731061899,
+            "original": "~z~Some assholes are about to run into trouble at the toll booth. Can you assist?",
+            "translated": "~z~我们要在收费站给某些傻逼准备一个惊喜。你能来帮忙吗？",
+            "desc": ""
+        },
+        {
+            "hash": 739685219,
+            "original": "~z~Well, we should do something about that. See you soon.",
+            "translated": "~z~那我们不能坐视不理啊。待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 746885208,
+            "original": "~z~Either of you blow up the van, you'll be back to prospecting.",
+            "translated": "~z~谁把货车打炸了，就滚回见习期吧。",
+            "desc": ""
+        },
+        {
+            "hash": 756171357,
+            "original": "~z~Man, I don't know. What is worth it? Sticking our heads out to steal a truck of blow for a few thousand bucks?",
+            "translated": "~z~兄弟，我不知道。又有什么是值得的？~n~拿命去偷一车白粉，赚几千块钱值吗？",
+            "desc": ""
+        },
+        {
+            "hash": 760030589,
+            "original": "~z~-Turn around now...~n~-Hey look, I got some change right here.",
+            "translated": "~z~－请回吧...~n~－喂，听着，我这儿有零钱。",
+            "desc": ""
+        },
+        {
+            "hash": 761414866,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 787267190,
+            "original": "SFX_PAUSE_320",
+            "translated": "SFX_PAUSE_320",
+            "desc": ""
+        },
+        {
+            "hash": 789792176,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 796542248,
+            "original": "190090190090190",
+            "translated": "190090190090190",
+            "desc": ""
+        },
+        {
+            "hash": 796599283,
+            "original": "SFX_PAUSE_540",
+            "translated": "SFX_PAUSE_540",
+            "desc": ""
+        },
+        {
+            "hash": 804438427,
+            "original": "~z~Johnny, boy, find some cover.",
+            "translated": "~z~Johnny仔，找掩护。",
+            "desc": ""
+        },
+        {
+            "hash": 819676325,
+            "original": "~z~Like you guys used to be. Back in about what, '63 or something?",
+            "translated": "~z~就跟以前的你们一样。多久以前来着，63年左右吧。",
+            "desc": ""
+        },
+        {
+            "hash": 821183752,
+            "original": "~z~We've still got heart, man. The Lost MC are still here. We just don't get on MeTV and scream about it.",
+            "translated": "~z~我们的热血还在，兄弟。失落帮依然存在。只是我们不会上电视喊出来而已。",
+            "desc": ""
+        },
+        {
+            "hash": 821756449,
+            "original": "~z~We best use a car here, brother. Come on.",
+            "translated": "~z~最好开车过去，兄弟。走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 822269410,
+            "original": "E1E1_VA",
+            "translated": "E1E1_VA",
+            "desc": ""
+        },
+        {
+            "hash": 830573487,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 836371605,
+            "original": "~z~My bust. I didn't mean to make light of that Johnny.",
+            "translated": "~z~怪我。是我想的太简单了，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 837495976,
+            "original": "~z~Okay, I guess all we gotta worry about is the cops taking us down then?",
+            "translated": "~z~那好，看来我们只需要担心找上门的条子了？",
+            "desc": ""
+        },
+        {
+            "hash": 840829036,
+            "original": "E1E1_SB",
+            "translated": "E1E1_SB",
+            "desc": ""
+        },
+        {
+            "hash": 844495552,
+            "original": "SFX_PAUSE_130",
+            "translated": "SFX_PAUSE_130",
+            "desc": ""
+        },
+        {
+            "hash": 849118390,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 882026330,
+            "original": "~z~about the merits of good American machinery versus foreign plastic fantastic crap.",
+            "translated": "~z~美国重机和塑料洋垃圾的好坏优劣上吧。",
+            "desc": ""
+        },
+        {
+            "hash": 887207066,
+            "original": "~z~Thanks guys.",
+            "translated": "~z~谢谢你们。",
+            "desc": ""
+        },
+        {
+            "hash": 887897169,
+            "original": "E1E1_HC",
+            "translated": "E1E1_HC",
+            "desc": ""
+        },
+        {
+            "hash": 896640823,
+            "original": "~z~Me and some boys are about to ambush a convoy on the East Borough. You down?",
+            "translated": "~z~我们准备在东区大桥埋伏一个车队。你来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 897710601,
+            "original": "~z~So, Malcolm, I got a question for you.",
+            "translated": "~z~Malcolm，我有问题问你。",
+            "desc": ""
+        },
+        {
+            "hash": 900636432,
+            "original": "~z~Give up the van!",
+            "translated": "~z~交出货车！",
+            "desc": ""
+        },
+        {
+            "hash": 900678362,
+            "original": "~z~How you and me gonna let them mother fuckers take us like that? I'm bigger than that, I'm bigger.",
+            "translated": "~z~我俩怎么就让他们骑到头上了？我不服啊，老子不服。",
+            "desc": ""
+        },
+        {
+            "hash": 901465104,
+            "original": "~z~You robbed.",
+            "translated": "~z~就抢你们。",
+            "desc": ""
+        },
+        {
+            "hash": 904513139,
+            "original": "E1E1_ZG",
+            "translated": "E1E1_ZG",
+            "desc": ""
+        },
+        {
+            "hash": 917329015,
+            "original": "~z~What was all this shit with you dissing me in front of Elizabeta, man?",
+            "translated": "~z~你在Elizabeta面前说我那么多坏话干嘛，老兄？",
+            "desc": ""
+        },
+        {
+            "hash": 949366609,
+            "original": "~z~We're adults here, Malcolm.",
+            "translated": "~z~我们不玩过家家，Malcolm。",
+            "desc": ""
+        },
+        {
+            "hash": 952003984,
+            "original": "E1E1_YF",
+            "translated": "E1E1_YF",
+            "desc": ""
+        },
+        {
+            "hash": 956404464,
+            "original": "E1E1_A_AA",
+            "translated": "E1E1_A_AA",
+            "desc": ""
+        },
+        {
+            "hash": 957082531,
+            "original": "~z~Ouch.",
+            "translated": "~z~唉哟。",
+            "desc": ""
+        },
+        {
+            "hash": 967401806,
+            "original": "100090010090010",
+            "translated": "100090010090010",
+            "desc": ""
+        },
+        {
+            "hash": 972863871,
+            "original": "~z~Now get the fuck out of here.",
+            "translated": "~z~你们可以滚了。",
+            "desc": ""
+        },
+        {
+            "hash": 984611654,
+            "original": "~z~Maybe he's the lucky one. So long, Johnny.",
+            "translated": "~z~死了也可能是好事。再见，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 1028658867,
+            "original": "~z~Racism, misogyny, bad personal hygiene. But still, why you wanna kill each other?",
+            "translated": "~z~搞歧视，搞仇女，不讲个人卫生。~n~但是，你们互相残杀干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 1044956373,
+            "original": "010010090100",
+            "translated": "010010090100",
+            "desc": ""
+        },
+        {
+            "hash": 1062112991,
+            "original": "010090100",
+            "translated": "010090100",
+            "desc": ""
+        },
+        {
+            "hash": 1062166343,
+            "original": "~z~I'm going to take care of this, we're going to get through this.",
+            "translated": "~z~这边我来解决，我们一定能挺过去的。",
+            "desc": ""
+        },
+        {
+            "hash": 1067894815,
+            "original": "~z~and ain't got nothin' else.",
+            "translated": "~z~反正都一无所有了。",
+            "desc": ""
+        },
+        {
+            "hash": 1070452869,
+            "original": "E1E1_LA",
+            "translated": "E1E1_LA",
+            "desc": ""
+        },
+        {
+            "hash": 1075076128,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 1076207320,
+            "original": "~z~I'm always down to help a brother in need.",
+            "translated": "~z~帮兄弟的忙我向来乐意。",
+            "desc": ""
+        },
+        {
+            "hash": 1078668554,
+            "original": "~z~You might just get me angry, you hear.",
+            "translated": "~z~叔叔我啊，可是真的要生气了。",
+            "desc": ""
+        },
+        {
+            "hash": 1079920194,
+            "original": "~z~Okay ma, peace.",
+            "translated": "~z~好的，姐，再见。",
+            "desc": ""
+        },
+        {
+            "hash": 1088268819,
+            "original": "E1E1_EB",
+            "translated": "E1E1_EB",
+            "desc": ""
+        },
+        {
+            "hash": 1100506342,
+            "original": "~z~Get in cover, Johnny.",
+            "translated": "~z~找掩护，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 1106348644,
+            "original": "E1E1_B_HA",
+            "translated": "E1E1_B_HA",
+            "desc": ""
+        },
+        {
+            "hash": 1111761285,
+            "original": "~z~DeSean, stay in cover, man.",
+            "translated": "~z~DeSean，找好掩护，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1118431439,
+            "original": "~z~Come on, Johnny. Pull your weight, yeah?",
+            "translated": "~z~拜托，Johnny。给点力好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1119303969,
+            "original": "~z~Get out of here. You're robbed.",
+            "translated": "~z~滚蛋吧，这是抢劫。",
+            "desc": ""
+        },
+        {
+            "hash": 1127712279,
+            "original": "E1E1_A_BF",
+            "translated": "E1E1_A_BF",
+            "desc": ""
+        },
+        {
+            "hash": 1141728707,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 1142080127,
+            "original": "~z~Malc here is my compromise.",
+            "translated": "~z~这位Malc就是我的妥协。",
+            "desc": ""
+        },
+        {
+            "hash": 1144624327,
+            "original": "~z~But you can't be a bigger mope than the last two fuckups Liz Torres had me partying with.",
+            "translated": "~z~只是你总比之前Liz Torres给我派的那俩扫把星好。",
+            "desc": ""
+        },
+        {
+            "hash": 1148987683,
+            "original": "~z~Let's keep a low profile and ride in a car, man.",
+            "translated": "~z~低调一点，开车过去吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1152391136,
+            "original": "E1E1_A_IA",
+            "translated": "E1E1_A_IA",
+            "desc": ""
+        },
+        {
+            "hash": 1166261372,
+            "original": "~z~Dude, can one of your people bring the bikes around?",
+            "translated": "~z~老兄，能让你的手下把摩托备好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1169810445,
+            "original": "~z~You done.",
+            "translated": "~z~你们完了。",
+            "desc": ""
+        },
+        {
+            "hash": 1175639139,
+            "original": "~z~Yo, Johnny boy, I got a question for you, if you got the inclination to answer.",
+            "translated": "~z~哟，Johnny仔。我想问你一个问题，不知道你有没有兴趣回答。",
+            "desc": ""
+        },
+        {
+            "hash": 1200649409,
+            "original": "~z~Yeah, you was like John number four or some shit. Right?",
+            "translated": "~z~你是不是那个什么阿强四号，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1205483156,
+            "original": "SFX_PAUSE_130",
+            "translated": "SFX_PAUSE_130",
+            "desc": ""
+        },
+        {
+            "hash": 1205857182,
+            "original": "SFX_PAUSE_420",
+            "translated": "SFX_PAUSE_420",
+            "desc": ""
+        },
+        {
+            "hash": 1220571689,
+            "original": "~z~Honey you're doing so great.",
+            "translated": "~z~宝贝，你是最棒的。",
+            "desc": ""
+        },
+        {
+            "hash": 1226753721,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 1231382489,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 1238452866,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 1242930158,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1249903680,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 1258439258,
+            "original": "~z~Fuck me. This is an American firearm.",
+            "translated": "~z~我操，什么叫美帝火力啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1271821912,
+            "original": "~z~We just need the shipment, okay?",
+            "translated": "~z~我们只抢货，懂？",
+            "desc": ""
+        },
+        {
+            "hash": 1279818606,
+            "original": "E1E1_A_CF",
+            "translated": "E1E1_A_CF",
+            "desc": ""
+        },
+        {
+            "hash": 1283236095,
+            "original": "~z~We been kicking ass way longer than you young bucks, that's for sure.",
+            "translated": "~z~我们老江湖可比你们这些小弟弟老道多了，还用想吗。",
+            "desc": ""
+        },
+        {
+            "hash": 1304381825,
+            "original": "100090010090100",
+            "translated": "100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 1309842849,
+            "original": "100090010090100090010090100",
+            "translated": "100090010090100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 1316021683,
+            "original": "~z~Hell, they going to want even more product when they lose their jobs",
+            "translated": "~z~再说，工作一丢，需求量不还得噌噌往上涨，",
+            "desc": ""
+        },
+        {
+            "hash": 1327747917,
+            "original": "190090190090190090190",
+            "translated": "190090190090190090190",
+            "desc": ""
+        },
+        {
+            "hash": 1334568093,
+            "original": "~z~-There it is... we out.~n~-A'ight.",
+            "translated": "~z~－收到...~n~－行。",
+            "desc": ""
+        },
+        {
+            "hash": 1336069073,
+            "original": "~z~Come on, motherfuckers.",
+            "translated": "~z~来吧，傻逼玩意。",
+            "desc": ""
+        },
+        {
+            "hash": 1339844921,
+            "original": "~z~Shit, I don't know. Lost count, son.",
+            "translated": "~z~妈的，不知道。你爹没数。",
+            "desc": ""
+        },
+        {
+            "hash": 1347116266,
+            "original": "~z~I'm always down to help a brother in need.",
+            "translated": "~z~帮兄弟的忙我向来乐意。",
+            "desc": ""
+        },
+        {
+            "hash": 1353974540,
+            "original": "E1E1_A_HB",
+            "translated": "E1E1_A_HB",
+            "desc": ""
+        },
+        {
+            "hash": 1358181094,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 1363075654,
+            "original": "192",
+            "translated": "192",
+            "desc": ""
+        },
+        {
+            "hash": 1363695148,
+            "original": "~z~ Yeah, yeah, yeah. Can you let me through?",
+            "translated": "~z~好好好，能放我过去了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1369146735,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1377606712,
+            "original": "600090060",
+            "translated": "600090060",
+            "desc": ""
+        },
+        {
+            "hash": 1378923366,
+            "original": "~z~Sure thing, Jonathan. Shoot.",
+            "translated": "~z~好的，Jonathan。问吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1386065823,
+            "original": "SFX_PAUSE_320",
+            "translated": "SFX_PAUSE_320",
+            "desc": ""
+        },
+        {
+            "hash": 1399937111,
+            "original": "~z~Can you get your people to bring our bikes to the drop-off?",
+            "translated": "~z~你能找个手下帮我们备好摩托吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1407816529,
+            "original": "190090190090190",
+            "translated": "190090190090190",
+            "desc": ""
+        },
+        {
+            "hash": 1408356946,
+            "original": "E1E1_YE",
+            "translated": "E1E1_YE",
+            "desc": ""
+        },
+        {
+            "hash": 1427097633,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 1429343997,
+            "original": "E1E1_A_BE",
+            "translated": "E1E1_A_BE",
+            "desc": ""
+        },
+        {
+            "hash": 1460956333,
+            "original": "E1E1_A_GA",
+            "translated": "E1E1_A_GA",
+            "desc": ""
+        },
+        {
+            "hash": 1461846554,
+            "original": "E1E1_FA",
+            "translated": "E1E1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1484410381,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 1485557034,
+            "original": "~z~It's the personal hygiene thing. We're real sticklers for cleanliness in The Lost MC.",
+            "translated": "~z~因为他们不讲卫生。我们失落帮的人都有洁癖。",
+            "desc": ""
+        },
+        {
+            "hash": 1495126826,
+            "original": "~z~Fraid not, Liz. Traffic's flowin' just fine. Your friend got wherever they was goin'.",
+            "translated": "~z~并没有，Liz。路况太好了，你的朋友已经无影无踪了。",
+            "desc": ""
+        },
+        {
+            "hash": 1495128733,
+            "original": "~z~You guys all met? Malc, these are my boys. Gentlemen, this is Malcolm.",
+            "translated": "~z~你们认识吗？Malc，他们是我的兄弟。兄弟们，这位是Malcolm。",
+            "desc": ""
+        },
+        {
+            "hash": 1500222584,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 1505632308,
+            "original": "E1E1_A_HB",
+            "translated": "E1E1_A_HB",
+            "desc": ""
+        },
+        {
+            "hash": 1507686518,
+            "original": "~z~It's impossible to find good help in this city.",
+            "translated": "~z~想在自由城找到好帮手太难了。",
+            "desc": ""
+        },
+        {
+            "hash": 1516531258,
+            "original": "E1E1_DB",
+            "translated": "E1E1_DB",
+            "desc": ""
+        },
+        {
+            "hash": 1519130056,
+            "original": "~z~-You're holding traffic up. What's the problem?~n~-Hey, we're kind of in a rush here, okay?",
+            "translated": "~z~－后面都被你堵住了，有病吧？~n~－喂，我们赶时间，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1522408585,
+            "original": "E1E1_A_AF",
+            "translated": "E1E1_A_AF",
+            "desc": ""
+        },
+        {
+            "hash": 1527429644,
+            "original": "E1E1_IB",
+            "translated": "E1E1_IB",
+            "desc": ""
+        },
+        {
+            "hash": 1528161588,
+            "original": "E1E1_A_GB",
+            "translated": "E1E1_A_GB",
+            "desc": ""
+        },
+        {
+            "hash": 1536700331,
+            "original": "E1E1_IA",
+            "translated": "E1E1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 1541334065,
+            "original": "~z~Give up that van now.",
+            "translated": "~z~把货车交出来。",
+            "desc": ""
+        },
+        {
+            "hash": 1551774818,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1551846458,
+            "original": "~z~Malc, man, you look good in that booth. You should think about a second career.",
+            "translated": "~z~Malc，老兄，你管收费站还挺像样的。有没有考虑过转行？",
+            "desc": ""
+        },
+        {
+            "hash": 1561238482,
+            "original": "~z~You trying to get shot, Johnny?",
+            "translated": "~z~你找死吗，Johnny？",
+            "desc": ""
+        },
+        {
+            "hash": 1563381853,
+            "original": "E1E1_A_CE",
+            "translated": "E1E1_A_CE",
+            "desc": ""
+        },
+        {
+            "hash": 1587011088,
+            "original": "~z~Well, it's serious business. I lost a lot of brothers. Killed a lot of men, too.",
+            "translated": "~z~我没在开玩笑。我失去了很多兄弟，还杀了很多人。",
+            "desc": ""
+        },
+        {
+            "hash": 1590038875,
+            "original": "E1E1_ZD",
+            "translated": "E1E1_ZD",
+            "desc": ""
+        },
+        {
+            "hash": 1598464099,
+            "original": "~z~I mean, what's Bohan got? Give me a good reason why you wanna go to Bohan.",
+            "translated": "~z~真的，Bohan有什么？能解释下你们为什么要来Bohan吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1600385658,
+            "original": "~z~We're here for the shipment, assholes.",
+            "translated": "~z~我们只要货物，混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 1611203789,
+            "original": "~z~Back off of him, you stupid shit.",
+            "translated": "~z~放他进来，你个傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 1633185596,
+            "original": "~z~You going make me lose my mind.",
+            "translated": "~z~我要被你们弄疯了。",
+            "desc": ""
+        },
+        {
+            "hash": 1643808721,
+            "original": "E1E1_A_XA",
+            "translated": "E1E1_A_XA",
+            "desc": ""
+        },
+        {
+            "hash": 1656586163,
+            "original": "E1E1_A_GC",
+            "translated": "E1E1_A_GC",
+            "desc": ""
+        },
+        {
+            "hash": 1657850327,
+            "original": "E1E1_UB",
+            "translated": "E1E1_UB",
+            "desc": ""
+        },
+        {
+            "hash": 1657905600,
+            "original": "E1E1_A_QA",
+            "translated": "E1E1_A_QA",
+            "desc": ""
+        },
+        {
+            "hash": 1668007210,
+            "original": "E1E1_YG",
+            "translated": "E1E1_YG",
+            "desc": ""
+        },
+        {
+            "hash": 1670526595,
+            "original": "E1E1_A_EB",
+            "translated": "E1E1_A_EB",
+            "desc": ""
+        },
+        {
+            "hash": 1704380641,
+            "original": "100090010090010090100090010090100",
+            "translated": "100090010090010090100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 1725237255,
+            "original": "~z~-It's my job. ~n~What up, Johnny boy? We talked to your girl.",
+            "translated": "~z~－职责所在。~n~－还好吗，Johnny仔？我跟这姑娘谈过了。",
+            "desc": ""
+        },
+        {
+            "hash": 1733517796,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 1749220571,
+            "original": "~z~Hey, I can't be to sure but this looks like one of those fake bills I've been hearing about.",
+            "translated": "~z~喂，我也不太确定，但这个看着像是那种假钞啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1749224828,
+            "original": "~z~Protect the van!",
+            "translated": "~z~保护货车！",
+            "desc": ""
+        },
+        {
+            "hash": 1756150267,
+            "original": "~z~These guys ain't gonna know what hit 'em.",
+            "translated": "~z~他们不会知道自己是怎么死的。",
+            "desc": ""
+        },
+        {
+            "hash": 1759812250,
+            "original": "~z~They bribed a guard on the East Borough Bridge to let 'em through without checking their load, right?",
+            "translated": "~z~他们贿赂了东区大桥的边检员，直接放行不用检查，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1783737589,
+            "original": "E1E1_FC",
+            "translated": "E1E1_FC",
+            "desc": ""
+        },
+        {
+            "hash": 1797313370,
+            "original": "692",
+            "translated": "692",
+            "desc": ""
+        },
+        {
+            "hash": 1809374731,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 1815732627,
+            "original": "E1E1_A_DA",
+            "translated": "E1E1_A_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1816398910,
+            "original": "~z~Hand the shit over, motherfuckers.",
+            "translated": "~z~把货交出来，傻逼儿子。",
+            "desc": ""
+        },
+        {
+            "hash": 1822820728,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 1823722246,
+            "original": "E1E1_A_EA",
+            "translated": "E1E1_A_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1825337068,
+            "original": "E1E1_XF",
+            "translated": "E1E1_XF",
+            "desc": ""
+        },
+        {
+            "hash": 1850555983,
+            "original": "~z~I don't wanna take you to hospital, man. Get in cover.",
+            "translated": "~z~我不想送你去医院，老兄。找掩护。",
+            "desc": ""
+        },
+        {
+            "hash": 1856635096,
+            "original": "~z~Having fun there, Malc?",
+            "translated": "~z~玩得开心吗，Malc？",
+            "desc": ""
+        },
+        {
+            "hash": 1858635211,
+            "original": "E1E1_YD",
+            "translated": "E1E1_YD",
+            "desc": ""
+        },
+        {
+            "hash": 1874180062,
+            "original": "~z~Ha ha. Don't think I would have been on the outside long enough to sell it anyway. Don't get arrested, Johnny.",
+            "translated": "~z~哈哈。就算我有命拿到货，估计也没命卖了。你可别被抓了，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 1882307010,
+            "original": "E1E1_A_PB",
+            "translated": "E1E1_A_PB",
+            "desc": ""
+        },
+        {
+            "hash": 1883117623,
+            "original": "E1E1_QA",
+            "translated": "E1E1_QA",
+            "desc": ""
+        },
+        {
+            "hash": 1884069251,
+            "original": "~z~The products more important than you are, you assholes.",
+            "translated": "~z~车上的货比你们的命值钱多了，混蛋们。",
+            "desc": ""
+        },
+        {
+            "hash": 1886308321,
+            "original": "~z~I can handle motherfucker. She's just one cold female. And I don't want her thinking I'm a bitch.",
+            "translated": "~z~我圆你妈逼。她是那种冷血女人，我不想让她把我当婊子。",
+            "desc": ""
+        },
+        {
+            "hash": 1887323677,
+            "original": "E1E1_A_ZB",
+            "translated": "E1E1_A_ZB",
+            "desc": ""
+        },
+        {
+            "hash": 1910679093,
+            "original": "E1E1_A_IB",
+            "translated": "E1E1_A_IB",
+            "desc": ""
+        },
+        {
+            "hash": 1936391818,
+            "original": "E1E1_A_OB",
+            "translated": "E1E1_A_OB",
+            "desc": ""
+        },
+        {
+            "hash": 1940078400,
+            "original": "010090010090100090010090010",
+            "translated": "010090010090100090010090010",
+            "desc": ""
+        },
+        {
+            "hash": 1948523157,
+            "original": "E1E1_GB",
+            "translated": "E1E1_GB",
+            "desc": ""
+        },
+        {
+            "hash": 1952336236,
+            "original": "~z~-You've got to be kidding me. What's the problem?~n~-It's okay, you just breathe.",
+            "translated": "~z~－你跟我这儿开什么玩笑，有病吧？~n~－没事的，深呼吸。",
+            "desc": ""
+        },
+        {
+            "hash": 1967047971,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 1967998983,
+            "original": "E1E1_A_ZA",
+            "translated": "E1E1_A_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 1983876994,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1988012531,
+            "original": "~z~They're after the fucking van.",
+            "translated": "~z~他们是冲货车来的。",
+            "desc": ""
+        },
+        {
+            "hash": 1997125348,
+            "original": "~z~and show them I'm a bitch, but I ain't their fucking bitch, okay?",
+            "translated": "~z~让他们知道老娘就是婊子，但不是他们能惹的婊子，懂？",
+            "desc": ""
+        },
+        {
+            "hash": 1998488103,
+            "original": "E1E1_AA",
+            "translated": "E1E1_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2000769640,
+            "original": "E1E1_B_GA",
+            "translated": "E1E1_B_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2003203370,
+            "original": "E1E1_B_FA",
+            "translated": "E1E1_B_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2011158398,
+            "original": "~z~No, we ain't. Later on, man.",
+            "translated": "~z~是拿不到了。回见，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2016095069,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 2032053402,
+            "original": "~z~Let's make it happen, captain.",
+            "translated": "~z~就这么办吧，队长。",
+            "desc": ""
+        },
+        {
+            "hash": 2039861425,
+            "original": "100090010090100090100090010090100",
+            "translated": "100090010090100090100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 2044475507,
+            "original": "~z~-You got to hold up in here, I'm talking to you alright?~n~-Johnny!",
+            "translated": "~z~－不许再前进了，乖乖照做懂吧？~n~－Johnny！",
+            "desc": ""
+        },
+        {
+            "hash": 2045516351,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 2048794853,
+            "original": "~z~can't trust this President for sure, and you know you can't even trust this money.",
+            "translated": "~z~总统肯定信不过，就连钞票都信不过了。",
+            "desc": ""
+        },
+        {
+            "hash": 2050383118,
+            "original": "~z~We're about to see what we're made of, people.",
+            "translated": "~z~马上就要掏出真本事了，各位。",
+            "desc": ""
+        },
+        {
+            "hash": 2051783888,
+            "original": "~z~Shoot, Malc.",
+            "translated": "~z~问吧，Malc。",
+            "desc": ""
+        },
+        {
+            "hash": 2057312803,
+            "original": "E1E1_A_MA",
+            "translated": "E1E1_A_MA",
+            "desc": ""
+        },
+        {
+            "hash": 2057369623,
+            "original": "SFX_OVERLAP_2150",
+            "translated": "SFX_OVERLAP_2150",
+            "desc": ""
+        },
+        {
+            "hash": 2058907475,
+            "original": "~z~Take us to the Point, Johnny. We got a lockup there.",
+            "translated": "~z~带我们去Chase Point，Johnny。我们的车库在那儿。",
+            "desc": ""
+        },
+        {
+            "hash": 2061826820,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 2070326325,
+            "original": "010090100",
+            "translated": "010090100",
+            "desc": ""
+        },
+        {
+            "hash": 2075960024,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 2083187184,
+            "original": "~z~Hey, dude, I'm sorry. Your brother's gonna be remembered.",
+            "translated": "~z~喂，老兄，我很抱歉。我们会记住你兄弟的。",
+            "desc": ""
+        },
+        {
+            "hash": 2097542062,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 2102331121,
+            "original": "~z~Uh huh. This fool called Playboy X and some off the boat European. No surprise, the deal went to shit.",
+            "translated": "~z~啊哈。一个叫Playboy X的傻逼，加一个初来乍到的欧洲人。意料之内，交易真吹了。",
+            "desc": ""
+        },
+        {
+            "hash": 2102707384,
+            "original": "E1E1_A_PA",
+            "translated": "E1E1_A_PA",
+            "desc": ""
+        },
+        {
+            "hash": 2106342531,
+            "original": "~z~Shit, man. Always carry exact change. I'll be there soon.",
+            "translated": "~z~妈的，兄弟。让你出门不带硬币。我马上就来。",
+            "desc": ""
+        },
+        {
+            "hash": 2116799241,
+            "original": "~z~Man, Clay, you psychic or something? But this will be worth your while, Brother.",
+            "translated": "~z~我去，Clay，你是会读心术吗？这次来了就是赚到，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2129820919,
+            "original": "SFX_PAUSE_150",
+            "translated": "SFX_PAUSE_150",
+            "desc": ""
+        },
+        {
+            "hash": 2131299877,
+            "original": "E1E1_XB",
+            "translated": "E1E1_XB",
+            "desc": ""
+        },
+        {
+            "hash": 2131368349,
+            "original": "~z~Aight, go ahead, go ahead. Let's go.",
+            "translated": "~z~好了，过去过去，走了。",
+            "desc": ""
+        },
+        {
+            "hash": 2139933183,
+            "original": "~z~Look, I will come back with all the exact change that you need.",
+            "translated": "~z~听着，回来的时候我会把钱一分不差地交给你。",
+            "desc": ""
+        },
+        {
+            "hash": 2161798413,
+            "original": "E1E1_A_XB",
+            "translated": "E1E1_A_XB",
+            "desc": ""
+        },
+        {
+            "hash": 2168190106,
+            "original": "102090010",
+            "translated": "102090010",
+            "desc": ""
+        },
+        {
+            "hash": 2172202445,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 2186123222,
+            "original": "~z~What is it about sitting in little booths and wearing uniforms that turns guys into assholes?",
+            "translated": "~z~穿着皇协军的衣服坐在收费站里是种怎样的体验？",
+            "desc": ""
+        },
+        {
+            "hash": 2203110533,
+            "original": "E1E1_A_QB",
+            "translated": "E1E1_A_QB",
+            "desc": ""
+        },
+        {
+            "hash": 2214242531,
+            "original": "~z~Johnny, I thought you and your friends were the real deal. Shows how wrong I can be.",
+            "translated": "~z~Johnny，我还以为你和你的朋友真有本事。看来我看错人了。",
+            "desc": ""
+        },
+        {
+            "hash": 2218033705,
+            "original": "E1E1_GC",
+            "translated": "E1E1_GC",
+            "desc": ""
+        },
+        {
+            "hash": 2220026197,
+            "original": "~z~-You're holding up traffic. What's the problem here?",
+            "translated": "~z~后面都被你堵住了，有病吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2226617047,
+            "original": "E1E1_A_TA",
+            "translated": "E1E1_A_TA",
+            "desc": ""
+        },
+        {
+            "hash": 2229985343,
+            "original": "E1E1_FB",
+            "translated": "E1E1_FB",
+            "desc": ""
+        },
+        {
+            "hash": 2232565662,
+            "original": "502",
+            "translated": "502",
+            "desc": ""
+        },
+        {
+            "hash": 2237158273,
+            "original": "~z~You gotta take some thieving, snitching motherfuckers",
+            "translated": "~z~你要对付的是几个偷窃告发的混蛋，",
+            "desc": ""
+        },
+        {
+            "hash": 2238961105,
+            "original": "~z~A'ight, this one's on us. Now move your ass.",
+            "translated": "~z~好了，现在由我们接管。你们走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2269639178,
+            "original": "~z~Pull on my Johnson, Malc.",
+            "translated": "~z~给你个大鸡巴，Malc。",
+            "desc": ""
+        },
+        {
+            "hash": 2272348922,
+            "original": "~z~Don't fuck up our money, Johnny.",
+            "translated": "~z~别把宝箱打烂了，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 2272588300,
+            "original": "~z~Completely fucking lost, if you ask me.",
+            "translated": "~z~完全迷失了，要我说的话。",
+            "desc": ""
+        },
+        {
+            "hash": 2278238211,
+            "original": "~z~I got kids I can't even claim. The government gone and fucked us good. You know it, you know it, I know you know it.",
+            "translated": "~z~我都不能跟孩子相认。政府跑了，我们受苦。你懂的，你一定懂的，我知道你懂。",
+            "desc": ""
+        },
+        {
+            "hash": 2279624439,
+            "original": "010090100090100",
+            "translated": "010090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 2283197672,
+            "original": "~z~-Don't worry about it. ~n~-I'm supposed to protect you, okay?",
+            "translated": "~z~－没关系。~n~－我要保护好你，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2285795512,
+            "original": "~z~I don't know. The alternative seems kind of lame too. Going straight.",
+            "translated": "~z~不知道。说实话，都没好到哪去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2316309010,
+            "original": "E1E1_YC",
+            "translated": "E1E1_YC",
+            "desc": ""
+        },
+        {
+            "hash": 2325286171,
+            "original": "~z~Should be interesting.",
+            "translated": "~z~有意思了。",
+            "desc": ""
+        },
+        {
+            "hash": 2327511810,
+            "original": "E1E1_A_XC",
+            "translated": "E1E1_A_XC",
+            "desc": ""
+        },
+        {
+            "hash": 2331286486,
+            "original": "~z~This ain't happening, Liz. We're a man down.",
+            "translated": "~z~帮不了你了，Liz。有弟兄死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2336380884,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 2336421563,
+            "original": "E1E1_A_NC",
+            "translated": "E1E1_A_NC",
+            "desc": ""
+        },
+        {
+            "hash": 2343056590,
+            "original": "E1E1_B_BA",
+            "translated": "E1E1_B_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2344260096,
+            "original": "012090102",
+            "translated": "012090102",
+            "desc": ""
+        },
+        {
+            "hash": 2351493316,
+            "original": "~z~Got some bad news, Liz. That van ain't going anywhere. Sorry.",
+            "translated": "~z~有个坏消息，Liz。货车开不回来了。抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 2366365596,
+            "original": "~z~You guys is gonna go down there and tear 'em apart.",
+            "translated": "~z~你们只需要过去，把他们撕成碎片。",
+            "desc": ""
+        },
+        {
+            "hash": 2375713696,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 2376832646,
+            "original": "E1E1_A_RB",
+            "translated": "E1E1_A_RB",
+            "desc": ""
+        },
+        {
+            "hash": 2377762436,
+            "original": "E1E1_A_BA",
+            "translated": "E1E1_A_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2391340176,
+            "original": "~z~It ain't how uptown riders roll. You understand, man. Shit ain't right.",
+            "translated": "~z~上城骑士也不是这样的。知道吗，兄弟？不太对劲啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2398748033,
+            "original": "E1E1_A_NB",
+            "translated": "E1E1_A_NB",
+            "desc": ""
+        },
+        {
+            "hash": 2410908504,
+            "original": "E1E1_PB",
+            "translated": "E1E1_PB",
+            "desc": ""
+        },
+        {
+            "hash": 2428922994,
+            "original": "~z~Alright? Just let us through. Please?",
+            "translated": "~z~好吗？放我们过去吧。求你了。",
+            "desc": ""
+        },
+        {
+            "hash": 2435113650,
+            "original": "E1E1_DA",
+            "translated": "E1E1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2436333926,
+            "original": "E1E1_RB",
+            "translated": "E1E1_RB",
+            "desc": ""
+        },
+        {
+            "hash": 2442211612,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 2444025923,
+            "original": "~z~Shit, protect the product!",
+            "translated": "~z~妈的，保护货物！",
+            "desc": ""
+        },
+        {
+            "hash": 2445326113,
+            "original": "E1E1_A_AC",
+            "translated": "E1E1_A_AC",
+            "desc": ""
+        },
+        {
+            "hash": 2448521425,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 2472206841,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 2494542986,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 2506947602,
+            "original": "~z~What's the big deal about Bohan anyways? Bohan ain't shit, that's for sure.",
+            "translated": "~z~Bohan有什么好的？Bohan屁都不是，大实话。",
+            "desc": ""
+        },
+        {
+            "hash": 2507534448,
+            "original": "~z~Entiende?",
+            "translated": "~z~了解？",
+            "desc": ""
+        },
+        {
+            "hash": 2508365961,
+            "original": "E1E1_NA",
+            "translated": "E1E1_NA",
+            "desc": ""
+        },
+        {
+            "hash": 2509878101,
+            "original": "E1E1_A_CC",
+            "translated": "E1E1_A_CC",
+            "desc": ""
+        },
+        {
+            "hash": 2517105289,
+            "original": "~z~Malcolm, man. That shit is cold.",
+            "translated": "~z~Malcolm，天哪。已经凉了。",
+            "desc": ""
+        },
+        {
+            "hash": 2518256866,
+            "original": "~z~-Honey. It's okay, just breathe.~n~-Listen to me man, you gotta get outta the way.",
+            "translated": "~z~－宝贝，没事的，深呼吸。~n~－听我说，伙计，麻烦你让路。",
+            "desc": ""
+        },
+        {
+            "hash": 2522570860,
+            "original": "~z~The van's ours now.",
+            "translated": "~z~货车归我们了。",
+            "desc": ""
+        },
+        {
+            "hash": 2530274344,
+            "original": "E1E1_A_WA",
+            "translated": "E1E1_A_WA",
+            "desc": ""
+        },
+        {
+            "hash": 2541658267,
+            "original": "~z~Yeah... he damn sure will.",
+            "translated": "~z~是啊...当然了。",
+            "desc": ""
+        },
+        {
+            "hash": 2565499015,
+            "original": "SFX_PAUSE_370",
+            "translated": "SFX_PAUSE_370",
+            "desc": ""
+        },
+        {
+            "hash": 2569937674,
+            "original": "602090062",
+            "translated": "602090062",
+            "desc": ""
+        },
+        {
+            "hash": 2575661678,
+            "original": "~z~Clay, I'm on East Borough bridge.",
+            "translated": "~z~Clay，我在东区大桥上。",
+            "desc": ""
+        },
+        {
+            "hash": 2576898274,
+            "original": "E1E1_WA",
+            "translated": "E1E1_WA",
+            "desc": ""
+        },
+        {
+            "hash": 2578716245,
+            "original": "~z~It's just part of our vibe man, roll with it.",
+            "translated": "~z~是我们独有的风格，兄弟，试试吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2579103325,
+            "original": "~z~-Aaargh, ahh!~n~-Come on, let's get this shit moving.",
+            "translated": "~z~－啊，啊啊啊！~n~－好了，这下就不堵车了。",
+            "desc": ""
+        },
+        {
+            "hash": 2590055849,
+            "original": "100090010090100090010090100090010090100",
+            "translated": "100090010090100090010090100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 2595002164,
+            "original": "SFX_PAUSE_370",
+            "translated": "SFX_PAUSE_370",
+            "desc": ""
+        },
+        {
+            "hash": 2611942421,
+            "original": "E1E1_RA",
+            "translated": "E1E1_RA",
+            "desc": ""
+        },
+        {
+            "hash": 2628372567,
+            "original": "~z~I don't know. I mean, we ride bikes and we ride them hard. But the thing is",
+            "translated": "~z~不知道。就是...我们玩摩托，也玩得很深。但问题是，",
+            "desc": ""
+        },
+        {
+            "hash": 2636669979,
+            "original": "E1E1_A_MC",
+            "translated": "E1E1_A_MC",
+            "desc": ""
+        },
+        {
+            "hash": 2638687439,
+            "original": "E1E1_PA",
+            "translated": "E1E1_PA",
+            "desc": ""
+        },
+        {
+            "hash": 2639606394,
+            "original": "010090100090010090010090100090100",
+            "translated": "010090100090010090010090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 2643283560,
+            "original": "E1E1_A_CD",
+            "translated": "E1E1_A_CD",
+            "desc": ""
+        },
+        {
+            "hash": 2643515050,
+            "original": "~z~Yeah, yeah, you're good to go. You're good, go, go.",
+            "translated": "~z~好好，你们走吧。没问题，走吧走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2655560949,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 2683554894,
+            "original": "~z~It's good to roll with you, Malc. Not that we know each other too well.",
+            "translated": "~z~跟你一起干活真好，Malc。倒不是因为我俩很熟，",
+            "desc": ""
+        },
+        {
+            "hash": 2697210244,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 2707529744,
+            "original": "E1E1_A_NA",
+            "translated": "E1E1_A_NA",
+            "desc": ""
+        },
+        {
+            "hash": 2707798640,
+            "original": "100090010090100090100",
+            "translated": "100090010090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 2708985143,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 2724867041,
+            "original": "010090100090100",
+            "translated": "010090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 2738228944,
+            "original": "E1E1_A_BB",
+            "translated": "E1E1_A_BB",
+            "desc": ""
+        },
+        {
+            "hash": 2744492482,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 2744756194,
+            "original": "~z~Look, you don't got exact change, you're not going through.",
+            "translated": "~z~听着，不把五块钱拿出来，你别想过去。",
+            "desc": ""
+        },
+        {
+            "hash": 2753453298,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 2760072886,
+            "original": "E1E1_A_AD",
+            "translated": "E1E1_A_AD",
+            "desc": ""
+        },
+        {
+            "hash": 2774046967,
+            "original": "010090100",
+            "translated": "010090100",
+            "desc": ""
+        },
+        {
+            "hash": 2800707022,
+            "original": "E1E1_A_AE",
+            "translated": "E1E1_A_AE",
+            "desc": ""
+        },
+        {
+            "hash": 2809044438,
+            "original": "E1E1_A_YA",
+            "translated": "E1E1_A_YA",
+            "desc": ""
+        },
+        {
+            "hash": 2829563986,
+            "original": "~z~Go fuck yourself, Johnny.",
+            "translated": "~z~滚你妈的，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 2841076705,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 2849430450,
+            "original": "~z~Hey Johnny, you and them Lost bikers ain't that bad.",
+            "translated": "~z~喂，Johnny，你们失落帮的还不错嘛。",
+            "desc": ""
+        },
+        {
+            "hash": 2861140125,
+            "original": "E1E1_A_WD",
+            "translated": "E1E1_A_WD",
+            "desc": ""
+        },
+        {
+            "hash": 2868780305,
+            "original": "~z~Yeah, I did and it handled like a piece of shit. I dumped it in the lockup you mentioned, if you're interested.",
+            "translated": "~z~到手了，驾驶手感跟屎一样。已经扔到你说的车库了，随你喜欢吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2870060895,
+            "original": "~z~Seems like everybody here wants to come through this here little gate.",
+            "translated": "~z~好像一个个的都想从这个小门过去啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2870279419,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 2872500546,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 2882499367,
+            "original": "~z~Keep it moving, okay?",
+            "translated": "~z~不要停留，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2883840558,
+            "original": "E1E1_XA",
+            "translated": "E1E1_XA",
+            "desc": ""
+        },
+        {
+            "hash": 2893469207,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 2900883451,
+            "original": "E1E1_A_JD",
+            "translated": "E1E1_A_JD",
+            "desc": ""
+        },
+        {
+            "hash": 2908391867,
+            "original": "E1E1_ED",
+            "translated": "E1E1_ED",
+            "desc": ""
+        },
+        {
+            "hash": 2910253914,
+            "original": "~z~Things can't be going too well for you if you heading to Bohan. Am I right?",
+            "translated": "~z~都要往Bohan跑了，那你们也不会好到哪去。没说错吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2963991752,
+            "original": "E1E1_A_SB",
+            "translated": "E1E1_A_SB",
+            "desc": ""
+        },
+        {
+            "hash": 2970442748,
+            "original": "~z~We got a lockup on the Point, man. Come on.",
+            "translated": "~z~去Chase Point那边的车库，兄弟。快。",
+            "desc": ""
+        },
+        {
+            "hash": 2976197382,
+            "original": "~z~There's a war. Stupid shit, but very violent.",
+            "translated": "~z~开战了。虽然愚蠢，但很激烈。",
+            "desc": ""
+        },
+        {
+            "hash": 2980400238,
+            "original": "E1E1_A_BC",
+            "translated": "E1E1_A_BC",
+            "desc": ""
+        },
+        {
+            "hash": 2986402797,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 2987888469,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2989920035,
+            "original": "E1E1_SA",
+            "translated": "E1E1_SA",
+            "desc": ""
+        },
+        {
+            "hash": 2990028604,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3003757764,
+            "original": "~z~Let me guess, you need help.",
+            "translated": "~z~我猜猜，找支援是吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3010230533,
+            "original": "E1E1_A_JA",
+            "translated": "E1E1_A_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3011770946,
+            "original": "~z~Good thing that little family didn't come through here five minutes later.",
+            "translated": "~z~幸好这小俩口来得早，否则就出事了。",
+            "desc": ""
+        },
+        {
+            "hash": 3025266656,
+            "original": "E1E1_A_FA",
+            "translated": "E1E1_A_FA",
+            "desc": ""
+        },
+        {
+            "hash": 3028470490,
+            "original": "~z~That's all the shit that happens in Bohans. Death and a dripping dick.",
+            "translated": "~z~Bohan就这点特产。鸡儿梆硬和尸骨冰凉，真的。",
+            "desc": ""
+        },
+        {
+            "hash": 3029821300,
+            "original": "~z~Sure, Malc. I'm just hoping you, me and Liz can stay outta jail long enough to enjoy it. Later on.",
+            "translated": "~z~是啊，Malc。但愿你、我，还有Liz能在进去之前把这笔钱用完。回见。",
+            "desc": ""
+        },
+        {
+            "hash": 3034434550,
+            "original": "E1E1_HB",
+            "translated": "E1E1_HB",
+            "desc": ""
+        },
+        {
+            "hash": 3039471212,
+            "original": "~z~Come on, Johnny. Ease up on that van.",
+            "translated": "~z~拜托，Johnny。别打到货车。",
+            "desc": ""
+        },
+        {
+            "hash": 3045114061,
+            "original": "190090190090190",
+            "translated": "190090190090190",
+            "desc": ""
+        },
+        {
+            "hash": 3051849934,
+            "original": "~z~I'm cool. I'm cool.",
+            "translated": "~z~我没事，我没事。",
+            "desc": ""
+        },
+        {
+            "hash": 3058829427,
+            "original": "E1E1_A_JC",
+            "translated": "E1E1_A_JC",
+            "desc": ""
+        },
+        {
+            "hash": 3073485644,
+            "original": "~z~Stay on the van. Stay on the van, you dicks.",
+            "translated": "~z~看住货车。看住货车啊，傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 3083263853,
+            "original": "E1E1_A_XD",
+            "translated": "E1E1_A_XD",
+            "desc": ""
+        },
+        {
+            "hash": 3084173175,
+            "original": "~z~Plenty of mediocre hookers out here I guess. You really got to be on some dick sucking skill level to be on the top.",
+            "translated": "~z~现在妓女都烂大街了吧。口活不好还真不能夺魁。",
+            "desc": ""
+        },
+        {
+            "hash": 3085253454,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 3107268356,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 3108234277,
+            "original": "~z~It just a shame he gonna be remembered for a stick up gone wrong. Yo, peace out Johnny.",
+            "translated": "~z~只可惜对他最后的印象是一场失败的抢劫。哟，再见了，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 3136830328,
+            "original": "~z~Watch your mouth, son.",
+            "translated": "~z~别乱说话，小子。",
+            "desc": ""
+        },
+        {
+            "hash": 3142594812,
+            "original": "~z~Hell, looking at the two of you don't make no sense to me.",
+            "translated": "~z~天，你俩能站在一起简直不可思议。",
+            "desc": ""
+        },
+        {
+            "hash": 3160826119,
+            "original": "~z~Joking aside, man. Is this shit worth it?",
+            "translated": "~z~说正经的，老兄。开战真的值得吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3168970981,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 3174434550,
+            "original": "010090100",
+            "translated": "010090100",
+            "desc": ""
+        },
+        {
+            "hash": 3178617754,
+            "original": "~z~Remember the classes, okay? Would you just let us through?",
+            "translated": "~z~课上教过的吧？麻烦你放我们过去好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3183974807,
+            "original": "~z~Aight now, try not to do too much damage with this here, aight?",
+            "translated": "~z~好了，别拿这个搞出太大动静，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3184812259,
+            "original": "E1E1_XD",
+            "translated": "E1E1_XD",
+            "desc": ""
+        },
+        {
+            "hash": 3195822106,
+            "original": "~z~Yeah, sure you are. Whatever you say, Johnny boy.",
+            "translated": "~z~对对对，你说的都对，Johnny仔。",
+            "desc": ""
+        },
+        {
+            "hash": 3210791991,
+            "original": "~z~That's the convoy. Take it out.",
+            "translated": "~z~目标来了。发动攻击。",
+            "desc": ""
+        },
+        {
+            "hash": 3212601191,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 3223354354,
+            "original": "E1E1_YB",
+            "translated": "E1E1_YB",
+            "desc": ""
+        },
+        {
+            "hash": 3229868578,
+            "original": "SFX_PAUSE_430",
+            "translated": "SFX_PAUSE_430",
+            "desc": ""
+        },
+        {
+            "hash": 3241434995,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 3252691463,
+            "original": "E1E1_A_OA",
+            "translated": "E1E1_A_OA",
+            "desc": ""
+        },
+        {
+            "hash": 3254622922,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 3261347245,
+            "original": "E1E1_A_KA",
+            "translated": "E1E1_A_KA",
+            "desc": ""
+        },
+        {
+            "hash": 3267715691,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 3269921606,
+            "original": "E1E1_ZH",
+            "translated": "E1E1_ZH",
+            "desc": ""
+        },
+        {
+            "hash": 3278389548,
+            "original": "~z~I didn't think you Lost bikers got down with peoples like Malc here.",
+            "translated": "~z~没想到你们失落帮还能跟Malc这种人走到一块儿去。",
+            "desc": ""
+        },
+        {
+            "hash": 3305337097,
+            "original": "~z~Then I guess you got to prove yourself. No pressure, man.",
+            "translated": "~z~那你得支棱起来啊。别有压力，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3308011482,
+            "original": "E1E1_A_WE",
+            "translated": "E1E1_A_WE",
+            "desc": ""
+        },
+        {
+            "hash": 3308221421,
+            "original": "E1E1_A_DC",
+            "translated": "E1E1_A_DC",
+            "desc": ""
+        },
+        {
+            "hash": 3313846045,
+            "original": "~z~Don't shoot the van, Johnny.",
+            "translated": "~z~别打到货车了，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 3318809486,
+            "original": "~z~No doubt.",
+            "translated": "~z~确实。",
+            "desc": ""
+        },
+        {
+            "hash": 3319898194,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 3358945639,
+            "original": "SFX_PAUSE_370",
+            "translated": "SFX_PAUSE_370",
+            "desc": ""
+        },
+        {
+            "hash": 3359070755,
+            "original": "SFX_PAUSE_390",
+            "translated": "SFX_PAUSE_390",
+            "desc": ""
+        },
+        {
+            "hash": 3368644690,
+            "original": "E1E1_A_VA",
+            "translated": "E1E1_A_VA",
+            "desc": ""
+        },
+        {
+            "hash": 3368769707,
+            "original": "~z~Johnny, did you get rid of that stupid bike of yours and drive my van for me?",
+            "translated": "~z~Johnny，你那傻逼摩托车扔了没？我的货车到手了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3375803298,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 3377159872,
+            "original": "190090190090190",
+            "translated": "190090190090190",
+            "desc": ""
+        },
+        {
+            "hash": 3391754604,
+            "original": "E1E1_UA",
+            "translated": "E1E1_UA",
+            "desc": ""
+        },
+        {
+            "hash": 3396452145,
+            "original": "E1E1_EC",
+            "translated": "E1E1_EC",
+            "desc": ""
+        },
+        {
+            "hash": 3398393517,
+            "original": "~z~How many you got now, Malc?",
+            "translated": "~z~干了多少人，Malc？",
+            "desc": ""
+        },
+        {
+            "hash": 3398831733,
+            "original": "E1E1_YA",
+            "translated": "E1E1_YA",
+            "desc": ""
+        },
+        {
+            "hash": 3408623742,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 3415433659,
+            "original": "E1E1_ZE",
+            "translated": "E1E1_ZE",
+            "desc": ""
+        },
+        {
+            "hash": 3426565117,
+            "original": "~z~Oh yeah. For sure.",
+            "translated": "~z~当然，很开心。",
+            "desc": ""
+        },
+        {
+            "hash": 3430358700,
+            "original": "E1E1_A_HA",
+            "translated": "E1E1_A_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3432340964,
+            "original": "~z~and one of my upstanding business associates?",
+            "translated": "~z~谁是我优秀的生意合伙人吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3437905455,
+            "original": "E1E1_TB",
+            "translated": "E1E1_TB",
+            "desc": ""
+        },
+        {
+            "hash": 3442164813,
+            "original": "E1E1_TA",
+            "translated": "E1E1_TA",
+            "desc": ""
+        },
+        {
+            "hash": 3446068167,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 3458156580,
+            "original": "E1E1_A_MD",
+            "translated": "E1E1_A_MD",
+            "desc": ""
+        },
+        {
+            "hash": 3460887161,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 3462688260,
+            "original": "~z~Sorry, sorry, it's my first day. This might take a minute.",
+            "translated": "~z~抱歉，抱歉，今天刚上岗。可能有点慢哈。",
+            "desc": ""
+        },
+        {
+            "hash": 3466364275,
+            "original": "~z~Yeah, alright, alright. Let's drop it.",
+            "translated": "~z~好了好了，不聊这个了。",
+            "desc": ""
+        },
+        {
+            "hash": 3467918933,
+            "original": "~z~Johnny, how's traffic flow. Did the right people get held up on their way to Bohan?",
+            "translated": "~z~Johnny，路况如何？在来Bohan的路上拦住该拦住的人了没？",
+            "desc": ""
+        },
+        {
+            "hash": 3475706008,
+            "original": "E1E1_B_IA",
+            "translated": "E1E1_B_IA",
+            "desc": ""
+        },
+        {
+            "hash": 3481094994,
+            "original": "~z~Now I got me a gun.",
+            "translated": "~z~老子手里有家伙了。",
+            "desc": ""
+        },
+        {
+            "hash": 3483161303,
+            "original": "~z~Enough of this shit, just let me through, okay?",
+            "translated": "~z~求您别说了，放我过去行吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3502074979,
+            "original": "~z~A'ight now, let's do this.",
+            "translated": "~z~好了，开始吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3503063925,
+            "original": "~z~You want to get the clap or some shit? You want to get shot?",
+            "translated": "~z~想过来啪啪啪吗？还是想挨枪子儿？",
+            "desc": ""
+        },
+        {
+            "hash": 3542322927,
+            "original": "~z~Okay, boys. Convoy nearly here.",
+            "translated": "~z~好了，各位。车队快到了。",
+            "desc": ""
+        },
+        {
+            "hash": 3556124096,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 3558994047,
+            "original": "~z~\"There's a war.\" You sounding all dramatic and shit.",
+            "translated": "~z~「开战了。」你搁这儿演话剧呢。",
+            "desc": ""
+        },
+        {
+            "hash": 3567100616,
+            "original": "~z~Or, why you guys dress like the Republican Space Rangers.",
+            "translated": "~z~也别提为啥你们打扮的像《共和太空游骑兵》。",
+            "desc": ""
+        },
+        {
+            "hash": 3568916104,
+            "original": "SFX_PAUSE_370",
+            "translated": "SFX_PAUSE_370",
+            "desc": ""
+        },
+        {
+            "hash": 3583698321,
+            "original": "~z~Them with their sports bikes, you with your choppers.",
+            "translated": "~z~他们喜欢骑跑车，你们喜欢巡航车。",
+            "desc": ""
+        },
+        {
+            "hash": 3596579192,
+            "original": "~z~Can't you tell the difference between a narc",
+            "translated": "~z~你就看不出谁是缉毒警，",
+            "desc": ""
+        },
+        {
+            "hash": 3600234876,
+            "original": "E1E1_A_IB",
+            "translated": "E1E1_A_IB",
+            "desc": ""
+        },
+        {
+            "hash": 3628118139,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 3667576747,
+            "original": "~z~we don't wear fancy dresses or do pinky finger shakes or anything like that. So I ain't sure what that makes us.",
+            "translated": "~z~我们不穿奇装异服，也不勾指起誓。我也不太确定这样算什么种类。",
+            "desc": ""
+        },
+        {
+            "hash": 3671294748,
+            "original": "~z~Go for the convoy. Give it everything.",
+            "translated": "~z~车队来了。火力全开。",
+            "desc": ""
+        },
+        {
+            "hash": 3676554293,
+            "original": "SFX_PAUSE_420",
+            "translated": "SFX_PAUSE_420",
+            "desc": ""
+        },
+        {
+            "hash": 3686510801,
+            "original": "100090010090100",
+            "translated": "100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 3692618553,
+            "original": "~z~Yeah, I can tell with them clean crisp threads you wearing, Johnny.",
+            "translated": "~z~确实，看你这身干净的衣服就知道了，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 3695477096,
+            "original": "~z~People always gonna want what we got to sell.",
+            "translated": "~z~他们哪天不想要我们的货了？",
+            "desc": ""
+        },
+        {
+            "hash": 3700694065,
+            "original": "E1E1_ZA",
+            "translated": "E1E1_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 3701745180,
+            "original": "SFX_PAUSE_140",
+            "translated": "SFX_PAUSE_140",
+            "desc": ""
+        },
+        {
+            "hash": 3702531291,
+            "original": "E1E1_A_BD",
+            "translated": "E1E1_A_BD",
+            "desc": ""
+        },
+        {
+            "hash": 3703269220,
+            "original": "SFX_PAUSE_160",
+            "translated": "SFX_PAUSE_160",
+            "desc": ""
+        },
+        {
+            "hash": 3703339651,
+            "original": "E1E1_B_AA",
+            "translated": "E1E1_B_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3705215095,
+            "original": "~z~We gotta get that white shit.",
+            "translated": "~z~白粉是我们的。",
+            "desc": ""
+        },
+        {
+            "hash": 3721794810,
+            "original": "E1E1_A_RA",
+            "translated": "E1E1_A_RA",
+            "desc": ""
+        },
+        {
+            "hash": 3736743027,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 3740168570,
+            "original": "~z~Are you really wasting my time like this? Come on.",
+            "translated": "~z~能别浪费我的时间了吗？快点。",
+            "desc": ""
+        },
+        {
+            "hash": 3751223260,
+            "original": "~z~Those are the rules, I don't make 'em, but I stick to 'em.",
+            "translated": "~z~规矩就是规矩，不是我定的，但我得遵守。",
+            "desc": ""
+        },
+        {
+            "hash": 3760653556,
+            "original": "~z~Lead the way, Johnny.",
+            "translated": "~z~带路吧，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 3765150663,
+            "original": "~z~Yeah, man. The vibe. It's how we do. You know we a complete subculture.",
+            "translated": "~z~对，兄弟。风格。就是我们的作风。毕竟我们是一种亚文化。",
+            "desc": ""
+        },
+        {
+            "hash": 3778793457,
+            "original": "SFX_PAUSE_450",
+            "translated": "SFX_PAUSE_450",
+            "desc": ""
+        },
+        {
+            "hash": 3781724042,
+            "original": "~z~You know, chico,",
+            "translated": "~z~喂喂，小子，",
+            "desc": ""
+        },
+        {
+            "hash": 3812827581,
+            "original": "~z~Jonathan. Need a hand?",
+            "translated": "~z~Jonathan，缺帮手吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3817676725,
+            "original": "~z~Here we go.",
+            "translated": "~z~干他妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 3820588679,
+            "original": "~z~I'll send Andreas to check it out. See you soon.",
+            "translated": "~z~我会让Andreas去看看的。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 3824036528,
+            "original": "~z~Anyway, what I'm asking is, what's the deal with this music you put out and the branded clothing and shit?",
+            "translated": "~z~总之，我要问一下，你现在放的音乐跟这个品牌服装是什么情况？",
+            "desc": ""
+        },
+        {
+            "hash": 3830341737,
+            "original": "E1E1_A_CB",
+            "translated": "E1E1_A_CB",
+            "desc": ""
+        },
+        {
+            "hash": 3834742410,
+            "original": "102090012",
+            "translated": "102090012",
+            "desc": ""
+        },
+        {
+            "hash": 3841915861,
+            "original": "E1E1_DC",
+            "translated": "E1E1_DC",
+            "desc": ""
+        },
+        {
+            "hash": 3844961970,
+            "original": "~z~You ain't hiding from this gun, bitches!",
+            "translated": "~z~你们一个都跑不了，畜生！",
+            "desc": ""
+        },
+        {
+            "hash": 3845066725,
+            "original": "~z~Andreas!",
+            "translated": "~z~Andreas！",
+            "desc": ""
+        },
+        {
+            "hash": 3853212249,
+            "original": "~z~Well, Malcolm, it's your crew. The Uptown Riders.",
+            "translated": "~z~那个，Malcolm，是关于你们的，上城骑士。",
+            "desc": ""
+        },
+        {
+            "hash": 3861136436,
+            "original": "~z~I'm guessing Liz wants this convoy hit like a fucking freight train if this is the firepower she's dishing out.",
+            "translated": "~z~都掏出这种大家伙了，看来Liz很看重这次的袭击啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3871846670,
+            "original": "SFX_PAUSE_440",
+            "translated": "SFX_PAUSE_440",
+            "desc": ""
+        },
+        {
+            "hash": 3879506072,
+            "original": "~z~Okay, okay, but you know what, I'm gonna need some rubber gloves.",
+            "translated": "~z~好，好。就是那个...能给双橡胶手套吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3886049108,
+            "original": "~z~I can't take care of my mortgage, you know I got me kids.",
+            "translated": "~z~我都还不起贷款了，家里还有孩子。",
+            "desc": ""
+        },
+        {
+            "hash": 3901393776,
+            "original": "~z~There's a recession going on.",
+            "translated": "~z~经济实在是不景气。",
+            "desc": ""
+        },
+        {
+            "hash": 3904071066,
+            "original": "E1E1_A_JB",
+            "translated": "E1E1_A_JB",
+            "desc": ""
+        },
+        {
+            "hash": 3909423201,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 3910761952,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 3919519923,
+            "original": "~z~Hit that convoy, boys. Come on.",
+            "translated": "~z~就是那个车队，弟兄们。干他。",
+            "desc": ""
+        },
+        {
+            "hash": 3933054104,
+            "original": "~z~Man can those bitches suck on a dick!",
+            "translated": "~z~老兄，那些贱人口活好吗！",
+            "desc": ""
+        },
+        {
+            "hash": 3958277618,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 3966742824,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 3981390649,
+            "original": "~z~Fucking bitches.",
+            "translated": "~z~一群贱逼。",
+            "desc": ""
+        },
+        {
+            "hash": 3995605264,
+            "original": "~z~We're after the van. Go easy on it.",
+            "translated": "~z~货车还要留着，别乱开枪。",
+            "desc": ""
+        },
+        {
+            "hash": 4021837237,
+            "original": "~z~Whoo, well now, that's a fine little nest egg to get us through a low point in these here global markets, baby.",
+            "translated": "~z~呜！好了，这笔钱应该能帮我们撑过这段萧条时期了，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 4023633645,
+            "original": "E1E1_XE",
+            "translated": "E1E1_XE",
+            "desc": ""
+        },
+        {
+            "hash": 4024752396,
+            "original": "010090100090010090010090100090010090100",
+            "translated": "010090100090010090010090100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 4033364142,
+            "original": "E1E1_HA",
+            "translated": "E1E1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 4040687499,
+            "original": "590",
+            "translated": "590",
+            "desc": ""
+        },
+        {
+            "hash": 4045561645,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 4059515944,
+            "original": "~z~I guess. But...",
+            "translated": "~z~大概吧。不过...",
+            "desc": ""
+        },
+        {
+            "hash": 4085281789,
+            "original": "E1E1_A_CA",
+            "translated": "E1E1_A_CA",
+            "desc": ""
+        },
+        {
+            "hash": 4096241110,
+            "original": "~z~-We out.~n~-A'ight, we out.",
+            "translated": "~z~－这就走。~n~－好，我们走。",
+            "desc": ""
+        },
+        {
+            "hash": 4098761902,
+            "original": "~z~That's the van we're trying to steal, John.",
+            "translated": "~z~那辆货车还要偷回去呢，John。",
+            "desc": ""
+        },
+        {
+            "hash": 4128487179,
+            "original": "~z~-So just turn around and head on back to Dukes for me, will ya?~n~-Are you kidding me?",
+            "translated": "~z~－请你调头开回Dukes吧，好吗？~n~－开什么玩笑？",
+            "desc": ""
+        },
+        {
+            "hash": 4134286775,
+            "original": "~z~-You can compromise these nuts. Gimme some. ~n~-Shit, these ain't troubling times for us.",
+            "translated": "~z~－你妥协个鸡巴。击个拳。~n~－妈的，我们这行又没萧条。",
+            "desc": ""
+        },
+        {
+            "hash": 4139434866,
+            "original": "E1E1_ZC",
+            "translated": "E1E1_ZC",
+            "desc": ""
+        },
+        {
+            "hash": 4158365164,
+            "original": "E1E1_A_ME",
+            "translated": "E1E1_A_ME",
+            "desc": ""
+        },
+        {
+            "hash": 4166634823,
+            "original": "SFX_PAUSE_410",
+            "translated": "SFX_PAUSE_410",
+            "desc": ""
+        },
+        {
+            "hash": 4167593777,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 4175804717,
+            "original": "~z~Shit, man. Always carry exact change. I'll be there soon.",
+            "translated": "~z~妈的，兄弟。让你出门不带硬币。我马上就来。",
+            "desc": ""
+        },
+        {
+            "hash": 4179332691,
+            "original": "~z~Oh aight, so, like, it's like one of those gang wars they have out there in Los Santos, or something?",
+            "translated": "~z~好吧。那什么，是不是跟洛圣都那边的帮派战争差不多？",
+            "desc": ""
+        },
+        {
+            "hash": 4186074746,
+            "original": "E1E1_EA",
+            "translated": "E1E1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 4193028668,
+            "original": "E1E1_OA",
+            "translated": "E1E1_OA",
+            "desc": ""
+        },
+        {
+            "hash": 4197985995,
+            "original": "~z~And in this troubling economic climate, you gotta make compromises.",
+            "translated": "~z~在这种经济大环境下，人不得不妥协啊。",
+            "desc": ""
+        },
+        {
+            "hash": 4207032874,
+            "original": "~z~Take us to the bridge, Johnny boy.",
+            "translated": "~z~带我们去大桥，Johnny仔。",
+            "desc": ""
+        },
+        {
+            "hash": 4212090531,
+            "original": "SFX_PAUSE_430",
+            "translated": "SFX_PAUSE_430",
+            "desc": ""
+        },
+        {
+            "hash": 4239371489,
+            "original": "~z~We need to get this van out of here. Get in, man.",
+            "translated": "~z~赶紧把货车开回去。上车，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 4249478181,
+            "original": "E1E1_XC",
+            "translated": "E1E1_XC",
+            "desc": ""
+        },
+        {
+            "hash": 4262677672,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 4267954568,
+            "original": "E1E1_MA",
+            "translated": "E1E1_MA",
+            "desc": ""
+        },
+        {
+            "hash": 4276081884,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 4278494832,
+            "original": "~z~Hey fellas. No time for introductions. Let's get it on.",
+            "translated": "~z~伙计们，没空介绍你们认识了。开干吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4282170527,
+            "original": "~z~So let's not let this descend into an argument",
+            "translated": "~z~我们还是别把话题歪到",
+            "desc": ""
+        },
+        {
+            "hash": 4293835933,
+            "original": "~z~Don't blow up the van. That's what we're after.",
+            "translated": "~z~别把货车炸了，还要开走的。",
+            "desc": ""
+        }
+    ]
+}

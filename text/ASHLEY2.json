@@ -1,0 +1,196 @@
+{
+    "ASHLEY2": [
+        {
+            "hash": 255100960,
+            "original": "~s~Get back on the ~b~bike.",
+            "translated": "~s~回到~b~摩托~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 562244797,
+            "original": "~s~Get on the ~b~bike.",
+            "translated": "~s~骑上~b~摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 657689346,
+            "original": "~r~Your bike was wrecked.",
+            "translated": "~r~你的摩托坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 734150971,
+            "original": "~s~Take out ~r~Ray's guys.~s~",
+            "translated": "~s~干掉~r~Ray的手下。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1044899398,
+            "original": "~s~Some of the ~r~mafia ~s~are fleeing. Chase them down.",
+            "translated": "~s~一些~r~黑手党~s~想逃。追击他们。",
+            "desc": ""
+        },
+        {
+            "hash": 1172699910,
+            "original": "~s~Get away from the Libertonian before the cops arrive in full force.",
+            "translated": "~s~在条子重拳出击前离开自由城博物馆。",
+            "desc": ""
+        },
+        {
+            "hash": 1226133425,
+            "original": "~r~You attacked Isaac's crew.",
+            "translated": "~r~你攻击了Isaac的人。",
+            "desc": ""
+        },
+        {
+            "hash": 1292621490,
+            "original": "~r~You missed the diamond deal.",
+            "translated": "~r~你错过了钻石交易。",
+            "desc": ""
+        },
+        {
+            "hash": 1773736184,
+            "original": "~r~Jim has been injured.",
+            "translated": "~r~Jim受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 2070983783,
+            "original": "~r~You attacked Jim.",
+            "translated": "~r~你攻击了Jim。",
+            "desc": ""
+        },
+        {
+            "hash": 2136731121,
+            "original": "~s~Go to the ~y~Libertonian~s~ between 9pm and 3am.",
+            "translated": "~s~在晚上9点到凌晨3点之间前往~y~自由城博物馆。",
+            "desc": ""
+        },
+        {
+            "hash": 2217034980,
+            "original": "~r~You attacked the gang.",
+            "translated": "~r~你攻击了帮派成员。",
+            "desc": ""
+        },
+        {
+            "hash": 2275395213,
+            "original": "~s~Terry and Clay will wait for you at the north exit of the Libertonian.",
+            "translated": "~s~Terry和Clay会在自由城博物馆的北门等你。",
+            "desc": ""
+        },
+        {
+            "hash": 2365884738,
+            "original": "~s~Go back to ~y~Ray.",
+            "translated": "~s~回去找~y~Ray。",
+            "desc": ""
+        },
+        {
+            "hash": 2439842959,
+            "original": "~s~Meet Niko at the ~y~goods entrance.",
+            "translated": "~s~去~y~货仓入口~s~等待Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 2595398814,
+            "original": "~s~Escape from the ~y~Libertonian.",
+            "translated": "~s~逃离~y~自由城博物馆。",
+            "desc": ""
+        },
+        {
+            "hash": 2701654365,
+            "original": "~s~Press ~INPUT_VEH_CIN_CAM~ to focus the camera on the nearest mafia car.",
+            "translated": "~s~按~INPUT_VEH_CIN_CAM~将镜头对准最近的黑手党。",
+            "desc": ""
+        },
+        {
+            "hash": 2730000906,
+            "original": "~r~You angered Isaac's crew.",
+            "translated": "~r~你惹怒了Isaac的人。",
+            "desc": ""
+        },
+        {
+            "hash": 2829074553,
+            "original": "~s~Go to the North entrance of the ~y~Libertonian.",
+            "translated": "~s~前往~y~自由城博物馆~s~的北门。",
+            "desc": ""
+        },
+        {
+            "hash": 3036423825,
+            "original": "~r~The gang have been injured.",
+            "translated": "~r~帮派成员受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 3190208978,
+            "original": "~r~Isaac is dead.",
+            "translated": "~r~Isaac死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3268756271,
+            "original": "~r~Niko has been injured.",
+            "translated": "~r~你攻击了Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3280664142,
+            "original": "~s~Lose Isaac's crew.",
+            "translated": "~s~甩掉Isaac的人。",
+            "desc": ""
+        },
+        {
+            "hash": 3431618321,
+            "original": "~r~Niko is dead.",
+            "translated": "~r~Niko死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3526136725,
+            "original": "~s~Lose the cops.",
+            "translated": "~s~甩掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 3562989122,
+            "original": "~r~You attacked Niko.",
+            "translated": "~r~你攻击了Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 3671585708,
+            "original": "~r~Job Failed.",
+            "translated": "~r~任务失败。",
+            "desc": ""
+        },
+        {
+            "hash": 4014329287,
+            "original": "~s~Meet ~b~Niko~s~ at the South entrance to the Libertonian.",
+            "translated": "~s~去自由城博物馆的南门等待~b~Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 4108800902,
+            "original": "~s~Take the money to ~b~Jim.",
+            "translated": "~s~把货款交给~b~Jim。",
+            "desc": ""
+        },
+        {
+            "hash": 4200081640,
+            "original": "~s~Job Complete.",
+            "translated": "~s~任务完成。",
+            "desc": ""
+        },
+        {
+            "hash": 4246104424,
+            "original": "~s~Come back between 9pm and 3am.",
+            "translated": "~s~晚上9点到凌晨3点之间再来。",
+            "desc": ""
+        },
+        {
+            "hash": 4280903690,
+            "original": "~s~Enter the ~y~Libertonian.",
+            "translated": "~s~进入~y~自由城博物馆。",
+            "desc": ""
+        }
+    ]
+}

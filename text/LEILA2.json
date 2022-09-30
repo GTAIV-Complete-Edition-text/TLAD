@@ -1,0 +1,46 @@
+{
+    "LEILA2": [
+        {
+            "hash": 320490092,
+            "original": "Get back to the lead ~b~vehicle.~s~",
+            "translated": "回到领头~b~车~s~后。",
+            "desc": ""
+        },
+        {
+            "hash": 604695629,
+            "original": "How many bikes in the convoy? Press a number from 2 to 6.",
+            "translated": "车队里有多少台摩托车？按从2到6的一个数字。",
+            "desc": ""
+        },
+        {
+            "hash": 1397869162,
+            "original": "Follow the convoy ~b~leader.~s~",
+            "translated": "跟着车队~b~领导者。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1544412242,
+            "original": "Do you want to lead the convoy? Press 1 for Yes or 2 to set a biker as leader.",
+            "translated": "你想领导车队吗？按1确定或按2来设置一个车队领导者。",
+            "desc": ""
+        },
+        {
+            "hash": 2163942844,
+            "original": "Get back on your ~b~bike.~s~",
+            "translated": "回到你的~b~摩托车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 3228214534,
+            "original": "The Convoy will follow you.",
+            "translated": "车队会跟着你。",
+            "desc": ""
+        },
+        {
+            "hash": 4141912569,
+            "original": "Get on the empty ~b~bike.~s~",
+            "translated": "骑上那台空的~b~摩托车。~s~",
+            "desc": ""
+        }
+    ]
+}

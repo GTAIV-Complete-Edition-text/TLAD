@@ -1,0 +1,136 @@
+{
+    "ELIZA_1": [
+        {
+            "hash": 254067413,
+            "original": "~r~DeSean is dead.~s~",
+            "translated": "~r~DeSean死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 317130922,
+            "original": "Go to the ~y~toll booth~s~.",
+            "translated": "前往~y~收费站。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 674310374,
+            "original": "You can stop the van by hijacking the tollbooth or chase it down.",
+            "translated": "你可以通过劫持收费站或进行追击战来截停货车。",
+            "desc": ""
+        },
+        {
+            "hash": 718350641,
+            "original": "~r~The van is stuck.~s~",
+            "translated": "~r~货车无法行驶。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 886394252,
+            "original": "If you wait in the toll booth the convoy will stop for you.",
+            "translated": "若你守在收费站，车队就会停在面前。",
+            "desc": ""
+        },
+        {
+            "hash": 1145945952,
+            "original": "Lose the cops.~s~",
+            "translated": "甩掉条子。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1318372325,
+            "original": "Get back in the ~b~van.~s~",
+            "translated": "回到~b~货车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1352555909,
+            "original": "Take the van to the ~y~lockup.~s~",
+            "translated": "将货车送至~y~车库。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1838514158,
+            "original": "~r~The van has been wrecked.~s~",
+            "translated": "~r~货车被摧毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1843495666,
+            "original": "Get a 4 door vehicle.",
+            "translated": "找一辆四门载具。",
+            "desc": ""
+        },
+        {
+            "hash": 2291085862,
+            "original": "Pick up ~b~Malc.~s~",
+            "translated": "接上~b~Malc。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2457738032,
+            "original": "Lose the cops or you'll spook the convoy.~s~",
+            "translated": "甩掉条子，否则会惊动目标车队。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2559045304,
+            "original": "Wait for the ~b~van~s~ to pull up.",
+            "translated": "等待~b~货车~s~停车。",
+            "desc": ""
+        },
+        {
+            "hash": 2584528525,
+            "original": "~r~The van got away.~s~",
+            "translated": "~r~货车逃掉了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2912408653,
+            "original": "You've spooked the convoy. Steal the ~b~van.~s~",
+            "translated": "你惊动了车队。夺取~b~货车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2956692501,
+            "original": "~r~You have abondoned the van.~s~",
+            "translated": "~r~你抛弃了货车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3229228904,
+            "original": "Go to the ~y~toll booths~s~ and wait for the convoy.",
+            "translated": "去~y~收费站~s~等待车队经过。",
+            "desc": ""
+        },
+        {
+            "hash": 3281996227,
+            "original": "Get on the ~b~bike.~s~",
+            "translated": "骑上~b~摩托。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3501259235,
+            "original": "The van is about to pass through the toll booth.",
+            "translated": "货车即将通过收费站。",
+            "desc": ""
+        },
+        {
+            "hash": 3728299540,
+            "original": "Take the ~b~van.~s~",
+            "translated": "夺取~b~货车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4034648705,
+            "original": "~r~Your bike was wrecked.~s~",
+            "translated": "~r~你的摩托坏了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4137963657,
+            "original": "~r~Malc is dead.~s~",
+            "translated": "~r~Malc死了。~s~",
+            "desc": ""
+        }
+    ]
+}

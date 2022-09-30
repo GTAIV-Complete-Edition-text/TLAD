@@ -1,0 +1,556 @@
+{
+    "E1FCT4A": [
+        {
+            "hash": 5442355,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 73007137,
+            "original": "~z~I got you, bro. I'll be in the area soon.",
+            "translated": "~z~懂了，兄弟。我马上到。",
+            "desc": ""
+        },
+        {
+            "hash": 176536565,
+            "original": "~z~Don't worry, man. I'll give one of the other boys a call. See you later.",
+            "translated": "~z~没关系，哥们。我找其他弟兄问问吧。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 184806431,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 220766980,
+            "original": "~z~Hey Johnny, it's Terry. Listen, brother, I've got my hands on some guns. Quality shit, real cheap.",
+            "translated": "~z~嘿，Johnny，我是Terry。听着兄弟，我手头有些枪，又好又便宜。",
+            "desc": ""
+        },
+        {
+            "hash": 267430749,
+            "original": "~z~Shit Johnny. I can't right now, man. Let's speak later.",
+            "translated": "~z~妈的，Johnny，现在没空啊，哥们。晚点再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 381592810,
+            "original": "~z~Leave it with me. I'll see you soon.",
+            "translated": "~z~交给我吧。一会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 456380501,
+            "original": "~z~I can't right now, bro I'm drowning in shit. Try me again later.",
+            "translated": "~z~我现在没空，兄弟。破事缠身。过后再找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 457321301,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 509831436,
+            "original": "E1FCT4_ACT_CALL_REQ_BACKUP_YESA",
+            "translated": "E1FCT4_ACT_CALL_REQ_BACKUP_YESA",
+            "desc": ""
+        },
+        {
+            "hash": 557374563,
+            "original": "~z~No can do, brother. Major shit to deal with right now. Call me later and I'll hook you up.",
+            "translated": "~z~来不了，兄弟。眼下一堆要紧事情。晚点再找我买家伙吧。",
+            "desc": ""
+        },
+        {
+            "hash": 577572505,
+            "original": "~z~Hey, it's Terry. They're letting me out of hospital. Can you pick me up?",
+            "translated": "~z~嘿，我是Terry。医生叫我出院了。你能来接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 609705448,
+            "original": "E1FCT4_ACT_CALL_REQ_BACKUP_NOA",
+            "translated": "E1FCT4_ACT_CALL_REQ_BACKUP_NOA",
+            "desc": ""
+        },
+        {
+            "hash": 708061230,
+            "original": "E1FCT4_ACT_CALL_HOSP_CANCEL_HILIKEA",
+            "translated": "E1FCT4_ACT_CALL_HOSP_CANCEL_HILIKEA",
+            "desc": ""
+        },
+        {
+            "hash": 717275144,
+            "original": "~z~Thanks man. See you later.",
+            "translated": "~z~谢了哥们。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 734503304,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 797341950,
+            "original": "~z~Sorry Johnny. Tied up right now. I should be free later on.",
+            "translated": "~z~不好意思，Johnny。现在忙得很，晚点我才有空。",
+            "desc": ""
+        },
+        {
+            "hash": 1037961015,
+            "original": "~z~There's no way I can get there right now. I'm sorry, Johnny.",
+            "translated": "~z~我现在根本来不了。不好意思啊，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 1088314764,
+            "original": "~z~Hey Terry, I need your help.",
+            "translated": "~z~嘿，Terry，我要你帮忙。",
+            "desc": ""
+        },
+        {
+            "hash": 1101393362,
+            "original": "~z~I appreciate it, bro. See you soon.",
+            "translated": "~z~多谢了，兄弟。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 1228908708,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1303582284,
+            "original": "100100",
+            "translated": "100100",
+            "desc": ""
+        },
+        {
+            "hash": 1426679307,
+            "original": "E1FCT4_ACT_CALL_HOSP_CANCEL_LOLIKEA",
+            "translated": "E1FCT4_ACT_CALL_HOSP_CANCEL_LOLIKEA",
+            "desc": ""
+        },
+        {
+            "hash": 1428041252,
+            "original": "E1FCT4_ACT_E1T_GETCALL_HOSP_NOA",
+            "translated": "E1FCT4_ACT_E1T_GETCALL_HOSP_NOA",
+            "desc": ""
+        },
+        {
+            "hash": 1452774981,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1484929470,
+            "original": "~z~You've had my back and that means a lot to me. So give me a call any time and I'll hook you up.",
+            "translated": "~z~平时你很照顾我，对也我够意思。需要枪就打个电话，我会送过来的。",
+            "desc": ""
+        },
+        {
+            "hash": 1526586587,
+            "original": "E1FCT4_ACT_GETCALL_HOSP_ACCEPTEDA",
+            "translated": "E1FCT4_ACT_GETCALL_HOSP_ACCEPTEDA",
+            "desc": ""
+        },
+        {
+            "hash": 1533902863,
+            "original": "~z~Sure thing, Johnny. I'll be there as soon as I can.",
+            "translated": "~z~可以，Johnny。我马上就到。",
+            "desc": ""
+        },
+        {
+            "hash": 1558056011,
+            "original": "E1FCT4_ACT_GETCALL_HOSP_REJ_HILIKEA",
+            "translated": "E1FCT4_ACT_GETCALL_HOSP_REJ_HILIKEA",
+            "desc": ""
+        },
+        {
+            "hash": 1628839415,
+            "original": "~z~Terry. I need your help, brother.",
+            "translated": "~z~Terry。我需要你帮忙，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1638321864,
+            "original": "~z~Sorry man. I've got my own shit going down right now.",
+            "translated": "~z~抱歉，哥们。我现在有自己的事要忙。",
+            "desc": ""
+        },
+        {
+            "hash": 1695008731,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1794076225,
+            "original": "E1FCT4_ACT_GETCALL_HOSP_REJ_MEDLIKEA",
+            "translated": "E1FCT4_ACT_GETCALL_HOSP_REJ_MEDLIKEA",
+            "desc": ""
+        },
+        {
+            "hash": 1813767090,
+            "original": "~z~Sorry, there's no way, Johnny. You know I would if I could, brother.",
+            "translated": "~z~对不起，现在没法来啊，Johnny。能来的话我早来了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1836590120,
+            "original": "~z~No problem, Johnny. I'm on my way.",
+            "translated": "~z~没问题，Johnny。我出发了。",
+            "desc": ""
+        },
+        {
+            "hash": 1841243314,
+            "original": "~z~No problem. I'll be right with you.",
+            "translated": "~z~没问题，我这就来找你。",
+            "desc": ""
+        },
+        {
+            "hash": 2013090427,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2065362341,
+            "original": "~z~No problem, Johnny. I'll be over soon.",
+            "translated": "~z~没问题，Johnny。我马上过来。",
+            "desc": ""
+        },
+        {
+            "hash": 2086364404,
+            "original": "E1FCT4_ACT_CALL_REQ_SPEC_YESA",
+            "translated": "E1FCT4_ACT_CALL_REQ_SPEC_YESA",
+            "desc": ""
+        },
+        {
+            "hash": 2089735400,
+            "original": "~z~Terry, can you help me out with something?",
+            "translated": "~z~Terry，你能过来帮我个忙吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2094815572,
+            "original": "~z~Sure thing. I'll catch up with you later.",
+            "translated": "~z~可以的。我一会赶过来。",
+            "desc": ""
+        },
+        {
+            "hash": 2144940140,
+            "original": "~z~Thanks Terry. That's good to know. I'll be in touch very soon.",
+            "translated": "~z~谢了，Terry，真是太好了。有需要我就联系你。",
+            "desc": ""
+        },
+        {
+            "hash": 2152810970,
+            "original": "~z~Don't worry, Johnny. I got you.",
+            "translated": "~z~别急，Johnny。我来了。",
+            "desc": ""
+        },
+        {
+            "hash": 2210485203,
+            "original": "~z~Sorry, can't right now. Give one of the boys a call.",
+            "translated": "~z~不好意思，现在不行。你找其他兄弟吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2269726481,
+            "original": "~z~Whatever you say, man. Just thought you might be able to help a brother out.",
+            "translated": "~z~你说是就是，哥们。我就来问问你能不能帮兄弟一把。",
+            "desc": ""
+        },
+        {
+            "hash": 2294376796,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2418371068,
+            "original": "~z~Hey Johnny, it's me. I've been released from hospital. Can you give me a ride?",
+            "translated": "~z~嘿Johnny，是我啊。我现在出院了。你能来接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2438304914,
+            "original": "~z~Johnny man-of-his-word Klebitz. Some fucking friend you are, bro.",
+            "translated": "~z~Johnny Klebitz说话算话。真他妈够朋友，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2448687026,
+            "original": "~z~Hey man. I need you to help me out with something.",
+            "translated": "~z~嘿，哥们。我需要你来帮个忙。",
+            "desc": ""
+        },
+        {
+            "hash": 2449468727,
+            "original": "~z~You've got it, brother. I'll be with you shortly.",
+            "translated": "~z~没问题，兄弟。我马上就到。",
+            "desc": ""
+        },
+        {
+            "hash": 2476574422,
+            "original": "~z~Will do. Thanks man.",
+            "translated": "~z~那好吧。谢了，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2488713045,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2517034124,
+            "original": "~z~Yeah, I suppose so. If you're THAT fucking busy.",
+            "translated": "~z~好吧，我想也是。如果你丫真那么忙的话。",
+            "desc": ""
+        },
+        {
+            "hash": 2522749237,
+            "original": "~z~Yeah, I understand. I got your back but you ain't got mine.",
+            "translated": "~z~好，我懂了。我天天支援你，你却不肯帮我。",
+            "desc": ""
+        },
+        {
+            "hash": 2567900648,
+            "original": "~z~Can you help me out, bro?",
+            "translated": "~z~你能来帮我吗，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 2590569343,
+            "original": "~z~Hey Terry. You still got that hardware?",
+            "translated": "~z~嘿，Terry。你还有枪吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2749090660,
+            "original": "E1FCT4_ACT_CALL_REQ_SPEC_NOA",
+            "translated": "E1FCT4_ACT_CALL_REQ_SPEC_NOA",
+            "desc": ""
+        },
+        {
+            "hash": 2771994781,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2832714014,
+            "original": "~z~I got you covered, Johnny. Hang tight. I'll be there soon.",
+            "translated": "~z~包在我身上，Johnny。你等着，我马上到。",
+            "desc": ""
+        },
+        {
+            "hash": 2871931430,
+            "original": "~z~Hey man. Can you help me out?",
+            "translated": "~z~嘿，哥们。能来帮我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2933355172,
+            "original": "~z~Yeah, do what you've gotta do. It's not like you owe me anything - favors or nothing.",
+            "translated": "~z~得了，你该干啥干啥吧。又不是说你欠我人情啥的。",
+            "desc": ""
+        },
+        {
+            "hash": 2935692439,
+            "original": "~z~Terry, it's Johnny. I need some hardware. Can you hook me up?",
+            "translated": "~z~Terry，我是Johnny。我要弄点家伙。你能整点来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2993621633,
+            "original": "E1FCT4_ACT_CALL_HOSP_CANCEL_MEDLIKEA",
+            "translated": "E1FCT4_ACT_CALL_HOSP_CANCEL_MEDLIKEA",
+            "desc": ""
+        },
+        {
+            "hash": 3037279846,
+            "original": "~z~I'm tied up right now, man. Can you get one of the boys to pick you up?",
+            "translated": "~z~我现在忙得很，哥们。你能叫其他人接你吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3153199588,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3162590918,
+            "original": "E1FCT4_ACT_GETCALL_SPECAA",
+            "translated": "E1FCT4_ACT_GETCALL_SPECAA",
+            "desc": ""
+        },
+        {
+            "hash": 3181024552,
+            "original": "~z~Ahh, sorry man. Can't right now. Give me a shout later.",
+            "translated": "~z~啊，不好意思哥们。现在不行。晚点再找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3238180146,
+            "original": "E1FCT4_ACT_E1T_CALL_REQ_BACKUPA",
+            "translated": "E1FCT4_ACT_E1T_CALL_REQ_BACKUPA",
+            "desc": ""
+        },
+        {
+            "hash": 3267276584,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3293103922,
+            "original": "~z~Terry. Your services are required, bro. Can we meet up?",
+            "translated": "~z~Terry。需要你提供服务，兄弟。能来碰头吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3328803079,
+            "original": "~z~Sure thing, man. I got you. I'll be there in an hour or two.",
+            "translated": "~z~可以啊，哥们。我懂了。我一两个小时这样到。",
+            "desc": ""
+        },
+        {
+            "hash": 3333744947,
+            "original": "~z~Terry, I need some back-up.",
+            "translated": "~z~Terry，我需要支援。",
+            "desc": ""
+        },
+        {
+            "hash": 3365207458,
+            "original": "~z~Thanks for nothing, man. I thought we were brothers.",
+            "translated": "~z~我谢谢你啊，哥们。亏我还把你当兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3369205956,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3372473146,
+            "original": "~z~Of course, man. I'm on my way.",
+            "translated": "~z~当然了，哥们。我上路了。",
+            "desc": ""
+        },
+        {
+            "hash": 3531563935,
+            "original": "~z~Hey, it's Johnny. I need some of your merchandise. How soon can you get here?",
+            "translated": "~z~嘿，我是Johnny。我需要来点家伙。你多久能到？",
+            "desc": ""
+        },
+        {
+            "hash": 3635619226,
+            "original": "~z~No problem, brother. I'll pass by in the next couple hours.",
+            "translated": "~z~没问题，兄弟。我过两个小时就到。",
+            "desc": ""
+        },
+        {
+            "hash": 3646695762,
+            "original": "E1FCT4_ACT_GETCALL_HOSP_ASKA",
+            "translated": "E1FCT4_ACT_GETCALL_HOSP_ASKA",
+            "desc": ""
+        },
+        {
+            "hash": 3669130903,
+            "original": "~z~Anything for a Lost brother.",
+            "translated": "~z~为弟兄我在所不辞。",
+            "desc": ""
+        },
+        {
+            "hash": 3867044816,
+            "original": "E1FCT4_ACT_E1T_CALL_REQ_SPECA",
+            "translated": "E1FCT4_ACT_E1T_CALL_REQ_SPECA",
+            "desc": ""
+        },
+        {
+            "hash": 3913305244,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3993085241,
+            "original": "~z~Hang tight. I'm on my way.",
+            "translated": "~z~你等着，我上路了。",
+            "desc": ""
+        },
+        {
+            "hash": 3993574921,
+            "original": "E1FCT4_ACT_GETCALL_SPECAB",
+            "translated": "E1FCT4_ACT_GETCALL_SPECAB",
+            "desc": ""
+        },
+        {
+            "hash": 4043181432,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4092712201,
+            "original": "E1FCT4_ACT_E1T_GETCALL_HOSP_YESA",
+            "translated": "E1FCT4_ACT_E1T_GETCALL_HOSP_YESA",
+            "desc": ""
+        },
+        {
+            "hash": 4151049534,
+            "original": "~z~Listen Terry. I'm not gonna be able to make it to the hospital. Something urgent's come up.",
+            "translated": "~z~听着Terry。我没法来医院接你了，突然有急事。",
+            "desc": ""
+        },
+        {
+            "hash": 4192237709,
+            "original": "E1FCT4_ACT_E1T_GETCALL_SPEC_THANKSA",
+            "translated": "E1FCT4_ACT_E1T_GETCALL_SPEC_THANKSA",
+            "desc": ""
+        },
+        {
+            "hash": 4223318049,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4235554064,
+            "original": "E1FCT4_ACT_E1T_CALL_HOSP_CANCELA",
+            "translated": "E1FCT4_ACT_E1T_CALL_HOSP_CANCELA",
+            "desc": ""
+        },
+        {
+            "hash": 4239024393,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4250687105,
+            "original": "~z~I'm in a serious need of some back-up, man.",
+            "translated": "~z~我现在急需支援，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 4277683696,
+            "original": "E1FCT4_ACT_GETCALL_HOSP_REJ_LOLIKEA",
+            "translated": "E1FCT4_ACT_GETCALL_HOSP_REJ_LOLIKEA",
+            "desc": ""
+        }
+    ]
+}

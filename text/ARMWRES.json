@@ -1,0 +1,160 @@
+{
+    "ARMWRES": [
+        {
+            "hash": 90421226,
+            "original": "1...",
+            "translated": "1...",
+            "desc": ""
+        },
+        {
+            "hash": 225036278,
+            "original": "Start in 3...",
+            "translated": "倒计时 3...",
+            "desc": ""
+        },
+        {
+            "hash": 259416135,
+            "original": "Press ~INPUT_MOUSE_LMB~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to forfeit.~n~This is the deciding round!",
+            "translated": "按~INPUT_MOUSE_LMB~开始掰手腕。~n~按~INPUT_PICKUP~弃赛。~n~决胜局！",
+            "desc": ""
+        },
+        {
+            "hash": 675429176,
+            "original": "Press ~INPUT_FRONTEND_ACCEPT~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to forfeit.~n~You must win this round to stay in it!",
+            "translated": "按~INPUT_FRONTEND_ACCEPT~开始掰手腕。~n~按~INPUT_PICKUP~弃赛。~n~输掉这局就会被淘汰！",
+            "desc": ""
+        },
+        {
+            "hash": 792357770,
+            "original": "You win.",
+            "translated": "你赢了。",
+            "desc": ""
+        },
+        {
+            "hash": 960121787,
+            "original": "Press ~INPUT_MOUSE_LMB~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to forfeit.~n~You must win this round to stay in it!",
+            "translated": "按~INPUT_MOUSE_LMB~开始掰手腕。~n~按~INPUT_PICKUP~弃赛。~n~输掉这局就会被淘汰！",
+            "desc": ""
+        },
+        {
+            "hash": 999924833,
+            "original": "2...",
+            "translated": "2...",
+            "desc": ""
+        },
+        {
+            "hash": 1158870229,
+            "original": "Press key 2 on the debug keyboard to play 2 player with the 2nd control pad.",
+            "translated": "按下2键来用2号玩家的控制键盘操作2号玩家。",
+            "desc": ""
+        },
+        {
+            "hash": 1321087448,
+            "original": "You lose.",
+            "translated": "你输了。",
+            "desc": ""
+        },
+        {
+            "hash": 1353592758,
+            "original": "Press ~INPUT_PICKUP~ to forfeit. ~n~Press ~INPUT_MOUSE_LMB~ to return to the contest.",
+            "translated": "按~INPUT_PICKUP~弃赛。~n~按~INPUT_MOUSE_LMB~继续比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 1731409909,
+            "original": "Press ~INPUT_FRONTEND_ACCEPT~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to forfeit.~n~This is the deciding round!",
+            "translated": "按~INPUT_FRONTEND_ACCEPT~开始掰手腕。~n~按~INPUT_PICKUP~弃赛。~n~决胜局！",
+            "desc": ""
+        },
+        {
+            "hash": 1759221927,
+            "original": "Opponent stamina",
+            "translated": "对手耐力",
+            "desc": ""
+        },
+        {
+            "hash": 1951149972,
+            "original": "Player speed",
+            "translated": "玩家速度",
+            "desc": ""
+        },
+        {
+            "hash": 2579373610,
+            "original": "Press ~INPUT_PICKUP~ to forfeit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to return to the contest.",
+            "translated": "按~INPUT_PICKUP~弃赛。~n~按~INPUT_FRONTEND_ACCEPT~继续比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 2669859288,
+            "original": "Press ~INPUT_MOUSE_LMB~ for a rematch. ~n~Press ~INPUT_PICKUP~ to quit.",
+            "translated": "按~INPUT_MOUSE_LMB~再比一次。~n~按~INPUT_PICKUP~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 2701258647,
+            "original": "Press ~INPUT_MOUSE_LMB~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to quit.~n~Best of three rounds wins.",
+            "translated": "按~INPUT_MOUSE_LMB~开始掰手腕。~n~按~INPUT_PICKUP~退出。~n~三局两胜。",
+            "desc": ""
+        },
+        {
+            "hash": 2828909545,
+            "original": "Rapidly move ~PAD_RSTICK_LEFTRIGHT~ to arm wrestle.",
+            "translated": "快速移动~PAD_RSTICK_LEFTRIGHT~发力。",
+            "desc": ""
+        },
+        {
+            "hash": 3003830604,
+            "original": "Press ~INPUT_MOUSE_LMB~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to forfeit.~n~Win one more round to win!",
+            "translated": "按~INPUT_MOUSE_LMB~开始掰手腕。~n~按~INPUT_PICKUP~弃赛。~n~决胜局！",
+            "desc": ""
+        },
+        {
+            "hash": 3205219602,
+            "original": "Player stamina",
+            "translated": "玩家耐力",
+            "desc": ""
+        },
+        {
+            "hash": 3288363694,
+            "original": "Press ~INPUT_FRONTEND_ACCEPT~ for a rematch. ~n~Press ~INPUT_PICKUP~ to quit.",
+            "translated": "按~INPUT_FRONTEND_ACCEPT~再比一次。~n~按~INPUT_PICKUP~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 3486672543,
+            "original": "Opponent speed",
+            "translated": "对手速度",
+            "desc": ""
+        },
+        {
+            "hash": 3501689884,
+            "original": "Opponent is AI controlled.",
+            "translated": "对手由电脑控制。",
+            "desc": ""
+        },
+        {
+            "hash": 3764202343,
+            "original": "Opponent is now using the 2nd control pad.",
+            "translated": "对手正在使用2号玩家的控制板。",
+            "desc": ""
+        },
+        {
+            "hash": 3990963823,
+            "original": "Press ~INPUT_FRONTEND_ACCEPT~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to quit.~n~Best of three rounds wins.",
+            "translated": "按~INPUT_FRONTEND_ACCEPT~开始掰手腕。~n~按~INPUT_PICKUP~退出。~n~三局两胜。",
+            "desc": ""
+        },
+        {
+            "hash": 4077851457,
+            "original": "Go!",
+            "translated": "开始！",
+            "desc": ""
+        },
+        {
+            "hash": 4210417816,
+            "original": "Press ~INPUT_FRONTEND_ACCEPT~ to begin arm wrestling.~n~Press ~INPUT_PICKUP~ to forfeit.~n~Win one more round to win!",
+            "translated": "按~INPUT_FRONTEND_ACCEPT~开始掰手腕。~n~按~INPUT_PICKUP~弃赛。~n~决胜局！",
+            "desc": ""
+        }
+    ]
+}

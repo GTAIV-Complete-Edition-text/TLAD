@@ -1,0 +1,412 @@
+{
+    "TURFE1": [
+        {
+            "hash": 34600770,
+            "original": "lost territory",
+            "translated": "lost territory",
+            "desc": ""
+        },
+        {
+            "hash": 120560930,
+            "original": "40%",
+            "translated": "40%",
+            "desc": ""
+        },
+        {
+            "hash": 151268244,
+            "original": "gained territory (30%)",
+            "translated": "gained territory (30%)",
+            "desc": ""
+        },
+        {
+            "hash": 211297553,
+            "original": "1 defender in this territory.",
+            "translated": "1 defender in this territory.",
+            "desc": ""
+        },
+        {
+            "hash": 292667059,
+            "original": "gained territory (50%)",
+            "translated": "gained territory (50%)",
+            "desc": ""
+        },
+        {
+            "hash": 408895361,
+            "original": "60%",
+            "translated": "60%",
+            "desc": ""
+        },
+        {
+            "hash": 419777202,
+            "original": "gained territory (60%)",
+            "translated": "gained territory (60%)",
+            "desc": ""
+        },
+        {
+            "hash": 422190257,
+            "original": "gained territory (100%)",
+            "translated": "gained territory (100%)",
+            "desc": ""
+        },
+        {
+            "hash": 478270675,
+            "original": "gained territory (55%)",
+            "translated": "gained territory (55%)",
+            "desc": ""
+        },
+        {
+            "hash": 613446584,
+            "original": "Take over the other territories while protecting your own.",
+            "translated": "Take over the other territories while protecting your own.",
+            "desc": ""
+        },
+        {
+            "hash": 658606537,
+            "original": "lost territory (85%)",
+            "translated": "lost territory (85%)",
+            "desc": ""
+        },
+        {
+            "hash": 682547961,
+            "original": "gained territory (80%)",
+            "translated": "gained territory (80%)",
+            "desc": ""
+        },
+        {
+            "hash": 870992602,
+            "original": "Take over the other territories while protecting your own.",
+            "translated": "Take over the other territories while protecting your own.",
+            "desc": ""
+        },
+        {
+            "hash": 968174925,
+            "original": "Taking Turf",
+            "translated": "Taking Turf",
+            "desc": ""
+        },
+        {
+            "hash": 987219136,
+            "original": "Turf ~1~% taken over.",
+            "translated": "Turf ~1~% taken over.",
+            "desc": ""
+        },
+        {
+            "hash": 988685260,
+            "original": "An enemy is nearby, turf cannot be taken over.",
+            "translated": "An enemy is nearby, turf cannot be taken over.",
+            "desc": ""
+        },
+        {
+            "hash": 1043216062,
+            "original": "lost territory (50%)",
+            "translated": "lost territory (50%)",
+            "desc": ""
+        },
+        {
+            "hash": 1076701937,
+            "original": "Take over the other territories while protecting your own.",
+            "translated": "Take over the other territories while protecting your own.",
+            "desc": ""
+        },
+        {
+            "hash": 1102911642,
+            "original": "On",
+            "translated": "On",
+            "desc": ""
+        },
+        {
+            "hash": 1182239002,
+            "original": "Duration",
+            "translated": "Duration",
+            "desc": ""
+        },
+        {
+            "hash": 1399940776,
+            "original": "lost territory (45%)",
+            "translated": "lost territory (45%)",
+            "desc": ""
+        },
+        {
+            "hash": 1401076773,
+            "original": "Near",
+            "translated": "Near",
+            "desc": ""
+        },
+        {
+            "hash": 1404758235,
+            "original": "lost territory (35%)",
+            "translated": "lost territory (35%)",
+            "desc": ""
+        },
+        {
+            "hash": 1588591709,
+            "original": "lost territory (15%)",
+            "translated": "lost territory (15%)",
+            "desc": ""
+        },
+        {
+            "hash": 1615373482,
+            "original": "Take over the other territories while protecting your own.",
+            "translated": "Take over the other territories while protecting your own.",
+            "desc": ""
+        },
+        {
+            "hash": 1664417999,
+            "original": "lost territory (55%)",
+            "translated": "lost territory (55%)",
+            "desc": ""
+        },
+        {
+            "hash": 1718549430,
+            "original": "gained territory",
+            "translated": "gained territory",
+            "desc": ""
+        },
+        {
+            "hash": 1741545057,
+            "original": "10 mins",
+            "translated": "10 mins",
+            "desc": ""
+        },
+        {
+            "hash": 1898659871,
+            "original": "Take over the other territories while protecting your own.",
+            "translated": "Take over the other territories while protecting your own.",
+            "desc": ""
+        },
+        {
+            "hash": 1954375111,
+            "original": "Gun Van",
+            "translated": "Gun Van",
+            "desc": ""
+        },
+        {
+            "hash": 2110822265,
+            "original": "Bohan",
+            "translated": "Bohan",
+            "desc": ""
+        },
+        {
+            "hash": 2163817475,
+            "original": "lost territory (65%)",
+            "translated": "lost territory (65%)",
+            "desc": ""
+        },
+        {
+            "hash": 2202574091,
+            "original": "gained territory (40%)",
+            "translated": "gained territory (40%)",
+            "desc": ""
+        },
+        {
+            "hash": 2330797211,
+            "original": "80%",
+            "translated": "80%",
+            "desc": ""
+        },
+        {
+            "hash": 2357081300,
+            "original": "Dukes/Broker",
+            "translated": "Dukes/Broker",
+            "desc": ""
+        },
+        {
+            "hash": 2399263416,
+            "original": "lost territory (70%)",
+            "translated": "lost territory (70%)",
+            "desc": ""
+        },
+        {
+            "hash": 2412164039,
+            "original": "gained territory (20%)",
+            "translated": "gained territory (20%)",
+            "desc": ""
+        },
+        {
+            "hash": 2540323827,
+            "original": "Far",
+            "translated": "Far",
+            "desc": ""
+        },
+        {
+            "hash": 2569424420,
+            "original": "Alderney",
+            "translated": "Alderney",
+            "desc": ""
+        },
+        {
+            "hash": 2598607952,
+            "original": "Location",
+            "translated": "Location",
+            "desc": ""
+        },
+        {
+            "hash": 2654882621,
+            "original": "100%",
+            "translated": "100%",
+            "desc": ""
+        },
+        {
+            "hash": 2783966833,
+            "original": "Take over the other territories while protecting your own.",
+            "translated": "Take over the other territories while protecting your own.",
+            "desc": ""
+        },
+        {
+            "hash": 2807032443,
+            "original": "Random",
+            "translated": "Random",
+            "desc": ""
+        },
+        {
+            "hash": 2839078800,
+            "original": "Off",
+            "translated": "Off",
+            "desc": ""
+        },
+        {
+            "hash": 2851758346,
+            "original": "gained territory (75%)",
+            "translated": "gained territory (75%)",
+            "desc": ""
+        },
+        {
+            "hash": 2852359707,
+            "original": "lost territory (60%)",
+            "translated": "lost territory (60%)",
+            "desc": ""
+        },
+        {
+            "hash": 2883154826,
+            "original": "Algonquin",
+            "translated": "Algonquin",
+            "desc": ""
+        },
+        {
+            "hash": 2952569185,
+            "original": "lost territory (30%)",
+            "translated": "lost territory (30%)",
+            "desc": ""
+        },
+        {
+            "hash": 3087599243,
+            "original": "gained territory (45%)",
+            "translated": "gained territory (45%)",
+            "desc": ""
+        },
+        {
+            "hash": 3296552002,
+            "original": "You upgraded a defender's weapon.",
+            "translated": "You upgraded a defender's weapon.",
+            "desc": ""
+        },
+        {
+            "hash": 3329729936,
+            "original": "gained territory (65%)",
+            "translated": "gained territory (65%)",
+            "desc": ""
+        },
+        {
+            "hash": 3346111480,
+            "original": "gained territory (70%)",
+            "translated": "gained territory (70%)",
+            "desc": ""
+        },
+        {
+            "hash": 3376861217,
+            "original": "lost territory (20%)",
+            "translated": "lost territory (20%)",
+            "desc": ""
+        },
+        {
+            "hash": 3424614210,
+            "original": "Take over the other territories while protecting your own.",
+            "translated": "Take over the other territories while protecting your own.",
+            "desc": ""
+        },
+        {
+            "hash": 3438051964,
+            "original": "lost territory (0%)",
+            "translated": "lost territory (0%)",
+            "desc": ""
+        },
+        {
+            "hash": 3490953644,
+            "original": "gained territory (35%)",
+            "translated": "gained territory (35%)",
+            "desc": ""
+        },
+        {
+            "hash": 3541200847,
+            "original": "Territory ~1~ is under attack.",
+            "translated": "Territory ~1~ is under attack.",
+            "desc": ""
+        },
+        {
+            "hash": 3592448003,
+            "original": "Bikers from another club are in this territory.",
+            "translated": "Bikers from another club are in this territory.",
+            "desc": ""
+        },
+        {
+            "hash": 3608865517,
+            "original": "lost territory (75%)",
+            "translated": "lost territory (75%)",
+            "desc": ""
+        },
+        {
+            "hash": 3800224713,
+            "original": "20 mins",
+            "translated": "20 mins",
+            "desc": ""
+        },
+        {
+            "hash": 4027161430,
+            "original": "lost territory (80%)",
+            "translated": "lost territory (80%)",
+            "desc": ""
+        },
+        {
+            "hash": 4053396684,
+            "original": "gained territory (85%)",
+            "translated": "gained territory (85%)",
+            "desc": ""
+        },
+        {
+            "hash": 4099503990,
+            "original": "30 mins",
+            "translated": "30 mins",
+            "desc": ""
+        },
+        {
+            "hash": 4118610650,
+            "original": "gained territory (15%)",
+            "translated": "gained territory (15%)",
+            "desc": ""
+        },
+        {
+            "hash": 4174524775,
+            "original": "lost territory (40%)",
+            "translated": "lost territory (40%)",
+            "desc": ""
+        },
+        {
+            "hash": 4177337490,
+            "original": "Take over the other territories while protecting your own.",
+            "translated": "Take over the other territories while protecting your own.",
+            "desc": ""
+        },
+        {
+            "hash": 4218510562,
+            "original": "Blips",
+            "translated": "Blips",
+            "desc": ""
+        },
+        {
+            "hash": 4266999182,
+            "original": "~1~ defenders in this territory.",
+            "translated": "~1~ defenders in this territory.",
+            "desc": ""
+        }
+    ]
+}

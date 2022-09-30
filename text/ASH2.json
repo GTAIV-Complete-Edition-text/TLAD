@@ -1,0 +1,166 @@
+{
+    "ASH2": [
+        {
+            "hash": 559120243,
+            "original": "~r~Roman Bellic's cab was wrecked.",
+            "translated": "~r~Roman Bellic的出租车坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 623654502,
+            "original": "~r~Malc's car was damaged.",
+            "translated": "~r~Malc的车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 626703005,
+            "original": "Get in the ~b~car.",
+            "translated": "上~b~车。",
+            "desc": ""
+        },
+        {
+            "hash": 693911590,
+            "original": "~r~Malc is dead.",
+            "translated": "~r~Malc死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1022452928,
+            "original": "~r~Malc's bike was damaged.",
+            "translated": "~r~Malc的摩托被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 1139950087,
+            "original": "Pick up ~b~Malc.",
+            "translated": "接上~b~Malc。",
+            "desc": ""
+        },
+        {
+            "hash": 1141952198,
+            "original": "~r~Roman Bellic is dead.",
+            "translated": "~r~Roman Bellic死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1254883749,
+            "original": "~r~Malc's car was wrecked.",
+            "translated": "~r~Malc的车坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 1337760504,
+            "original": "~r~You attacked Malc.",
+            "translated": "~r~你攻击了Malc。",
+            "desc": ""
+        },
+        {
+            "hash": 1353327852,
+            "original": "Go to ~b~Malc.",
+            "translated": "去找~b~Malc。",
+            "desc": ""
+        },
+        {
+            "hash": 1439236146,
+            "original": "~r~Roman Bellic was spooked.",
+            "translated": "~r~Roman Bellic被吓跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 1523382599,
+            "original": "Collect Roman Bellic from the ~y~gambling den.",
+            "translated": "去~y~赌场~s~找Roman Bellic。",
+            "desc": ""
+        },
+        {
+            "hash": 1780447408,
+            "original": "Go to the ~y~gambling den.",
+            "translated": "前往~y~赌场。",
+            "desc": ""
+        },
+        {
+            "hash": 1953848115,
+            "original": "Lose the cops.",
+            "translated": "甩掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 1986857190,
+            "original": "Get in ~b~Roman Bellic's cab.",
+            "translated": "进入~b~Roman Bellic的出租车。",
+            "desc": ""
+        },
+        {
+            "hash": 2010499709,
+            "original": "Go to the ~y~warehouse.",
+            "translated": "前往~y~仓库。",
+            "desc": ""
+        },
+        {
+            "hash": 2250405665,
+            "original": "~r~Malc's bike was wrecked.",
+            "translated": "~r~Malc的摩托坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 2279158737,
+            "original": "Take Roman Bellic to the ~b~car.",
+            "translated": "带Roman Bellic~b~上车。",
+            "desc": ""
+        },
+        {
+            "hash": 2544729807,
+            "original": "Kidnap ~b~Roman Bellic.",
+            "translated": "绑架~b~Roman Bellic。",
+            "desc": ""
+        },
+        {
+            "hash": 2557123270,
+            "original": "~r~Roman Bellic got away.",
+            "translated": "~r~Roman Bellic逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 2715325225,
+            "original": "Wait for Roman Bellic to leave the gambling den.",
+            "translated": "等待Roman Bellic离开赌场。",
+            "desc": ""
+        },
+        {
+            "hash": 3193621977,
+            "original": "Keep an eye out for Roman Bellic.",
+            "translated": "留意Roman Bellic。",
+            "desc": ""
+        },
+        {
+            "hash": 3336117760,
+            "original": "Wait for Roman Bellic to arrive.",
+            "translated": "等待Roman Bellic到场。",
+            "desc": ""
+        },
+        {
+            "hash": 3575626381,
+            "original": "Go to ~b~Malc~s~ and wait for Roman Bellic to arrive.",
+            "translated": "去找~b~Malc，~s~等待Roman Bellic到场。",
+            "desc": ""
+        },
+        {
+            "hash": 3586954629,
+            "original": "Threaten ~b~Roman Bellic~s~ but do not kill him.",
+            "translated": "威胁~b~Roman Bellic~s~但不要杀了他。",
+            "desc": ""
+        },
+        {
+            "hash": 3819319608,
+            "original": "Go and get ~b~Roman Bellic.",
+            "translated": "去找~b~Roman Bellic。",
+            "desc": ""
+        },
+        {
+            "hash": 4106736507,
+            "original": "Wait for ~b~Roman Bellic.",
+            "translated": "等待 ~b~Roman Bellic。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "STUB3M4": [
+        {
+            "hash": 21933575,
+            "original": "~r~You hurt the bugging expert.",
+            "translated": "~r~你伤害了那个窃听的专家。",
+            "desc": ""
+        },
+        {
+            "hash": 280417574,
+            "original": "Get the car back ~s~by ~1~:0~1~.",
+            "translated": "在~1~:0~1~之前送还跑车。",
+            "desc": ""
+        },
+        {
+            "hash": 535917467,
+            "original": "~r~Deputy Mayor Dawkins has reported the car missing.",
+            "translated": "~r~Dawkins副市长已经报告车辆失窃了。",
+            "desc": ""
+        },
+        {
+            "hash": 547329795,
+            "original": "You have until 00:0~1~.",
+            "translated": "你必须在00:0~1~之前赶到。",
+            "desc": ""
+        },
+        {
+            "hash": 725789769,
+            "original": "You have until 0~1~:0~1~.",
+            "translated": "你必须在0~1~:0~1~之前赶到。",
+            "desc": ""
+        },
+        {
+            "hash": 997927602,
+            "original": "Get the car back ~s~by 0~1~:~1~.",
+            "translated": "在0~1~:~1~之前送还跑车。",
+            "desc": ""
+        },
+        {
+            "hash": 1383660213,
+            "original": "You have until 00:~1~.",
+            "translated": "你必须在00:~1~之前赶到。",
+            "desc": ""
+        },
+        {
+            "hash": 1471743285,
+            "original": "You have until 0~1~:~1~.",
+            "translated": "你必须在0~1~:~1~之前赶到。",
+            "desc": ""
+        },
+        {
+            "hash": 1674172078,
+            "original": "~s~Leave the area before Deputy Mayor Dawkins gets back.",
+            "translated": "~s~在Dawkins副市长回来之前离开这一带。",
+            "desc": ""
+        },
+        {
+            "hash": 1795982364,
+            "original": "Steal the ~b~car.",
+            "translated": "偷走~b~跑车。",
+            "desc": ""
+        },
+        {
+            "hash": 1894572628,
+            "original": "~s~You have ~1~ minutes left to return car to the garage.",
+            "translated": "在~1~分钟内把车送回车库。",
+            "desc": ""
+        },
+        {
+            "hash": 2032388106,
+            "original": "You have until ~1~:~1~.",
+            "translated": "你必须在~1~:~1~之前赶到。",
+            "desc": ""
+        },
+        {
+            "hash": 2034770067,
+            "original": "~s~Take the car to the ~y~bugging expert~s~, if the car is damaged he will buff out any scratches.",
+            "translated": "~s~把车交给~y~窃听专家，~s~车辆如有损坏，他会一并修理。",
+            "desc": ""
+        },
+        {
+            "hash": 2243726820,
+            "original": "~s~Knowing Me, Knowing You",
+            "translated": "~s~知根知底",
+            "desc": ""
+        },
+        {
+            "hash": 2306894019,
+            "original": "You have until ~1~:0~1~.",
+            "translated": "你必须在~1~:0~1~之前赶到。",
+            "desc": ""
+        },
+        {
+            "hash": 2793372417,
+            "original": "~s~Get the car back to the ~y~garage~s~, don't damage it.",
+            "translated": "~s~把车开回~y~车库，~s~不要损坏它。",
+            "desc": ""
+        },
+        {
+            "hash": 3021968961,
+            "original": "Get the car back ~s~by 00:0~1~.",
+            "translated": "~s~在00:0~1~之前送还跑车。",
+            "desc": ""
+        },
+        {
+            "hash": 3031603059,
+            "original": "~r~The car was wrecked.",
+            "translated": "~r~跑车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3254792718,
+            "original": "~r~The car is too damaged.",
+            "translated": "~r~跑车损坏太严重了。",
+            "desc": ""
+        },
+        {
+            "hash": 3261936348,
+            "original": "Get the car back ~s~by 00:~1~.",
+            "translated": "在00:~1~之前送还跑车。",
+            "desc": ""
+        },
+        {
+            "hash": 3446635871,
+            "original": "~s~Return the car to the ~y~drive.",
+            "translated": "~s~把车放回~y~车道。",
+            "desc": ""
+        },
+        {
+            "hash": 3488173524,
+            "original": "Get the car back ~s~by ~1~:~1~.",
+            "translated": "在~1~:~1~之前送还跑车。",
+            "desc": ""
+        },
+        {
+            "hash": 3557618078,
+            "original": "~s~Time is running out.",
+            "translated": "~s~时间不多了。",
+            "desc": ""
+        },
+        {
+            "hash": 3711690873,
+            "original": "Get the car back ~s~by 0~1~:0~1~.",
+            "translated": "在0~1~:0~1~之前送还跑车。",
+            "desc": ""
+        },
+        {
+            "hash": 4114619961,
+            "original": "Get back in the ~b~car.",
+            "translated": "回到~b~车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 4219651701,
+            "original": "~s~Return the car in the direction it was facing before.",
+            "translated": "~s~把车调整回原来的朝向。",
+            "desc": ""
+        }
+    ]
+}

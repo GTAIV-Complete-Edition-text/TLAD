@@ -1,0 +1,28 @@
+{
+    "STUB3M3": [
+        {
+            "hash": 2800133179,
+            "original": "~s~PHONECALL~n~~n~You must destroy a truck.~n~To help you, a bike is armed with a bomb.~n~Bomb becomes armed at 88mph and blows up if speed drops below 88mph.~n~~n~ You can use the bomb to destroy the enemy truck.",
+            "translated": "~s~PHONECALL~n~~n~你必须摧毁一辆卡车。~n~一辆摩托车上装有炸弹来帮助你。~n~当速度为88迈时炸弹准备爆炸，此后若速度低于88迈就会爆炸。~n~~n~ 你可以用炸弹摧毁敌人的卡车。",
+            "desc": ""
+        },
+        {
+            "hash": 3510648834,
+            "original": "~r~BOMB ARMED!",
+            "translated": "~r~炸弹已装备！",
+            "desc": ""
+        },
+        {
+            "hash": 3564062519,
+            "original": "~s~Destroy the ~r~tanker.",
+            "translated": "~s~摧毁~r~油罐车。",
+            "desc": ""
+        },
+        {
+            "hash": 4120525509,
+            "original": "~s~Speed: ~1~mph",
+            "translated": "~s~速度：~1~迈",
+            "desc": ""
+        }
+    ]
+}

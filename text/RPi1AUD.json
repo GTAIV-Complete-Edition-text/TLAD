@@ -1,0 +1,802 @@
+{
+    "RPi1AUD": [
+        {
+            "hash": 12021172,
+            "original": "~z~You ain't getting away from here, Brian.",
+            "translated": "~z~你别想活着出去，Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 103294439,
+            "original": "~z~Man, it wasn't like that.",
+            "translated": "~z~兄弟，不是这样的。",
+            "desc": ""
+        },
+        {
+            "hash": 113569111,
+            "original": "~z~Come on, man. Don't be like that.",
+            "translated": "~z~拜托，兄弟，你别这样。",
+            "desc": ""
+        },
+        {
+            "hash": 115117693,
+            "original": "~z~Just wait here a second, would you, Johnny?",
+            "translated": "~z~在这等一会儿，好吗，Johnny？",
+            "desc": ""
+        },
+        {
+            "hash": 216889408,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 225823937,
+            "original": "RPi1_CB",
+            "translated": "RPi1_CB",
+            "desc": ""
+        },
+        {
+            "hash": 289133888,
+            "original": "RPi1_OA",
+            "translated": "RPi1_OA",
+            "desc": ""
+        },
+        {
+            "hash": 327951775,
+            "original": "~z~Heh heh heh. You didn't expect this one, did you?",
+            "translated": "~z~嘿嘿嘿嘿，这你没想到吧？",
+            "desc": ""
+        },
+        {
+            "hash": 334375072,
+            "original": "~z~Uh, can you wait here a minute, man?",
+            "translated": "~z~呃，你能在这儿等会儿吗，伙计？",
+            "desc": ""
+        },
+        {
+            "hash": 371173856,
+            "original": "SFX_PAUSE_420",
+            "translated": "SFX_PAUSE_420",
+            "desc": ""
+        },
+        {
+            "hash": 390699736,
+            "original": "~z~You little fucking shit. Fuck you, Brian.",
+            "translated": "~z~你个崽种。操你妈的，Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 488285662,
+            "original": "SFX_PAUSE_480",
+            "translated": "SFX_PAUSE_480",
+            "desc": ""
+        },
+        {
+            "hash": 496331164,
+            "original": "SFX_PAUSE_570",
+            "translated": "SFX_PAUSE_570",
+            "desc": ""
+        },
+        {
+            "hash": 521853208,
+            "original": "~z~I can help you save the club, man. Seriously.",
+            "translated": "~z~我能帮你拯救帮会，兄弟。真的。",
+            "desc": ""
+        },
+        {
+            "hash": 644605534,
+            "original": "~z~Uh...you were my brother, Brian, but you fucked shit up.",
+            "translated": "~z~噢...以前我拿你当兄弟，Brian，最后被你辜负了。",
+            "desc": ""
+        },
+        {
+            "hash": 659703081,
+            "original": "~z~This don't feel right to me, man. Now get the fuck out of here.",
+            "translated": "~z~我感觉不太对，伙计。现在就给老子滚。",
+            "desc": ""
+        },
+        {
+            "hash": 674986849,
+            "original": "~z~Look, I'm with Johnny f-ing Klebitz. Umm, we're coming to you, huh.",
+            "translated": "~z~听着，我和丫的Johnny Klebitz在一块。我们来找你了，哈。",
+            "desc": ""
+        },
+        {
+            "hash": 683053828,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 708979220,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 770532003,
+            "original": "RPi1_JA",
+            "translated": "RPi1_JA",
+            "desc": ""
+        },
+        {
+            "hash": 809466389,
+            "original": "~z~Seriously. Billy, he fucked up.",
+            "translated": "~z~真的，Billy，是他辜负了你。",
+            "desc": ""
+        },
+        {
+            "hash": 829062583,
+            "original": "~z~Fuck you Brian.",
+            "translated": "~z~去你妈的，Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 839261862,
+            "original": "RPi1_FB",
+            "translated": "RPi1_FB",
+            "desc": ""
+        },
+        {
+            "hash": 856511680,
+            "original": "~z~Johnny Klebitz.",
+            "translated": "~z~Johnny Klebitz。",
+            "desc": ""
+        },
+        {
+            "hash": 859615173,
+            "original": "RPi1_EA",
+            "translated": "RPi1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 860368304,
+            "original": "RPi1_EB",
+            "translated": "RPi1_EB",
+            "desc": ""
+        },
+        {
+            "hash": 982186921,
+            "original": "~z~Uh, can you wait here a minute, man?",
+            "translated": "~z~呃，伙计，你能在这儿等会儿吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1035656002,
+            "original": "~z~Johnny! Johnny K.",
+            "translated": "~z~Johnny！Johnny K。",
+            "desc": ""
+        },
+        {
+            "hash": 1062840649,
+            "original": "~z~Heh heh heh, yeah, yeah, that's right. Listen I've, ummm...",
+            "translated": "~z~呵呵呵，对对，没错。听着，那个...",
+            "desc": ""
+        },
+        {
+            "hash": 1103732369,
+            "original": "~z~Everything got out of control, seriously.",
+            "translated": "~z~当时局面完全失控了，真的。",
+            "desc": ""
+        },
+        {
+            "hash": 1123506059,
+            "original": "RPi1_PA",
+            "translated": "RPi1_PA",
+            "desc": ""
+        },
+        {
+            "hash": 1183170461,
+            "original": "SFX_PAUSE_450",
+            "translated": "SFX_PAUSE_450",
+            "desc": ""
+        },
+        {
+            "hash": 1226604157,
+            "original": "~z~You're dead, Brian.",
+            "translated": "~z~你完了，Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 1252241685,
+            "original": "~z~Where you taking me now, boy?",
+            "translated": "~z~你要带我去哪儿，小子？",
+            "desc": ""
+        },
+        {
+            "hash": 1332641449,
+            "original": "~z~Hey I thought I told you to stay out of town?",
+            "translated": "~z~喂，我记得我是叫你离开这儿吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1347218231,
+            "original": "100090100",
+            "translated": "100090100",
+            "desc": ""
+        },
+        {
+            "hash": 1352612924,
+            "original": "~z~Yeah, killing your friends.",
+            "translated": "~z~是是是，奉命杀了朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 1412281379,
+            "original": "~z~Stay behind me. Don't overtake, Johnny. Don't get ahead of yourself.",
+            "translated": "~z~跟在我后面，别超上来，Johnny。可别太激动了。",
+            "desc": ""
+        },
+        {
+            "hash": 1429281031,
+            "original": "~z~Yeah. We're coming to you.",
+            "translated": "~z~对，我们来找你了。",
+            "desc": ""
+        },
+        {
+            "hash": 1540383286,
+            "original": "~z~Hey, it's, it's Brian.",
+            "translated": "~z~喂，我是Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 1661808230,
+            "original": "RPi1_MA",
+            "translated": "RPi1_MA",
+            "desc": ""
+        },
+        {
+            "hash": 1727508336,
+            "original": "100090100090100",
+            "translated": "100090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 1748762823,
+            "original": "RPi1_GC",
+            "translated": "RPi1_GC",
+            "desc": ""
+        },
+        {
+            "hash": 1786605200,
+            "original": "~z~That was fair? Just part of the game?",
+            "translated": "~z~这就合理了？都是理所当然了？",
+            "desc": ""
+        },
+        {
+            "hash": 1830745403,
+            "original": "~z~You're my family.",
+            "translated": "~z~你是我的家人啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1856999430,
+            "original": "SFX_PAUSE_490",
+            "translated": "SFX_PAUSE_490",
+            "desc": ""
+        },
+        {
+            "hash": 1939116328,
+            "original": "~z~Johnny's a fucking Judas.",
+            "translated": "~z~Johnny就是个叛徒。",
+            "desc": ""
+        },
+        {
+            "hash": 1945920764,
+            "original": "RPi1_NB",
+            "translated": "RPi1_NB",
+            "desc": ""
+        },
+        {
+            "hash": 1950996061,
+            "original": "~z~I should be Chapter President.",
+            "translated": "~z~我本该是分会会长的。",
+            "desc": ""
+        },
+        {
+            "hash": 1996032239,
+            "original": "~z~Billy... he controlled me. I'm so ashamed.",
+            "translated": "~z~Billy...他蛊惑了我，我很羞愧。",
+            "desc": ""
+        },
+        {
+            "hash": 2000265899,
+            "original": "RPi1_CC",
+            "translated": "RPi1_CC",
+            "desc": ""
+        },
+        {
+            "hash": 2026709789,
+            "original": "RPi1_GB",
+            "translated": "RPi1_GB",
+            "desc": ""
+        },
+        {
+            "hash": 2046133348,
+            "original": "RPi1_FC",
+            "translated": "RPi1_FC",
+            "desc": ""
+        },
+        {
+            "hash": 2162236815,
+            "original": "~z~This feels weird, dude.",
+            "translated": "~z~感觉不太对，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 2230806974,
+            "original": "~z~We were all under a lot of pressure.",
+            "translated": "~z~当时大家都有压力。",
+            "desc": ""
+        },
+        {
+            "hash": 2246723337,
+            "original": "RPi1_KA",
+            "translated": "RPi1_KA",
+            "desc": ""
+        },
+        {
+            "hash": 2261188990,
+            "original": "SFX_PAUSE_540",
+            "translated": "SFX_PAUSE_540",
+            "desc": ""
+        },
+        {
+            "hash": 2273164400,
+            "original": "RPi1_FD",
+            "translated": "RPi1_FD",
+            "desc": ""
+        },
+        {
+            "hash": 2309104213,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 2311761554,
+            "original": "~z~You gotta come with me. I got to show you something.",
+            "translated": "~z~你一定要跟我来，我有东西要给你看。",
+            "desc": ""
+        },
+        {
+            "hash": 2325125300,
+            "original": "RPi1_NA",
+            "translated": "RPi1_NA",
+            "desc": ""
+        },
+        {
+            "hash": 2405091508,
+            "original": "~z~You're a dick.",
+            "translated": "~z~我叛你妈。",
+            "desc": ""
+        },
+        {
+            "hash": 2466291852,
+            "original": "~z~Then there's a big bad Johnny Klebitz. Heh heh heh.",
+            "translated": "~z~大坏蛋Johnny Klebitz来了。嘿嘿嘿。",
+            "desc": ""
+        },
+        {
+            "hash": 2527399193,
+            "original": "~z~And listen, I made some bad decisions.",
+            "translated": "~z~你听我说，之前我的确犯错了。",
+            "desc": ""
+        },
+        {
+            "hash": 2546244946,
+            "original": "~z~You were always a Judas, Johnny.",
+            "translated": "~z~你一直是个叛徒，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 2622608496,
+            "original": "~z~You're still a snivelling little shit, man.",
+            "translated": "~z~你还是个软弱无能的小杂种，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 2630298086,
+            "original": "RPi1_DA",
+            "translated": "RPi1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2738949228,
+            "original": "SFX_PAUSE_730",
+            "translated": "SFX_PAUSE_730",
+            "desc": ""
+        },
+        {
+            "hash": 2748152691,
+            "original": "RPi1_FA",
+            "translated": "RPi1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2754484046,
+            "original": "~z~What you been doing with yourself then, Brian? Hiding under some rock?",
+            "translated": "~z~之前你滚哪儿去了，Brian？隐居深山？",
+            "desc": ""
+        },
+        {
+            "hash": 2772121663,
+            "original": "~z~Billy was good to you, man.",
+            "translated": "~z~Billy待你不薄，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 2784419269,
+            "original": "RPi1_DB",
+            "translated": "RPi1_DB",
+            "desc": ""
+        },
+        {
+            "hash": 2789762957,
+            "original": "~z~I gotta come clean. Come with me, please...",
+            "translated": "~z~我必须说出真相。求求你跟我来吧...",
+            "desc": ""
+        },
+        {
+            "hash": 2801818055,
+            "original": "~z~Come on, Johnny. Follow me. Follow me.",
+            "translated": "~z~来吧，Johnny。跟我来，跟我来。",
+            "desc": ""
+        },
+        {
+            "hash": 2816069090,
+            "original": "SFX_PAUSE_340",
+            "translated": "SFX_PAUSE_340",
+            "desc": ""
+        },
+        {
+            "hash": 2847773732,
+            "original": "~z~I've been waiting to see you for a long time, Johnny. Ever since,",
+            "translated": "~z~我想见你很久了，Johnny。自从...",
+            "desc": ""
+        },
+        {
+            "hash": 2880342032,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 2881763159,
+            "original": "~z~But seriously, Johnny, you're the man.",
+            "translated": "~z~不过说真的，Johnny，你成功了！",
+            "desc": ""
+        },
+        {
+            "hash": 2896266281,
+            "original": "RPi1_GA",
+            "translated": "RPi1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2905044507,
+            "original": "~z~I hope I don't regret not killing you, Brian.",
+            "translated": "~z~希望我不后悔放过你，Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 2934327379,
+            "original": "RPi1_MB",
+            "translated": "RPi1_MB",
+            "desc": ""
+        },
+        {
+            "hash": 2964394696,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 2964496902,
+            "original": "~z~That's nice, dude. I'm real touched.",
+            "translated": "~z~可以，兄弟。我很感动。",
+            "desc": ""
+        },
+        {
+            "hash": 2981428478,
+            "original": "~z~But me... I was being a good soldier. Following my leader.",
+            "translated": "~z~可我...我是个好士兵。跟着老大走。",
+            "desc": ""
+        },
+        {
+            "hash": 3015562182,
+            "original": "~z~That's the last insult, motherfucker.",
+            "translated": "~z~这是最后一次问候了，崽种。",
+            "desc": ""
+        },
+        {
+            "hash": 3049686913,
+            "original": "~z~I don't know how Billy put up with you, man.",
+            "translated": "~z~真搞不懂Billy是怎么忍你的，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 3099655496,
+            "original": "~z~See if you can keep up, huh Johnny? Don't get lost.",
+            "translated": "~z~你还跟得上我吗，哈，Johnny？别跟丢了。",
+            "desc": ""
+        },
+        {
+            "hash": 3137303687,
+            "original": "~z~Fuck you, Klebitz-o-witz.",
+            "translated": "~z~去你妈的，Klebitz-o-witz。",
+            "desc": ""
+        },
+        {
+            "hash": 3144230505,
+            "original": "RPi1_CA",
+            "translated": "RPi1_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3158832531,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3162554408,
+            "original": "102090102",
+            "translated": "102090102",
+            "desc": ""
+        },
+        {
+            "hash": 3202615820,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 3215105126,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3217103130,
+            "original": "~z~Come on, man. That ain't fair. That ain't fair.",
+            "translated": "~z~得了吧，兄弟。这不合理，这不合理。",
+            "desc": ""
+        },
+        {
+            "hash": 3289732876,
+            "original": "~z~You sound kinda creepy, there, Brian. No, I don't mean to make fun. I really don't.",
+            "translated": "~z~这话有点吓人啊，Brian。不，我没拿你开涮，真没有。",
+            "desc": ""
+        },
+        {
+            "hash": 3354917946,
+            "original": "~z~I hope you die scared, Brian. You little bitch.",
+            "translated": "~z~祝你在恐惧中死去，Brian。你个崽种。",
+            "desc": ""
+        },
+        {
+            "hash": 3379539563,
+            "original": "~z~You best be legit, Brian.",
+            "translated": "~z~你最好规矩点，Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 3438032060,
+            "original": "~z~Then I'll leave town.",
+            "translated": "~z~然后我会永远离开。",
+            "desc": ""
+        },
+        {
+            "hash": 3471084047,
+            "original": "~z~Brian, you mother fucking little piece of shit. Die!",
+            "translated": "~z~Brian，你个狗娘养的臭傻逼。死吧！",
+            "desc": ""
+        },
+        {
+            "hash": 3499131119,
+            "original": "~z~I did. I left. I was a ghost. Seriously Johnny.",
+            "translated": "~z~是的，我走了，直接消失了。真的Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 3510529458,
+            "original": "RPi1_LA",
+            "translated": "RPi1_LA",
+            "desc": ""
+        },
+        {
+            "hash": 3523198359,
+            "original": "~z~Really?",
+            "translated": "~z~是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3542870094,
+            "original": "RPi1_BA",
+            "translated": "RPi1_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3559986116,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3576899756,
+            "original": "RPi1_GD",
+            "translated": "RPi1_GD",
+            "desc": ""
+        },
+        {
+            "hash": 3610799897,
+            "original": "~z~ever since you paid me that little visit.",
+            "translated": "~z~自从你上次的家访以后。",
+            "desc": ""
+        },
+        {
+            "hash": 3621307053,
+            "original": "~z~Okay... but if you're fucking with me,",
+            "translated": "~z~行...要是你他妈的敢搞我。",
+            "desc": ""
+        },
+        {
+            "hash": 3628695455,
+            "original": "102090102090012090102",
+            "translated": "102090102090012090102",
+            "desc": ""
+        },
+        {
+            "hash": 3667594211,
+            "original": "RPi1_EC",
+            "translated": "RPi1_EC",
+            "desc": ""
+        },
+        {
+            "hash": 3680948325,
+            "original": "~z~But all the people that were killed, and all the shit we've been through,",
+            "translated": "~z~那那些为此而死的弟兄，血雨腥风的内战，",
+            "desc": ""
+        },
+        {
+            "hash": 3682829816,
+            "original": "~z~Yeah, I've been you know, hanging with some dudes. I miss Billy, you know.",
+            "translated": "~z~我其实跟着几个哥们混着。我还挺想Billy的。",
+            "desc": ""
+        },
+        {
+            "hash": 3687166485,
+            "original": "~z~That's Johnny K, thinks he's President of the Alderney chapter. Most us think he's First Lady",
+            "translated": "~z~欢迎Johnny K，自封的Alderney分会会长。我们当他是会长夫人。",
+            "desc": ""
+        },
+        {
+            "hash": 3715561800,
+            "original": "RPi1_HA",
+            "translated": "RPi1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3736043007,
+            "original": "~z~Yeah. Nice one. Johnny K.",
+            "translated": "~z~是啊，还可以。Johnny K。",
+            "desc": ""
+        },
+        {
+            "hash": 3751326804,
+            "original": "~z~Brother. Brother, Brother, Brother, Brother it's, ah, it's ah, Brian.",
+            "translated": "~z~兄弟，兄弟兄弟兄弟兄弟，我是，呃，我是Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 3798006245,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 3804901995,
+            "original": "RPi1_IA",
+            "translated": "RPi1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 3815675736,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3822659456,
+            "original": "~z~You were a ghost for like five minutes man.",
+            "translated": "~z~那你搁这儿大变活人呢，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 3857159728,
+            "original": "012090102090102090012",
+            "translated": "012090102090102090012",
+            "desc": ""
+        },
+        {
+            "hash": 3898757513,
+            "original": "~z~Stay here for a second, buddy. Don't go nowhere.",
+            "translated": "~z~稍微等一会儿，伙计，哪儿也别去。",
+            "desc": ""
+        },
+        {
+            "hash": 3913239816,
+            "original": "~z~Looky who I got with me - Johnny K, my old pal.",
+            "translated": "~z~看看我带谁来了——Johnny K，我的老伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 3920193102,
+            "original": "~z~I'm gonna put a bullet right through your fucking skull Brian.",
+            "translated": "~z~我就一枪打爆你的脑壳，Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 3934292688,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3944958825,
+            "original": "~z~Yeah. I got Johnny K from Alderney with me. We're coming to you.",
+            "translated": "~z~对。我带着Johnny K从Alderney过来了。待会就来你那儿。",
+            "desc": ""
+        },
+        {
+            "hash": 3952046594,
+            "original": "~z~Get the fuck out of my sight.",
+            "translated": "~z~马上从我面前滚开。",
+            "desc": ""
+        },
+        {
+            "hash": 3987240168,
+            "original": "~z~and the fact you and Billy are rats.",
+            "translated": "~z~还有你和Billy是内鬼的事实，",
+            "desc": ""
+        },
+        {
+            "hash": 4106650404,
+            "original": "~z~Fuck you Brian.",
+            "translated": "~z~操你妈，Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 4111682036,
+            "original": "~z~I told you to go permanently.",
+            "translated": "~z~我是让你永远滚蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 4153675617,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 4264389381,
+            "original": "~z~Hey, hey, you'd never guess who I bumped into.",
+            "translated": "~z~喂，喂，你肯定猜不到我遇见谁了。",
+            "desc": ""
+        },
+        {
+            "hash": 4294213904,
+            "original": "100090100090100",
+            "translated": "100090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 4294528739,
+            "original": "~z~Hiding under a rock? That's funny, JK, really funny.",
+            "translated": "~z~隐居深山？有意思，JK，真有意思。",
+            "desc": ""
+        }
+    ]
+}

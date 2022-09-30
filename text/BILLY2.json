@@ -1,0 +1,88 @@
+{
+    "BILLY2": [
+        {
+            "hash": 812360726,
+            "original": "~r~Billy is dead.",
+            "translated": "~r~Billy死了。",
+            "desc": ""
+        },
+        {
+            "hash": 876009795,
+            "original": "~s~Die motherfuckers!",
+            "translated": "~s~去死吧，狗娘养的！",
+            "desc": ""
+        },
+        {
+            "hash": 1443463243,
+            "original": "~s~Get on the ~b~bike.",
+            "translated": "~s~骑上~b~摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 1716174652,
+            "original": "~s~The sawn-off shotgun can be fired from the motorbike by pressing ~INPUT_VEH_ATTACK~.",
+            "translated": "~s~短管霰弹枪可在摩托上使用，按~INPUT_VEH_ATTACK~开火。",
+            "desc": ""
+        },
+        {
+            "hash": 1792422989,
+            "original": "~s~Meet ~y~Billy.",
+            "translated": "~s~去找~y~Billy。",
+            "desc": ""
+        },
+        {
+            "hash": 2031420009,
+            "original": "~r~Jason is dead.",
+            "translated": "~r~Jason死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2200792432,
+            "original": "~s~Chase the ~r~Angels of Death~s~ and take them out.",
+            "translated": "~s~追逐~r~死亡天使成员，~s~干掉他们。",
+            "desc": ""
+        },
+        {
+            "hash": 2536171084,
+            "original": "~r~You lost the Angels of Death.",
+            "translated": "~r~你跟丢了死亡天使。",
+            "desc": ""
+        },
+        {
+            "hash": 2922182262,
+            "original": "~s~Leave the Angels of Death's turf and meet ~y~Billy.",
+            "translated": "~s~离开死亡天使的地盘，去找~y~Billy。",
+            "desc": ""
+        },
+        {
+            "hash": 3288076587,
+            "original": "~r~Your bike was wrecked.",
+            "translated": "~r~你的摩托坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 3635691617,
+            "original": "~s~The ~r~A.O.D.~s~ are getting away.",
+            "translated": "~r~死亡天使~s~就要跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 3689622042,
+            "original": "~r~You abandoned your bike.",
+            "translated": "~r~你抛弃了你的摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 3697094316,
+            "original": "~s~Burn in hell Angels!",
+            "translated": "~s~下地狱吧，「天使」！",
+            "desc": ""
+        },
+        {
+            "hash": 4073839509,
+            "original": "~s~Take that you pricks!",
+            "translated": "~s~尝尝这个，混蛋！",
+            "desc": ""
+        }
+    ]
+}

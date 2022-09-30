@@ -1,0 +1,328 @@
+{
+    "RACESE1": [
+        {
+            "hash": 41969505,
+            "original": "Ramped Up",
+            "translated": "Ramped Up",
+            "desc": ""
+        },
+        {
+            "hash": 51231543,
+            "original": "Scrapes Only",
+            "translated": "Scrapes Only",
+            "desc": ""
+        },
+        {
+            "hash": 92011110,
+            "original": "Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_VEH_CIN_CAM~ for a heavy right attack.",
+            "translated": "Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_VEH_CIN_CAM~ for a heavy right attack.",
+            "desc": ""
+        },
+        {
+            "hash": 105805670,
+            "original": "Triangulate",
+            "translated": "Triangulate",
+            "desc": ""
+        },
+        {
+            "hash": 110065660,
+            "original": "Down By The River",
+            "translated": "Down By The River",
+            "desc": ""
+        },
+        {
+            "hash": 153777329,
+            "original": "Down The Hatch",
+            "translated": "Down The Hatch",
+            "desc": ""
+        },
+        {
+            "hash": 184395731,
+            "original": "WAITING FOR PLAYERS TO FINISH...",
+            "translated": "WAITING FOR PLAYERS TO FINISH...",
+            "desc": ""
+        },
+        {
+            "hash": 224758025,
+            "original": "Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_FRONTEND_RT~ for a heavy right attack.",
+            "translated": "Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_FRONTEND_RT~ for a heavy right attack.",
+            "desc": ""
+        },
+        {
+            "hash": 259557838,
+            "original": "Middle Ground",
+            "translated": "Middle Ground",
+            "desc": ""
+        },
+        {
+            "hash": 467805698,
+            "original": "You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_FRONTEND_RT~ for a right attack.",
+            "translated": "You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_FRONTEND_RT~ for a right attack.",
+            "desc": ""
+        },
+        {
+            "hash": 472423093,
+            "original": "Meltdown",
+            "translated": "Meltdown",
+            "desc": ""
+        },
+        {
+            "hash": 737952469,
+            "original": "Bridging the Gap",
+            "translated": "Bridging the Gap",
+            "desc": ""
+        },
+        {
+            "hash": 770522686,
+            "original": "Blockie",
+            "translated": "Blockie",
+            "desc": ""
+        },
+        {
+            "hash": 1018618954,
+            "original": "Paradise Lost",
+            "translated": "Paradise Lost",
+            "desc": ""
+        },
+        {
+            "hash": 1242817119,
+            "original": "The race is ending soon.",
+            "translated": "The race is ending soon.",
+            "desc": ""
+        },
+        {
+            "hash": 1264613668,
+            "original": "Triple L Rocks",
+            "translated": "Triple L Rocks",
+            "desc": ""
+        },
+        {
+            "hash": 1322418337,
+            "original": "Hoon Dog",
+            "translated": "Hoon Dog",
+            "desc": ""
+        },
+        {
+            "hash": 1323892789,
+            "original": "Random",
+            "translated": "Random",
+            "desc": ""
+        },
+        {
+            "hash": 1338430603,
+            "original": "Track",
+            "translated": "Track",
+            "desc": ""
+        },
+        {
+            "hash": 1420689736,
+            "original": "You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.",
+            "translated": "You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.",
+            "desc": ""
+        },
+        {
+            "hash": 1429462914,
+            "original": "Normal",
+            "translated": "Normal",
+            "desc": ""
+        },
+        {
+            "hash": 1541149667,
+            "original": "Color",
+            "translated": "Color",
+            "desc": ""
+        },
+        {
+            "hash": 1567529092,
+            "original": "Annihilator",
+            "translated": "Annihilator",
+            "desc": ""
+        },
+        {
+            "hash": 1638442420,
+            "original": "Bayshore Run",
+            "translated": "Bayshore Run",
+            "desc": ""
+        },
+        {
+            "hash": 1674868201,
+            "original": "You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.",
+            "translated": "You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.",
+            "desc": ""
+        },
+        {
+            "hash": 1822459584,
+            "original": "Enters 1ST",
+            "translated": "Enters 1ST",
+            "desc": ""
+        },
+        {
+            "hash": 1944503668,
+            "original": "Off",
+            "translated": "Off",
+            "desc": ""
+        },
+        {
+            "hash": 2058639460,
+            "original": "Snakes & Ladders",
+            "translated": "Snakes & Ladders",
+            "desc": ""
+        },
+        {
+            "hash": 2232839311,
+            "original": "Down Under",
+            "translated": "Down Under",
+            "desc": ""
+        },
+        {
+            "hash": 2359163959,
+            "original": "Beached",
+            "translated": "Beached",
+            "desc": ""
+        },
+        {
+            "hash": 2422637508,
+            "original": "Dock Tease",
+            "translated": "Dock Tease",
+            "desc": ""
+        },
+        {
+            "hash": 2483719260,
+            "original": "Bogan's Revenge",
+            "translated": "Bogan's Revenge",
+            "desc": ""
+        },
+        {
+            "hash": 2537165167,
+            "original": "Reaper's Ride",
+            "translated": "Reaper's Ride",
+            "desc": ""
+        },
+        {
+            "hash": 2708254108,
+            "original": "Uncoupled",
+            "translated": "Uncoupled",
+            "desc": ""
+        },
+        {
+            "hash": 2710261205,
+            "original": "New Personal Best",
+            "translated": "New Personal Best",
+            "desc": ""
+        },
+        {
+            "hash": 2836051216,
+            "original": "Derailer",
+            "translated": "Derailer",
+            "desc": ""
+        },
+        {
+            "hash": 2910263057,
+            "original": "Vehicle Damage",
+            "translated": "Vehicle Damage",
+            "desc": ""
+        },
+        {
+            "hash": 3077494763,
+            "original": "Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.",
+            "translated": "Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.",
+            "desc": ""
+        },
+        {
+            "hash": 3135330489,
+            "original": "Broker Back",
+            "translated": "Broker Back",
+            "desc": ""
+        },
+        {
+            "hash": 3168073506,
+            "original": "Laps",
+            "translated": "Laps",
+            "desc": ""
+        },
+        {
+            "hash": 3363624240,
+            "original": "Weapons",
+            "translated": "Weapons",
+            "desc": ""
+        },
+        {
+            "hash": 3431922708,
+            "original": "Fluid Exchange",
+            "translated": "Fluid Exchange",
+            "desc": ""
+        },
+        {
+            "hash": 3526201616,
+            "original": "Lap Time",
+            "translated": "Lap Time",
+            "desc": ""
+        },
+        {
+            "hash": 3612217746,
+            "original": "The Lost's Highway",
+            "translated": "The Lost's Highway",
+            "desc": ""
+        },
+        {
+            "hash": 3624147666,
+            "original": "Fairground Distraction",
+            "translated": "Fairground Distraction",
+            "desc": ""
+        },
+        {
+            "hash": 3628931960,
+            "original": "Carousel",
+            "translated": "Carousel",
+            "desc": ""
+        },
+        {
+            "hash": 3699802699,
+            "original": "Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.",
+            "translated": "Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.",
+            "desc": ""
+        },
+        {
+            "hash": 3710147484,
+            "original": "Vehicle",
+            "translated": "Vehicle",
+            "desc": ""
+        },
+        {
+            "hash": 3906583677,
+            "original": "Double Parking",
+            "translated": "Double Parking",
+            "desc": ""
+        },
+        {
+            "hash": 3911497023,
+            "original": "Duke of the City",
+            "translated": "Duke of the City",
+            "desc": ""
+        },
+        {
+            "hash": 3912416579,
+            "original": "Honk Honk",
+            "translated": "Honk Honk",
+            "desc": ""
+        },
+        {
+            "hash": 3963406312,
+            "original": "You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_VEH_CIN_CAM~ for a right attack.",
+            "translated": "You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_VEH_CIN_CAM~ for a right attack.",
+            "desc": ""
+        },
+        {
+            "hash": 4039689202,
+            "original": "A Bohan Scramble",
+            "translated": "A Bohan Scramble",
+            "desc": ""
+        },
+        {
+            "hash": 4142977086,
+            "original": "In the Bricks",
+            "translated": "In the Bricks",
+            "desc": ""
+        }
+    ]
+}

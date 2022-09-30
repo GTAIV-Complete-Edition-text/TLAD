@@ -1,0 +1,178 @@
+{
+    "ELIZA_3": [
+        {
+            "hash": 32051655,
+            "original": "~s~Press ~INPUT_AIM~ to aim and ~INPUT_ATTACK~ to fire.",
+            "translated": "~s~按~INPUT_AIM~瞄准，按~INPUT_ATTACK~开火。",
+            "desc": ""
+        },
+        {
+            "hash": 80071135,
+            "original": "~s~Press ~INPUT_ATTACK~ to drop pipe bombs.",
+            "translated": "~s~按~INPUT_ATTACK~投掷土制炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 108230612,
+            "original": "~s~Get on your ~b~bike.~s~",
+            "translated": "~s~骑上你的~b~摩托。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 234436128,
+            "original": "~s~We got shit up ahead too, Johnny!",
+            "translated": "~s~前面也有麻烦，Johnny！",
+            "desc": ""
+        },
+        {
+            "hash": 253799288,
+            "original": "~s~Where the fuck is he going? Cover him!",
+            "translated": "~s~他他妈要去哪？掩护他！",
+            "desc": ""
+        },
+        {
+            "hash": 392595584,
+            "original": "~s~Fuck take these fuckers out!",
+            "translated": "~s~操，干死他们！",
+            "desc": ""
+        },
+        {
+            "hash": 442548728,
+            "original": "~s~Get these pigs off DeSean's tail Johnny!",
+            "translated": "~s~干掉DeSean后面的条子，Johnny！",
+            "desc": ""
+        },
+        {
+            "hash": 455196277,
+            "original": "~r~Your bike was wrecked.",
+            "translated": "~r~你的摩托坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 740713859,
+            "original": "~s~Fuck this! Johnny use these grenades!",
+            "translated": "~s~操蛋！Johnny，用这些手雷！",
+            "desc": ""
+        },
+        {
+            "hash": 763353181,
+            "original": "~s~Go to the ~y~deal.~s~",
+            "translated": "~s~前往~y~交易地点。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 769778677,
+            "original": "~r~You abandoned your bike.",
+            "translated": "~r~你抛弃了你的摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 800726790,
+            "original": "~s~Don't speak so soon Johnny - cops up ahead!",
+            "translated": "~s~话别说得这么绝Johnny，警察来啦！",
+            "desc": ""
+        },
+        {
+            "hash": 1469725806,
+            "original": "~s~Shit that was intense!",
+            "translated": "~s~妈的太险了！",
+            "desc": ""
+        },
+        {
+            "hash": 1809134520,
+            "original": "~s~To quickly reload release ~INPUT_AIM~ and then press it again.",
+            "translated": "~s~连按~INPUT_AIM~可以加快装弹速度。",
+            "desc": ""
+        },
+        {
+            "hash": 1841259732,
+            "original": "~s~Head for the tunnel, we need to shake this fuckin' bird!",
+            "translated": "~s~去隧道，我们得甩掉这该死的直升机！",
+            "desc": ""
+        },
+        {
+            "hash": 1961208208,
+            "original": "~s~Fuck this! Shoot out these fucking windows!",
+            "translated": "~s~妈的！射击这些该死的玻璃窗！",
+            "desc": ""
+        },
+        {
+            "hash": 2127994748,
+            "original": "~s~Johnny we got a NOOSE van dead ahead!",
+            "translated": "~s~Johnny我们前方有NOOSE的车！",
+            "desc": ""
+        },
+        {
+            "hash": 2268796582,
+            "original": "~r~DeSean is dead.",
+            "translated": "~r~DeSean死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2442904444,
+            "original": "~s~Press ~INPUT_ATTACK~ to drop grenades.",
+            "translated": "~s~按~INPUT_ATTACK~投掷手雷。",
+            "desc": ""
+        },
+        {
+            "hash": 2558409004,
+            "original": "~r~Malc is dead.",
+            "translated": "~r~Malc死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2965656130,
+            "original": "~s~Press ~INPUT_VEH_LOOK_BEHIND~ to look behind you while dropping grenades.",
+            "translated": "~s~投掷手雷时，按~INPUT_VEH_LOOK_BEHIND~观察后方。",
+            "desc": ""
+        },
+        {
+            "hash": 3110764561,
+            "original": "~s~Fuck, go go go - escort DeSean!",
+            "translated": "~s~操，快走，保护DeSean！",
+            "desc": ""
+        },
+        {
+            "hash": 3155198032,
+            "original": "~r~Malc's bike was wrecked.",
+            "translated": "~r~Malc的摩托车被摧毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3250884801,
+            "original": "~s~Shit! DeSean is taking damage.",
+            "translated": "~s~操！DeSean正在被打。",
+            "desc": ""
+        },
+        {
+            "hash": 3461489875,
+            "original": "~r~DeSean's bike was wrecked.",
+            "translated": "~r~DeSean的摩托车被摧毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3550622844,
+            "original": "~s~Johnny, we got a bird - 10 o'clock!",
+            "translated": "~s~Johnny，有架直升机，10点钟方向！",
+            "desc": ""
+        },
+        {
+            "hash": 3745988042,
+            "original": "~s~Defend ~b~DeSean~s~ from the cops.",
+            "translated": "~s~从警察手里保护~b~DeSean。",
+            "desc": ""
+        },
+        {
+            "hash": 3779776461,
+            "original": "~s~Take these pigs out already Johnny!",
+            "translated": "~s~干掉这些条子，Johnny！",
+            "desc": ""
+        },
+        {
+            "hash": 4241983206,
+            "original": "~s~Fuck roadblock!",
+            "translated": "~s~操，路障！",
+            "desc": ""
+        }
+    ]
+}

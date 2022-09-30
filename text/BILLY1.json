@@ -1,0 +1,322 @@
+{
+    "BILLY1": [
+        {
+            "hash": 17236515,
+            "original": "~r~Brian is dead.",
+            "translated": "~r~Brian死了。",
+            "desc": ""
+        },
+        {
+            "hash": 178467580,
+            "original": "Get on your ~b~bike.",
+            "translated": "骑上你的~b~摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 246923971,
+            "original": "~r~Jason is dead.",
+            "translated": "~r~Jason死了。",
+            "desc": ""
+        },
+        {
+            "hash": 391779923,
+            "original": "Johnny will need the bike to ride in convoy with the other Lost bikers.",
+            "translated": "只有骑在摩托上，Johnny才能在失落帮车队中骑行。",
+            "desc": ""
+        },
+        {
+            "hash": 474867640,
+            "original": "~s~Use ~PAD_DPAD_LEFTRIGHT~ to cycle between radio stations when in a vehicle.",
+            "translated": "~s~用~PAD_DPAD_LEFTRIGHT~可在车上切换电台。",
+            "desc": ""
+        },
+        {
+            "hash": 548399983,
+            "original": "Follow ~b~Billy~s~ back to The Lost clubhouse.",
+            "translated": "跟随~b~Billy~s~返回失落帮会所。",
+            "desc": ""
+        },
+        {
+            "hash": 613381121,
+            "original": "Wait for ~b~Billy.",
+            "translated": "等待~b~Billy。",
+            "desc": ""
+        },
+        {
+            "hash": 631223006,
+            "original": "You can use the Lost Clubhouse computer to access the Internet.",
+            "translated": "还可以使用失落帮会所的电脑上网。",
+            "desc": ""
+        },
+        {
+            "hash": 655872269,
+            "original": "Ride to The Lost ~y~clubhouse.",
+            "translated": "骑车返回失落帮~y~会所。",
+            "desc": ""
+        },
+        {
+            "hash": 892090307,
+            "original": "~r~Terry is dead.",
+            "translated": "~r~Terry死了。",
+            "desc": ""
+        },
+        {
+            "hash": 923706555,
+            "original": "~r~Clay is dead.",
+            "translated": "~r~Clay死了。",
+            "desc": ""
+        },
+        {
+            "hash": 992201676,
+            "original": "Ride to the ~y~chop shop.",
+            "translated": "骑车前往~y~废车场。",
+            "desc": ""
+        },
+        {
+            "hash": 1003806536,
+            "original": "Watch the latest shows on TV.",
+            "translated": "打开电视收看最新节目。",
+            "desc": ""
+        },
+        {
+            "hash": 1072323520,
+            "original": "Get off your bike.",
+            "translated": "下车。",
+            "desc": ""
+        },
+        {
+            "hash": 1242790853,
+            "original": "This is Johnny's Hexer. It's the only one of its kind in Liberty City.~n~A modern classic chopper with a 2032cc twin cam engine and 6 speed transmission with a final chain drive.",
+            "translated": "这是Johnny的Hexer，在自由城独一无二。它是一台现代复古摩托，搭载2032cc双凸轮发动机与六速变速箱，采用链条传动。",
+            "desc": ""
+        },
+        {
+            "hash": 1355299670,
+            "original": "You can arm wrestle with your brothers.",
+            "translated": "你可以和兄弟们掰手腕。",
+            "desc": ""
+        },
+        {
+            "hash": 1512649246,
+            "original": "~r~Your bike was wrecked.",
+            "translated": "~r~你的摩托坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 1568560322,
+            "original": "Try your luck in a hi-lo card game.",
+            "translated": "在猜大小的牌局中测人品。",
+            "desc": ""
+        },
+        {
+            "hash": 1659052543,
+            "original": "Ride back to the ~y~clubhouse.",
+            "translated": "骑车返回~y~会所。",
+            "desc": ""
+        },
+        {
+            "hash": 1770961286,
+            "original": "You are too far away from ~b~Billy.~s~ Ride closer to your group.",
+            "translated": "你离~b~Billy~s~太远了，跟上你的车队。",
+            "desc": ""
+        },
+        {
+            "hash": 1817047649,
+            "original": "This is the Lost clubhouse.",
+            "translated": "这里是失落帮会所。",
+            "desc": ""
+        },
+        {
+            "hash": 1948490434,
+            "original": "~r~Billy is dead.",
+            "translated": "~r~Billy死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2127784806,
+            "original": "~s~Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to brake or reverse if the vehicle is stopped.",
+            "translated": "按~INPUT_VEH_ACCELERATE~加速。按~INPUT_VEH_BRAKE~刹车，在车辆停止时可倒车。",
+            "desc": ""
+        },
+        {
+            "hash": 2138130848,
+            "original": "~r~Jim is dead.",
+            "translated": "~r~Jim死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2139427375,
+            "original": "Destroy all of the ~r~machines.",
+            "translated": "摧毁所有~r~机器。",
+            "desc": ""
+        },
+        {
+            "hash": 2225647615,
+            "original": "Get back on your ~b~bike.",
+            "translated": "回到你的~b~摩托~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 2258450464,
+            "original": "Enter and stay on the badge to hold the gang formation. This will increase your health and repair your bike.",
+            "translated": "在会徽内骑行以保持队形，这将增加你的生命值和护甲，修复你的摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 2334598509,
+            "original": "When leading a group of bikers, stay close to them to hear them talk.",
+            "translated": "带领车队时，接近队友才能听见他们的对话。",
+            "desc": ""
+        },
+        {
+            "hash": 2511422783,
+            "original": "Terry will deliver guns to your location.",
+            "translated": "Terry会将武器送至你的所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 2726879573,
+            "original": "Press ~INPUT_ENTER~ to enter or exit a vehicle.",
+            "translated": "按~INPUT_ENTER~上下车。",
+            "desc": ""
+        },
+        {
+            "hash": 2805784820,
+            "original": "Get back on your ~b~bike~s~ and follow Billy.",
+            "translated": "回到你的~b~摩托~s~上，跟随Billy。",
+            "desc": ""
+        },
+        {
+            "hash": 2825139427,
+            "original": "Take out the ~r~Angels of Death.",
+            "translated": "干掉~r~死亡天使成员。",
+            "desc": ""
+        },
+        {
+            "hash": 3043910054,
+            "original": "Ride to the Angels of Death ~y~hangout.",
+            "translated": "骑车前往死亡天使~y~所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 3151068777,
+            "original": "~r~A Lost bike was wrecked.",
+            "translated": "~r~失落帮有摩托被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3164143727,
+            "original": "When riding in a convoy, hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the leader.",
+            "translated": "车队骑行时，按住~INPUT_VEH_CIN_CAM~将镜头对准领队。",
+            "desc": ""
+        },
+        {
+            "hash": 3245203523,
+            "original": "Follow ~b~Billy.",
+            "translated": "跟随~b~Billy。",
+            "desc": ""
+        },
+        {
+            "hash": 3272155094,
+            "original": "You can save any vehicle in the parking place outside your safehouse.",
+            "translated": "会所外的停车位可以存放任何载具。",
+            "desc": ""
+        },
+        {
+            "hash": 3295777701,
+            "original": "~s~Use ~INPUT_VEH_NEXT_RADIO~ or ~INPUT_VEH_PREV_RADIO~ to cycle between radio stations when in a vehicle.",
+            "translated": "~s~用~INPUT_VEH_NEXT_RADIO~或~INPUT_VEH_PREV_RADIO~可在车上切换电台。",
+            "desc": ""
+        },
+        {
+            "hash": 3354862155,
+            "original": "Ride to where the machines are being ~y~unloaded.",
+            "translated": "骑车前往~y~机器卸货点。",
+            "desc": ""
+        },
+        {
+            "hash": 3395621767,
+            "original": "~r~Billy's bike was wrecked.",
+            "translated": "~r~Billy的摩托被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3436089908,
+            "original": "~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake.",
+            "translated": "~s~按~INPUT_VEH_HANDBRAKE~使用手刹。",
+            "desc": ""
+        },
+        {
+            "hash": 3469572668,
+            "original": "You have left ~b~Billy~s~ behind, go and get him.",
+            "translated": "你把~b~Billy~s~落下了，回去找他。",
+            "desc": ""
+        },
+        {
+            "hash": 3487604966,
+            "original": "When leading a group of bikers, hold ~INPUT_VEH_CIN_CAM~ to switch the camera to the group point of view.",
+            "translated": "带领车队时，按住~INPUT_VEH_CIN_CAM~切换至车队视角。",
+            "desc": ""
+        },
+        {
+            "hash": 3502488395,
+            "original": "If you lose your ride, a phone call to Clay will get you an alternative bike.",
+            "translated": "若你失去了你的座驾，给Clay打个电话就能得到备用摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 3600043101,
+            "original": "~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake. ~n~Press ~PAD_A~ for alternative handbrake (Standard controls).",
+            "translated": "~s~按~INPUT_VEH_HANDBRAKE~使用手刹。~n~按~PAD_A~也是手刹(标准键位下)。",
+            "desc": ""
+        },
+        {
+            "hash": 3638582437,
+            "original": "A Lost Motorcycle Club badge will appear behind Billy when cruising in a gang.",
+            "translated": "车队行进时，Billy车后会出现失落摩托帮的会徽。",
+            "desc": ""
+        },
+        {
+            "hash": 3654898025,
+            "original": "Get back on your ~b~bike.",
+            "translated": "回到你的~b~摩托~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 3700909688,
+            "original": "~r~Your bike was wrecked.",
+            "translated": "~r~你的摩托坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 3714380125,
+            "original": "~r~A member of The Lost is dead.",
+            "translated": "~r~失落帮有成员死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3753007400,
+            "original": "And pay your respects to fallen comrades.",
+            "translated": "亦可悼念牺牲的战友。",
+            "desc": ""
+        },
+        {
+            "hash": 3966268052,
+            "original": "Sleeping on the bed will save the game and advance time by six hours.",
+            "translated": "上床睡觉会保存游戏进度，并将时间推进6个小时。",
+            "desc": ""
+        },
+        {
+            "hash": 4077960660,
+            "original": "~r~You abandoned your bike.",
+            "translated": "~r~你抛弃了你的摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 4203220695,
+            "original": "You can hang out and take part in activities with fellow members of The Lost.",
+            "translated": "你可以与失落帮的其他成员一起出行，进行各种活动。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "MALC1": [
+        {
+            "hash": 121638796,
+            "original": "Get a bike.",
+            "translated": "找一辆摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 122428188,
+            "original": "~r~Your bike was wrecked.",
+            "translated": "~r~你的摩托坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 563661042,
+            "original": "Follow ~b~Malc.",
+            "translated": "跟随~b~Malc。",
+            "desc": ""
+        },
+        {
+            "hash": 928149577,
+            "original": "~r~The last biker got away.",
+            "translated": "~r~最后一名骑手逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 1259524451,
+            "original": "~r~You hurt Malc.",
+            "translated": "~r~你伤害了Malc。",
+            "desc": ""
+        },
+        {
+            "hash": 1276166868,
+            "original": "~r~You hurt DeSean.",
+            "translated": "~r~你伤害了DeSean。",
+            "desc": ""
+        },
+        {
+            "hash": 1651450959,
+            "original": "Follow ~b~DeSean.",
+            "translated": "跟随~b~DeSean。",
+            "desc": ""
+        },
+        {
+            "hash": 1673279773,
+            "original": "~r~You abandoned your bike.",
+            "translated": "~r~你抛弃了你的摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 2043816258,
+            "original": "~r~DeSean's bike was wrecked.",
+            "translated": "~r~DeSean的摩托被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 2238006893,
+            "original": "~r~You damaged DeSean's bike.",
+            "translated": "~r~你弄坏了DeSean的摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 2392448413,
+            "original": "Get back on your ~b~bike.",
+            "translated": "回到你的~b~摩托~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 2955462401,
+            "original": "~r~You didn't keep up with DeSean.",
+            "translated": "~r~你没跟上DeSean。",
+            "desc": ""
+        },
+        {
+            "hash": 3148349528,
+            "original": "Lose the cops.",
+            "translated": "甩掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 3160139760,
+            "original": "~r~Malc's bike was wrecked.",
+            "translated": "~r~Malc的摩托被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3192822439,
+            "original": "~r~DeSean is dead.",
+            "translated": "~r~DeSean死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3249669144,
+            "original": "~r~You didn't keep up with Malc.",
+            "translated": "~r~你没跟上Malc。",
+            "desc": ""
+        },
+        {
+            "hash": 3527371986,
+            "original": "~r~Malc is dead.",
+            "translated": "~r~Malc死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3922904720,
+            "original": "Take out the cheating ~r~bikers.",
+            "translated": "干掉耍赖的~r~骑手。",
+            "desc": ""
+        }
+    ]
+}

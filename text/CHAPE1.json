@@ -1,0 +1,634 @@
+{
+    "CHAPE1": [
+        {
+            "hash": 42939190,
+            "original": "Deliver the colors to the ~y~clubhouse.",
+            "translated": "把货物运输到 ~y~俱乐部。",
+            "desc": ""
+        },
+        {
+            "hash": 47386324,
+            "original": "delivered a car",
+            "translated": "送达了车",
+            "desc": ""
+        },
+        {
+            "hash": 74413762,
+            "original": "delivered the bike",
+            "translated": "送达了摩托车",
+            "desc": ""
+        },
+        {
+            "hash": 134490872,
+            "original": "Get back on the ~b~bike.",
+            "translated": "回到 ~b~摩托车上。",
+            "desc": ""
+        },
+        {
+            "hash": 134895566,
+            "original": "Wait here until the ~COL_NET_1~rest of the club~s~ return.",
+            "translated": "在这里等待直到 ~COL_NET_1~俱乐部的其他成员~s~ 回来。",
+            "desc": ""
+        },
+        {
+            "hash": 222703017,
+            "original": "killed the Road Captain",
+            "translated": "公路队长死了",
+            "desc": ""
+        },
+        {
+            "hash": 244494096,
+            "original": "got the bike",
+            "translated": "得到摩托车",
+            "desc": ""
+        },
+        {
+            "hash": 266250033,
+            "original": "60 mins",
+            "translated": "60分钟",
+            "desc": ""
+        },
+        {
+            "hash": 342222540,
+            "original": "Get to the ~b~cars.",
+            "translated": "前往 ~b~汽车。",
+            "desc": ""
+        },
+        {
+            "hash": 386320637,
+            "original": "Pick up the ~b~colors.",
+            "translated": "拿起 ~b~货物。",
+            "desc": ""
+        },
+        {
+            "hash": 434346863,
+            "original": "Free the ~b~old lady.",
+            "translated": "解救~b~老妇人。",
+            "desc": ""
+        },
+        {
+            "hash": 459276398,
+            "original": "~r~The Angels of Death left Lost territory.",
+            "translated": "~r~死亡天使离开了失落帮的领地",
+            "desc": ""
+        },
+        {
+            "hash": 510149700,
+            "original": "45 mins",
+            "translated": "45分钟",
+            "desc": ""
+        },
+        {
+            "hash": 528185851,
+            "original": "Drop off the transport at the ~y~projects.",
+            "translated": "在~y~计划位置停放载具。",
+            "desc": ""
+        },
+        {
+            "hash": 574915225,
+            "original": "Steal the ~b~transporter.",
+            "translated": "偷走 ~b~运输者。",
+            "desc": ""
+        },
+        {
+            "hash": 626409283,
+            "original": "You are the suspect. Stay alive until you are no longer wanted by the cops.",
+            "translated": "你是嫌疑人。保持生存直到你不被警察通缉为止。",
+            "desc": ""
+        },
+        {
+            "hash": 711928528,
+            "original": "~r~The Ride Captain was killed.",
+            "translated": "~r~骑行队长死了。",
+            "desc": ""
+        },
+        {
+            "hash": 726313282,
+            "original": "killed Murphy",
+            "translated": "Murphy死了",
+            "desc": ""
+        },
+        {
+            "hash": 746758835,
+            "original": "~r~A member of The Lost died.",
+            "translated": "~r~Lost帮的一名成员死了。",
+            "desc": ""
+        },
+        {
+            "hash": 783009023,
+            "original": "Trash the ~r~bikes.",
+            "translated": "摧毁 the ~r~摩托车。",
+            "desc": ""
+        },
+        {
+            "hash": 898766395,
+            "original": "is the Ride Captain",
+            "translated": "是骑行队长",
+            "desc": ""
+        },
+        {
+            "hash": 958200237,
+            "original": "30 mins",
+            "translated": "30分钟",
+            "desc": ""
+        },
+        {
+            "hash": 1000953110,
+            "original": "You are the Ride Captain. Stay alive until all the ~r~Angels of Death~s~ are dead.",
+            "translated": "你是骑行队长。 保持生存直到 ~r~死亡天使~s~ 的全部成员死亡.",
+            "desc": ""
+        },
+        {
+            "hash": 1013276786,
+            "original": "Take down the ~r~Road Captain.",
+            "translated": "干掉 ~r~公路队长。",
+            "desc": ""
+        },
+        {
+            "hash": 1036207412,
+            "original": "~r~A van was wrecked.",
+            "translated": "~r~一辆面包车被摧毁。",
+            "desc": ""
+        },
+        {
+            "hash": 1112982330,
+            "original": "transporting colors",
+            "translated": "运送货物中",
+            "desc": ""
+        },
+        {
+            "hash": 1335680329,
+            "original": "Steal the ~b~bikes.",
+            "translated": "偷走 ~b~摩托车。",
+            "desc": ""
+        },
+        {
+            "hash": 1366472197,
+            "original": "delivered Earl",
+            "translated": "送达 Earl",
+            "desc": ""
+        },
+        {
+            "hash": 1385530296,
+            "original": "Leave the bike ~y~here.",
+            "translated": "把摩托车放在~y~这里。",
+            "desc": ""
+        },
+        {
+            "hash": 1476867587,
+            "original": "~r~The old lady was killed.",
+            "translated": "~r~老妇人死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1479699304,
+            "original": "Deliver the bike to the ~y~clubhouse.",
+            "translated": "把摩托车送到~y~俱乐部。",
+            "desc": ""
+        },
+        {
+            "hash": 1497545212,
+            "original": "20 mins",
+            "translated": "20 分钟",
+            "desc": ""
+        },
+        {
+            "hash": 1573550500,
+            "original": "Enter the ~b~vans~s~ to rob them.",
+            "translated": "进入~b~面包车~s~ 来抢劫他们。",
+            "desc": ""
+        },
+        {
+            "hash": 1597589407,
+            "original": "delivered a bike",
+            "translated": "送达一辆摩托车",
+            "desc": ""
+        },
+        {
+            "hash": 1628533690,
+            "original": "Driving in convoy with the Ride Captain will give you health and money. The Captain will get health and money if everyone is in convoy with him.",
+            "translated": "和骑行队长一起开运输者会提高你的生命值和金钱。如果所有人都和骑行队长待在运输者里，骑行队长会得到生命值和金钱",
+            "desc": ""
+        },
+        {
+            "hash": 1678487486,
+            "original": "Pick up ~b~Earl.",
+            "translated": "接 ~b~Earl.",
+            "desc": ""
+        },
+        {
+            "hash": 1752716245,
+            "original": "Follow ~b~~e~~s~ to the clubhouse.",
+            "translated": "跟随 ~b~~e~~s~ 到达俱乐部。",
+            "desc": ""
+        },
+        {
+            "hash": 1785355339,
+            "original": "10 mins",
+            "translated": "10分钟",
+            "desc": ""
+        },
+        {
+            "hash": 1828460551,
+            "original": "Deal with the ~r~Angels of Death~s~ and protect ~b~The Lost.",
+            "translated": "对抗~r~死亡天使~s~并保护失落帮。",
+            "desc": ""
+        },
+        {
+            "hash": 1846456800,
+            "original": "Murphy is dead. Pick up his ~b~colors.",
+            "translated": "Murphy 死了。 拿走他的~b~货物。",
+            "desc": ""
+        },
+        {
+            "hash": 1907510027,
+            "original": "Deal with the ~r~Angels of Death~s~ and protect ~b~The Lost.",
+            "translated": "对付~r~死亡天使~s~ 并保护~b~失落帮。",
+            "desc": ""
+        },
+        {
+            "hash": 1961374589,
+            "original": "~r~The bike was wrecked.",
+            "translated": "~r~摩托车已经被毁。",
+            "desc": ""
+        },
+        {
+            "hash": 2055933893,
+            "original": "You need a bike for this task.",
+            "translated": "你需要一辆摩托车来进行这个任务。",
+            "desc": ""
+        },
+        {
+            "hash": 2072973832,
+            "original": "Get back in the ~b~transporter.",
+            "translated": "回到 ~b~运输者。",
+            "desc": ""
+        },
+        {
+            "hash": 2075014507,
+            "original": "Wipe out the ~r~Angels of Death~s~ before they leave Lost territory.",
+            "translated": "在~r~死亡天使~s~ 离开Lost领地之前消灭他们。",
+            "desc": ""
+        },
+        {
+            "hash": 2143425159,
+            "original": "killed Garrity",
+            "translated": "杀死了Garrity",
+            "desc": ""
+        },
+        {
+            "hash": 2145256156,
+            "original": "Follow ~b~~e~~s~ to the safehouse.",
+            "translated": "跟随 ~b~~e~~s~ 前往安全屋。",
+            "desc": ""
+        },
+        {
+            "hash": 2178648491,
+            "original": "~r~Earl died.",
+            "translated": "~r~Earl死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2183896035,
+            "original": "Stand over the colors to pick them up.",
+            "translated": "站在货物上来拾取它们。",
+            "desc": ""
+        },
+        {
+            "hash": 2184711142,
+            "original": "$5000",
+            "translated": "$5000",
+            "desc": ""
+        },
+        {
+            "hash": 2185228897,
+            "original": "delivered the transporter",
+            "translated": "送达运输者",
+            "desc": ""
+        },
+        {
+            "hash": 2249148961,
+            "original": "Steal the ~b~bike.",
+            "translated": "偷走~b~摩托车。",
+            "desc": ""
+        },
+        {
+            "hash": 2265896906,
+            "original": "~r~The colors were lost.",
+            "translated": "~r~丢失了货物。",
+            "desc": ""
+        },
+        {
+            "hash": 2291683135,
+            "original": "Destroy the ~r~vans.",
+            "translated": "摧毁 ~r~面包车。",
+            "desc": ""
+        },
+        {
+            "hash": 2351562746,
+            "original": "Protect ~b~~e~~s~ from the cops.",
+            "translated": "保护~b~~e~~s~免受警察攻击",
+            "desc": ""
+        },
+        {
+            "hash": 2366630946,
+            "original": "Wait on foot ~y~here~s~ until Angus's buddy has taken the colors.",
+            "translated": "~y~在这里~s~下车等待  until Angus's buddy has taken the colors.",
+            "desc": ""
+        },
+        {
+            "hash": 2453987503,
+            "original": "robbed a van",
+            "translated": "抢劫了一辆面包车",
+            "desc": ""
+        },
+        {
+            "hash": 2490973742,
+            "original": "Stop ~y~here~s~. Let ~b~Earl~s~ leave.",
+            "translated": "停在 ~y~这里~s~。 让 ~b~Earl~s~离开。",
+            "desc": ""
+        },
+        {
+            "hash": 2529291154,
+            "original": "Take out ~r~Murphy.",
+            "translated": "干掉~r~Murphy.",
+            "desc": ""
+        },
+        {
+            "hash": 2547254603,
+            "original": "escorting Earl",
+            "translated": "正在护送Earl",
+            "desc": ""
+        },
+        {
+            "hash": 2608368020,
+            "original": "killed an Angel of Death",
+            "translated": "杀了一名死亡天使的成员",
+            "desc": ""
+        },
+        {
+            "hash": 2622578014,
+            "original": "Go back for the ~b~old lady.",
+            "translated": "回去接 ~b~老妇人。",
+            "desc": ""
+        },
+        {
+            "hash": 2637405064,
+            "original": "BUSINESS COMPLETE",
+            "translated": "任务完成",
+            "desc": ""
+        },
+        {
+            "hash": 2655093104,
+            "original": "trashed a bike",
+            "translated": "摧毁了一辆摩托车",
+            "desc": ""
+        },
+        {
+            "hash": 2699124309,
+            "original": "The ~r~Angels of Death~s~ are going after the Ride Captain.",
+            "translated": " ~r~死亡天使~s~正在追击骑行队长。",
+            "desc": ""
+        },
+        {
+            "hash": 2764582905,
+            "original": "Take Earl to the ~y~clubhouse.",
+            "translated": "带着Earl 到达 ~y~俱乐部。",
+            "desc": ""
+        },
+        {
+            "hash": 2774618294,
+            "original": "~r~The suspect was killed.",
+            "translated": "~r~嫌疑人已被杀死。",
+            "desc": ""
+        },
+        {
+            "hash": 2790098845,
+            "original": "Deliver the car to the ~y~safehouse.",
+            "translated": "把载具运到 ~y~安全屋。",
+            "desc": ""
+        },
+        {
+            "hash": 2959877700,
+            "original": "Duration",
+            "translated": "持续时间",
+            "desc": ""
+        },
+        {
+            "hash": 2972682010,
+            "original": "Go back for ~b~Earl.",
+            "translated": "回来接 ~b~Earl。",
+            "desc": ""
+        },
+        {
+            "hash": 3023454172,
+            "original": "Protect ~b~~e~~s~ from the ~r~Angels of Death.~s~",
+            "translated": "保护 ~b~~e~~s~ 免受 ~r~死亡天使的攻击。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3032313710,
+            "original": "~r~A member of The Lost died.",
+            "translated": "~r~失落帮的一名成员死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3037220880,
+            "original": "destroyed a van",
+            "translated": "已摧毁一辆面包车",
+            "desc": ""
+        },
+        {
+            "hash": 3040370594,
+            "original": "killed an Angel of Death",
+            "translated": "杀死了一名死亡天使的成员",
+            "desc": ""
+        },
+        {
+            "hash": 3129529237,
+            "original": "Leave the transporter ~y~here.",
+            "translated": "把运输者留在 ~y~这里。",
+            "desc": ""
+        },
+        {
+            "hash": 3143837625,
+            "original": "$20000",
+            "translated": "$20000",
+            "desc": ""
+        },
+        {
+            "hash": 3157406789,
+            "original": "Failed to participate in task",
+            "translated": "参加任务失败",
+            "desc": ""
+        },
+        {
+            "hash": 3275822661,
+            "original": "~r~Angus's buddy was killed.",
+            "translated": "~r~Angus的人被杀了。",
+            "desc": ""
+        },
+        {
+            "hash": 3296008910,
+            "original": "got a car",
+            "translated": "找一辆车",
+            "desc": ""
+        },
+        {
+            "hash": 3331678829,
+            "original": "escorting the old lady",
+            "translated": "护送老妇人",
+            "desc": ""
+        },
+        {
+            "hash": 3373581084,
+            "original": "$25000",
+            "translated": "$25000",
+            "desc": ""
+        },
+        {
+            "hash": 3402243337,
+            "original": "$15000",
+            "translated": "$15000",
+            "desc": ""
+        },
+        {
+            "hash": 3443485985,
+            "original": "killed an Angel of Death",
+            "translated": "杀死了一名死亡天使的成员",
+            "desc": ""
+        },
+        {
+            "hash": 3444048433,
+            "original": "Take out ~r~Garrity.",
+            "translated": "干掉 ~r~Garrity。",
+            "desc": ""
+        },
+        {
+            "hash": 3468885001,
+            "original": "Leave the bike ~y~here.",
+            "translated": "把摩托车留在 ~y~这里。",
+            "desc": ""
+        },
+        {
+            "hash": 3513883717,
+            "original": "Task complete",
+            "translated": "任务完成",
+            "desc": ""
+        },
+        {
+            "hash": 3519427952,
+            "original": "got the transporter",
+            "translated": "拿到了运输者",
+            "desc": ""
+        },
+        {
+            "hash": 3525415463,
+            "original": "delivered the colors",
+            "translated": "送达了货物",
+            "desc": ""
+        },
+        {
+            "hash": 3583287368,
+            "original": "Return to the ~y~clubhouse.",
+            "translated": "返回 ~y~俱乐部。",
+            "desc": ""
+        },
+        {
+            "hash": 3585684199,
+            "original": "$10000",
+            "translated": "$10000",
+            "desc": ""
+        },
+        {
+            "hash": 3663338276,
+            "original": "Take the old lady to the ~y~safehouse.",
+            "translated": "把老妇人带到 ~y~安全屋。",
+            "desc": ""
+        },
+        {
+            "hash": 3680135079,
+            "original": "$50000",
+            "translated": "$50000",
+            "desc": ""
+        },
+        {
+            "hash": 3742945301,
+            "original": "got a bike",
+            "translated": "得到了一辆摩托车",
+            "desc": ""
+        },
+        {
+            "hash": 3745089570,
+            "original": "~r~A car was wrecked.",
+            "translated": "~r~一辆汽车已被摧毁。",
+            "desc": ""
+        },
+        {
+            "hash": 3818956228,
+            "original": "Leave the car ~y~here.",
+            "translated": "把车停在 ~y~这里。",
+            "desc": ""
+        },
+        {
+            "hash": 3882800722,
+            "original": "$7500",
+            "translated": "$7500",
+            "desc": ""
+        },
+        {
+            "hash": 3887227522,
+            "original": "delivered the old lady",
+            "translated": "送达了老妇人",
+            "desc": ""
+        },
+        {
+            "hash": 3911556086,
+            "original": "~r~A bike was wrecked.",
+            "translated": "~r~一辆摩托车被摧毁。",
+            "desc": ""
+        },
+        {
+            "hash": 3939313564,
+            "original": "The Angels of Death are attacking. Protect your Brothers.",
+            "translated": "死亡天使正在进攻，保护你的弟兄们。",
+            "desc": ""
+        },
+        {
+            "hash": 3971617913,
+            "original": "Deliver the bike to the ~y~clubhouse.",
+            "translated": "把摩托车运到 ~y~俱乐部。",
+            "desc": ""
+        },
+        {
+            "hash": 4150491510,
+            "original": "Task failed",
+            "translated": "任务失败",
+            "desc": ""
+        },
+        {
+            "hash": 4196102847,
+            "original": "killed an Angel of Death",
+            "translated": "杀了一名死亡天使的成员",
+            "desc": ""
+        },
+        {
+            "hash": 4203298493,
+            "original": "~r~The transporter was wrecked.",
+            "translated": "~r~运输者被摧毁",
+            "desc": ""
+        },
+        {
+            "hash": 4224541772,
+            "original": "This task will involve some members leaving their bikes for other transport - share rides on your way to the objective.",
+            "translated": "这个任务中的一些成员会放弃自己的摩托车，转乘其他载具 - 你也可以和其他成员共乘一辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 4262790046,
+            "original": "$2500",
+            "translated": "$2500",
+            "desc": ""
+        }
+    ]
+}

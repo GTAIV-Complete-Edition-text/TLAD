@@ -1,0 +1,94 @@
+{
+    "E1RC3": [
+        {
+            "hash": 189892911,
+            "original": "~r~You wrecked your bike.",
+            "translated": "~r~你弄坏了你的摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 504406500,
+            "original": "~r~Brian got away.",
+            "translated": "~r~Brian逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 1321685980,
+            "original": "~r~You abandoned Brian's faction.",
+            "translated": "~r~你丢下了Brain的团伙。",
+            "desc": ""
+        },
+        {
+            "hash": 1586982329,
+            "original": "~r~Brian's bike was wrecked.",
+            "translated": "~r~Brian的摩托坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 1652014135,
+            "original": "~r~Brian is dead.",
+            "translated": "~r~Brian死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2225890750,
+            "original": "Lose the cops.",
+            "translated": "甩掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 2322539678,
+            "original": "Get a bike.",
+            "translated": "找一辆摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 2541171062,
+            "original": "Get on your bike and chase ~r~Brian.",
+            "translated": "骑上你的摩托，追击~r~Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 3104003615,
+            "original": "Take out ~r~Brian ~s~and his ~r~faction.",
+            "translated": "干掉~r~Brian~s~和他的~r~同党。",
+            "desc": ""
+        },
+        {
+            "hash": 3167573190,
+            "original": "~r~You hurt Brian.",
+            "translated": "~r~你伤害了Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 3480572434,
+            "original": "Follow ~b~Brian.",
+            "translated": "跟随~b~Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 3628510842,
+            "original": "~r~You abandoned Brian.",
+            "translated": "~r~你丢下了Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 3919025257,
+            "original": "Get on a bike and chase ~r~Brian.",
+            "translated": "骑上一辆摩托，追击~r~Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 4070038977,
+            "original": "Get back on your ~b~bike.",
+            "translated": "回到你的~b~摩托~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 4083320019,
+            "original": "~r~You brought too much attention to the meet.",
+            "translated": "~r~就是你小子把警察引来的？",
+            "desc": ""
+        }
+    ]
+}

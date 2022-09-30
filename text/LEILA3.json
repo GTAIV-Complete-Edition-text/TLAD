@@ -1,0 +1,70 @@
+{
+    "LEILA3": [
+        {
+            "hash": 382715654,
+            "original": "Escape the airport.",
+            "translated": "逃离机场。",
+            "desc": ""
+        },
+        {
+            "hash": 1004371954,
+            "original": "Go to the ~y~car park~s~.",
+            "translated": "去~y~停车场~s~。",
+            "desc": ""
+        },
+        {
+            "hash": 1145420864,
+            "original": "Don't leave the ~b~courier~s~ behind.",
+            "translated": "不要把~b~线人~s~落在后面。",
+            "desc": ""
+        },
+        {
+            "hash": 1397957554,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 1559675848,
+            "original": "You let the van get to the security compound.",
+            "translated": "把厢型车开到安全区域。",
+            "desc": ""
+        },
+        {
+            "hash": 2491920709,
+            "original": "Take the courier to the ~y~safehouse~s~.",
+            "translated": "带线人去~y~安全屋~s~。",
+            "desc": ""
+        },
+        {
+            "hash": 2806339264,
+            "original": "Leave the van for the Angels of Death to deal with.",
+            "translated": "把厢型车留给Angels of Death处理。",
+            "desc": ""
+        },
+        {
+            "hash": 2909158430,
+            "original": "Get in the ~b~police van~s~.",
+            "translated": "进入~b~警用厢型车~s~。",
+            "desc": ""
+        },
+        {
+            "hash": 3439764034,
+            "original": "The ~r~police van~s~ is leaving for the security compound. Hurry.",
+            "translated": "~r~警用厢型车~s~正在从安全区域离开。快点。",
+            "desc": ""
+        },
+        {
+            "hash": 3747694327,
+            "original": "Hijack the ~r~police van~s~.",
+            "translated": "劫持~r~警用厢型车~s~。",
+            "desc": ""
+        },
+        {
+            "hash": 3953287453,
+            "original": "The drug courier is dead.",
+            "translated": "毒贩的线人死了。",
+            "desc": ""
+        }
+    ]
+}

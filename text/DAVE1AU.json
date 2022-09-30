@@ -1,0 +1,676 @@
+{
+    "DAVE1AU": [
+        {
+            "hash": 54509634,
+            "original": "~z~Put the brakes on your case against Dave Grossman or you'll be one good fucking lawyer, dude.",
+            "translated": "~z~停止你对Dave Grossman的诉讼，否则我把你变成好律师，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 99703622,
+            "original": "SFX_PAUSE_340",
+            "translated": "SFX_PAUSE_340",
+            "desc": ""
+        },
+        {
+            "hash": 110464058,
+            "original": "~z~Bad vibes, dude. Bad fucking vibes.",
+            "translated": "~z~难受啊，伙计。太他妈难受了。",
+            "desc": ""
+        },
+        {
+            "hash": 112148372,
+            "original": "~z~What's wrong, don't you wanna talk?",
+            "translated": "~z~怎么了，不想聊聊吗？",
+            "desc": ""
+        },
+        {
+            "hash": 173655785,
+            "original": "~z~What's up with this guy?",
+            "translated": "~z~这人怎么回事？",
+            "desc": ""
+        },
+        {
+            "hash": 264006827,
+            "original": "~z~I can tell a brake pad from a cam shaft, man.",
+            "translated": "~z~我还是能分清刹车片和凸轮轴的，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 306130380,
+            "original": "~z~Where do you get off?",
+            "translated": "~z~你从哪逃出来的？",
+            "desc": ""
+        },
+        {
+            "hash": 311805264,
+            "original": "~z~Davey boy. I got good news, and I got bad news. The good news is the lawyer ain't gonna cause you anymore trouble.",
+            "translated": "~z~Davey仔。我有一个好消息和一个坏消息。好消息是那个律师不会给你添麻烦了。",
+            "desc": ""
+        },
+        {
+            "hash": 400076588,
+            "original": "~z~Guess you're going to have to go toe to toe at court.",
+            "translated": "~z~看来你得和他在法庭上针锋相对了。",
+            "desc": ""
+        },
+        {
+            "hash": 412726514,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 414802856,
+            "original": "~z~Come on, man.",
+            "translated": "~z~拜托，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 474489504,
+            "original": "~z~Officer, can you keep this man the hell away from me? And get his details while you're at it. I'll need them in court.",
+            "translated": "~z~警官，你能让他离我远点吗？趁你还在赶紧查清他的情况。到时候法庭见。",
+            "desc": ""
+        },
+        {
+            "hash": 535087383,
+            "original": "~z~Hey, hey, what in the name of...",
+            "translated": "~z~喂，喂，你他妈这是...",
+            "desc": ""
+        },
+        {
+            "hash": 562084972,
+            "original": "~z~I'm a friend of Billy's. We met at the club house.",
+            "translated": "~z~我是Billy的朋友。我们在会所见过。",
+            "desc": ""
+        },
+        {
+            "hash": 637428029,
+            "original": "DAVE1_EB",
+            "translated": "DAVE1_EB",
+            "desc": ""
+        },
+        {
+            "hash": 715540591,
+            "original": "DAVE1_FB",
+            "translated": "DAVE1_FB",
+            "desc": ""
+        },
+        {
+            "hash": 725880906,
+            "original": "~z~Okay, I know when I'm beat. Okay. Chill out will you?",
+            "translated": "~z~好的，人贵有自知之明，好吧。你就放过我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 745874976,
+            "original": "~z~Give up your flirtations with the outlaw life. You don't know anything about what we do.",
+            "translated": "~z~别再装作法外狂徒过家家了。你根本就不了解我们。",
+            "desc": ""
+        },
+        {
+            "hash": 747794873,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 798447769,
+            "original": "~z~Dave. Dave Grossman.",
+            "translated": "~z~Dave。Dave Grossman。",
+            "desc": ""
+        },
+        {
+            "hash": 808159395,
+            "original": "~z~She's a fucking moron. But my wife, is not a kind woman.",
+            "translated": "~z~她就是一白痴。但我老婆，可不是什么善茬。",
+            "desc": ""
+        },
+        {
+            "hash": 870449827,
+            "original": "100090010090010090100",
+            "translated": "100090010090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 871555106,
+            "original": "SFX_PAUSE_520",
+            "translated": "SFX_PAUSE_520",
+            "desc": ""
+        },
+        {
+            "hash": 899409058,
+            "original": "~z~Well hey, I haven't seen him for a long time.",
+            "translated": "~z~我说，我很久没去找他了。",
+            "desc": ""
+        },
+        {
+            "hash": 904236039,
+            "original": "~z~Bad news is he's dead and they might just hire another one.",
+            "translated": "~z~坏消息是他死了，对方估计会找新律师。",
+            "desc": ""
+        },
+        {
+            "hash": 959452906,
+            "original": "100090010090100090010090100",
+            "translated": "100090010090100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 965518670,
+            "original": "~z~Hey! Hey! Mr. Lawyer man.",
+            "translated": "~z~喂！喂！大律师先生。",
+            "desc": ""
+        },
+        {
+            "hash": 1015540238,
+            "original": "DAVE1_FC",
+            "translated": "DAVE1_FC",
+            "desc": ""
+        },
+        {
+            "hash": 1126772382,
+            "original": "~z~She'll get one whiff of this, one whiff and she'll rip my life to shreds.",
+            "translated": "~z~早晚会被她知道，她一知道我这辈子就毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 1152946878,
+            "original": "~z~You're gonna be sued blind, buddy.",
+            "translated": "~z~看我不告死你，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 1188638250,
+            "original": "DAVE1_EA",
+            "translated": "DAVE1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1224935360,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 1313435433,
+            "original": "DAVE1_DD",
+            "translated": "DAVE1_DD",
+            "desc": ""
+        },
+        {
+            "hash": 1313520338,
+            "original": "DAVE1_GA",
+            "translated": "DAVE1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 1396472659,
+            "original": "DAVE1_DA",
+            "translated": "DAVE1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1469651265,
+            "original": "~z~Get this guy's details, officer. I'm going to sue him for whatever he's worth.",
+            "translated": "~z~查清楚这家伙，警官。无论如何我都要告他。",
+            "desc": ""
+        },
+        {
+            "hash": 1517469234,
+            "original": "~z~I'm going to litigate the shit out of you.",
+            "translated": "~z~我把你告到家破人亡。",
+            "desc": ""
+        },
+        {
+            "hash": 1564503221,
+            "original": "~z~Hold up, asshole.",
+            "translated": "~z~停车，混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 1570272990,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1580948087,
+            "original": "~z~There's more to being one of us than writing checks and polishing chrome. Adios.",
+            "translated": "~z~失落帮成员的生活不止是开支票和擦摩托。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 1595948474,
+            "original": "~z~Dave Grossman speaking",
+            "translated": "~z~我是Dave Grossman。",
+            "desc": ""
+        },
+        {
+            "hash": 1863445034,
+            "original": "DAVE1_AA",
+            "translated": "DAVE1_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1949349270,
+            "original": "~z~You couldn't tell your oil bag from your nut sack.",
+            "translated": "~z~你懂个鸡巴摩托车。",
+            "desc": ""
+        },
+        {
+            "hash": 1961007580,
+            "original": "~z~Mercifully not.",
+            "translated": "~z~很难想象。",
+            "desc": ""
+        },
+        {
+            "hash": 2026147172,
+            "original": "DAVE1_EC",
+            "translated": "DAVE1_EC",
+            "desc": ""
+        },
+        {
+            "hash": 2061243328,
+            "original": "~z~Come on Johnny.",
+            "translated": "~z~别这样，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 2093108022,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 2111763751,
+            "original": "~z~Who are you?",
+            "translated": "~z~你哪位？",
+            "desc": ""
+        },
+        {
+            "hash": 2118118517,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 2123375979,
+            "original": "~z~That's unlucky, man.",
+            "translated": "~z~真倒霉，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2144205443,
+            "original": "012",
+            "translated": "012",
+            "desc": ""
+        },
+        {
+            "hash": 2165523874,
+            "original": "DAVE1_GC",
+            "translated": "DAVE1_GC",
+            "desc": ""
+        },
+        {
+            "hash": 2198447694,
+            "original": "~z~Grossman here.",
+            "translated": "~z~我是Grossman。",
+            "desc": ""
+        },
+        {
+            "hash": 2219294287,
+            "original": "DAVE1_GE",
+            "translated": "DAVE1_GE",
+            "desc": ""
+        },
+        {
+            "hash": 2257927489,
+            "original": "~z~Can you imagine what that feels like?",
+            "translated": "~z~你能想象这种感觉吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2315508451,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 2321743572,
+            "original": "~z~Hey, hey, cop. Can you take this man into custody? He's caused me physical and emotional harm.",
+            "translated": "~z~喂，喂，警察。你能把他抓起来吗？他对我的精神和肉体都造成了损伤。",
+            "desc": ""
+        },
+        {
+            "hash": 2338775411,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 2362491372,
+            "original": "~z~Look, it would break my daughter's heart.",
+            "translated": "~z~听着，我女儿会很伤心的。",
+            "desc": ""
+        },
+        {
+            "hash": 2379062602,
+            "original": "DAVE1_ED",
+            "translated": "DAVE1_ED",
+            "desc": ""
+        },
+        {
+            "hash": 2424505743,
+            "original": "DAVE1_FD",
+            "translated": "DAVE1_FD",
+            "desc": ""
+        },
+        {
+            "hash": 2430515236,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 2466139683,
+            "original": "~z~Take anything, man. I'm, I'm fucking desperate!",
+            "translated": "~z~要啥给啥，小子。我现在真急了！",
+            "desc": ""
+        },
+        {
+            "hash": 2474530603,
+            "original": "~z~I'm a lawyer and I'm getting ass-raped by the law.",
+            "translated": "~z~我就是律师，但我被法律干了。",
+            "desc": ""
+        },
+        {
+            "hash": 2493541852,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 2540292534,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 2541215494,
+            "original": "~z~Just make him get her to back down, man.",
+            "translated": "~z~让律师劝她撤诉，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2548464901,
+            "original": "~z~David, you don't have a legal problem any more, but can you do me a favor?",
+            "translated": "~z~David，你的法律问题解决了，但你能帮我个忙吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2553999805,
+            "original": "DAVE1_GD",
+            "translated": "DAVE1_GD",
+            "desc": ""
+        },
+        {
+            "hash": 2607484099,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 2659989125,
+            "original": "~z~Oh look I'm desperate, man.",
+            "translated": "~z~真的，我很着急，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2671860258,
+            "original": "DAVE1_GB",
+            "translated": "DAVE1_GB",
+            "desc": ""
+        },
+        {
+            "hash": 2706036354,
+            "original": "100090010090010090100090010090100090010",
+            "translated": "100090010090010090100090010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2717051952,
+            "original": "~z~She's saying that I looked at her tits, and because I did that, I suppressed her.",
+            "translated": "~z~秘书说，我盯着她的奶子看，这种行为是对她的压迫。",
+            "desc": ""
+        },
+        {
+            "hash": 2800336792,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 2829910404,
+            "original": "~z~Look, all I need from you is to intimidate her lawyer.",
+            "translated": "~z~要你做的事很简单，威胁她的律师。",
+            "desc": ""
+        },
+        {
+            "hash": 2849517279,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 2959063028,
+            "original": "DAVE1_DB",
+            "translated": "DAVE1_DB",
+            "desc": ""
+        },
+        {
+            "hash": 2977033660,
+            "original": "DAVE1_HA",
+            "translated": "DAVE1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2994605362,
+            "original": "~z~-I'm dying here.~n~-Why's that?",
+            "translated": "~z~－都快急死了。~n~－怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 2994765692,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 3019174201,
+            "original": "~z~You just paid my daughter's college fees, amigo.",
+            "translated": "~z~这下我女儿的学费有了，大兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3033317438,
+            "original": "~z~Johnny.",
+            "translated": "~z~Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 3041474510,
+            "original": "~z~You've got Grossman here.",
+            "translated": "~z~我是 Grossman。",
+            "desc": ""
+        },
+        {
+            "hash": 3128847951,
+            "original": "DAVE1_GG",
+            "translated": "DAVE1_GG",
+            "desc": ""
+        },
+        {
+            "hash": 3155306574,
+            "original": "~z~And you're going to pay me for it?",
+            "translated": "~z~还会给我一笔报酬？",
+            "desc": ""
+        },
+        {
+            "hash": 3199809334,
+            "original": "~z~You better have a good lawyer, pal.",
+            "translated": "~z~你最好找一个好律师，朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 3277160471,
+            "original": "~z~Friend of Billy's, huh? Well good luck with that.",
+            "translated": "~z~Billy的朋友啊？祝你好运。",
+            "desc": ""
+        },
+        {
+            "hash": 3278623692,
+            "original": "DAVE1_DE",
+            "translated": "DAVE1_DE",
+            "desc": ""
+        },
+        {
+            "hash": 3293327566,
+            "original": "~z~I'm being blackmailed by my secretary.",
+            "translated": "~z~我被自己的秘书勒索了。",
+            "desc": ""
+        },
+        {
+            "hash": 3427186867,
+            "original": "~z~Oh dude, I'm finished. Fuck me, man.",
+            "translated": "~z~噢伙计，我完蛋了。操他妈的，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 3461926107,
+            "original": "~z~So you want me go put the fear of the Lord in a lawyer?",
+            "translated": "~z~所以你想让我去跟那个律师好好聊聊？",
+            "desc": ""
+        },
+        {
+            "hash": 3507001782,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3563987528,
+            "original": "~z~What? What am I, the mid life crisis association?",
+            "translated": "~z~啥？我像是中年危机协会吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3608860267,
+            "original": "~z~She's saying I touched her and I didn't do anything.",
+            "translated": "~z~她说我吃她豆腐，但我啥都没干啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3675779059,
+            "original": "~z~Yeah? Well, in my books, the only good lawyer is a dead one.",
+            "translated": "~z~是吗？在我看来，死了的律师才是好律师。",
+            "desc": ""
+        },
+        {
+            "hash": 3782669079,
+            "original": "~z~Ah, solid man.",
+            "translated": "~z~确实啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3800594243,
+            "original": "~z~You scared, professor?",
+            "translated": "~z~你怕了，教授？",
+            "desc": ""
+        },
+        {
+            "hash": 3835976087,
+            "original": "DAVE1_BA",
+            "translated": "DAVE1_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3855542308,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 3865872028,
+            "original": "~z~Uhhh.... Okay?",
+            "translated": "~z~呃...好？",
+            "desc": ""
+        },
+        {
+            "hash": 3890235692,
+            "original": "~z~But hey hold on man, I need a favor.",
+            "translated": "~z~哥们别急着走，我需要帮助。",
+            "desc": ""
+        },
+        {
+            "hash": 3902404969,
+            "original": "~z~She'll ruin my life, and I didn't do anything.",
+            "translated": "~z~我什么都没做，她就要毁掉我的一生了。",
+            "desc": ""
+        },
+        {
+            "hash": 3903115461,
+            "original": "~z~Davey, man. I couldn't have that conversation with your opposing council.",
+            "translated": "~z~Davey，兄弟。我没能和你的律师对手聊上几句。",
+            "desc": ""
+        },
+        {
+            "hash": 3935645234,
+            "original": "DAVE1_FA",
+            "translated": "DAVE1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 3956509044,
+            "original": "DAVE1_CA",
+            "translated": "DAVE1_CA",
+            "desc": ""
+        },
+        {
+            "hash": 4089747378,
+            "original": "~z~Shit, Dave, why didn't you say so in the first place?",
+            "translated": "~z~妈的，Dave，你早这么说不就好了。",
+            "desc": ""
+        },
+        {
+            "hash": 4174768919,
+            "original": "~z~Take my watch, take my Fleeca.",
+            "translated": "~z~手表给你，银行卡给你。",
+            "desc": ""
+        },
+        {
+            "hash": 4222681264,
+            "original": "~z~Is there a witness? Is anyone seeing this?",
+            "translated": "~z~有目击者吗？有人看到了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4223903116,
+            "original": "100090010090010090100",
+            "translated": "100090010090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 4241413607,
+            "original": "DAVE1_GF",
+            "translated": "DAVE1_GF",
+            "desc": ""
+        },
+        {
+            "hash": 4290367415,
+            "original": "DAVE1_DC",
+            "translated": "DAVE1_DC",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "ELIZA_2": [
+        {
+            "hash": 149078631,
+            "original": "Clear the area of ~r~cops~s~ so you can get Marta out safely.",
+            "translated": "解决附近的~r~警察~s~以带Marta安全离开。",
+            "desc": ""
+        },
+        {
+            "hash": 210029027,
+            "original": "Take the drug mule to ~y~Elizabeta.~s~",
+            "translated": "带毒骡去~y~Elizabeta家。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 450029183,
+            "original": "~r~You have lost the drug mule.~s~",
+            "translated": "~r~你失去了毒骡。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 455370474,
+            "original": "~s~You have picked up Marta. Lose the cops.~s~",
+            "translated": "~s~你接到了Marta。甩掉条子。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2260779183,
+            "original": "During this police chase, when you are in any vehicle hold ~INPUT_VEH_CIN_CAM~ to change the camera to show the helicopter view.",
+            "translated": "此次警察追捕中，你可以在载具内按住~INPUT_VEH_CIN_CAM~切换至为直升机的视角。",
+            "desc": ""
+        },
+        {
+            "hash": 2763062415,
+            "original": "Lose the police chopper.",
+            "translated": "甩掉警方直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 2769812183,
+            "original": "Lose the cops.",
+            "translated": "甩掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 3066404402,
+            "original": "You are too far away from ~b~Marta.~s~ Go back and pick her up.",
+            "translated": "你离~b~Marta~s~太远了。~s~回去接她。",
+            "desc": ""
+        },
+        {
+            "hash": 3120998202,
+            "original": "~r~Marta has been arrested.~s~",
+            "translated": "~r~Marta被捕了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3544405805,
+            "original": "Go to the ~y~airport~s~ and pick up the drug mule.",
+            "translated": "去~y~机场~s~接毒骡。",
+            "desc": ""
+        },
+        {
+            "hash": 3980069656,
+            "original": "~s~Go get ~b~Marta.~s~",
+            "translated": "~s~去找~b~Marta。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3989900412,
+            "original": "~r~The drug mule is dead.~s~",
+            "translated": "~r~毒骡死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4287344625,
+            "original": "Wait for for Marta.",
+            "translated": "等待Marta。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,1048 @@
+{
+    "RACESAU": [
+        {
+            "hash": 98863239,
+            "original": "~z~OK, we're gonna race Algonquin.",
+            "translated": "~z~好了，我们去Algonquin比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 138677095,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 200342814,
+            "original": "~z~You need to get to Acter Industrial.",
+            "translated": "~z~你要去Acter工业园。",
+            "desc": ""
+        },
+        {
+            "hash": 203575906,
+            "original": "~z~Right, the race is in Holland.",
+            "translated": "~z~嗯，比赛在Holland。",
+            "desc": ""
+        },
+        {
+            "hash": 223203819,
+            "original": "E1FCT3_ACT_ARRIVE_RACE_ALGA",
+            "translated": "E1FCT3_ACT_ARRIVE_RACE_ALGA",
+            "desc": ""
+        },
+        {
+            "hash": 238966179,
+            "original": "E1FCC3_ACT_MEET_AT_ACTIVITY_LATEA",
+            "translated": "E1FCC3_ACT_MEET_AT_ACTIVITY_LATEA",
+            "desc": ""
+        },
+        {
+            "hash": 246026072,
+            "original": "~z~We're racing in Alderney City.",
+            "translated": "~z~我们要在Alderney市竞速。",
+            "desc": ""
+        },
+        {
+            "hash": 246462162,
+            "original": "~z~Those hipsters better beware. We got a race in Broker.",
+            "translated": "~z~嬉皮士最好注意点，我们要在Broker开赛。",
+            "desc": ""
+        },
+        {
+            "hash": 261642800,
+            "original": "E1FCT3_ACT_ARRIVE_RACE_ALDA",
+            "translated": "E1FCT3_ACT_ARRIVE_RACE_ALDA",
+            "desc": ""
+        },
+        {
+            "hash": 351427879,
+            "original": "~z~OK, we're gonna race Dukes.",
+            "translated": "~z~好，我们要去Dukes比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 358053399,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 435056122,
+            "original": "~z~We're racing in Holland.",
+            "translated": "~z~我们去Holland比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 439437115,
+            "original": "~z~OK, the race is gonna be at Francis International Airport.",
+            "translated": "~z~好，比赛在Francis国际机场。",
+            "desc": ""
+        },
+        {
+            "hash": 488221751,
+            "original": "~z~The race is in Alderney City.",
+            "translated": "~z~比赛在Alderney市。",
+            "desc": ""
+        },
+        {
+            "hash": 489968601,
+            "original": "~z~Broker is where it's at.",
+            "translated": "~z~Broker就是我们的赛道。",
+            "desc": ""
+        },
+        {
+            "hash": 492936865,
+            "original": "~z~We're racing from Middle Park.",
+            "translated": "~z~我们要去中心公园的起点。",
+            "desc": ""
+        },
+        {
+            "hash": 515323209,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 528595052,
+            "original": "~z~I think this thing's in the south of Broker.",
+            "translated": "~z~这次比赛应该在Broker南部。",
+            "desc": ""
+        },
+        {
+            "hash": 559168881,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 568092402,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 590116569,
+            "original": "~z~We're racing in Westdyke, brother.",
+            "translated": "~z~我们要去Westdyke赛车，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 592398629,
+            "original": "~z~The race starts in Acter Industrial.",
+            "translated": "~z~比赛起点在Acter工业园。",
+            "desc": ""
+        },
+        {
+            "hash": 604331070,
+            "original": "~z~The race is happening in Castle Gardens.",
+            "translated": "~z~比赛地点是Castle Gardens。",
+            "desc": ""
+        },
+        {
+            "hash": 647396248,
+            "original": "~z~For fuck sake, Johnny. What kept you? Are you ready to race or what?",
+            "translated": "~z~他妈的，Johnny。干啥去了？你准备好了没？",
+            "desc": ""
+        },
+        {
+            "hash": 679586975,
+            "original": "E1FCT3_ACT_ARRIVE_RACE_ALG_CA",
+            "translated": "E1FCT3_ACT_ARRIVE_RACE_ALG_CA",
+            "desc": ""
+        },
+        {
+            "hash": 683687874,
+            "original": "~z~Why thank you for finally gracing us with your presence, Johnny.",
+            "translated": "~z~您老总算是大驾光临了啊，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 684861102,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 728535554,
+            "original": "E1FCC3_ACT_ARRIVE_RACE_BRK_SA",
+            "translated": "E1FCC3_ACT_ARRIVE_RACE_BRK_SA",
+            "desc": ""
+        },
+        {
+            "hash": 737950771,
+            "original": "E1FCC3_ACT_ARRIVE_RACE_ALG_FA",
+            "translated": "E1FCC3_ACT_ARRIVE_RACE_ALG_FA",
+            "desc": ""
+        },
+        {
+            "hash": 766275121,
+            "original": "~z~We're gonna race at Francis International Airport.",
+            "translated": "~z~我们要在Francis国际机场比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 779799075,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 801697255,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 821035203,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 825905334,
+            "original": "~z~Shit, I thought you must be knee deep in pussy or something, man. Where you been.",
+            "translated": "~z~妈的，我还以为你找娘们去了。干啥去了？",
+            "desc": ""
+        },
+        {
+            "hash": 837153849,
+            "original": "~z~This thing kicks off in Tudor.",
+            "translated": "~z~比赛将在Tudor开始。",
+            "desc": ""
+        },
+        {
+            "hash": 839940689,
+            "original": "~z~The race starts in Alderney City.",
+            "translated": "~z~比赛在Alderney市开始。",
+            "desc": ""
+        },
+        {
+            "hash": 860093710,
+            "original": "~z~Hammer down, John boy. Lost MC! Whooo yeah!",
+            "translated": "~z~拧紧油门，阿强。失落帮！呜耶！",
+            "desc": ""
+        },
+        {
+            "hash": 888030499,
+            "original": "~z~Right brother. Let's have ourselves a race.",
+            "translated": "~z~好的兄弟，我们开赛吧。",
+            "desc": ""
+        },
+        {
+            "hash": 930357291,
+            "original": "~z~OK, man. The race is in Alderney.",
+            "translated": "~z~好了，老哥。比赛在Alderney。",
+            "desc": ""
+        },
+        {
+            "hash": 934681654,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 936975901,
+            "original": "~z~I'd almost given up on you, man. Come on, we've got some racing to do.",
+            "translated": "~z~我都没指望你来了，哥们。快点，还有比赛要比。",
+            "desc": ""
+        },
+        {
+            "hash": 956260938,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 973702959,
+            "original": "E1FCT3_ACT_ARRIVE_RACE_ALD_TA",
+            "translated": "E1FCT3_ACT_ARRIVE_RACE_ALD_TA",
+            "desc": ""
+        },
+        {
+            "hash": 974911198,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1028406030,
+            "original": "E1FCC3_ACT_ARRIVE_RACE_BRKA",
+            "translated": "E1FCC3_ACT_ARRIVE_RACE_BRKA",
+            "desc": ""
+        },
+        {
+            "hash": 1037673439,
+            "original": "~z~Plan is to dice it through the streets of Bohan.",
+            "translated": "~z~我们要从Bohan的大街疾驰而过。",
+            "desc": ""
+        },
+        {
+            "hash": 1066288414,
+            "original": "E1FCC3_ACT_ARRIVE_RACE_BOHA",
+            "translated": "E1FCC3_ACT_ARRIVE_RACE_BOHA",
+            "desc": ""
+        },
+        {
+            "hash": 1135836693,
+            "original": "E1FCC3_ACT_ARRIVE_RACE_ALD_WA",
+            "translated": "E1FCC3_ACT_ARRIVE_RACE_ALD_WA",
+            "desc": ""
+        },
+        {
+            "hash": 1146416580,
+            "original": "E1FCC3_ACT_ARRIVE_RACE_ALGA",
+            "translated": "E1FCC3_ACT_ARRIVE_RACE_ALGA",
+            "desc": ""
+        },
+        {
+            "hash": 1208904352,
+            "original": "E1FCT3_ACT_ARRIVE_RACE_ALG_FA",
+            "translated": "E1FCT3_ACT_ARRIVE_RACE_ALG_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1243282484,
+            "original": "E1FCC3_ACT_ARRIVE_RACE_ALG_CA",
+            "translated": "E1FCC3_ACT_ARRIVE_RACE_ALG_CA",
+            "desc": ""
+        },
+        {
+            "hash": 1304317119,
+            "original": "~z~The race is all set up in Alderney.",
+            "translated": "~z~准备好在Alderney比赛吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1310144037,
+            "original": "~z~We're racing in Broker.",
+            "translated": "~z~我们要在Broker飙车。",
+            "desc": ""
+        },
+        {
+            "hash": 1328708011,
+            "original": "~z~OK Johnny. I hope you're ready for a race.",
+            "translated": "~z~好了，Johnny。希望你已经准备好了。",
+            "desc": ""
+        },
+        {
+            "hash": 1345757939,
+            "original": "~z~The start line's in Acter Industrial.",
+            "translated": "~z~起跑线在Acter工业园。",
+            "desc": ""
+        },
+        {
+            "hash": 1376852051,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1421490834,
+            "original": "~z~Slow to the start of this race, you'll be slow to the finish too. Let's go.",
+            "translated": "~z~来比赛磨磨蹭蹭，你一会儿也是吊车尾。开始吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1455244346,
+            "original": "~z~Right man. We're racing in Tudor.",
+            "translated": "~z~好了兄弟，我们去Tudor比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 1472310739,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1530712176,
+            "original": "~z~The race is in Broker.",
+            "translated": "~z~比赛在Broker。",
+            "desc": ""
+        },
+        {
+            "hash": 1553130691,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1555867844,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1574082283,
+            "original": "~z~OK, let's race, man.",
+            "translated": "~z~好了，开赛吧老哥。",
+            "desc": ""
+        },
+        {
+            "hash": 1621866898,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1636366328,
+            "original": "E1FCT3_ACT_ARRIVE_RACE_DUKA",
+            "translated": "E1FCT3_ACT_ARRIVE_RACE_DUKA",
+            "desc": ""
+        },
+        {
+            "hash": 1637927596,
+            "original": "~z~The race is gonna kick off in Westdyke.",
+            "translated": "~z~一会儿比赛在Westdyke开始。",
+            "desc": ""
+        },
+        {
+            "hash": 1643436651,
+            "original": "E1FCT3_ACT_ARRIVE_RACE_BRK_SA",
+            "translated": "E1FCT3_ACT_ARRIVE_RACE_BRK_SA",
+            "desc": ""
+        },
+        {
+            "hash": 1644873424,
+            "original": "E1FCC3_ACT_ARRIVE_BIKE_LATE_RACEA",
+            "translated": "E1FCC3_ACT_ARRIVE_BIKE_LATE_RACEA",
+            "desc": ""
+        },
+        {
+            "hash": 1649616872,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1677602107,
+            "original": "~z~The race starts in Acter Industrial.",
+            "translated": "~z~比赛的起点在Acter工业园。",
+            "desc": ""
+        },
+        {
+            "hash": 1693215114,
+            "original": "E1FCT3_ACT_ARRIVE_RACE_BRKA",
+            "translated": "E1FCT3_ACT_ARRIVE_RACE_BRKA",
+            "desc": ""
+        },
+        {
+            "hash": 1697665070,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1702093223,
+            "original": "~z~Ok, the race is in Tudor.",
+            "translated": "~z~好了，比赛在Tudor。",
+            "desc": ""
+        },
+        {
+            "hash": 1719524889,
+            "original": "~z~How kind of you to join us, Jonathan. Let's get this shit started.",
+            "translated": "~z~您可算是来了啊，Jonathan。快他妈开始吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1721951406,
+            "original": "E1FCC3_ACT_MEET_AT_ACTIVITY_NOT_LATEA",
+            "translated": "E1FCC3_ACT_MEET_AT_ACTIVITY_NOT_LATEA",
+            "desc": ""
+        },
+        {
+            "hash": 1766471419,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1771457409,
+            "original": "~z~Nice bat, man. I'll try not to smack you in the face with it. Ha ha.",
+            "translated": "~z~棍子不错兄弟，一会儿我尽量不朝你脸上打。哈哈。",
+            "desc": ""
+        },
+        {
+            "hash": 1773989232,
+            "original": "~z~The race starts in Broker.",
+            "translated": "~z~比赛在Broker开始。",
+            "desc": ""
+        },
+        {
+            "hash": 1776701577,
+            "original": "~z~We're racing in Algonquin.",
+            "translated": "~z~我们要在Algonquin赛车。",
+            "desc": ""
+        },
+        {
+            "hash": 1794762899,
+            "original": "~z~We're gonna race in South Broker.",
+            "translated": "~z~我们要在South Broker赛车。",
+            "desc": ""
+        },
+        {
+            "hash": 1818235127,
+            "original": "~z~The race is throwing down in Dukes.",
+            "translated": "~z~这场比赛的赛道在Dukes。",
+            "desc": ""
+        },
+        {
+            "hash": 1833812228,
+            "original": "~z~We're racing in Alderney.",
+            "translated": "~z~我们要在Alderney赛车。",
+            "desc": ""
+        },
+        {
+            "hash": 1853231161,
+            "original": "~z~The race starts in Dukes.",
+            "translated": "~z~比赛在Dukes开始。",
+            "desc": ""
+        },
+        {
+            "hash": 1877359858,
+            "original": "E1FCC3_ACT_ARRIVE_RACE_ALG_HA",
+            "translated": "E1FCC3_ACT_ARRIVE_RACE_ALG_HA",
+            "desc": ""
+        },
+        {
+            "hash": 1902780595,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1935896113,
+            "original": "~z~The starting grid is in Westdyke.",
+            "translated": "~z~起跑线在Westdyke。",
+            "desc": ""
+        },
+        {
+            "hash": 2001504268,
+            "original": "~z~We're opening up in Broker.",
+            "translated": "~z~我们的起点在Broker。",
+            "desc": ""
+        },
+        {
+            "hash": 2007354705,
+            "original": "E1FCC3_ACT_ARRIVE_RACE_ALD_IA",
+            "translated": "E1FCC3_ACT_ARRIVE_RACE_ALD_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2035025207,
+            "original": "~z~The race is gonna be in South Broker.",
+            "translated": "~z~比赛在South Broker。",
+            "desc": ""
+        },
+        {
+            "hash": 2092765183,
+            "original": "~z~Hey Johnny. You ready for a race, man?",
+            "translated": "~z~嘿，Johnny。准备好了么，哥们？",
+            "desc": ""
+        },
+        {
+            "hash": 2096068057,
+            "original": "~z~We got an Algonquin race to win.",
+            "translated": "~z~我们要在Algonquin争夺冠军。",
+            "desc": ""
+        },
+        {
+            "hash": 2116138106,
+            "original": "~z~The race is in Dukes.",
+            "translated": "~z~比赛在Dukes。",
+            "desc": ""
+        },
+        {
+            "hash": 2125686783,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2147194292,
+            "original": "E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_RACEA",
+            "translated": "E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_RACEA",
+            "desc": ""
+        },
+        {
+            "hash": 2148365388,
+            "original": "E1FCC3_ACT_ARRIVE_RACE_ALD_TA",
+            "translated": "E1FCC3_ACT_ARRIVE_RACE_ALD_TA",
+            "desc": ""
+        },
+        {
+            "hash": 2161169503,
+            "original": "~z~This thing kicks off at Francis International.",
+            "translated": "~z~这场比赛在Francis国际机场。",
+            "desc": ""
+        },
+        {
+            "hash": 2192503504,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2219995106,
+            "original": "E1FCC3_ACT_ARRIVE_RACE_ALD_CA",
+            "translated": "E1FCC3_ACT_ARRIVE_RACE_ALD_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2242903529,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2273621812,
+            "original": "~z~Hammer down in Bohan.",
+            "translated": "~z~在Bohan飞驰吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2328079326,
+            "original": "E1FCT3_ACT_ARRIVE_RACE_ALD_WA",
+            "translated": "E1FCT3_ACT_ARRIVE_RACE_ALD_WA",
+            "desc": ""
+        },
+        {
+            "hash": 2345766795,
+            "original": "~z~Johnny boy. Good to see you, man.",
+            "translated": "~z~Johnny仔。很高兴见到你，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2381912238,
+            "original": "~z~The race starts in Algonquin.",
+            "translated": "~z~比赛起点在Algonquin。",
+            "desc": ""
+        },
+        {
+            "hash": 2399676378,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2410246672,
+            "original": "~z~It's an airport race - Francis International.",
+            "translated": "~z~这次是机场竞速，Francis国际机场。",
+            "desc": ""
+        },
+        {
+            "hash": 2415712304,
+            "original": "~z~We're proving our manliness in Dukes.",
+            "translated": "~z~我们要在Dukes一决雌雄。",
+            "desc": ""
+        },
+        {
+            "hash": 2441348309,
+            "original": "E1FCC3_ACT_ARRIVE_RACE_ALDA",
+            "translated": "E1FCC3_ACT_ARRIVE_RACE_ALDA",
+            "desc": ""
+        },
+        {
+            "hash": 2475576407,
+            "original": "RACES_AA",
+            "translated": "RACES_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2480593666,
+            "original": "~z~We're racing in Dukes.",
+            "translated": "~z~我们要在Dukes竞速。",
+            "desc": ""
+        },
+        {
+            "hash": 2571492022,
+            "original": "~z~We're gonna rip it open in Bohan.",
+            "translated": "~z~我们在Bohan狂野飞驰吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2580780935,
+            "original": "~z~The race starts at Middle Park.",
+            "translated": "~z~比赛起点在中心公园。",
+            "desc": ""
+        },
+        {
+            "hash": 2581532343,
+            "original": "~z~We gotta dodge tourists in Middle Park.",
+            "translated": "~z~我们要躲开中心公园的游客。",
+            "desc": ""
+        },
+        {
+            "hash": 2633167961,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2643261578,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2678832147,
+            "original": "~z~The race is in Algonquin.",
+            "translated": "~z~比赛在Algonquin。",
+            "desc": ""
+        },
+        {
+            "hash": 2729541025,
+            "original": "~z~Dukes, baby, Dukes. That's where it's at.",
+            "translated": "~z~Dukes，小子，Dukes，开赛的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 2781590736,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2787147661,
+            "original": "~z~The race is in Dukes.",
+            "translated": "~z~=比赛在Dukes。",
+            "desc": ""
+        },
+        {
+            "hash": 2790532737,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2800661285,
+            "original": "E1FCC3_ACT_ARRIVE_RACE_FIAA",
+            "translated": "E1FCC3_ACT_ARRIVE_RACE_FIAA",
+            "desc": ""
+        },
+        {
+            "hash": 2853338191,
+            "original": "~z~We're throwing it down in Bohan.",
+            "translated": "~z~我们要在Bohan比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 2860172933,
+            "original": "E1FCC3_ACT_ARRIVE_RACE_DUKA",
+            "translated": "E1FCC3_ACT_ARRIVE_RACE_DUKA",
+            "desc": ""
+        },
+        {
+            "hash": 2863039935,
+            "original": "~z~The race goes from Westdyke.",
+            "translated": "~z~比赛从Westdyke开始。",
+            "desc": ""
+        },
+        {
+            "hash": 2877099151,
+            "original": "~z~The race starts in Bohan.",
+            "translated": "~z~比赛从Bohan开始。",
+            "desc": ""
+        },
+        {
+            "hash": 2967694817,
+            "original": "E1FCT3_ACT_ARRIVE_RACE_ALD_IA",
+            "translated": "E1FCT3_ACT_ARRIVE_RACE_ALD_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2995742059,
+            "original": "E1FCT3_ACT_ARRIVE_RACE_BOHA",
+            "translated": "E1FCT3_ACT_ARRIVE_RACE_BOHA",
+            "desc": ""
+        },
+        {
+            "hash": 3098289901,
+            "original": "~z~OK, we're gonna race Bohan.",
+            "translated": "~z~好了，我们要在Bohan竞速。",
+            "desc": ""
+        },
+        {
+            "hash": 3108174171,
+            "original": "E1FCT3_ACT_ARRIVE_RACE_ALG_MA",
+            "translated": "E1FCT3_ACT_ARRIVE_RACE_ALG_MA",
+            "desc": ""
+        },
+        {
+            "hash": 3229718325,
+            "original": "~z~We're racing in Alderney City.",
+            "translated": "~z~我们的比赛在Alderney市。",
+            "desc": ""
+        },
+        {
+            "hash": 3298382399,
+            "original": "~z~The race is in Castle Gardens.",
+            "translated": "~z~比赛在Castle Gardens。",
+            "desc": ""
+        },
+        {
+            "hash": 3311060651,
+            "original": "E1FCT3_ACT_ARRIVE_BIKE_LATE_RACEA",
+            "translated": "E1FCT3_ACT_ARRIVE_BIKE_LATE_RACEA",
+            "desc": ""
+        },
+        {
+            "hash": 3321697492,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3339512082,
+            "original": "~z~It's on in Middle Park.",
+            "translated": "~z~比赛在中心公园。",
+            "desc": ""
+        },
+        {
+            "hash": 3399335098,
+            "original": "~z~We're racing in Fishmarket.",
+            "translated": "~z~我们要去鱼市狂飙。",
+            "desc": ""
+        },
+        {
+            "hash": 3402241959,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3433493302,
+            "original": "E1FCC3_ACT_ARRIVE_RACE_ALG_MA",
+            "translated": "E1FCC3_ACT_ARRIVE_RACE_ALG_MA",
+            "desc": ""
+        },
+        {
+            "hash": 3443741621,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3495861434,
+            "original": "~z~It's a race through Algonquin.",
+            "translated": "~z~这次比赛要穿过Algonquin。",
+            "desc": ""
+        },
+        {
+            "hash": 3506493334,
+            "original": "~z~We're racing in Bohan.",
+            "translated": "~z~我们要在Bohan赛车。",
+            "desc": ""
+        },
+        {
+            "hash": 3514861940,
+            "original": "~z~The race is in Alderney.",
+            "translated": "~z~比赛在Alderney。",
+            "desc": ""
+        },
+        {
+            "hash": 3521919584,
+            "original": "~z~Ready to race, John boy. Bet you been tuning your bike all this time.",
+            "translated": "~z~准备好比赛，阿强。你最近一直在调试摩托吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3550865019,
+            "original": "E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_RACEA",
+            "translated": "E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_RACEA",
+            "desc": ""
+        },
+        {
+            "hash": 3552649246,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 3597325384,
+            "original": "~z~OK, we're gonna race Fishmarket.",
+            "translated": "~z~OK，我们要在鱼市比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 3609392978,
+            "original": "~z~OK, we need to get to Castle Gardens.",
+            "translated": "~z~好了，我们要去Castle Gardens。",
+            "desc": ""
+        },
+        {
+            "hash": 3627304688,
+            "original": "~z~It's time to get your ass beat, Johnny. Come on.",
+            "translated": "~z~我该教训你一顿了，Johnny。来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3642894702,
+            "original": "E1FCT3_ACT_ARRIVE_RACE_ALD_CA",
+            "translated": "E1FCT3_ACT_ARRIVE_RACE_ALD_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3644516362,
+            "original": "~z~The race is in Bohan.",
+            "translated": "~z~比赛在Bohan。",
+            "desc": ""
+        },
+        {
+            "hash": 3737446100,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3762701375,
+            "original": "~z~The race is in Holland.",
+            "translated": "~z~比赛在Holland。",
+            "desc": ""
+        },
+        {
+            "hash": 3783081719,
+            "original": "~z~We're racing in Algonquin.",
+            "translated": "~z~比赛在Algonquin。",
+            "desc": ""
+        },
+        {
+            "hash": 3783244901,
+            "original": "~z~We're dicing through South Broker.",
+            "translated": "~z~我们要穿过South Broker。",
+            "desc": ""
+        },
+        {
+            "hash": 3802322529,
+            "original": "~z~Did you park it on the way over here to save energy for the race Johnny? Let's do it, man.",
+            "translated": "~z~你是半路休息在为比赛养精蓄锐么？开始吧，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 3814075679,
+            "original": "~z~This is happening in Alderney.",
+            "translated": "~z~比赛定在Alderney。",
+            "desc": ""
+        },
+        {
+            "hash": 3816759878,
+            "original": "~z~Johnny, let's do some racing, man.",
+            "translated": "~z~Johnny，我们赛个车吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3850847081,
+            "original": "~z~Ha ha. Nice bat. Let's give these bitches some road rash.",
+            "translated": "~z~哈哈。棍子不错。给这些贱人来点皮外伤。",
+            "desc": ""
+        },
+        {
+            "hash": 3890201072,
+            "original": "~z~I know you love the fishmarket, so that's where the race is happening.",
+            "translated": "~z~知道你喜欢鱼市，这次我们就在那里赛车。",
+            "desc": ""
+        },
+        {
+            "hash": 3911510971,
+            "original": "~z~The race is on in Broker.",
+            "translated": "~z~比赛在Broker。",
+            "desc": ""
+        },
+        {
+            "hash": 3938878457,
+            "original": "~z~Better late then never. You'd better be ready to race, brother.",
+            "translated": "~z~迟来总比不来强。你最好准备好了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3974231698,
+            "original": "E1FCT3_ACT_ARRIVE_RACE_FIAA",
+            "translated": "E1FCT3_ACT_ARRIVE_RACE_FIAA",
+            "desc": ""
+        },
+        {
+            "hash": 3978051755,
+            "original": "~z~Alderney is where this race is gonna happen.",
+            "translated": "~z~Alderney是我们的比赛地点。",
+            "desc": ""
+        },
+        {
+            "hash": 3999785090,
+            "original": "~z~This shit goes down in Holland.",
+            "translated": "~z~去Holland赛他妈的车。",
+            "desc": ""
+        },
+        {
+            "hash": 4056904343,
+            "original": "E1FCT3_ACT_ARRIVE_RACE_ALG_HA",
+            "translated": "E1FCT3_ACT_ARRIVE_RACE_ALG_HA",
+            "desc": ""
+        },
+        {
+            "hash": 4091912961,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4117363695,
+            "original": "~z~Did you forget how to use that throttle, man? Well you better start learning. Let's get this race started.",
+            "translated": "~z~你是不会拧油门了吗，哥们？那还是赶紧学吧。比赛就要开始了。",
+            "desc": ""
+        },
+        {
+            "hash": 4138467724,
+            "original": "~z~Castel Gardens is where this race happens.",
+            "translated": "~z~比赛路线是Castel Gardens。",
+            "desc": ""
+        },
+        {
+            "hash": 4169687869,
+            "original": "~z~We racing in Fishmarket.",
+            "translated": "~z~我们要在鱼市赛车。",
+            "desc": ""
+        },
+        {
+            "hash": 4170615589,
+            "original": "~z~OK, we're gonna race Broker.",
+            "translated": "~z~好了，我们去Broker赛车。",
+            "desc": ""
+        },
+        {
+            "hash": 4187056591,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4188793662,
+            "original": "~z~Johnny, ain't you an ugly son of a bitch.",
+            "translated": "~z~Johnny，你个丑逼加贱逼。",
+            "desc": ""
+        },
+        {
+            "hash": 4192732222,
+            "original": "~z~Tudor's where this thing starts.",
+            "translated": "~z~Tudor是比赛的起点。",
+            "desc": ""
+        },
+        {
+            "hash": 4224400755,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4235470676,
+            "original": "~z~Shit man. I thought you was never gonna get here. OK, let's do some racing.",
+            "translated": "~z~妈的，兄弟。我还以为你不打算来了。好了，准备比赛吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4260493280,
+            "original": "~z~Algonquin is where we're racing.",
+            "translated": "~z~Algonquin是我们的比赛地点。",
+            "desc": ""
+        }
+    ]
+}

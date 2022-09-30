@@ -1,0 +1,1942 @@
+{
+    "E1MF3AU": [
+        {
+            "hash": 3125719,
+            "original": "SFX_OVERLAP_5500",
+            "translated": "SFX_OVERLAP_5500",
+            "desc": ""
+        },
+        {
+            "hash": 15754806,
+            "original": "100090010090100090010090100090010",
+            "translated": "100090010090100090010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 35814823,
+            "original": "100090010090100",
+            "translated": "100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 85921767,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 88906764,
+            "original": "SFX_PAUSE_420",
+            "translated": "SFX_PAUSE_420",
+            "desc": ""
+        },
+        {
+            "hash": 112445487,
+            "original": "E1MF3_AB",
+            "translated": "E1MF3_AB",
+            "desc": ""
+        },
+        {
+            "hash": 118070125,
+            "original": "891891",
+            "translated": "891891",
+            "desc": ""
+        },
+        {
+            "hash": 128038884,
+            "original": "E1MF3_LC",
+            "translated": "E1MF3_LC",
+            "desc": ""
+        },
+        {
+            "hash": 130687155,
+            "original": "E1MF3_UA",
+            "translated": "E1MF3_UA",
+            "desc": ""
+        },
+        {
+            "hash": 136128563,
+            "original": "SFX_OVERLAP_5800",
+            "translated": "SFX_OVERLAP_5800",
+            "desc": ""
+        },
+        {
+            "hash": 161625495,
+            "original": "E1MF3_AC",
+            "translated": "E1MF3_AC",
+            "desc": ""
+        },
+        {
+            "hash": 170513828,
+            "original": "E1MF3_HF",
+            "translated": "E1MF3_HF",
+            "desc": ""
+        },
+        {
+            "hash": 205689578,
+            "original": "E1MF3_HE",
+            "translated": "E1MF3_HE",
+            "desc": ""
+        },
+        {
+            "hash": 206520571,
+            "original": "SFX_OVERLAP_3110",
+            "translated": "SFX_OVERLAP_3110",
+            "desc": ""
+        },
+        {
+            "hash": 216868408,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 217553519,
+            "original": "E1MF3_GB",
+            "translated": "E1MF3_GB",
+            "desc": ""
+        },
+        {
+            "hash": 222606345,
+            "original": "~z~Hammer down. Yeah.",
+            "translated": "~z~油门拧紧。耶！",
+            "desc": ""
+        },
+        {
+            "hash": 223833344,
+            "original": "~z~Alright, man. Let's drop the hammer on that shit. I'll be by soon.",
+            "translated": "~z~好啊，兄弟。到时候赛场上见。有空就来。",
+            "desc": ""
+        },
+        {
+            "hash": 227819540,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 229561635,
+            "original": "~z~Their buns are perter than yours and they'd kill to hook a closeted, bald bigot like Bryce.",
+            "translated": "~z~他们的屁股可比你诱人多了，都排着队钓Bryce这种深柜的秃头政客呢。",
+            "desc": ""
+        },
+        {
+            "hash": 239099667,
+            "original": "010090100090010090010090100090100",
+            "translated": "010090100090010090010090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 241448947,
+            "original": "~z~How's your fancy European friend working out?",
+            "translated": "~z~你的东欧朋友还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 256720291,
+            "original": "E1MF3_MA",
+            "translated": "E1MF3_MA",
+            "desc": ""
+        },
+        {
+            "hash": 257718209,
+            "original": "~z~There's cops on wiretaps waiting to bust us, and there's monsters in the closet, and every chick in this town",
+            "translated": "~z~条子成天窃听我们电话等着抓人，每个衣柜里都有怪兽，全自由城的妓女",
+            "desc": ""
+        },
+        {
+            "hash": 262392267,
+            "original": "~z~These calls tell me you're full of shit. You wanna talk to me again, get me in bracelets.",
+            "translated": "~z~打电话就说明你没有证据。还想跟我说话，就先逮捕我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 266893557,
+            "original": "~z~If it's a race you want, my brother.",
+            "translated": "~z~你想比我奉陪，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 280073663,
+            "original": "E1MF3_GE",
+            "translated": "E1MF3_GE",
+            "desc": ""
+        },
+        {
+            "hash": 293906943,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 308045840,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 337060230,
+            "original": "E1MF3_GC",
+            "translated": "E1MF3_GC",
+            "desc": ""
+        },
+        {
+            "hash": 342107386,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 349840877,
+            "original": "100090010090100",
+            "translated": "100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 354692821,
+            "original": "~z~Luis, Tony's bodyguard?",
+            "translated": "~z~Luis，Tony的保镖？",
+            "desc": ""
+        },
+        {
+            "hash": 357706247,
+            "original": "SFX_OVERLAP_5992",
+            "translated": "SFX_OVERLAP_5992",
+            "desc": ""
+        },
+        {
+            "hash": 366314679,
+            "original": "~z~Liz Torres, huh?",
+            "translated": "~z~Liz Torres是吧？",
+            "desc": ""
+        },
+        {
+            "hash": 432902473,
+            "original": "~z~I hope so for your sake Johnny, you know. Ha ha. See you soon, baby.",
+            "translated": "~z~希望如你所说吧，Johnny。哈哈。再见了，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 452025262,
+            "original": "E1MF3_QE",
+            "translated": "E1MF3_QE",
+            "desc": ""
+        },
+        {
+            "hash": 461721738,
+            "original": "~z~Let's twist the fucking wick.",
+            "translated": "~z~让引擎轰鸣吧。",
+            "desc": ""
+        },
+        {
+            "hash": 483816655,
+            "original": "E1MF3_OC",
+            "translated": "E1MF3_OC",
+            "desc": ""
+        },
+        {
+            "hash": 483842840,
+            "original": "~z~La La La La La La La, just be good to me.",
+            "translated": "~z~*怪叫* 对我好就行。",
+            "desc": ""
+        },
+        {
+            "hash": 494262324,
+            "original": "SFX_OVERLAP_1260",
+            "translated": "SFX_OVERLAP_1260",
+            "desc": ""
+        },
+        {
+            "hash": 510320752,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 536238939,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 542927697,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 559436705,
+            "original": "~z~What's the problem?",
+            "translated": "~z~怎么了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 576746094,
+            "original": "E1MF3_RH",
+            "translated": "E1MF3_RH",
+            "desc": ""
+        },
+        {
+            "hash": 618790554,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 628521582,
+            "original": "E1MF3_RI",
+            "translated": "E1MF3_RI",
+            "desc": ""
+        },
+        {
+            "hash": 639387698,
+            "original": "100090010090100090010090100",
+            "translated": "100090010090100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 652388491,
+            "original": "~z~(SINGING) Living my life like it's golden... living my life like it's golden... living my life like it's golden.",
+            "translated": "~z~(唱歌) 度过我黄金般的人生... 度过我黄金般的人生。",
+            "desc": ""
+        },
+        {
+            "hash": 656442135,
+            "original": "~z~~s~",
+            "translated": "~z~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 661705639,
+            "original": "~z~Sounds good, brother. See you soon.",
+            "translated": "~z~好的，兄弟。之后见。",
+            "desc": ""
+        },
+        {
+            "hash": 665505394,
+            "original": "~z~They coming, Johnny. They fucking coming right now, you know.",
+            "translated": "~z~他们来了，Johnny。现在他们他妈来了。",
+            "desc": ""
+        },
+        {
+            "hash": 672423427,
+            "original": "E1MF3_IE",
+            "translated": "E1MF3_IE",
+            "desc": ""
+        },
+        {
+            "hash": 677667230,
+            "original": "~z~~s~",
+            "translated": "~z~~s~Niko：去你妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 710689262,
+            "original": "E1MF3_RD",
+            "translated": "E1MF3_RD",
+            "desc": ""
+        },
+        {
+            "hash": 712435395,
+            "original": "~z~~x~",
+            "translated": "~z~~x~",
+            "desc": ""
+        },
+        {
+            "hash": 720261780,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 727633263,
+            "original": "~z~You're about to see a close friend on the witness stand.",
+            "translated": "~z~你会在证言台上看见自己的密友。",
+            "desc": ""
+        },
+        {
+            "hash": 739708885,
+            "original": "E1MF3_TC",
+            "translated": "E1MF3_TC",
+            "desc": ""
+        },
+        {
+            "hash": 753887915,
+            "original": "~z~Still the best. Fuck yeah!",
+            "translated": "~z~还是第一。哦耶！",
+            "desc": ""
+        },
+        {
+            "hash": 757503828,
+            "original": "E1MF3_AA",
+            "translated": "E1MF3_AA",
+            "desc": ""
+        },
+        {
+            "hash": 761029486,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 764403620,
+            "original": "~z~No, man, I'm coming. Chill the fuck out.",
+            "translated": "~z~没有，老兄，我来了。你冷静点。",
+            "desc": ""
+        },
+        {
+            "hash": 809599469,
+            "original": "~z~You've still got it Bernie. You don't need this stupid car. You're the precision machine.",
+            "translated": "~z~你还是可以的，Bernie。你不需要这辆破车。你可是精密仪器。",
+            "desc": ""
+        },
+        {
+            "hash": 824942862,
+            "original": "E1MF3_PE",
+            "translated": "E1MF3_PE",
+            "desc": ""
+        },
+        {
+            "hash": 829357576,
+            "original": "~z~Yeah, only problem was your friend the UC. He nearly blew my ass off.",
+            "translated": "~z~是啊，只不过你那买家朋友是个卧底。差点没把我阴死。",
+            "desc": ""
+        },
+        {
+            "hash": 831597594,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 833783148,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 838565238,
+            "original": "~z~See if you can catch me, lady.",
+            "translated": "~z~你们能追上我吗，婆娘。",
+            "desc": ""
+        },
+        {
+            "hash": 847438508,
+            "original": "SFX_OVERLAP_5386",
+            "translated": "SFX_OVERLAP_5386",
+            "desc": ""
+        },
+        {
+            "hash": 847975093,
+            "original": "SFX_PAUSE_150",
+            "translated": "SFX_PAUSE_150",
+            "desc": ""
+        },
+        {
+            "hash": 854298811,
+            "original": "E1MF3_LD",
+            "translated": "E1MF3_LD",
+            "desc": ""
+        },
+        {
+            "hash": 877377125,
+            "original": "100090010090100090010",
+            "translated": "100090010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 878347219,
+            "original": "~z~Okay, okay. Seems like maybe he's the only guy in this city not working for the state.",
+            "translated": "~z~挺好，挺好。他可能是城里唯一一个不替政府干活的人了。",
+            "desc": ""
+        },
+        {
+            "hash": 891529390,
+            "original": "SFX_OVERLAP_4415",
+            "translated": "SFX_OVERLAP_4415",
+            "desc": ""
+        },
+        {
+            "hash": 894841003,
+            "original": "891891",
+            "translated": "891891",
+            "desc": ""
+        },
+        {
+            "hash": 925377778,
+            "original": "E1MF3_OA",
+            "translated": "E1MF3_OA",
+            "desc": ""
+        },
+        {
+            "hash": 933578842,
+            "original": "~z~I heard 'em alright, but we're cool. Girl does bring heat to a deal, Billy.",
+            "translated": "~z~我全听说了，但是没事。女人确实会让交易被盯上，Billy。",
+            "desc": ""
+        },
+        {
+            "hash": 944210532,
+            "original": "~z~~x~",
+            "translated": "~z~~x~",
+            "desc": ""
+        },
+        {
+            "hash": 948808416,
+            "original": "~z~Maybe the lips as well as the forehead. Hmmm? If you want to keep Bryce, Bernie, it's gonna cost you.",
+            "translated": "~z~我看应该去打几针了。要么把额头跟嘴唇一起打了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 952414950,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 956565650,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 977292684,
+            "original": "~z~Liz Torres. Keep one eye open, Johnny. You heard the tales.",
+            "translated": "~z~Liz Torres。还是要当心啊，Johnny。你也听说了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 982232544,
+            "original": "E1MF3_BIKE_PICK_UP_6",
+            "translated": "E1MF3_BIKE_PICK_UP_6",
+            "desc": ""
+        },
+        {
+            "hash": 1017351073,
+            "original": "E1MF3_IB",
+            "translated": "E1MF3_IB",
+            "desc": ""
+        },
+        {
+            "hash": 1048364224,
+            "original": "~z~Nope. You want me, come and get me.",
+            "translated": "~z~不。想见我，就亲自来抓。",
+            "desc": ""
+        },
+        {
+            "hash": 1061760321,
+            "original": "E1MF3_GF",
+            "translated": "E1MF3_GF",
+            "desc": ""
+        },
+        {
+            "hash": 1104690759,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 1128203503,
+            "original": "E1MF3_RC",
+            "translated": "E1MF3_RC",
+            "desc": ""
+        },
+        {
+            "hash": 1137122009,
+            "original": "E1MF3_JC",
+            "translated": "E1MF3_JC",
+            "desc": ""
+        },
+        {
+            "hash": 1144031101,
+            "original": "~z~Yeah, umm, good luck, Liz. Is Marta okay?",
+            "translated": "~z~好，呃... 祝你好运，Liz。Marta还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1146447705,
+            "original": "SFX_OVERLAP_5844",
+            "translated": "SFX_OVERLAP_5844",
+            "desc": ""
+        },
+        {
+            "hash": 1147626388,
+            "original": "~z~(Shouting) Get out of the way, you stupid man!",
+            "translated": "~z~(大喊) 好狗不挡道，傻逼玩意！",
+            "desc": ""
+        },
+        {
+            "hash": 1150174546,
+            "original": "SFX_OVERLAP_5870",
+            "translated": "SFX_OVERLAP_5870",
+            "desc": ""
+        },
+        {
+            "hash": 1178874791,
+            "original": "~z~Things might be easier for you if you give us some information on your motorcycle club.",
+            "translated": "~z~告诉我你们摩托帮的情报，你的日子会好过很多。",
+            "desc": ""
+        },
+        {
+            "hash": 1187532002,
+            "original": "E1MF3_BB",
+            "translated": "E1MF3_BB",
+            "desc": ""
+        },
+        {
+            "hash": 1192240650,
+            "original": "E1MF3_UB",
+            "translated": "E1MF3_UB",
+            "desc": ""
+        },
+        {
+            "hash": 1199755332,
+            "original": "~z~~x~",
+            "translated": "~z~~x~",
+            "desc": ""
+        },
+        {
+            "hash": 1232989641,
+            "original": "~z~Oh! (SINGING) Living my life like it's Golden, sweetie!",
+            "translated": "~z~哦！ (唱歌) 度过我黄金般的人生，宝贝！",
+            "desc": ""
+        },
+        {
+            "hash": 1253395008,
+            "original": "~z~~s~",
+            "translated": "~z~~s~我今天很不高兴。",
+            "desc": ""
+        },
+        {
+            "hash": 1254551881,
+            "original": "~z~Mr. Klebitz. How're things?",
+            "translated": "~z~Klebitz先生。最近好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1256444794,
+            "original": "E1MF3_PC",
+            "translated": "E1MF3_PC",
+            "desc": ""
+        },
+        {
+            "hash": 1274445933,
+            "original": "100090010090100100090100090010",
+            "translated": "100090010090100100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 1281256801,
+            "original": "E1MF3_IF",
+            "translated": "E1MF3_IF",
+            "desc": ""
+        },
+        {
+            "hash": 1290884016,
+            "original": "E1MF3_INTO_LOGO_C",
+            "translated": "E1MF3_INTO_LOGO_C",
+            "desc": ""
+        },
+        {
+            "hash": 1305095304,
+            "original": "~z~The problem is we can't have a real discussion, and can't solve any real fuckin' problems,",
+            "translated": "~z~如果你不来会所，不肯和弟兄们坐下聊聊，",
+            "desc": ""
+        },
+        {
+            "hash": 1330617348,
+            "original": "E1MF3_RE",
+            "translated": "E1MF3_RE",
+            "desc": ""
+        },
+        {
+            "hash": 1339828060,
+            "original": "~z~Shit, dude, you can really twist it.",
+            "translated": "~z~妈的，老兄，太猛了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1340905098,
+            "original": "~z~Time's up, Johnny.",
+            "translated": "~z~时辰到了，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 1383057542,
+            "original": "E1MF3_QB",
+            "translated": "E1MF3_QB",
+            "desc": ""
+        },
+        {
+            "hash": 1398117097,
+            "original": "~z~She's one praying mantis.",
+            "translated": "~z~她是一只螳螂。",
+            "desc": ""
+        },
+        {
+            "hash": 1398756163,
+            "original": "100090010090100090010",
+            "translated": "100090010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 1405821776,
+            "original": "E1MF3_YA",
+            "translated": "E1MF3_YA",
+            "desc": ""
+        },
+        {
+            "hash": 1422082821,
+            "original": "~z~Open her up. Twist that fuckin' throttle.",
+            "translated": "~z~开足马力，油门拉满。",
+            "desc": ""
+        },
+        {
+            "hash": 1423279956,
+            "original": "E1MF3_IA",
+            "translated": "E1MF3_IA",
+            "desc": ""
+        },
+        {
+            "hash": 1432767542,
+            "original": "~z~Brrrrr. Rrrrrrr.",
+            "translated": "~z~*弹舌*",
+            "desc": ""
+        },
+        {
+            "hash": 1455795958,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 1464942455,
+            "original": "~z~~s~",
+            "translated": "~z~~s~Niko：操！",
+            "desc": ""
+        },
+        {
+            "hash": 1470880979,
+            "original": "E1MF3_ED",
+            "translated": "E1MF3_ED",
+            "desc": ""
+        },
+        {
+            "hash": 1472315293,
+            "original": "E1MF3_IC",
+            "translated": "E1MF3_IC",
+            "desc": ""
+        },
+        {
+            "hash": 1479003972,
+            "original": "891891",
+            "translated": "891891",
+            "desc": ""
+        },
+        {
+            "hash": 1507864407,
+            "original": "E1MF3_GD",
+            "translated": "E1MF3_GD",
+            "desc": ""
+        },
+        {
+            "hash": 1525790233,
+            "original": "891891",
+            "translated": "891891",
+            "desc": ""
+        },
+        {
+            "hash": 1531424359,
+            "original": "~z~What a fantastic idea, James. I'll see you at yours.",
+            "translated": "~z~这主意好啊，James。我们你那儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 1535461374,
+            "original": "~z~if you aren't gonna come to the house and sit down with your brothers.",
+            "translated": "~z~我们就谈不成事，更没法成什么事！",
+            "desc": ""
+        },
+        {
+            "hash": 1539199654,
+            "original": "~z~Ha ha, ha ha.",
+            "translated": "~z~哈哈哈哈。",
+            "desc": ""
+        },
+        {
+            "hash": 1564721707,
+            "original": "~z~Nice driving, man.",
+            "translated": "~z~好车技，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1573445080,
+            "original": "SFX_PAUSE_340",
+            "translated": "SFX_PAUSE_340",
+            "desc": ""
+        },
+        {
+            "hash": 1577241655,
+            "original": "SFX_PAUSE_370",
+            "translated": "SFX_PAUSE_370",
+            "desc": ""
+        },
+        {
+            "hash": 1582759552,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 1592449597,
+            "original": "SFX_OVERLAP_5412",
+            "translated": "SFX_OVERLAP_5412",
+            "desc": ""
+        },
+        {
+            "hash": 1600927772,
+            "original": "SFX_PAUSE_370",
+            "translated": "SFX_PAUSE_370",
+            "desc": ""
+        },
+        {
+            "hash": 1602992526,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 1628511840,
+            "original": "E1MF3_SA",
+            "translated": "E1MF3_SA",
+            "desc": ""
+        },
+        {
+            "hash": 1650025945,
+            "original": "E1MF3_JA",
+            "translated": "E1MF3_JA",
+            "desc": ""
+        },
+        {
+            "hash": 1691356405,
+            "original": "E1MF3_PH",
+            "translated": "E1MF3_PH",
+            "desc": ""
+        },
+        {
+            "hash": 1710931370,
+            "original": "E1MF3_RF",
+            "translated": "E1MF3_RF",
+            "desc": ""
+        },
+        {
+            "hash": 1731982863,
+            "original": "SFX_PAUSE_450",
+            "translated": "SFX_PAUSE_450",
+            "desc": ""
+        },
+        {
+            "hash": 1735876514,
+            "original": "~z~I was on fucking rails back there. You didn't stand a chance.",
+            "translated": "~z~我刚才状态极佳，你不可能赢的。",
+            "desc": ""
+        },
+        {
+            "hash": 1735945342,
+            "original": "010090100090010100010090100090010090100",
+            "translated": "010090100090010100010090100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 1757745892,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 1763107621,
+            "original": "~z~Why aren't you here, Johnny?",
+            "translated": "~z~你怎么没来，Johnny？",
+            "desc": ""
+        },
+        {
+            "hash": 1771120696,
+            "original": "E1MF3_INTO_LOGO_B",
+            "translated": "E1MF3_INTO_LOGO_B",
+            "desc": ""
+        },
+        {
+            "hash": 1795583883,
+            "original": "~z~Light your fires, we're racing.",
+            "translated": "~z~都点火吧，要比赛了。",
+            "desc": ""
+        },
+        {
+            "hash": 1803629472,
+            "original": "E1MF3_INTO_LOGO_A",
+            "translated": "E1MF3_INTO_LOGO_A",
+            "desc": ""
+        },
+        {
+            "hash": 1844590495,
+            "original": "~z~As it happens, others in your fraternity are not as loyal as you.",
+            "translated": "~z~实际上，不是所有弟兄都和你一样守口如瓶的。",
+            "desc": ""
+        },
+        {
+            "hash": 1850347881,
+            "original": "~z~~s~",
+            "translated": "~z~~s~Niko：还想抓我？",
+            "desc": ""
+        },
+        {
+            "hash": 1851553520,
+            "original": "SFX_OVERLAP_5266",
+            "translated": "SFX_OVERLAP_5266",
+            "desc": ""
+        },
+        {
+            "hash": 1859865076,
+            "original": "~z~What do you mean \"a PTA meeting,\" Bryce? That bitch squeezed out those monsters to put a death grip on you.",
+            "translated": "~z~「家长会」是什么意思，Bryce？那个婊子造出这种怪物是想害死你啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1862865748,
+            "original": "~z~What's up, Liz?",
+            "translated": "~z~怎么了，Liz？",
+            "desc": ""
+        },
+        {
+            "hash": 1882104445,
+            "original": "E1MF3_QF",
+            "translated": "E1MF3_QF",
+            "desc": ""
+        },
+        {
+            "hash": 1941673873,
+            "original": "010090100090010090100090010090010",
+            "translated": "010090100090010090100090010090010",
+            "desc": ""
+        },
+        {
+            "hash": 1953521553,
+            "original": "~z~I'll believe it when I see it, you tight-ass prick. Adios.",
+            "translated": "~z~先让我见着再说，傻逼儿子。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 1958185688,
+            "original": "~z~Boys still looking. Ah. Bernie you've got it.",
+            "translated": "~z~风韵犹存。啊，Bernie，你太懂了。",
+            "desc": ""
+        },
+        {
+            "hash": 1971991258,
+            "original": "~z~If you had anything on me, I'd have been arrested already, man.",
+            "translated": "~z~要是你真有证据，我早就进去了，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 1974097798,
+            "original": "~z~Don't get me started on the brats. Don't get me started! I'm having a hot flush here, people.",
+            "translated": "~z~别让我想到臭小孩。别让我想到它！这可是我的逆鳞，各位。",
+            "desc": ""
+        },
+        {
+            "hash": 1974659709,
+            "original": "~z~Liz? You there?",
+            "translated": "~z~Liz？是你吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1977681121,
+            "original": "E1MF3_CA",
+            "translated": "E1MF3_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2012324839,
+            "original": "E1MF3_RG",
+            "translated": "E1MF3_RG",
+            "desc": ""
+        },
+        {
+            "hash": 2033263081,
+            "original": "E1MF3_EC",
+            "translated": "E1MF3_EC",
+            "desc": ""
+        },
+        {
+            "hash": 2046207744,
+            "original": "SFX_OVERLAP_4110",
+            "translated": "SFX_OVERLAP_4110",
+            "desc": ""
+        },
+        {
+            "hash": 2053867962,
+            "original": "E1MF3_HD",
+            "translated": "E1MF3_HD",
+            "desc": ""
+        },
+        {
+            "hash": 2056627126,
+            "original": "SFX_OVERLAP_5912",
+            "translated": "SFX_OVERLAP_5912",
+            "desc": ""
+        },
+        {
+            "hash": 2072579099,
+            "original": "E1MF3_DD",
+            "translated": "E1MF3_DD",
+            "desc": ""
+        },
+        {
+            "hash": 2077313530,
+            "original": "~z~See you soon, man.",
+            "translated": "~z~赛场见，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2086004062,
+            "original": "E1MF3_WA",
+            "translated": "E1MF3_WA",
+            "desc": ""
+        },
+        {
+            "hash": 2089931760,
+            "original": "~z~Nice buns though, sugar.",
+            "translated": "~z~屁股还不错，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 2103654075,
+            "original": "~z~Hello.",
+            "translated": "~z~你好。",
+            "desc": ""
+        },
+        {
+            "hash": 2117553644,
+            "original": "E1MF3_LOGO_APPEAR_B",
+            "translated": "E1MF3_LOGO_APPEAR_B",
+            "desc": ""
+        },
+        {
+            "hash": 2135619178,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 2136514912,
+            "original": "E1MF3_CE",
+            "translated": "E1MF3_CE",
+            "desc": ""
+        },
+        {
+            "hash": 2144434042,
+            "original": "~z~Great, man. See you soon.",
+            "translated": "~z~好的，兄弟。之后见。",
+            "desc": ""
+        },
+        {
+            "hash": 2152793425,
+            "original": "E1MF3_HA",
+            "translated": "E1MF3_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2156378560,
+            "original": "E1MF3_LOGO_APPEAR_C",
+            "translated": "E1MF3_LOGO_APPEAR_C",
+            "desc": ""
+        },
+        {
+            "hash": 2162049773,
+            "original": "E1MF3_PG",
+            "translated": "E1MF3_PG",
+            "desc": ""
+        },
+        {
+            "hash": 2173536166,
+            "original": "~z~The floor was mine. Oh, and did you see Luis?",
+            "translated": "~z~吸引了所有人的目光。哦，你看见Luis了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2233831918,
+            "original": "~z~Fuck. I'll beat your slow ass next round, man.",
+            "translated": "~z~操，下次比赛看我不干烂你，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 2242622838,
+            "original": "010090100100090010090100090100",
+            "translated": "010090100100090010090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 2263871397,
+            "original": "E1MF3_BC",
+            "translated": "E1MF3_BC",
+            "desc": ""
+        },
+        {
+            "hash": 2275288273,
+            "original": "E1MF3_UC",
+            "translated": "E1MF3_UC",
+            "desc": ""
+        },
+        {
+            "hash": 2322646043,
+            "original": "E1MF3_XA",
+            "translated": "E1MF3_XA",
+            "desc": ""
+        },
+        {
+            "hash": 2348917232,
+            "original": "E1MF3_DA",
+            "translated": "E1MF3_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2367872707,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 2397722978,
+            "original": "E1MF3_TA",
+            "translated": "E1MF3_TA",
+            "desc": ""
+        },
+        {
+            "hash": 2401869278,
+            "original": "E1MF3_HB",
+            "translated": "E1MF3_HB",
+            "desc": ""
+        },
+        {
+            "hash": 2409943021,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 2428755620,
+            "original": "E1MF3_OB",
+            "translated": "E1MF3_OB",
+            "desc": ""
+        },
+        {
+            "hash": 2436474257,
+            "original": "E1MF3_QD",
+            "translated": "E1MF3_QD",
+            "desc": ""
+        },
+        {
+            "hash": 2452595574,
+            "original": "~z~Tiralo. Tira el perico. Oh Shit. Flush that shit! Tira el perico!",
+            "translated": "~z~扔掉。把可卡因扔掉。妈的。赶紧冲掉！冲掉可卡因！",
+            "desc": ""
+        },
+        {
+            "hash": 2465010187,
+            "original": "~z~An insect who chugs vodka sodas and sucks all the life out of my precious Bryce.",
+            "translated": "~z~是一个喝着伏特加苏打水、吸干我宝贝Bryce生命的虫子。",
+            "desc": ""
+        },
+        {
+            "hash": 2469243247,
+            "original": "E1MF3_IG",
+            "translated": "E1MF3_IG",
+            "desc": ""
+        },
+        {
+            "hash": 2538625330,
+            "original": "E1MF3_QA",
+            "translated": "E1MF3_QA",
+            "desc": ""
+        },
+        {
+            "hash": 2542050709,
+            "original": "SFX_PAUSE_320",
+            "translated": "SFX_PAUSE_320",
+            "desc": ""
+        },
+        {
+            "hash": 2573171213,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 2583690181,
+            "original": "~z~Mr. Klebitz. Are you coming in?",
+            "translated": "~z~Klebitz先生。你能接受吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2589375568,
+            "original": "~z~Shit, dude. I'll fucking get you next time.",
+            "translated": "~z~妈的，老兄。下次我一定赢你。",
+            "desc": ""
+        },
+        {
+            "hash": 2604199989,
+            "original": "~z~So many boys get off that bus everyday.",
+            "translated": "~z~要想留住Bryce可不容易。每天都会遇到那么多人。",
+            "desc": ""
+        },
+        {
+            "hash": 2639357704,
+            "original": "E1MF3_VA",
+            "translated": "E1MF3_VA",
+            "desc": ""
+        },
+        {
+            "hash": 2665299960,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 2688293278,
+            "original": "~z~I hope you ain't slow in your old age, Bill.",
+            "translated": "~z~希望你的年龄不会影响发挥，Bill。",
+            "desc": ""
+        },
+        {
+            "hash": 2701796089,
+            "original": "SFX_OVERLAP_2125",
+            "translated": "SFX_OVERLAP_2125",
+            "desc": ""
+        },
+        {
+            "hash": 2719514665,
+            "original": "~z~Yeah. Who is this?",
+            "translated": "~z~是我。你哪位？",
+            "desc": ""
+        },
+        {
+            "hash": 2725099032,
+            "original": "~z~~x~",
+            "translated": "~z~~x~",
+            "desc": ""
+        },
+        {
+            "hash": 2754600766,
+            "original": "E1MF3_CB",
+            "translated": "E1MF3_CB",
+            "desc": ""
+        },
+        {
+            "hash": 2758615552,
+            "original": "~z~Bring it, Bill. Let's do some dicing.",
+            "translated": "~z~来吧，Bill。一起飞驰吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2768850589,
+            "original": "~z~I was dripping sweat and sex and buzzing on X and amyl.",
+            "translated": "~z~我浑身湿透，性欲超强，尽显摇头丸和Amyl的本色。",
+            "desc": ""
+        },
+        {
+            "hash": 2779744367,
+            "original": "E1MF3_BA",
+            "translated": "E1MF3_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2781642970,
+            "original": "~z~Yeah, yeah, ours is going through the roof. See you soon.",
+            "translated": "~z~对对，就我们做得红红火火。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 2788968653,
+            "original": "E1MF3_DC",
+            "translated": "E1MF3_DC",
+            "desc": ""
+        },
+        {
+            "hash": 2799989485,
+            "original": "010090100090010100090010090100090100090010",
+            "translated": "010090100090010100090010090100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2806642097,
+            "original": "~z~Fuck you, Fed. This conversation's over. If you got any evidence on me, get a warrant.",
+            "translated": "~z~操你妈，狗腿子。对话到此为止。你要是有我犯罪的证据，拿逮捕令来抓我。",
+            "desc": ""
+        },
+        {
+            "hash": 2813996312,
+            "original": "~z~Him and The Lost MC. Me and the brothers are tight.",
+            "translated": "~z~失落帮也一样。弟兄们和我绝不告密。",
+            "desc": ""
+        },
+        {
+            "hash": 2857983061,
+            "original": "~z~You flogged that bitch, man. Good win.",
+            "translated": "~z~被你吊打了啊，兄弟。厉害。",
+            "desc": ""
+        },
+        {
+            "hash": 2867001643,
+            "original": "~z~~s~",
+            "translated": "~z~~s~Niko：把你们都杀了！",
+            "desc": ""
+        },
+        {
+            "hash": 2895047120,
+            "original": "~z~How's my back look?",
+            "translated": "~z~我的背影如何？",
+            "desc": ""
+        },
+        {
+            "hash": 2947071310,
+            "original": "E1MF3_LOGO_APPEAR_A",
+            "translated": "E1MF3_LOGO_APPEAR_A",
+            "desc": ""
+        },
+        {
+            "hash": 2955722054,
+            "original": "100090010100090100090010090100090100090010",
+            "translated": "100090010100090100090010090100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2963668134,
+            "original": "E1MF3_CD",
+            "translated": "E1MF3_CD",
+            "desc": ""
+        },
+        {
+            "hash": 2967087505,
+            "original": "~z~Hey, asshole. I'd never roll on a brother.",
+            "translated": "~z~喂，混蛋。我绝不会背叛兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2977831603,
+            "original": "E1MF3_BIKE_PICK_UP_3",
+            "translated": "E1MF3_BIKE_PICK_UP_3",
+            "desc": ""
+        },
+        {
+            "hash": 3025216666,
+            "original": "~z~Who the fuck is this?",
+            "translated": "~z~你他妈的是谁？",
+            "desc": ""
+        },
+        {
+            "hash": 3030049036,
+            "original": "~z~Johnny, it's Jim, you wanna roll on some Deadbeats?",
+            "translated": "~z~Johnny，我是Jim，你想去教训死妈天使吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3036315798,
+            "original": "010090100090010",
+            "translated": "010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 3047392629,
+            "original": "E1MF3_LA",
+            "translated": "E1MF3_LA",
+            "desc": ""
+        },
+        {
+            "hash": 3065038471,
+            "original": "~z~Let's drop that hammer one more time.",
+            "translated": "~z~再一次拧紧油门吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3077804959,
+            "original": "E1MF3_AD",
+            "translated": "E1MF3_AD",
+            "desc": ""
+        },
+        {
+            "hash": 3082165741,
+            "original": "E1MF3_PB",
+            "translated": "E1MF3_PB",
+            "desc": ""
+        },
+        {
+            "hash": 3096836302,
+            "original": "~z~What you got in that block, man? You really blasted it.",
+            "translated": "~z~那段路是怎么回事，老兄？你也太猛了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3097782781,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 3112234680,
+            "original": "SFX_PAUSE_560",
+            "translated": "SFX_PAUSE_560",
+            "desc": ""
+        },
+        {
+            "hash": 3138688683,
+            "original": "E1MF3_CF",
+            "translated": "E1MF3_CF",
+            "desc": ""
+        },
+        {
+            "hash": 3139391992,
+            "original": "~z~Fuck off, man.",
+            "translated": "~z~滚蛋，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 3146519584,
+            "original": "SFX_OVERLAP_3485",
+            "translated": "SFX_OVERLAP_3485",
+            "desc": ""
+        },
+        {
+            "hash": 3149492487,
+            "original": "E1MF3_SB",
+            "translated": "E1MF3_SB",
+            "desc": ""
+        },
+        {
+            "hash": 3170601669,
+            "original": "~z~Whoa, hey, you like the taste of that exhaust?",
+            "translated": "~z~喔，嘿，喜欢精疲力尽的滋味吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3205758004,
+            "original": "E1MF3_DB",
+            "translated": "E1MF3_DB",
+            "desc": ""
+        },
+        {
+            "hash": 3221494145,
+            "original": "~z~Let's see what you're made of. Come on.",
+            "translated": "~z~拿出真本事吧。干他。",
+            "desc": ""
+        },
+        {
+            "hash": 3241258753,
+            "original": "E1MF3_EE",
+            "translated": "E1MF3_EE",
+            "desc": ""
+        },
+        {
+            "hash": 3241943398,
+            "original": "SFX_OVERLAP_5475",
+            "translated": "SFX_OVERLAP_5475",
+            "desc": ""
+        },
+        {
+            "hash": 3246302818,
+            "original": "~z~~s~",
+            "translated": "~z~~s~Niko：闭嘴滚蛋！",
+            "desc": ""
+        },
+        {
+            "hash": 3252039650,
+            "original": "SFX_OVERLAP_4505",
+            "translated": "SFX_OVERLAP_4505",
+            "desc": ""
+        },
+        {
+            "hash": 3262659540,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 3278326143,
+            "original": "E1MF3_TB",
+            "translated": "E1MF3_TB",
+            "desc": ""
+        },
+        {
+            "hash": 3301846642,
+            "original": "E1MF3_LE",
+            "translated": "E1MF3_LE",
+            "desc": ""
+        },
+        {
+            "hash": 3305112804,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 3306726749,
+            "original": "~z~It was good to see you, Johnny.",
+            "translated": "~z~和你说话我很高兴，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 3324921375,
+            "original": "~z~Bernie! Ahhhh! What is that on your face? Ewww. I think it's time for some shots.",
+            "translated": "~z~Bernie！啊！看了眼镜子我都要吐了。你脸上都是什么啊？",
+            "desc": ""
+        },
+        {
+            "hash": 3335203838,
+            "original": "E1MF3_OD",
+            "translated": "E1MF3_OD",
+            "desc": ""
+        },
+        {
+            "hash": 3355514057,
+            "original": "~z~A race? Too fucking right. I'm in, man. I'll be there as soon as I can.",
+            "translated": "~z~赛车？当然有兴趣。我来，兄弟。有空了就来。",
+            "desc": ""
+        },
+        {
+            "hash": 3361150264,
+            "original": "~z~The X! I felt like some tribal rhythm had taken a hold of me.",
+            "translated": "~z~那摇头丸！感觉就像是被哪种部落摇摆附身了。",
+            "desc": ""
+        },
+        {
+            "hash": 3372935995,
+            "original": "~z~Okay, Billy. The race is on.",
+            "translated": "~z~好了，Billy。比赛开始了。",
+            "desc": ""
+        },
+        {
+            "hash": 3409487679,
+            "original": "~z~How's that dust tasting, man?",
+            "translated": "~z~吃灰的味道好吗，老兄？",
+            "desc": ""
+        },
+        {
+            "hash": 3416183077,
+            "original": "SFX_OVERLAP_4830",
+            "translated": "SFX_OVERLAP_4830",
+            "desc": ""
+        },
+        {
+            "hash": 3463713747,
+            "original": "E1MF3_RB",
+            "translated": "E1MF3_RB",
+            "desc": ""
+        },
+        {
+            "hash": 3481568850,
+            "original": "E1MF3_LF",
+            "translated": "E1MF3_LF",
+            "desc": ""
+        },
+        {
+            "hash": 3487118190,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 3488936937,
+            "original": "100090010090100",
+            "translated": "100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 3493292083,
+            "original": "~z~Have it your way.",
+            "translated": "~z~那您随意。",
+            "desc": ""
+        },
+        {
+            "hash": 3497435147,
+            "original": "~z~Ha ha ha. She's okay.",
+            "translated": "~z~哈哈哈。她很好。",
+            "desc": ""
+        },
+        {
+            "hash": 3502986075,
+            "original": "SFX_PAUSE_090",
+            "translated": "SFX_PAUSE_090",
+            "desc": ""
+        },
+        {
+            "hash": 3511516756,
+            "original": "~z~You know, Johnny, you should have thought about being more forthcoming earlier in our relationship.",
+            "translated": "~z~真的，Johnny，你早就该和我们多聊点真心话了。",
+            "desc": ""
+        },
+        {
+            "hash": 3511829174,
+            "original": "SFX_OVERLAP_5770",
+            "translated": "SFX_OVERLAP_5770",
+            "desc": ""
+        },
+        {
+            "hash": 3514506938,
+            "original": "E1MF3_SC",
+            "translated": "E1MF3_SC",
+            "desc": ""
+        },
+        {
+            "hash": 3519668107,
+            "original": "~z~You tried to offload some smack to a colleague of mine called Charlie. Costly mistake.",
+            "translated": "~z~你之前想把毒品卖给我的同事Charlie。交了不少学费。",
+            "desc": ""
+        },
+        {
+            "hash": 3520183580,
+            "original": "~z~Last one there's an asshole.",
+            "translated": "~z~倒数第一是傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 3526449571,
+            "original": "~z~I got work, Johnny. You should be grateful. While them other markets be dropping...",
+            "translated": "~z~有新活，Johnny。快感谢我吧。现在其他地方可不景气...",
+            "desc": ""
+        },
+        {
+            "hash": 3527152175,
+            "original": "~z~~x~",
+            "translated": "~z~~x~",
+            "desc": ""
+        },
+        {
+            "hash": 3551119528,
+            "original": "E1MF3_QC",
+            "translated": "E1MF3_QC",
+            "desc": ""
+        },
+        {
+            "hash": 3566061237,
+            "original": "E1MF3_CC",
+            "translated": "E1MF3_CC",
+            "desc": ""
+        },
+        {
+            "hash": 3590454678,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 3595132252,
+            "original": "SFX_OVERLAP_4550",
+            "translated": "SFX_OVERLAP_4550",
+            "desc": ""
+        },
+        {
+            "hash": 3596102874,
+            "original": "E1MF3_HC",
+            "translated": "E1MF3_HC",
+            "desc": ""
+        },
+        {
+            "hash": 3600451822,
+            "original": "~z~I don't know what the fuck you're talking about.",
+            "translated": "~z~老子不知道你在说什么。",
+            "desc": ""
+        },
+        {
+            "hash": 3605602066,
+            "original": "~z~~x~",
+            "translated": "~z~~x~",
+            "desc": ""
+        },
+        {
+            "hash": 3611906032,
+            "original": "E1MF3_MB",
+            "translated": "E1MF3_MB",
+            "desc": ""
+        },
+        {
+            "hash": 3619804543,
+            "original": "SFX_OVERLAP_2455",
+            "translated": "SFX_OVERLAP_2455",
+            "desc": ""
+        },
+        {
+            "hash": 3644068128,
+            "original": "100090010090100090010",
+            "translated": "100090010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 3649455066,
+            "original": "~z~Sorry man, what'd you expect?",
+            "translated": "~z~抱歉，老兄，没失望吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3671780177,
+            "original": "E1MF3_PF",
+            "translated": "E1MF3_PF",
+            "desc": ""
+        },
+        {
+            "hash": 3681704741,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 3691755044,
+            "original": "~z~has got VD Shit, Johnny, you spook too easy. Get it sold.",
+            "translated": "~z~都有性病。妈的，Johnny，你也太怂了。把货卖了。",
+            "desc": ""
+        },
+        {
+            "hash": 3708664553,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 3758578055,
+            "original": "~z~Let's race then, shithead.",
+            "translated": "~z~开始比赛吧，傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 3761009182,
+            "original": "E1MF3_EB",
+            "translated": "E1MF3_EB",
+            "desc": ""
+        },
+        {
+            "hash": 3773817428,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 3790634964,
+            "original": "~z~Johnny Klebitz?",
+            "translated": "~z~Johnny Klebitz？",
+            "desc": ""
+        },
+        {
+            "hash": 3803649713,
+            "original": "100090010090100090010",
+            "translated": "100090010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 3826798546,
+            "original": "~z~You're a fast sonofabitch, man. Good win.",
+            "translated": "~z~你这贱逼有够快啊，老兄。厉害。",
+            "desc": ""
+        },
+        {
+            "hash": 3833444018,
+            "original": "~z~~x~",
+            "translated": "~z~~x~",
+            "desc": ""
+        },
+        {
+            "hash": 3833785446,
+            "original": "E1MF3_JB",
+            "translated": "E1MF3_JB",
+            "desc": ""
+        },
+        {
+            "hash": 3841585992,
+            "original": "E1MF3_NB",
+            "translated": "E1MF3_NB",
+            "desc": ""
+        },
+        {
+            "hash": 3844694868,
+            "original": "~z~If he ever plays for our team, I hope I'm the catcher, sweetie. I do!",
+            "translated": "~z~要是他来我们队效力，我希望我是捕手，宝贝。真的。",
+            "desc": ""
+        },
+        {
+            "hash": 3859480655,
+            "original": "E1MF3_EA",
+            "translated": "E1MF3_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3878719688,
+            "original": "SFX_PAUSE_420",
+            "translated": "SFX_PAUSE_420",
+            "desc": ""
+        },
+        {
+            "hash": 3890831556,
+            "original": "~z~Are you too good for that now, Johnny?",
+            "translated": "~z~看不上了弟兄们了是吧，Johnny？",
+            "desc": ""
+        },
+        {
+            "hash": 3892890804,
+            "original": "E1MF3_IH",
+            "translated": "E1MF3_IH",
+            "desc": ""
+        },
+        {
+            "hash": 3895290758,
+            "original": "~z~Liz Torres.",
+            "translated": "~z~Liz Torres。",
+            "desc": ""
+        },
+        {
+            "hash": 3910444155,
+            "original": "~z~Jonathan, man, I was thinking you and me could enter a race together. How about it?",
+            "translated": "~z~Jonathan，兄弟，我在想要不要一起去赛车。你说呢？",
+            "desc": ""
+        },
+        {
+            "hash": 3910565313,
+            "original": "E1MF3_NA",
+            "translated": "E1MF3_NA",
+            "desc": ""
+        },
+        {
+            "hash": 3950872009,
+            "original": "SFX_PAUSE_370",
+            "translated": "SFX_PAUSE_370",
+            "desc": ""
+        },
+        {
+            "hash": 3957120067,
+            "original": "~z~Hercules was a dream, wasn't it? The music! The bodies!",
+            "translated": "~z~大力神太梦幻了，不是吗？那音乐！那肉体！",
+            "desc": ""
+        },
+        {
+            "hash": 3967147442,
+            "original": "~z~Johnny, it's Terry. Listen, bro, I heard there's a race going down and thought you might be interested?",
+            "translated": "~z~Johnny，我是Terry。听着，兄弟，听说附近有地方赛车，你有兴趣吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3974574807,
+            "original": "~z~Every cop in this town wants that bitch's head on his wall.",
+            "translated": "~z~全城的警察都想要那个婊子的项上人头。",
+            "desc": ""
+        },
+        {
+            "hash": 3990219467,
+            "original": "E1MF3_ID",
+            "translated": "E1MF3_ID",
+            "desc": ""
+        },
+        {
+            "hash": 4006708419,
+            "original": "~z~Agent Jones - FIB. We'd like you to come in for a talk.",
+            "translated": "~z~FIB探员Jones。我们想请你过来聊聊。",
+            "desc": ""
+        },
+        {
+            "hash": 4032465769,
+            "original": "SFX_PAUSE_340",
+            "translated": "SFX_PAUSE_340",
+            "desc": ""
+        },
+        {
+            "hash": 4134186517,
+            "original": "~z~~x~",
+            "translated": "~z~~x~",
+            "desc": ""
+        },
+        {
+            "hash": 4139412321,
+            "original": "E1MF3_GA",
+            "translated": "E1MF3_GA",
+            "desc": ""
+        },
+        {
+            "hash": 4141675867,
+            "original": "~z~Shit, for a bitch you ride good.",
+            "translated": "~z~妈的，你这贱逼还真猛啊。",
+            "desc": ""
+        },
+        {
+            "hash": 4145419876,
+            "original": "E1MF3_PA",
+            "translated": "E1MF3_PA",
+            "desc": ""
+        },
+        {
+            "hash": 4146024046,
+            "original": "E1MF3_BD",
+            "translated": "E1MF3_BD",
+            "desc": ""
+        },
+        {
+            "hash": 4148398240,
+            "original": "~z~Oh, we all good, baby. Ha, ha, ha. Bye bye.",
+            "translated": "~z~哦，我们都很好，宝贝。哈哈哈。拜拜。",
+            "desc": ""
+        },
+        {
+            "hash": 4161276977,
+            "original": "E1MF3_LB",
+            "translated": "E1MF3_LB",
+            "desc": ""
+        },
+        {
+            "hash": 4182173718,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 4199280087,
+            "original": "SFX_OVERLAP_5868",
+            "translated": "SFX_OVERLAP_5868",
+            "desc": ""
+        },
+        {
+            "hash": 4203799916,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 4207227314,
+            "original": "SFX_OVERLAP_4880",
+            "translated": "SFX_OVERLAP_4880",
+            "desc": ""
+        },
+        {
+            "hash": 4212922275,
+            "original": "~z~(SINGING) I don't care what you do to me, just be good to me.",
+            "translated": "~z~(唱歌) 不在乎你怎么对我，对我好就行",
+            "desc": ""
+        },
+        {
+            "hash": 4213159703,
+            "original": "E1MF3_PD",
+            "translated": "E1MF3_PD",
+            "desc": ""
+        },
+        {
+            "hash": 4228408889,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 4248877880,
+            "original": "SFX_OVERLAP_5715",
+            "translated": "SFX_OVERLAP_5715",
+            "desc": ""
+        },
+        {
+            "hash": 4255798393,
+            "original": "~z~Okay, man. Let's fucking race.",
+            "translated": "~z~好了，各位。开始比赛吧。",
+            "desc": ""
+        }
+    ]
+}

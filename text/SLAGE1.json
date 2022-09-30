@@ -1,0 +1,190 @@
+{
+    "SLAGE1": [
+        {
+            "hash": 103931474,
+            "original": "45 mins",
+            "translated": "45 mins",
+            "desc": ""
+        },
+        {
+            "hash": 150336563,
+            "original": "You lost the ~B~bike.~S~ Get it back and take it to your Clubhouse.",
+            "translated": "You lost the ~B~bike.~S~ Get it back and take it to your Clubhouse.",
+            "desc": ""
+        },
+        {
+            "hash": 222625415,
+            "original": "One of The Lost has taken the ~B~bike.~S~ Get it back before he takes it to their Clubhouse.",
+            "translated": "One of The Lost has taken the ~B~bike.~S~ Get it back before he takes it to their Clubhouse.",
+            "desc": ""
+        },
+        {
+            "hash": 225312469,
+            "original": "~R~The Lost destroyed the bike.~S~",
+            "translated": "~R~The Lost destroyed the bike.~S~",
+            "desc": ""
+        },
+        {
+            "hash": 269768360,
+            "original": "Steal the ~B~Innovation~S~ before The Lost and bring it back to the Clubhouse.",
+            "translated": "Steal the ~B~Innovation~S~ before The Lost and bring it back to the Clubhouse.",
+            "desc": ""
+        },
+        {
+            "hash": 343440095,
+            "original": "30 mins",
+            "translated": "30 mins",
+            "desc": ""
+        },
+        {
+            "hash": 372473425,
+            "original": "10 mins",
+            "translated": "10 mins",
+            "desc": ""
+        },
+        {
+            "hash": 465050039,
+            "original": "One of your brothers lost the ~B~bike.~S~ Steal it and take it to your Clubhouse.",
+            "translated": "One of your brothers lost the ~B~bike.~S~ Steal it and take it to your Clubhouse.",
+            "desc": ""
+        },
+        {
+            "hash": 581408569,
+            "original": "Best of 3",
+            "translated": "Best of 3",
+            "desc": ""
+        },
+        {
+            "hash": 768261596,
+            "original": "You captured the bike for your team.",
+            "translated": "You captured the bike for your team.",
+            "desc": ""
+        },
+        {
+            "hash": 820327348,
+            "original": "60 mins",
+            "translated": "60 mins",
+            "desc": ""
+        },
+        {
+            "hash": 1024281604,
+            "original": "Best of 9",
+            "translated": "Best of 9",
+            "desc": ""
+        },
+        {
+            "hash": 1263528073,
+            "original": "Best of 5",
+            "translated": "Best of 5",
+            "desc": ""
+        },
+        {
+            "hash": 1422134222,
+            "original": "You have the bike. Return it to the ~Y~Clubhouse.~S~",
+            "translated": "You have the bike. Return it to the ~Y~Clubhouse.~S~",
+            "desc": ""
+        },
+        {
+            "hash": 1649081108,
+            "original": "Steal the ~B~Innovation~S~ before the Angels of Death and bring it back to the Clubhouse.",
+            "translated": "Steal the ~B~Innovation~S~ before the Angels of Death and bring it back to the Clubhouse.",
+            "desc": ""
+        },
+        {
+            "hash": 2867007647,
+            "original": "One of the Angels of Death has taken the ~B~bike.~S~ Get it back before he takes it to their Clubhouse.",
+            "translated": "One of the Angels of Death has taken the ~B~bike.~S~ Get it back before he takes it to their Clubhouse.",
+            "desc": ""
+        },
+        {
+            "hash": 3074674888,
+            "original": "One of your brothers captured the bike.",
+            "translated": "One of your brothers captured the bike.",
+            "desc": ""
+        },
+        {
+            "hash": 3084865887,
+            "original": "~R~The bike was destroyed.~S~",
+            "translated": "~R~The bike was destroyed.~S~",
+            "desc": ""
+        },
+        {
+            "hash": 3271606881,
+            "original": "Duration",
+            "translated": "Duration",
+            "desc": ""
+        },
+        {
+            "hash": 3373495399,
+            "original": "Get off the bike.",
+            "translated": "Get off the bike.",
+            "desc": ""
+        },
+        {
+            "hash": 3664156277,
+            "original": "~S~The Lost no longer have the ~B~bike.~S~ Steal it and take it to the Clubhouse.",
+            "translated": "~S~The Lost no longer have the ~B~bike.~S~ Steal it and take it to the Clubhouse.",
+            "desc": ""
+        },
+        {
+            "hash": 3684538755,
+            "original": "~S~Take the bike back to the ~Y~Clubhouse.~S~",
+            "translated": "~S~Take the bike back to the ~Y~Clubhouse.~S~",
+            "desc": ""
+        },
+        {
+            "hash": 3807477951,
+            "original": "~R~The Angels of Death destroyed the bike.~S~",
+            "translated": "~R~The Angels of Death destroyed the bike.~S~",
+            "desc": ""
+        },
+        {
+            "hash": 3832654475,
+            "original": "~R~The bike is stuck. Pickup a different bike.~S~",
+            "translated": "~R~The bike is stuck. Pickup a different bike.~S~",
+            "desc": ""
+        },
+        {
+            "hash": 3900449507,
+            "original": "20 mins",
+            "translated": "20 mins",
+            "desc": ""
+        },
+        {
+            "hash": 3995877024,
+            "original": "~R~You destroyed the bike.~S~",
+            "translated": "~R~You destroyed the bike.~S~",
+            "desc": ""
+        },
+        {
+            "hash": 4104856626,
+            "original": "~R~The Angels of Death captured the bike.~S~",
+            "translated": "~R~The Angels of Death captured the bike.~S~",
+            "desc": ""
+        },
+        {
+            "hash": 4138487552,
+            "original": "~R~One of your brothers destroyed the bike. ~S~",
+            "translated": "~R~One of your brothers destroyed the bike. ~S~",
+            "desc": ""
+        },
+        {
+            "hash": 4225194920,
+            "original": "~R~The Lost captured the bike.~S~",
+            "translated": "~R~The Lost captured the bike.~S~",
+            "desc": ""
+        },
+        {
+            "hash": 4270514013,
+            "original": "One of your brothers has the ~B~bike.~S~ Help get it back to the Clubhouse.",
+            "translated": "One of your brothers has the ~B~bike.~S~ Help get it back to the Clubhouse.",
+            "desc": ""
+        },
+        {
+            "hash": 4285685900,
+            "original": "~S~The Angels of Death no longer have the ~B~bike.~S~ Steal it and take it to the Clubhouse.",
+            "translated": "~S~The Angels of Death no longer have the ~B~bike.~S~ Steal it and take it to the Clubhouse.",
+            "desc": ""
+        }
+    ]
+}

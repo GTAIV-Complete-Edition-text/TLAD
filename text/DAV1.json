@@ -1,0 +1,52 @@
+{
+    "DAV1": [
+        {
+            "hash": 98947837,
+            "original": "~r~The lawyer informed the police.~s~",
+            "translated": "~r~律师报警了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1248582664,
+            "original": "The ~r~lawyer~s~ is driving off. Chase him down and intimidate him.",
+            "translated": "~r~律师~s~正在逃跑，追上去恐吓他。",
+            "desc": ""
+        },
+        {
+            "hash": 1495431541,
+            "original": "Go to Denver Avenue and find the ~r~lawyer.~s~",
+            "translated": "前往Denver大道寻找~r~律师。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2753957759,
+            "original": "~r~The lawyer got away.~s~",
+            "translated": "~r~律师逃走了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2989403024,
+            "original": "Go and speak with the ~r~lawyer.~s~",
+            "translated": "去和~r~律师~s~聊聊。",
+            "desc": ""
+        },
+        {
+            "hash": 3194536964,
+            "original": "~r~The lawyer's car was wrecked.~s~",
+            "translated": "~r~律师的车被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3880293827,
+            "original": "~r~The lawyer is dead.~s~",
+            "translated": "~r~律师死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4153816670,
+            "original": "You are losing the ~r~lawyer.",
+            "translated": "你要跟丢~r~律师~s~了。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,1534 @@
+{
+    "GWAUD": [
+        {
+            "hash": 6027081,
+            "original": "~z~Alright, man. Let's hit 'em hard. Get some of the brothers.",
+            "translated": "~z~好了，兄弟。干他们一发大的。多叫几个弟兄。",
+            "desc": ""
+        },
+        {
+            "hash": 39420791,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 47306196,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 62476523,
+            "original": "~z~I got intel on them transporting a vehicle across Algonquin.",
+            "translated": "~z~内部消息，他们正在护送车辆穿过Algonquin。",
+            "desc": ""
+        },
+        {
+            "hash": 63684668,
+            "original": "~z~Hey, Johnny, time to teach them motherfuckers who runs this town.",
+            "translated": "~z~嘿，Johnny，该告诉那帮狗逼玩意谁才是真正的老大了。",
+            "desc": ""
+        },
+        {
+            "hash": 118586827,
+            "original": "~z~Far as I know, they're still cruising in Bohan somewhere.",
+            "translated": "~z~据我所知，他们还在Bohan某地巡游。",
+            "desc": ""
+        },
+        {
+            "hash": 119650755,
+            "original": "~z~They're in Broker transporting a vehicle.",
+            "translated": "~z~他们在Broker护送车辆。",
+            "desc": ""
+        },
+        {
+            "hash": 126224583,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 136759751,
+            "original": "E1FCJ2_ACT_ARRIVE_GANG_GW_ALG_FA",
+            "translated": "E1FCJ2_ACT_ARRIVE_GANG_GW_ALG_FA",
+            "desc": ""
+        },
+        {
+            "hash": 137200196,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 152258186,
+            "original": "~z~Let's put these fuckers out of business.",
+            "translated": "~z~让这帮傻卵灰飞烟灭。",
+            "desc": ""
+        },
+        {
+            "hash": 155616467,
+            "original": "~z~Let's get outta here.",
+            "translated": "~z~赶紧撤吧。",
+            "desc": ""
+        },
+        {
+            "hash": 186010734,
+            "original": "E1FCJ2_ACT_ARRIVE_GANG_GW_ALG_CA",
+            "translated": "E1FCJ2_ACT_ARRIVE_GANG_GW_ALG_CA",
+            "desc": ""
+        },
+        {
+            "hash": 188639516,
+            "original": "~z~They're moving some vehicle in Alderney.",
+            "translated": "~z~他们在Alderney运送货物。",
+            "desc": ""
+        },
+        {
+            "hash": 200528569,
+            "original": "~z~They're hanging in Broker, last I heard.",
+            "translated": "~z~就我所知，他们现在在Broker。",
+            "desc": ""
+        },
+        {
+            "hash": 235435803,
+            "original": "~z~I think they're hanging out in Alderney.",
+            "translated": "~z~我觉得他们现在在Alderney。",
+            "desc": ""
+        },
+        {
+            "hash": 245341244,
+            "original": "~z~They're escorting a vehicle across Algonquin.",
+            "translated": "~z~他们在护送车辆穿越Algonquin。",
+            "desc": ""
+        },
+        {
+            "hash": 256667223,
+            "original": "~z~They're in Bohan moving some vehicle.",
+            "translated": "~z~他们在Bohan运送货物。",
+            "desc": ""
+        },
+        {
+            "hash": 268468861,
+            "original": "~z~My brothers - let's roll.",
+            "translated": "~z~好兄弟们，开干吧。",
+            "desc": ""
+        },
+        {
+            "hash": 281903154,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 284176002,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 312122310,
+            "original": "~z~Go round up some brothers, man.",
+            "translated": "~z~多叫几个弟兄，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 350296430,
+            "original": "~z~Last I heard they was cruising around Bohan.",
+            "translated": "~z~最后听说他们是在Bohan附近巡游。",
+            "desc": ""
+        },
+        {
+            "hash": 367412450,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 390319027,
+            "original": "E1FCJ2_ACT_ARRIVE_GANG_GW_BRO_VA",
+            "translated": "E1FCJ2_ACT_ARRIVE_GANG_GW_BRO_VA",
+            "desc": ""
+        },
+        {
+            "hash": 401236451,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 411828088,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 428893426,
+            "original": "~z~They be cruising round Bohan.",
+            "translated": "~z~他们正在Bohan巡游。",
+            "desc": ""
+        },
+        {
+            "hash": 431502682,
+            "original": "E1FCT3_ACT_ARRIVE_GANG_GW_ALG_FA",
+            "translated": "E1FCT3_ACT_ARRIVE_GANG_GW_ALG_FA",
+            "desc": ""
+        },
+        {
+            "hash": 438205877,
+            "original": "~z~They're taking a vehicle across the great borough of Algonquin I heard.",
+            "translated": "~z~听说他们正在护送车辆通过Algonquin的大桥。",
+            "desc": ""
+        },
+        {
+            "hash": 448646769,
+            "original": "~z~Okay, brother. Let's you and me sniff out these ganja smoking dopes.",
+            "translated": "~z~好了，兄弟。我们一起去收拾那些抽大麻的毒贩吧。",
+            "desc": ""
+        },
+        {
+            "hash": 453141008,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 495806397,
+            "original": "~z~You ready, man? Come on.",
+            "translated": "~z~准备好了吗，兄弟？走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 515300093,
+            "original": "E1FCJ2_ACT_ARRIVE_GANG_GW_ALD_CA",
+            "translated": "E1FCJ2_ACT_ARRIVE_GANG_GW_ALD_CA",
+            "desc": ""
+        },
+        {
+            "hash": 530121663,
+            "original": "~z~I've heard they're transporting a vehicle across the lovely borough of Bohan.",
+            "translated": "~z~听说他们在护送车辆通过Bohan的大桥。",
+            "desc": ""
+        },
+        {
+            "hash": 573314224,
+            "original": "~z~They're escorting a vehicle across Alderney.",
+            "translated": "~z~他们在护送车辆穿越Alderney。",
+            "desc": ""
+        },
+        {
+            "hash": 582363332,
+            "original": "~z~They been spotted hanging out in Algonquin.",
+            "translated": "~z~有人目击他们在Algonquin出没。",
+            "desc": ""
+        },
+        {
+            "hash": 597733018,
+            "original": "~z~Get the vehicles boys.",
+            "translated": "~z~逼停他们，弟兄们。",
+            "desc": ""
+        },
+        {
+            "hash": 628637683,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 639444332,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 677056599,
+            "original": "E1FCJ2_ACT_ARRIVE_GANG_GW_BOH_CA",
+            "translated": "E1FCJ2_ACT_ARRIVE_GANG_GW_BOH_CA",
+            "desc": ""
+        },
+        {
+            "hash": 683783848,
+            "original": "~z~Fuck yeah boys. Good to see your ugly faces.",
+            "translated": "~z~好耶，兄弟们。很高兴见到你们的丑脸。",
+            "desc": ""
+        },
+        {
+            "hash": 686516940,
+            "original": "~z~Alright, man. We got to track down these dreadlocked pricks.",
+            "translated": "~z~好了，兄弟。我们去追猎那帮牙买加混蛋吧。",
+            "desc": ""
+        },
+        {
+            "hash": 696804538,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 713415112,
+            "original": "E1FCC3_ACT_ARRIVE_GANG_GW_ALD_VA",
+            "translated": "E1FCC3_ACT_ARRIVE_GANG_GW_ALD_VA",
+            "desc": ""
+        },
+        {
+            "hash": 737097044,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 743450766,
+            "original": "~z~They're hanging out in Algonquin, last I heard.",
+            "translated": "~z~就我所知，他们现在在Algonquin。",
+            "desc": ""
+        },
+        {
+            "hash": 753516844,
+            "original": "~z~Stop that fucking vehicle.",
+            "translated": "~z~把车拦住。",
+            "desc": ""
+        },
+        {
+            "hash": 765414788,
+            "original": "~z~Come on, boys, let's get outta here.",
+            "translated": "~z~走了，兄弟们，该撤退了。",
+            "desc": ""
+        },
+        {
+            "hash": 766320967,
+            "original": "~z~They're doin' a little escort work. Moving a vehicle in Broker.",
+            "translated": "~z~他们现在在护送车子通过Broker。",
+            "desc": ""
+        },
+        {
+            "hash": 782046134,
+            "original": "E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_GW_RUSA",
+            "translated": "E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_GW_RUSA",
+            "desc": ""
+        },
+        {
+            "hash": 796143844,
+            "original": "E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ITAA",
+            "translated": "E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ITAA",
+            "desc": ""
+        },
+        {
+            "hash": 803909677,
+            "original": "~z~They're doin' a little escort work. Moving a vehicle in Alderney.",
+            "translated": "~z~他们现在在护送车子通过Alderney。",
+            "desc": ""
+        },
+        {
+            "hash": 807511248,
+            "original": "~z~The been sighted escorting a vehicle across Bohan.",
+            "translated": "~z~有人目击他们护送车辆通过Bohan。",
+            "desc": ""
+        },
+        {
+            "hash": 818248209,
+            "original": "~z~I think they're hanging out in Alderney.",
+            "translated": "~z~他们好像在Alderney出没。",
+            "desc": ""
+        },
+        {
+            "hash": 834790921,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 834928283,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 838989818,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 847660485,
+            "original": "~z~They're in Broker moving some vehicle.",
+            "translated": "~z~他们在Broker运送货物。",
+            "desc": ""
+        },
+        {
+            "hash": 854146986,
+            "original": "~z~They're hanging in Broker.",
+            "translated": "~z~他们现在在Broker。",
+            "desc": ""
+        },
+        {
+            "hash": 880102246,
+            "original": "~z~Boys - let's roll.",
+            "translated": "~z~弟兄们，开干吧。",
+            "desc": ""
+        },
+        {
+            "hash": 898687410,
+            "original": "~z~Lost MC, man. Round up the wrecking crew.",
+            "translated": "~z~失落帮，兄弟们。把弟兄们都叫上。",
+            "desc": ""
+        },
+        {
+            "hash": 900744477,
+            "original": "~z~Hey, Johnny, let's go find those lunatics and educate them.",
+            "translated": "~z~嘿，Johnny，一起去教训教训那帮疯子吧。",
+            "desc": ""
+        },
+        {
+            "hash": 903817282,
+            "original": "~z~They're cruising somewhere in Broker.",
+            "translated": "~z~他们在Broker的某处巡游。",
+            "desc": ""
+        },
+        {
+            "hash": 918940310,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 947329109,
+            "original": "~z~They should be moving a vehicle in Algonquin right now.",
+            "translated": "~z~他们应该在Algonquin运送货物。",
+            "desc": ""
+        },
+        {
+            "hash": 959495364,
+            "original": "E1FCC3_ACT_ARRIVE_GANG_GW_ALG_FA",
+            "translated": "E1FCC3_ACT_ARRIVE_GANG_GW_ALG_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1044827259,
+            "original": "~z~Brothers are still hanging in Algonquin, as far as I know.",
+            "translated": "~z~据我所知，兄弟们还在Algonquin。",
+            "desc": ""
+        },
+        {
+            "hash": 1051985995,
+            "original": "E1FCJ2_ACT_ARRIVE_GANG_GW_BRO_FA",
+            "translated": "E1FCJ2_ACT_ARRIVE_GANG_GW_BRO_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1059019359,
+            "original": "~z~You ready, Johnny? Let's send the AOD a message they ain't never gonna forget.",
+            "translated": "~z~准备好了吗，Johnny？给死亡天使传达无法磨灭的消息吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1063923889,
+            "original": "~z~They're in Bohan, just cruising and shit.",
+            "translated": "~z~他们在Bohan，四处巡游。",
+            "desc": ""
+        },
+        {
+            "hash": 1075747241,
+            "original": "~z~Whoo. Let's stop for a pizza when we're done.",
+            "translated": "~z~呼，完事之后去吃个披萨吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1096883076,
+            "original": "E1FCT3_ACT_ARRIVE_GANG_GW_ALD_VA",
+            "translated": "E1FCT3_ACT_ARRIVE_GANG_GW_ALD_VA",
+            "desc": ""
+        },
+        {
+            "hash": 1128455734,
+            "original": "~z~They're somewhere in Algonquin.",
+            "translated": "~z~他们在Algonquin的某处。",
+            "desc": ""
+        },
+        {
+            "hash": 1160262386,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 1162276105,
+            "original": "~z~Let's go, boys.",
+            "translated": "~z~出发了，弟兄们。",
+            "desc": ""
+        },
+        {
+            "hash": 1165632608,
+            "original": "~z~These dago motherfuckers are gonna know about The Lost MC when we're done.",
+            "translated": "~z~马上这帮意大利佬就要记住失落帮的大名了。",
+            "desc": ""
+        },
+        {
+            "hash": 1198909622,
+            "original": "~z~Far as I know it, they're still cruising in Alderney somewhere.",
+            "translated": "~z~据我所知，他们还在Alderney的哪里巡游。",
+            "desc": ""
+        },
+        {
+            "hash": 1240954694,
+            "original": "~z~I heard they're over in Algonquin, hanging out.",
+            "translated": "~z~听说他们在Algonquin出没。",
+            "desc": ""
+        },
+        {
+            "hash": 1283488185,
+            "original": "~z~Apparently they're moving a vehicle across Broker.",
+            "translated": "~z~显然他们正在跨越 Broker 运货。",
+            "desc": ""
+        },
+        {
+            "hash": 1292619831,
+            "original": "~z~Let's go find the Deadbeats, my friend.",
+            "translated": "~z~去狩猎死妈天使吧，朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 1315023958,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 1325573354,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 1327465323,
+            "original": "~z~Brothers for life, Lost forever. Let's fuckin' do it.",
+            "translated": "~z~生死兄弟情，失落帮万岁。开干吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1350416929,
+            "original": "E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ALBA",
+            "translated": "E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ALBA",
+            "desc": ""
+        },
+        {
+            "hash": 1356811527,
+            "original": "E1FCJ2_ACT_ARRIVE_GANG_GW_ALG_VA",
+            "translated": "E1FCJ2_ACT_ARRIVE_GANG_GW_ALG_VA",
+            "desc": ""
+        },
+        {
+            "hash": 1374950957,
+            "original": "~z~Boys, let's get outta here.",
+            "translated": "~z~兄弟们，该撤退了。",
+            "desc": ""
+        },
+        {
+            "hash": 1389382797,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 1390800685,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 1456340897,
+            "original": "E1FCJ3_ACT_E1_GW_KILLED_GANGA",
+            "translated": "E1FCJ3_ACT_E1_GW_KILLED_GANGA",
+            "desc": ""
+        },
+        {
+            "hash": 1491328326,
+            "original": "~z~Word is they're doing some vehicle transport operation in Broker.",
+            "translated": "~z~听说他们在Broker运送某些货物。",
+            "desc": ""
+        },
+        {
+            "hash": 1521528538,
+            "original": "~z~I think they're hanging out in Bohan.",
+            "translated": "~z~我觉得他们现在在Bohan。",
+            "desc": ""
+        },
+        {
+            "hash": 1529041604,
+            "original": "E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_GW_AODA",
+            "translated": "E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_GW_AODA",
+            "desc": ""
+        },
+        {
+            "hash": 1531229726,
+            "original": "~z~The guys are in Broker right now.",
+            "translated": "~z~他们现在在Broker。",
+            "desc": ""
+        },
+        {
+            "hash": 1531767993,
+            "original": "~z~Angels of Death, prepare to meet your maker!",
+            "translated": "~z~死亡天使，滚去见你们的造物主吧！",
+            "desc": ""
+        },
+        {
+            "hash": 1535453519,
+            "original": "~z~Let's get lost, boys.",
+            "translated": "~z~我们撤吧，兄弟们。",
+            "desc": ""
+        },
+        {
+            "hash": 1535513396,
+            "original": "~z~Right, man. It's time we paid the Angels of Death a visit.",
+            "translated": "~z~好了，兄弟。是时候拜访死亡天使了。",
+            "desc": ""
+        },
+        {
+            "hash": 1539022115,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 1539646878,
+            "original": "~z~I heard they're escorting a vehicle through the mean streets of Alderney.",
+            "translated": "~z~听说他们在护送车辆通过Alderney的大街小巷。",
+            "desc": ""
+        },
+        {
+            "hash": 1555985920,
+            "original": "~z~I think they are in Broker someplace.",
+            "translated": "~z~我觉得他们在Broker的某处。",
+            "desc": ""
+        },
+        {
+            "hash": 1561271408,
+            "original": "~z~Okay, man, let's find these tracksuit-wearing motherfuckers.",
+            "translated": "~z~好了，兄弟，去会会这些穿运动服的混蛋吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1575920234,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1609698705,
+            "original": "E1FCC3_ACT_ARRIVE_GANG_GW_ALG_VA",
+            "translated": "E1FCC3_ACT_ARRIVE_GANG_GW_ALG_VA",
+            "desc": ""
+        },
+        {
+            "hash": 1652328454,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 1661774670,
+            "original": "~z~I think they're in Broker hanging out.",
+            "translated": "~z~我觉得他们现在在Broker。",
+            "desc": ""
+        },
+        {
+            "hash": 1703994179,
+            "original": "E1FCC3_ACT_ARRIVE_GANG_GW_BOH_VA",
+            "translated": "E1FCC3_ACT_ARRIVE_GANG_GW_BOH_VA",
+            "desc": ""
+        },
+        {
+            "hash": 1716058184,
+            "original": "E1FCJ3_AA",
+            "translated": "E1FCJ3_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1729131907,
+            "original": "~z~They're in Algonquin moving a vehicle at the moment.",
+            "translated": "~z~他们现在在Algonquin运送车辆。",
+            "desc": ""
+        },
+        {
+            "hash": 1732126256,
+            "original": "~z~They're cruising around Algonquin.",
+            "translated": "~z~他们在Algonquin周边巡游。",
+            "desc": ""
+        },
+        {
+            "hash": 1753369213,
+            "original": "~z~They're in Bohan, hanging out.",
+            "translated": "~z~他们现在在Bohan。",
+            "desc": ""
+        },
+        {
+            "hash": 1755657116,
+            "original": "~z~We got some tracksuit-wearing motherfuckers to beat on, man. Let's go.",
+            "translated": "~z~这次的目标是一帮穿运动服的混蛋，兄弟。走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1758745963,
+            "original": "~z~You speak Russian? Me neither, Johnny. Let's hope these hoods understand an ass beating.",
+            "translated": "~z~会讲俄语吗？我不会，Johnny。只能用拳头跟他们说话了。",
+            "desc": ""
+        },
+        {
+            "hash": 1769920172,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 1778958885,
+            "original": "~z~Word is they're taking a vehicle through Alderney.",
+            "translated": "~z~听说他们在护送车辆通过Alderney。",
+            "desc": ""
+        },
+        {
+            "hash": 1787713511,
+            "original": "~z~Let's find ourselves some mobsters.",
+            "translated": "~z~今天就找几个黑帮玩吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1832395935,
+            "original": "E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ALBA",
+            "translated": "E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ALBA",
+            "desc": ""
+        },
+        {
+            "hash": 1841412011,
+            "original": "~z~Let's do this, Johnny. Those Deadbeats ain't gonna know what hit 'em.",
+            "translated": "~z~动手吧，Johnny。死妈天使不会知道自己是怎么死的。",
+            "desc": ""
+        },
+        {
+            "hash": 1843321690,
+            "original": "~z~Last I heard they was cruising in Broker.",
+            "translated": "~z~最后一次听说他们是在Broker巡游。",
+            "desc": ""
+        },
+        {
+            "hash": 1862356109,
+            "original": "E1FCC3_ACT_ARRIVE_GANG_GW_BRO_VA",
+            "translated": "E1FCC3_ACT_ARRIVE_GANG_GW_BRO_VA",
+            "desc": ""
+        },
+        {
+            "hash": 1963072176,
+            "original": "~z~They're on the move in Alderney.",
+            "translated": "~z~他们现在在Alderney活动。",
+            "desc": ""
+        },
+        {
+            "hash": 2001090293,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 2002990258,
+            "original": "~z~They're escorting a vehicle across Broker.",
+            "translated": "~z~他们在护送车辆穿越Broker。",
+            "desc": ""
+        },
+        {
+            "hash": 2023967071,
+            "original": "E1FCJ2_ACT_ARRIVE_GANG_GW_ALD_VA",
+            "translated": "E1FCJ2_ACT_ARRIVE_GANG_GW_ALD_VA",
+            "desc": ""
+        },
+        {
+            "hash": 2046765941,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 2050185618,
+            "original": "~z~Okay, assholes. Good to fuckin' see ya.",
+            "translated": "~z~好了，混蛋们。见到你们真好。",
+            "desc": ""
+        },
+        {
+            "hash": 2066405584,
+            "original": "~z~Okay, boys. Let's roll.",
+            "translated": "~z~好了，兄弟们。走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2075580775,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 2078870384,
+            "original": "E1FCJ3_ACT_E1_GW_ATTACK_GANG_VA",
+            "translated": "E1FCJ3_ACT_E1_GW_ATTACK_GANG_VA",
+            "desc": ""
+        },
+        {
+            "hash": 2105074241,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2114893259,
+            "original": "~z~Let's go teach those Jamaican gang bangers some respect.",
+            "translated": "~z~一起去教那帮牙买加佬什么叫做尊重吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2124035583,
+            "original": "E1FCT3_ACT_ARRIVE_GANG_GW_BOH_FA",
+            "translated": "E1FCT3_ACT_ARRIVE_GANG_GW_BOH_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2140184003,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 2152732919,
+            "original": "~z~They're in Broker - on the move.",
+            "translated": "~z~他们现在在Broker活动。",
+            "desc": ""
+        },
+        {
+            "hash": 2174940554,
+            "original": "~z~Okay, time to make ourselves scarce, boys.",
+            "translated": "~z~好了，今天就到这儿了，兄弟们。",
+            "desc": ""
+        },
+        {
+            "hash": 2204632956,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 2216747544,
+            "original": "~z~They're kicking tires in Broker.",
+            "translated": "~z~他们在Broker臊皮。",
+            "desc": ""
+        },
+        {
+            "hash": 2217254212,
+            "original": "~z~You ready man? Let's get going.",
+            "translated": "~z~准备好了吗？我们出发吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2220714236,
+            "original": "~z~Let's hit up these A.O.D. motherfuckers, man.",
+            "translated": "~z~一起去干翻这帮死妈天使的混帐吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2237795974,
+            "original": "~z~Let's show 'em how we fight in the USA.",
+            "translated": "~z~让他们瞧瞧美国人是怎么干架的。",
+            "desc": ""
+        },
+        {
+            "hash": 2252695730,
+            "original": "~z~OK, Johnny. Let's go get those Deadbeat bastards.",
+            "translated": "~z~好了，Johnny。一起去干翻那帮死妈天使吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2261237307,
+            "original": "~z~They're cruising around Alderney.",
+            "translated": "~z~他们在Alderney周边巡游。",
+            "desc": ""
+        },
+        {
+            "hash": 2271791231,
+            "original": "~z~JK, let's go find those lunatics and educate them.",
+            "translated": "~z~JK，一起去教训教训那帮疯子吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2288907629,
+            "original": "E1FCJ3_ACT_ARRIVE_BIKE_NOT_LATE_GW_JAMA",
+            "translated": "E1FCJ3_ACT_ARRIVE_BIKE_NOT_LATE_GW_JAMA",
+            "desc": ""
+        },
+        {
+            "hash": 2302063369,
+            "original": "E1FCJ2_ACT_ARRIVE_GANG_GW_BOH_FA",
+            "translated": "E1FCJ2_ACT_ARRIVE_GANG_GW_BOH_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2306873038,
+            "original": "~z~They're cruising in Algonquin.",
+            "translated": "~z~他们在Algonquin巡游。",
+            "desc": ""
+        },
+        {
+            "hash": 2357361535,
+            "original": "~z~Let's roll, boys.",
+            "translated": "~z~出发了，兄弟们。",
+            "desc": ""
+        },
+        {
+            "hash": 2371485663,
+            "original": "~z~Alright there, brothers. Let's go.",
+            "translated": "~z~好了，兄弟们。出发吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2379763029,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2405183017,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2432435314,
+            "original": "~z~Brothers, let's do this.",
+            "translated": "~z~弟兄们，开干吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2449778938,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 2457090523,
+            "original": "~z~OK, man. Let's do this thing.",
+            "translated": "~z~好了，哥们。准备开干吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2513025942,
+            "original": "~z~They're in Algonquin hanging out.",
+            "translated": "~z~他们在Algonquin出没。",
+            "desc": ""
+        },
+        {
+            "hash": 2543203054,
+            "original": "~z~Okay, so these assholes come from Russian.",
+            "translated": "~z~好了，这次的目标是俄国来的。",
+            "desc": ""
+        },
+        {
+            "hash": 2576651114,
+            "original": "~z~We got Deadbeat ass to kick, man. Come on.",
+            "translated": "~z~该去教训死妈天使了。走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2595830080,
+            "original": "~z~I head they were on the move in Algonquin.",
+            "translated": "~z~听说他们之前在Algonquin活动。",
+            "desc": ""
+        },
+        {
+            "hash": 2609677950,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 2669957767,
+            "original": "E1FCC3_ACT_ARRIVE_GANG_GW_ALD_CA",
+            "translated": "E1FCC3_ACT_ARRIVE_GANG_GW_ALD_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2697734387,
+            "original": "~z~Take out their vehicles boys.",
+            "translated": "~z~拿下他们的车子，弟兄们。",
+            "desc": ""
+        },
+        {
+            "hash": 2715806480,
+            "original": "E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_GW_RUSA",
+            "translated": "E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_GW_RUSA",
+            "desc": ""
+        },
+        {
+            "hash": 2721976949,
+            "original": "E1FCC3_ACT_ARRIVE_GANG_GW_ALG_CA",
+            "translated": "E1FCC3_ACT_ARRIVE_GANG_GW_ALG_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2730883957,
+            "original": "E1FCJ3_ACT_ARRIVE_BIKE_NOT_LATE_GW_AOD",
+            "translated": "E1FCJ3_ACT_ARRIVE_BIKE_NOT_LATE_GW_AOD",
+            "desc": ""
+        },
+        {
+            "hash": 2771059127,
+            "original": "E1FCJ3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ALB",
+            "translated": "E1FCJ3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ALB",
+            "desc": ""
+        },
+        {
+            "hash": 2780170780,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 2808257644,
+            "original": "E1FCT3_ACT_ARRIVE_GANG_GW_BRO_VA",
+            "translated": "E1FCT3_ACT_ARRIVE_GANG_GW_BRO_VA",
+            "desc": ""
+        },
+        {
+            "hash": 2810142465,
+            "original": "~z~I think they're hanging out in Algonquin.",
+            "translated": "~z~我觉得他们现在在Algonquin。",
+            "desc": ""
+        },
+        {
+            "hash": 2813039730,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 2821855557,
+            "original": "~z~They're hanging in Bohan.",
+            "translated": "~z~他们现在在Bohan。",
+            "desc": ""
+        },
+        {
+            "hash": 2831664199,
+            "original": "E1FCJ2_ACT_ARRIVE_GANG_GW_ALD_FA",
+            "translated": "E1FCJ2_ACT_ARRIVE_GANG_GW_ALD_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2841480471,
+            "original": "E1FCT3_ACT_ARRIVE_GANG_GW_ALD_CA",
+            "translated": "E1FCT3_ACT_ARRIVE_GANG_GW_ALD_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2852720357,
+            "original": "~z~Brothers are still hanging in Broker, as far as I know.",
+            "translated": "~z~兄弟们还在Broker，据我所知。",
+            "desc": ""
+        },
+        {
+            "hash": 2906759793,
+            "original": "~z~They're somewhere in Alderney.",
+            "translated": "~z~他们在Alderney的某处。",
+            "desc": ""
+        },
+        {
+            "hash": 2923057891,
+            "original": "~z~Some of the brothers will want to join in on this ass kicking. Round 'em up.",
+            "translated": "~z~有些兄弟想跟我们一起臊皮。带上他们吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2925855600,
+            "original": "E1FCT3_ACT_ARRIVE_GANG_GW_BOH_VA",
+            "translated": "E1FCT3_ACT_ARRIVE_GANG_GW_BOH_VA",
+            "desc": ""
+        },
+        {
+            "hash": 2961582194,
+            "original": "E1FCJ3_ACT_E1_GW_LETS_GOA",
+            "translated": "E1FCJ3_ACT_E1_GW_LETS_GOA",
+            "desc": ""
+        },
+        {
+            "hash": 2973626509,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 3010173752,
+            "original": "~z~Fuck these assholes.",
+            "translated": "~z~死吧傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 3023201194,
+            "original": "E1FCC3_ACT_ARRIVE_GANG_GW_BRO_FA",
+            "translated": "E1FCC3_ACT_ARRIVE_GANG_GW_BRO_FA",
+            "desc": ""
+        },
+        {
+            "hash": 3032918632,
+            "original": "~z~You ready, man? Come on.",
+            "translated": "~z~准备好了吗，兄弟？走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3093608677,
+            "original": "E1FCT3_ACT_ARRIVE_GANG_GW_ALG_VA",
+            "translated": "E1FCT3_ACT_ARRIVE_GANG_GW_ALG_VA",
+            "desc": ""
+        },
+        {
+            "hash": 3100789242,
+            "original": "E1FCT3_ACT_ARRIVE_GANG_GW_BOH_CA",
+            "translated": "E1FCT3_ACT_ARRIVE_GANG_GW_BOH_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3101983360,
+            "original": "E1FCT3_ACT_ARRIVE_GANG_GW_ALG_CA",
+            "translated": "E1FCT3_ACT_ARRIVE_GANG_GW_ALG_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3135929658,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 3163833761,
+            "original": "~z~Hey man. Let's get going.",
+            "translated": "~z~嘿，兄弟。我们出发吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3171834461,
+            "original": "~z~The Angels of Death won't know what hit 'em, men. Let's do this!",
+            "translated": "~z~死亡天使不会知道自己是怎么死的，兄弟们。开干吧！",
+            "desc": ""
+        },
+        {
+            "hash": 3194103026,
+            "original": "~z~They're on our doorstep - Alderney, man.",
+            "translated": "~z~他们就在我们的领地——Alderney，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3213467039,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 3214249553,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 3220391892,
+            "original": "~z~They're cruising around Alderney.",
+            "translated": "~z~他们在Alderney周边巡游。",
+            "desc": ""
+        },
+        {
+            "hash": 3229389709,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 3230155243,
+            "original": "~z~Hey Johnny. Let's go remind those mobsters that it ain't the 1970s anymore.",
+            "translated": "~z~嘿，Johnny。一起去告诉他们现在不是70年代吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3251743197,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 3271148437,
+            "original": "~z~Last I heard they was cruising in Algonquin.",
+            "translated": "~z~最后一次听说他们是在Algonquin。",
+            "desc": ""
+        },
+        {
+            "hash": 3271958164,
+            "original": "~z~They're in Alderney hanging out.",
+            "translated": "~z~他们现在在Alderney。",
+            "desc": ""
+        },
+        {
+            "hash": 3273279190,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 3359569337,
+            "original": "~z~They're hanging out in Broker.",
+            "translated": "~z~他们现在在Broker。",
+            "desc": ""
+        },
+        {
+            "hash": 3387547724,
+            "original": "~z~OK, Johnny. Let's go get those bastards!",
+            "translated": "~z~好了，Johnny。一起去教训那帮混蛋吧！",
+            "desc": ""
+        },
+        {
+            "hash": 3390425220,
+            "original": "~z~Fuck these bitches.",
+            "translated": "~z~一群臭傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 3392846953,
+            "original": "~z~They're cruising around Bohan.",
+            "translated": "~z~他们在Bohan周边巡游。",
+            "desc": ""
+        },
+        {
+            "hash": 3416083810,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3419344432,
+            "original": "~z~Let's show 'em how we do it in the Lost MC. Go get some brothers.",
+            "translated": "~z~让他们见识下失落帮的风范吧。叫几个弟兄来。",
+            "desc": ""
+        },
+        {
+            "hash": 3430530457,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3439901448,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3448635458,
+            "original": "~z~Lost MC. Let's do it.",
+            "translated": "~z~失落帮。动手吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3470873123,
+            "original": "~z~Let's end these assholes.",
+            "translated": "~z~送这些混蛋上路。",
+            "desc": ""
+        },
+        {
+            "hash": 3502590392,
+            "original": "~z~I had intel that they're hanging in our very own Alderney.",
+            "translated": "~z~内部消息，他们现在在我们 Alderney的地盘。",
+            "desc": ""
+        },
+        {
+            "hash": 3513216059,
+            "original": "E1FCJ3_ACT_ARRIVE_BIKE_NOT_LATE_GW_RUSA",
+            "translated": "E1FCJ3_ACT_ARRIVE_BIKE_NOT_LATE_GW_RUSA",
+            "desc": ""
+        },
+        {
+            "hash": 3515149323,
+            "original": "E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_GW_AODA",
+            "translated": "E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_GW_AODA",
+            "desc": ""
+        },
+        {
+            "hash": 3523516331,
+            "original": "E1FCC3_ACT_ARRIVE_GANG_GW_ALD_FA",
+            "translated": "E1FCC3_ACT_ARRIVE_GANG_GW_ALD_FA",
+            "desc": ""
+        },
+        {
+            "hash": 3527823664,
+            "original": "~z~Let's go get those bastards!",
+            "translated": "~z~给他们点颜色看看！",
+            "desc": ""
+        },
+        {
+            "hash": 3546852372,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 3554819821,
+            "original": "~z~They're doin' a little escort work. Moving a vehicle in Bohan.",
+            "translated": "~z~他们现在在护送车辆通过Bohan。",
+            "desc": ""
+        },
+        {
+            "hash": 3562206191,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3582950110,
+            "original": "~z~Apparently they're moving a vehicle across Bohan.",
+            "translated": "~z~显然他们正在跨越 Bohan 运货。",
+            "desc": ""
+        },
+        {
+            "hash": 3586937446,
+            "original": "E1FCT3_ACT_ARRIVE_GANG_GW_BRO_FA",
+            "translated": "E1FCT3_ACT_ARRIVE_GANG_GW_BRO_FA",
+            "desc": ""
+        },
+        {
+            "hash": 3642015763,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 3647970151,
+            "original": "E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_GW_JAMA",
+            "translated": "E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_GW_JAMA",
+            "desc": ""
+        },
+        {
+            "hash": 3656609935,
+            "original": "E1FCJ3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ITAA",
+            "translated": "E1FCJ3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ITAA",
+            "desc": ""
+        },
+        {
+            "hash": 3658721977,
+            "original": "~z~We need numbers for this. Go get some of the boys.",
+            "translated": "~z~这次得多找点人。叫几个弟兄来。",
+            "desc": ""
+        },
+        {
+            "hash": 3670053004,
+            "original": "~z~They're in Alderney, hanging out.",
+            "translated": "~z~他们现在在Alderney。",
+            "desc": ""
+        },
+        {
+            "hash": 3698057419,
+            "original": "~z~They're somewhere in Bohan.",
+            "translated": "~z~他们在Bohan的某处。",
+            "desc": ""
+        },
+        {
+            "hash": 3712396069,
+            "original": "E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ITAA",
+            "translated": "E1FCT3_ACT_ARRIVE_BIKE_NOT_LATE_GW_ITAA",
+            "desc": ""
+        },
+        {
+            "hash": 3723424899,
+            "original": "~z~Hi Johnny. Let's go find those lunatics and educate them.",
+            "translated": "~z~嗨，Johnny。一起去教训教训那帮疯子吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3732018880,
+            "original": "~z~They're cruising around Alderney.",
+            "translated": "~z~他们在Alderney周边巡游。",
+            "desc": ""
+        },
+        {
+            "hash": 3747059821,
+            "original": "~z~Time to put those Russian gangbangers in their place.",
+            "translated": "~z~该让那帮俄国佬认清自己的地位了。",
+            "desc": ""
+        },
+        {
+            "hash": 3753485465,
+            "original": "~z~Okay, brothers.",
+            "translated": "~z~好了，兄弟们。",
+            "desc": ""
+        },
+        {
+            "hash": 3763926282,
+            "original": "~z~Let's roll on these motherfuckers.",
+            "translated": "~z~干翻这帮不长眼的。",
+            "desc": ""
+        },
+        {
+            "hash": 3802626479,
+            "original": "~z~Come on, boys.",
+            "translated": "~z~干他丫的，弟兄们。",
+            "desc": ""
+        },
+        {
+            "hash": 3807894808,
+            "original": "~z~They're in Bohan moving a vehicle at the moment.",
+            "translated": "~z~他们现在在Bohan运送车辆。",
+            "desc": ""
+        },
+        {
+            "hash": 3822906913,
+            "original": "E1FCJ3_ACT_E1_GW_ATTACK_GANGA",
+            "translated": "E1FCJ3_ACT_E1_GW_ATTACK_GANGA",
+            "desc": ""
+        },
+        {
+            "hash": 3884687912,
+            "original": "E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_GW_JAMA",
+            "translated": "E1FCC3_ACT_ARRIVE_BIKE_NOT_LATE_GW_JAMA",
+            "desc": ""
+        },
+        {
+            "hash": 3889222254,
+            "original": "~z~Let's go deal with those mobsters.",
+            "translated": "~z~我们去会会那些黑道。",
+            "desc": ""
+        },
+        {
+            "hash": 3899894225,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 3912388977,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3917515038,
+            "original": "~z~Jonathan, let's roll on these Deadbeat assholes.",
+            "translated": "~z~Jonathan，一起去干烂这帮死妈天使的混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 3923464239,
+            "original": "E1FCC3_ACT_ARRIVE_GANG_GW_BRO_CA",
+            "translated": "E1FCC3_ACT_ARRIVE_GANG_GW_BRO_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3943954409,
+            "original": "~z~They're hanging out in Bohan.",
+            "translated": "~z~他们现在在Bohan。",
+            "desc": ""
+        },
+        {
+            "hash": 3977507453,
+            "original": "~z~Shit, I think they're moving round Broker.",
+            "translated": "~z~妈的，我想他们在Broker附近出没。",
+            "desc": ""
+        },
+        {
+            "hash": 4004588408,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 4018644806,
+            "original": "E1FCJ3_BA",
+            "translated": "E1FCJ3_BA",
+            "desc": ""
+        },
+        {
+            "hash": 4037132683,
+            "original": "~z~Let's go find these Deadbeats, man.",
+            "translated": "~z~去会会死妈天使吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 4037159464,
+            "original": "~z~They're in Bohan.",
+            "translated": "~z~他们现在在Bohan。",
+            "desc": ""
+        },
+        {
+            "hash": 4045473155,
+            "original": "E1FCT3_ACT_ARRIVE_GANG_GW_BRO_CA",
+            "translated": "E1FCT3_ACT_ARRIVE_GANG_GW_BRO_CA",
+            "desc": ""
+        },
+        {
+            "hash": 4046017821,
+            "original": "E1FCT3_ACT_ARRIVE_GANG_GW_ALD_FA",
+            "translated": "E1FCT3_ACT_ARRIVE_GANG_GW_ALD_FA",
+            "desc": ""
+        },
+        {
+            "hash": 4054016552,
+            "original": "~z~They're moving some vehicle in Algonquin.",
+            "translated": "~z~他们在Algonquin运送货物。",
+            "desc": ""
+        },
+        {
+            "hash": 4054678072,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 4105664371,
+            "original": "E1FCJ2_ACT_ARRIVE_GANG_GW_BRO_CA",
+            "translated": "E1FCJ2_ACT_ARRIVE_GANG_GW_BRO_CA",
+            "desc": ""
+        },
+        {
+            "hash": 4107998606,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 4156204434,
+            "original": "~z~Let's go find these Deadbeats, my friend.",
+            "translated": "~z~我们去找死妈天使吧，朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 4159714029,
+            "original": "E1FCJ2_ACT_ARRIVE_GANG_GW_BOH_VA",
+            "translated": "E1FCJ2_ACT_ARRIVE_GANG_GW_BOH_VA",
+            "desc": ""
+        },
+        {
+            "hash": 4162863840,
+            "original": "~z~They're escorting a vehicle across Alderney.",
+            "translated": "~z~他们在护送车辆穿越Alderney。",
+            "desc": ""
+        },
+        {
+            "hash": 4163670554,
+            "original": "~z~They're in Bohan hanging out.",
+            "translated": "~z~他们在Bohan活动。",
+            "desc": ""
+        },
+        {
+            "hash": 4172820241,
+            "original": "~z~The guys are in Algonquin, right now.",
+            "translated": "~z~那些人现在在Algonquin。",
+            "desc": ""
+        },
+        {
+            "hash": 4183298543,
+            "original": "E1FCC3_ACT_ARRIVE_GANG_GW_BOH_FA",
+            "translated": "E1FCC3_ACT_ARRIVE_GANG_GW_BOH_FA",
+            "desc": ""
+        },
+        {
+            "hash": 4273972326,
+            "original": "E1FCC3_ACT_ARRIVE_GANG_GW_BOH_CA",
+            "translated": "E1FCC3_ACT_ARRIVE_GANG_GW_BOH_CA",
+            "desc": ""
+        }
+    ]
+}

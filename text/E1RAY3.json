@@ -1,0 +1,46 @@
+{
+    "E1RAY3": [
+        {
+            "hash": 405303499,
+            "original": "Lose the cops.",
+            "translated": "甩掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 505719383,
+            "original": "~s~Take out ~r~Ray's hitmen.~s~",
+            "translated": "~s~干掉~r~Ray的杀手。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1259899184,
+            "original": "Terry and Clay have set up an ambush. If you can get to them, they can help you.",
+            "translated": "Terry和Clay已经设下埋伏。只要找到他们，就能得到支援。",
+            "desc": ""
+        },
+        {
+            "hash": 2544104991,
+            "original": "~s~Go and meet ~y~Ashley.~s~",
+            "translated": "~s~去找~y~Ashley。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2728600735,
+            "original": "~s~Go and meet ~b~Ashley.~s~",
+            "translated": "~s~去找~b~Ashley。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3731833064,
+            "original": "~r~Ashley is dead.",
+            "translated": "~r~Ashley死了。",
+            "desc": ""
+        },
+        {
+            "hash": 4099217448,
+            "original": "~s~Take out ~r~Ray's hitmen~s~ before they get you.~s~",
+            "translated": "~s~在被~r~Ray的杀手~s~杀掉之前干掉他们。~s~",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "JIM6": [
+        {
+            "hash": 410984516,
+            "original": "Take out ~r~Brian.",
+            "translated": "干掉~r~Brian。",
+            "desc": ""
+        },
+        {
+            "hash": 420777620,
+            "original": "~r~Your bike was wrecked.",
+            "translated": "~r~你的摩托坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 738177365,
+            "original": "Brian is protected in his safehouse.",
+            "translated": "Brian藏在他的安全屋里。",
+            "desc": ""
+        },
+        {
+            "hash": 2118551957,
+            "original": "Brian is dead.",
+            "translated": "Brian死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2305860214,
+            "original": "Get clear of the house.",
+            "translated": "离开安全屋。",
+            "desc": ""
+        },
+        {
+            "hash": 2378826904,
+            "original": "~s~When locked-on while equipped with a pistol, you can perform an execution on certain characters.",
+            "translated": "~s~装备手枪时，你可以对特定角色实施处决。",
+            "desc": ""
+        },
+        {
+            "hash": 2800034671,
+            "original": "~s~If you launch a grenade through a window into the house, the occupants will flee.",
+            "translated": "~s~如果你通过窗口向房子里发射榴弹，房子里的人就会逃走。",
+            "desc": ""
+        },
+        {
+            "hash": 2830857205,
+            "original": "Terry and Clay will cover the rear exit of the house.",
+            "translated": "Terry和Clay会盯住房子的后门。",
+            "desc": ""
+        },
+        {
+            "hash": 2874740307,
+            "original": "Get on your ~b~bike.",
+            "translated": "骑上~b~摩托车。",
+            "desc": ""
+        },
+        {
+            "hash": 2987985547,
+            "original": "~r~You abandoned your bike.",
+            "translated": "~r~你抛弃了你的摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 3082885708,
+            "original": "~s~Lose the cops.",
+            "translated": "~s~甩掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 3497680344,
+            "original": "Find a way into the house.",
+            "translated": "设法进入房子。",
+            "desc": ""
+        },
+        {
+            "hash": 3719886933,
+            "original": "~r~Brian~s~ is trying to escape out the back entrance.",
+            "translated": "~r~Brian~s~想从后门逃走。",
+            "desc": ""
+        },
+        {
+            "hash": 3818204521,
+            "original": "~r~Brian got away.",
+            "translated": "~r~Brian逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 4112721705,
+            "original": "Go to Brian's ~y~safehouse.",
+            "translated": "前往Brian的~y~安全屋。",
+            "desc": ""
+        }
+    ]
+}

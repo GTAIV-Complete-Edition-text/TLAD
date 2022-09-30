@@ -1,0 +1,934 @@
+{
+    "E1FCJAU": [
+        {
+            "hash": 901427,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4317127,
+            "original": "~z~Yes - head over to mine and I'm up for schooling you again.",
+            "translated": "~z~好，过来找我，待会儿我教你做人。",
+            "desc": ""
+        },
+        {
+            "hash": 26834214,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 79072266,
+            "original": "~z~You? Johnny - I thought you must have died or some shit. Sure, let's hang out.",
+            "translated": "~z~是你吗，Johnny？我还以为你已经死了。好啊，一起去浪吧。",
+            "desc": ""
+        },
+        {
+            "hash": 134479177,
+            "original": "~z~Sure man, come and pick me up.",
+            "translated": "~z~当然，哥们，过来找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 161966788,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 165432232,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 168996814,
+            "original": "~z~Jackie's giving me hell. It'll be another time.",
+            "translated": "~z~Jackie快把我整死了。下次吧。",
+            "desc": ""
+        },
+        {
+            "hash": 184841548,
+            "original": "~z~Sure, if you come by soon.",
+            "translated": "~z~你一会儿过来的话就行。",
+            "desc": ""
+        },
+        {
+            "hash": 206386239,
+            "original": "~z~I'd love to man, but I'm busy. Another time.",
+            "translated": "~z~我也想啊哥们，可是我正忙呢。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 233429383,
+            "original": "~z~Sure, why not?",
+            "translated": "~z~走啊，何不呢？",
+            "desc": ""
+        },
+        {
+            "hash": 262342000,
+            "original": "~z~You wanna go get a drink?",
+            "translated": "~z~想出来喝一杯吗？",
+            "desc": ""
+        },
+        {
+            "hash": 279659644,
+            "original": "~z~I'm bored - wanna play darts or something?",
+            "translated": "~z~我好无聊啊，想去玩会儿飞镖吗？",
+            "desc": ""
+        },
+        {
+            "hash": 321202407,
+            "original": "~z~Yeah, we can hang man, but I gotta be honest, I am kinda shocked to hear from you, come on by.",
+            "translated": "~z~好啊，我能来，哥们。不过说真的，没想到你还会打电话找我。过来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 401290754,
+            "original": "E1FCJ_ACT_E1J_CALL_AIRHOCK_A",
+            "translated": "E1FCJ_ACT_E1J_CALL_AIRHOCK_A",
+            "desc": ""
+        },
+        {
+            "hash": 447907438,
+            "original": "~z~You busy? You want to play some air hockey?",
+            "translated": "~z~你忙吗？打不打桌上冰球？",
+            "desc": ""
+        },
+        {
+            "hash": 456804902,
+            "original": "~z~You wanna head over to the strip joint buddy?",
+            "translated": "~z~你想去脱衣舞厅吗，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 497155362,
+            "original": "E1FCJ_ACT_CALL_HANGOUT_YES_A",
+            "translated": "E1FCJ_ACT_CALL_HANGOUT_YES_A",
+            "desc": ""
+        },
+        {
+            "hash": 501850621,
+            "original": "~z~Kinda thirsty, you got time to go have a drink?",
+            "translated": "~z~我有点渴，你有空出来喝一杯吗？",
+            "desc": ""
+        },
+        {
+            "hash": 520846282,
+            "original": "~z~Jackie's giving me hell at the moment, so why not?",
+            "translated": "~z~Jackie正跟我闹着呢，凭啥不来？",
+            "desc": ""
+        },
+        {
+            "hash": 527018919,
+            "original": "E1FCJ_ACT_E1J_CALL_SHOW_A",
+            "translated": "E1FCJ_ACT_E1J_CALL_SHOW_A",
+            "desc": ""
+        },
+        {
+            "hash": 528933427,
+            "original": "~z~Got time to throw some darts around, man?",
+            "translated": "~z~有空玩飞镖吗，哥们？",
+            "desc": ""
+        },
+        {
+            "hash": 543508589,
+            "original": "~z~Cool. I'm on my way, man.",
+            "translated": "~z~好嘞。我来了，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 560095409,
+            "original": "~z~I'm busy being abused by the wife. Call back another time.",
+            "translated": "~z~我这正犯妻管严呢。改天再找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 563157924,
+            "original": "E1FCJ_ACT_CALL_ASLEEP_A",
+            "translated": "E1FCJ_ACT_CALL_ASLEEP_A",
+            "desc": ""
+        },
+        {
+            "hash": 596116675,
+            "original": "~z~Sure thing, brother, come and pick me up",
+            "translated": "~z~好啊，兄弟。来找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 598914214,
+            "original": "~z~Sure, brother, you gonna come and pick me up?",
+            "translated": "~z~好的，兄弟，你过来找我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 651927503,
+            "original": "~z~Jim.",
+            "translated": "~z~Jim。",
+            "desc": ""
+        },
+        {
+            "hash": 674676313,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 700620271,
+            "original": "~z~Uh huh. I'm kinda hungry.",
+            "translated": "~z~嗯，我是有点饿。",
+            "desc": ""
+        },
+        {
+            "hash": 700901931,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 721696244,
+            "original": "~z~Yeah if you get here soon. Jackie and the kid are out, so I've got some free time.",
+            "translated": "~z~好，你赶紧来。Jackie跟孩子出去了，我正好有空。",
+            "desc": ""
+        },
+        {
+            "hash": 850465020,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 853913653,
+            "original": "~z~Yeah, come and get me.",
+            "translated": "~z~好啊，来找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 867756869,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 876952226,
+            "original": "~z~Hey Jim.",
+            "translated": "~z~嘿，Jim。",
+            "desc": ""
+        },
+        {
+            "hash": 903396565,
+            "original": "E1FCJ_ACT_CALL_POOL_YES_A",
+            "translated": "E1FCJ_ACT_CALL_POOL_YES_A",
+            "desc": ""
+        },
+        {
+            "hash": 924667852,
+            "original": "~z~I'm bored, brother. You got time for some pool?",
+            "translated": "~z~我好无聊啊，兄弟。有空打台球吗？",
+            "desc": ""
+        },
+        {
+            "hash": 930087569,
+            "original": "~z~You wanna go look at some women? Other than your wife, I mean.",
+            "translated": "~z~你想去看娘们吗？我说的不是你老婆。",
+            "desc": ""
+        },
+        {
+            "hash": 955332746,
+            "original": "~z~Sure, come and pick me up.",
+            "translated": "~z~好啊，你来找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1018386770,
+            "original": "~z~Jackie's back in a couple of hours - get here before then and I can sneak out.",
+            "translated": "~z~Jackie几个钟头后就回来了，赶在她前面到，我好开溜。",
+            "desc": ""
+        },
+        {
+            "hash": 1037141142,
+            "original": "E1FCJ_ACT_CALL_STRIP_YES_A",
+            "translated": "E1FCJ_ACT_CALL_STRIP_YES_A",
+            "desc": ""
+        },
+        {
+            "hash": 1076061627,
+            "original": "E1FCJ_ACT_E1J_CALL_EAT_A",
+            "translated": "E1FCJ_ACT_E1J_CALL_EAT_A",
+            "desc": ""
+        },
+        {
+            "hash": 1080713830,
+            "original": "~z~How about some pool? If you've got time, I mean.",
+            "translated": "~z~来打局台球吧？如果你有空的话。",
+            "desc": ""
+        },
+        {
+            "hash": 1084901372,
+            "original": "~z~Sure man, I'll play a bit of pool. Come by my place",
+            "translated": "~z~可以，哥们。那就打几球吧。过来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 1101897479,
+            "original": "~z~Can't, family shit. Another time.",
+            "translated": "~z~不行，家里有事。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1116624692,
+            "original": "~z~Jim, it's me.",
+            "translated": "~z~Jim，是我。",
+            "desc": ""
+        },
+        {
+            "hash": 1122609400,
+            "original": "~z~You busy? Wanna play darts?",
+            "translated": "~z~忙不忙？想玩飞镖吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1156236912,
+            "original": "~z~Ahh, Sorry, Jim, send my love to Jackie.",
+            "translated": "~z~啊，打扰了，Jim，替我跟Jackie问声好。",
+            "desc": ""
+        },
+        {
+            "hash": 1176832890,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1214622552,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1221400892,
+            "original": "~z~See you in a bit.",
+            "translated": "~z~一会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 1299315407,
+            "original": "~z~As long as you get over here within two hours, I've got time.",
+            "translated": "~z~只要你两小时内到的话，我就有空。",
+            "desc": ""
+        },
+        {
+            "hash": 1304309549,
+            "original": "~z~Hey, you wanna head to a strip club or am I rolling alone?",
+            "translated": "~z~嘿，想一起去脱衣舞俱乐部吗？还是我自个儿嗨？",
+            "desc": ""
+        },
+        {
+            "hash": 1306286041,
+            "original": "~z~Yeah, come and pick me up.",
+            "translated": "~z~好，来找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1333738154,
+            "original": "~z~Not now - another time.",
+            "translated": "~z~现在不行，以后再约吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1347083767,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1349059171,
+            "original": "~z~You wanna play pool?",
+            "translated": "~z~你想打台球吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1353525226,
+            "original": "E1FCJ_ACT_CALL_LIKELOW_A",
+            "translated": "E1FCJ_ACT_CALL_LIKELOW_A",
+            "desc": ""
+        },
+        {
+            "hash": 1354822553,
+            "original": "~z~Hey Jim, it's Johnny.",
+            "translated": "~z~嘿Jim，我是Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 1372207146,
+            "original": "~z~You got time to head down the clubhouse, man?",
+            "translated": "~z~你有时间来帮会所玩吗，哥们？",
+            "desc": ""
+        },
+        {
+            "hash": 1440908386,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1466988874,
+            "original": "~z~Sure, I could eat. Come and get me.",
+            "translated": "~z~好啊，那吃饭吧。过来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 1565021756,
+            "original": "~z~I'd love to, man, but I'm kinda busy. Another time.",
+            "translated": "~z~我也想啊，哥们。但我有点忙。改天再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1590730891,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1596766078,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1598594684,
+            "original": "~z~Sure - come and pick me up",
+            "translated": "~z~好啊，来找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1600865912,
+            "original": "~z~On my way, home boy.",
+            "translated": "~z~我来了，朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 1610745832,
+            "original": "~z~I'm asleep asshole. Call after eleven.",
+            "translated": "~z~爷在睡觉，傻逼。11点后再找我。",
+            "desc": ""
+        },
+        {
+            "hash": 1654499020,
+            "original": "~z~You wanna shoot some pool?",
+            "translated": "~z~你想打台球吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1715871395,
+            "original": "~z~What's going on, old man?",
+            "translated": "~z~还好吗，老家伙？",
+            "desc": ""
+        },
+        {
+            "hash": 1722917586,
+            "original": "E1FCJ_ACT_E1J_CALL_ACCEPTED_A",
+            "translated": "E1FCJ_ACT_E1J_CALL_ACCEPTED_A",
+            "desc": ""
+        },
+        {
+            "hash": 1747972996,
+            "original": "~z~You wanna throw some darts?",
+            "translated": "~z~你想玩飞镖吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1772368919,
+            "original": "~z~I'm bored - you want to go see a show, man?",
+            "translated": "~z~我好无聊啊，你想去看演出吗，哥们？",
+            "desc": ""
+        },
+        {
+            "hash": 1778777648,
+            "original": "E1FCJ_ACT_E1J_CALL_SORRY_WOKE_UP_A",
+            "translated": "E1FCJ_ACT_E1J_CALL_SORRY_WOKE_UP_A",
+            "desc": ""
+        },
+        {
+            "hash": 1897037264,
+            "original": "~z~I'm already in the dog house with the old lady. Another time.",
+            "translated": "~z~老婆正生我气呢，改天再约吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1910508340,
+            "original": "E1FCJ_ACT_CALL_EAT_YES_A",
+            "translated": "E1FCJ_ACT_CALL_EAT_YES_A",
+            "desc": ""
+        },
+        {
+            "hash": 1929071647,
+            "original": "~z~I'm bored, you got time to go for a drink?",
+            "translated": "~z~好无聊啊，有空来喝一杯吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1936094423,
+            "original": "E1FCJ_ACT_E1J_CALL_DARTSA",
+            "translated": "E1FCJ_ACT_E1J_CALL_DARTSA",
+            "desc": ""
+        },
+        {
+            "hash": 1940235237,
+            "original": "~z~Ahh, sorry Jim.",
+            "translated": "~z~啊，对不起啊，Jim。",
+            "desc": ""
+        },
+        {
+            "hash": 1971567902,
+            "original": "~z~Old man, it's me.",
+            "translated": "~z~老家伙，是我。",
+            "desc": ""
+        },
+        {
+            "hash": 2011222160,
+            "original": "~z~Listen you wanna go see a show?",
+            "translated": "~z~那什么，想去看演出吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2032551011,
+            "original": "~z~Hey, it's me.",
+            "translated": "~z~嘿，是我。",
+            "desc": ""
+        },
+        {
+            "hash": 2043253088,
+            "original": "~z~Okay, some other time it is.",
+            "translated": "~z~好吧，以后再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2086273113,
+            "original": "~z~On my way.",
+            "translated": "~z~我上路了。",
+            "desc": ""
+        },
+        {
+            "hash": 2128000575,
+            "original": "E1FCJ_ACT_CALL_VERYIRATE_A",
+            "translated": "E1FCJ_ACT_CALL_VERYIRATE_A",
+            "desc": ""
+        },
+        {
+            "hash": 2158075704,
+            "original": "~z~No problem. Speak to you soon.",
+            "translated": "~z~没问题。晚点打给你。",
+            "desc": ""
+        },
+        {
+            "hash": 2167728274,
+            "original": "~z~You wanna go get drunk amigo?",
+            "translated": "~z~想去喝酒吗，朋友？",
+            "desc": ""
+        },
+        {
+            "hash": 2173487417,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2263276019,
+            "original": "E1FCJ_ACT_CALL_DRINK_YES_A",
+            "translated": "E1FCJ_ACT_CALL_DRINK_YES_A",
+            "desc": ""
+        },
+        {
+            "hash": 2277092672,
+            "original": "~z~Okay man, some other time then.",
+            "translated": "~z~好吧兄弟，那就改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2332320952,
+            "original": "~z~You're alive? I ain't heard from you for ages.",
+            "translated": "~z~还活着呢？我好久没有你的消息了。",
+            "desc": ""
+        },
+        {
+            "hash": 2335124211,
+            "original": "~z~You wanna head down to the clubhouse?",
+            "translated": "~z~你想来会所吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2387935301,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2441769900,
+            "original": "E1FCJ_ACT_ANSWER_PHONE",
+            "translated": "E1FCJ_ACT_ANSWER_PHONE",
+            "desc": ""
+        },
+        {
+            "hash": 2445391706,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2467900887,
+            "original": "~z~Sure, I'm heading over your way.",
+            "translated": "~z~好，我过来了。",
+            "desc": ""
+        },
+        {
+            "hash": 2471130293,
+            "original": "E1FCJ_ACT_E1J_CALL_DRINK_A",
+            "translated": "E1FCJ_ACT_E1J_CALL_DRINK_A",
+            "desc": ""
+        },
+        {
+            "hash": 2471723854,
+            "original": "~z~Course I wanna drink. Come get me.",
+            "translated": "~z~当然得喝啊。来找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2511729487,
+            "original": "~z~Call back after eleven. I'm trying to rest, man.",
+            "translated": "~z~11点后再打过来。我休息呢，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2512898799,
+            "original": "~z~Want to get something to eat?",
+            "translated": "~z~想去吃点啥吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2527894882,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2539843212,
+            "original": "E1FCJ_ACT_CALL_IRATE_A",
+            "translated": "E1FCJ_ACT_CALL_IRATE_A",
+            "desc": ""
+        },
+        {
+            "hash": 2571108655,
+            "original": "~z~Man, you still remember my number? Shit.",
+            "translated": "~z~兄弟，你还记得我电话啊？妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 2651675111,
+            "original": "~z~Okay. I'll call again soon.",
+            "translated": "~z~好吧。以后我再找你。",
+            "desc": ""
+        },
+        {
+            "hash": 2657787247,
+            "original": "E1FCJ_ACT_E1J_CALL_STRIP_A",
+            "translated": "E1FCJ_ACT_E1J_CALL_STRIP_A",
+            "desc": ""
+        },
+        {
+            "hash": 2668334886,
+            "original": "~z~You want to go play air hockey?",
+            "translated": "~z~想去玩桌上冰球吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2682540876,
+            "original": "~z~You busy, man? Wanna head to the strip club?",
+            "translated": "~z~忙不忙，哥们？想不想去脱衣舞俱乐部？",
+            "desc": ""
+        },
+        {
+            "hash": 2769626833,
+            "original": "~z~No I think I'd rather stay home knitting... of course I do. Come and get me.",
+            "translated": "~z~别吧，喝酒还不如在家织毛衣...才怪呢，来找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2775729123,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2787857399,
+            "original": "~z~Okay, see you soon.",
+            "translated": "~z~好，待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 2810277474,
+            "original": "~z~You wanna get some food, man?",
+            "translated": "~z~想不想吃点东西，哥们？",
+            "desc": ""
+        },
+        {
+            "hash": 2813220609,
+            "original": "~z~Okay, I'll be there within two hours.",
+            "translated": "~z~好的，我两个钟头到。",
+            "desc": ""
+        },
+        {
+            "hash": 2814834846,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2820876399,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2881137031,
+            "original": "~z~Hey, dude, it's me.",
+            "translated": "~z~嘿，老兄，是我。",
+            "desc": ""
+        },
+        {
+            "hash": 2882393958,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2886672056,
+            "original": "~z~Sure man. I'd love to play some pool. Come and pick me up.",
+            "translated": "~z~好啊哥们，我是想打台球。过来找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2923763477,
+            "original": "E1FCJ_ACT_CALL_SHOW_YES_A",
+            "translated": "E1FCJ_ACT_CALL_SHOW_YES_A",
+            "desc": ""
+        },
+        {
+            "hash": 2936674875,
+            "original": "~z~Sure, man, club house could be fun. Come pick me up.",
+            "translated": "~z~可以，哥们。会所很好玩的。来找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2987433363,
+            "original": "E1FCJ_ACT_E1J_CALL_POOL_A",
+            "translated": "E1FCJ_ACT_E1J_CALL_POOL_A",
+            "desc": ""
+        },
+        {
+            "hash": 2994390463,
+            "original": "~z~You wanna go see a show?",
+            "translated": "~z~想不想去看演出？",
+            "desc": ""
+        },
+        {
+            "hash": 3043112252,
+            "original": "~z~Yes sir. I'm fucking starving.",
+            "translated": "~z~当然，我他妈饿死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3044272855,
+            "original": "E1FCJ_ACT_E1J_CALL_GREET_A",
+            "translated": "E1FCJ_ACT_E1J_CALL_GREET_A",
+            "desc": ""
+        },
+        {
+            "hash": 3049252360,
+            "original": "~z~I thought you must have been killed.",
+            "translated": "~z~我还以为你已经死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3059944485,
+            "original": "~z~You hungry?",
+            "translated": "~z~你饿吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3111356287,
+            "original": "~z~You busy or you wanna head down the clubhouse?",
+            "translated": "~z~你忙吗？想不想来失落帮会所玩玩？",
+            "desc": ""
+        },
+        {
+            "hash": 3125132069,
+            "original": "~z~I'm down for some pool, but get over here soon",
+            "translated": "~z~打台球好啊，不过你得赶紧来。",
+            "desc": ""
+        },
+        {
+            "hash": 3152838521,
+            "original": "~z~Great - see you soon.",
+            "translated": "~z~好嘞，再见。",
+            "desc": ""
+        },
+        {
+            "hash": 3209170027,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3222626548,
+            "original": "~z~You got time to go out and do something, see a show or some shit?",
+            "translated": "~z~有时间出来干点啥吗，比如看场演出啥的？",
+            "desc": ""
+        },
+        {
+            "hash": 3234058902,
+            "original": "~z~What you up to? Want to play some air hockey?",
+            "translated": "~z~你有空吗？想玩桌上冰球吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3290769321,
+            "original": "~z~You got time to get something to eat?",
+            "translated": "~z~有空来吃点啥吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3381784522,
+            "original": "~z~Abso-fucking-lutley I do, my friend. Come and get me.",
+            "translated": "~z~能不喝吗，朋友。来找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3394162884,
+            "original": "~z~Of course man, swing by and get me.",
+            "translated": "~z~当然了哥们，来找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3516298299,
+            "original": "~z~Wanna go play some air hockey?",
+            "translated": "~z~想不想打桌上冰球？",
+            "desc": ""
+        },
+        {
+            "hash": 3554997921,
+            "original": "E1FCJ_ACT_E1J_CALL_HANGOUT_A",
+            "translated": "E1FCJ_ACT_E1J_CALL_HANGOUT_A",
+            "desc": ""
+        },
+        {
+            "hash": 3636797132,
+            "original": "~z~Yeah I could do with some cheering up, Jackie's giving me hell. Come and get me.",
+            "translated": "~z~好啊，我是得去放松一下，Jackie快整死我了。过来找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3702814095,
+            "original": "~z~Sure man, come pick me up.",
+            "translated": "~z~好啊哥们，来找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3709288486,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3732584401,
+            "original": "E1FCJ_ACT_CALL_AIRHOCK_YES_A",
+            "translated": "E1FCJ_ACT_CALL_AIRHOCK_YES_A",
+            "desc": ""
+        },
+        {
+            "hash": 3734805629,
+            "original": "~z~Okay, Johnny, I'll destroy you on the hockey table if that's what you want.",
+            "translated": "~z~好啊，Johnny，欠收拾是吧，看我球桌上把你打成废物。",
+            "desc": ""
+        },
+        {
+            "hash": 3738170602,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3883951000,
+            "original": "~z~You got time to head down to the clubhouse?",
+            "translated": "~z~有时间来失落帮会所玩吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3917746364,
+            "original": "~z~Sure man, why not? That'll be good times.",
+            "translated": "~z~可以啊哥们，有啥不行的？肯定会很快乐的。",
+            "desc": ""
+        },
+        {
+            "hash": 3956290630,
+            "original": "~z~Does a bear shit in the woods? Of course, come and get me.",
+            "translated": "~z~不会真有人不来吧？当然来，来找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3993451346,
+            "original": "~z~As long as you don't sulk when you lose. Come over to mine.",
+            "translated": "~z~你输的时候别发牢骚就行。来找我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4016977023,
+            "original": "E1FCJ_ACT_E1J_CALL_DARTS_YES_A",
+            "translated": "E1FCJ_ACT_E1J_CALL_DARTS_YES_A",
+            "desc": ""
+        },
+        {
+            "hash": 4051226675,
+            "original": "~z~Sure, Jackie's out, come and pick me up.",
+            "translated": "~z~好啊，Jackie出去了。过来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 4055281196,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4066148450,
+            "original": "~z~I can't man, another time.",
+            "translated": "~z~不行啊，哥们。以后再说吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4145416657,
+            "original": "~z~I can't man. Some other time.",
+            "translated": "~z~不行，哥们。改天再约吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4223751087,
+            "original": "E1FCJ_ACT_CALL_ACTIVITY_NO_A",
+            "translated": "E1FCJ_ACT_CALL_ACTIVITY_NO_A",
+            "desc": ""
+        },
+        {
+            "hash": 4245484705,
+            "original": "~z~I thought you'd forgotten about me.",
+            "translated": "~z~我还以为你把我忘了呢。",
+            "desc": ""
+        },
+        {
+            "hash": 4280857248,
+            "original": "E1FCJ_ACT_E1J_CALL_REJECTED_A",
+            "translated": "E1FCJ_ACT_E1J_CALL_REJECTED_A",
+            "desc": ""
+        }
+    ]
+}

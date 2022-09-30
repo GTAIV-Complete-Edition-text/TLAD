@@ -1,0 +1,88 @@
+{
+    "BILLY3": [
+        {
+            "hash": 109836379,
+            "original": "~s~At any time during a job press ~PAD_DPAD_DOWN~ to view how battle hardened the Lost gang members with you are.",
+            "translated": "~s~任务期间，你随时可以按~PAD_DPAD_DOWN~查看战友的战斗力。",
+            "desc": ""
+        },
+        {
+            "hash": 159049645,
+            "original": "Get on your ~b~bike.",
+            "translated": "骑上你的~b~摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 656916648,
+            "original": "Take out the ~r~Angels of Death.",
+            "translated": "干掉~r~死亡天使成员。",
+            "desc": ""
+        },
+        {
+            "hash": 700448922,
+            "original": "~r~Brian is dead.",
+            "translated": "~r~Brian死了。",
+            "desc": ""
+        },
+        {
+            "hash": 990091139,
+            "original": "~s~At any time during a job press ~INPUT_FRONTEND_SHOWSCORE~ to view how battle hardened the Lost gang members with you are.",
+            "translated": "~s~任务期间，你随时可以按~INPUT_FRONTEND_SHOWSCORE~查看战友的战斗力。",
+            "desc": ""
+        },
+        {
+            "hash": 1051438875,
+            "original": "~r~Brian's bike was wrecked.",
+            "translated": "~r~Brian的摩托坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 1243383867,
+            "original": "~r~You abandoned your bike.",
+            "translated": "~r~你抛弃了你的摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 1535254328,
+            "original": "Get back to the ~y~clubhouse.",
+            "translated": "返回~y~会所。",
+            "desc": ""
+        },
+        {
+            "hash": 1706264368,
+            "original": "~r~Billy's bike was wrecked.",
+            "translated": "~r~Billy的摩托坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 2175698897,
+            "original": "Go with ~b~Billy.",
+            "translated": "跟随~b~Billy。",
+            "desc": ""
+        },
+        {
+            "hash": 2238771366,
+            "original": "Get to the ~y~fight.",
+            "translated": "加入~y~战斗。",
+            "desc": ""
+        },
+        {
+            "hash": 3357941632,
+            "original": "~r~Your bike was wrecked.",
+            "translated": "~r~你的摩托坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 4018841687,
+            "original": "Go and meet ~b~Billy.",
+            "translated": "去找~b~Billy。",
+            "desc": ""
+        },
+        {
+            "hash": 4133965289,
+            "original": "~r~Billy is dead.",
+            "translated": "~r~Billy死了。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "STUB3M7": [
+        {
+            "hash": 265597700,
+            "original": "~s~PHONECALL~n~~n~Jim tells Johnny to meet the new kid at the Irish Pub.",
+            "translated": "~s~PHONECALL~n~~n~Jim告诉Johnny去Irish Pub见见新来的小子。",
+            "desc": ""
+        },
+        {
+            "hash": 625626087,
+            "original": "~s~First Impressions",
+            "translated": "~s~第一印象",
+            "desc": ""
+        },
+        {
+            "hash": 1159302709,
+            "original": "~r~The target has escaped.",
+            "translated": "~r~目标逃跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 1316238893,
+            "original": "~s~Take out the ~r~target.",
+            "translated": "~s~干掉~r~目标。",
+            "desc": ""
+        },
+        {
+            "hash": 1361706958,
+            "original": "~s~Meet up with the ~b~gang.",
+            "translated": "~s~与~b~帮派分子~s~见面。",
+            "desc": ""
+        },
+        {
+            "hash": 1443140375,
+            "original": "~s~Go to the ~y~bar.",
+            "translated": "~s~前往~y~酒吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1545432592,
+            "original": "~s~It's your round Johnny.",
+            "translated": "~s~轮到你了Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 2134708443,
+            "original": "~s~PHONECALL~n~~n~Johnny calls Jim to tell him to find anything he can about who killed the new kid.",
+            "translated": "~s~PHONECALL~n~~n~Johnny打电话给Jim来让他尽可能找出谁杀了新来的小子。",
+            "desc": ""
+        },
+        {
+            "hash": 2826365497,
+            "original": "~s~Go to the ~y~Superstar Cafe.",
+            "translated": "~s~前往~y~Superstar Cafe。",
+            "desc": ""
+        },
+        {
+            "hash": 3367236928,
+            "original": "~s~Go ~y~outside~s~ to see what's going on.",
+            "translated": "~s~去~y~外面~s~看看发生了什么。",
+            "desc": ""
+        },
+        {
+            "hash": 3416567956,
+            "original": "~s~Leave the area.",
+            "translated": "~s~离开这一带。",
+            "desc": ""
+        },
+        {
+            "hash": 3469881907,
+            "original": "~r~The pub will no longer serve you.",
+            "translated": "~r~酒吧不会再接待你了。",
+            "desc": ""
+        },
+        {
+            "hash": 4049556726,
+            "original": "~s~Could I get two beers.",
+            "translated": "~s~请给我两杯啤酒。",
+            "desc": ""
+        },
+        {
+            "hash": 4192064599,
+            "original": "~s~Go to the ~y~Irish Pub.",
+            "translated": "~s~前往~y~Irish Pub。",
+            "desc": ""
+        }
+    ]
+}

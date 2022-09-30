@@ -1,0 +1,634 @@
+{
+    "E1S3p4A": [
+        {
+            "hash": 30962886,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 79777748,
+            "original": "E1S3p4_FD",
+            "translated": "E1S3p4_FD",
+            "desc": ""
+        },
+        {
+            "hash": 95036709,
+            "original": "~z~Make sure you don't scratch this on the way back, okay. Otherwise, he'll be wise to you, man.",
+            "translated": "~z~回去的路上别把车刮花了，好吗？不然的话，他会看出来的，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 172823942,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 199509738,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 246501478,
+            "original": "~z~Well, Mr. Representative, your little microphone is planted.",
+            "translated": "~z~好了，代表先生，你的小窃听器安装好了。",
+            "desc": ""
+        },
+        {
+            "hash": 267964435,
+            "original": "E1S3p4_BC",
+            "translated": "E1S3p4_BC",
+            "desc": ""
+        },
+        {
+            "hash": 295840706,
+            "original": "E1S3p4_FA",
+            "translated": "E1S3p4_FA",
+            "desc": ""
+        },
+        {
+            "hash": 354718623,
+            "original": "~z~Charming, Klebitz. I'm thinking this means I won't be able to tune into radio Dawkins tonight?",
+            "translated": "~z~太好了吧，Klebitz，意思是我今晚没法收听Dawkins电台了。",
+            "desc": ""
+        },
+        {
+            "hash": 392870514,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 407123636,
+            "original": "E1S3p4_AF",
+            "translated": "E1S3p4_AF",
+            "desc": ""
+        },
+        {
+            "hash": 437958619,
+            "original": "E1S3p4_FE",
+            "translated": "E1S3p4_FE",
+            "desc": ""
+        },
+        {
+            "hash": 488928883,
+            "original": "E1S3p4_GB",
+            "translated": "E1S3p4_GB",
+            "desc": ""
+        },
+        {
+            "hash": 512557101,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 551558366,
+            "original": "E1S3p4_BB",
+            "translated": "E1S3p4_BB",
+            "desc": ""
+        },
+        {
+            "hash": 561183354,
+            "original": "~z~Now, calm down, work out the tension, get a massage, beat off, kill someone, I don't care.",
+            "translated": "~z~现在，你冷静点，不要紧张，做个按摩，撸一管，杀个人，我不在乎。",
+            "desc": ""
+        },
+        {
+            "hash": 574827241,
+            "original": "~z~Johnny?",
+            "translated": "~z~Johnny？",
+            "desc": ""
+        },
+        {
+            "hash": 594543022,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 640201424,
+            "original": "~z~That's too bad, pal. Here's hoping Dawkins puts it down to the city's high crime rate.",
+            "translated": "~z~真倒霉，朋友。希望Dawkins会把这怪罪到本市的高犯罪率上吧。",
+            "desc": ""
+        },
+        {
+            "hash": 686130508,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 756174740,
+            "original": "SFX_PAUSE_340",
+            "translated": "SFX_PAUSE_340",
+            "desc": ""
+        },
+        {
+            "hash": 767020183,
+            "original": "100090010090100090100090100090100090010090100090100090100",
+            "translated": "100090010090100090100090100090100090010090100090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 798480439,
+            "original": "~z~You can drive cars as well, yes?",
+            "translated": "~z~你应该会开车吧？",
+            "desc": ""
+        },
+        {
+            "hash": 852957361,
+            "original": "~z~I hope it gives you all the sexual kicks you're lookin' for.",
+            "translated": "~z~希望你能用它听到你想要的性行为。",
+            "desc": ""
+        },
+        {
+            "hash": 864219502,
+            "original": "E1S3p4_CD",
+            "translated": "E1S3p4_CD",
+            "desc": ""
+        },
+        {
+            "hash": 896656367,
+            "original": "E1S3p4_AA",
+            "translated": "E1S3p4_AA",
+            "desc": ""
+        },
+        {
+            "hash": 906166257,
+            "original": "~z~Charming, Klebitz. I'm thinking this means I won't be able to tune into radio Dawkins tonight.",
+            "translated": "~z~太好了吧，Klebitz，意思是我今晚没法收听Dawkins电台了。",
+            "desc": ""
+        },
+        {
+            "hash": 948826847,
+            "original": "E1S3p4_AD",
+            "translated": "E1S3p4_AD",
+            "desc": ""
+        },
+        {
+            "hash": 1037689366,
+            "original": "~z~Hey, Stubbsy. This car has, umm, experienced some mechanical failures.",
+            "translated": "~z~嘿，Stubbsy。这辆车，呃，出了点机械故障。",
+            "desc": ""
+        },
+        {
+            "hash": 1039255237,
+            "original": "SFX_PAUSE_430",
+            "translated": "SFX_PAUSE_430",
+            "desc": ""
+        },
+        {
+            "hash": 1147049317,
+            "original": "E1S3p4_CC",
+            "translated": "E1S3p4_CC",
+            "desc": ""
+        },
+        {
+            "hash": 1160755802,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 1177228965,
+            "original": "E1S3p4_AH",
+            "translated": "E1S3p4_AH",
+            "desc": ""
+        },
+        {
+            "hash": 1182318264,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 1251007598,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 1260603721,
+            "original": "~z~Oh Johnny, I wouldn't want to hog all the fun for myself, I'll text you the number so you can have a listen, too.",
+            "translated": "~z~哦，Johnny，我可不想独享这份快乐。之后我把号码发给你，这样你也能一起偷听了。",
+            "desc": ""
+        },
+        {
+            "hash": 1294555613,
+            "original": "E1S3p4_ED",
+            "translated": "E1S3p4_ED",
+            "desc": ""
+        },
+        {
+            "hash": 1320793931,
+            "original": "~z~Hear the women, taste the blow, smell the fucking farts, man.",
+            "translated": "~z~听女人尖叫，享受口交，闻到臭屁，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 1351291793,
+            "original": "E1S3p4_AB",
+            "translated": "E1S3p4_AB",
+            "desc": ""
+        },
+        {
+            "hash": 1360226278,
+            "original": "E1S3p4_CA",
+            "translated": "E1S3p4_CA",
+            "desc": ""
+        },
+        {
+            "hash": 1364833950,
+            "original": "~z~Call me, soon.",
+            "translated": "~z~有空再找我，再见。",
+            "desc": ""
+        },
+        {
+            "hash": 1366432273,
+            "original": "010090010090100090100",
+            "translated": "010090010090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 1402351411,
+            "original": "E1S3p4_AG",
+            "translated": "E1S3p4_AG",
+            "desc": ""
+        },
+        {
+            "hash": 1474311919,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 1477463596,
+            "original": "100090010090100090100",
+            "translated": "100090010090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 1499479087,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 1546285036,
+            "original": "~z~Klebitz, Klebitz, you caught me in a fine mood. Just heard some good news about a bill I've been championing.",
+            "translated": "~z~Klebitz，Klebitz，我刚好心情不错。刚收到了个关于我支持的法案的好消息。",
+            "desc": ""
+        },
+        {
+            "hash": 1640148186,
+            "original": "~z~Call me, soon.",
+            "translated": "~z~电话联系，再见。",
+            "desc": ""
+        },
+        {
+            "hash": 1667331989,
+            "original": "E1S3p4_AI",
+            "translated": "E1S3p4_AI",
+            "desc": ""
+        },
+        {
+            "hash": 1743612338,
+            "original": "~z~Okay, man. We got you fitted out. You going to know everything that happens in this car.",
+            "translated": "~z~好了，老兄。东西都装上了。车上发生什么你都能知道。",
+            "desc": ""
+        },
+        {
+            "hash": 1823632719,
+            "original": "~z~Johnny, my good man.",
+            "translated": "~z~Johnny，我的好哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 1844908933,
+            "original": "~z~In the mean time, I'd like you to help me get some info on the Deputy Mayor. His car's over in Westdyke.",
+            "translated": "~z~同时，我想让你帮我搜集点副市长的情报。他的车停在Westdyke。",
+            "desc": ""
+        },
+        {
+            "hash": 1856187060,
+            "original": "100090010090010090100090100",
+            "translated": "100090010090010090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 2004676990,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 2046572082,
+            "original": "E1S3p4_EC",
+            "translated": "E1S3p4_EC",
+            "desc": ""
+        },
+        {
+            "hash": 2249858403,
+            "original": "E1S3p4_CB",
+            "translated": "E1S3p4_CB",
+            "desc": ""
+        },
+        {
+            "hash": 2278957563,
+            "original": "SFX_PAUSE_110",
+            "translated": "SFX_PAUSE_110",
+            "desc": ""
+        },
+        {
+            "hash": 2282824712,
+            "original": "~z~Yeah, sure, look, I think your guy's gonna noticed that his car's been cosmetically damaged to shit.",
+            "translated": "~z~对，是的，听着，我想那家伙会发现车子成了大花脸的。",
+            "desc": ""
+        },
+        {
+            "hash": 2284377278,
+            "original": "E1S3p4_EB",
+            "translated": "E1S3p4_EB",
+            "desc": ""
+        },
+        {
+            "hash": 2304571703,
+            "original": "~z~No one's gonna hear shit.",
+            "translated": "~z~什么都没得听了。",
+            "desc": ""
+        },
+        {
+            "hash": 2305753845,
+            "original": "E1S3p4_DA",
+            "translated": "E1S3p4_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2368687346,
+            "original": "E1S3p4_BD",
+            "translated": "E1S3p4_BD",
+            "desc": ""
+        },
+        {
+            "hash": 2476802998,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 2521543379,
+            "original": "E1S3p4_FB",
+            "translated": "E1S3p4_FB",
+            "desc": ""
+        },
+        {
+            "hash": 2605283203,
+            "original": "SFX_PAUSE_130",
+            "translated": "SFX_PAUSE_130",
+            "desc": ""
+        },
+        {
+            "hash": 2679206504,
+            "original": "~z~Maybe stick them on the web as well once I've got what I need, capiche? Ciao, buddy.",
+            "translated": "~z~拿到需要的消息，我就该考虑发到网上了，懂了吗？再见了，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 2815733496,
+            "original": "010090100090100090010",
+            "translated": "010090100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2858040844,
+            "original": "~z~Only bugs he's gonna touch will be eating his rotting corpse.",
+            "translated": "~z~他能听到的最后一件事就是自己的死讯了。",
+            "desc": ""
+        },
+        {
+            "hash": 2922226489,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 3028080654,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 3037883100,
+            "original": "E1S3p4_FC",
+            "translated": "E1S3p4_FC",
+            "desc": ""
+        },
+        {
+            "hash": 3119907081,
+            "original": "~z~Representative Stubbs.",
+            "translated": "~z~Stubbs代表先生。",
+            "desc": ""
+        },
+        {
+            "hash": 3131472404,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 3191793109,
+            "original": "~z~Shit, Stubbs. That mechanic of yours had an accident.",
+            "translated": "~z~妈的，Stubbs。你的机修工出事了。",
+            "desc": ""
+        },
+        {
+            "hash": 3240565792,
+            "original": "~z~Just what I've always wanted to experience: the scent of a city hall scumbag.",
+            "translated": "~z~正是我一直想体验的——市政厅那帮废物的味道。",
+            "desc": ""
+        },
+        {
+            "hash": 3300557430,
+            "original": "~z~Now be quick and get back before Mr. Dawkins realizes it's missing.",
+            "translated": "~z~在Dawkins先生发现车子失踪前赶紧送回去。",
+            "desc": ""
+        },
+        {
+            "hash": 3313009658,
+            "original": "~z~Sure I can handle a cage, man. Later on.",
+            "translated": "~z~我当然会开车，老兄。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 3334653211,
+            "original": "~z~It's like talking to a vampire whose just spotted a virgin. Sucking more money outta hard American workers, I bet.",
+            "translated": "~z~这话说的跟刚发现处女的吸血鬼似的。我看你又从辛苦劳动的美国工人身上吸了不少血吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3361425504,
+            "original": "~z~You need to take it over to a garage on Muskteer to be fitted with surveillance equipment.",
+            "translated": "~z~你要把车开到Muskteer街的一个车库去安装监听设备。",
+            "desc": ""
+        },
+        {
+            "hash": 3370393210,
+            "original": "100090100090010090100",
+            "translated": "100090100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 3395505842,
+            "original": "E1S3p4_GC",
+            "translated": "E1S3p4_GC",
+            "desc": ""
+        },
+        {
+            "hash": 3396112925,
+            "original": "100090010090010090100",
+            "translated": "100090010090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 3482488157,
+            "original": "E1S3p4_AE",
+            "translated": "E1S3p4_AE",
+            "desc": ""
+        },
+        {
+            "hash": 3490373421,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 3520272988,
+            "original": "E1S3p4_DB",
+            "translated": "E1S3p4_DB",
+            "desc": ""
+        },
+        {
+            "hash": 3521065187,
+            "original": "~z~The only thing I'm going to hear through that bug is you jerking off.",
+            "translated": "~z~这样下去我只能听到你在车里撸管了。",
+            "desc": ""
+        },
+        {
+            "hash": 3569933876,
+            "original": "E1S3p4_BA",
+            "translated": "E1S3p4_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3578798134,
+            "original": "SFX_PAUSE_110",
+            "translated": "SFX_PAUSE_110",
+            "desc": ""
+        },
+        {
+            "hash": 3584890876,
+            "original": "SFX_PAUSE_130",
+            "translated": "SFX_PAUSE_130",
+            "desc": ""
+        },
+        {
+            "hash": 3652888902,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 3690180212,
+            "original": "E1S3p4_AC",
+            "translated": "E1S3p4_AC",
+            "desc": ""
+        },
+        {
+            "hash": 3701253331,
+            "original": "E1S3p4_DC",
+            "translated": "E1S3p4_DC",
+            "desc": ""
+        },
+        {
+            "hash": 3748449278,
+            "original": "~z~Sorry, man. You probably got enough listening to boy's jerk off at your fancy prep school. I shoulda known.",
+            "translated": "~z~抱歉，老兄。是我没考虑到你上高级预科学校的时候就听过太多男孩子撸管了。",
+            "desc": ""
+        },
+        {
+            "hash": 3900300816,
+            "original": "~z~Drop the formalities, Klebitz. Dawkins has reported the car stolen.",
+            "translated": "~z~别客套了，Klebitz。Dawkins报警说他的车被偷了。",
+            "desc": ""
+        },
+        {
+            "hash": 3907799777,
+            "original": "~z~Alright, but just in case I'll instruct my mechanic to knock out any dings you might make along the way.",
+            "translated": "~z~好吧，但是以防万一，我会叫我的机修工把你在路上刮花的地方修好的。",
+            "desc": ""
+        },
+        {
+            "hash": 3914746797,
+            "original": "~z~Now mind you, you might have to go off radar and take some shortcuts. Call me when it's done.",
+            "translated": "~z~提醒你一句，你要走小路，躲开监控。完事了给我打电话。",
+            "desc": ""
+        },
+        {
+            "hash": 3956251358,
+            "original": "SFX_PAUSE_340",
+            "translated": "SFX_PAUSE_340",
+            "desc": ""
+        },
+        {
+            "hash": 3978890626,
+            "original": "E1S3p4_AJ",
+            "translated": "E1S3p4_AJ",
+            "desc": ""
+        },
+        {
+            "hash": 3997388476,
+            "original": "E1S3p4_DD",
+            "translated": "E1S3p4_DD",
+            "desc": ""
+        },
+        {
+            "hash": 4038599575,
+            "original": "E1S3p4_EA",
+            "translated": "E1S3p4_EA",
+            "desc": ""
+        },
+        {
+            "hash": 4089852187,
+            "original": "E1S3p4_GA",
+            "translated": "E1S3p4_GA",
+            "desc": ""
+        },
+        {
+            "hash": 4191075052,
+            "original": "E1S3p4_GD",
+            "translated": "E1S3p4_GD",
+            "desc": ""
+        },
+        {
+            "hash": 4219518011,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 4262002910,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 4265324411,
+            "original": "~z~Hey there, sport.",
+            "translated": "~z~你好啊，哥们。",
+            "desc": ""
+        }
+    ]
+}

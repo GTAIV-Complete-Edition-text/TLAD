@@ -1,0 +1,106 @@
+{
+    "STUB3M5": [
+        {
+            "hash": 301191098,
+            "original": "~s~Hold off the ~r~attackers.",
+            "translated": "~s~干掉~r~攻击者。",
+            "desc": ""
+        },
+        {
+            "hash": 649714134,
+            "original": "~r~The helicopter was wrecked.",
+            "translated": "~r~直升机被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 747122982,
+            "original": "~s~Go and get the ~b~CEO.",
+            "translated": "~s~去接上~b~CEO。",
+            "desc": ""
+        },
+        {
+            "hash": 852111617,
+            "original": "~s~Press ~INPUT_PICKUP~ to uncuff the CEO.",
+            "translated": "~s~按~INPUT_PICKUP~为CEO解铐。",
+            "desc": ""
+        },
+        {
+            "hash": 1031340496,
+            "original": "~r~The CEO is dead.",
+            "translated": "~r~CEO死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1195305512,
+            "original": "~s~The ~b~CEO~s~ needs to be uncuffed.",
+            "translated": "~s~为~b~CEO~s~解铐。",
+            "desc": ""
+        },
+        {
+            "hash": 1238838887,
+            "original": "~s~Take out the ~r~guards.",
+            "translated": "~s~干掉~r~警卫。",
+            "desc": ""
+        },
+        {
+            "hash": 1732148175,
+            "original": "~s~Wait for the ~b~CEO.",
+            "translated": "~s~等待~b~CEO。",
+            "desc": ""
+        },
+        {
+            "hash": 2113301572,
+            "original": "~r~The car was wrecked.",
+            "translated": "~r~车子被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 2220621401,
+            "original": "~s~Go to the ~y~alley.",
+            "translated": "~s~前往~y~小巷。",
+            "desc": ""
+        },
+        {
+            "hash": 2241150936,
+            "original": "~s~When the Blue Chips are Down",
+            "translated": "~s~当蓝筹股下跌时",
+            "desc": ""
+        },
+        {
+            "hash": 2513750569,
+            "original": "~r~The pilot is dead.",
+            "translated": "~r~飞行员死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2966424407,
+            "original": "~s~Go to the ~b~CEO.",
+            "translated": "~s~前往~b~CEO~s~所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 3248809637,
+            "original": "~s~Protect the ~b~CEO~s~ from the ~r~attackers~s~ as she enters the helicopter.",
+            "translated": "~s~在~b~CEO~s~登机时保护她不受~r~攻击者~s~攻击。",
+            "desc": ""
+        },
+        {
+            "hash": 3393682278,
+            "original": "~s~Protect the ~b~CEO~s~ as she gets in the helicopter.",
+            "translated": "~s~在~b~CEO~s~登机时保护她。",
+            "desc": ""
+        },
+        {
+            "hash": 3559845346,
+            "original": "~s~Get in the ~b~car.",
+            "translated": "~s~上~b~车。",
+            "desc": ""
+        },
+        {
+            "hash": 3905969798,
+            "original": "~s~Drive the CEO to her ~y~helipad~s~ quickly.",
+            "translated": "~s~尽快开车送CEO前往~y~停机坪。",
+            "desc": ""
+        }
+    ]
+}

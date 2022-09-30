@@ -1,0 +1,118 @@
+{
+    "BOMBE1": [
+        {
+            "hash": 640599169,
+            "original": "Placed a Bomb",
+            "translated": "安置一个炸弹",
+            "desc": ""
+        },
+        {
+            "hash": 674345939,
+            "original": "One of your crew has stolen the armored vehicle. Make your way to the ~Y~rendezvous point.~S~",
+            "translated": "你的一个队员已经偷走了装甲车。前往 ~Y~会合点~S~。",
+            "desc": ""
+        },
+        {
+            "hash": 1055187253,
+            "original": "You each have some explosives. Head out to the ~Y~docks~S~ in Broker.",
+            "translated": "你们每个人都有一些炸药。前往Broker区的 ~Y~码头~S~ 。",
+            "desc": ""
+        },
+        {
+            "hash": 1511074452,
+            "original": "The ship has been destroyed. The rival operation is no more.",
+            "translated": "船只已经被摧毁。敌人的计划被彻底摧毁。",
+            "desc": ""
+        },
+        {
+            "hash": 2375799862,
+            "original": "The bombs have been placed. Everyone needs to disembark to trigger the explosion.",
+            "translated": "炸弹已经被安置。所有人都需要下船来引爆炸药。",
+            "desc": ""
+        },
+        {
+            "hash": 2613932185,
+            "original": "One bomb is in place. Get the other to the second weak spot.",
+            "translated": "一个炸弹已经就位。 把另一个炸弹安放在第二个点。",
+            "desc": ""
+        },
+        {
+            "hash": 2647465732,
+            "original": "The ~B~vehicle~S~ is stopping, steal it.",
+            "translated": "这个~B~载具~S~正在停下， 偷走它。",
+            "desc": ""
+        },
+        {
+            "hash": 2761994855,
+            "original": "One of you must drive the ~B~armored vehicle~S~ to the rendezvous point.",
+            "translated": "你们中的一个必须驾驶 ~B~装甲车~S~ 前往汇合点。",
+            "desc": ""
+        },
+        {
+            "hash": 3124913948,
+            "original": "~R~You've destroyed the explosives.",
+            "translated": "~R~你已经毁坏了炸药。",
+            "desc": ""
+        },
+        {
+            "hash": 3226269895,
+            "original": "There are enemy snipers somewhere on the boat, someone should take up a sniping position and keep watch.",
+            "translated": "敌人的狙击手正在船上某处，你们中的一个人要去占领狙击点并且持续监视",
+            "desc": ""
+        },
+        {
+            "hash": 3424975795,
+            "original": "Take the vehicle back to the ~Y~rendezvous point.~S~",
+            "translated": "把载具送回 ~Y~会合点。~S~",
+            "desc": ""
+        },
+        {
+            "hash": 3546634892,
+            "original": "The helicopter has been destroyed. Find alternative transport to get to the ~Y~docks.~S~",
+            "translated": "直升机已经被摧毁。找到替代载具前往 ~Y~码头。~S~",
+            "desc": ""
+        },
+        {
+            "hash": 3553135354,
+            "original": "Go back to the ~Y~rendezvous point.~S~",
+            "translated": "回到~Y~会合点。~S~",
+            "desc": ""
+        },
+        {
+            "hash": 3629197519,
+            "original": "To reach one of the bomb sites you will need to access the cargo hold from the ship's galley.",
+            "translated": "你需要从船上的陈列室进入货仓来到达一个炸弹安放点。",
+            "desc": ""
+        },
+        {
+            "hash": 3688276178,
+            "original": "Wait here for the rest of your crew to arrive.",
+            "translated": "在这里等待你的队员到达。",
+            "desc": ""
+        },
+        {
+            "hash": 3734544538,
+            "original": "Find the convoy. Steal the ~B~armored vehicle.~S~",
+            "translated": "找到车队。偷走 ~B~装甲车~S~",
+            "desc": ""
+        },
+        {
+            "hash": 3947351740,
+            "original": "Place the explosives at the ~Y~weak spots~S~ on the ship.",
+            "translated": "在船上的~Y~薄弱点~S~安放炸药。",
+            "desc": ""
+        },
+        {
+            "hash": 3993060647,
+            "original": "Drive this thing to the ~Y~rendezvous point.~S~",
+            "translated": "开着这个到达~Y~会合点。~S~",
+            "desc": ""
+        },
+        {
+            "hash": 4294469909,
+            "original": "If you damage the ~B~armored vehicle~S~ enough it will stop and you can steal it.",
+            "translated": "如果你把 ~B~装甲车~S~ 破坏到一定程度它就会停下，你可以趁机偷走它。",
+            "desc": ""
+        }
+    ]
+}

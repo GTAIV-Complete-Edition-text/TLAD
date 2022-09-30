@@ -1,0 +1,202 @@
+{
+    "STUBBS4": [
+        {
+            "hash": 123720586,
+            "original": "~r~Your brother's bike was wrecked.~s~",
+            "translated": "~r~你弟兄的摩托坏了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 349238381,
+            "original": "~s~You need heavy artillery weapons to blow up the prison doors.~s~",
+            "translated": "~s~你需要用火炮类武器炸开监狱大门。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 930804507,
+            "original": "~s~Fight your way through the ~r~guards.~s~",
+            "translated": "~s~杀出一条血路，突破~r~警卫~s~的封锁。",
+            "desc": ""
+        },
+        {
+            "hash": 946068291,
+            "original": "Go to the ~y~prison.~s~",
+            "translated": "前往~y~监狱。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1470944171,
+            "original": "Press ~INPUT_PICKUP~ to obtain free weapons from Terry.",
+            "translated": "按~INPUT_PICKUP~从Terry处获取免费武器。",
+            "desc": ""
+        },
+        {
+            "hash": 1577255155,
+            "original": "~r~The Slam Van was wrecked.~s~",
+            "translated": "~r~军火车被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1841596282,
+            "original": "Blow up the ~r~prison doors.~s~",
+            "translated": "炸开~r~监狱大门。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1863721721,
+            "original": "~r~Clay is dead.~s~",
+            "translated": "~r~Clay死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1913562320,
+            "original": "~s~Please step away from the gates.~s~",
+            "translated": "~s~远离大门。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2136902279,
+            "original": "Get back to Terry and Clay and get on your ~b~bike.~s~",
+            "translated": "回去找Terry和Clay，骑上你的~b~摩托。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2183382842,
+            "original": "Lead The Lost back to the ~y~clubhouse.~s~",
+            "translated": "带领失落余部返回~y~会所。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2352036311,
+            "original": "~s~Get back on your ~b~Bike.~s~",
+            "translated": "~s~回到你的~b~摩托~s~上。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2493281286,
+            "original": "~s~Speak to Terry to get free weapons.~s~",
+            "translated": "~s~与Terry交谈以获取免费武器。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2676064181,
+            "original": "~s~Authorised personnel only. Leave the area now.~s~",
+            "translated": "~s~仅授权人员进入。立刻离开此处。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2765160141,
+            "original": "Get back to ~b~Terry and Clay.~s~",
+            "translated": "回去找~b~Terry~s~和~b~Clay。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2829850148,
+            "original": "~r~The Lost biker is dead.~s~",
+            "translated": "~r~失落帮成员死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2830322255,
+            "original": "~r~Billy has been securely locked down.~s~",
+            "translated": "~r~Billy已受到严密保护。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2835255983,
+            "original": "~s~Step away from the gates. You're not on the visitors list, you're not coming in. ~s~",
+            "translated": "~s~远离大门。你不在探监名单上，不得入内。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3027067331,
+            "original": "~r~You have damaged the Lost vehicles.~s~",
+            "translated": "~r~你损坏了失落帮的载具。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3063473602,
+            "original": "~s~Make your way to the ~y~prison yard.~s~",
+            "translated": "~s~前往~y~监狱空地。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3107043119,
+            "original": "~r~You abandoned Terry and Clay.~s~",
+            "translated": "~r~你抛弃了Terry和Clay。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3116201890,
+            "original": "~s~Clear the area of ~r~guards.~s~",
+            "translated": "~s~清除区域内的~r~警卫。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3193454972,
+            "original": "~r~Terry is dead.~s~",
+            "translated": "~r~Terry死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3376665981,
+            "original": "Get out of the prison and lose the cops.",
+            "translated": "离开监狱，甩掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 3681713072,
+            "original": "~r~Clay's bike was wrecked.~s~",
+            "translated": "~r~Clay的摩托坏了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3687774867,
+            "original": "~r~Billy has been put on lockdown.~s~",
+            "translated": "~r~Billy被关回去了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3780812977,
+            "original": "~s~Follow~b~ Terry and Clay~s~ out of the prison.",
+            "translated": "~s~跟随~b~Terry~s~和~b~Clay~s~离开监狱。",
+            "desc": ""
+        },
+        {
+            "hash": 3833564618,
+            "original": "~r~You attacked the Lost bikers.~s~",
+            "translated": "~r~你攻击了失落帮成员。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3868457309,
+            "original": "~s~When locked-on while equipped with a pistol, you can perform an execution on certain characters.~s~",
+            "translated": "~s~用手枪瞄准某些角色时，你可以对其实施处决。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3943710873,
+            "original": "Lose the cops.",
+            "translated": "甩掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 4034620108,
+            "original": "~s~Execute ~r~Billy.~s~",
+            "translated": "~s~处决~r~Billy。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4056295511,
+            "original": "~r~You have alerted the guards and blown your cover.~s~",
+            "translated": "~r~你惊动了警卫，暴露了自己的身份。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4235836866,
+            "original": "~r~Your bike was wrecked.~r~",
+            "translated": "~r~你的摩托坏了。~r~",
+            "desc": ""
+        }
+    ]
+}

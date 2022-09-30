@@ -1,0 +1,166 @@
+{
+    "BILLY4": [
+        {
+            "hash": 80304554,
+            "original": "Take out the Angels of Death.",
+            "translated": "干掉死亡天使成员。",
+            "desc": ""
+        },
+        {
+            "hash": 269034224,
+            "original": "~s~Race the Lost crew to the ~y~A.O.D. clubhouse.",
+            "translated": "~s~与失落帮成员比赛谁先到达~y~死亡天使会所。",
+            "desc": ""
+        },
+        {
+            "hash": 286247689,
+            "original": "Go with ~b~Billy~s~.",
+            "translated": "跟随~b~Billy。",
+            "desc": ""
+        },
+        {
+            "hash": 321193483,
+            "original": "Don't fire a grenade while in the clubhouse.",
+            "translated": "不要在会所内使用榴弹。",
+            "desc": ""
+        },
+        {
+            "hash": 438170808,
+            "original": "~r~Your bike was wrecked.",
+            "translated": "~r~你的车坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 557776847,
+            "original": "~r~You have no grenades left.",
+            "translated": "~r~你没有榴弹了。",
+            "desc": ""
+        },
+        {
+            "hash": 706823124,
+            "original": "~r~Billy is dead.",
+            "translated": "~r~Billy死了。",
+            "desc": ""
+        },
+        {
+            "hash": 730425101,
+            "original": "~r~Clay is dead.",
+            "translated": "~r~Clay死了。",
+            "desc": ""
+        },
+        {
+            "hash": 933123396,
+            "original": "Get back on your ~b~bike.",
+            "translated": "回到你的~b~摩托~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1126727878,
+            "original": "~s~Get on your ~b~bike~s~.",
+            "translated": "~s~骑上你的~b~摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 1458489184,
+            "original": "~s~Get on your ~b~bike~s~ and leave the area.",
+            "translated": "~s~骑上你的~b~摩托，~s~离开这一带。",
+            "desc": ""
+        },
+        {
+            "hash": 1708455875,
+            "original": "~s~The Angels of Death will defend their territory.",
+            "translated": "~s~死亡天使将保护他们的地盘。",
+            "desc": ""
+        },
+        {
+            "hash": 2020587712,
+            "original": "Get on your ~b~bike.",
+            "translated": "骑上你的~b~摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 2195043304,
+            "original": "~s~Take down the ~r~Angels of Death~s~ defending their clubhouse.",
+            "translated": "~s~干掉保护会所的~r~死亡天使成员。",
+            "desc": ""
+        },
+        {
+            "hash": 2355499547,
+            "original": "Race against Billy to the ~y~A.O.D. clubhouse~s~.",
+            "translated": "与Billy比赛谁先到达~y~死亡天使会所。",
+            "desc": ""
+        },
+        {
+            "hash": 2721463565,
+            "original": "~r~You abandoned your bike.",
+            "translated": "~r~你抛弃了你的摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 2975930699,
+            "original": "Ride with your brothers.",
+            "translated": "与弟兄们一起骑行。",
+            "desc": ""
+        },
+        {
+            "hash": 3212127391,
+            "original": "~r~Terry is dead.",
+            "translated": "~r~Terry死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3364456628,
+            "original": "~r~Jim is dead.",
+            "translated": "~r~Jim死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3642825802,
+            "original": "Leave the clubhouse.",
+            "translated": "离开会所。",
+            "desc": ""
+        },
+        {
+            "hash": 3752442042,
+            "original": "Follow ~b~Billy.",
+            "translated": "跟随~b~Billy。",
+            "desc": ""
+        },
+        {
+            "hash": 3753373618,
+            "original": "When using the grenade launcher, aim slightly above your target to compensate for gravity.",
+            "translated": "使用榴弹发射器时，榴弹会受重力影响下落，应瞄准略高于目标的位置。",
+            "desc": ""
+        },
+        {
+            "hash": 3910526796,
+            "original": "Fire a grenade through the ~y~upstairs window.",
+            "translated": "将榴弹射入~y~二楼的窗户。",
+            "desc": ""
+        },
+        {
+            "hash": 4036152245,
+            "original": "~r~Billy's bike was wrecked.",
+            "translated": "~r~Billy的摩托坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 4069137025,
+            "original": "Get clear of the A.O.D. clubhouse.",
+            "translated": "远离死亡天使会所。",
+            "desc": ""
+        },
+        {
+            "hash": 4133550687,
+            "original": "~r~You abandoned Billy.",
+            "translated": "~r~你抛弃了Billy。",
+            "desc": ""
+        },
+        {
+            "hash": 4180223725,
+            "original": "~r~Brian is dead.",
+            "translated": "~r~Brian死了。",
+            "desc": ""
+        }
+    ]
+}

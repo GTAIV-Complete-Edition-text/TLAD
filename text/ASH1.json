@@ -1,0 +1,70 @@
+{
+    "ASH1": [
+        {
+            "hash": 349127792,
+            "original": "Go to ~b~Ashley.",
+            "translated": "靠近~b~Ashley。",
+            "desc": ""
+        },
+        {
+            "hash": 660040064,
+            "original": "Go back for ~b~Ashley.",
+            "translated": "回去找~b~Ashley。",
+            "desc": ""
+        },
+        {
+            "hash": 1416774577,
+            "original": "Take out the ~r~drug addicts.",
+            "translated": "干掉~r~瘾君子。",
+            "desc": ""
+        },
+        {
+            "hash": 1539854945,
+            "original": "Go ~y~upstairs ~s~and find Ashley.",
+            "translated": "~y~上楼~s~寻找Ashley。",
+            "desc": ""
+        },
+        {
+            "hash": 1715529550,
+            "original": "Find Ashley.",
+            "translated": "寻找Ashley。",
+            "desc": ""
+        },
+        {
+            "hash": 1832187194,
+            "original": "Get on the ~b~bike.",
+            "translated": "骑上~b~摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 3243435705,
+            "original": "Press ~INPUT_PICKUP~ to hurry Ashley.",
+            "translated": "按~INPUT_PICKUP~催促Ashley。",
+            "desc": ""
+        },
+        {
+            "hash": 3253855696,
+            "original": "~r~Ashley is dead.",
+            "translated": "~r~Ashley死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3270254763,
+            "original": "You left ~b~Ashley ~s~behind.",
+            "translated": "你把~b~Ashley~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 4054187550,
+            "original": "Go to ~y~Ashley.",
+            "translated": "去救~y~Ashley。",
+            "desc": ""
+        },
+        {
+            "hash": 4172450871,
+            "original": "Take Ashley ~y~home.",
+            "translated": "送Ashley~y~回家。",
+            "desc": ""
+        }
+    ]
+}

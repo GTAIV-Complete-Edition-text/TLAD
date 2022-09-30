@@ -1,0 +1,4210 @@
+{
+    "E12WA": [
+        {
+            "hash": 1988103,
+            "original": "SFX_PAUSE_570",
+            "translated": "SFX_PAUSE_570",
+            "desc": ""
+        },
+        {
+            "hash": 3951830,
+            "original": "~z~You know what they say about guys who spend time in South East Asia, man.",
+            "translated": "~z~你也知道别人怎么评价去过东南亚的人吧，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 5858930,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 10745385,
+            "original": "~z~And I will never bullshit you.",
+            "translated": "~z~我永远都不会骗你。",
+            "desc": ""
+        },
+        {
+            "hash": 22545406,
+            "original": "E12W_A_EF",
+            "translated": "E12W_A_EF",
+            "desc": ""
+        },
+        {
+            "hash": 40978189,
+            "original": "~z~You are old.",
+            "translated": "~z~你是老了。",
+            "desc": ""
+        },
+        {
+            "hash": 44984794,
+            "original": "SFX_PAUSE_450",
+            "translated": "SFX_PAUSE_450",
+            "desc": ""
+        },
+        {
+            "hash": 64842040,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 78843616,
+            "original": "~z~Yeah she's moved in with her folks.",
+            "translated": "~z~嗯，她一家子都搬进去了。",
+            "desc": ""
+        },
+        {
+            "hash": 82898973,
+            "original": "SFX_PAUSE_340",
+            "translated": "SFX_PAUSE_340",
+            "desc": ""
+        },
+        {
+            "hash": 88855394,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 93148468,
+            "original": "E12W_KB",
+            "translated": "E12W_KB",
+            "desc": ""
+        },
+        {
+            "hash": 95535236,
+            "original": "~z~Get out there, man. There's hardbellies all over this city looking for a man with your gifts.",
+            "translated": "~z~放宽心，兄弟。自由城能被你迷倒的小妞有的是。",
+            "desc": ""
+        },
+        {
+            "hash": 113611195,
+            "original": "~z~Man, I need this Club. Lost MC!",
+            "translated": "~z~天，我离不开这个帮了。失落帮！",
+            "desc": ""
+        },
+        {
+            "hash": 121533848,
+            "original": "E12W_ZF",
+            "translated": "E12W_ZF",
+            "desc": ""
+        },
+        {
+            "hash": 121625907,
+            "original": "E12W_A_BB",
+            "translated": "E12W_A_BB",
+            "desc": ""
+        },
+        {
+            "hash": 122302590,
+            "original": "SFX_PAUSE_480",
+            "translated": "SFX_PAUSE_480",
+            "desc": ""
+        },
+        {
+            "hash": 141071828,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 141749623,
+            "original": "~z~Yeah? I thought we fucked up that country to all hell.",
+            "translated": "~z~是吗？我还以为那个国家已经被我们糟蹋完了。",
+            "desc": ""
+        },
+        {
+            "hash": 148128053,
+            "original": "E12W_UE",
+            "translated": "E12W_UE",
+            "desc": ""
+        },
+        {
+            "hash": 155914751,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 160729098,
+            "original": "~z~You're my brother. I got your back.",
+            "translated": "~z~我是你兄弟，不离不弃。",
+            "desc": ""
+        },
+        {
+            "hash": 167724365,
+            "original": "~z~I got a gift, man. I'm blessed.",
+            "translated": "~z~我天赋异禀，老兄。与众不同。",
+            "desc": ""
+        },
+        {
+            "hash": 168152339,
+            "original": "~z~The craziness, man. You're getting old. You can get out of this shit.",
+            "translated": "~z~这种疯狂，兄弟。你年纪大了，可以远离这种生活了。",
+            "desc": ""
+        },
+        {
+            "hash": 168197171,
+            "original": "E12W_JA",
+            "translated": "E12W_JA",
+            "desc": ""
+        },
+        {
+            "hash": 168322836,
+            "original": "~z~Yes indeed!",
+            "translated": "~z~可不是嘛！",
+            "desc": ""
+        },
+        {
+            "hash": 180451130,
+            "original": "~z~How's the old lady, man?",
+            "translated": "~z~你老婆还好吗，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 185930642,
+            "original": "E12W_NH",
+            "translated": "E12W_NH",
+            "desc": ""
+        },
+        {
+            "hash": 195532108,
+            "original": "E12W_SB",
+            "translated": "E12W_SB",
+            "desc": ""
+        },
+        {
+            "hash": 201201285,
+            "original": "SFX_PAUSE_340",
+            "translated": "SFX_PAUSE_340",
+            "desc": ""
+        },
+        {
+            "hash": 203554530,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 214671129,
+            "original": "E12W_BA",
+            "translated": "E12W_BA",
+            "desc": ""
+        },
+        {
+            "hash": 215290168,
+            "original": "~z~Other way round, amigo.",
+            "translated": "~z~我也这么想，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 227888036,
+            "original": "E12W_A_CG",
+            "translated": "E12W_A_CG",
+            "desc": ""
+        },
+        {
+            "hash": 232827651,
+            "original": "E12W_YF",
+            "translated": "E12W_YF",
+            "desc": ""
+        },
+        {
+            "hash": 244617728,
+            "original": "~z~People actually want to kill you out there.",
+            "translated": "~z~因为军营外的人是真想杀你。",
+            "desc": ""
+        },
+        {
+            "hash": 251369425,
+            "original": "~z~Yeah. Always did.",
+            "translated": "~z~是啊，确实想过。",
+            "desc": ""
+        },
+        {
+            "hash": 254046159,
+            "original": "E12W_OC",
+            "translated": "E12W_OC",
+            "desc": ""
+        },
+        {
+            "hash": 255084532,
+            "original": "~z~You coming onto me?",
+            "translated": "~z~你在拍我马屁吗？",
+            "desc": ""
+        },
+        {
+            "hash": 259475470,
+            "original": "E12W_YE",
+            "translated": "E12W_YE",
+            "desc": ""
+        },
+        {
+            "hash": 274114323,
+            "original": "E12W_A_CE",
+            "translated": "E12W_A_CE",
+            "desc": ""
+        },
+        {
+            "hash": 276106501,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 297572679,
+            "original": "E12W_JC",
+            "translated": "E12W_JC",
+            "desc": ""
+        },
+        {
+            "hash": 303369316,
+            "original": "~z~If we do get sent down, I'm hoping it's together.",
+            "translated": "~z~要是真坐牢了，希望我们还在一起。",
+            "desc": ""
+        },
+        {
+            "hash": 303385502,
+            "original": "E12W_IF",
+            "translated": "E12W_IF",
+            "desc": ""
+        },
+        {
+            "hash": 312654156,
+            "original": "~z~They can take everything, but you're still a fucking man, Terry. You got that.",
+            "translated": "~z~他们能夺走一切，但你还是个男子汉，Terry。懂了吗。",
+            "desc": ""
+        },
+        {
+            "hash": 317444348,
+            "original": "SFX_PAUSE_570",
+            "translated": "SFX_PAUSE_570",
+            "desc": ""
+        },
+        {
+            "hash": 325900777,
+            "original": "~z~Herpes ain't a gift, man. It's a disease. You should keep that shit to yourself.",
+            "translated": "~z~疱疹不是礼物，老兄。那是病毒。你还是自己独享吧。",
+            "desc": ""
+        },
+        {
+            "hash": 341243077,
+            "original": "~z~Feels good, don't it?",
+            "translated": "~z~感觉很棒，不是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 341483510,
+            "original": "E12W_SA",
+            "translated": "E12W_SA",
+            "desc": ""
+        },
+        {
+            "hash": 346247558,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 347192389,
+            "original": "~z~Same thing man, they all trying to fuck you.",
+            "translated": "~z~一样的，兄弟。他们都想搞你。",
+            "desc": ""
+        },
+        {
+            "hash": 350681307,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 351076687,
+            "original": "SFX_PAUSE_430",
+            "translated": "SFX_PAUSE_430",
+            "desc": ""
+        },
+        {
+            "hash": 353254051,
+            "original": "~z~Johnny! I'm drowning here, man. I dunno.",
+            "translated": "~z~Johnny！我快被压垮了，兄弟。麻了。",
+            "desc": ""
+        },
+        {
+            "hash": 356604956,
+            "original": "SFX_PAUSE_490",
+            "translated": "SFX_PAUSE_490",
+            "desc": ""
+        },
+        {
+            "hash": 362656130,
+            "original": "E12W_TA",
+            "translated": "E12W_TA",
+            "desc": ""
+        },
+        {
+            "hash": 371233859,
+            "original": "~z~Shit, can we reach out to women as well? Don't think I could do without pussy for fifteen to twenty.",
+            "translated": "~z~妈的，能不能再招点娘们？十几二十年不碰女人我可受不了。",
+            "desc": ""
+        },
+        {
+            "hash": 371655188,
+            "original": "SFX_PAUSE_430",
+            "translated": "SFX_PAUSE_430",
+            "desc": ""
+        },
+        {
+            "hash": 372511186,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 373990142,
+            "original": "~z~Yeah, well, you ain't got alimony to worry about. Nothing simple about that.",
+            "translated": "~z~是吗，毕竟你不用愁抚养费。那可就不简单了。",
+            "desc": ""
+        },
+        {
+            "hash": 377968086,
+            "original": "E12W_AF",
+            "translated": "E12W_AF",
+            "desc": ""
+        },
+        {
+            "hash": 379058000,
+            "original": "E12W_QD",
+            "translated": "E12W_QD",
+            "desc": ""
+        },
+        {
+            "hash": 388020207,
+            "original": "~z~Don't laugh about it, man. I'm hurtin'.",
+            "translated": "~z~别笑话我，兄弟。我心好痛。",
+            "desc": ""
+        },
+        {
+            "hash": 399979469,
+            "original": "E12W_TB",
+            "translated": "E12W_TB",
+            "desc": ""
+        },
+        {
+            "hash": 400467077,
+            "original": "~z~Yeah, man.",
+            "translated": "~z~投了，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 402236366,
+            "original": "E12W_NF",
+            "translated": "E12W_NF",
+            "desc": ""
+        },
+        {
+            "hash": 408453275,
+            "original": "~z~Maybe.",
+            "translated": "~z~也许吧。",
+            "desc": ""
+        },
+        {
+            "hash": 415328877,
+            "original": "E12W_HK",
+            "translated": "E12W_HK",
+            "desc": ""
+        },
+        {
+            "hash": 419262825,
+            "original": "~z~Like the country isn't run by five guys behind the scenes.",
+            "translated": "~z~搞得跟这个国家不是幕后的五个人做的决策一样。",
+            "desc": ""
+        },
+        {
+            "hash": 420173058,
+            "original": "~z~Where were we, Terrence.",
+            "translated": "~z~说到哪了，Terrence？",
+            "desc": ""
+        },
+        {
+            "hash": 420666848,
+            "original": "~z~A different rash for every port.",
+            "translated": "~z~一个港口一种皮疹。",
+            "desc": ""
+        },
+        {
+            "hash": 424772861,
+            "original": "E12W_A_CH",
+            "translated": "E12W_A_CH",
+            "desc": ""
+        },
+        {
+            "hash": 427569863,
+            "original": "~z~Clay, man. You getting itchy feet? How long you been Stateside for?",
+            "translated": "~z~Clay，兄弟，想去旅行吗？你回国多久了？",
+            "desc": ""
+        },
+        {
+            "hash": 427652639,
+            "original": "~z~Oh, they pay me, brother. They all pay for what I got.",
+            "translated": "~z~她们付我钱，兄弟。她们为我的身家付钱。",
+            "desc": ""
+        },
+        {
+            "hash": 433187949,
+            "original": "~z~Okay brother.",
+            "translated": "~z~你说，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 437034224,
+            "original": "E12W_EH",
+            "translated": "E12W_EH",
+            "desc": ""
+        },
+        {
+            "hash": 445907502,
+            "original": "E12W_OE",
+            "translated": "E12W_OE",
+            "desc": ""
+        },
+        {
+            "hash": 457662162,
+            "original": "SFX_PAUSE_500",
+            "translated": "SFX_PAUSE_500",
+            "desc": ""
+        },
+        {
+            "hash": 460044009,
+            "original": "E12W_BB",
+            "translated": "E12W_BB",
+            "desc": ""
+        },
+        {
+            "hash": 464580611,
+            "original": "E12W_DA",
+            "translated": "E12W_DA",
+            "desc": ""
+        },
+        {
+            "hash": 475276511,
+            "original": "E12W_IJ",
+            "translated": "E12W_IJ",
+            "desc": ""
+        },
+        {
+            "hash": 482113890,
+            "original": "E12W_DD",
+            "translated": "E12W_DD",
+            "desc": ""
+        },
+        {
+            "hash": 482729397,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 482776606,
+            "original": "~z~Not in the war, dumb ass. I was attached to the embassy.",
+            "translated": "~z~不是说越战，傻逼。我被派到大使馆了。",
+            "desc": ""
+        },
+        {
+            "hash": 487132437,
+            "original": "~z~Alright, man. Then I will rephrase it. The fucking pricks running this country, man.",
+            "translated": "~z~好吧，兄弟。那我换一个说法。管理国家的都是傻逼，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 490899797,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 496978933,
+            "original": "~z~Fuck, man. I thought the outlaw life would save me from that shit.",
+            "translated": "~z~操，兄弟。我还以为法外狂徒就不会有这种闹心事了。",
+            "desc": ""
+        },
+        {
+            "hash": 503975577,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 504595847,
+            "original": "E12W_QB",
+            "translated": "E12W_QB",
+            "desc": ""
+        },
+        {
+            "hash": 547467775,
+            "original": "E12W_A_DA",
+            "translated": "E12W_A_DA",
+            "desc": ""
+        },
+        {
+            "hash": 555959249,
+            "original": "E12W_EI",
+            "translated": "E12W_EI",
+            "desc": ""
+        },
+        {
+            "hash": 571991261,
+            "original": "E12W_PB",
+            "translated": "E12W_PB",
+            "desc": ""
+        },
+        {
+            "hash": 575868620,
+            "original": "E12W_ED",
+            "translated": "E12W_ED",
+            "desc": ""
+        },
+        {
+            "hash": 589666585,
+            "original": "~z~Then what are they buying?",
+            "translated": "~z~那他们买什么？",
+            "desc": ""
+        },
+        {
+            "hash": 594984484,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 606246442,
+            "original": "E12W_FB",
+            "translated": "E12W_FB",
+            "desc": ""
+        },
+        {
+            "hash": 606866050,
+            "original": "~z~Very funny... sometimes, I find myself thinking what the fuck happened to my country?",
+            "translated": "~z~好好笑哦...有时候我在想，我的祖国怎么成了这个样子？",
+            "desc": ""
+        },
+        {
+            "hash": 618689633,
+            "original": "300090030090300090030090300090300090030090300090030",
+            "translated": "300090030090300090030090300090300090030090300090030",
+            "desc": ""
+        },
+        {
+            "hash": 632364636,
+            "original": "E12W_EJ",
+            "translated": "E12W_EJ",
+            "desc": ""
+        },
+        {
+            "hash": 640560659,
+            "original": "~z~Sometimes, I think prison would be better.",
+            "translated": "~z~有时候我宁可去坐牢了。",
+            "desc": ""
+        },
+        {
+            "hash": 650097321,
+            "original": "E12W_GA",
+            "translated": "E12W_GA",
+            "desc": ""
+        },
+        {
+            "hash": 653650064,
+            "original": "~z~I hope not. Hope he heads out west or something.",
+            "translated": "~z~但愿不会吧。希望他会去西部之类的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 654717089,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 656246837,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 671252542,
+            "original": "E12W_KJ",
+            "translated": "E12W_KJ",
+            "desc": ""
+        },
+        {
+            "hash": 689983199,
+            "original": "E12W_AB",
+            "translated": "E12W_AB",
+            "desc": ""
+        },
+        {
+            "hash": 695509721,
+            "original": "E12W_TG",
+            "translated": "E12W_TG",
+            "desc": ""
+        },
+        {
+            "hash": 706495910,
+            "original": "~z~That why you enlisted?",
+            "translated": "~z~所以你参军了？",
+            "desc": ""
+        },
+        {
+            "hash": 711524902,
+            "original": "E12W_UB",
+            "translated": "E12W_UB",
+            "desc": ""
+        },
+        {
+            "hash": 714301948,
+            "original": "E12W_SH",
+            "translated": "E12W_SH",
+            "desc": ""
+        },
+        {
+            "hash": 725901691,
+            "original": "E12W_DG",
+            "translated": "E12W_DG",
+            "desc": ""
+        },
+        {
+            "hash": 729469135,
+            "original": "~z~You thought you'd be an army man?",
+            "translated": "~z~你以前想要参军？",
+            "desc": ""
+        },
+        {
+            "hash": 741851369,
+            "original": "E12W_LE",
+            "translated": "E12W_LE",
+            "desc": ""
+        },
+        {
+            "hash": 743638100,
+            "original": "SFX_PAUSE_470",
+            "translated": "SFX_PAUSE_470",
+            "desc": ""
+        },
+        {
+            "hash": 753845219,
+            "original": "E12W_SG",
+            "translated": "E12W_SG",
+            "desc": ""
+        },
+        {
+            "hash": 754171625,
+            "original": "~z~...He was cool - real cool.",
+            "translated": "~z~...他很酷，超酷。",
+            "desc": ""
+        },
+        {
+            "hash": 755149487,
+            "original": "E12W_EA",
+            "translated": "E12W_EA",
+            "desc": ""
+        },
+        {
+            "hash": 758211760,
+            "original": "E12W_A_FC",
+            "translated": "E12W_A_FC",
+            "desc": ""
+        },
+        {
+            "hash": 771632895,
+            "original": "~z~Fuck 'em all, my brother.",
+            "translated": "~z~都他妈傻逼，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 776356949,
+            "original": "~z~Billy was cool back then, weren't he?",
+            "translated": "~z~Billy当时还很酷，不是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 795842534,
+            "original": "~z~You retiring me? Gonna take me 'round the back and shoot me like a lame horse?",
+            "translated": "~z~你叫我退休？绕到我身后，像对待瘸腿马一样给我一枪？",
+            "desc": ""
+        },
+        {
+            "hash": 796447673,
+            "original": "~z~Who for?",
+            "translated": "~z~投的谁？",
+            "desc": ""
+        },
+        {
+            "hash": 798019642,
+            "original": "E12W_PF",
+            "translated": "E12W_PF",
+            "desc": ""
+        },
+        {
+            "hash": 802493976,
+            "original": "SFX_PAUSE_500",
+            "translated": "SFX_PAUSE_500",
+            "desc": ""
+        },
+        {
+            "hash": 809791223,
+            "original": "E12W_A_DG",
+            "translated": "E12W_A_DG",
+            "desc": ""
+        },
+        {
+            "hash": 828282841,
+            "original": "E12W_A_AA",
+            "translated": "E12W_A_AA",
+            "desc": ""
+        },
+        {
+            "hash": 832171836,
+            "original": "SFX_PAUSE_410",
+            "translated": "SFX_PAUSE_410",
+            "desc": ""
+        },
+        {
+            "hash": 836284360,
+            "original": "~z~Sure.",
+            "translated": "~z~确实。",
+            "desc": ""
+        },
+        {
+            "hash": 838053882,
+            "original": "~z~Just like the old days, huh brother?",
+            "translated": "~z~让人想起以前了，对吧，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 840213226,
+            "original": "SFX_PAUSE_160",
+            "translated": "SFX_PAUSE_160",
+            "desc": ""
+        },
+        {
+            "hash": 841179821,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 848588502,
+            "original": "~z~You got left for a Deadbeat?",
+            "translated": "~z~你还比不过死妈天使？",
+            "desc": ""
+        },
+        {
+            "hash": 862182302,
+            "original": "~z~I dunno, seems like a lot of people in Liberty City wanna kill me, man.",
+            "translated": "~z~不好说，我在自由城似乎也被不少人给盯上了。",
+            "desc": ""
+        },
+        {
+            "hash": 868880865,
+            "original": "~z~You back with us, dude? What were we saying? Oh yeah...",
+            "translated": "~z~还回来吗，老兄？我们在说啥呢？哦对...",
+            "desc": ""
+        },
+        {
+            "hash": 869772039,
+            "original": "E12W_QE",
+            "translated": "E12W_QE",
+            "desc": ""
+        },
+        {
+            "hash": 873260813,
+            "original": "020090200090020090200090020090200",
+            "translated": "020090200090020090200090020090200",
+            "desc": ""
+        },
+        {
+            "hash": 874307527,
+            "original": "~z~Shit, no wonder I spend most my time carrying your ass.",
+            "translated": "~z~妈的，怪不得我经常跟你这逼崽子在一块。",
+            "desc": ""
+        },
+        {
+            "hash": 878679413,
+            "original": "E12W_A_DF",
+            "translated": "E12W_A_DF",
+            "desc": ""
+        },
+        {
+            "hash": 879018958,
+            "original": "E12W_UA",
+            "translated": "E12W_UA",
+            "desc": ""
+        },
+        {
+            "hash": 880335833,
+            "original": "E12W_A_DB",
+            "translated": "E12W_A_DB",
+            "desc": ""
+        },
+        {
+            "hash": 881528601,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 884579389,
+            "original": "~z~Alright, then. In that case, I guess things couldn't get any worse than they are right now.",
+            "translated": "~z~那好吧。这么一说，现在应该是糟糕透顶了。",
+            "desc": ""
+        },
+        {
+            "hash": 887094774,
+            "original": "~z~Then they threaten to repossess my bike...",
+            "translated": "~z~现在他们还威胁要收回我的摩托...",
+            "desc": ""
+        },
+        {
+            "hash": 889877498,
+            "original": "SFX_PAUSE_410",
+            "translated": "SFX_PAUSE_410",
+            "desc": ""
+        },
+        {
+            "hash": 890728308,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 892493830,
+            "original": "E12W_A_ED",
+            "translated": "E12W_A_ED",
+            "desc": ""
+        },
+        {
+            "hash": 902487113,
+            "original": "~z~Thanks brother.",
+            "translated": "~z~谢了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 916118259,
+            "original": "E12W_MA",
+            "translated": "E12W_MA",
+            "desc": ""
+        },
+        {
+            "hash": 919305757,
+            "original": "~z~That's life in twenty first century America, my brother. We woke up in a nightmare.",
+            "translated": "~z~这就是二十一世纪美国的生活，好兄弟。醒来仍是噩梦。",
+            "desc": ""
+        },
+        {
+            "hash": 922149828,
+            "original": "E12W_AC",
+            "translated": "E12W_AC",
+            "desc": ""
+        },
+        {
+            "hash": 922184534,
+            "original": "E12W_NB",
+            "translated": "E12W_NB",
+            "desc": ""
+        },
+        {
+            "hash": 937570915,
+            "original": "SFX_PAUSE_370",
+            "translated": "SFX_PAUSE_370",
+            "desc": ""
+        },
+        {
+            "hash": 943007189,
+            "original": "E12W_YD",
+            "translated": "E12W_YD",
+            "desc": ""
+        },
+        {
+            "hash": 964627878,
+            "original": "~z~Insane.",
+            "translated": "~z~他疯了。",
+            "desc": ""
+        },
+        {
+            "hash": 970033061,
+            "original": "~z~I'd like to see 'em try and repossess my balls, man. That'll be the day.",
+            "translated": "~z~我倒想看看他们能不能收回我的蛋，兄弟。差不多得了。",
+            "desc": ""
+        },
+        {
+            "hash": 975831625,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 985872531,
+            "original": "E12W_JF",
+            "translated": "E12W_JF",
+            "desc": ""
+        },
+        {
+            "hash": 989984032,
+            "original": "SFX_PAUSE_470",
+            "translated": "SFX_PAUSE_470",
+            "desc": ""
+        },
+        {
+            "hash": 993787941,
+            "original": "~z~Man, I liked her. Going off with that fucking Deadbeat. Shit!",
+            "translated": "~z~天，我喜欢她。结果跟那个死妈天使跑了。操！",
+            "desc": ""
+        },
+        {
+            "hash": 1000322537,
+            "original": "SFX_PAUSE_500",
+            "translated": "SFX_PAUSE_500",
+            "desc": ""
+        },
+        {
+            "hash": 1023481613,
+            "original": "~z~Dude, you're in The Lost. You're just looking out for your brothers.",
+            "translated": "~z~老兄，你是失落帮的一员。你只是在照应兄弟罢了。",
+            "desc": ""
+        },
+        {
+            "hash": 1025640316,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 1030216918,
+            "original": "E12W_EG",
+            "translated": "E12W_EG",
+            "desc": ""
+        },
+        {
+            "hash": 1039922713,
+            "original": "E12W_HA",
+            "translated": "E12W_HA",
+            "desc": ""
+        },
+        {
+            "hash": 1043834281,
+            "original": "010090100090010090100090010090100090010090100090010",
+            "translated": "010090100090010090100090010090100090010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 1046456838,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 1051453723,
+            "original": "~z~Crazy Colin's now a man of God.",
+            "translated": "~z~疯子Colin现在信上帝了。",
+            "desc": ""
+        },
+        {
+            "hash": 1051756921,
+            "original": "E12W_KD",
+            "translated": "E12W_KD",
+            "desc": ""
+        },
+        {
+            "hash": 1058419684,
+            "original": "E12W_VA",
+            "translated": "E12W_VA",
+            "desc": ""
+        },
+        {
+            "hash": 1066338055,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 1071337376,
+            "original": "~z~I guess it's a good thing shit's so fucked up then.",
+            "translated": "~z~也许这就是好事难全吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1072513417,
+            "original": "E12W_ZD",
+            "translated": "E12W_ZD",
+            "desc": ""
+        },
+        {
+            "hash": 1073989110,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 1074163526,
+            "original": "E12W_HB",
+            "translated": "E12W_HB",
+            "desc": ""
+        },
+        {
+            "hash": 1094391246,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 1096111142,
+            "original": "E12W_MF",
+            "translated": "E12W_MF",
+            "desc": ""
+        },
+        {
+            "hash": 1100280968,
+            "original": "~z~Yes, Jesus. Batshit fucking crazy he is, whole family has gone into hiding.",
+            "translated": "~z~是啊，上帝啊。他是彻头彻尾地疯了，我全家都躲起来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1100636101,
+            "original": "~z~You old, Clay. But you ain't that old.",
+            "translated": "~z~你确实老，Clay。但也没那么老吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1103362174,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 1105529964,
+            "original": "E12W_DJ",
+            "translated": "E12W_DJ",
+            "desc": ""
+        },
+        {
+            "hash": 1116636072,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 1118622869,
+            "original": "E12W_MG",
+            "translated": "E12W_MG",
+            "desc": ""
+        },
+        {
+            "hash": 1121416256,
+            "original": "E12W_FA",
+            "translated": "E12W_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1122896482,
+            "original": "E12W_ID",
+            "translated": "E12W_ID",
+            "desc": ""
+        },
+        {
+            "hash": 1123105520,
+            "original": "E12W_OB",
+            "translated": "E12W_OB",
+            "desc": ""
+        },
+        {
+            "hash": 1125099509,
+            "original": "E12W_KI",
+            "translated": "E12W_KI",
+            "desc": ""
+        },
+        {
+            "hash": 1127157543,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 1128795285,
+            "original": "E12W_SI",
+            "translated": "E12W_SI",
+            "desc": ""
+        },
+        {
+            "hash": 1130957080,
+            "original": "E12W_IC",
+            "translated": "E12W_IC",
+            "desc": ""
+        },
+        {
+            "hash": 1151885610,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 1153114396,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 1161985510,
+            "original": "E12W_A_EC",
+            "translated": "E12W_A_EC",
+            "desc": ""
+        },
+        {
+            "hash": 1164962900,
+            "original": "E12W_A_GD",
+            "translated": "E12W_A_GD",
+            "desc": ""
+        },
+        {
+            "hash": 1173764645,
+            "original": "E12W_A_CF",
+            "translated": "E12W_A_CF",
+            "desc": ""
+        },
+        {
+            "hash": 1175604719,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 1184911338,
+            "original": "230090320090230320090230",
+            "translated": "230090320090230320090230",
+            "desc": ""
+        },
+        {
+            "hash": 1190476561,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 1203600720,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 1205391835,
+            "original": "~z~What you mean?",
+            "translated": "~z~什么意思？",
+            "desc": ""
+        },
+        {
+            "hash": 1210617852,
+            "original": "E12W_LI",
+            "translated": "E12W_LI",
+            "desc": ""
+        },
+        {
+            "hash": 1210711058,
+            "original": "030090300090030090300090030090300090030090300",
+            "translated": "030090300090030090300090030090300090030090300",
+            "desc": ""
+        },
+        {
+            "hash": 1231583186,
+            "original": "~z~That shit catches up with you, man.",
+            "translated": "~z~在你身上都还能看见，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1241043596,
+            "original": "~z~Yeah, me too.",
+            "translated": "~z~是啊，我同意。",
+            "desc": ""
+        },
+        {
+            "hash": 1257314692,
+            "original": "SFX_PAUSE_450",
+            "translated": "SFX_PAUSE_450",
+            "desc": ""
+        },
+        {
+            "hash": 1261179776,
+            "original": "SFX_PAUSE_420",
+            "translated": "SFX_PAUSE_420",
+            "desc": ""
+        },
+        {
+            "hash": 1262966687,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 1263208447,
+            "original": "E12W_HE",
+            "translated": "E12W_HE",
+            "desc": ""
+        },
+        {
+            "hash": 1271963143,
+            "original": "~z~Might do her some good getting shit from her parents after all the crap she gave you.",
+            "translated": "~z~给你找了那么多麻烦，也该轮到她的父母给她找点麻烦了。",
+            "desc": ""
+        },
+        {
+            "hash": 1278962684,
+            "original": "SFX_PAUSE_540",
+            "translated": "SFX_PAUSE_540",
+            "desc": ""
+        },
+        {
+            "hash": 1279002789,
+            "original": "SFX_PAUSE_410",
+            "translated": "SFX_PAUSE_410",
+            "desc": ""
+        },
+        {
+            "hash": 1300973039,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 1305154923,
+            "original": "~z~Always thought I'd be an army man.",
+            "translated": "~z~我曾经也想报名参军。",
+            "desc": ""
+        },
+        {
+            "hash": 1305272325,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 1318981289,
+            "original": "~z~Well, I swore to my daddy I'd never be a cop.",
+            "translated": "~z~这个嘛，我对我爸发过誓，绝不当条子。",
+            "desc": ""
+        },
+        {
+            "hash": 1322193183,
+            "original": "E12W_JD",
+            "translated": "E12W_JD",
+            "desc": ""
+        },
+        {
+            "hash": 1325175517,
+            "original": "~z~Johnny, man.",
+            "translated": "~z~Johnny，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 1328981486,
+            "original": "E12W_A_GB",
+            "translated": "E12W_A_GB",
+            "desc": ""
+        },
+        {
+            "hash": 1329612353,
+            "original": "E12W_RG",
+            "translated": "E12W_RG",
+            "desc": ""
+        },
+        {
+            "hash": 1341705277,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 1346505807,
+            "original": "~z~So my brother showed up.",
+            "translated": "~z~我哥他回来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1357201217,
+            "original": "~z~I don't need your pity man. And she ain't worth your pity, not no more.",
+            "translated": "~z~我不需要你同情，兄弟。她也不配被同情，现在的她不配。",
+            "desc": ""
+        },
+        {
+            "hash": 1365626623,
+            "original": "~z~I can see how that pisses you off, man. Fuck it all, I guess.",
+            "translated": "~z~我能理解你为什么生气，兄弟。操他妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 1392205565,
+            "original": "~z~I mean, you got a wife and kid. You got responsibilities.",
+            "translated": "~z~我是说你有老婆孩子。你有家庭的责任。",
+            "desc": ""
+        },
+        {
+            "hash": 1393254111,
+            "original": "~z~I know man.",
+            "translated": "~z~我懂，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 1400518518,
+            "original": "~z~I'm on a fucking treadmill, man. Feel I'm running and if I stop everything goes to shit.",
+            "translated": "~z~我就像是在跑步机上，兄弟。不能停下来，否则一切就都完了",
+            "desc": ""
+        },
+        {
+            "hash": 1405418068,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1411895770,
+            "original": "~z~Clay, man, you get the respect. Got to admire a man who served his country and saw some action overseas.",
+            "translated": "~z~Clay，老兄，注意着点。必须对为国效力征战海外的战士心怀敬意。",
+            "desc": ""
+        },
+        {
+            "hash": 1418122228,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 1444837525,
+            "original": "~z~But, man, it's the whole culture. The vibe.",
+            "translated": "~z~但兄弟，我更爱那种文化，那种氛围。",
+            "desc": ""
+        },
+        {
+            "hash": 1447559764,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 1448874190,
+            "original": "~z~Yes, Clayton.",
+            "translated": "~z~咋了，Clayton。",
+            "desc": ""
+        },
+        {
+            "hash": 1449654741,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 1465309434,
+            "original": "~z~You okay Jim? Anyway, as we were saying.",
+            "translated": "~z~你还好吗，Jim？总之，之前也说过了。",
+            "desc": ""
+        },
+        {
+            "hash": 1469774738,
+            "original": "~z~No, man. It's all still there. Still going strong.",
+            "translated": "~z~不，老兄。它还好好的，依然在发展。",
+            "desc": ""
+        },
+        {
+            "hash": 1477590318,
+            "original": "SFX_PAUSE_600",
+            "translated": "SFX_PAUSE_600",
+            "desc": ""
+        },
+        {
+            "hash": 1481380961,
+            "original": "E12W_CD",
+            "translated": "E12W_CD",
+            "desc": ""
+        },
+        {
+            "hash": 1484136461,
+            "original": "E12W_LB",
+            "translated": "E12W_LB",
+            "desc": ""
+        },
+        {
+            "hash": 1489250559,
+            "original": "~z~What were we conversing upon, Clayton...",
+            "translated": "~z~我们聊到哪儿啦，Clayton...",
+            "desc": ""
+        },
+        {
+            "hash": 1492917937,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 1497080804,
+            "original": "E12W_JE",
+            "translated": "E12W_JE",
+            "desc": ""
+        },
+        {
+            "hash": 1498736136,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 1499441451,
+            "original": "~z~Know what the American dream is? The house, the car, the family - that bullshit.",
+            "translated": "~z~知道美国梦是啥吗？大房子，小轿车，一家人。纯放屁。",
+            "desc": ""
+        },
+        {
+            "hash": 1501921645,
+            "original": "320090230090320090230320230090320090230",
+            "translated": "320090230090320090230320230090320090230",
+            "desc": ""
+        },
+        {
+            "hash": 1508948314,
+            "original": "~z~It was mine, man. I fucking paid those mortgage payments.",
+            "translated": "~z~我的房子，老兄。房贷是我还的。",
+            "desc": ""
+        },
+        {
+            "hash": 1518859831,
+            "original": "E12W_WA",
+            "translated": "E12W_WA",
+            "desc": ""
+        },
+        {
+            "hash": 1520088694,
+            "original": "200090020090200090020090200090020090200",
+            "translated": "200090020090200090020090200090020090200",
+            "desc": ""
+        },
+        {
+            "hash": 1533973365,
+            "original": "~z~That's easy - Vietnam.",
+            "translated": "~z~还用问吗，越南。",
+            "desc": ""
+        },
+        {
+            "hash": 1538240143,
+            "original": "~z~Got any new grievances today, Terrence?",
+            "translated": "~z~有什么新的不满吗，Terrence？",
+            "desc": ""
+        },
+        {
+            "hash": 1541768217,
+            "original": "E12W_ZA",
+            "translated": "E12W_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 1543474412,
+            "original": "E12W_OD",
+            "translated": "E12W_OD",
+            "desc": ""
+        },
+        {
+            "hash": 1543674299,
+            "original": "~z~You don't mean that. She loves you.",
+            "translated": "~z~别这么想。她很爱你。",
+            "desc": ""
+        },
+        {
+            "hash": 1570940481,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 1577106295,
+            "original": "E12W_TD",
+            "translated": "E12W_TD",
+            "desc": ""
+        },
+        {
+            "hash": 1578864801,
+            "original": "~z~That ain't like you.",
+            "translated": "~z~这可不像你啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1582394839,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 1586738830,
+            "original": "E12W_A_DE",
+            "translated": "E12W_A_DE",
+            "desc": ""
+        },
+        {
+            "hash": 1626010391,
+            "original": "~z~I don't think so, man. Wouldn't be fair.",
+            "translated": "~z~我可不同意，老兄。这样不公平。",
+            "desc": ""
+        },
+        {
+            "hash": 1653305070,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 1655805371,
+            "original": "E12W_FE",
+            "translated": "E12W_FE",
+            "desc": ""
+        },
+        {
+            "hash": 1664758681,
+            "original": "SFX_PAUSE_390",
+            "translated": "SFX_PAUSE_390",
+            "desc": ""
+        },
+        {
+            "hash": 1667091186,
+            "original": "~z~Lost MC, man.",
+            "translated": "~z~失落帮，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1671113783,
+            "original": "~z~It sure seems to.",
+            "translated": "~z~确实如此。",
+            "desc": ""
+        },
+        {
+            "hash": 1689750743,
+            "original": "E12W_BE",
+            "translated": "E12W_BE",
+            "desc": ""
+        },
+        {
+            "hash": 1692381583,
+            "original": "~z~He could smoke more 'n anyone. Drink more n' anyone. Ride harder...",
+            "translated": "~z~他抽烟比谁都猛，喝酒比谁都多，骑车也是...",
+            "desc": ""
+        },
+        {
+            "hash": 1701146423,
+            "original": "SFX_PAUSE_500",
+            "translated": "SFX_PAUSE_500",
+            "desc": ""
+        },
+        {
+            "hash": 1711171174,
+            "original": "SFX_PAUSE_620",
+            "translated": "SFX_PAUSE_620",
+            "desc": ""
+        },
+        {
+            "hash": 1717010495,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 1722120302,
+            "original": "E12W_UC",
+            "translated": "E12W_UC",
+            "desc": ""
+        },
+        {
+            "hash": 1725781780,
+            "original": "010090100090010090100090010090100090010090100090010090100",
+            "translated": "010090100090010090100090010090100090010090100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 1735087420,
+            "original": "~z~Sure, man. Little comfort.",
+            "translated": "~z~是啊，兄弟。算是种安慰吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1745827729,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 1745838177,
+            "original": "E12W_A_DC",
+            "translated": "E12W_A_DC",
+            "desc": ""
+        },
+        {
+            "hash": 1752351112,
+            "original": "~z~Man, I'm sorry.",
+            "translated": "~z~太遗憾了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1762515950,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 1763289392,
+            "original": "E12W_MC",
+            "translated": "E12W_MC",
+            "desc": ""
+        },
+        {
+            "hash": 1765682475,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 1769205854,
+            "original": "~z~I know, brother. But life is hard, man. Take happiness where you can find it.",
+            "translated": "~z~我懂的，兄弟。但是人生苦短，老兄。还是要及时行乐啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1771960437,
+            "original": "~z~You think those supremacist motherfuckers wouldn't go for my Jewish ass day and night?",
+            "translated": "~z~你以为那些种族主义者就待见我这个犹太人了？",
+            "desc": ""
+        },
+        {
+            "hash": 1772453271,
+            "original": "~z~You're getting too slow as well as too old, buddy. Anyway.",
+            "translated": "~z~你年纪也大了，速度也慢了，伙计。真的。",
+            "desc": ""
+        },
+        {
+            "hash": 1779597400,
+            "original": "~z~Fuck it all, man. Live true.",
+            "translated": "~z~操他妈的，兄弟。活出真实。",
+            "desc": ""
+        },
+        {
+            "hash": 1782193496,
+            "original": "~z~Oh yes indeed.",
+            "translated": "~z~噢，是这道理。",
+            "desc": ""
+        },
+        {
+            "hash": 1784112157,
+            "original": "E12W_UF",
+            "translated": "E12W_UF",
+            "desc": ""
+        },
+        {
+            "hash": 1786173724,
+            "original": "~z~I love you brothers. The heartache... the pain, man. It's good to have you boys. You're constant.",
+            "translated": "~z~我爱你们，兄弟们。爱到心痛...爱到痛苦，兄弟。有你们在真好，一直都在。",
+            "desc": ""
+        },
+        {
+            "hash": 1789295494,
+            "original": "E12W_KH",
+            "translated": "E12W_KH",
+            "desc": ""
+        },
+        {
+            "hash": 1797377500,
+            "original": "E12W_A_EA",
+            "translated": "E12W_A_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1802113954,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 1804262970,
+            "original": "SFX_PAUSE_430",
+            "translated": "SFX_PAUSE_430",
+            "desc": ""
+        },
+        {
+            "hash": 1804949364,
+            "original": "SFX_PAUSE_460",
+            "translated": "SFX_PAUSE_460",
+            "desc": ""
+        },
+        {
+            "hash": 1819488624,
+            "original": "SFX_PAUSE_390",
+            "translated": "SFX_PAUSE_390",
+            "desc": ""
+        },
+        {
+            "hash": 1821771046,
+            "original": "E12W_IH",
+            "translated": "E12W_IH",
+            "desc": ""
+        },
+        {
+            "hash": 1825044118,
+            "original": "~z~How's Ashley?",
+            "translated": "~z~Ashley还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1826151231,
+            "original": "E12W_TC",
+            "translated": "E12W_TC",
+            "desc": ""
+        },
+        {
+            "hash": 1832058250,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 1839093146,
+            "original": "E12W_AA",
+            "translated": "E12W_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1840787005,
+            "original": "~z~I don't fucking know... seriously fucking weird coffee by the look of things.",
+            "translated": "~z~我他妈也不知道...看样子应该是什么狗屎咖啡吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1843256199,
+            "original": "E12W_GF",
+            "translated": "E12W_GF",
+            "desc": ""
+        },
+        {
+            "hash": 1845977614,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 1846003596,
+            "original": "E12W_MB",
+            "translated": "E12W_MB",
+            "desc": ""
+        },
+        {
+            "hash": 1847841053,
+            "original": "~z~Maybe they do.",
+            "translated": "~z~说不定吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1884383479,
+            "original": "E12W_SJ",
+            "translated": "E12W_SJ",
+            "desc": ""
+        },
+        {
+            "hash": 1891803179,
+            "original": "E12W_A_BA",
+            "translated": "E12W_A_BA",
+            "desc": ""
+        },
+        {
+            "hash": 1899456592,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 1900097228,
+            "original": "~z~You must have a whole lot of spare food stamps then. Good for you.",
+            "translated": "~z~那你手头一定有很多食品券吧。挺好的。",
+            "desc": ""
+        },
+        {
+            "hash": 1914023461,
+            "original": "E12W_A_AG",
+            "translated": "E12W_A_AG",
+            "desc": ""
+        },
+        {
+            "hash": 1918336254,
+            "original": "E12W_GG",
+            "translated": "E12W_GG",
+            "desc": ""
+        },
+        {
+            "hash": 1921069406,
+            "original": "~z~It wasn't just that. I mean I love the women out there.",
+            "translated": "~z~何止是那样。我的确喜欢那边的娘们。",
+            "desc": ""
+        },
+        {
+            "hash": 1926321920,
+            "original": "~z~Colin the ex man of God, new man of heroin relapse.",
+            "translated": "~z~曾信上帝的Colin，现在又在吸海洛因了。",
+            "desc": ""
+        },
+        {
+            "hash": 1928416376,
+            "original": "E12W_EE",
+            "translated": "E12W_EE",
+            "desc": ""
+        },
+        {
+            "hash": 1937857510,
+            "original": "~z~Yes, James?",
+            "translated": "~z~咋了， James？",
+            "desc": ""
+        },
+        {
+            "hash": 1938930225,
+            "original": "~z~Don't say nothing about this country, Terry. I fought for this country. My friends died for this country.",
+            "translated": "~z~别对这个国家逼逼赖赖，Terry。我为这个国家而战，我的朋友为了这个国家牺牲。",
+            "desc": ""
+        },
+        {
+            "hash": 1940792574,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 1943457710,
+            "original": "~z~We can start an all inclusive prison gang. Crossing lines. Reachin' out to every creed and color?",
+            "translated": "~z~可以在牢里建一个包容的帮派。打破隔阂，对所有肤色和信仰开放。",
+            "desc": ""
+        },
+        {
+            "hash": 1945160695,
+            "original": "~z~Terrence?",
+            "translated": "~z~Terrence？",
+            "desc": ""
+        },
+        {
+            "hash": 1951223955,
+            "original": "E12W_GD",
+            "translated": "E12W_GD",
+            "desc": ""
+        },
+        {
+            "hash": 1980748054,
+            "original": "SFX_PAUSE_370",
+            "translated": "SFX_PAUSE_370",
+            "desc": ""
+        },
+        {
+            "hash": 1983900422,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 1986287009,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 1996780417,
+            "original": "~z~Is the old lady alright?",
+            "translated": "~z~那老娘们还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1998271252,
+            "original": "E12W_RD",
+            "translated": "E12W_RD",
+            "desc": ""
+        },
+        {
+            "hash": 2005225664,
+            "original": "~z~In her own way, sure. Only problem is, she's a psycho.",
+            "translated": "~z~在她看来，是的。但问题是，她是个疯子。",
+            "desc": ""
+        },
+        {
+            "hash": 2005913079,
+            "original": "310090130090310090130090310090130090310",
+            "translated": "310090130090310090130090310090130090310",
+            "desc": ""
+        },
+        {
+            "hash": 2006079865,
+            "original": "E12W_HD",
+            "translated": "E12W_HD",
+            "desc": ""
+        },
+        {
+            "hash": 2010577790,
+            "original": "E12W_A_GG",
+            "translated": "E12W_A_GG",
+            "desc": ""
+        },
+        {
+            "hash": 2024952598,
+            "original": "~z~You mean, she's a woman.",
+            "translated": "~z~你是说，她是个娘们。",
+            "desc": ""
+        },
+        {
+            "hash": 2027080921,
+            "original": "E12W_FD",
+            "translated": "E12W_FD",
+            "desc": ""
+        },
+        {
+            "hash": 2034929563,
+            "original": "~z~I don't know. But not good, I imagine.",
+            "translated": "~z~不知道。我猜不会太好。",
+            "desc": ""
+        },
+        {
+            "hash": 2040146863,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 2053781074,
+            "original": "E12W_A_BD",
+            "translated": "E12W_A_BD",
+            "desc": ""
+        },
+        {
+            "hash": 2054803297,
+            "original": "E12W_ZC",
+            "translated": "E12W_ZC",
+            "desc": ""
+        },
+        {
+            "hash": 2059796280,
+            "original": "~z~Who?",
+            "translated": "~z~谁？",
+            "desc": ""
+        },
+        {
+            "hash": 2061317320,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 2063527017,
+            "original": "~z~I strictly pay with cash, Terry. Keeps things simple.",
+            "translated": "~z~我都是用现金的，Terry。简单为上。",
+            "desc": ""
+        },
+        {
+            "hash": 2068510902,
+            "original": "E12W_BC",
+            "translated": "E12W_BC",
+            "desc": ""
+        },
+        {
+            "hash": 2068769854,
+            "original": "E12W_HC",
+            "translated": "E12W_HC",
+            "desc": ""
+        },
+        {
+            "hash": 2074561464,
+            "original": "~z~Nothing, man, I'm cool.",
+            "translated": "~z~没事，兄弟。我很好。",
+            "desc": ""
+        },
+        {
+            "hash": 2082933564,
+            "original": "E12W_A_DD",
+            "translated": "E12W_A_DD",
+            "desc": ""
+        },
+        {
+            "hash": 2085091131,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 2086746500,
+            "original": "~z~Johnny, man. You're my brother.",
+            "translated": "~z~Johnny，伙计。你是我的好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2099272426,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 2099414635,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 2101076284,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 2102294633,
+            "original": "SFX_PAUSE_470",
+            "translated": "SFX_PAUSE_470",
+            "desc": ""
+        },
+        {
+            "hash": 2105799772,
+            "original": "~z~Man, I knew God moved in mysterious ways, but that is fucking perverse.",
+            "translated": "~z~天，我知道主的意图难以捉摸，但这也太扯了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2117168669,
+            "original": "SFX_PAUSE_440",
+            "translated": "SFX_PAUSE_440",
+            "desc": ""
+        },
+        {
+            "hash": 2118266036,
+            "original": "E12W_BF",
+            "translated": "E12W_BF",
+            "desc": ""
+        },
+        {
+            "hash": 2123935855,
+            "original": "E12W_YA",
+            "translated": "E12W_YA",
+            "desc": ""
+        },
+        {
+            "hash": 2127256110,
+            "original": "~z~Clay, dude, where was the best place the army stationed you?",
+            "translated": "~z~Clay，老兄，你对军队的哪个驻派地最满意？",
+            "desc": ""
+        },
+        {
+            "hash": 2135476730,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 2135486519,
+            "original": "E12W_NG",
+            "translated": "E12W_NG",
+            "desc": ""
+        },
+        {
+            "hash": 2146564308,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 2168163107,
+            "original": "E12W_YG",
+            "translated": "E12W_YG",
+            "desc": ""
+        },
+        {
+            "hash": 2177564116,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 2182473330,
+            "original": "100090010090100090010090100090010",
+            "translated": "100090010090100090010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2183636875,
+            "original": "~z~Guess you were wrong.",
+            "translated": "~z~看来你错了。",
+            "desc": ""
+        },
+        {
+            "hash": 2186060191,
+            "original": "~z~What, man?",
+            "translated": "~z~接受不了什么？",
+            "desc": ""
+        },
+        {
+            "hash": 2192748271,
+            "original": "~z~Johnny Klebitz! Leading the way. You're a real figure of authority, man.",
+            "translated": "~z~Johnny Klebitz！带头冲锋。你的官帽可真高啊，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 2195442815,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 2199526755,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 2210655172,
+            "original": "320090230090320090230090320090230320",
+            "translated": "320090230090320090230090320090230320",
+            "desc": ""
+        },
+        {
+            "hash": 2213523099,
+            "original": "SFX_PAUSE_430",
+            "translated": "SFX_PAUSE_430",
+            "desc": ""
+        },
+        {
+            "hash": 2220123216,
+            "original": "~z~Don't worry, man. It's a zen-like place.",
+            "translated": "~z~没事的，兄弟。就跟禅境一样。",
+            "desc": ""
+        },
+        {
+            "hash": 2229123836,
+            "original": "~z~Fair? What are you talking about?",
+            "translated": "~z~公平？什么公不公平？",
+            "desc": ""
+        },
+        {
+            "hash": 2231473075,
+            "original": "~z~Fucking bitch.",
+            "translated": "~z~这个婊子。",
+            "desc": ""
+        },
+        {
+            "hash": 2234904288,
+            "original": "E12W_ME",
+            "translated": "E12W_ME",
+            "desc": ""
+        },
+        {
+            "hash": 2239703048,
+            "original": "~z~I know... I know... Shit, growing up in the neighborhood.",
+            "translated": "~z~我懂...我懂...妈的，想想我小时候的环境，",
+            "desc": ""
+        },
+        {
+            "hash": 2239766210,
+            "original": "E12W_OF",
+            "translated": "E12W_OF",
+            "desc": ""
+        },
+        {
+            "hash": 2248777165,
+            "original": "E12W_CF",
+            "translated": "E12W_CF",
+            "desc": ""
+        },
+        {
+            "hash": 2248907067,
+            "original": "E12W_A_GF",
+            "translated": "E12W_A_GF",
+            "desc": ""
+        },
+        {
+            "hash": 2253886015,
+            "original": "~z~Yeah, that's her motto as well.",
+            "translated": "~z~对，这也是她的座右铭。",
+            "desc": ""
+        },
+        {
+            "hash": 2258138410,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 2272608002,
+            "original": "E12W_DC",
+            "translated": "E12W_DC",
+            "desc": ""
+        },
+        {
+            "hash": 2277571226,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 2283758412,
+            "original": "~z~This fucking country, man!",
+            "translated": "~z~傻逼国家，老兄！",
+            "desc": ""
+        },
+        {
+            "hash": 2287109295,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 2291169520,
+            "original": "~z~He was, man. He sure as shit was.",
+            "translated": "~z~确实啊，兄弟。当年那确实是。",
+            "desc": ""
+        },
+        {
+            "hash": 2300382128,
+            "original": "210090120090210090120090210090120090210090120",
+            "translated": "210090120090210090120090210090120090210090120",
+            "desc": ""
+        },
+        {
+            "hash": 2308217913,
+            "original": "E12W_A_FB",
+            "translated": "E12W_A_FB",
+            "desc": ""
+        },
+        {
+            "hash": 2316690412,
+            "original": "E12W_CA",
+            "translated": "E12W_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2324621290,
+            "original": "~z~I served this place and now look at it, man. Place is a dump.",
+            "translated": "~z~我为国家效过力，再看看现在。国家成了粪坑。",
+            "desc": ""
+        },
+        {
+            "hash": 2345589444,
+            "original": "~z~Same old shit. Dodging bullets when I'm out and whatever Jackie can throw at me when I'm home. You?",
+            "translated": "~z~老样子。出门在外躲子弹，回家躲老婆的暴风雨。你呢？",
+            "desc": ""
+        },
+        {
+            "hash": 2356360077,
+            "original": "~z~Unfortunately not. My daddy's scared he's going to come back to the farm.",
+            "translated": "~z~天不如人意啊。我爸很担心他会回家里的农场。",
+            "desc": ""
+        },
+        {
+            "hash": 2358910924,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 2379207948,
+            "original": "200090020090200090020090200090020",
+            "translated": "200090020090200090020090200090020",
+            "desc": ""
+        },
+        {
+            "hash": 2396129501,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 2406613753,
+            "original": "~z~Huh?",
+            "translated": "~z~啥？",
+            "desc": ""
+        },
+        {
+            "hash": 2408681839,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 2423350480,
+            "original": "E12W_ZE",
+            "translated": "E12W_ZE",
+            "desc": ""
+        },
+        {
+            "hash": 2439647580,
+            "original": "~z~I'm responsible for my brothers too, Johnny. You included. This shit don't end good.",
+            "translated": "~z~我还要对兄弟负责，Johnny。对你也是。不会轻易结束的。",
+            "desc": ""
+        },
+        {
+            "hash": 2447589580,
+            "original": "~z~Poor thing. I'm sorry for you two.",
+            "translated": "~z~真惨啊。我很同情你俩。",
+            "desc": ""
+        },
+        {
+            "hash": 2448595756,
+            "original": "~z~The rich get richer and the poor die.",
+            "translated": "~z~富人更富，穷人穷死。",
+            "desc": ""
+        },
+        {
+            "hash": 2455767818,
+            "original": "E12W_A_AE",
+            "translated": "E12W_A_AE",
+            "desc": ""
+        },
+        {
+            "hash": 2456431180,
+            "original": "~z~Johnny, man, they took the house.",
+            "translated": "~z~Johnny，兄弟，房子被收走了。",
+            "desc": ""
+        },
+        {
+            "hash": 2457640008,
+            "original": "~z~It's control man. They make you want that shit so they can trap you.",
+            "translated": "~z~都是为了控制你。给你画一个饼，你就掉进陷阱了。",
+            "desc": ""
+        },
+        {
+            "hash": 2467435421,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 2480021199,
+            "original": "~z~Same old bills biting me in the ass, man.",
+            "translated": "~z~还是之前那些破事，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2498194676,
+            "original": "E12W_A_BC",
+            "translated": "E12W_A_BC",
+            "desc": ""
+        },
+        {
+            "hash": 2504584628,
+            "original": "~z~How's, ahh, life, Jim?",
+            "translated": "~z~生活还好吗，Jim？",
+            "desc": ""
+        },
+        {
+            "hash": 2506562603,
+            "original": "~z~Jesus.",
+            "translated": "~z~上帝啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2515069746,
+            "original": "~z~Johnny, you know what gets me, man?",
+            "translated": "~z~Johnny，知道我气不过什么吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2527930784,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 2542391817,
+            "original": "~z~Shit, Terry, what were we saying?",
+            "translated": "~z~妈的，Terry，刚才聊到哪了？",
+            "desc": ""
+        },
+        {
+            "hash": 2549018783,
+            "original": "~z~I know, man, I know. You ain't turning snitch on us are you?",
+            "translated": "~z~我知道，兄弟，我知道。你该不会出卖我们了吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2549624752,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 2551210337,
+            "original": "~z~I dunno how you do it, Jim. One woman and she drives you fucking crazy?",
+            "translated": "~z~我有点想不明白，Jim。光一个女人就能把你逼疯吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2558718803,
+            "original": "E12W_RC",
+            "translated": "E12W_RC",
+            "desc": ""
+        },
+        {
+            "hash": 2559995584,
+            "original": "E12W_DE",
+            "translated": "E12W_DE",
+            "desc": ""
+        },
+        {
+            "hash": 2566907933,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 2587567906,
+            "original": "SFX_PAUSE_590",
+            "translated": "SFX_PAUSE_590",
+            "desc": ""
+        },
+        {
+            "hash": 2599847537,
+            "original": "E12W_HI",
+            "translated": "E12W_HI",
+            "desc": ""
+        },
+        {
+            "hash": 2628784919,
+            "original": "SFX_PAUSE_420",
+            "translated": "SFX_PAUSE_420",
+            "desc": ""
+        },
+        {
+            "hash": 2629705110,
+            "original": "E12W_A_AB",
+            "translated": "E12W_A_AB",
+            "desc": ""
+        },
+        {
+            "hash": 2639084278,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 2645524908,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 2649744112,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 2650148318,
+            "original": "E12W_TF",
+            "translated": "E12W_TF",
+            "desc": ""
+        },
+        {
+            "hash": 2650777259,
+            "original": "E12W_LD",
+            "translated": "E12W_LD",
+            "desc": ""
+        },
+        {
+            "hash": 2652358996,
+            "original": "E12W_DH",
+            "translated": "E12W_DH",
+            "desc": ""
+        },
+        {
+            "hash": 2658216995,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 2659418157,
+            "original": "~z~Oh, I'm good. Real good. Found me somethin' fresh. Nice little mattress thrasher.",
+            "translated": "~z~噢，我很好。非常好。刚找了个新玩具。超级棒的小骚逼。",
+            "desc": ""
+        },
+        {
+            "hash": 2663358868,
+            "original": "~z~Handicapping.",
+            "translated": "~z~差点系统。",
+            "desc": ""
+        },
+        {
+            "hash": 2664888219,
+            "original": "E12W_YB",
+            "translated": "E12W_YB",
+            "desc": ""
+        },
+        {
+            "hash": 2671027733,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2673631349,
+            "original": "200090020090020090200090200090020090200",
+            "translated": "200090020090020090200090200090020090200",
+            "desc": ""
+        },
+        {
+            "hash": 2678098774,
+            "original": "~z~Rock and roll don't ever end so well, brother.",
+            "translated": "~z~摇滚从来就没有善始善终，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2685666479,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 2688780393,
+            "original": "E12W_QC",
+            "translated": "E12W_QC",
+            "desc": ""
+        },
+        {
+            "hash": 2694239548,
+            "original": "E12W_GI",
+            "translated": "E12W_GI",
+            "desc": ""
+        },
+        {
+            "hash": 2699818228,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 2700649986,
+            "original": "~z~Yeah, it's a handicapping system. They put the strongest of us with the weakest. Evens us out.",
+            "translated": "~z~这就是差点系统。把最强跟最弱分到一组，拉成平均。",
+            "desc": ""
+        },
+        {
+            "hash": 2701306701,
+            "original": "E12W_GC",
+            "translated": "E12W_GC",
+            "desc": ""
+        },
+        {
+            "hash": 2703801557,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 2704095700,
+            "original": "~z~Lost the train of thought there, didn't we, Clay?",
+            "translated": "~z~都不记得在聊啥了，对吧，Clay？",
+            "desc": ""
+        },
+        {
+            "hash": 2711970820,
+            "original": "SFX_PAUSE_570",
+            "translated": "SFX_PAUSE_570",
+            "desc": ""
+        },
+        {
+            "hash": 2715159241,
+            "original": "E12W_RE",
+            "translated": "E12W_RE",
+            "desc": ""
+        },
+        {
+            "hash": 2721027377,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 2723977866,
+            "original": "300090030090030090300090030090300090300090030",
+            "translated": "300090030090030090300090030090300090300090030",
+            "desc": ""
+        },
+        {
+            "hash": 2724738493,
+            "original": "E12W_AE",
+            "translated": "E12W_AE",
+            "desc": ""
+        },
+        {
+            "hash": 2731109067,
+            "original": "~z~You could handle yourself.",
+            "translated": "~z~也不是不行吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2735421986,
+            "original": "E12W_A_EE",
+            "translated": "E12W_A_EE",
+            "desc": ""
+        },
+        {
+            "hash": 2741352507,
+            "original": "~z~The shit that happened to the kids in my class... I swore to my momma I'd never touch that stuff.",
+            "translated": "~z~我同班同学的那些遭遇...我对我妈发过誓，绝不会碰这一行。",
+            "desc": ""
+        },
+        {
+            "hash": 2753324213,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 2766899664,
+            "original": "SFX_PAUSE_490",
+            "translated": "SFX_PAUSE_490",
+            "desc": ""
+        },
+        {
+            "hash": 2776995638,
+            "original": "E12W_KA",
+            "translated": "E12W_KA",
+            "desc": ""
+        },
+        {
+            "hash": 2791045212,
+            "original": "~z~You know what the best thing about travelling the world is, Johnny?",
+            "translated": "~z~你知道周游世界最棒的是哪一点吗，Johnny？",
+            "desc": ""
+        },
+        {
+            "hash": 2791455929,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 2793259769,
+            "original": "010090100090010090100090010090100",
+            "translated": "010090100090010090100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 2801345115,
+            "original": "~z~I'm sorry, dude.",
+            "translated": "~z~真是遗憾，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 2805756084,
+            "original": "E12W_RF",
+            "translated": "E12W_RF",
+            "desc": ""
+        },
+        {
+            "hash": 2808098543,
+            "original": "E12W_JG",
+            "translated": "E12W_JG",
+            "desc": ""
+        },
+        {
+            "hash": 2808983067,
+            "original": "030090300090030090300090030090300090030090300090300090030090300",
+            "translated": "030090300090030090300090030090300090030090300090300090030090300",
+            "desc": ""
+        },
+        {
+            "hash": 2814021997,
+            "original": "E12W_QG",
+            "translated": "E12W_QG",
+            "desc": ""
+        },
+        {
+            "hash": 2815172124,
+            "original": "E12W_EB",
+            "translated": "E12W_EB",
+            "desc": ""
+        },
+        {
+            "hash": 2816907928,
+            "original": "~z~Pretty shit, man. Only way they could get worse is if you or Clay turned snitch.",
+            "translated": "~z~糟透了，伙计。想要更糟的话就只有你或Clay叛变告发了。",
+            "desc": ""
+        },
+        {
+            "hash": 2819595030,
+            "original": "~z~Feds don't need snitches, man. They can pluck conversations outta thin air.",
+            "translated": "~z~政府不需要有人告发。现在这样说话他们也能听到。",
+            "desc": ""
+        },
+        {
+            "hash": 2844381468,
+            "original": "SFX_PAUSE_470",
+            "translated": "SFX_PAUSE_470",
+            "desc": ""
+        },
+        {
+            "hash": 2844702649,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 2852274203,
+            "original": "E12W_A_EG",
+            "translated": "E12W_A_EG",
+            "desc": ""
+        },
+        {
+            "hash": 2855322249,
+            "original": "~z~Ha ha ha. Fuck you, man.",
+            "translated": "~z~啊哈哈。去你的吧，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 2874431054,
+            "original": "E12W_NC",
+            "translated": "E12W_NC",
+            "desc": ""
+        },
+        {
+            "hash": 2875630376,
+            "original": "~z~But the women are a part of the culture?",
+            "translated": "~z~可娘们也是文化的一部分吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2876830511,
+            "original": "E12W_IG",
+            "translated": "E12W_IG",
+            "desc": ""
+        },
+        {
+            "hash": 2877629310,
+            "original": "E12W_EC",
+            "translated": "E12W_EC",
+            "desc": ""
+        },
+        {
+            "hash": 2883080705,
+            "original": "~z~I guess that's it.",
+            "translated": "~z~差不多一个意思。",
+            "desc": ""
+        },
+        {
+            "hash": 2885655530,
+            "original": "SFX_PAUSE_710",
+            "translated": "SFX_PAUSE_710",
+            "desc": ""
+        },
+        {
+            "hash": 2891634818,
+            "original": "~z~Burger Shot... Cluckin' Bell... stupid people...",
+            "translated": "~z~吃得饱汉堡...铛铛钟炸鸡...各种傻逼...",
+            "desc": ""
+        },
+        {
+            "hash": 2914977079,
+            "original": "E12W_IE",
+            "translated": "E12W_IE",
+            "desc": ""
+        },
+        {
+            "hash": 2915455699,
+            "original": "~z~Then you're working like a dog - breaking your back - and soon there's nothing left.",
+            "translated": "~z~让你像条狗一样卖力，榨干你的精力，然后变成一具空壳。",
+            "desc": ""
+        },
+        {
+            "hash": 2916001697,
+            "original": "E12W_HG",
+            "translated": "E12W_HG",
+            "desc": ""
+        },
+        {
+            "hash": 2924640075,
+            "original": "~z~How's your crazy brother, T?",
+            "translated": "~z~你的疯子哥哥还好吗，T？",
+            "desc": ""
+        },
+        {
+            "hash": 2936329524,
+            "original": "~z~Shit, brother.",
+            "translated": "~z~妈的，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2939190118,
+            "original": "~z~That I'm a drug dealing, murdering gang member.",
+            "translated": "~z~我是一个杀人贩毒的帮派份子。",
+            "desc": ""
+        },
+        {
+            "hash": 2945472111,
+            "original": "~z~It's a fucking dream and nothing more.",
+            "translated": "~z~那不过是一个白日梦而已，",
+            "desc": ""
+        },
+        {
+            "hash": 2948180093,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 2949637399,
+            "original": "~z~Your ex's house.",
+            "translated": "~z~前妻的房子？",
+            "desc": ""
+        },
+        {
+            "hash": 2952477375,
+            "original": "SFX_PAUSE_430",
+            "translated": "SFX_PAUSE_430",
+            "desc": ""
+        },
+        {
+            "hash": 2955562468,
+            "original": "~z~Just keep 'em away from my fucking menorah, man. That's all I ask.",
+            "translated": "~z~你别往我的大烛台边上放就行，兄弟。就这点要求。",
+            "desc": ""
+        },
+        {
+            "hash": 2958379592,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 2962490980,
+            "original": "~z~I'm hopin' forever. Don't think I'd like doing a bid.",
+            "translated": "~z~希望是永远。我可不想坐牢。",
+            "desc": ""
+        },
+        {
+            "hash": 2970154245,
+            "original": "E12W_A_GA",
+            "translated": "E12W_A_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2976144540,
+            "original": "~z~Not so much when I realized war was just about getting the fat cats fatter though.",
+            "translated": "~z~直到我发现，战争其实是权贵的敛财工具。",
+            "desc": ""
+        },
+        {
+            "hash": 2978453553,
+            "original": "~z~Shit, man, you're right. You're right.",
+            "translated": "~z~妈的，兄弟，有道理。有道理。",
+            "desc": ""
+        },
+        {
+            "hash": 2981405401,
+            "original": "~z~Yuppies taking bonuses while workers lose their pensions?",
+            "translated": "~z~雅皮士拿着分红，工人却失去了养老金？",
+            "desc": ""
+        },
+        {
+            "hash": 2989589345,
+            "original": "E12W_GH",
+            "translated": "E12W_GH",
+            "desc": ""
+        },
+        {
+            "hash": 2996651287,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 3001998679,
+            "original": "~z~Think we can resume our conversation. That alright with you, Clay?",
+            "translated": "~z~那还是接着聊吧。你没问题吧，Clay？",
+            "desc": ""
+        },
+        {
+            "hash": 3006048522,
+            "original": "E12W_LH",
+            "translated": "E12W_LH",
+            "desc": ""
+        },
+        {
+            "hash": 3015691715,
+            "original": "E12W_CC",
+            "translated": "E12W_CC",
+            "desc": ""
+        },
+        {
+            "hash": 3017739597,
+            "original": "E12W_RH",
+            "translated": "E12W_RH",
+            "desc": ""
+        },
+        {
+            "hash": 3019008693,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 3020708213,
+            "original": "~z~So Colin, my brother - rang me the other day.",
+            "translated": "~z~我哥哥Colin又被我碰到了。",
+            "desc": ""
+        },
+        {
+            "hash": 3031022627,
+            "original": "~z~Place was always a dump brother, difference now is the people ain't buying the bullshit no more.",
+            "translated": "~z~这里一直都是粪坑，兄弟。只不过现代人对那些屁话不买账了而已。",
+            "desc": ""
+        },
+        {
+            "hash": 3031274775,
+            "original": "~z~You must have an exotic array of sexually transmitted diseases by now.",
+            "translated": "~z~你身上肯定有来自异国他乡的各种性病了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3037065044,
+            "original": "300090030090300090030090030090300090030",
+            "translated": "300090030090300090030090030090300090030",
+            "desc": ""
+        },
+        {
+            "hash": 3053592292,
+            "original": "E12W_OA",
+            "translated": "E12W_OA",
+            "desc": ""
+        },
+        {
+            "hash": 3056830485,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 3057999017,
+            "original": "200090020090200090020090200090020",
+            "translated": "200090020090200090020090200090020",
+            "desc": ""
+        },
+        {
+            "hash": 3058372491,
+            "original": "~z~So, ummm, yeah...",
+            "translated": "~z~那...对...",
+            "desc": ""
+        },
+        {
+            "hash": 3059634556,
+            "original": "SFX_PAUSE_340",
+            "translated": "SFX_PAUSE_340",
+            "desc": ""
+        },
+        {
+            "hash": 3064593987,
+            "original": "E12W_A_FE",
+            "translated": "E12W_A_FE",
+            "desc": ""
+        },
+        {
+            "hash": 3067896916,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 3069161840,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 3071872698,
+            "original": "SFX_PAUSE_430",
+            "translated": "SFX_PAUSE_430",
+            "desc": ""
+        },
+        {
+            "hash": 3083329740,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3084281144,
+            "original": "E12W_HJ",
+            "translated": "E12W_HJ",
+            "desc": ""
+        },
+        {
+            "hash": 3087064007,
+            "original": "~z~Really? What happened? Everyone still alive?",
+            "translated": "~z~是吗？发生什么了？没出人命吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3092593895,
+            "original": "E12W_A_AF",
+            "translated": "E12W_A_AF",
+            "desc": ""
+        },
+        {
+            "hash": 3094553425,
+            "original": "E12W_DB",
+            "translated": "E12W_DB",
+            "desc": ""
+        },
+        {
+            "hash": 3097655205,
+            "original": "E12W_DI",
+            "translated": "E12W_DI",
+            "desc": ""
+        },
+        {
+            "hash": 3098602746,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 3105351451,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 3110864557,
+            "original": "SFX_PAUSE_470",
+            "translated": "SFX_PAUSE_470",
+            "desc": ""
+        },
+        {
+            "hash": 3110950350,
+            "original": "SFX_PAUSE_340",
+            "translated": "SFX_PAUSE_340",
+            "desc": ""
+        },
+        {
+            "hash": 3111136171,
+            "original": "~z~You still ride like a bitch, man.",
+            "translated": "~z~你的车技还是那么烂，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 3112336040,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 3114079821,
+            "original": "E12W_PA",
+            "translated": "E12W_PA",
+            "desc": ""
+        },
+        {
+            "hash": 3117131428,
+            "original": "~z~It's my duty to share this with all the females I can.",
+            "translated": "~z~把这份礼物分享给所有女人是我的使命。",
+            "desc": ""
+        },
+        {
+            "hash": 3123077527,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 3125434537,
+            "original": "~z~How come I'm always stuck with you? Seems like wherever I go, you're right there next to me.",
+            "translated": "~z~我怎么一直跟你在一块儿？好像无论去哪儿，你都在我旁边。",
+            "desc": ""
+        },
+        {
+            "hash": 3144229006,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 3146983530,
+            "original": "~z~You'll meet someone, Clay. It'll all make sense.",
+            "translated": "~z~等你结婚就明白了，Clay。再正常不过了。",
+            "desc": ""
+        },
+        {
+            "hash": 3162812082,
+            "original": "E12W_A_BE",
+            "translated": "E12W_A_BE",
+            "desc": ""
+        },
+        {
+            "hash": 3167378676,
+            "original": "E12W_GB",
+            "translated": "E12W_GB",
+            "desc": ""
+        },
+        {
+            "hash": 3171400014,
+            "original": "SFX_PAUSE_430",
+            "translated": "SFX_PAUSE_430",
+            "desc": ""
+        },
+        {
+            "hash": 3172496376,
+            "original": "E12W_A_EB",
+            "translated": "E12W_A_EB",
+            "desc": ""
+        },
+        {
+            "hash": 3190682310,
+            "original": "~z~I believe you, brother.",
+            "translated": "~z~这话我信，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3198618219,
+            "original": "E12W_NE",
+            "translated": "E12W_NE",
+            "desc": ""
+        },
+        {
+            "hash": 3211404778,
+            "original": "300090030090300090030090300090030090030090300090030090300090030",
+            "translated": "300090030090300090030090300090030090030090300090030090300090030",
+            "desc": ""
+        },
+        {
+            "hash": 3216292950,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 3220761954,
+            "original": "E12W_EF",
+            "translated": "E12W_EF",
+            "desc": ""
+        },
+        {
+            "hash": 3222151468,
+            "original": "E12W_A_BF",
+            "translated": "E12W_A_BF",
+            "desc": ""
+        },
+        {
+            "hash": 3223293406,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 3231861291,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 3243394733,
+            "original": "SFX_PAUSE_430",
+            "translated": "SFX_PAUSE_430",
+            "desc": ""
+        },
+        {
+            "hash": 3246549508,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 3267315263,
+            "original": "~z~Fucking Horse got sentimental right before he turned snitch.",
+            "translated": "~z~傻逼Horse出卖我们之前也是这么感性。",
+            "desc": ""
+        },
+        {
+            "hash": 3269085402,
+            "original": "~z~Hey, it don't count if you're paying for it.",
+            "translated": "~z~喂，花钱的可不算数啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3279798920,
+            "original": "E12W_LG",
+            "translated": "E12W_LG",
+            "desc": ""
+        },
+        {
+            "hash": 3279848488,
+            "original": "~z~For real, man. Fool found God inside and now he's trying to convert anyone in a ten mile radius.",
+            "translated": "~z~真的，老兄。那傻逼心里有上帝了，见着个人就跟他传教。",
+            "desc": ""
+        },
+        {
+            "hash": 3288530749,
+            "original": "E12W_A_CB",
+            "translated": "E12W_A_CB",
+            "desc": ""
+        },
+        {
+            "hash": 3297530851,
+            "original": "~z~Johnny, man, how are things?",
+            "translated": "~z~Johnny，老兄，最近好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3307922740,
+            "original": "E12W_PD",
+            "translated": "E12W_PD",
+            "desc": ""
+        },
+        {
+            "hash": 3320774838,
+            "original": "~z~Just like this city then.",
+            "translated": "~z~跟自由城也没差嘛。",
+            "desc": ""
+        },
+        {
+            "hash": 3331553262,
+            "original": "E12W_CE",
+            "translated": "E12W_CE",
+            "desc": ""
+        },
+        {
+            "hash": 3337762404,
+            "original": "E12W_KK",
+            "translated": "E12W_KK",
+            "desc": ""
+        },
+        {
+            "hash": 3347593369,
+            "original": "~z~Ha ha. You wish, motherfucker.",
+            "translated": "~z~哈哈。做梦吧，傻逼玩意。",
+            "desc": ""
+        },
+        {
+            "hash": 3361010700,
+            "original": "E12W_A_GE",
+            "translated": "E12W_A_GE",
+            "desc": ""
+        },
+        {
+            "hash": 3362547009,
+            "original": "~z~I'm feeling the calm of a man whose life can't get any worse.",
+            "translated": "~z~我已经能感受到那种反正不可能更糟的平静了。",
+            "desc": ""
+        },
+        {
+            "hash": 3365373830,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 3379942212,
+            "original": "E12W_RB",
+            "translated": "E12W_RB",
+            "desc": ""
+        },
+        {
+            "hash": 3382056966,
+            "original": "E12W_SC",
+            "translated": "E12W_SC",
+            "desc": ""
+        },
+        {
+            "hash": 3402154297,
+            "original": "~z~Dunno, but I suspect you're gonna tell me it's the women.",
+            "translated": "~z~不知道，不过我猜你想说娘们。",
+            "desc": ""
+        },
+        {
+            "hash": 3405876529,
+            "original": "~z~First the mayor takes away our constitutional right to bear arms...",
+            "translated": "~z~先是被市长夺走了持械的宪法权利...",
+            "desc": ""
+        },
+        {
+            "hash": 3421980489,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 3438004351,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 3444123393,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 3446613465,
+            "original": "E12W_A_CC",
+            "translated": "E12W_A_CC",
+            "desc": ""
+        },
+        {
+            "hash": 3447803959,
+            "original": "E12W_LF",
+            "translated": "E12W_LF",
+            "desc": ""
+        },
+        {
+            "hash": 3460262754,
+            "original": "SFX_PAUSE_390",
+            "translated": "SFX_PAUSE_390",
+            "desc": ""
+        },
+        {
+            "hash": 3461222683,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 3463145265,
+            "original": "E12W_BD",
+            "translated": "E12W_BD",
+            "desc": ""
+        },
+        {
+            "hash": 3463351869,
+            "original": "~z~Colin the man of God?",
+            "translated": "~z~信上帝的那个Colin？",
+            "desc": ""
+        },
+        {
+            "hash": 3466662423,
+            "original": "~z~The honey-colored girl. I love America's Next Top Hooker.",
+            "translated": "~z~蜂蜜色的姑娘。我爱死《美国新花魁》了",
+            "desc": ""
+        },
+        {
+            "hash": 3484948204,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 3485370612,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 3490270158,
+            "original": "~z~That I am, my brother.",
+            "translated": "~z~就是这样，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3491675675,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 3493506868,
+            "original": "E12W_A_FD",
+            "translated": "E12W_A_FD",
+            "desc": ""
+        },
+        {
+            "hash": 3494636980,
+            "original": "SFX_PAUSE_390",
+            "translated": "SFX_PAUSE_390",
+            "desc": ""
+        },
+        {
+            "hash": 3497123916,
+            "original": "SFX_PAUSE_430",
+            "translated": "SFX_PAUSE_430",
+            "desc": ""
+        },
+        {
+            "hash": 3501597084,
+            "original": "~z~They got all the American shit you need on base:",
+            "translated": "~z~基地里还是美国本土那股味儿：",
+            "desc": ""
+        },
+        {
+            "hash": 3502985699,
+            "original": "020090200090020090200090020090200090020090200",
+            "translated": "020090200090020090200090020090200090020090200",
+            "desc": ""
+        },
+        {
+            "hash": 3518751463,
+            "original": "~z~The Federal Government monitoring our every move?",
+            "translated": "~z~监视着我们一举一动的联邦政府？",
+            "desc": ""
+        },
+        {
+            "hash": 3519254066,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 3524527814,
+            "original": "E12W_JH",
+            "translated": "E12W_JH",
+            "desc": ""
+        },
+        {
+            "hash": 3534791985,
+            "original": "~z~Dude, being in the army, I don't get how you could stay away from America that long.",
+            "translated": "~z~老兄，一直在外服役，我都不知道你怎么能在海外待这么久。",
+            "desc": ""
+        },
+        {
+            "hash": 3550418125,
+            "original": "~z~Don't put that round, man. I'm clean. I wrap my presents before I put 'em under the tree.",
+            "translated": "~z~别提这茬，兄弟。我很干净。我会套上套子再把礼物放到圣诞树下的。",
+            "desc": ""
+        },
+        {
+            "hash": 3553365858,
+            "original": "~z~Sure do. Squirrely little bag o' bones that you were.",
+            "translated": "~z~当然了。那会儿你疯疯癫癫皮包骨头。",
+            "desc": ""
+        },
+        {
+            "hash": 3557049613,
+            "original": "~z~I still can't get over it, man.",
+            "translated": "~z~我还是不太能接受，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3560605555,
+            "original": "320090130090320090130090310090310090130090310",
+            "translated": "320090130090320090130090310090310090130090310",
+            "desc": ""
+        },
+        {
+            "hash": 3572687536,
+            "original": "~z~Fuck you, old man!",
+            "translated": "~z~去你妈的，老狗！",
+            "desc": ""
+        },
+        {
+            "hash": 3573423001,
+            "original": "E12W_A_AD",
+            "translated": "E12W_A_AD",
+            "desc": ""
+        },
+        {
+            "hash": 3605006854,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 3607353933,
+            "original": "E12W_QA",
+            "translated": "E12W_QA",
+            "desc": ""
+        },
+        {
+            "hash": 3610819647,
+            "original": "E12W_FF",
+            "translated": "E12W_FF",
+            "desc": ""
+        },
+        {
+            "hash": 3614705494,
+            "original": "E12W_PC",
+            "translated": "E12W_PC",
+            "desc": ""
+        },
+        {
+            "hash": 3621821973,
+            "original": "E12W_DF",
+            "translated": "E12W_DF",
+            "desc": ""
+        },
+        {
+            "hash": 3624540646,
+            "original": "E12W_A_EH",
+            "translated": "E12W_A_EH",
+            "desc": ""
+        },
+        {
+            "hash": 3626063234,
+            "original": "~z~I mean, the boys in there wouldn't take too kindly to my associations with men of your pale pigmentation.",
+            "translated": "~z~主要是里面的人未必见得我跟你这种白皮交朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 3627529352,
+            "original": "E12W_NA",
+            "translated": "E12W_NA",
+            "desc": ""
+        },
+        {
+            "hash": 3631488163,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 3632437492,
+            "original": "E12W_SF",
+            "translated": "E12W_SF",
+            "desc": ""
+        },
+        {
+            "hash": 3635497501,
+            "original": "E12W_A_FA",
+            "translated": "E12W_A_FA",
+            "desc": ""
+        },
+        {
+            "hash": 3636438964,
+            "original": "SFX_PAUSE_420",
+            "translated": "SFX_PAUSE_420",
+            "desc": ""
+        },
+        {
+            "hash": 3648952856,
+            "original": "SFX_PAUSE_410",
+            "translated": "SFX_PAUSE_410",
+            "desc": ""
+        },
+        {
+            "hash": 3656312710,
+            "original": "E12W_II",
+            "translated": "E12W_II",
+            "desc": ""
+        },
+        {
+            "hash": 3660298694,
+            "original": "E12W_A_GC",
+            "translated": "E12W_A_GC",
+            "desc": ""
+        },
+        {
+            "hash": 3672723670,
+            "original": "E12W_KG",
+            "translated": "E12W_KG",
+            "desc": ""
+        },
+        {
+            "hash": 3681501380,
+            "original": "E12W_KE",
+            "translated": "E12W_KE",
+            "desc": ""
+        },
+        {
+            "hash": 3682728239,
+            "original": "~z~How you doing man?",
+            "translated": "~z~还好吗，哥们？",
+            "desc": ""
+        },
+        {
+            "hash": 3685420934,
+            "original": "E12W_ZB",
+            "translated": "E12W_ZB",
+            "desc": ""
+        },
+        {
+            "hash": 3695577935,
+            "original": "~z~Man, land of the free became the land of the fucking macchi-fucking-ato.",
+            "translated": "~z~天，自由之都成了他妈玛奇朵之都。",
+            "desc": ""
+        },
+        {
+            "hash": 3699115057,
+            "original": "SFX_PAUSE_420",
+            "translated": "SFX_PAUSE_420",
+            "desc": ""
+        },
+        {
+            "hash": 3701128588,
+            "original": "E12W_A_CD",
+            "translated": "E12W_A_CD",
+            "desc": ""
+        },
+        {
+            "hash": 3706642201,
+            "original": "~z~Let's enjoy this, boys - freedom. We ain't dead and we ain't in jail. How long can it last?",
+            "translated": "~z~尽情享受吧，各位——享受自由。我们一没有死，二没坐牢。这日子能持续多久？",
+            "desc": ""
+        },
+        {
+            "hash": 3707632149,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 3710528447,
+            "original": "~z~Ha ha ha. Didn't we all.",
+            "translated": "~z~哈哈哈，谁不是呢。",
+            "desc": ""
+        },
+        {
+            "hash": 3711804988,
+            "original": "~z~What the fuck?",
+            "translated": "~z~什么情况？",
+            "desc": ""
+        },
+        {
+            "hash": 3716385046,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 3716407046,
+            "original": "200090020090200090020090200090020090200090200090020090200",
+            "translated": "200090020090200090020090200090020090200090200090020090200",
+            "desc": ""
+        },
+        {
+            "hash": 3722789141,
+            "original": "SFX_PAUSE_140",
+            "translated": "SFX_PAUSE_140",
+            "desc": ""
+        },
+        {
+            "hash": 3728620979,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 3734508006,
+            "original": "E12W_FC",
+            "translated": "E12W_FC",
+            "desc": ""
+        },
+        {
+            "hash": 3738823760,
+            "original": "E12W_YC",
+            "translated": "E12W_YC",
+            "desc": ""
+        },
+        {
+            "hash": 3741758191,
+            "original": "~z~I know that, man.",
+            "translated": "~z~我知道，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 3747606357,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 3755344343,
+            "original": "~z~I'm okay, man, feeling old.",
+            "translated": "~z~我还好，哥们。就是感觉老了。",
+            "desc": ""
+        },
+        {
+            "hash": 3756299444,
+            "original": "E12W_MD",
+            "translated": "E12W_MD",
+            "desc": ""
+        },
+        {
+            "hash": 3757715087,
+            "original": "E12W_GE",
+            "translated": "E12W_GE",
+            "desc": ""
+        },
+        {
+            "hash": 3774698077,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 3785477347,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 3793424128,
+            "original": "~z~They can tap any phone they wanna. Shit, federal witnesses became obsolete at the turn of the century.",
+            "translated": "~z~所有人的手机都被监听了。妈的，证人保护计划在世纪之交的时候过时了。",
+            "desc": ""
+        },
+        {
+            "hash": 3837640901,
+            "original": "~z~Amen, ain't that the truth.",
+            "translated": "~z~阿门，这就是现实啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3837739865,
+            "original": "~z~That's funny, cause the army still got a bee in their bonnet about homosexuality.",
+            "translated": "~z~有意思了，因为军队对同性恋的态度还是那么纠结。",
+            "desc": ""
+        },
+        {
+            "hash": 3839163700,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 3841371651,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 3848267109,
+            "original": "~z~Still banged up?",
+            "translated": "~z~还在牢里吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3854289834,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 3855933072,
+            "original": "~z~Get this guy away from me. Will one of you have a serious fucking conversation?",
+            "translated": "~z~有多远滚多远。就不能来个正经说话的主吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3865021163,
+            "original": "E12W_ND",
+            "translated": "E12W_ND",
+            "desc": ""
+        },
+        {
+            "hash": 3868198440,
+            "original": "~z~What do ya mean?",
+            "translated": "~z~什么多久？",
+            "desc": ""
+        },
+        {
+            "hash": 3871949399,
+            "original": "~z~You voting, Terry?",
+            "translated": "~z~投票了没，Terry？",
+            "desc": ""
+        },
+        {
+            "hash": 3875461314,
+            "original": "E12W_CG",
+            "translated": "E12W_CG",
+            "desc": ""
+        },
+        {
+            "hash": 3888307943,
+            "original": "E12W_KC",
+            "translated": "E12W_KC",
+            "desc": ""
+        },
+        {
+            "hash": 3895171751,
+            "original": "SFX_PAUSE_420",
+            "translated": "SFX_PAUSE_420",
+            "desc": ""
+        },
+        {
+            "hash": 3907829356,
+            "original": "E12W_LC",
+            "translated": "E12W_LC",
+            "desc": ""
+        },
+        {
+            "hash": 3910152399,
+            "original": "SFX_PAUSE_340",
+            "translated": "SFX_PAUSE_340",
+            "desc": ""
+        },
+        {
+            "hash": 3931032523,
+            "original": "~z~You lost that right when you got your first felony, man.",
+            "translated": "~z~初犯重罪以后你就不能持械了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3932735913,
+            "original": "~z~Plus, it ain't like here where the news scares you into thinking people want to kill you.",
+            "translated": "~z~不过，军营里可没有给你灌输被害妄想的新闻。",
+            "desc": ""
+        },
+        {
+            "hash": 3937263931,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 3939953101,
+            "original": "E12W_RA",
+            "translated": "E12W_RA",
+            "desc": ""
+        },
+        {
+            "hash": 3982647023,
+            "original": "E12W_YH",
+            "translated": "E12W_YH",
+            "desc": ""
+        },
+        {
+            "hash": 3984058085,
+            "original": "E12W_SD",
+            "translated": "E12W_SD",
+            "desc": ""
+        },
+        {
+            "hash": 3997090176,
+            "original": "~z~Bikes and women.",
+            "translated": "~z~摩托跟娘们。",
+            "desc": ""
+        },
+        {
+            "hash": 3997834584,
+            "original": "~z~Yeah, just kidding.",
+            "translated": "~z~嗯，开个玩笑。",
+            "desc": ""
+        },
+        {
+            "hash": 3998422384,
+            "original": "~z~But I gotta tell you something.",
+            "translated": "~z~但我有句话要跟你讲。",
+            "desc": ""
+        },
+        {
+            "hash": 4001570262,
+            "original": "~z~I wouldn't ever do that to you.",
+            "translated": "~z~我绝不会出卖你们。",
+            "desc": ""
+        },
+        {
+            "hash": 4001766555,
+            "original": "E12W_QF",
+            "translated": "E12W_QF",
+            "desc": ""
+        },
+        {
+            "hash": 4002540971,
+            "original": "~z~Shit, is it them payments to your ex wife? The brothers can help.",
+            "translated": "~z~妈的，是不是前妻的抚养费？兄弟们能帮你。",
+            "desc": ""
+        },
+        {
+            "hash": 4004075181,
+            "original": "E12W_A_CA",
+            "translated": "E12W_A_CA",
+            "desc": ""
+        },
+        {
+            "hash": 4004673119,
+            "original": "E12W_PE",
+            "translated": "E12W_PE",
+            "desc": ""
+        },
+        {
+            "hash": 4008465904,
+            "original": "E12W_AD",
+            "translated": "E12W_AD",
+            "desc": ""
+        },
+        {
+            "hash": 4008906998,
+            "original": "~z~Ha ha. Fuck you, man.",
+            "translated": "~z~哈哈。操你妈的，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 4012989325,
+            "original": "~z~Shut up.",
+            "translated": "~z~扯淡吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4016657724,
+            "original": "~z~Johnny, man, rip up your fucking credit cards.",
+            "translated": "~z~Johnny兄弟，赶紧把信用卡撕了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4017541885,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 4031993318,
+            "original": "E12W_IA",
+            "translated": "E12W_IA",
+            "desc": ""
+        },
+        {
+            "hash": 4036201139,
+            "original": "~z~Only action I care to speak about's the between the sheets kind.",
+            "translated": "~z~我想聊的征战只有在床上的南征北战。",
+            "desc": ""
+        },
+        {
+            "hash": 4041075590,
+            "original": "SFX_PAUSE_560",
+            "translated": "SFX_PAUSE_560",
+            "desc": ""
+        },
+        {
+            "hash": 4067832073,
+            "original": "SFX_PAUSE_450",
+            "translated": "SFX_PAUSE_450",
+            "desc": ""
+        },
+        {
+            "hash": 4068066462,
+            "original": "E12W_CB",
+            "translated": "E12W_CB",
+            "desc": ""
+        },
+        {
+            "hash": 4070728352,
+            "original": "E12W_TE",
+            "translated": "E12W_TE",
+            "desc": ""
+        },
+        {
+            "hash": 4072185469,
+            "original": "~z~How long's this go on for, Jim?",
+            "translated": "~z~还打算这样多久，Jim？",
+            "desc": ""
+        },
+        {
+            "hash": 4078654734,
+            "original": "010090100090010090100090010090100",
+            "translated": "010090100090010090100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 4081834860,
+            "original": "~z~Much as I like that show, I was talking about politicians not hookers.",
+            "translated": "~z~虽然我也喜欢，但我问的是政治投票，不是选秀。",
+            "desc": ""
+        },
+        {
+            "hash": 4094138979,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 4099481357,
+            "original": "E12W_HF",
+            "translated": "E12W_HF",
+            "desc": ""
+        },
+        {
+            "hash": 4101918295,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 4107778436,
+            "original": "310090130090310090130090310090130",
+            "translated": "310090130090310090130090310090130",
+            "desc": ""
+        },
+        {
+            "hash": 4111840282,
+            "original": "210090120090210090120090210090120090200",
+            "translated": "210090120090210090120090210090120090200",
+            "desc": ""
+        },
+        {
+            "hash": 4121109482,
+            "original": "SFX_PAUSE_370",
+            "translated": "SFX_PAUSE_370",
+            "desc": ""
+        },
+        {
+            "hash": 4129254414,
+            "original": "~z~Shit, maybe three years. Ever since I was reborn into civilian life.",
+            "translated": "~z~妈的，差不多有三年吧。一退伍我就想去旅行了。",
+            "desc": ""
+        },
+        {
+            "hash": 4140566179,
+            "original": "E12W_KF",
+            "translated": "E12W_KF",
+            "desc": ""
+        },
+        {
+            "hash": 4160323036,
+            "original": "SFX_PAUSE_430",
+            "translated": "SFX_PAUSE_430",
+            "desc": ""
+        },
+        {
+            "hash": 4164242621,
+            "original": "100090010090100090010090100090010090100090010090100090010",
+            "translated": "100090010090100090010090100090010090100090010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 4169744999,
+            "original": "E12W_XA",
+            "translated": "E12W_XA",
+            "desc": ""
+        },
+        {
+            "hash": 4171526636,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 4173529084,
+            "original": "SFX_PAUSE_340",
+            "translated": "SFX_PAUSE_340",
+            "desc": ""
+        },
+        {
+            "hash": 4176690686,
+            "original": "~z~In a way. Only problem is now I know how the story's going to end.",
+            "translated": "~z~也许吧。只是现在我知道故事的结局了。",
+            "desc": ""
+        },
+        {
+            "hash": 4182141452,
+            "original": "E12W_IB",
+            "translated": "E12W_IB",
+            "desc": ""
+        },
+        {
+            "hash": 4188036865,
+            "original": "~z~Not just alive, born anew.",
+            "translated": "~z~没出人命，简直是换了个人。",
+            "desc": ""
+        },
+        {
+            "hash": 4188166463,
+            "original": "E12W_JB",
+            "translated": "E12W_JB",
+            "desc": ""
+        },
+        {
+            "hash": 4188175731,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 4193960516,
+            "original": "E12W_HH",
+            "translated": "E12W_HH",
+            "desc": ""
+        },
+        {
+            "hash": 4214157708,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 4214944237,
+            "original": "030090300090030090300090300090030090300090300090030090300",
+            "translated": "030090300090030090300090300090030090300090300090030090300",
+            "desc": ""
+        },
+        {
+            "hash": 4217403226,
+            "original": "E12W_SE",
+            "translated": "E12W_SE",
+            "desc": ""
+        },
+        {
+            "hash": 4228433480,
+            "original": "SFX_PAUSE_470",
+            "translated": "SFX_PAUSE_470",
+            "desc": ""
+        },
+        {
+            "hash": 4235331336,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 4235903935,
+            "original": "~z~Really?",
+            "translated": "~z~真的？",
+            "desc": ""
+        },
+        {
+            "hash": 4243154091,
+            "original": "E12W_A_AC",
+            "translated": "E12W_A_AC",
+            "desc": ""
+        },
+        {
+            "hash": 4246510080,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 4248579145,
+            "original": "E12W_UD",
+            "translated": "E12W_UD",
+            "desc": ""
+        },
+        {
+            "hash": 4248812014,
+            "original": "~z~What gets me is these fucking assholes talking politics like it matters.",
+            "translated": "~z~我最气不过那帮煞有介事地聊政治的混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 4255632134,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 4258933309,
+            "original": "120090210090120090210090120090210",
+            "translated": "120090210090120090210090120090210",
+            "desc": ""
+        },
+        {
+            "hash": 4262061021,
+            "original": "~z~Jim? You remember when I joined up?",
+            "translated": "~z~Jim？还记得我入帮的时候吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4262686121,
+            "original": "E12W_LA",
+            "translated": "E12W_LA",
+            "desc": ""
+        },
+        {
+            "hash": 4271428013,
+            "original": "~z~Terry, what's up?",
+            "translated": "~z~Terry，你还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4287809213,
+            "original": "100090010090100090010090100090010090100",
+            "translated": "100090010090100090010090100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 4290804668,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        }
+    ]
+}

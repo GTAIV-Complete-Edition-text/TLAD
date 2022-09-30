@@ -1,0 +1,106 @@
+{
+    "E1RAY1": [
+        {
+            "hash": 968720887,
+            "original": "~r~The diamonds were lost in the water.",
+            "translated": "~r~钻石打水漂了。",
+            "desc": ""
+        },
+        {
+            "hash": 1042791096,
+            "original": "Pick up the ~g~diamonds.",
+            "translated": "捡起~g~钻石。",
+            "desc": ""
+        },
+        {
+            "hash": 1924795392,
+            "original": "Meet the other ~b~Lost gang members.",
+            "translated": "与其他~b~失落帮成员~s~会合。",
+            "desc": ""
+        },
+        {
+            "hash": 1933333678,
+            "original": "Get on your ~b~bike.",
+            "translated": "骑上你的~b~摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 2123392721,
+            "original": "Take out ~r~Tony's bodyguards.",
+            "translated": "干掉~r~Tony的保镖。",
+            "desc": ""
+        },
+        {
+            "hash": 2138221628,
+            "original": "Take out ~r~Tony's boy.",
+            "translated": "干掉~r~Tony的手下。",
+            "desc": ""
+        },
+        {
+            "hash": 2191938916,
+            "original": "Stash the diamonds in the two ~g~trash bags.",
+            "translated": "将钻石藏到两袋~g~垃圾~s~中。",
+            "desc": ""
+        },
+        {
+            "hash": 2486834647,
+            "original": "Drive to the front of the pack to lead the biker gang.",
+            "translated": "骑到队伍前面带领车队。",
+            "desc": ""
+        },
+        {
+            "hash": 2514685371,
+            "original": "~r~Tony's boy escaped with the diamonds.",
+            "translated": "~r~Tony的手下带着钻石逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 2745739590,
+            "original": "~r~Your gang suffered significant losses.",
+            "translated": "~r~你的帮派损失惨重。",
+            "desc": ""
+        },
+        {
+            "hash": 2941141145,
+            "original": "~r~Your bike was wrecked.",
+            "translated": "~r~你的摩托坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 2975319204,
+            "original": "~r~You abandoned your bike.",
+            "translated": "~r~你抛弃了你的摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 3102425581,
+            "original": "Stash the remaining diamonds in the other ~g~trash bag.",
+            "translated": "将余下钻石藏到另一袋~g~垃圾~s~中。",
+            "desc": ""
+        },
+        {
+            "hash": 3196895561,
+            "original": "Go to the ~y~docks.",
+            "translated": "前往~y~码头。",
+            "desc": ""
+        },
+        {
+            "hash": 3296024425,
+            "original": "Lead your brothers to the ~y~docks.",
+            "translated": "带领弟兄们前往~y~码头。",
+            "desc": ""
+        },
+        {
+            "hash": 3335598152,
+            "original": "Catch up with the other ~b~Lost gang members.",
+            "translated": "赶上其他的~b~失落帮成员。",
+            "desc": ""
+        },
+        {
+            "hash": 4105201868,
+            "original": "Lose the cops.",
+            "translated": "甩掉条子。",
+            "desc": ""
+        }
+    ]
+}

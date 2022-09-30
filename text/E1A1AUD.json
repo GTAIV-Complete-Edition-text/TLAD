@@ -1,0 +1,1396 @@
+{
+    "E1A1AUD": [
+        {
+            "hash": 10094672,
+            "original": "~z~You sure have got a lot of friends, Ash. Wait while I take care of 'em.",
+            "translated": "~z~你的朋友可真多啊，Ash。等我解决他们。",
+            "desc": ""
+        },
+        {
+            "hash": 43170788,
+            "original": "~z~There you are.",
+            "translated": "~z~你来啦。",
+            "desc": ""
+        },
+        {
+            "hash": 74156593,
+            "original": "E1A1_HC",
+            "translated": "E1A1_HC",
+            "desc": ""
+        },
+        {
+            "hash": 89073915,
+            "original": "~z~Hold tight.",
+            "translated": "~z~坚持住。",
+            "desc": ""
+        },
+        {
+            "hash": 93418501,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 101467218,
+            "original": "~z~Yeah, everything in my life's fucking fantastic.",
+            "translated": "~z~对，我生活中的一切都好到爆炸。",
+            "desc": ""
+        },
+        {
+            "hash": 106466747,
+            "original": "~z~I remember when you used to mess around at my place,",
+            "translated": "~z~我还记得你在我家乱搞的场景，",
+            "desc": ""
+        },
+        {
+            "hash": 110695807,
+            "original": "~z~You ain't good for me, sugar. That's all I know.",
+            "translated": "~z~你对我影响不好，甜心。我只知道这个。",
+            "desc": ""
+        },
+        {
+            "hash": 113323483,
+            "original": "~z~Johnny, Johnny, they're gonna hurt me bad.",
+            "translated": "~z~Johnny，Johnny，他们要虐待我了。",
+            "desc": ""
+        },
+        {
+            "hash": 125846663,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 171226869,
+            "original": "~z~Just look for the strung-out tweekers. Please. Come on, baby.",
+            "translated": "~z~哪儿有瘾君子就往哪儿走。拜托了，快点，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 172461830,
+            "original": "~z~He's crazy, Johnny. The ice has really screwed up his shit.",
+            "translated": "~z~他疯了，Johnny。冰毒让他失去理智了。",
+            "desc": ""
+        },
+        {
+            "hash": 227266118,
+            "original": "E1A1_GA",
+            "translated": "E1A1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 227528941,
+            "original": "~z~Not the Billy that made me want to lead this life in the first place.",
+            "translated": "~z~不是那个让我决定加入失落帮的Billy。",
+            "desc": ""
+        },
+        {
+            "hash": 236132168,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 249110828,
+            "original": "E1A1_HB",
+            "translated": "E1A1_HB",
+            "desc": ""
+        },
+        {
+            "hash": 254707993,
+            "original": "~z~Not now, honey. I ain't feelin' so good.",
+            "translated": "~z~现在别，甜心。我感觉不舒服。",
+            "desc": ""
+        },
+        {
+            "hash": 259527482,
+            "original": "SFX_PAUSE_440",
+            "translated": "SFX_PAUSE_440",
+            "desc": ""
+        },
+        {
+            "hash": 265444827,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 270969618,
+            "original": "~z~Enough of that.",
+            "translated": "~z~已经够了。",
+            "desc": ""
+        },
+        {
+            "hash": 277763547,
+            "original": "E1A1_NG",
+            "translated": "E1A1_NG",
+            "desc": ""
+        },
+        {
+            "hash": 307641907,
+            "original": "~z~I guess it was dumb of me to think this would be any different.",
+            "translated": "~z~这种时候还觉得你的生活会不一样确实很蠢。",
+            "desc": ""
+        },
+        {
+            "hash": 354105734,
+            "original": "E1A1_JA",
+            "translated": "E1A1_JA",
+            "desc": ""
+        },
+        {
+            "hash": 357876574,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 370992504,
+            "original": "E1A1_NI",
+            "translated": "E1A1_NI",
+            "desc": ""
+        },
+        {
+            "hash": 375433463,
+            "original": "E1A1_VF",
+            "translated": "E1A1_VF",
+            "desc": ""
+        },
+        {
+            "hash": 376103863,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 391328471,
+            "original": "E1A1_ND",
+            "translated": "E1A1_ND",
+            "desc": ""
+        },
+        {
+            "hash": 393015310,
+            "original": "E1A1_LA",
+            "translated": "E1A1_LA",
+            "desc": ""
+        },
+        {
+            "hash": 444711224,
+            "original": "~z~Filthy, filthy, fucking whore.",
+            "translated": "~z~肮脏下作的臭婆娘。",
+            "desc": ""
+        },
+        {
+            "hash": 460114330,
+            "original": "E1A1_WD",
+            "translated": "E1A1_WD",
+            "desc": ""
+        },
+        {
+            "hash": 478650144,
+            "original": "E1A1_NN",
+            "translated": "E1A1_NN",
+            "desc": ""
+        },
+        {
+            "hash": 485184353,
+            "original": "~z~Thanks for saving me again.",
+            "translated": "~z~谢谢你又救了我一次。",
+            "desc": ""
+        },
+        {
+            "hash": 525056274,
+            "original": "~z~I thought you and Tina weren't friends no more.",
+            "translated": "~z~你不是早就跟Tina断绝来往了吗。",
+            "desc": ""
+        },
+        {
+            "hash": 531330249,
+            "original": "E1A1_GB",
+            "translated": "E1A1_GB",
+            "desc": ""
+        },
+        {
+            "hash": 537380651,
+            "original": "~z~Hold on baby, let me handle this.",
+            "translated": "~z~撑住，宝贝，我来解决他们。",
+            "desc": ""
+        },
+        {
+            "hash": 541961024,
+            "original": "E1A1_NL",
+            "translated": "E1A1_NL",
+            "desc": ""
+        },
+        {
+            "hash": 605563787,
+            "original": "~z~That's enough now, sugar.",
+            "translated": "~z~这就够了，甜心。",
+            "desc": ""
+        },
+        {
+            "hash": 622462357,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 636021810,
+            "original": "E1A1_WB",
+            "translated": "E1A1_WB",
+            "desc": ""
+        },
+        {
+            "hash": 684885407,
+            "original": "E1A1_VL",
+            "translated": "E1A1_VL",
+            "desc": ""
+        },
+        {
+            "hash": 697491226,
+            "original": "~z~Take me home man, I'm crashing hard.",
+            "translated": "~z~带我回家，老兄，我受不了了。",
+            "desc": ""
+        },
+        {
+            "hash": 711461870,
+            "original": "SFX_PAUSE_390",
+            "translated": "SFX_PAUSE_390",
+            "desc": ""
+        },
+        {
+            "hash": 715472902,
+            "original": "~z~I did, Johnny boy. I did.",
+            "translated": "~z~是戒了，Johnny仔。戒掉了。",
+            "desc": ""
+        },
+        {
+            "hash": 716119480,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 725766395,
+            "original": "~z~I'm on my way, baby. You still in this fix?",
+            "translated": "~z~我在路上了，宝贝。你还没逃出来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 726012677,
+            "original": "~z~My boyfriends gonna splatter your brains across this place!",
+            "translated": "~z~我那些男朋友会让你们脑浆涂地的！",
+            "desc": ""
+        },
+        {
+            "hash": 743876914,
+            "original": "E1A1_VE",
+            "translated": "E1A1_VE",
+            "desc": ""
+        },
+        {
+            "hash": 749299079,
+            "original": "~z~Oh man, oh man, oh man.",
+            "translated": "~z~我去，我去，我去。",
+            "desc": ""
+        },
+        {
+            "hash": 776313280,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 784996998,
+            "original": "E1A1_WF",
+            "translated": "E1A1_WF",
+            "desc": ""
+        },
+        {
+            "hash": 791279582,
+            "original": "~z~I love you, Johnny.",
+            "translated": "~z~我爱你，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 808810161,
+            "original": "~z~And you are ridiculous.",
+            "translated": "~z~而你很可笑。",
+            "desc": ""
+        },
+        {
+            "hash": 812912361,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 813357732,
+            "original": "~z~I'm here Ashley, don't worry.",
+            "translated": "~z~我来了，Ashley，不要怕。",
+            "desc": ""
+        },
+        {
+            "hash": 829980499,
+            "original": "SFX_PAUSE_370",
+            "translated": "SFX_PAUSE_370",
+            "desc": ""
+        },
+        {
+            "hash": 842284109,
+            "original": "~z~God, Ashley. Sometimes I wish I didn't care about you.",
+            "translated": "~z~天哪，Ashley。有时我真希望自己不在乎你。",
+            "desc": ""
+        },
+        {
+            "hash": 857140662,
+            "original": "~z~Hit me.",
+            "translated": "~z~打我。",
+            "desc": ""
+        },
+        {
+            "hash": 928727029,
+            "original": "~z~Shit, Johnny. I don't know. It had a red door. Hurry up, I'm crashing hard.",
+            "translated": "~z~妈的，Johnny，我不知道。红门的公寓。快点，我受不了了。",
+            "desc": ""
+        },
+        {
+            "hash": 931543231,
+            "original": "SFX_PAUSE_420",
+            "translated": "SFX_PAUSE_420",
+            "desc": ""
+        },
+        {
+            "hash": 945806199,
+            "original": "~z~I never lied to you.",
+            "translated": "~z~我从来不骗你。",
+            "desc": ""
+        },
+        {
+            "hash": 951874178,
+            "original": "~z~Come 'ere.",
+            "translated": "~z~来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 955317414,
+            "original": "~z~Hit me or something. Teach me I'm wrong.",
+            "translated": "~z~你可以打我一顿。让我知错。",
+            "desc": ""
+        },
+        {
+            "hash": 975308844,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 986146547,
+            "original": "E1A1_NM",
+            "translated": "E1A1_NM",
+            "desc": ""
+        },
+        {
+            "hash": 990437577,
+            "original": "~z~Come on, baby. That's crap and you know it.",
+            "translated": "~z~拜托，宝贝。别骗人了，你自己清楚。",
+            "desc": ""
+        },
+        {
+            "hash": 991172832,
+            "original": "E1A1_WC",
+            "translated": "E1A1_WC",
+            "desc": ""
+        },
+        {
+            "hash": 996814837,
+            "original": "SFX_PAUSE_790",
+            "translated": "SFX_PAUSE_790",
+            "desc": ""
+        },
+        {
+            "hash": 1011028391,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1020850019,
+            "original": "E1A1_NF",
+            "translated": "E1A1_NF",
+            "desc": ""
+        },
+        {
+            "hash": 1063335055,
+            "original": "~z~Don't you know? Haven't you two been seeing anything of each other?",
+            "translated": "~z~你不知道吗？你们两个还没见过面吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1089432730,
+            "original": "~z~I promise.",
+            "translated": "~z~我保证。",
+            "desc": ""
+        },
+        {
+            "hash": 1099972505,
+            "original": "~z~I'm not paying you a fucking cent.",
+            "translated": "~z~我不会给你们一分钱。",
+            "desc": ""
+        },
+        {
+            "hash": 1110867483,
+            "original": "~z~John boy's here for you, baby.",
+            "translated": "~z~阿强来救你了，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 1127842311,
+            "original": "~z~You alright?",
+            "translated": "~z~你还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1144046888,
+            "original": "012",
+            "translated": "012",
+            "desc": ""
+        },
+        {
+            "hash": 1196128921,
+            "original": "E1A1_TA",
+            "translated": "E1A1_TA",
+            "desc": ""
+        },
+        {
+            "hash": 1205728964,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 1206791458,
+            "original": "E1A1_VH",
+            "translated": "E1A1_VH",
+            "desc": ""
+        },
+        {
+            "hash": 1236453422,
+            "original": "~z~You're funny, Johnny. You care about everyone else when they're fine. And you end up tying yourself in a knot.",
+            "translated": "~z~你真好笑，Johnny。别人没事你还一直关心他们，结果搞得自己一团乱麻。",
+            "desc": ""
+        },
+        {
+            "hash": 1250366999,
+            "original": "~z~What's wrong?",
+            "translated": "~z~怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 1252451980,
+            "original": "~z~I'm close. Which apartment are you in?",
+            "translated": "~z~在附近，你在哪一间公寓？",
+            "desc": ""
+        },
+        {
+            "hash": 1264231149,
+            "original": "~z~Bitch, bitch, bitch, bitch, bitch.",
+            "translated": "~z~贱人，贱人，贱人，贱人，贱人。",
+            "desc": ""
+        },
+        {
+            "hash": 1273503572,
+            "original": "~z~Teach me, baby. It's the only way I'll learn. Make me hurt.",
+            "translated": "~z~教训我，宝贝。不教训我学不乖。让我受伤。",
+            "desc": ""
+        },
+        {
+            "hash": 1275382903,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 1282730369,
+            "original": "SFX_PAUSE_470",
+            "translated": "SFX_PAUSE_470",
+            "desc": ""
+        },
+        {
+            "hash": 1290810005,
+            "original": "~z~Home, sweet home.",
+            "translated": "~z~到家了。",
+            "desc": ""
+        },
+        {
+            "hash": 1295408320,
+            "original": "E1A1_KA",
+            "translated": "E1A1_KA",
+            "desc": ""
+        },
+        {
+            "hash": 1322958357,
+            "original": "~z~Can't you hear us? These freaks are partying real hard, man. Please.",
+            "translated": "~z~你听不见吗？这些疯子闹得动静很大，老兄。拜托了。",
+            "desc": ""
+        },
+        {
+            "hash": 1410536161,
+            "original": "~z~Nice place you got here, sugar.",
+            "translated": "~z~你这屋子不错，甜心。",
+            "desc": ""
+        },
+        {
+            "hash": 1440216066,
+            "original": "E1A1_GC",
+            "translated": "E1A1_GC",
+            "desc": ""
+        },
+        {
+            "hash": 1448640889,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 1525142641,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 1525588645,
+            "original": "E1A1_NO",
+            "translated": "E1A1_NO",
+            "desc": ""
+        },
+        {
+            "hash": 1543760321,
+            "original": "E1A1_VM",
+            "translated": "E1A1_VM",
+            "desc": ""
+        },
+        {
+            "hash": 1561129163,
+            "original": "~z~Get me out of here, baby.",
+            "translated": "~z~救我出去，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 1566587849,
+            "original": "~z~I don't want to hang out here.",
+            "translated": "~z~我不想在这儿久留。",
+            "desc": ""
+        },
+        {
+            "hash": 1660342469,
+            "original": "~z~Sure, sure. Do you expect me to stay clean when you're not there to look after me?",
+            "translated": "~z~确实，确实。没你照顾我，你还指望我洁身自好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1677016653,
+            "original": "100090010090100",
+            "translated": "100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 1679031796,
+            "original": "~z~No... yeah. He's around, isn't he?",
+            "translated": "~z~没有...对。他回来了，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1710679411,
+            "original": "~z~I'm sorry. I know I ain't much,",
+            "translated": "~z~对不起。我知道我不算什么，",
+            "desc": ""
+        },
+        {
+            "hash": 1712096322,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 1735285524,
+            "original": "~z~M - m - motherfucker.",
+            "translated": "~z~M...m...妈个逼的。",
+            "desc": ""
+        },
+        {
+            "hash": 1747776323,
+            "original": "E1A1_VG",
+            "translated": "E1A1_VG",
+            "desc": ""
+        },
+        {
+            "hash": 1767855182,
+            "original": "E1A1_NE",
+            "translated": "E1A1_NE",
+            "desc": ""
+        },
+        {
+            "hash": 1778485546,
+            "original": "SFX_PAUSE_160",
+            "translated": "SFX_PAUSE_160",
+            "desc": ""
+        },
+        {
+            "hash": 1864490828,
+            "original": "~z~Can we go?",
+            "translated": "~z~能走了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1935293605,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1946578727,
+            "original": "~z~Stay cool, Ash. Let Daddy take care of this.",
+            "translated": "~z~冷静，Ash。爸爸会解决的。",
+            "desc": ""
+        },
+        {
+            "hash": 1950320590,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 1959528423,
+            "original": "E1A1_WA",
+            "translated": "E1A1_WA",
+            "desc": ""
+        },
+        {
+            "hash": 1970282416,
+            "original": "~z~Fuck you, Ashley. I ain't changed. I stuck to the code I set myself.",
+            "translated": "~z~操你妈，Ashley。我没变。我坚守自己定下的原则。",
+            "desc": ""
+        },
+        {
+            "hash": 1977636475,
+            "original": "~z~I thought you'd said you stopped smoking that stuff?",
+            "translated": "~z~之前你不是说戒掉那玩意了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2025913785,
+            "original": "~z~You set us up, bitch.",
+            "translated": "~z~你敢耍我们，贱人。",
+            "desc": ""
+        },
+        {
+            "hash": 2064527984,
+            "original": "E1A1_IB",
+            "translated": "E1A1_IB",
+            "desc": ""
+        },
+        {
+            "hash": 2072899989,
+            "original": "~z~I can't talk about this now. Lecture me all you like later on, but right now, I need help. Please, sugar.",
+            "translated": "~z~没空聊这些了。之后你爱怎么问怎么问，但现在快来救我。拜托了，甜心。",
+            "desc": ""
+        },
+        {
+            "hash": 2073360957,
+            "original": "SFX_PAUSE_450",
+            "translated": "SFX_PAUSE_450",
+            "desc": ""
+        },
+        {
+            "hash": 2088975299,
+            "original": "SFX_PAUSE_160",
+            "translated": "SFX_PAUSE_160",
+            "desc": ""
+        },
+        {
+            "hash": 2105864706,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 2138650890,
+            "original": "E1A1_IA",
+            "translated": "E1A1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2149142892,
+            "original": "~z~You here, Johnny?",
+            "translated": "~z~到了吗，Johnny？",
+            "desc": ""
+        },
+        {
+            "hash": 2152142543,
+            "original": "~z~You, me and that little habit of yours.",
+            "translated": "~z~你、我，还有你的小毒瘾。",
+            "desc": ""
+        },
+        {
+            "hash": 2158828255,
+            "original": "~z~We can... we can live better than this.",
+            "translated": "~z~我们...我们可以过得比现在好。",
+            "desc": ""
+        },
+        {
+            "hash": 2173489540,
+            "original": "E1A1_NK",
+            "translated": "E1A1_NK",
+            "desc": ""
+        },
+        {
+            "hash": 2179022914,
+            "original": "~z~Ahhhhhhh!",
+            "translated": "~z~啊啊啊啊啊！",
+            "desc": ""
+        },
+        {
+            "hash": 2203201065,
+            "original": "SFX_PAUSE_620",
+            "translated": "SFX_PAUSE_620",
+            "desc": ""
+        },
+        {
+            "hash": 2236335951,
+            "original": "E1A1_VD",
+            "translated": "E1A1_VD",
+            "desc": ""
+        },
+        {
+            "hash": 2253308269,
+            "original": "~z~You try and live by what makes sense, take your own path and it burns you out.",
+            "translated": "~z~尽力遵循常理生活，走自己的路，直到燃尽自己。",
+            "desc": ""
+        },
+        {
+            "hash": 2275717368,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 2292466649,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 2302363750,
+            "original": "~z~So, Billy's back. How's things?",
+            "translated": "~z~那，Billy回来了。近况如何？",
+            "desc": ""
+        },
+        {
+            "hash": 2348063932,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 2393994570,
+            "original": "~z~Oh, baby. You don't mean that, do you? You're all I've got.",
+            "translated": "~z~噢，宝贝。你开玩笑的，对吧？你是我的全部了。",
+            "desc": ""
+        },
+        {
+            "hash": 2414517096,
+            "original": "~z~How long you been up? Two days? Three?",
+            "translated": "~z~你来这儿多久了？两天？三天？",
+            "desc": ""
+        },
+        {
+            "hash": 2420218416,
+            "original": "~z~I've come for you, baby. Don't worry no more.",
+            "translated": "~z~我来救你了，宝贝。已经没什么好怕的了。",
+            "desc": ""
+        },
+        {
+            "hash": 2456731234,
+            "original": "~z~Hey, you know what? We're better than this.",
+            "translated": "~z~嘿，你知道吗？我们可以更好。",
+            "desc": ""
+        },
+        {
+            "hash": 2500255818,
+            "original": "E1A1_VK",
+            "translated": "E1A1_VK",
+            "desc": ""
+        },
+        {
+            "hash": 2501711877,
+            "original": "010090100090010090100090010090100090010090100090100090010090100090010090100090010090100090010090",
+            "translated": "010090100090010090100090010090100090010090100090100090010090100090010090100090010090100090010090",
+            "desc": ""
+        },
+        {
+            "hash": 2522698030,
+            "original": "100090010090100",
+            "translated": "100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 2528849534,
+            "original": "~z~You sure know how to get yourself into trouble, don't ya baby?",
+            "translated": "~z~你可真懂怎么让自己陷入困境啊，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 2544331158,
+            "original": "E1A1_VC",
+            "translated": "E1A1_VC",
+            "desc": ""
+        },
+        {
+            "hash": 2578411486,
+            "original": "~z~This is so not fucking cool.",
+            "translated": "~z~这他妈可不好玩。",
+            "desc": ""
+        },
+        {
+            "hash": 2602438179,
+            "original": "~z~Well, you lost me to it.",
+            "translated": "~z~但你因为它失去了我。",
+            "desc": ""
+        },
+        {
+            "hash": 2624471047,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 2634142600,
+            "original": "~z~Yeah, yeah.",
+            "translated": "~z~好，好。",
+            "desc": ""
+        },
+        {
+            "hash": 2661106885,
+            "original": "~z~Give me a break, sweetheart. I used to fucking love you.",
+            "translated": "~z~饶了我吧，甜心。我曾经爱过你。",
+            "desc": ""
+        },
+        {
+            "hash": 2686378430,
+            "original": "SFX_PAUSE_800",
+            "translated": "SFX_PAUSE_800",
+            "desc": ""
+        },
+        {
+            "hash": 2711911260,
+            "original": "E1A1_VB",
+            "translated": "E1A1_VB",
+            "desc": ""
+        },
+        {
+            "hash": 2755020474,
+            "original": "E1A1_SA",
+            "translated": "E1A1_SA",
+            "desc": ""
+        },
+        {
+            "hash": 2812025238,
+            "original": "E1A1_OA",
+            "translated": "E1A1_OA",
+            "desc": ""
+        },
+        {
+            "hash": 2846394897,
+            "original": "~z~Johnny, boy. I knew you'd come for me.",
+            "translated": "~z~Johnny仔，我就知道你会救我的。",
+            "desc": ""
+        },
+        {
+            "hash": 2873119251,
+            "original": "~z~I'm with you now, Johnny boy. How could I not be?",
+            "translated": "~z~现在有你在，Johnny仔。怎么会不好呢？",
+            "desc": ""
+        },
+        {
+            "hash": 2907959238,
+            "original": "E1A1_WE",
+            "translated": "E1A1_WE",
+            "desc": ""
+        },
+        {
+            "hash": 2911112668,
+            "original": "SFX_PAUSE_8000",
+            "translated": "SFX_PAUSE_8000",
+            "desc": ""
+        },
+        {
+            "hash": 2979872362,
+            "original": "010090100090010090100090010090100090010090100090010090010090100090100090010090010090100090010",
+            "translated": "010090100090010090100090010090100090010090100090010090010090100090100090010090010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2980421223,
+            "original": "E1A1_NH",
+            "translated": "E1A1_NH",
+            "desc": ""
+        },
+        {
+            "hash": 3006874451,
+            "original": "100090010090100",
+            "translated": "100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 3022726357,
+            "original": "~z~Help me! Help me!",
+            "translated": "~z~救命啊！救命啊！",
+            "desc": ""
+        },
+        {
+            "hash": 3035210715,
+            "original": "SFX_PAUSE_520",
+            "translated": "SFX_PAUSE_520",
+            "desc": ""
+        },
+        {
+            "hash": 3052300532,
+            "original": "SFX_PAUSE_520",
+            "translated": "SFX_PAUSE_520",
+            "desc": ""
+        },
+        {
+            "hash": 3076393032,
+            "original": "~z~If you say so.",
+            "translated": "~z~你说是就是吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3098831637,
+            "original": "~z~Baby, baby I'm here.",
+            "translated": "~z~宝贝，宝贝我来了。",
+            "desc": ""
+        },
+        {
+            "hash": 3108579666,
+            "original": "~z~My baby's here.",
+            "translated": "~z~我的宝贝来了。",
+            "desc": ""
+        },
+        {
+            "hash": 3120723212,
+            "original": "~z~And you sure know how to get me out, Johnny.",
+            "translated": "~z~你也很懂怎么救我，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 3131995595,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 3137342754,
+            "original": "~z~Either I'm trippin' or we're fucked. Look out, baby.",
+            "translated": "~z~不是幻觉的话，我们就麻烦了。当心，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 3151342714,
+            "original": "~z~Oh, man, Johnny. You keep talking about how people have changed.",
+            "translated": "~z~噢，天哪，Johnny。你又在讲别人都变了了。",
+            "desc": ""
+        },
+        {
+            "hash": 3195515294,
+            "original": "SFX_PAUSE_370",
+            "translated": "SFX_PAUSE_370",
+            "desc": ""
+        },
+        {
+            "hash": 3220057778,
+            "original": "~z~You alright?",
+            "translated": "~z~你还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3250555249,
+            "original": "E1A1_NC",
+            "translated": "E1A1_NC",
+            "desc": ""
+        },
+        {
+            "hash": 3319892982,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 3375737233,
+            "original": "~z~Fuck, oh fuck, oh fuck! More of 'em, Johnny K!",
+            "translated": "~z~操，我操，我操！又是一群人，Johnny K！",
+            "desc": ""
+        },
+        {
+            "hash": 3376327071,
+            "original": "~z~Johnny, Johnny, there's more of them!",
+            "translated": "~z~Johnny，Johnny，又来了一群人！",
+            "desc": ""
+        },
+        {
+            "hash": 3380849811,
+            "original": "~z~but I'm all yours. You do know that, baby, don't you?",
+            "translated": "~z~但我是你的人。这你总知道，宝贝，没错吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3398930139,
+            "original": "~z~Ash babe, your white knight is here.",
+            "translated": "~z~Ash宝贝，你的白衣骑士来了。",
+            "desc": ""
+        },
+        {
+            "hash": 3419707136,
+            "original": "SFX_PAUSE_640",
+            "translated": "SFX_PAUSE_640",
+            "desc": ""
+        },
+        {
+            "hash": 3477321559,
+            "original": "E1A1_VJ",
+            "translated": "E1A1_VJ",
+            "desc": ""
+        },
+        {
+            "hash": 3490075867,
+            "original": "~z~Don't you think maybe you're the one who's different?",
+            "translated": "~z~就没想过你才是那个变了的人吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3512474928,
+            "original": "~z~Johnny, what's happening?",
+            "translated": "~z~Johnny，怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 3529554693,
+            "original": "~z~Take that bike. We'll ride off into the sunset, you and me.",
+            "translated": "~z~骑上摩托，你我二人一起奔向夕阳。",
+            "desc": ""
+        },
+        {
+            "hash": 3545352484,
+            "original": "~z~I need more information, Ash.",
+            "translated": "~z~信息不够用啊，Ash。",
+            "desc": ""
+        },
+        {
+            "hash": 3553464912,
+            "original": "~z~I never lied to you when I was sober.",
+            "translated": "~z~我清醒的时候从来不骗你。",
+            "desc": ""
+        },
+        {
+            "hash": 3558982095,
+            "original": "~z~Yeah, well let's hope so.",
+            "translated": "~z~是啊，希望如此吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3570705237,
+            "original": "~z~These guys can't hurt you no more, baby.",
+            "translated": "~z~这些人别想再伤害你了，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 3587072355,
+            "original": "E1A1_VA",
+            "translated": "E1A1_VA",
+            "desc": ""
+        },
+        {
+            "hash": 3589080000,
+            "original": "~z~I told you. I'm not friends with Tina no more. I ain't gonna lose me to meth..",
+            "translated": "~z~我都说了，我现在没跟Tina来往了。不会迷失在冰毒里了...",
+            "desc": ""
+        },
+        {
+            "hash": 3601020940,
+            "original": "~z~Okay, I'm bad, baby. I'm bad. I know it. You should teach me a lesson.",
+            "translated": "~z~好啦，我不好，宝贝。我不好，我知道了。教训我一顿吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3615928680,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 3616192159,
+            "original": "~z~You're making yourself hurt already, you fucking idiot.",
+            "translated": "~z~你已经在伤害自己了，你这白痴。",
+            "desc": ""
+        },
+        {
+            "hash": 3639881082,
+            "original": "~z~It ain't good for you, you know that.",
+            "translated": "~z~吸毒对你不好，你也知道。",
+            "desc": ""
+        },
+        {
+            "hash": 3656525103,
+            "original": "E1A1_RA",
+            "translated": "E1A1_RA",
+            "desc": ""
+        },
+        {
+            "hash": 3709786775,
+            "original": "~z~Don't worry, Ash. I'm coming. I just need some help finding it.",
+            "translated": "~z~别害怕，Ash。我来了。只是还需要点线索。",
+            "desc": ""
+        },
+        {
+            "hash": 3726068669,
+            "original": "E1A1_NA",
+            "translated": "E1A1_NA",
+            "desc": ""
+        },
+        {
+            "hash": 3730077991,
+            "original": "~z~Fuck! Will somebody fucking help me!",
+            "translated": "~z~操！就没人来救我吗！",
+            "desc": ""
+        },
+        {
+            "hash": 3737138992,
+            "original": "~z~Ash babe, where are ya?",
+            "translated": "~z~Ash宝贝，你在哪儿？",
+            "desc": ""
+        },
+        {
+            "hash": 3749213616,
+            "original": "~z~Baby, baby. You came.",
+            "translated": "~z~宝贝，宝贝，你来了。",
+            "desc": ""
+        },
+        {
+            "hash": 3810707280,
+            "original": "~z~I don't wanna hang here neither.",
+            "translated": "~z~我也不想留在这里。",
+            "desc": ""
+        },
+        {
+            "hash": 3811368217,
+            "original": "E1A1_VI",
+            "translated": "E1A1_VI",
+            "desc": ""
+        },
+        {
+            "hash": 3823802266,
+            "original": "E1A1_UA",
+            "translated": "E1A1_UA",
+            "desc": ""
+        },
+        {
+            "hash": 3831613434,
+            "original": "E1A1_IC",
+            "translated": "E1A1_IC",
+            "desc": ""
+        },
+        {
+            "hash": 3833390057,
+            "original": "E1A1_VO",
+            "translated": "E1A1_VO",
+            "desc": ""
+        },
+        {
+            "hash": 3835584384,
+            "original": "~z~Say the word, honey.",
+            "translated": "~z~等你一句话，甜心。",
+            "desc": ""
+        },
+        {
+            "hash": 3852358526,
+            "original": "E1A1_NB",
+            "translated": "E1A1_NB",
+            "desc": ""
+        },
+        {
+            "hash": 3894877671,
+            "original": "E1A1_VP",
+            "translated": "E1A1_VP",
+            "desc": ""
+        },
+        {
+            "hash": 3896194368,
+            "original": "SFX_PAUSE_490",
+            "translated": "SFX_PAUSE_490",
+            "desc": ""
+        },
+        {
+            "hash": 3936600060,
+            "original": "~z~Well, my whole life's falling to shit, sweetheart.",
+            "translated": "~z~好吧，我的人生正在滑向深渊，甜心。",
+            "desc": ""
+        },
+        {
+            "hash": 3940748180,
+            "original": "~z~Something's around. Not the Billy I knew.",
+            "translated": "~z~确实回来了，但不是我认识的Billy。",
+            "desc": ""
+        },
+        {
+            "hash": 3994776186,
+            "original": "~z~You're my habit, Johnny.",
+            "translated": "~z~你就是我的毒品，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 4005789711,
+            "original": "~z~I can't wait much longer, sugar.",
+            "translated": "~z~我要等不下去了，甜心。",
+            "desc": ""
+        },
+        {
+            "hash": 4019899446,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 4049685624,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 4067322519,
+            "original": "E1A1_HA",
+            "translated": "E1A1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 4075822239,
+            "original": "~z~I'm scared, Johnny.",
+            "translated": "~z~我好害怕，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 4079415571,
+            "original": "~z~Maybe if you answered your calls... fuck. Whatever.",
+            "translated": "~z~要是你接了电话的话...去，算了。",
+            "desc": ""
+        },
+        {
+            "hash": 4085281526,
+            "original": "~z~that don't happen any more either.",
+            "translated": "~z~后来再没发生过。",
+            "desc": ""
+        },
+        {
+            "hash": 4090992426,
+            "original": "E1A1_VN",
+            "translated": "E1A1_VN",
+            "desc": ""
+        },
+        {
+            "hash": 4092127452,
+            "original": "~z~Then again, I'm not the one messing up my head on a week long ice binge.",
+            "translated": "~z~再说，溜了一个礼拜冰搞坏脑子的人又不是我。",
+            "desc": ""
+        },
+        {
+            "hash": 4099400769,
+            "original": "~z~Who's counting?",
+            "translated": "~z~谁会数啊？",
+            "desc": ""
+        },
+        {
+            "hash": 4104277152,
+            "original": "~z~That hurts real good, Johnny.",
+            "translated": "~z~实在很痛苦，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 4105017070,
+            "original": "E1A1_NJ",
+            "translated": "E1A1_NJ",
+            "desc": ""
+        },
+        {
+            "hash": 4118420347,
+            "original": "SFX_PAUSE_580",
+            "translated": "SFX_PAUSE_580",
+            "desc": ""
+        },
+        {
+            "hash": 4122080817,
+            "original": "E1A1_NA",
+            "translated": "E1A1_NA",
+            "desc": ""
+        },
+        {
+            "hash": 4151368407,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 4162134941,
+            "original": "SFX_PAUSE_550",
+            "translated": "SFX_PAUSE_550",
+            "desc": ""
+        },
+        {
+            "hash": 4184656575,
+            "original": "~z~Me and the crystal, of course.",
+            "translated": "~z~你还有冰毒，对吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4189813504,
+            "original": "~z~You're too sweet for words, Johnny boy. You think I'm sweet, too?",
+            "translated": "~z~你的好我无以言表，Johnny仔。那你觉得我好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4216531913,
+            "original": "SFX_PAUSE_370",
+            "translated": "SFX_PAUSE_370",
+            "desc": ""
+        },
+        {
+            "hash": 4262922339,
+            "original": "~z~Click, tick, tock, click. Ahhh.",
+            "translated": "~z~滴滴答滴。啊。",
+            "desc": ""
+        },
+        {
+            "hash": 4267649237,
+            "original": "100090010090100090010090100090010",
+            "translated": "100090010090100090010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 4268777532,
+            "original": "~z~Gentle, baby. I'm only little.",
+            "translated": "~z~温柔点，宝贝。我还小。",
+            "desc": ""
+        },
+        {
+            "hash": 4282694584,
+            "original": "E1A1_NP",
+            "translated": "E1A1_NP",
+            "desc": ""
+        },
+        {
+            "hash": 4291524930,
+            "original": "~z~It's over, Ashley. I'm here.",
+            "translated": "~z~都结束了，Ashley。我来了。",
+            "desc": ""
+        }
+    ]
+}

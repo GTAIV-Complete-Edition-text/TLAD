@@ -1,0 +1,406 @@
+{
+    "HILOCRD": [
+        {
+            "hash": 183675733,
+            "original": "Ace of Diamonds~n~(Ace is low)",
+            "translated": "方块A~n~(A最小)",
+            "desc": ""
+        },
+        {
+            "hash": 221786056,
+            "original": "4 of Diamonds~n~",
+            "translated": "方块4~n~",
+            "desc": ""
+        },
+        {
+            "hash": 228375731,
+            "original": "Queen of Clubs~n~",
+            "translated": "梅花Q~n~",
+            "desc": ""
+        },
+        {
+            "hash": 258625809,
+            "original": "6 of Spades~n~",
+            "translated": "黑桃6~n~",
+            "desc": ""
+        },
+        {
+            "hash": 495471607,
+            "original": "Ace of Hearts~n~(Ace is low)",
+            "translated": "红桃A~n~(A最小)",
+            "desc": ""
+        },
+        {
+            "hash": 660664877,
+            "original": "Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to play again.",
+            "translated": "按~INPUT_PICKUP~退出。~n~按~INPUT_MOUSE_LMB~再玩一局。",
+            "desc": ""
+        },
+        {
+            "hash": 679208527,
+            "original": "6 of Diamonds~n~",
+            "translated": "方块6~n~",
+            "desc": ""
+        },
+        {
+            "hash": 749563594,
+            "original": "King of Diamonds~n~",
+            "translated": "方块K~n~",
+            "desc": ""
+        },
+        {
+            "hash": 822342298,
+            "original": "King of Hearts~n~",
+            "translated": "红桃K~n~",
+            "desc": ""
+        },
+        {
+            "hash": 855447610,
+            "original": "4 of Spades~n~",
+            "translated": "黑桃4~n~",
+            "desc": ""
+        },
+        {
+            "hash": 877113294,
+            "original": "Predict if the value of the next card is higher or lower (Aces are low). Last person remaining wins.~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.",
+            "translated": "猜下张牌更大还是更小(A最小)。猜错淘汰，活到最后的人获胜。~n~按~INPUT_FRONTEND_ACCEPT~继续。~n~按~INPUT_PICKUP~离开游戏。",
+            "desc": ""
+        },
+        {
+            "hash": 910037501,
+            "original": "Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to go back to the game.",
+            "translated": "按~INPUT_PICKUP~退出。~n~按~INPUT_MOUSE_LMB~回到游戏。",
+            "desc": ""
+        },
+        {
+            "hash": 950208161,
+            "original": "8 of Diamonds~n~",
+            "translated": "方块8~n~",
+            "desc": ""
+        },
+        {
+            "hash": 1072730319,
+            "original": "Jack of Hearts~n~",
+            "translated": "红桃J~n~",
+            "desc": ""
+        },
+        {
+            "hash": 1097864158,
+            "original": "2 of Hearts~n~",
+            "translated": "红桃2~n~",
+            "desc": ""
+        },
+        {
+            "hash": 1102722484,
+            "original": "5 of Spades~n~",
+            "translated": "黑桃5~n~",
+            "desc": ""
+        },
+        {
+            "hash": 1182376526,
+            "original": "7 of Diamonds~n~",
+            "translated": "方块7~n~",
+            "desc": ""
+        },
+        {
+            "hash": 1325691043,
+            "original": "10 of Spades~n~",
+            "translated": "黑桃10~n~",
+            "desc": ""
+        },
+        {
+            "hash": 1393383510,
+            "original": "8 of Spades~n~",
+            "translated": "黑桃8~n~",
+            "desc": ""
+        },
+        {
+            "hash": 1527532399,
+            "original": "3 of Diamonds~n~",
+            "translated": "方块3~n~",
+            "desc": ""
+        },
+        {
+            "hash": 1565442570,
+            "original": "~a~~n~Wrong!~n~Press ~INPUT_MOUSE_LMB~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.",
+            "translated": "~a~~n~错误！~n~按~INPUT_MOUSE_LMB~继续。~n~按~INPUT_PICKUP~离开游戏。",
+            "desc": ""
+        },
+        {
+            "hash": 1574208231,
+            "original": "~a~~n~Press ~INPUT_PICKUP~ to leave the game.",
+            "translated": "~a~~n~按~INPUT_PICKUP~离开游戏。",
+            "desc": ""
+        },
+        {
+            "hash": 1589071468,
+            "original": "3 of Hearts~n~",
+            "translated": "红桃3~n~",
+            "desc": ""
+        },
+        {
+            "hash": 1603268975,
+            "original": "Queen of Spades~n~",
+            "translated": "黑桃Q~n~",
+            "desc": ""
+        },
+        {
+            "hash": 1633350905,
+            "original": "King of Spades~n~",
+            "translated": "黑桃K~n~",
+            "desc": ""
+        },
+        {
+            "hash": 1640920536,
+            "original": "9 of Spades~n~",
+            "translated": "黑桃9~n~",
+            "desc": ""
+        },
+        {
+            "hash": 1643186964,
+            "original": "Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to play again.",
+            "translated": "按~INPUT_PICKUP~退出。~n~按~INPUT_FRONTEND_ACCEPT~再玩一局。",
+            "desc": ""
+        },
+        {
+            "hash": 1648485880,
+            "original": "Ace of Clubs~n~(Ace is low)",
+            "translated": "梅花A~n~(A最小)",
+            "desc": ""
+        },
+        {
+            "hash": 1652012918,
+            "original": "Predict if the value of the next card is higher or lower (Aces are low). Last person remaining wins.~n~Press ~INPUT_MOUSE_LMB~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.",
+            "translated": "猜下张牌更大还是更小(A最小)。猜错淘汰，活到最后的人获胜。~n~按~INPUT_MOUSE_LMB~继续。~n~按~INPUT_PICKUP~离开游戏。",
+            "desc": ""
+        },
+        {
+            "hash": 1697119375,
+            "original": "3 of Spades~n~",
+            "translated": "黑桃3~n~",
+            "desc": ""
+        },
+        {
+            "hash": 1752990516,
+            "original": "7 of Spades~n~",
+            "translated": "黑桃7~n~",
+            "desc": ""
+        },
+        {
+            "hash": 1809115303,
+            "original": "4 of Hearts~n~",
+            "translated": "红桃4~n~",
+            "desc": ""
+        },
+        {
+            "hash": 1873487496,
+            "original": "Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to the game.",
+            "translated": "按~INPUT_PICKUP~退出。~n~按~INPUT_FRONTEND_ACCEPT~回到游戏。",
+            "desc": ""
+        },
+        {
+            "hash": 1882092999,
+            "original": "Queen of Diamonds~n~",
+            "translated": "方块Q~n~",
+            "desc": ""
+        },
+        {
+            "hash": 1946058071,
+            "original": "9 of Diamonds~n~",
+            "translated": "方块9~n~",
+            "desc": ""
+        },
+        {
+            "hash": 2003017994,
+            "original": "Ace of Spades~n~(Ace is low)",
+            "translated": "黑桃A~n~(A最小)",
+            "desc": ""
+        },
+        {
+            "hash": 2062400793,
+            "original": "~a~~n~Wrong!~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.",
+            "translated": "~a~~n~错误！~n~按~INPUT_FRONTEND_ACCEPT~继续。~n~按~INPUT_PICKUP~离开游戏。",
+            "desc": ""
+        },
+        {
+            "hash": 2064844579,
+            "original": "5 of Hearts~n~",
+            "translated": "红桃5~n~",
+            "desc": ""
+        },
+        {
+            "hash": 2098221634,
+            "original": "Higher!",
+            "translated": "大！",
+            "desc": ""
+        },
+        {
+            "hash": 2129025588,
+            "original": "~a~~n~Correct!~n~Press ~INPUT_MOUSE_LMB~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.",
+            "translated": "~a~~n~正确！~n~按~INPUT_MOUSE_LMB~继续。~n~按~INPUT_PICKUP~离开游戏。",
+            "desc": ""
+        },
+        {
+            "hash": 2198185863,
+            "original": "Jack of Clubs~n~",
+            "translated": "梅花J~n~",
+            "desc": ""
+        },
+        {
+            "hash": 2249390975,
+            "original": "10 of Clubs~n~",
+            "translated": "梅花10~n~",
+            "desc": ""
+        },
+        {
+            "hash": 2249783955,
+            "original": "9 of Clubs~n~",
+            "translated": "梅花9~n~",
+            "desc": ""
+        },
+        {
+            "hash": 2285347180,
+            "original": "6 of Hearts~n~",
+            "translated": "红桃6~n~",
+            "desc": ""
+        },
+        {
+            "hash": 2289195042,
+            "original": "~a~~n~Correct!~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to leave the game.",
+            "translated": "~a~~n~正确！~n~按~INPUT_FRONTEND_ACCEPT~继续。~n~按~INPUT_PICKUP~离开游戏。",
+            "desc": ""
+        },
+        {
+            "hash": 2337075232,
+            "original": "10 of Diamonds~n~",
+            "translated": "方块10~n~",
+            "desc": ""
+        },
+        {
+            "hash": 2427667170,
+            "original": "King of Clubs~n~",
+            "translated": "梅花K~n~",
+            "desc": ""
+        },
+        {
+            "hash": 2537059758,
+            "original": "Current card is ~a~~n~Press ~INPUT_FRONTEND_X~ to predict higher.~n~Press ~INPUT_FRONTEND_CANCEL~ to predict lower.~n~Press ~INPUT_PICKUP~ to leave the game.",
+            "translated": "目前的牌是~a~~n~按~INPUT_FRONTEND_X~猜大。~n~按~INPUT_FRONTEND_CANCEL~猜小。~n~按~INPUT_PICKUP~离开游戏。",
+            "desc": ""
+        },
+        {
+            "hash": 2569261971,
+            "original": "3 of Clubs~n~",
+            "translated": "梅花3~n~",
+            "desc": ""
+        },
+        {
+            "hash": 2777603098,
+            "original": "7 of Hearts~n~",
+            "translated": "红桃7~n~",
+            "desc": ""
+        },
+        {
+            "hash": 2934046479,
+            "original": "2 of Clubs~n~",
+            "translated": "梅花2~n~",
+            "desc": ""
+        },
+        {
+            "hash": 3027663337,
+            "original": "8 of Hearts~n~",
+            "translated": "红桃8~n~",
+            "desc": ""
+        },
+        {
+            "hash": 3058692737,
+            "original": "10 of Hearts~n~",
+            "translated": "红桃10~n~",
+            "desc": ""
+        },
+        {
+            "hash": 3147208824,
+            "original": "5 of Clubs~n~",
+            "translated": "梅花5~n~",
+            "desc": ""
+        },
+        {
+            "hash": 3258820038,
+            "original": "4 of Clubs~n~",
+            "translated": "梅花4~n~",
+            "desc": ""
+        },
+        {
+            "hash": 3258881405,
+            "original": "9 of Hearts~n~",
+            "translated": "红桃9~n~",
+            "desc": ""
+        },
+        {
+            "hash": 3345901309,
+            "original": "Lower!",
+            "translated": "小！",
+            "desc": ""
+        },
+        {
+            "hash": 3428034875,
+            "original": "Queen of Hearts~n~",
+            "translated": "红桃Q~n~",
+            "desc": ""
+        },
+        {
+            "hash": 3496415026,
+            "original": "8 of Clubs~n~",
+            "translated": "梅花8~n~",
+            "desc": ""
+        },
+        {
+            "hash": 3668255662,
+            "original": "7 of Clubs~n~",
+            "translated": "梅花7~n~",
+            "desc": ""
+        },
+        {
+            "hash": 3770406628,
+            "original": "Jack of Diamonds~n~",
+            "translated": "方块J~n~",
+            "desc": ""
+        },
+        {
+            "hash": 3822807297,
+            "original": "6 of Clubs~n~",
+            "translated": "方块6~n~",
+            "desc": ""
+        },
+        {
+            "hash": 3847585000,
+            "original": "2 of Spades~n~",
+            "translated": "黑桃2~n~",
+            "desc": ""
+        },
+        {
+            "hash": 3920037263,
+            "original": "Jack of Spades~n~",
+            "translated": "黑桃J~n~",
+            "desc": ""
+        },
+        {
+            "hash": 4022760673,
+            "original": "2 of Diamonds~n~",
+            "translated": "方块2~n~",
+            "desc": ""
+        },
+        {
+            "hash": 4127245387,
+            "original": "Current card is ~a~~n~Press ~INPUT_KB_UP~ to predict higher.~n~Press ~INPUT_KB_DOWN~ to predict lower.~n~Press ~INPUT_PICKUP~ to leave the game.",
+            "translated": "目前的牌是~a~~n~按~INPUT_KB_UP~猜大。~n~按~INPUT_KB_DOWN~猜小。~n~按~INPUT_PICKUP~离开游戏。",
+            "desc": ""
+        },
+        {
+            "hash": 4135977572,
+            "original": "5 of Diamonds~n~",
+            "translated": "方块5~n~",
+            "desc": ""
+        }
+    ]
+}

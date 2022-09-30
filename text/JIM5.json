@@ -1,0 +1,118 @@
+{
+    "JIM5": [
+        {
+            "hash": 195807322,
+            "original": "Go to ~b~Jim.~s~",
+            "translated": "去找~b~Jim。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 329825509,
+            "original": "~r~Jim is dead.",
+            "translated": "~r~Jim死了。",
+            "desc": ""
+        },
+        {
+            "hash": 502951159,
+            "original": "Get on your ~b~bike~s~ and drive to the meet.",
+            "translated": "骑上你的~b~摩托~s~去会面地点。",
+            "desc": ""
+        },
+        {
+            "hash": 972130678,
+            "original": "~r~Jim's bike was wrecked.",
+            "translated": "~r~Jim的摩托坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 1185129178,
+            "original": "~r~Terry is dead.",
+            "translated": "~r~Terry死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1212826382,
+            "original": "Meet Brian at the ~y~docks.~s~",
+            "translated": "去~y~码头~s~和Brian会面。",
+            "desc": ""
+        },
+        {
+            "hash": 1587434191,
+            "original": "~r~Your bike was wrecked.",
+            "translated": "~r~你的摩托坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 1806961121,
+            "original": "Lose the cops.",
+            "translated": "甩掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 1883764258,
+            "original": "~r~Brian's faction got away.",
+            "translated": "~r~Brian的同党逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 2124525500,
+            "original": "Wait for ~b~Jim.~s~",
+            "translated": "等待~b~Jim。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2514862425,
+            "original": "~r~Clay is dead.",
+            "translated": "~r~Clay死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2655206433,
+            "original": "Get back on your ~b~bike.~s~",
+            "translated": "回到你的~b~摩托~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 2701554821,
+            "original": "~r~Brian's faction~s~ are getting away.",
+            "translated": "~r~Brian的同党~s~就要跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 2821940724,
+            "original": "~r~You abandoned your bike.",
+            "translated": "~r~你抛弃了你的摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 2962461243,
+            "original": "Take out ~r~Brian's faction.~s~",
+            "translated": "干掉~r~Brian的同党。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3574094628,
+            "original": "Chase ~r~Brian's faction~s~ and take them down.",
+            "translated": "追上~r~Brian的同党，~s~干掉他们。",
+            "desc": ""
+        },
+        {
+            "hash": 3819108441,
+            "original": "Get on your ~b~bike~s~ and follow Jim to the meet.",
+            "translated": "骑上你的~b~摩托，~s~跟随Jim去会面地点。",
+            "desc": ""
+        },
+        {
+            "hash": 3940878029,
+            "original": "Follow ~b~Jim~s~ to the meet at the docks.",
+            "translated": "跟随~b~Jim~s~前往码头的会面地点。",
+            "desc": ""
+        },
+        {
+            "hash": 4196836688,
+            "original": "Job Complete.",
+            "translated": "任务完成。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,1234 @@
+{
+    "MALC1AU": [
+        {
+            "hash": 54534502,
+            "original": "SFX_PAUSE_460",
+            "translated": "SFX_PAUSE_460",
+            "desc": ""
+        },
+        {
+            "hash": 93286327,
+            "original": "MALC1_EA",
+            "translated": "MALC1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 98607235,
+            "original": "MALC1_RE",
+            "translated": "MALC1_RE",
+            "desc": ""
+        },
+        {
+            "hash": 101322443,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 193730563,
+            "original": "SFX_PAUSE_500",
+            "translated": "SFX_PAUSE_500",
+            "desc": ""
+        },
+        {
+            "hash": 202208273,
+            "original": "~z~Alright man, follow me.",
+            "translated": "~z~好了，兄弟，跟我走。",
+            "desc": ""
+        },
+        {
+            "hash": 239634779,
+            "original": "MALC1_VB",
+            "translated": "MALC1_VB",
+            "desc": ""
+        },
+        {
+            "hash": 316169971,
+            "original": "MALC1_SA",
+            "translated": "MALC1_SA",
+            "desc": ""
+        },
+        {
+            "hash": 329419870,
+            "original": "~z~You don't wanna know what I'd do if you'd killed my friend.",
+            "translated": "~z~要是我朋友死了，你们就已经完了。",
+            "desc": ""
+        },
+        {
+            "hash": 331213750,
+            "original": "~z~Me? I'm doing fine. I ain't the one whinging about a little flesh wound.",
+            "translated": "~z~我？我挺好的。一点皮肉伤就喊疼的又不是我。",
+            "desc": ""
+        },
+        {
+            "hash": 344577729,
+            "original": "SFX_PAUSE_530",
+            "translated": "SFX_PAUSE_530",
+            "desc": ""
+        },
+        {
+            "hash": 347725676,
+            "original": "MALC1_KA",
+            "translated": "MALC1_KA",
+            "desc": ""
+        },
+        {
+            "hash": 391746690,
+            "original": "~z~Yo, what? Them rat bastards shot you? Shit yo, don't worry. Me and Johnny's on the way.",
+            "translated": "~z~哟，啥？那些混账开枪打你？妈逼的，别慌。我和Johnny过来了。",
+            "desc": ""
+        },
+        {
+            "hash": 392017798,
+            "original": "MALC1_SC",
+            "translated": "MALC1_SC",
+            "desc": ""
+        },
+        {
+            "hash": 426816141,
+            "original": "~z~No. No, I guess you don't. Nice image, by the way. You just put me off corn dogs for life.",
+            "translated": "~z~确实，应该用不着。你的比喻真不错，让我不想吃玉米热狗了。",
+            "desc": ""
+        },
+        {
+            "hash": 453026456,
+            "original": "~z~Man, Malcolm got got. I knew those boys were punks.",
+            "translated": "~z~天，Malcolm完了。就知道那些人信不过。",
+            "desc": ""
+        },
+        {
+            "hash": 453817597,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 468282625,
+            "original": "100090010090100",
+            "translated": "100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 544877713,
+            "original": "~z~DeSean's been shot. We gotta help him. Can you follow me?",
+            "translated": "~z~DeSean中枪了，我要去支援他。你能跟我来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 552724819,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 562379572,
+            "original": "~z~I sure hope D's learnt how to hold his tongue. Last time he got hit, he couldn't shut the fuck up.",
+            "translated": "~z~真希望D能管住自己的嘴。上次挨枪就是因为他管不住嘴。",
+            "desc": ""
+        },
+        {
+            "hash": 575856193,
+            "original": "MALC1_HB",
+            "translated": "MALC1_HB",
+            "desc": ""
+        },
+        {
+            "hash": 591906382,
+            "original": "MALC1_IA",
+            "translated": "MALC1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 592288432,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 602686662,
+            "original": "010090100",
+            "translated": "010090100",
+            "desc": ""
+        },
+        {
+            "hash": 607940320,
+            "original": "~z~Thanks for enlightening me.",
+            "translated": "~z~谢谢你，谜语人。",
+            "desc": ""
+        },
+        {
+            "hash": 610277913,
+            "original": "MALC1_TA",
+            "translated": "MALC1_TA",
+            "desc": ""
+        },
+        {
+            "hash": 625703268,
+            "original": "MALC1_GB",
+            "translated": "MALC1_GB",
+            "desc": ""
+        },
+        {
+            "hash": 630088413,
+            "original": "~z~We were meant to be hitting back for DeSean. Not getting him killed, man.",
+            "translated": "~z~我们是去替DeSean讨回公道的，不是去让他送命的。",
+            "desc": ""
+        },
+        {
+            "hash": 640218999,
+            "original": "SFX_PAUSE_460",
+            "translated": "SFX_PAUSE_460",
+            "desc": ""
+        },
+        {
+            "hash": 709544286,
+            "original": "~z~I'll take you to 'em, boys.",
+            "translated": "~z~我带你们过去，兄弟们。",
+            "desc": ""
+        },
+        {
+            "hash": 729302025,
+            "original": "MALC1_CB",
+            "translated": "MALC1_CB",
+            "desc": ""
+        },
+        {
+            "hash": 749461043,
+            "original": "MALC1_UA",
+            "translated": "MALC1_UA",
+            "desc": ""
+        },
+        {
+            "hash": 784627655,
+            "original": "~z~How you holding up DeSean. You in pain?",
+            "translated": "~z~你还好吗，DeSean？现在痛吗？",
+            "desc": ""
+        },
+        {
+            "hash": 828759212,
+            "original": "~z~Yeah, man. You really got to get up close and personal to make the most of them things.",
+            "translated": "~z~确实，兄弟。想搞阴招还是得跟紧。",
+            "desc": ""
+        },
+        {
+            "hash": 849809917,
+            "original": "MALC1_BA",
+            "translated": "MALC1_BA",
+            "desc": ""
+        },
+        {
+            "hash": 876473446,
+            "original": "MALC1_IC",
+            "translated": "MALC1_IC",
+            "desc": ""
+        },
+        {
+            "hash": 880203140,
+            "original": "~z~We'll find those assholes. Don't worry. I'll catch you later, man.",
+            "translated": "~z~有机会找到他们的。别急。以后再联系，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 915501109,
+            "original": "020090200",
+            "translated": "020090200",
+            "desc": ""
+        },
+        {
+            "hash": 921371657,
+            "original": "020090200090020",
+            "translated": "020090200090020",
+            "desc": ""
+        },
+        {
+            "hash": 940893426,
+            "original": "~z~I'm gonna lead you to 'em.",
+            "translated": "~z~我给你们带路。",
+            "desc": ""
+        },
+        {
+            "hash": 943130674,
+            "original": "~z~I know, man. I know. At least he went down with his head held high. See you round.",
+            "translated": "~z~我知道，兄弟。我知道。至少他是昂首挺胸地倒下的。回头见。",
+            "desc": ""
+        },
+        {
+            "hash": 957097151,
+            "original": "MALC1_MB",
+            "translated": "MALC1_MB",
+            "desc": ""
+        },
+        {
+            "hash": 977454421,
+            "original": "290",
+            "translated": "290",
+            "desc": ""
+        },
+        {
+            "hash": 1008150271,
+            "original": "~z~For sure, for sure.",
+            "translated": "~z~确实，确实。",
+            "desc": ""
+        },
+        {
+            "hash": 1028618826,
+            "original": "~z~I look like a need help? You don't need to shoot a guy who got a bat two feet up his ass.",
+            "translated": "~z~我像是要黑枪的人吗？屁股中间夹球棍的人根本不用鸟他。",
+            "desc": ""
+        },
+        {
+            "hash": 1043907670,
+            "original": "~z~Oh, you like spitting lead, huh?",
+            "translated": "~z~哦，喜欢打黑枪是吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1067011629,
+            "original": "MALC1_PB",
+            "translated": "MALC1_PB",
+            "desc": ""
+        },
+        {
+            "hash": 1089302791,
+            "original": "MALC1_CC",
+            "translated": "MALC1_CC",
+            "desc": ""
+        },
+        {
+            "hash": 1093259100,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 1131837642,
+            "original": "MALC1_BB",
+            "translated": "MALC1_BB",
+            "desc": ""
+        },
+        {
+            "hash": 1148294539,
+            "original": "290",
+            "translated": "290",
+            "desc": ""
+        },
+        {
+            "hash": 1151537761,
+            "original": "~z~Sounds good, Johnny.",
+            "translated": "~z~好主意，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 1153307283,
+            "original": "~z~How about we hit 'em right back, man?",
+            "translated": "~z~那我们以牙还牙吧，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 1185160961,
+            "original": "~z~Why man, what's up? That hot import givin' you trouble?",
+            "translated": "~z~咋了，什么情况？你的进口车掉链子了？",
+            "desc": ""
+        },
+        {
+            "hash": 1202886483,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 1235482902,
+            "original": "~z~Yo, B. You didn't have to get yourself shot, now? Shit, we coming. We coming.",
+            "translated": "~z~哟，兄，也没必要硬吃枪子儿吧？妈的，来了来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1238249180,
+            "original": "~z~Watch me.",
+            "translated": "~z~瞧着点。",
+            "desc": ""
+        },
+        {
+            "hash": 1244463436,
+            "original": "~z~You shoulda just raced all peaceable like motherfucker.",
+            "translated": "~z~赛车的时候都和气点，傻逼儿子。",
+            "desc": ""
+        },
+        {
+            "hash": 1258387913,
+            "original": "~z~You think DeSean's okay, man?",
+            "translated": "~z~你觉得DeSean会出事吗，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 1271224760,
+            "original": "~z~Yeah, man. That's Liberty City for you.",
+            "translated": "~z~是啊，兄弟。这就是自由城啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1274677364,
+            "original": "~z~That's them cheatin' punks. Yo, we gonna teach 'em something.",
+            "translated": "~z~耍赖的混蛋在那儿。得好好收拾一顿。",
+            "desc": ""
+        },
+        {
+            "hash": 1299932607,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 1324090469,
+            "original": "SFX_PAUSE_450",
+            "translated": "SFX_PAUSE_450",
+            "desc": ""
+        },
+        {
+            "hash": 1340607428,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 1357525901,
+            "original": "~z~Hey yo, Johnny, give me a hand, man?",
+            "translated": "~z~嘿哟，Johnny，过来搭把手，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1359669754,
+            "original": "~z~There rules in this game, son.",
+            "translated": "~z~无规矩不赛车，小子。",
+            "desc": ""
+        },
+        {
+            "hash": 1372442220,
+            "original": "MALC1_RB",
+            "translated": "MALC1_RB",
+            "desc": ""
+        },
+        {
+            "hash": 1439292005,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 1470912193,
+            "original": "SFX_PAUSE_390",
+            "translated": "SFX_PAUSE_390",
+            "desc": ""
+        },
+        {
+            "hash": 1499600868,
+            "original": "~z~Cheating bastards.",
+            "translated": "~z~混蛋老赖。",
+            "desc": ""
+        },
+        {
+            "hash": 1516389187,
+            "original": "MALC1_HA",
+            "translated": "MALC1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 1532014282,
+            "original": "~z~The game is the fucking game, Johnny. You know that.",
+            "translated": "~z~这就是游戏规则啊，Johnny。你也懂的。",
+            "desc": ""
+        },
+        {
+            "hash": 1542972862,
+            "original": "SFX_PAUSE_340",
+            "translated": "SFX_PAUSE_340",
+            "desc": ""
+        },
+        {
+            "hash": 1554183380,
+            "original": "100090210090210090020090200",
+            "translated": "100090210090210090020090200",
+            "desc": ""
+        },
+        {
+            "hash": 1556338728,
+            "original": "100090010090100",
+            "translated": "100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 1611709491,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 1619521504,
+            "original": "~z~Yeah, we just hit one out the park for fair play.",
+            "translated": "~z~好，我们完全发扬了公平竞争的精神。",
+            "desc": ""
+        },
+        {
+            "hash": 1654928840,
+            "original": "~z~Shit, if it ain't the cheating motherfuckers right there.",
+            "translated": "~z~妈的，那些就是耍赖的傻逼儿子。",
+            "desc": ""
+        },
+        {
+            "hash": 1658380150,
+            "original": "MALC1_YA",
+            "translated": "MALC1_YA",
+            "desc": ""
+        },
+        {
+            "hash": 1706037787,
+            "original": "~z~Yo, yo, yo, pull up here.",
+            "translated": "~z~哟哟哟，该停车了。",
+            "desc": ""
+        },
+        {
+            "hash": 1728091930,
+            "original": "~z~Man, shit. I'm too far in front of these bitches to get shot.",
+            "translated": "~z~天，扯吧。我都是领先到射程以外的。",
+            "desc": ""
+        },
+        {
+            "hash": 1733858977,
+            "original": "~z~It's on, you double crossin' punk ass fucks",
+            "translated": "~z~开打了，背地捅刀的混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 1751442016,
+            "original": "MALC1_JA",
+            "translated": "MALC1_JA",
+            "desc": ""
+        },
+        {
+            "hash": 1773367339,
+            "original": "SFX_PAUSE_420",
+            "translated": "SFX_PAUSE_420",
+            "desc": ""
+        },
+        {
+            "hash": 1791217362,
+            "original": "020090200090200090020",
+            "translated": "020090200090200090020",
+            "desc": ""
+        },
+        {
+            "hash": 1795649870,
+            "original": "~z~Question is, you gonna be able to get that thing started?",
+            "translated": "~z~问题在于，你那车还能打着火吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1825809241,
+            "original": "~z~Good looking on the help out Johnny.",
+            "translated": "~z~多谢你能帮我，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 1832009604,
+            "original": "~z~You fucked with a friend of mine.",
+            "translated": "~z~你们对我的朋友下手了。",
+            "desc": ""
+        },
+        {
+            "hash": 1841350771,
+            "original": "~z~You lucky you didn't kill my boy, DeSean.",
+            "translated": "~z~幸好你们没害死我兄弟DeSean。",
+            "desc": ""
+        },
+        {
+            "hash": 1849509914,
+            "original": "~z~Motherfuckers shot DeSean. You down to help me or what?",
+            "translated": "~z~DeSean被人袭击了，你肯不肯帮我？",
+            "desc": ""
+        },
+        {
+            "hash": 1858380868,
+            "original": "~z~Hold up, hold up. This is it.",
+            "translated": "~z~停车，停车。就是这里。",
+            "desc": ""
+        },
+        {
+            "hash": 1910985778,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1929622137,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 1964855304,
+            "original": "~z~DeSean? Shit man, I thought you was with Big D. Oh yeah, yeah, yeah we on our way.",
+            "translated": "~z~DeSean？妈的，兄弟，你没和大D在一起吗？哦，好好，我们过来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1972457538,
+            "original": "~z~Fucking slimeballs.",
+            "translated": "~z~狗逼混球。",
+            "desc": ""
+        },
+        {
+            "hash": 1983887879,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 1985897559,
+            "original": "MALC1_ZA",
+            "translated": "MALC1_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 1989077971,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 1995848626,
+            "original": "010090100",
+            "translated": "010090100",
+            "desc": ""
+        },
+        {
+            "hash": 2024718627,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 2030049378,
+            "original": "~z~What we doin' on this run anyway?",
+            "translated": "~z~说起来这次要去干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 2056177418,
+            "original": "200090020090020",
+            "translated": "200090020090020",
+            "desc": ""
+        },
+        {
+            "hash": 2080105705,
+            "original": "~z~Come on now, DeSean shootin' motherfuckers.",
+            "translated": "~z~来干啊，黑枪DeSean的傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 2120554501,
+            "original": "~z~There she is. That's my girl.",
+            "translated": "~z~你看看，我的爱车。",
+            "desc": ""
+        },
+        {
+            "hash": 2125821331,
+            "original": "~z~Shit, Malc. You're real sympathetic to your friend.",
+            "translated": "~z~妈的，Malc。你还真同情你的朋友啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2128904720,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 2131813314,
+            "original": "MALC1_PC",
+            "translated": "MALC1_PC",
+            "desc": ""
+        },
+        {
+            "hash": 2139185860,
+            "original": "~z~DeSean's aight, probably only got hit with a nine. The fool's on the phone, right?",
+            "translated": "~z~不会有事的，顶多就是颗九毫米吧。这不还能打电话吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2149183250,
+            "original": "~z~I sure hope so. Can't wait to haze the shit out of the fucker.",
+            "translated": "~z~但愿如此吧。我一定要把他使唤到死。",
+            "desc": ""
+        },
+        {
+            "hash": 2215984419,
+            "original": "~z~Plans tend to change when someone gets shot.",
+            "translated": "~z~有人中枪，计划不得不改啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2225699039,
+            "original": "MALC1_BC",
+            "translated": "MALC1_BC",
+            "desc": ""
+        },
+        {
+            "hash": 2264527635,
+            "original": "~z~Weak motherfuckers.",
+            "translated": "~z~一帮废物。",
+            "desc": ""
+        },
+        {
+            "hash": 2267347078,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 2269773587,
+            "original": "~z~There they are. Yo, let's school these punks.",
+            "translated": "~z~他们在那儿。好好教训教训他们。",
+            "desc": ""
+        },
+        {
+            "hash": 2271035630,
+            "original": "MALC1_XC",
+            "translated": "MALC1_XC",
+            "desc": ""
+        },
+        {
+            "hash": 2369729977,
+            "original": "~z~C'mon man, she don't like to wait.",
+            "translated": "~z~走吧，兄弟，她是个急性子。",
+            "desc": ""
+        },
+        {
+            "hash": 2378751938,
+            "original": "~z~Shit.",
+            "translated": "~z~妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 2385290611,
+            "original": "~z~They only meant to be using baseball bats in the race. I wasn't expecting no lead slinging.",
+            "translated": "~z~那场赛车最多也只能用上棒球棍，但他们居然打黑枪。",
+            "desc": ""
+        },
+        {
+            "hash": 2392659745,
+            "original": "~z~It was more like they shot at me. Them shotguns can't do nothing at a range.",
+            "translated": "~z~倒不如说是泼水。那么远能拿霰弹枪黑到什么。",
+            "desc": ""
+        },
+        {
+            "hash": 2406113537,
+            "original": "~z~For a big fat city, it's a real small place.",
+            "translated": "~z~虽然又大又富，但它还真是小。",
+            "desc": ""
+        },
+        {
+            "hash": 2421432985,
+            "original": "MALC1_IB",
+            "translated": "MALC1_IB",
+            "desc": ""
+        },
+        {
+            "hash": 2450917707,
+            "original": "~z~Recognise this guy, you motherfuckers?",
+            "translated": "~z~还认识他吗，傻逼儿子们？",
+            "desc": ""
+        },
+        {
+            "hash": 2451618951,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 2467786501,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 2470974337,
+            "original": "~z~Don't never come uptown again.",
+            "translated": "~z~以后你们别想踏入上城。",
+            "desc": ""
+        },
+        {
+            "hash": 2479208779,
+            "original": "~z~Well, I can see how that could be annoying.",
+            "translated": "~z~确实，换我我也急。",
+            "desc": ""
+        },
+        {
+            "hash": 2524416231,
+            "original": "~z~Stay behind me, Johnny.",
+            "translated": "~z~跟着我走，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 2525927954,
+            "original": "~z~Oh, y'all cheaters, huh?",
+            "translated": "~z~噢，耍阴招是吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2543209067,
+            "original": "~z~I can't do this for self.",
+            "translated": "~z~一个人又去不了。",
+            "desc": ""
+        },
+        {
+            "hash": 2577791791,
+            "original": "~z~You thought you could fuck with me like that?",
+            "translated": "~z~你们都不想想自己惹的是谁？",
+            "desc": ""
+        },
+        {
+            "hash": 2601456386,
+            "original": "MALC1_VA",
+            "translated": "MALC1_VA",
+            "desc": ""
+        },
+        {
+            "hash": 2607613967,
+            "original": "MALC1_PA",
+            "translated": "MALC1_PA",
+            "desc": ""
+        },
+        {
+            "hash": 2614586535,
+            "original": "~z~I guess we got a change of plans.",
+            "translated": "~z~看来计划要变化了。",
+            "desc": ""
+        },
+        {
+            "hash": 2685032368,
+            "original": "MALC1_YB",
+            "translated": "MALC1_YB",
+            "desc": ""
+        },
+        {
+            "hash": 2704945486,
+            "original": "~z~Malc, Malc. You think Johnny's trying to become a Uptown Riders prospect or something?",
+            "translated": "~z~Malc，Malc。你说Johnny是不是想来我们上城骑士实习啊？",
+            "desc": ""
+        },
+        {
+            "hash": 2773908460,
+            "original": "MALC1_GA",
+            "translated": "MALC1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2786024926,
+            "original": "~z~I think he's up in his girl's crib or something.",
+            "translated": "~z~我看他多半在女朋友家里。",
+            "desc": ""
+        },
+        {
+            "hash": 2787927959,
+            "original": "~z~Okay I got it, I'll help a friend in need.",
+            "translated": "~z~好了，我懂了，我帮你就是了。",
+            "desc": ""
+        },
+        {
+            "hash": 2788772781,
+            "original": "MALC1_NA",
+            "translated": "MALC1_NA",
+            "desc": ""
+        },
+        {
+            "hash": 2848409405,
+            "original": "MALC1_CA",
+            "translated": "MALC1_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2852343141,
+            "original": "MALC1_LA",
+            "translated": "MALC1_LA",
+            "desc": ""
+        },
+        {
+            "hash": 2863159469,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2872725595,
+            "original": "~z~So, I was wondering, what did they, like, ahh, shoot you with?",
+            "translated": "~z~我很好奇啊，他们用什么...打你黑枪的？",
+            "desc": ""
+        },
+        {
+            "hash": 2873372814,
+            "original": "MALC1_QA",
+            "translated": "MALC1_QA",
+            "desc": ""
+        },
+        {
+            "hash": 2897986834,
+            "original": "~z~DeSean's in trouble. Can you help a brother out?",
+            "translated": "~z~DeSean遇见麻烦了。能帮兄弟一把吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2905934057,
+            "original": "~z~Well, gentlemen. I might excuse myself. See you soon, yeah?",
+            "translated": "~z~好了，二位。容我先走一步。再见了。",
+            "desc": ""
+        },
+        {
+            "hash": 2910093417,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2928329268,
+            "original": "~z~I don't like cheaters.",
+            "translated": "~z~我不喜欢赖皮。",
+            "desc": ""
+        },
+        {
+            "hash": 2934612497,
+            "original": "~z~Johnny, man. How you coping?",
+            "translated": "~z~Johnny，兄弟，你还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2958238370,
+            "original": "~z~How about that? You and me just bumpin' into one another like that.",
+            "translated": "~z~什么情况？我们俩就这样偶然碰到了。",
+            "desc": ""
+        },
+        {
+            "hash": 2963384927,
+            "original": "~z~You ever been shot at in one of those races, Malcolm?",
+            "translated": "~z~你赛车有挨过枪吗，Malcolm？",
+            "desc": ""
+        },
+        {
+            "hash": 2964138313,
+            "original": "~z~Come on then. Come on.",
+            "translated": "~z~来干啊，来啊！",
+            "desc": ""
+        },
+        {
+            "hash": 3035421800,
+            "original": "SFX_PAUSE_410",
+            "translated": "SFX_PAUSE_410",
+            "desc": ""
+        },
+        {
+            "hash": 3036910160,
+            "original": "~z~Right behind you, Malc.",
+            "translated": "~z~我跟你走，Malc。",
+            "desc": ""
+        },
+        {
+            "hash": 3057911911,
+            "original": "MALC1_RC",
+            "translated": "MALC1_RC",
+            "desc": ""
+        },
+        {
+            "hash": 3076461273,
+            "original": "MALC1_XA",
+            "translated": "MALC1_XA",
+            "desc": ""
+        },
+        {
+            "hash": 3097311480,
+            "original": "MALC1_KB",
+            "translated": "MALC1_KB",
+            "desc": ""
+        },
+        {
+            "hash": 3195216711,
+            "original": "~z~We gotta go see somebody about something, aight?",
+            "translated": "~z~出于某种原因，要找某个人，懂？",
+            "desc": ""
+        },
+        {
+            "hash": 3236390637,
+            "original": "~z~Despicable.",
+            "translated": "~z~卑鄙小人。",
+            "desc": ""
+        },
+        {
+            "hash": 3244889233,
+            "original": "~z~I forgive you for your earlier aggressive manner.",
+            "translated": "~z~我原谅你刚才的暴躁行为了。",
+            "desc": ""
+        },
+        {
+            "hash": 3269381548,
+            "original": "~z~This about to be brought.",
+            "translated": "~z~该来的总会来的。",
+            "desc": ""
+        },
+        {
+            "hash": 3281854726,
+            "original": "MALC1_OA",
+            "translated": "MALC1_OA",
+            "desc": ""
+        },
+        {
+            "hash": 3307403062,
+            "original": "~z~We the Uptown Riders, son.",
+            "translated": "~z~我们是上城骑士，小子。",
+            "desc": ""
+        },
+        {
+            "hash": 3362634239,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 3420110846,
+            "original": "~z~I'm down. Let's go.",
+            "translated": "~z~我来。走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3432721141,
+            "original": "~z~Hey, take it easy. I don't mean nothing by it.",
+            "translated": "~z~嘿，开个玩笑嘛，又不是故意的。",
+            "desc": ""
+        },
+        {
+            "hash": 3453130119,
+            "original": "~z~Only got a few pellets in my arm.",
+            "translated": "~z~只是肩膀进了几粒小弹丸。",
+            "desc": ""
+        },
+        {
+            "hash": 3465491257,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 3542597142,
+            "original": "290090190090090",
+            "translated": "290090190090090",
+            "desc": ""
+        },
+        {
+            "hash": 3602527885,
+            "original": "~z~Shit, D. You don't look so bad.",
+            "translated": "~z~妈的，D。气色还不错嘛。",
+            "desc": ""
+        },
+        {
+            "hash": 3607765916,
+            "original": "MALC1_IE",
+            "translated": "MALC1_IE",
+            "desc": ""
+        },
+        {
+            "hash": 3611051418,
+            "original": "MALC1_DA",
+            "translated": "MALC1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 3621876390,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 3623450284,
+            "original": "~z~Can we just stop for a minute?",
+            "translated": "~z~能在这儿停一下吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3635501483,
+            "original": "~z~Let's do it.",
+            "translated": "~z~出发吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3670216899,
+            "original": "MALC1_FA",
+            "translated": "MALC1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 3698830777,
+            "original": "~z~Yo, let's go find 'em then.",
+            "translated": "~z~一起找他们复仇吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3724625726,
+            "original": "MALC1_SB",
+            "translated": "MALC1_SB",
+            "desc": ""
+        },
+        {
+            "hash": 3738042461,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3738750832,
+            "original": "~z~Come on man, I'm not in the mood for fuckin' jokes.",
+            "translated": "~z~别扯了，兄弟，我现在没心情说笑。",
+            "desc": ""
+        },
+        {
+            "hash": 3774012799,
+            "original": "MALC1_AA",
+            "translated": "MALC1_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3807793998,
+            "original": "MALC1_A_AA",
+            "translated": "MALC1_A_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3820391293,
+            "original": "200090020",
+            "translated": "200090020",
+            "desc": ""
+        },
+        {
+            "hash": 3822932306,
+            "original": "SFX_PAUSE_370",
+            "translated": "SFX_PAUSE_370",
+            "desc": ""
+        },
+        {
+            "hash": 3849632157,
+            "original": "210120",
+            "translated": "210120",
+            "desc": ""
+        },
+        {
+            "hash": 3863418810,
+            "original": "MALC1_MA",
+            "translated": "MALC1_MA",
+            "desc": ""
+        },
+        {
+            "hash": 3866872577,
+            "original": "MALC1_NB",
+            "translated": "MALC1_NB",
+            "desc": ""
+        },
+        {
+            "hash": 3876606972,
+            "original": "MALC1_ID",
+            "translated": "MALC1_ID",
+            "desc": ""
+        },
+        {
+            "hash": 3935661926,
+            "original": "~z~Yo, I'm alright. Motherfuckers should'a killed me.",
+            "translated": "~z~哟，我没事。得亏他们没杀了我。",
+            "desc": ""
+        },
+        {
+            "hash": 3993136579,
+            "original": "~z~My boy DeSean ain't showed and we're suppose to roll together.",
+            "translated": "~z~我兄弟DeSean鸽了我，本来约好一起出发的。",
+            "desc": ""
+        },
+        {
+            "hash": 4014705373,
+            "original": "MALC1_GC",
+            "translated": "MALC1_GC",
+            "desc": ""
+        },
+        {
+            "hash": 4075458665,
+            "original": "MALC1_JB",
+            "translated": "MALC1_JB",
+            "desc": ""
+        },
+        {
+            "hash": 4088256450,
+            "original": "SFX_PAUSE_320",
+            "translated": "SFX_PAUSE_320",
+            "desc": ""
+        },
+        {
+            "hash": 4094294611,
+            "original": "SFX_PAUSE_430",
+            "translated": "SFX_PAUSE_430",
+            "desc": ""
+        },
+        {
+            "hash": 4100653714,
+            "original": "010090100090010",
+            "translated": "010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 4126206858,
+            "original": "~z~You ever turn a gun on someone in a race man?",
+            "translated": "~z~你赛车的时候打过黑枪吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4203120327,
+            "original": "~z~My bust, man. I'm kind of stressed.",
+            "translated": "~z~我的问题，兄弟。稍微有点急了。",
+            "desc": ""
+        },
+        {
+            "hash": 4204203193,
+            "original": "MALC1_OB",
+            "translated": "MALC1_OB",
+            "desc": ""
+        },
+        {
+            "hash": 4210807278,
+            "original": "~z~Follow me, man.",
+            "translated": "~z~跟我来，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 4215340954,
+            "original": "~z~Yeah, they just grazed me. It's the principle, you know?",
+            "translated": "~z~是啊，擦弹而已。重点是规则，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 4248848026,
+            "original": "MALC1_XB",
+            "translated": "MALC1_XB",
+            "desc": ""
+        },
+        {
+            "hash": 4279879655,
+            "original": "~z~No problemo, Malcolm.",
+            "translated": "~z~不客气，Malcolm。",
+            "desc": ""
+        },
+        {
+            "hash": 4284389878,
+            "original": "~z~I really fuckin' appreciate that, but what the fuck am I going to do now?",
+            "translated": "~z~我可谢谢你啊。但现在我该怎么办？",
+            "desc": ""
+        },
+        {
+            "hash": 4294845434,
+            "original": "MALC1_RA",
+            "translated": "MALC1_RA",
+            "desc": ""
+        }
+    ]
+}

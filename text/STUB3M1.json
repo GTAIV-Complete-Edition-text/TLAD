@@ -1,0 +1,136 @@
+{
+    "STUB3M1": [
+        {
+            "hash": 390832779,
+            "original": "~r~You missed your chance.",
+            "translated": "~r~你错过了机会。",
+            "desc": ""
+        },
+        {
+            "hash": 618543351,
+            "original": "~r~You injured the hooker.",
+            "translated": "~r~你伤害了妓女。",
+            "desc": ""
+        },
+        {
+            "hash": 892457080,
+            "original": "~s~There is the politician, use the phone to take a photo of him with the hooker.",
+            "translated": "~s~是那个政客，用手机拍一张他和妓女的照片。",
+            "desc": ""
+        },
+        {
+            "hash": 1628312835,
+            "original": "~s~Take an incriminating photo of the politician with the hooker.",
+            "translated": "~s~拍一张那个政客和妓女的罪证。",
+            "desc": ""
+        },
+        {
+            "hash": 1649510114,
+            "original": "~s~Send the photo to Stubbs.",
+            "translated": "~s~把照片发给Stubbs。",
+            "desc": ""
+        },
+        {
+            "hash": 1768518260,
+            "original": "~r~You damaged the politician's car.",
+            "translated": "~r~你损坏了政客的车。",
+            "desc": ""
+        },
+        {
+            "hash": 1787136829,
+            "original": "~s~Lose the cops.",
+            "translated": "~s~甩掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 1881751291,
+            "original": "~s~The politician must be in the photo.",
+            "translated": "~s~政客必须入镜。",
+            "desc": ""
+        },
+        {
+            "hash": 1916578051,
+            "original": "~s~The politician drives a red Cognoscenti. Look out for him from this vantage point.",
+            "translated": "~s~那个政客开的是红色Cognoscenti。待在制高点上寻找他。",
+            "desc": ""
+        },
+        {
+            "hash": 2121171822,
+            "original": "~s~You got the photograph.",
+            "translated": "~s~你得到照片了。",
+            "desc": ""
+        },
+        {
+            "hash": 2290532594,
+            "original": "~r~You scared away the hookers by bringing the police in.",
+            "translated": "~r~你引来了警察，吓跑了妓女。",
+            "desc": ""
+        },
+        {
+            "hash": 2378413742,
+            "original": "~s~Quickly send the photo to Stubbs so he can use it.",
+            "translated": "~s~赶快将照片发给Stubbs，他就可以利用它了。",
+            "desc": ""
+        },
+        {
+            "hash": 2381971741,
+            "original": "~r~You spooked the politician.",
+            "translated": "~r~你惊动了那个政客。",
+            "desc": ""
+        },
+        {
+            "hash": 3003717538,
+            "original": "~s~Go to the ~y~lookout point~s~ on the roof and wait for the politician.",
+            "translated": "~s~前往屋顶上的~y~监视点~s~等待政客出现。",
+            "desc": ""
+        },
+        {
+            "hash": 3075042992,
+            "original": "~s~PHONE CALL~n~~n~Stubbs wants you to photograph ~n~a rival politician soliciting a hooker~n~ and then send him the evidence.",
+            "translated": "~s~PHONE CALL~n~~n~Stubbs希望你拍一张~n~一个竞争的政客招一个妓女的照片~n~然后把证据发给他。",
+            "desc": ""
+        },
+        {
+            "hash": 3190274330,
+            "original": "~s~The hooker must be in the photo.",
+            "translated": "~s~妓女必须入镜。",
+            "desc": ""
+        },
+        {
+            "hash": 3200783071,
+            "original": "~r~You scared all the hookers away.",
+            "translated": "~r~你把所有妓女都吓跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 3202730153,
+            "original": "~s~That is not the politician.",
+            "translated": "~s~那不是那个政治家。",
+            "desc": ""
+        },
+        {
+            "hash": 3289162983,
+            "original": "~s~Lose the cops before you go near the hookers.",
+            "translated": "~s~接近妓女之前甩掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 3714812536,
+            "original": "~s~Go to the ~y~alley~s~ near the red light district.",
+            "translated": "~s~前往红灯区附近的~y~小巷。",
+            "desc": ""
+        },
+        {
+            "hash": 3801328997,
+            "original": "~r~You injured the politician.",
+            "translated": "~r~你伤害了那个政治家。",
+            "desc": ""
+        },
+        {
+            "hash": 4240907899,
+            "original": "~s~Phone Ho'",
+            "translated": "~s~今晚找小姐",
+            "desc": ""
+        }
+    ]
+}

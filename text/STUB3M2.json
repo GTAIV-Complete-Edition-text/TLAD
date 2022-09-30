@@ -1,0 +1,136 @@
+{
+    "STUB3M2": [
+        {
+            "hash": 521143874,
+            "original": "~r~You trashed the car.",
+            "translated": "~r~你把车撞坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 546579874,
+            "original": "Meet the ~b~contact ~s~by 0~1~:~1~.",
+            "translated": "在0~1~:~1~之前去见~b~联络人。",
+            "desc": ""
+        },
+        {
+            "hash": 876236985,
+            "original": "~s~Take out the ~r~contact.~s~",
+            "translated": "~s~干掉~r~联络人。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1013323895,
+            "original": "~s~The ~r~contact~s~ is getting away.",
+            "translated": "~r~联络人~s~就要跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 1295941366,
+            "original": "Meet the ~b~contact ~s~by ~1~:0~1~.",
+            "translated": "在~1~:0~1~之前去见~b~联络人。",
+            "desc": ""
+        },
+        {
+            "hash": 1444115174,
+            "original": "~r~You hurt the contact.",
+            "translated": "~r~你伤害了联络人。",
+            "desc": ""
+        },
+        {
+            "hash": 1498651864,
+            "original": "You have until 00:0~1~.",
+            "translated": "你必须在00:0~1~之前赶到。",
+            "desc": ""
+        },
+        {
+            "hash": 1730361463,
+            "original": "You have until 00:~1~.",
+            "translated": "你必须在00:~1~之前赶到。",
+            "desc": ""
+        },
+        {
+            "hash": 2565570529,
+            "original": "~s~Communication Breakdown",
+            "translated": "~s~话不投机",
+            "desc": ""
+        },
+        {
+            "hash": 2579767570,
+            "original": "~r~You ran out of time.",
+            "translated": "~r~你超时了。",
+            "desc": ""
+        },
+        {
+            "hash": 2594937239,
+            "original": "Meet the ~b~contact ~s~by ~1~:~1~.",
+            "translated": "在~1~:~1~之前去见~b~联络人。",
+            "desc": ""
+        },
+        {
+            "hash": 2861776734,
+            "original": "You have until ~1~:~1~.",
+            "translated": "你必须在~1~:~1~之前赶到。",
+            "desc": ""
+        },
+        {
+            "hash": 2868132392,
+            "original": "Meet the ~b~contact ~s~by 0~1~:0~1~.",
+            "translated": "在0~1~:0~1~之前去见~b~联络人。",
+            "desc": ""
+        },
+        {
+            "hash": 2926823199,
+            "original": "You have until 0~1~:~1~.",
+            "translated": "你必须在0~1~:~1~之前赶到。",
+            "desc": ""
+        },
+        {
+            "hash": 3099797311,
+            "original": "~s~You have ~1~ minutes left to meet the contact.",
+            "translated": "~s~你还剩下~1~分钟去见联络人。",
+            "desc": ""
+        },
+        {
+            "hash": 3168035808,
+            "original": "You have until ~1~:0~1~.",
+            "translated": "你必须在~1~:0~1~之前赶到。",
+            "desc": ""
+        },
+        {
+            "hash": 3169069520,
+            "original": "~r~The contact got away.",
+            "translated": "~r~联络人逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 3482780525,
+            "original": "Meet the ~b~contact ~s~by 00:~1~.",
+            "translated": "在00:~1~之前去见~b~联络人。",
+            "desc": ""
+        },
+        {
+            "hash": 4147613959,
+            "original": "~s~Lose the cops.",
+            "translated": "~s~甩掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 4149696741,
+            "original": "You have until 0~1~:0~1~.",
+            "translated": "你必须在0~1~:0~1~之前赶到。",
+            "desc": ""
+        },
+        {
+            "hash": 4258943584,
+            "original": "~r~You spooked the contact.",
+            "translated": "~r~你惊动了联络人。",
+            "desc": ""
+        },
+        {
+            "hash": 4274774486,
+            "original": "Meet the ~b~contact ~s~by 00:0~1~.",
+            "translated": "在00:0~1~之前去见~b~联络人。",
+            "desc": ""
+        }
+    ]
+}

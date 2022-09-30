@@ -1,0 +1,82 @@
+{
+    "STUBBS1": [
+        {
+            "hash": 195114728,
+            "original": "Get the uniform in the ~b~car~s~ to pass by security.",
+            "translated": "用~b~车~s~上的制服骗过警卫。",
+            "desc": ""
+        },
+        {
+            "hash": 287413087,
+            "original": "~s~ You can phone Stubbs for assistance at a price.",
+            "translated": "~s~你可以打电话给Stubbs以一定价格获得支援。",
+            "desc": ""
+        },
+        {
+            "hash": 1113597029,
+            "original": "You have the uniform to pass by security. Go to the ~y~runway.~s~",
+            "translated": "你的伪装足以骗过警卫。前往~y~跑道。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1352057042,
+            "original": "The target is dead and you are locked inside the airport. Get to the ~y~opened gate.~s~",
+            "translated": "目标已死亡，你现在被困机场。前往~y~打开的大门。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1723526426,
+            "original": "The chopper is landing. Find a way to take out the ~r~target.~s~",
+            "translated": "直升机正在降落。设法解决~r~目标。",
+            "desc": ""
+        },
+        {
+            "hash": 1959168313,
+            "original": "The convoy is on the move. Take out the ~r~target.~s~",
+            "translated": "车队正在行进。解决~r~目标。",
+            "desc": ""
+        },
+        {
+            "hash": 2250721128,
+            "original": "You can buy weapons, armor and ammo at the gun shops.",
+            "translated": "你可以在枪店购买武器、子弹和防弹衣。",
+            "desc": ""
+        },
+        {
+            "hash": 3082320463,
+            "original": "The target is dead. Lose the cops.",
+            "translated": "目标已死亡。甩掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 3173868728,
+            "original": "The ~r~target~s~ is fleeing. Don't let him get away.",
+            "translated": "~r~目标~s~正在逃跑，别让他跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 3355859399,
+            "original": "Lose the cops.",
+            "translated": "甩掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 3478682186,
+            "original": "You now have the luggage porter clothes and can obtain access into the airport. Take out the ~r~target.~s~",
+            "translated": "你获得了行李搬运工的衣服，能够进入机场了。解决~r~目标。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3765888529,
+            "original": "~r~The target got away. ~s~",
+            "translated": "~r~目标逃走了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4109830548,
+            "original": "Get to the ~y~airport runway~s~ by ~1~:~1~.",
+            "translated": "在~1~:~1~之前到达~y~机场跑道。",
+            "desc": ""
+        }
+    ]
+}

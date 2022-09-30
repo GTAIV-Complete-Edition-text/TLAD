@@ -1,0 +1,52 @@
+{
+    "SKATE": [
+        {
+            "hash": 1723782349,
+            "original": "You must reach up and get in the zone for a pass.",
+            "translated": "你必须前进，进入区域内来通过。",
+            "desc": ""
+        },
+        {
+            "hash": 1977499632,
+            "original": "You must hit both sides of the ramp for a pass.",
+            "translated": "你必须命中斜坡的两边才能通过。",
+            "desc": ""
+        },
+        {
+            "hash": 2078880271,
+            "original": "~s~Press ~PAD_LB~ for skate park tutorial.",
+            "translated": "~s~按~PAD_LB~来观看溜冰场教程。",
+            "desc": ""
+        },
+        {
+            "hash": 2229020447,
+            "original": "~s~Drive though the coronas in the sky.~n~Land and stop on coronas close to the ground.",
+            "translated": "~s~骑车穿过空中的圆圈。~n~着陆并停在靠近地面的圈内。",
+            "desc": ""
+        },
+        {
+            "hash": 3135685201,
+            "original": "You must land and stop on the blue box for a pass.",
+            "translated": "你必须着陆并停在蓝框内来通过。",
+            "desc": ""
+        },
+        {
+            "hash": 3453574081,
+            "original": "~s~You got it!",
+            "translated": "~s~你做到了！",
+            "desc": ""
+        },
+        {
+            "hash": 3813655893,
+            "original": "~s~Well done! All Completed",
+            "translated": "~s~干得好！所有都已完成。",
+            "desc": ""
+        },
+        {
+            "hash": 4284620966,
+            "original": "~r~You broke the bike.",
+            "translated": "~r~你弄坏了摩托车。",
+            "desc": ""
+        }
+    ]
+}

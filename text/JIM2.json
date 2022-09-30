@@ -1,0 +1,232 @@
+{
+    "JIM2": [
+        {
+            "hash": 97693505,
+            "original": "~r~You've lost the cops.",
+            "translated": "~r~条子跟丢你了。",
+            "desc": ""
+        },
+        {
+            "hash": 267993450,
+            "original": "Use ~INPUT_VEH_CIN_CAM~ to stay in the bent cops sight.",
+            "translated": "按~INPUT_VEH_CIN_CAM~切换至警察视角。",
+            "desc": ""
+        },
+        {
+            "hash": 361005627,
+            "original": "Take Jim back to the ~y~clubhouse.",
+            "translated": "带Jim回~y~会所。",
+            "desc": ""
+        },
+        {
+            "hash": 421615082,
+            "original": "~r~The cops are on to you.",
+            "translated": "~r~条子盯上你了。",
+            "desc": ""
+        },
+        {
+            "hash": 445189412,
+            "original": "~s~Leave the area.",
+            "translated": "~s~离开这一带。",
+            "desc": ""
+        },
+        {
+            "hash": 557803034,
+            "original": "~r~Jim's bike was wrecked.",
+            "translated": "~r~Jim的摩托坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 564589427,
+            "original": "~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of zoom.",
+            "translated": "~s~瞄准时用~PAD_RSTICK_NONE~切换缩放倍率。",
+            "desc": ""
+        },
+        {
+            "hash": 609994268,
+            "original": "~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ when aiming to switch between differing levels of zoom.",
+            "translated": "~s~瞄准时用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~切换缩放倍率。",
+            "desc": ""
+        },
+        {
+            "hash": 651323211,
+            "original": "~s~Get back on the ~b~bike.",
+            "translated": "~s~回到~b~摩托~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 652210535,
+            "original": "~r~You failed to lure the cops to the ambush.",
+            "translated": "~r~你没能将条子引入埋伏圈。",
+            "desc": ""
+        },
+        {
+            "hash": 707603340,
+            "original": "You are too far from the ~r~bent cops, ~s~they need to follow you.",
+            "translated": "你离~r~黑警~s~太远了，得让他们跟着你。",
+            "desc": ""
+        },
+        {
+            "hash": 868092707,
+            "original": "~r~Jim has been injured.",
+            "translated": "~r~Jim受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 1129864674,
+            "original": "You are too far from ~b~Jim, ~s~catch up to him.",
+            "translated": "你离~b~Jim~s~太远了，跟上他。",
+            "desc": ""
+        },
+        {
+            "hash": 1154670807,
+            "original": "Race Jim to the ~y~cops.",
+            "translated": "与Jim比赛谁先到达~y~条子所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 1233335981,
+            "original": "~r~The cops weren't taken out at the ambush.",
+            "translated": "~r~没能在伏击中干掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 1253222600,
+            "original": "~r~McCornish~s~ is calling for backup.",
+            "translated": "~r~McCornish~s~正在呼叫支援。",
+            "desc": ""
+        },
+        {
+            "hash": 1410388794,
+            "original": "Wait for ~b~Jim~s~ to catch up.",
+            "translated": "等待~b~Jim~s~赶上。",
+            "desc": ""
+        },
+        {
+            "hash": 1426850345,
+            "original": "Lose the cops.",
+            "translated": "甩掉条子。",
+            "desc": ""
+        },
+        {
+            "hash": 1739368298,
+            "original": "~s~Go and speak to ~b~Jim.",
+            "translated": "~s~和~b~Jim~s~交谈。",
+            "desc": ""
+        },
+        {
+            "hash": 1814769543,
+            "original": "Get back on your ~b~bike.",
+            "translated": "回到你的~b~摩托~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1987003631,
+            "original": "~s~Wait for ~b~Jim.",
+            "translated": "~s~等待~b~Jim。",
+            "desc": ""
+        },
+        {
+            "hash": 2045889300,
+            "original": "Follow ~b~Jim~s~ to the cops' location.",
+            "translated": "跟随~b~Jim~s~前往条子所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 2057179902,
+            "original": "~s~This is the ambush point and your brothers are here to help.",
+            "translated": "~s~这里是伏击地点，你的弟兄们会在这儿帮你。",
+            "desc": ""
+        },
+        {
+            "hash": 2299947357,
+            "original": "Take out the ~r~bent cops.",
+            "translated": "干掉~r~黑警。",
+            "desc": ""
+        },
+        {
+            "hash": 2351936096,
+            "original": "~r~You abandoned your buddies.",
+            "translated": "~r~你抛弃了你的弟兄。",
+            "desc": ""
+        },
+        {
+            "hash": 2603768330,
+            "original": "~r~The cops are unable to follow you. You couldn't take them out in the open.",
+            "translated": "~r~条子无法跟着你。你不能在光天化日之下干掉他们。",
+            "desc": ""
+        },
+        {
+            "hash": 2659980592,
+            "original": "They called for ~r~reinforcements.",
+            "translated": "他们呼叫了~r~增援。",
+            "desc": ""
+        },
+        {
+            "hash": 3043067083,
+            "original": "~r~You abandoned Jim.",
+            "translated": "~r~你抛弃了Jim。",
+            "desc": ""
+        },
+        {
+            "hash": 3201127630,
+            "original": "One of the cops is trying to call for help.",
+            "translated": "其中一个条子正准备呼叫支援。",
+            "desc": ""
+        },
+        {
+            "hash": 3286884331,
+            "original": "You have left ~b~Jim~s~ behind, go back for him.",
+            "translated": "你把~b~Jim~s~落下了，回去找他。",
+            "desc": ""
+        },
+        {
+            "hash": 3527919668,
+            "original": "~r~Your bike was wrecked.",
+            "translated": "~r~你的摩托坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 3605446958,
+            "original": "~r~Matthews~s~ is calling for backup.",
+            "translated": "~r~Matthews~s~正在呼叫支援。",
+            "desc": ""
+        },
+        {
+            "hash": 3670429588,
+            "original": "~r~You wrecked your bike.",
+            "translated": "~r~你弄坏了你的摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 3752766695,
+            "original": "Wait for ~b~Jim~s~ to catch up.",
+            "translated": "等待~b~Jim~s~赶上。",
+            "desc": ""
+        },
+        {
+            "hash": 3824033555,
+            "original": "Lure the bent cops to the ~y~ambush.",
+            "translated": "将黑警引入~y~埋伏圈。",
+            "desc": ""
+        },
+        {
+            "hash": 3900269651,
+            "original": "Johnny has to go with Jim to lure some undercover cops who have been hassling ~n~the Lost clubhouse into an area where they can take them out.",
+            "translated": "Johnny得和Jim一起将骚扰~n~Lost会所的便衣警察引诱到一个可以干掉他们的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 3900762889,
+            "original": "~r~You abandoned your bike.",
+            "translated": "~r~你抛弃了你的摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 4018242207,
+            "original": "~r~You've lost Jim.",
+            "translated": "~r~你丢下了Jim。",
+            "desc": ""
+        }
+    ]
+}

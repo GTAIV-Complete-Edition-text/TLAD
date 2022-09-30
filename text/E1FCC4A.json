@@ -1,0 +1,808 @@
+{
+    "E1FCC4A": [
+        {
+            "hash": 11669241,
+            "original": "~z~Clay, I know you take your Road Captaining responsibilities real serious so can you bring me a Slam Van?",
+            "translated": "~z~Clay，我知道你是个尽职尽责的行车长，所以你可以给我送一辆Slam Van吗？",
+            "desc": ""
+        },
+        {
+            "hash": 40995729,
+            "original": "~z~Clay, man, I really need a bike. Can you help me out?",
+            "translated": "~z~Clay，哥们，我真的很需要一辆摩托。你能帮帮我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 41584541,
+            "original": "~z~I'm a coming, brother. You just wait there.",
+            "translated": "~z~我来了兄弟，你等着就行。",
+            "desc": ""
+        },
+        {
+            "hash": 148738560,
+            "original": "E1FCC4_ACT_E1C_GETCALL_SPEC_THANKSA",
+            "translated": "E1FCC4_ACT_E1C_GETCALL_SPEC_THANKSA",
+            "desc": ""
+        },
+        {
+            "hash": 149285510,
+            "original": "~z~Yeah, we'll come, man. Just don't get us killed, alright?",
+            "translated": "~z~好的，咱们来了，哥们。你可别是叫弟兄们来送死啊？",
+            "desc": ""
+        },
+        {
+            "hash": 180364053,
+            "original": "~z~Clayton, dude, how bout bringing a Slam Van out to me?",
+            "translated": "~z~Clayton，老兄，帮我送一辆Slam Van行吗？",
+            "desc": ""
+        },
+        {
+            "hash": 242436455,
+            "original": "~z~Clayton, I'd like to have a ride on a Lycan. Is that cool with you?",
+            "translated": "~z~Clayton，我想骑一骑Lycan。你能弄一辆吗？",
+            "desc": ""
+        },
+        {
+            "hash": 255139174,
+            "original": "~z~Hey there, Road Captain. I wanna try some of that Jap Scrap. Can you bring me a Hakuchou?",
+            "translated": "~z~嘿，行车长。我想开开日本车。你能给我送辆Hakuchou吗？",
+            "desc": ""
+        },
+        {
+            "hash": 294761685,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 301399200,
+            "original": "~z~On our way, man.",
+            "translated": "~z~我们来了，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 347932881,
+            "original": "E1FCC4_ACT_E1C_CALL_REQ_SPEC_ZOMBIEA",
+            "translated": "E1FCC4_ACT_E1C_CALL_REQ_SPEC_ZOMBIEA",
+            "desc": ""
+        },
+        {
+            "hash": 362251241,
+            "original": "~z~Anything for the Chapter President, man.",
+            "translated": "~z~一切听分会会长指挥，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 410736070,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 512488371,
+            "original": "E1FCC4_ACT_E1C_CALL_REQ_SPEC_INNOVATIONA",
+            "translated": "E1FCC4_ACT_E1C_CALL_REQ_SPEC_INNOVATIONA",
+            "desc": ""
+        },
+        {
+            "hash": 516612161,
+            "original": "~z~Brothers for life, man.",
+            "translated": "~z~生死兄弟啊，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 608618709,
+            "original": "~z~Shit, dude, I'm sorry. I can't help you right now. I might be able to source something in a little while though.",
+            "translated": "~z~妈的，老兄，真抱歉。我现在帮不了你。过段时间我可能能弄到几辆。",
+            "desc": ""
+        },
+        {
+            "hash": 653546646,
+            "original": "~z~Clayton! Man, can you bring me some vehicular assistance?",
+            "translated": "~z~Clayton！哥们，你能给我支援一辆车吗？",
+            "desc": ""
+        },
+        {
+            "hash": 723001835,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 819664591,
+            "original": "~z~Okay, man. I'll remember this shit when you next go O.T.B.",
+            "translated": "~z~好吧，哥们。下次你摔个狗啃泥的时候我会记着这事的。",
+            "desc": ""
+        },
+        {
+            "hash": 826980156,
+            "original": "E1FCC4_ACT_E1C_CALL_REQ_SPEC_HELLFURYA",
+            "translated": "E1FCC4_ACT_E1C_CALL_REQ_SPEC_HELLFURYA",
+            "desc": ""
+        },
+        {
+            "hash": 835542721,
+            "original": "~z~Clayton, I could do with you and Terry's company.",
+            "translated": "~z~Clayton，我要你和Terry过来。",
+            "desc": ""
+        },
+        {
+            "hash": 835788658,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 847857478,
+            "original": "~z~Clay, man, can you bring me a Revenant?",
+            "translated": "~z~Clay，哥们，你能给我送辆Revenant吗？",
+            "desc": ""
+        },
+        {
+            "hash": 870984099,
+            "original": "~z~So much for brotherhood, man. Thanks.",
+            "translated": "~z~这就是兄弟情吗，哥们。谢了。",
+            "desc": ""
+        },
+        {
+            "hash": 880759434,
+            "original": "E1FCC4_ACT_E1C_GETCALL_HOSP_NOA",
+            "translated": "E1FCC4_ACT_E1C_GETCALL_HOSP_NOA",
+            "desc": ""
+        },
+        {
+            "hash": 885452859,
+            "original": "~z~You're the best fucking Road Captain this club's seen, man. Can you bring me some wheels, dude?",
+            "translated": "~z~你真他妈是帮里最牛逼的行车长，哥们。能给我送辆车吗，老兄？",
+            "desc": ""
+        },
+        {
+            "hash": 982119771,
+            "original": "~z~You know I'd love nothing more than to ride over to you and be left on the side of the road, but I can't help you at this second.",
+            "translated": "~z~你也知道我最喜欢骑车送给你然后被晾在路边了，但我现在真的帮不了你。",
+            "desc": ""
+        },
+        {
+            "hash": 983177671,
+            "original": "~z~Listen Clayton, I'm in dire need of a Diabolus. Can you assist a brother?",
+            "translated": "~z~听着，Clayton，我急需一辆Diabolus。你能帮兄弟一把吗？",
+            "desc": ""
+        },
+        {
+            "hash": 986904653,
+            "original": "~z~Okay dokey, brother. On my way.",
+            "translated": "~z~好的，兄弟。我来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1020275908,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1070400171,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1081200482,
+            "original": "E1FCC4_ACT_CALL_REQ_SPEC_YESA",
+            "translated": "E1FCC4_ACT_CALL_REQ_SPEC_YESA",
+            "desc": ""
+        },
+        {
+            "hash": 1115549891,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1126308141,
+            "original": "~z~Hey man, can my Road Captain bring me a Hellfury?",
+            "translated": "~z~嘿哥们，咱的行车长能不能送辆Hellfury过来？",
+            "desc": ""
+        },
+        {
+            "hash": 1139474206,
+            "original": "E1FCC4_ACT_CALL_HOSP_CANCEL_HILIKEA",
+            "translated": "E1FCC4_ACT_CALL_HOSP_CANCEL_HILIKEA",
+            "desc": ""
+        },
+        {
+            "hash": 1151830362,
+            "original": "E1FCC4_ACT_GETCALL_HOSP_REJ_HILIKEA",
+            "translated": "E1FCC4_ACT_GETCALL_HOSP_REJ_HILIKEA",
+            "desc": ""
+        },
+        {
+            "hash": 1173726156,
+            "original": "~z~Clay, man, can you get me a Bati 800, man?",
+            "translated": "~z~Clay，哥们，能给我弄一辆Bati 800吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1258884862,
+            "original": "~z~Hey dude, can you find a Hexer for me to ride on?",
+            "translated": "~z~嘿老兄，你能帮我弄辆Hexer骑吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1262693376,
+            "original": "~z~Clayton, I'm sorry but something came up. I can't come to the hospital.",
+            "translated": "~z~Clayton，我很抱歉，突然有点事，我来不了医院了。",
+            "desc": ""
+        },
+        {
+            "hash": 1282653562,
+            "original": "~z~My man, Clay, you got a Diabolus in that garage of yours? I'd sure like to ride one.",
+            "translated": "~z~好哥们，Clay，你车库里有Diabolus吗？我需要一辆来骑。",
+            "desc": ""
+        },
+        {
+            "hash": 1284600284,
+            "original": "~z~Sounds like you looking for trouble, Johnny. We'll be there.",
+            "translated": "~z~听起来你遇到麻烦了，Johnny。咱们来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1312355713,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1321429609,
+            "original": "E1FCC4_ACT_CALL_HOSP_CANCEL_LOLIKEA",
+            "translated": "E1FCC4_ACT_CALL_HOSP_CANCEL_LOLIKEA",
+            "desc": ""
+        },
+        {
+            "hash": 1381078298,
+            "original": "E1FCC4_ACT_CALL_REQ_BACKUP_YESA",
+            "translated": "E1FCC4_ACT_CALL_REQ_BACKUP_YESA",
+            "desc": ""
+        },
+        {
+            "hash": 1432010142,
+            "original": "~z~Clayton, man. If you got the time I'd really like you to bring me a Hellfury.",
+            "translated": "~z~Clayton，哥们。要是你有空的话，我希望你能给我送辆Hellfury。",
+            "desc": ""
+        },
+        {
+            "hash": 1486173920,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1490274696,
+            "original": "~z~Road Captain. I'm in need of a Bati 800. Can you accommodate?",
+            "translated": "~z~行车长，我需要一辆Bati 800。你能弄到吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1528832449,
+            "original": "~z~Johnny, man, I was thinking. I should probably bring you a bike if you ever need one. Just gimme a call.",
+            "translated": "~z~Johnny，好哥们。我正在想，要是你需要车的话，我可以给你整一辆。给我打电话就行。",
+            "desc": ""
+        },
+        {
+            "hash": 1567003235,
+            "original": "~z~Jonathan, the meat mechanics are letting me out. Will you come get me?",
+            "translated": "~z~Jonathan，血肉机械师让我出院了。你能来接我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1586033194,
+            "original": "~z~Real sympathetic individual you are, John.",
+            "translated": "~z~你真是个有同情心的人，John。",
+            "desc": ""
+        },
+        {
+            "hash": 1589487286,
+            "original": "E1FCC4_ACT_E1C_CALL_HOSP_CANCELA",
+            "translated": "E1FCC4_ACT_E1C_CALL_HOSP_CANCELA",
+            "desc": ""
+        },
+        {
+            "hash": 1655885655,
+            "original": "E1FCC4_ACT_GETCALL_HOSP_ACCEPTEDA",
+            "translated": "E1FCC4_ACT_GETCALL_HOSP_ACCEPTEDA",
+            "desc": ""
+        },
+        {
+            "hash": 1656988105,
+            "original": "E1FCC4_ACT_CALL_REQ_HACK",
+            "translated": "E1FCC4_ACT_CALL_REQ_HACK",
+            "desc": ""
+        },
+        {
+            "hash": 1681772205,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1688912137,
+            "original": "~z~You lucky these nurses are hot, you one way son of a bitch. Later on.",
+            "translated": "~z~这些护士都很性感，算你这臭逼走运。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 1728268592,
+            "original": "~z~Clay, man, let's ride in a pack. Get Terry and come meet me.",
+            "translated": "~z~Clay，哥们。咱们组团出去吧。叫上Terry来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 1733735865,
+            "original": "E1FCC4_ACT_GETCALL_HOSP_ASKA",
+            "translated": "E1FCC4_ACT_GETCALL_HOSP_ASKA",
+            "desc": ""
+        },
+        {
+            "hash": 1766078291,
+            "original": "E1FCC4_ACT_CALL_REQ_BACKUP_NOA",
+            "translated": "E1FCC4_ACT_CALL_REQ_BACKUP_NOA",
+            "desc": ""
+        },
+        {
+            "hash": 1839631167,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1921291432,
+            "original": "~z~Sorry, man. You gonna have to handle anything that comes along by yourself.",
+            "translated": "~z~对不起，哥们。待会儿遇到什么你都得自己解决了。",
+            "desc": ""
+        },
+        {
+            "hash": 1948535445,
+            "original": "~z~Clay, man, can you bring me an Innovation bike?",
+            "translated": "~z~Clay，哥们。能给我送辆Innovation吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1958831276,
+            "original": "~z~Dude, where you at? Can you get Terry and come and meet me?",
+            "translated": "~z~老兄，你在哪呢？能叫上Terry来找我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2005644741,
+            "original": "E1FCC4_ACT_CALL_HOSP_CANCEL_MEDLIKEA",
+            "translated": "E1FCC4_ACT_CALL_HOSP_CANCEL_MEDLIKEA",
+            "desc": ""
+        },
+        {
+            "hash": 2009577599,
+            "original": "~z~Okay, man. I'll be out soon.",
+            "translated": "~z~好的，哥们。我马上过来。",
+            "desc": ""
+        },
+        {
+            "hash": 2014578698,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2099430646,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2111210875,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2178823003,
+            "original": "~z~Shit, man, you gonna have to handle it yourself. We're busy as hell.",
+            "translated": "~z~妈的，哥们，只能你自己解决了，我俩忙死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2184133264,
+            "original": "E1FCC4_ACT_E1C_CALL_REQ_SPEC_HEXERA",
+            "translated": "E1FCC4_ACT_E1C_CALL_REQ_SPEC_HEXERA",
+            "desc": ""
+        },
+        {
+            "hash": 2203390270,
+            "original": "E1FCC4_ACT_CALL_REQ_BATI",
+            "translated": "E1FCC4_ACT_CALL_REQ_BATI",
+            "desc": ""
+        },
+        {
+            "hash": 2300332441,
+            "original": "E1FCC4_ACT_E1C_CALL_REQ_BACKUPA",
+            "translated": "E1FCC4_ACT_E1C_CALL_REQ_BACKUPA",
+            "desc": ""
+        },
+        {
+            "hash": 2325614693,
+            "original": "~z~Clayton. How bout you and Terrence come and keep me company?",
+            "translated": "~z~Clayton，你和Terrence能过来陪着我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2338156403,
+            "original": "~z~Okay, man, we'll be with you soon.",
+            "translated": "~z~好的，哥们。我们很快就到。",
+            "desc": ""
+        },
+        {
+            "hash": 2448565151,
+            "original": "~z~Clay, I'm thinking I'd look baddass on a Zombie B. How bout you bring me one?",
+            "translated": "~z~Clay，我在想我骑上Zombie B会不会很拉风。能给我整一辆吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2522174173,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2529713455,
+            "original": "~z~Can't help you right now, man. We're tied up in our own shit.",
+            "translated": "~z~现在帮不了你，哥们。我们自己都忙不开。",
+            "desc": ""
+        },
+        {
+            "hash": 2540875563,
+            "original": "~z~What kind of Road Captain am I? I can't even help you right now. Sorry, bro.",
+            "translated": "~z~我现在连你都帮不了，算啥行车长？对不起，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2548887975,
+            "original": "~z~Glad you got my back, brother. Enjoy the important shit you got on.",
+            "translated": "~z~谢谢你挺我啊，兄弟。你忙你的要紧事去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2659304518,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2661592556,
+            "original": "E1FCC4_ACT_E1C_GETCALL_HOSP_YESA",
+            "translated": "E1FCC4_ACT_E1C_GETCALL_HOSP_YESA",
+            "desc": ""
+        },
+        {
+            "hash": 2691817761,
+            "original": "E1FCC4_ACT_GETCALL_HOSP_REJ_LOLIKEA",
+            "translated": "E1FCC4_ACT_GETCALL_HOSP_REJ_LOLIKEA",
+            "desc": ""
+        },
+        {
+            "hash": 2694983087,
+            "original": "E1FCC4_ACT_GETCALL_SPECA",
+            "translated": "E1FCC4_ACT_GETCALL_SPECA",
+            "desc": ""
+        },
+        {
+            "hash": 2695006772,
+            "original": "~z~Okay, man, okay. I'm bringing it to you.",
+            "translated": "~z~好的，哥们，好的。我送来给你。",
+            "desc": ""
+        },
+        {
+            "hash": 2716320650,
+            "original": "~z~Yo amigo, have you got a Zombie B to hand? I'd really like one of them bikes.",
+            "translated": "~z~哟，朋友，你手头有Zombie B吗？我很想整一辆来骑。",
+            "desc": ""
+        },
+        {
+            "hash": 2768304544,
+            "original": "~z~Shit, man. I'm sorry. We're kind of busy.",
+            "translated": "~z~妈的，哥们。抱歉了，我俩现在有点忙。",
+            "desc": ""
+        },
+        {
+            "hash": 2780056494,
+            "original": "~z~I hate to disappoint a man as desperate as you, but you're gonna have to jack your own bike.",
+            "translated": "~z~我不想再给你浇一盆凉水，但你要的车得自己去抢了。",
+            "desc": ""
+        },
+        {
+            "hash": 2829330653,
+            "original": "~z~Johnny K. They stitched me up, man. I need a ride.",
+            "translated": "~z~Johnny K，我出院了，哥们。需要人来接。",
+            "desc": ""
+        },
+        {
+            "hash": 2850124176,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2906706796,
+            "original": "~z~Clay, my brother, do you reckon you could equip me with a Hexer, maybe?",
+            "translated": "~z~Clay，好兄弟，能不能给我整辆Hexer过来？",
+            "desc": ""
+        },
+        {
+            "hash": 2919335499,
+            "original": "~z~Shit, Johnny. Now I got to use more of my damn minutes on a call to Terry. Goodbye.",
+            "translated": "~z~妈的，Johnny。现在我他妈又得花点时间给Terry打电话了。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 2948258462,
+            "original": "~z~Amigo. It'd feel good to have you and Terry by my side right now.",
+            "translated": "~z~朋友，要是现在你和Terry能在我旁边的话就很舒服了。",
+            "desc": ""
+        },
+        {
+            "hash": 3011942590,
+            "original": "E1FCC4_ACT_E1C_CALL_REQ_SPEC_DIABOLUSA",
+            "translated": "E1FCC4_ACT_E1C_CALL_REQ_SPEC_DIABOLUSA",
+            "desc": ""
+        },
+        {
+            "hash": 3034853052,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3070474259,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3091973308,
+            "original": "E1FCC4_ACT_E1C_CALL_REQ_SPEC_LYCANA",
+            "translated": "E1FCC4_ACT_E1C_CALL_REQ_SPEC_LYCANA",
+            "desc": ""
+        },
+        {
+            "hash": 3112908914,
+            "original": "~z~Clayton, man, I'm sorry. You best call one of the others. This brother's busy.",
+            "translated": "~z~Clayton，哥们，真抱歉。你还是找别人吧，兄弟我很忙。",
+            "desc": ""
+        },
+        {
+            "hash": 3171828491,
+            "original": "~z~Shit, Johnny, you sure are demanding. I'm on my way.",
+            "translated": "~z~妈的，Johnny，你要求真多啊。我在路上了。",
+            "desc": ""
+        },
+        {
+            "hash": 3194288114,
+            "original": "~z~Dude, can you and Terry get over to me? I'd like you here.",
+            "translated": "~z~老兄，你和Terry能来我这吗？我想你俩过来。",
+            "desc": ""
+        },
+        {
+            "hash": 3230143003,
+            "original": "~z~That's cool, man. I'll give Terry a call.",
+            "translated": "~z~好吧，哥们。我去问下Terry吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3374104717,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3410046099,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3414629821,
+            "original": "~z~Amigo, I'm in need of some transport. You couldn't assist, could ya?",
+            "translated": "~z~朋友，我需要辆车。你现在有空帮我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3415201016,
+            "original": "E1FCC4_ACT_E1C_CALL_REQ_SPEC_GENERALA",
+            "translated": "E1FCC4_ACT_E1C_CALL_REQ_SPEC_GENERALA",
+            "desc": ""
+        },
+        {
+            "hash": 3497731385,
+            "original": "~z~Clay brother, can you bring me over a Double? Thanks.",
+            "translated": "~z~Clay，好兄弟，能给我送辆Double吗？谢了。",
+            "desc": ""
+        },
+        {
+            "hash": 3574048055,
+            "original": "~z~Clay, man, you and Terry wanna ride with me?",
+            "translated": "~z~Clay，哥们，你和Terry想跟我一起骑车吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3596001088,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3597732045,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3612224177,
+            "original": "E1FCC4_ACT_E1C_CALL_REQ_SPEC_REVENANTA",
+            "translated": "E1FCC4_ACT_E1C_CALL_REQ_SPEC_REVENANTA",
+            "desc": ""
+        },
+        {
+            "hash": 3616247407,
+            "original": "~z~Okay, man. I'll make another call.",
+            "translated": "~z~好吧，哥们。我问下别人吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3663278567,
+            "original": "E1FCC4_ACT_E1C_CALL_REQ_SPEC_SLAMVANA",
+            "translated": "E1FCC4_ACT_E1C_CALL_REQ_SPEC_SLAMVANA",
+            "desc": ""
+        },
+        {
+            "hash": 3671293589,
+            "original": "~z~I sure do got one of those. I'll bring it out.",
+            "translated": "~z~这车我当然有。这就送过来。",
+            "desc": ""
+        },
+        {
+            "hash": 3730969983,
+            "original": "~z~When a brother needs backup, that's what he gets. Lost MC for life, man.",
+            "translated": "~z~兄弟有难，八方支援。失落帮万岁，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 3759325130,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3764690977,
+            "original": "~z~Sure, brother. I might just get a hot momma to come pick me up.",
+            "translated": "~z~好啊，兄弟。也许我应该找个辣妈来接我。",
+            "desc": ""
+        },
+        {
+            "hash": 3768993493,
+            "original": "E1FCC4_ACT_GETCALL_HOSP_REJ_MEDLIKEA",
+            "translated": "E1FCC4_ACT_GETCALL_HOSP_REJ_MEDLIKEA",
+            "desc": ""
+        },
+        {
+            "hash": 3790258779,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3809895583,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3830976011,
+            "original": "~z~You're going to have to call one of the others, Clay. I got something else to handle.",
+            "translated": "~z~你还是问问别人吧，Clay，我还有事情要忙。",
+            "desc": ""
+        },
+        {
+            "hash": 3843947726,
+            "original": "~z~Glad to see you taking your club responsibilities seriously. Thanks, brother.",
+            "translated": "~z~看到你勤勤恳恳地给帮里做事，我很高兴。谢了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3852739433,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3891743463,
+            "original": "E1FCC4_ACT_CALL_REQ_DOUBLE",
+            "translated": "E1FCC4_ACT_CALL_REQ_DOUBLE",
+            "desc": ""
+        },
+        {
+            "hash": 3901213751,
+            "original": "~z~Clay, man, I think it's wise for us to stay together. Can you round up Terrence and get over here?",
+            "translated": "~z~Clay，哥们。我觉得咱们最好待在一起。你能叫上Terrence再过来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3933106423,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4013799222,
+            "original": "~z~If the Chapter President wants backup, that's what he'll get.",
+            "translated": "~z~会长有难，八方支援。",
+            "desc": ""
+        },
+        {
+            "hash": 4030481099,
+            "original": "~z~Clayton, I'd like to ride an Innovation. Can that be arranged?",
+            "translated": "~z~Clayton，我想骑Innovation。能不能安排一下？",
+            "desc": ""
+        },
+        {
+            "hash": 4033950394,
+            "original": "E1FCC4_ACT_CALL_REQ_SPEC_NOA",
+            "translated": "E1FCC4_ACT_CALL_REQ_SPEC_NOA",
+            "desc": ""
+        },
+        {
+            "hash": 4112288997,
+            "original": "~z~Thanks, man.",
+            "translated": "~z~谢了，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 4164422043,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4179121245,
+            "original": "~z~Dude, how goes it? I'd really like a Revenant if you got time on your hands.",
+            "translated": "~z~老兄，最近怎样？如果你现在有空的话，我想要辆Revenant。",
+            "desc": ""
+        },
+        {
+            "hash": 4187433178,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4208294381,
+            "original": "~z~Alright Road Captain. I'd like you to get me a Double. Can you do it?",
+            "translated": "~z~好了行车长，我想要一辆Double。能办到不？",
+            "desc": ""
+        },
+        {
+            "hash": 4225442883,
+            "original": "~z~Road Captain Clay. Can you bring me a Lycan?",
+            "translated": "~z~行车长Clay，能不能给我送辆Lycan？",
+            "desc": ""
+        },
+        {
+            "hash": 4249581971,
+            "original": "~z~Hey brother. You got any rice rockets over there? Maybe a Hakuchou?",
+            "translated": "~z~嘿，兄弟。有没有亚洲小跑车？比如说Hakuchou？",
+            "desc": ""
+        },
+        {
+            "hash": 4292237407,
+            "original": "~z~You don't need to be no lone wolf biker, man. Me and Terry are coming.",
+            "translated": "~z~你不再是孤狼骑手了，哥们。我和Terry在路上了。",
+            "desc": ""
+        }
+    ]
+}

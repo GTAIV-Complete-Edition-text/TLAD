@@ -1,0 +1,1414 @@
+{
+    "E1BEA": [
+        {
+            "hash": 25298754,
+            "original": "~z~Don't fuck with the van, dude.",
+            "translated": "~z~别乱搞车子，老哥。",
+            "desc": ""
+        },
+        {
+            "hash": 44786799,
+            "original": "~z~Looky, looky here.",
+            "translated": "~z~瞧一瞧，看一看。",
+            "desc": ""
+        },
+        {
+            "hash": 70417350,
+            "original": "~z~Fuck. What is the hold up?",
+            "translated": "~z~操，磨蹭啥呢？",
+            "desc": ""
+        },
+        {
+            "hash": 103183818,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 152243721,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 170353269,
+            "original": "E1BE_A_BA",
+            "translated": "E1BE_A_BA",
+            "desc": ""
+        },
+        {
+            "hash": 185508441,
+            "original": "~z~Remember the days when you didn't have to suck down half the periodic table with your tobacco?",
+            "translated": "~z~还记得当年不用一口烟下去就是一张元素周期表的日子吗？",
+            "desc": ""
+        },
+        {
+            "hash": 212784822,
+            "original": "~z~These clothes are chafing me.",
+            "translated": "~z~这身衣服硌得我难受。",
+            "desc": ""
+        },
+        {
+            "hash": 260503343,
+            "original": "~z~Fuck me, man. I'm just trying to survive here.",
+            "translated": "~z~我操，哥们。我就想讨口饭吃。",
+            "desc": ""
+        },
+        {
+            "hash": 263273301,
+            "original": "E1BE_A_KA",
+            "translated": "E1BE_A_KA",
+            "desc": ""
+        },
+        {
+            "hash": 271675193,
+            "original": "~z~I'm rolling outta here, Johnny. Call me.",
+            "translated": "~z~我要走了，Johnny。电话聊。",
+            "desc": ""
+        },
+        {
+            "hash": 284295428,
+            "original": "~z~Feast your eyes on this.",
+            "translated": "~z~来大饱眼福吧。",
+            "desc": ""
+        },
+        {
+            "hash": 293586072,
+            "original": "~z~I reckon I'm better equipped here than our boys overseas. Fucking disgrace.",
+            "translated": "~z~咱们的装备比海外打仗的大兵还好。真他妈丢脸。",
+            "desc": ""
+        },
+        {
+            "hash": 327878960,
+            "original": "E1BE_VA",
+            "translated": "E1BE_VA",
+            "desc": ""
+        },
+        {
+            "hash": 334171594,
+            "original": "~z~The fucking Road Captain to the rescue!",
+            "translated": "~z~行车长就是靠得住啊！",
+            "desc": ""
+        },
+        {
+            "hash": 342490529,
+            "original": "~z~I can ride solo here on in. Thank you.",
+            "translated": "~z~我自己能打得过。谢了。",
+            "desc": ""
+        },
+        {
+            "hash": 387477053,
+            "original": "~z~We're gonna hold this position.",
+            "translated": "~z~咱们守住这个位置。",
+            "desc": ""
+        },
+        {
+            "hash": 387690029,
+            "original": "~z~So long, Johnny. Time for me and Clay made tracks.",
+            "translated": "~z~再见了，Johnny。我和Clay该走了。",
+            "desc": ""
+        },
+        {
+            "hash": 433603897,
+            "original": "~z~If our mommas could see us now.",
+            "translated": "~z~可惜咱们的老妈现在能不见我们。",
+            "desc": ""
+        },
+        {
+            "hash": 564242743,
+            "original": "~z~It better work! Ha ha ha. Thanks, Clay.",
+            "translated": "~z~希望没坏！哈哈。谢了，Clay。",
+            "desc": ""
+        },
+        {
+            "hash": 592073390,
+            "original": "~z~Clay, T.",
+            "translated": "~z~Clay，T。",
+            "desc": ""
+        },
+        {
+            "hash": 599895991,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 606817958,
+            "original": "E1BE_B_BA",
+            "translated": "E1BE_B_BA",
+            "desc": ""
+        },
+        {
+            "hash": 625887292,
+            "original": "~z~Hey, man. I'm outta here. Later.",
+            "translated": "~z~嘿，哥们。我走了。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 654691387,
+            "original": "~z~Man, Terry, that shit is fucked up",
+            "translated": "~z~天啊，Terry，全他妈完了。",
+            "desc": ""
+        },
+        {
+            "hash": 656240769,
+            "original": "E1BE_A_MA",
+            "translated": "E1BE_A_MA",
+            "desc": ""
+        },
+        {
+            "hash": 659491814,
+            "original": "~z~This sure beats my other plans.",
+            "translated": "~z~这可是头等大事。",
+            "desc": ""
+        },
+        {
+            "hash": 667838779,
+            "original": "E1BE_A_EA",
+            "translated": "E1BE_A_EA",
+            "desc": ""
+        },
+        {
+            "hash": 693408437,
+            "original": "~z~We're holding down here, man.",
+            "translated": "~z~把这里守住，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 732511748,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 735030380,
+            "original": "~z~You're starting to cramp my style. Thanks for the help.",
+            "translated": "~z~感谢帮忙，但你们影响我发挥了。",
+            "desc": ""
+        },
+        {
+            "hash": 793894095,
+            "original": "~z~Oh, man. Terry!",
+            "translated": "~z~噢，天啊。Terry！",
+            "desc": ""
+        },
+        {
+            "hash": 836051949,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 861255029,
+            "original": "~z~I've got to bid you adieu, my brother. Later on.",
+            "translated": "~z~再见了，好兄弟。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 872674565,
+            "original": "~z~Ahh, Clay, shit. We'll get these fuckers for you.",
+            "translated": "~z~啊，Clay，妈的。兄弟们替你报仇。",
+            "desc": ""
+        },
+        {
+            "hash": 889517603,
+            "original": "~z~Boys",
+            "translated": "~z~伙计们。",
+            "desc": ""
+        },
+        {
+            "hash": 894986464,
+            "original": "~z~Terry, man. Shit",
+            "translated": "~z~Terry，天啊。妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 904213796,
+            "original": "~z~Hold this position, okay?",
+            "translated": "~z~守住这个位置，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 914673365,
+            "original": "~z~Terrence, man?",
+            "translated": "~z~Terrence，哥们？",
+            "desc": ""
+        },
+        {
+            "hash": 933489895,
+            "original": "~z~Yo, man. I got to go. Have fun.",
+            "translated": "~z~哟，哥们。我要走了。祝你玩得开心。",
+            "desc": ""
+        },
+        {
+            "hash": 947322153,
+            "original": "~z~My ex fucking hated it when I smoked.",
+            "translated": "~z~我前妻贼他妈讨厌我抽烟。",
+            "desc": ""
+        },
+        {
+            "hash": 1018036779,
+            "original": "E1BE_B_CA",
+            "translated": "E1BE_B_CA",
+            "desc": ""
+        },
+        {
+            "hash": 1021057880,
+            "original": "~z~I got enough shit here to get me some serious time.",
+            "translated": "~z~逼事一大堆，我太难了。",
+            "desc": ""
+        },
+        {
+            "hash": 1027499117,
+            "original": "~z~That a light cigarette, you pussy?",
+            "translated": "~z~这是淡烟。你是娘炮吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1027766448,
+            "original": "~z~I always worried about Terry, man.",
+            "translated": "~z~我一直很担心Terry，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 1054149059,
+            "original": "~z~Gentlemen",
+            "translated": "~z~先生们。",
+            "desc": ""
+        },
+        {
+            "hash": 1057580155,
+            "original": "~z~See ya, Terrence.",
+            "translated": "~z~再见了，Terrence。",
+            "desc": ""
+        },
+        {
+            "hash": 1066981206,
+            "original": "~z~I can't give you a freebie, I got alimony to pay.",
+            "translated": "~z~你可不能白嫖。我还要掏扶养费呢。",
+            "desc": ""
+        },
+        {
+            "hash": 1073664538,
+            "original": "~z~You're not getting cash for these weapons, man. Blame Billy.",
+            "translated": "~z~这批家伙你回不了本了，哥们。都怪Billy。",
+            "desc": ""
+        },
+        {
+            "hash": 1107542817,
+            "original": "~z~All good, brother?",
+            "translated": "~z~你还好吗，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 1145989736,
+            "original": "~z~Where were we, Terrence?",
+            "translated": "~z~接着聊吧，Terrence？",
+            "desc": ""
+        },
+        {
+            "hash": 1152006542,
+            "original": "~z~You're a prize jerkoff, man.",
+            "translated": "~z~你这屌毛缺德到家了，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 1155455795,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 1163183146,
+            "original": "020",
+            "translated": "020",
+            "desc": ""
+        },
+        {
+            "hash": 1167317489,
+            "original": "~z~I'm outta here, man. So long.",
+            "translated": "~z~我走了，哥们。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 1186435500,
+            "original": "~z~Shit, man! Don't fuck up the van for the other brothers.",
+            "translated": "~z~妈的，哥们！别把兄弟们的车搞坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 1203391676,
+            "original": "~z~What's goin' on?",
+            "translated": "~z~出什么事了？",
+            "desc": ""
+        },
+        {
+            "hash": 1231784708,
+            "original": "~z~I getting outta here. Shit.",
+            "translated": "~z~我走了，妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 1235720268,
+            "original": "~z~You should smoke a cigar, Terry - much more becoming for a man.",
+            "translated": "~z~抽几支烟吧，Terry。这样才像爷们。",
+            "desc": ""
+        },
+        {
+            "hash": 1252392768,
+            "original": "~z~Shit, Terrence. You have to smoke that now?",
+            "translated": "~z~妈的，Terrence。你非得现在抽？",
+            "desc": ""
+        },
+        {
+            "hash": 1273526434,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1282795305,
+            "original": "~z~You called and I came. Your bike, Johnny.",
+            "translated": "~z~随叫随到。你的摩托，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 1302588772,
+            "original": "~z~You're gonna have to comp these weapons. They're needed.",
+            "translated": "~z~这些武器就别收钱了，征用了。",
+            "desc": ""
+        },
+        {
+            "hash": 1352314190,
+            "original": "~z~Terry, Clay.",
+            "translated": "~z~Terry，Clay。",
+            "desc": ""
+        },
+        {
+            "hash": 1353881679,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 1370497423,
+            "original": "~z~Man, poor Terry",
+            "translated": "~z~天啊，Terry真惨。",
+            "desc": ""
+        },
+        {
+            "hash": 1371672840,
+            "original": "E1BE_A_QA",
+            "translated": "E1BE_A_QA",
+            "desc": ""
+        },
+        {
+            "hash": 1385624670,
+            "original": "~z~Yo, I'll wait here.",
+            "translated": "~z~哟，我在这儿等着。",
+            "desc": ""
+        },
+        {
+            "hash": 1394182142,
+            "original": "~z~Ummm, Terry dude?",
+            "translated": "~z~呃，Terry，老哥？",
+            "desc": ""
+        },
+        {
+            "hash": 1437853871,
+            "original": "~z~Okay then... where we at?",
+            "translated": "~z~那好吧...接着聊？",
+            "desc": ""
+        },
+        {
+            "hash": 1453597912,
+            "original": "~z~Oh yeah. Here we are.",
+            "translated": "~z~哦耶，拿来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1462074500,
+            "original": "~z~Jonathan, I got your bike. Don't go and total it.",
+            "translated": "~z~Jonathan，你的车。别糟蹋了。",
+            "desc": ""
+        },
+        {
+            "hash": 1470216146,
+            "original": "E1BE_B_DA",
+            "translated": "E1BE_B_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1474276475,
+            "original": "E1BE_A_UA",
+            "translated": "E1BE_A_UA",
+            "desc": ""
+        },
+        {
+            "hash": 1488363491,
+            "original": "E1BE_A_FA",
+            "translated": "E1BE_A_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1509933080,
+            "original": "~z~My loyal brothers",
+            "translated": "~z~好兄弟们。",
+            "desc": ""
+        },
+        {
+            "hash": 1533877590,
+            "original": "~z~Bye, my brother.",
+            "translated": "~z~好兄弟，再见。",
+            "desc": ""
+        },
+        {
+            "hash": 1541259596,
+            "original": "~z~You alright boys.",
+            "translated": "~z~还好吧，兄弟们。",
+            "desc": ""
+        },
+        {
+            "hash": 1541287913,
+            "original": "~z~I'm gone, dude. Later.",
+            "translated": "~z~我走了，老哥。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 1556215965,
+            "original": "~z~So Clay, where were we?",
+            "translated": "~z~那，Clay，接着聊吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1560054030,
+            "original": "E1BE_A_AA",
+            "translated": "E1BE_A_AA",
+            "desc": ""
+        },
+        {
+            "hash": 1577363281,
+            "original": "E1BE_A_OA",
+            "translated": "E1BE_A_OA",
+            "desc": ""
+        },
+        {
+            "hash": 1620937440,
+            "original": "~z~Will you wait here, okay?",
+            "translated": "~z~你在这等会，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1682808159,
+            "original": "~z~Thank you for your assistance. I can take it from here.",
+            "translated": "~z~多谢兄弟们帮忙。接下来我自己能行。",
+            "desc": ""
+        },
+        {
+            "hash": 1683996751,
+            "original": "~z~This will do nicely.",
+            "translated": "~z~这就挺不错的。",
+            "desc": ""
+        },
+        {
+            "hash": 1696143256,
+            "original": "~z~You're a good man, Terry.",
+            "translated": "~z~给力啊，Terry。",
+            "desc": ""
+        },
+        {
+            "hash": 1702631729,
+            "original": "~z~Your wheels, sir. Here they are.",
+            "translated": "~z~你的车，先生。骑吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1712863956,
+            "original": "E1BE_A_RA",
+            "translated": "E1BE_A_RA",
+            "desc": ""
+        },
+        {
+            "hash": 1730903696,
+            "original": "~z~Don't treat me like an asshole.",
+            "translated": "~z~别把我当王八。",
+            "desc": ""
+        },
+        {
+            "hash": 1751353360,
+            "original": "~z~So boys, what were we saying?",
+            "translated": "~z~那兄弟们，聊到哪儿了来着？",
+            "desc": ""
+        },
+        {
+            "hash": 1764738527,
+            "original": "~z~Shit, the hell are we waiting for?",
+            "translated": "~z~妈的，咱们在磨蹭啥呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1766293620,
+            "original": "~z~There you are, Johnny.",
+            "translated": "~z~你来啦，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 1786254345,
+            "original": "~z~What were you saying, Clay?",
+            "translated": "~z~说到哪儿了来着，Clay？",
+            "desc": ""
+        },
+        {
+            "hash": 1807639445,
+            "original": "~z~Brothers",
+            "translated": "~z~兄弟们。",
+            "desc": ""
+        },
+        {
+            "hash": 1815592683,
+            "original": "~z~Later, Terry.",
+            "translated": "~z~再见，Terry。",
+            "desc": ""
+        },
+        {
+            "hash": 1846039613,
+            "original": "~z~So long, Johnny. You fucking douche.",
+            "translated": "~z~再见了。Johnny。你妈个逼的。",
+            "desc": ""
+        },
+        {
+            "hash": 1859836760,
+            "original": "~z~I'm going, John. Look after yourself.",
+            "translated": "~z~我走了，John。照顾好自己。",
+            "desc": ""
+        },
+        {
+            "hash": 1865859558,
+            "original": "E1BE_WA",
+            "translated": "E1BE_WA",
+            "desc": ""
+        },
+        {
+            "hash": 1870566831,
+            "original": "~z~Hey man, this is us.",
+            "translated": "~z~嘿，哥们，我们走了。",
+            "desc": ""
+        },
+        {
+            "hash": 1917072506,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 1917858772,
+            "original": "~z~I'll be right here, man.",
+            "translated": "~z~我就在这里，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 1918265088,
+            "original": "290",
+            "translated": "290",
+            "desc": ""
+        },
+        {
+            "hash": 1941648815,
+            "original": "~z~Yo, Johnny. Your bike, sir.",
+            "translated": "~z~哟，Johnny。你的摩托，先生。",
+            "desc": ""
+        },
+        {
+            "hash": 1954475322,
+            "original": "~z~You fucking asshole. That's club property.",
+            "translated": "~z~你妈个逼的。这是帮里的财产啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1978847841,
+            "original": "~z~May the road be tranquil, my brother.",
+            "translated": "~z~一路顺风，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1995211937,
+            "original": "~z~Terry, man, fuck. I need you and Clay's help right now.",
+            "translated": "~z~Terry，哥们，操了。我需要你和Clay现在来帮我。",
+            "desc": ""
+        },
+        {
+            "hash": 2011290667,
+            "original": "E1BE_A_PA",
+            "translated": "E1BE_A_PA",
+            "desc": ""
+        },
+        {
+            "hash": 2028773906,
+            "original": "~z~Ha ha ha. Funny shit.",
+            "translated": "~z~哈哈哈。真搞笑。",
+            "desc": ""
+        },
+        {
+            "hash": 2033131583,
+            "original": "~z~Fuck me, Johnny. Good to see ya.",
+            "translated": "~z~我操，Johnny。见到你真好。",
+            "desc": ""
+        },
+        {
+            "hash": 2037458102,
+            "original": "E1S4_A_GA",
+            "translated": "E1S4_A_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2046668560,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 2053605509,
+            "original": "~z~Go have fun with that, Johnny.",
+            "translated": "~z~嗨起来吧，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 2058548405,
+            "original": "~z~Clayton, can you get down here and fucking help me.",
+            "translated": "~z~Clayton，你他妈能来支援我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2101358898,
+            "original": "~z~Let's get out of here, Terry. Later on, man.",
+            "translated": "~z~快走吧，Terry。再见了，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2140296425,
+            "original": "E1BE_A_CA",
+            "translated": "E1BE_A_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2148027977,
+            "original": "~z~Johnny! The Road Captain has arrived.",
+            "translated": "~z~Johnny！行车长到了。",
+            "desc": ""
+        },
+        {
+            "hash": 2159572284,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2227539591,
+            "original": "~z~You got any haze, Terry? I could do some of that.",
+            "translated": "~z~有烟吗，Terry？来几根。",
+            "desc": ""
+        },
+        {
+            "hash": 2273057556,
+            "original": "~z~Clayton, Terrence, que pasa?",
+            "translated": "~z~Clayton，Terrence，还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2293790700,
+            "original": "~z~Safe travels, man.",
+            "translated": "~z~一路平安，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2301798701,
+            "original": "~z~Terry, dude. I need some help pronto.",
+            "translated": "~z~Terry，老哥。我现在需要支援。",
+            "desc": ""
+        },
+        {
+            "hash": 2307479557,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2353330094,
+            "original": "E1BE_UA",
+            "translated": "E1BE_UA",
+            "desc": ""
+        },
+        {
+            "hash": 2378385771,
+            "original": "~z~Thanks for showing, Johnny.",
+            "translated": "~z~你总算来了，Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 2380123124,
+            "original": "~z~Shit, man, you asked for a favor.",
+            "translated": "~z~妈的，哥们，是你叫我来帮忙的。",
+            "desc": ""
+        },
+        {
+            "hash": 2392353892,
+            "original": "~z~I'm gonna wait here.",
+            "translated": "~z~我在这等着。",
+            "desc": ""
+        },
+        {
+            "hash": 2409490580,
+            "original": "~z~Yo, can you wait here?",
+            "translated": "~z~哟，能不能在这等会？",
+            "desc": ""
+        },
+        {
+            "hash": 2410845976,
+            "original": "~z~Rock and roll.",
+            "translated": "~z~嗨起来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2414494055,
+            "original": "~z~The Feds would love to catch me with this haul, man.",
+            "translated": "~z~被条子人赃俱获就要笑嘻了，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2417079257,
+            "original": "~z~Later on, my brother.",
+            "translated": "~z~再见了，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2437233127,
+            "original": "E1BE_A_GA",
+            "translated": "E1BE_A_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2439911251,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2478890547,
+            "original": "~z~Were splitting, man. See ya.",
+            "translated": "~z~先走一步了，哥们。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 2579480671,
+            "original": "~z~Shit, Clay's down.",
+            "translated": "~z~妈的，Clay倒了。",
+            "desc": ""
+        },
+        {
+            "hash": 2597554972,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 2612776988,
+            "original": "E1BE_A_HA",
+            "translated": "E1BE_A_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2623441157,
+            "original": "E1BE_ZA",
+            "translated": "E1BE_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 2623458419,
+            "original": "~z~Don't cause too much trouble, John boy.",
+            "translated": "~z~搞事情别整过火了，阿强。",
+            "desc": ""
+        },
+        {
+            "hash": 2656935233,
+            "original": "012",
+            "translated": "012",
+            "desc": ""
+        },
+        {
+            "hash": 2660690706,
+            "original": "~z~Jonathan. Greetings.",
+            "translated": "~z~Jonathan，你好啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2676518729,
+            "original": "~z~I thought I was doing you a good turn, dude.",
+            "translated": "~z~我寻思我也没干坏事啊，老哥。",
+            "desc": ""
+        },
+        {
+            "hash": 2684138664,
+            "original": "E1BE_A_VA",
+            "translated": "E1BE_A_VA",
+            "desc": ""
+        },
+        {
+            "hash": 2705056778,
+            "original": "~z~The founding fathers weren't thinkin' of this haul when they wrote the Second Amendment.",
+            "translated": "~z~开国元勋撰写第二修正案时肯定想不到武器黑市吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2713459611,
+            "original": "~z~I can't go giving out freebies, not with the debt collectors on my ass.",
+            "translated": "~z~你可不能白嫖。我还被人追着屁股讨债呢。",
+            "desc": ""
+        },
+        {
+            "hash": 2714052984,
+            "original": "~z~Hey, thanks, Clay.",
+            "translated": "~z~嘿，谢了，Clay。",
+            "desc": ""
+        },
+        {
+            "hash": 2718738702,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2719204214,
+            "original": "~z~Bad shit's going down, Clay. I need your help right now.",
+            "translated": "~z~出事了，Clay。我现在需要支援。",
+            "desc": ""
+        },
+        {
+            "hash": 2720647582,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 2736378447,
+            "original": "~z~Boys, how are you both?",
+            "translated": "~z~兄弟们，最近怎么样？",
+            "desc": ""
+        },
+        {
+            "hash": 2751616062,
+            "original": "~z~Nothing says America like guns and cigarettes.",
+            "translated": "~z~枪支和香烟可是美国最好的象征。",
+            "desc": ""
+        },
+        {
+            "hash": 2803356459,
+            "original": "~z~Shit, I forgot my cigars, man.",
+            "translated": "~z~妈的，出门忘带烟了，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2814363563,
+            "original": "~z~I'm getting outta here, dude.",
+            "translated": "~z~我要走了，老哥。",
+            "desc": ""
+        },
+        {
+            "hash": 2816151499,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2820402424,
+            "original": "E1BE_A_LA",
+            "translated": "E1BE_A_LA",
+            "desc": ""
+        },
+        {
+            "hash": 2831904719,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2834841041,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 2835108336,
+            "original": "~z~Clay, man, we should split. Later Johnny.",
+            "translated": "~z~Clay，哥们。咱要走了。Johnny，再见。",
+            "desc": ""
+        },
+        {
+            "hash": 2869504725,
+            "original": "~z~I think this is a job for one man, now. Later.",
+            "translated": "~z~接下来我一个人就能应付。再见了。",
+            "desc": ""
+        },
+        {
+            "hash": 2888133632,
+            "original": "~z~Enjoy it, brother.",
+            "translated": "~z~享受去吧，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2896580459,
+            "original": "E1BE_A_WA",
+            "translated": "E1BE_A_WA",
+            "desc": ""
+        },
+        {
+            "hash": 2915758685,
+            "original": "~z~T, I'm fucked man. Come help me.",
+            "translated": "~z~T，我完了，哥们。过来救我。",
+            "desc": ""
+        },
+        {
+            "hash": 2936108051,
+            "original": "E1BE_A_JA",
+            "translated": "E1BE_A_JA",
+            "desc": ""
+        },
+        {
+            "hash": 2972728544,
+            "original": "E1BE_YA",
+            "translated": "E1BE_YA",
+            "desc": ""
+        },
+        {
+            "hash": 3005717915,
+            "original": "~z~Sorry, boys...",
+            "translated": "~z~抱歉，兄弟们...",
+            "desc": ""
+        },
+        {
+            "hash": 3010064581,
+            "original": "E1BE_B_AA",
+            "translated": "E1BE_B_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3015599819,
+            "original": "~z~Clay, I'm fucked. Can you get to me?",
+            "translated": "~z~Clay，我完了。你能过来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3048372096,
+            "original": "~z~Terry, Clay, good to see you",
+            "translated": "~z~Terry，Clay，见到你们真好。",
+            "desc": ""
+        },
+        {
+            "hash": 3056957604,
+            "original": "~z~The right to smoke should be written in the Consti-fucking-tution, man. Screw the liberals.",
+            "translated": "~z~吸烟权就他妈该写入宪法，哥们。自由派死一边去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3074442659,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3084352804,
+            "original": "E1BE_A_ZA",
+            "translated": "E1BE_A_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 3106471729,
+            "original": "~z~Fuck, Clay took one.",
+            "translated": "~z~操，Clay被打中了。",
+            "desc": ""
+        },
+        {
+            "hash": 3108891335,
+            "original": "~z~Thanks for nothing, man.",
+            "translated": "~z~谢谢您啊，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 3166875857,
+            "original": "~z~Sorry boys, where were we?",
+            "translated": "~z~不好意思，兄弟们，接着聊吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3176299164,
+            "original": "~z~Johnny, I think it's time me and Clay got outta here. Later.",
+            "translated": "~z~Johnny，我和Clay该走了。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 3191562362,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3193211272,
+            "original": "~z~Clay. Shit. This is one fucked up life we're livin'.",
+            "translated": "~z~Clay。妈的。这他妈啥跟啥啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3221761528,
+            "original": "~z~Shit, Johnny. I'm freezing my ass off here.",
+            "translated": "~z~妈的，Johnny。我屁股要冻掉了。",
+            "desc": ""
+        },
+        {
+            "hash": 3233566449,
+            "original": "~z~Terry, man, you're cool.",
+            "translated": "~z~Terry，哥们，你真牛啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3236821354,
+            "original": "~z~Okay, this will do the trick.",
+            "translated": "~z~好啊。这东西好用。",
+            "desc": ""
+        },
+        {
+            "hash": 3333497111,
+            "original": "~z~Johnny, man. I hope that SOB you're after deserves it.",
+            "translated": "~z~Johnny，哥们。希望你要去找麻烦的人是真的欠揍。",
+            "desc": ""
+        },
+        {
+            "hash": 3371726416,
+            "original": "E1BE_XA",
+            "translated": "E1BE_XA",
+            "desc": ""
+        },
+        {
+            "hash": 3374797846,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3413836008,
+            "original": "~z~That smells like shit. Fork out some cash for good tobacco next time.",
+            "translated": "~z~闻着跟屎一样。下次出点血买包好烟吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3419773930,
+            "original": "~z~Dude, why you fucking with the van.",
+            "translated": "~z~老哥，你乱搞车子干啥。",
+            "desc": ""
+        },
+        {
+            "hash": 3428111259,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 3431503967,
+            "original": "~z~Clay, get off you ass and come help me. Shit's fucked.",
+            "translated": "~z~Clay，赶紧过来救我。出大事了。",
+            "desc": ""
+        },
+        {
+            "hash": 3440262062,
+            "original": "~z~Catching a look at this arsenal's gonna put a smile on your face, man.",
+            "translated": "~z~看见军火库能让你喜笑颜开，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 3449318735,
+            "original": "~z~We ain't paying for this stuff, Terry. It's being used for the Club.",
+            "translated": "~z~这批货就不给钱了，Terry。失落帮征用了。",
+            "desc": ""
+        },
+        {
+            "hash": 3453418559,
+            "original": "290",
+            "translated": "290",
+            "desc": ""
+        },
+        {
+            "hash": 3454055052,
+            "original": "~z~Terrence. Get down here and help me quick.",
+            "translated": "~z~Terrence。快点过来救我。",
+            "desc": ""
+        },
+        {
+            "hash": 3457345950,
+            "original": "~z~Thanks for your assistance, my brother.",
+            "translated": "~z~谢谢你的帮助，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3470055640,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3480955861,
+            "original": "~z~Clay, brother, I'm sorry.",
+            "translated": "~z~Clay，兄弟，对不起。",
+            "desc": ""
+        },
+        {
+            "hash": 3513857132,
+            "original": "~z~I appreciate this assistance.",
+            "translated": "~z~多谢你们来支援。",
+            "desc": ""
+        },
+        {
+            "hash": 3541523712,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3544919623,
+            "original": "E1BE_A_XA",
+            "translated": "E1BE_A_XA",
+            "desc": ""
+        },
+        {
+            "hash": 3573521761,
+            "original": "~z~Ummm, remind me why I got outta bed, will you?",
+            "translated": "~z~呃，给我一个出门支援你的理由，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3608087867,
+            "original": "~z~Taa da.",
+            "translated": "~z~看看吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3620815826,
+            "original": "E1BE_A_DA",
+            "translated": "E1BE_A_DA",
+            "desc": ""
+        },
+        {
+            "hash": 3680323652,
+            "original": "~z~OK, enough of this tire kicking...",
+            "translated": "~z~好了，差不多到点了...",
+            "desc": ""
+        },
+        {
+            "hash": 3692313703,
+            "original": "~z~Jesus, Johnny. The van.",
+            "translated": "~z~天哪，Johnny，别碰车子。",
+            "desc": ""
+        },
+        {
+            "hash": 3694200286,
+            "original": "~z~Terrence, you never cease to amaze.",
+            "translated": "~z~Terrence，你总是让人惊喜。",
+            "desc": ""
+        },
+        {
+            "hash": 3715352352,
+            "original": "~z~Fucking doctors ain't gonna stop me smoking...",
+            "translated": "~z~医生别他妈想拦着我抽烟...",
+            "desc": ""
+        },
+        {
+            "hash": 3751695879,
+            "original": "~z~Brother. I need some help right fucking now.",
+            "translated": "~z~好兄弟，老子现在急需支援。",
+            "desc": ""
+        },
+        {
+            "hash": 3753751261,
+            "original": "~z~So... um.... What the fuck?",
+            "translated": "~z~那...呃...搞毛啊？",
+            "desc": ""
+        },
+        {
+            "hash": 3761913794,
+            "original": "~z~Where are you, man? I'm in a whole world of shit.",
+            "translated": "~z~你在哪呢，哥们？我现在有大麻烦。",
+            "desc": ""
+        },
+        {
+            "hash": 3794016534,
+            "original": "~z~I can lone wolf it from here. I'll see you soon.",
+            "translated": "~z~剩下的我自己来吧。再见了。",
+            "desc": ""
+        },
+        {
+            "hash": 3869609604,
+            "original": "E1BE_A_TA",
+            "translated": "E1BE_A_TA",
+            "desc": ""
+        },
+        {
+            "hash": 3882855928,
+            "original": "~z~Check her out.",
+            "translated": "~z~看看吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3896045209,
+            "original": "E1BE_A_IA",
+            "translated": "E1BE_A_IA",
+            "desc": ""
+        },
+        {
+            "hash": 3898091730,
+            "original": "~z~Shit, you're strapped. I can't help you man.",
+            "translated": "~z~妈的，你没钱，我很难帮你啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3917170264,
+            "original": "~z~I don't keeping stationary, man.",
+            "translated": "~z~我不想傻愣着，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 3919356085,
+            "original": "~z~Brothers for life, Terry.",
+            "translated": "~z~生死兄弟情，Terry。",
+            "desc": ""
+        },
+        {
+            "hash": 3933879009,
+            "original": "~z~Much appreciated, Clayton.",
+            "translated": "~z~多谢了，Clayton。",
+            "desc": ""
+        },
+        {
+            "hash": 3983640492,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3989171477,
+            "original": "~z~How about this?",
+            "translated": "~z~这样如何？",
+            "desc": ""
+        },
+        {
+            "hash": 3997379730,
+            "original": "012",
+            "translated": "012",
+            "desc": ""
+        },
+        {
+            "hash": 4018989906,
+            "original": "~z~Shit, I love a smoke.",
+            "translated": "~z~妈的，我太爱抽烟了。",
+            "desc": ""
+        },
+        {
+            "hash": 4027041276,
+            "original": "~z~You're doing a good job, Road Captain.",
+            "translated": "~z~干得不错，行车长。",
+            "desc": ""
+        },
+        {
+            "hash": 4028132623,
+            "original": "~z~Clay, dude, shit.",
+            "translated": "~z~Clay，老哥。妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 4040405571,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 4045021069,
+            "original": "~z~Well... Well... Well.",
+            "translated": "~z~好了...好了...好了。",
+            "desc": ""
+        },
+        {
+            "hash": 4047426943,
+            "original": "E1BE_A_NA",
+            "translated": "E1BE_A_NA",
+            "desc": ""
+        },
+        {
+            "hash": 4059997194,
+            "original": "~z~Okay, dude, we'll keep steady right here.",
+            "translated": "~z~好的，老哥。咱们就守住这里。",
+            "desc": ""
+        },
+        {
+            "hash": 4065508036,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 4087006798,
+            "original": "~z~Here she is.",
+            "translated": "~z~都在这呢。",
+            "desc": ""
+        },
+        {
+            "hash": 4105023795,
+            "original": "210",
+            "translated": "210",
+            "desc": ""
+        },
+        {
+            "hash": 4106151850,
+            "original": "~z~Terry, man. Poor fucker's fallen.",
+            "translated": "~z~Terry啊。这衰仔完了。",
+            "desc": ""
+        },
+        {
+            "hash": 4155310307,
+            "original": "~z~Just some brothers having a good time.",
+            "translated": "~z~几个兄弟一起嗨就完了。",
+            "desc": ""
+        },
+        {
+            "hash": 4164013922,
+            "original": "020",
+            "translated": "020",
+            "desc": ""
+        },
+        {
+            "hash": 4171286031,
+            "original": "~z~I think I got all the help I needed. See you.",
+            "translated": "~z~确实不用麻烦你们了。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 4186729166,
+            "original": "~z~Sweet.",
+            "translated": "~z~真不错。",
+            "desc": ""
+        },
+        {
+            "hash": 4193433150,
+            "original": "E1BE_A_SA",
+            "translated": "E1BE_A_SA",
+            "desc": ""
+        },
+        {
+            "hash": 4254683988,
+            "original": "~z~I got overheads, man.",
+            "translated": "~z~我还要吃饭呢，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 4257771500,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        }
+    ]
+}
